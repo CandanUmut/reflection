@@ -81,8 +81,10 @@ const groups = refs.map((ref) => ({ ref, verses: expandRef(ref).map((r) => getVe
     margin: 0;
     font-variation-settings: 'SOFT' 100;
   }
+  /* Long translations read better ragged-right than centred; the Arabic stays centred. */
   .verses--small .verse__translation p {
     font-size: var(--step-0);
+    text-align: left;
   }
   .verse__credit {
     font-family: var(--font-ui);

@@ -1,12 +1,14 @@
 ---
 // M2 visualization: one hundred parts of mercy, one of them on earth.
 // Still, not animated: the point is to be counted, slowly, by the eye.
-import { t, type Locale } from '../i18n/ui';
+import type { Locale } from '../i18n/ui';
 interface Props {
   lang: Locale;
   title: string;
+  /** Visible caption, which is also the text equivalent of the figure. */
+  caption: string;
 }
-const { lang, title } = Astro.props;
+const { title, caption } = Astro.props;
 const cells = Array.from({ length: 100 }, (_, i) => ({
   x: (i % 10) * 20 + 10,
   y: Math.floor(i / 10) * 20 + 10,
@@ -16,12 +18,12 @@ const cells = Array.from({ length: 100 }, (_, i) => ({
 
 <figure class="hundred">
   <figcaption class="label">{title}</figcaption>
-  <svg viewBox="0 0 200 200" role="img" aria-label={t(lang, 'hundredCaption')} focusable="false">
+  <svg viewBox="0 0 200 200" aria-hidden="true" focusable="false">
     {cells.map((c) => (
       <circle class:list={['part', { 'part--lit': c.lit }]} cx={c.x} cy={c.y} r={c.lit ? 5 : 4} />
     ))}
   </svg>
-  <p class="hundred__text">{t(lang, 'hundredCaption')}</p>
+  <p class="hundred__text">{caption}</p>
 </figure>
 
 <style>

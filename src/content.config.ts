@@ -12,6 +12,8 @@ const source = z.object({ label: z.union([z.string(), text]), url: z.url().optio
 const slug = z.object({ tr: z.string().regex(/^[a-z0-9-]+$/), en: z.string().regex(/^[a-z0-9-]+$/) });
 const visualization = text.extend({
   id: z.string(),
+  /** Text shown with a built visualization (and its text equivalent). */
+  caption: text.optional(),
   steps: z.object({ tr: z.array(z.string()), en: z.array(z.string()) }).optional(),
 });
 
@@ -51,7 +53,7 @@ const questions = defineCollection({
     /** "high" = the research marks it high-sensitivity. */
     sensitivity: z.enum(['normal', 'high']),
     /** Suffering, grief, disasters, vesvese: show the gentle help card. */
-    helpCard: z.union([z.literal(false), z.enum(['general', 'disaster'])]),
+    helpCard: z.union([z.literal(false), z.enum(['vesvese', 'disaster'])]),
     verses: z.array(verseRef),
     title: text,
     summary: text.optional(),

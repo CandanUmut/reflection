@@ -73,16 +73,13 @@ export const ui = {
     evidence: 'Araştırmalar ne diyor',
     stories: 'Hayattan örnekler',
     gapsLabel: 'İdeal ile pratik arasındaki boşluk',
-    helpTitle: 'Destek almak bir zayıflık değildir',
-    helpBody:
-      'Bu düşünceler gününün büyük kısmını alıyor ya da seni yoruyorsa, bir ruh sağlığı uzmanıyla konuşmak yardımcı olur. Yardım istemek imanla çelişmez.',
-    helpEmergency: 'Acil bir durumdaysan: 112',
-    helpClinics: 'Düzenli destek için: üniversite hastanelerinin psikiyatri klinikleri',
+    helpTitle: 'Destek almak mümkün',
+    helpVesvese:
+      'Bu düşünceler ya da kontrol döngüleri sık ve yoğun biçimde tekrar ediyorsa, bir ruh sağlığı uzmanıyla konuşmak yardımcı olabilir. Dinî titizlik tedavi edilebilir ve yardım istemek imanla çelişmez.',
+    helpEmergency: 'Acil bir durumda:',
+    helpClinics: 'Düzenli destek için: Toplum Ruh Sağlığı Merkezleri (TRSM) ve üniversite klinikleri',
     helpAfad: 'Afet sonrası psikososyal destek: AFAD',
     helpElsewhere: 'Türkiye dışındaysan: bulunduğun ülkenin acil yardım numarası ya da bir doktor',
-    sensitive: 'Hassas konu',
-    hundredCaption:
-      'Rahmet yüz parçadır; yalnızca biri yeryüzüne indirildi (Buhârî 6000). Doksan dokuzu âhiret için saklıdır (Müslim 2752).',
     footerTexts:
       'Arapça metin ve mealler (Elmalılı Hamdi Yazır, sadeleştirilmiş baskı; Saheeh International), değiştirilmeden:',
     footerTranslit: 'Kelime kelime okunuş:',
@@ -158,16 +155,13 @@ export const ui = {
     evidence: 'What research says',
     stories: 'From life',
     gapsLabel: 'The gap between ideal and practice',
-    helpTitle: 'Getting support is not a weakness',
-    helpBody:
-      'If these thoughts take up much of your day or wear you down, talking with a mental-health professional helps. Seeking help is consistent with faith.',
-    helpEmergency: 'In an emergency in Türkiye: 112',
-    helpClinics: 'For ongoing support in Türkiye: university hospital psychiatry clinics',
+    helpTitle: 'Support is available',
+    helpVesvese:
+      'If these thoughts or checking loops come back often and strongly, talking with a mental-health professional can help. Scrupulosity is treatable, and seeking help is consistent with faith.',
+    helpEmergency: 'In an emergency in Türkiye:',
+    helpClinics: 'For ongoing support in Türkiye: community mental health centres (TRSM) and university clinics',
     helpAfad: 'Psychosocial support after disasters in Türkiye: AFAD',
     helpElsewhere: 'Elsewhere: your local emergency number, or a doctor',
-    sensitive: 'Sensitive topic',
-    hundredCaption:
-      'Mercy is in one hundred parts; only one was sent down to the earth (Bukhārī 6000). Ninety-nine are kept for the Hereafter (Muslim 2752).',
     footerTexts:
       'Arabic text and translations (Saheeh International; Elmalılı Hamdi Yazır, simplified edition), unchanged:',
     footerTranslit: 'Word-by-word transliteration:',

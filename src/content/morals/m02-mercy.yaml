@@ -11,15 +11,15 @@ title:
   tr: Rahmet ve ihsan
   en: Mercy and iḥsān
 summary:
-  tr: Rahmet her şeyi kuşatır. Kur'an, Hz. Peygamber'i âlemlere rahmet olarak tanıtır ve kaba, katı bir dilin insanları uzaklaştıracağını söyler.
-  en: Mercy encompasses all things. The Quran presents the Prophet as a mercy to the worlds, and says that harshness would have driven people away.
+  tr: Allah'ın rahmeti her şeyi kuşatır (7:156). Kur'an Hz. Peygamber'i âlemlere rahmet olarak tanıtır ve onun kaba, katı yürekli olsaydı insanların etrafından dağılıp gideceğini söyler (3:159).
+  en: God's mercy encompasses all things (7:156). The Quran presents the Prophet as a mercy to the worlds, and says that had he been harsh and hard-hearted, people would have scattered from him (3:159).
 hadith:
   tr: |
-    - Allah rahmeti yüz parça kıldı ve bunun yalnızca bir parçasını yeryüzüne indirdi (Buhârî 6000). Başka bir rivayete göre doksan dokuz parçası âhiret için saklanmıştır (Müslim 2752).
+    - Allah rahmeti yüz parça kıldı ve bunun yalnızca bir parçasını yeryüzüne indirdi (Buhârî 6000). Doksan dokuz parçası âhiret için saklıdır (Müslim 2752).
     - Allah her şeyde ihsanı (güzel davranmayı) emretmiştir (Müslim 1955).
     - Susuz kalmış bir köpeğe su veren kadın (Buhârî 3467).
   en: |
-    - God made mercy in one hundred parts and sent down only one of them to the earth (Bukhārī 6000). Another narration says ninety-nine parts are kept for the Hereafter (Muslim 2752).
+    - God made mercy in one hundred parts and sent down only one of them to the earth (Bukhārī 6000). Ninety-nine parts are kept for the Hereafter (Muslim 2752).
     - God has prescribed iḥsān (doing things beautifully and well) in all things (Muslim 1955).
     - The woman who gave water to a thirsty dog (Bukhārī 3467).
 gaps:
@@ -29,5 +29,8 @@ visualizations:
   - id: hundred-parts
     tr: Rahmetin yüz parçası
     en: One hundred parts of mercy
+    caption:
+      tr: Rahmet yüz parçadır; yalnızca biri yeryüzüne indirildi (Buhârî 6000). Doksan dokuzu âhiret için saklıdır (Müslim 2752).
+      en: Mercy is in one hundred parts; only one was sent down to the earth (Bukhārī 6000). Ninety-nine are kept for the Hereafter (Muslim 2752).
 sources:
   - label: Ṣaḥīḥ al-Bukhārī 6000, 3467; Ṣaḥīḥ Muslim 1955, 2752

@@ -6,7 +6,7 @@ slugs:
 order: 8
 theme: doubt
 sensitivity: high
-helpCard: general
+helpCard: vesvese
 verses: ["2:286"]
 title:
   tr: Şüphe etmek günah mı? Aklıma sürekli küfür gibi düşünceler geliyor.
@@ -15,7 +15,7 @@ steelman:
   tr: Allah hakkında istemediğim düşünceler durmadan geliyor. Namazımı ve abdestimi tekrar tekrar kontrol ediyorum. Gerçek bir mümin bu düşünceleri yaşar mı?
   en: Unchosen thoughts about God keep coming, and I recheck my prayer and ablution. Would a real believer have these thoughts?
 whyAsked:
-  tr: Dinî titizlik takıntısı (vesvese) dindar insanlarda sık görülür ve çoğu zaman takvanın arkasına gizlenir.
+  tr: Dinî titizlik takıntısı (vesvese) dindar insanlarda sık görülür ve takvanın arkasına gizlenir.
   en: Scrupulosity (vesvese) is common in religious people and hides behind piety.
 shortAnswer:
   tr: |
@@ -36,7 +36,7 @@ layers:
   - kind: clinical
     tr: |
       - Dinî titizlik (skrupulozite), OKB hastalarının yaklaşık **%5–33**'ünde görülür.
-      - Bu hastaların yaklaşık **%70**'i, durumun dinî pratiklerini aksattığını bildirir.
+      - Dinî titizlik yaşayan hastaların yaklaşık **%70**'i, durumun dinî pratiklerini aksattığını bildirir.
       - Dinî temalı OKB, Orta Doğu örneklemlerinde ortalama yaklaşık **%52**, Türkiye'de yaklaşık **%27** oranında görülür. [Scholarly] Örneklemler farklılık gösterir.
       - İbn Haldun Üniversitesi'nde İslam'la bütünleştirilmiş bir psikoterapi yöntemi (TIIP) üzerine yürütülen klinik çalışma (NCT07872462) Mart 2026'da tamamlandı; araştırma yazıldığında sonuçları henüz yayımlanmamıştı.
     en: |
@@ -46,7 +46,7 @@ layers:
       - A trial of Traditional Islamically Integrated Psychotherapy (TIIP) at Ibn Haldun University (NCT07872462) was completed in March 2026; when the research was written, its results were not yet available.
   - kind: psychological
     tr: |
-      Yaqeen Enstitüsü'ne göre vesvese, OKB'nin dinî bir görünümüdür; bir "Müslüman hastalığı" değildir. Bu yüzden bir klinisyen ile bir imamın birlikte çalışması gerekir.
+      Yaqeen Enstitüsü'ne göre vesvese, OKB'nin dinî bir görünümüdür; bir "Müslüman hastalığı" değildir. Bir klinisyen ile bir imamın birlikte çalışmasını gerektirir.
     en: |
       Yaqeen Institute describes waswasa as a religious presentation of OCD, not a "Muslim disease". It needs a clinician and an imam to work together.
 honestLimits:
@@ -63,16 +63,13 @@ visualizations:
     tr: Müslim 132 hadisinin canlandırması
     en: An animation of the hadith in Muslim 132
 sources:
-  - label: Ṣaḥīḥ Muslim 127 and 132; Ṣaḥīḥ al-Bukhārī 5269
+  - label: Ṣaḥīḥ Muslim 127, 132; Ṣaḥīḥ al-Bukhārī 5269
   - label: Yaqeen Institute — "Clinicians, Imams, and the Whisperings of Satan"
     url: https://yaqeeninstitute.org/read/paper/clinicians-imams-and-the-whisperings-of-satan
   - label:
       tr: '"Scrupulosity and Islam: a perspective" (dinî titizlik ve İslam üzerine bir değerlendirme)'
       en: '"Scrupulosity and Islam: a perspective"'
-  - label:
-      tr: PMC — dinî titizlik (skrupulozite) üzerine makale
-      en: PMC — article on scrupulosity
-    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12025576/
   - label: '"From Doubt to Direction" (PMC)'
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12025576/
   - label: ClinicalTrials.gov — NCT07872462
     url: https://clinicaltrials.gov/study/NCT07872462

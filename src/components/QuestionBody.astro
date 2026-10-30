@@ -28,10 +28,7 @@ const layerLabel: Record<string, UiKey> = {
 
 <article class="question wrap">
   <header class="question__head">
-    <p class="label">
-      {q.id}
-      {q.sensitivity === 'high' && <> · {t(lang, 'sensitive')}</>}
-    </p>
+    <p class="label">{q.id}</p>
     <h1>{q.title[lang]}</h1>
   </header>
 
@@ -141,7 +138,7 @@ const layerLabel: Record<string, UiKey> = {
     display: none;
   }
   summary::after {
-    content: '+';
+    content: '+' / '';
     font-family: var(--font-ui);
     color: var(--ink-soft);
     transition: transform var(--dur-ui) var(--ease-breath);

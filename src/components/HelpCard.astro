@@ -6,7 +6,7 @@
 import { t, type Locale } from '../i18n/ui';
 interface Props {
   lang: Locale;
-  variant: 'general' | 'disaster';
+  variant: 'vesvese' | 'disaster';
 }
 const { lang, variant } = Astro.props;
 ---
@@ -15,12 +15,14 @@ const { lang, variant } = Astro.props;
   <h2 class="help__title" id="help-title">
     {t(lang, 'helpTitle')}
   </h2>
-  <p>{t(lang, 'helpBody')}</p>
+  {variant === 'vesvese' && <p>{t(lang, 'helpVesvese')}</p>}
   <ul>
-    <li>{t(lang, 'helpEmergency')}</li>
     <li>{t(lang, 'helpClinics')}</li>
     {variant === 'disaster' && <li>{t(lang, 'helpAfad')}</li>}
     <li>{t(lang, 'helpElsewhere')}</li>
+    <li>
+      {t(lang, 'helpEmergency')} <a href="tel:112">112</a>
+    </li>
   </ul>
 </aside>
 
@@ -28,7 +30,7 @@ const { lang, variant } = Astro.props;
   .help {
     margin-block: var(--space-5);
     padding: var(--space-4);
-    border: 1px solid var(--hairline-strong);
+    border: 1px solid var(--hairline);
     border-radius: var(--radius);
     background: var(--paper-deep);
   }

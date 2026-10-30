@@ -5,6 +5,10 @@ name: Deploy to GitHub Pages
 on:
   push:
     branches: [main]
+  # Rebuild every day just after midnight in Türkiye (21:05 UTC), so the
+  # Threshold's verse of the day is already in the page and nothing swaps.
+  schedule:
+    - cron: '5 21 * * *'
   workflow_dispatch:
 
 permissions:

@@ -20,7 +20,8 @@ const daily = refs.map((r) => ({
 }));
 // Build-time choice, shown without JavaScript. With JavaScript the slot stays
 // hidden until the script has put in the visitor's own day, so nothing swaps.
-const dayIndex = Math.floor(Date.now() / 86400000) % daily.length;
+// Turkish local day (UTC+3), matching the daily rebuild in deploy.yml.
+const dayIndex = Math.floor((Date.now() + 3 * 3600000) / 86400000) % daily.length;
 const arches = [
   { key: 'reflect', href: links.reflect, label: t(lang, 'reflect'), hint: t(lang, 'reflectHint') },
   { key: 'live', href: links.live, label: t(lang, 'live'), hint: t(lang, 'liveHint') },

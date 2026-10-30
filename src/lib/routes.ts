@@ -7,7 +7,8 @@ export type Section = 'signs' | 'morals' | 'questions';
 /** The URL segment of each section: the three doors of the Threshold. */
 export const sectionSegment: Record<Section, Record<Locale, string>> = {
   signs: { tr: 'tefekkur', en: 'reflect' },
-  morals: { tr: 'yasa', en: 'live' },
+  // "yaşa" without its ş would read "yasa" (law) in a URL, so the path says "yaşam" (life).
+  morals: { tr: 'yasam', en: 'live' },
   questions: { tr: 'sor', en: 'ask' },
 };
 

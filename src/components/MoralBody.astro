@@ -34,7 +34,9 @@ const hundred = m.visualizations.find((v) => v.id === 'hundred-parts');
       <section class="moral__section" aria-labelledby={`m-${k}`}>
         <h2 id={`m-${k}`}>{t(lang, k as UiKey)}</h2>
         <Fragment set:html={md(m[k]?.[lang], lang)} />
-        {k === 'hadith' && hundred && <HundredParts lang={lang} title={hundred[lang]} />}
+        {k === 'hadith' && hundred && (
+          <HundredParts lang={lang} title={hundred[lang]} caption={hundred.caption?.[lang] ?? ''} />
+        )}
       </section>
     ))}
     <HonestNote lang={lang} label={t(lang, 'gapsLabel')}>
