@@ -21,6 +21,7 @@ You are building something meant to be **admired for its beauty and trusted for 
    - `01-batch-1.md` — question catalog, Q1–Q8, signs S1–S9, morals M1–M7, presentation guidance
    - `02-batch-2.md` — measured question data, Q9–Q16, signs S10–S12, presentation updates
    - `03-signs-S13-S33.md` — signs S13–S33
+   - `04-morals-M8-M15.md` — moral themes M8–M15
    - further files as they are added (moral themes M8+, questions Q17+)
 
 Do not invent religious or scientific content. Everything shown on the site must come from these docs. If something is missing, write it in `docs/CONTENT_GAPS.md` and ask.

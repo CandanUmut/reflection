@@ -19,6 +19,7 @@ Research and design stage. The site has not been built yet.
 | `docs/research/01-batch-1.md` | Question catalog, deep answers Q1–Q8, signs S1–S9, moral themes M1–M7 |
 | `docs/research/02-batch-2.md` | Measured question data, deep answers Q9–Q16, signs S10–S12 |
 | `docs/research/03-signs-S13-S33.md` | Signs for reflection S13–S33 |
+| `docs/research/04-morals-M8-M15.md` | Moral themes M8–M15 |
 | `.claude/agents/` | Two independent review agents: `critic` (code and design) and `content-critic` (accuracy and honesty) |
 | `CLAUDE.md` | Project rules for Claude Code |
 
