@@ -1,0 +1,31 @@
+slugs: { tr: gayrimuslim-sevdiklerim, en: non-muslim-loved-ones }
+theme: salvation
+title: Gayrimüslim sevdiklerim kaybolmuş mu?
+sensitivity: high
+helpCard: suffering
+verses: ["17:15"]
+steelman: |
+  İyi kalpli büyükannemin mahkûm olduğuna inanmak zorunda mıyım?
+whyAsked: |
+  Yas ve farklı inançlardan oluşan aileler.
+shortAnswer: |
+  Kalpleri yalnızca Allah bilir. Pek çok klasik âlim, mesajı açıkça hiç duymamış insanları mazur gördü. Yas tutabilir, ümit edebilir ve onları anabilirsin.
+layers:
+  4: |
+    "Biz bir peygamber göndermedikçe azap etmeyiz" (17:15). Gazzâlî (*Faysal*) İslam'ın çarpıtılmış bir resmini alanları mazur görür. 9:113 bazı ölüler için af dilemeyi sınırlar. Hz. Peygamber annesinin kabri başında ağladı (Müslim 976). Ayrıca bkz. Q14.
+  5: |
+    Allah'ın her insana dair bilgisi tamdır; bizimki değildir.
+  6: |
+    Farklı inançlardan oluşan aileler artıyor.
+  7: |
+    Yas danışmanlığı yardımcı olur.
+honest: |
+  Âlimler bu metinlerin nasıl uygulanacağı konusunda farklı görüşlere sahiptir ve kimse kimsenin nihai durumunu bilmez.
+enOverrides:
+  # "Q14 (Batch 2)": batch name dropped.
+  layers:
+    4: |
+      "We do not punish until We send a messenger" (17:15). Al-Ghazālī (*Fayṣal*) excuses those who received a distorted picture of Islam. 9:113 restricts asking forgiveness for some of the dead. The Prophet wept at his mother's grave (Muslim 976). See also Q14.
+visualization: |
+  Bir mektuplar kartı. Bir rahmet kaydırıcısı. "Benim bildiğim ve Allah'ın bildiği" şeması.
+sourceLabels: ['Gazzâlî, *Faysal* (çev. S. Jackson 2002)', null, null, 'İbn Kayyim, *Hâdi''l-ervâh* (Arapça)']

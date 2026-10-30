@@ -1,0 +1,24 @@
+slugs: { tr: mucize-ve-tabiat-kanunlari, en: miracles-and-natural-laws }
+theme: science
+title: Mucizeler ve tabiat kanunları
+verses: []
+steelman: |
+  Hume, bir mucizeye dair tanıklığın her zaman bir hatadan daha az olası olduğunu savundu.
+whyAsked: |
+  Fen, teknoloji, mühendislik ve matematik öğrencileri arasında yaygındır.
+shortAnswer: |
+  Gazzâlî'ye göre tabiattaki düzenlilik Allah'ın âdetidir (*âdet*) ve mucizeler anlamlı işaretlerdir. Hume, kanıtlaması gereken şeyi varsayar.
+layers:
+  4: |
+    Gazzâlî *Tehâfüt*'ün 17. meselesinde, gözlemin yalnızca iki olayın birlikte gerçekleştiğini gösterdiğini, birinin ötekine zorunlu olarak sebep olduğunu göstermediğini savunur. Griffel (SEP), onun hem vesileciliğe hem ikincil sebepliliğe izin verdiğini savunur. İbn Rüşd, sebepleri inkâr etmenin bilgiyi yok ettiği cevabını verdi.
+  5: |
+    Kanunlar düzenlilikleri tarif eder; zorlamaz.
+  6: |
+    Cartwright ve Mumford kanunları idealleştirmeler olarak ele alır.
+  7: |
+    Yalnızca mucizelere dayanan iman kırılgandır.
+honest: |
+  Mucizeleri kabul etmek, önceden Allah'a inanmaya bağlıdır.
+visualization: |
+  Ateş ve pamuk. "Âdet ve kanun." Üç düşünürün karşılaştırması.
+sourceLabels: ['Gazzâlî, *Tehâfüt*', 'İbn Rüşd, *Tehâfütü''t-tehâfüt*', null, 'SEP, "Vesilecilik" (Occasionalism)', 'Hume, *Enquiry* §10', 'Gazzâlî ile İbn Rüşd arasındaki tartışmada nedensellik']
