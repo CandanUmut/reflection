@@ -43,6 +43,7 @@ const description = rawDescription
   description={description}
   altPath={itemPath(section, data.slugs, otherLocale(lang))}
   section={section}
+  arabic
 >
   {entry.collection === 'signs' && <SignBody sign={entry.data} lang={lang} />}
   {entry.collection === 'questions' && <QuestionBody q={entry.data} lang={lang} />}

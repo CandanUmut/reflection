@@ -1,10 +1,11 @@
 ---
-import '@fontsource-variable/literata/wght.css';
-import '@fontsource-variable/literata/wght-italic.css';
-import '../styles/fraunces.css';
-import '@fontsource-variable/inter/wght.css';
-import '@fontsource/ibm-plex-mono/400.css';
-import '@fontsource/amiri-quran/400.css';
+// Latin faces are subsetted by scripts/subset-fonts.py (one stylesheet, ~450 KB
+// for all faces instead of ~1.7 MB); Amiri Quran keeps its full Arabic set.
+import '../styles/fonts.css';
+import '../styles/amiri.css';
+import amiri from '../../node_modules/@fontsource/amiri-quran/files/amiri-quran-arabic-400-normal.woff2?url';
+import frauncesItalicA from '../styles/fonts/fraunces-italic-a.woff2?url';
+import frauncesItalicB from '../styles/fonts/fraunces-italic-b.woff2?url';
 import '../styles/global.css';
 import { palettes } from '../styles/palettes.mjs';
 import { paletteScript } from '../lib/palette-script';
@@ -23,14 +24,29 @@ interface Props {
   standalone?: boolean;
   /** The section this page belongs to, marked in the navigation. */
   section?: Section;
+  /** Preload the Arabic font (pages that show verses). */
+  arabic?: boolean;
+  /** The Threshold: preload the verse of the day's italic face. */
+  home?: boolean;
 }
-const { lang, title, description, altPath = '', standalone = false, section } = Astro.props;
+const {
+  lang,
+  title,
+  description,
+  altPath = '',
+  standalone = false,
+  section,
+  arabic = false,
+  home = false,
+} = Astro.props;
 const sections = [
   ['signs', 'sectionSigns'],
   ['morals', 'sectionMorals'],
   ['questions', 'sectionQuestions'],
 ] as const;
 const other = otherLocale(lang);
+// Absolute URLs for search engines and link previews.
+const abs = (path: string) => new URL(path, Astro.site).href;
 const fullTitle = title === t(lang, 'siteName') ? title : `${title} · ${t(lang, 'siteName')}`;
 
 // One source of truth for colors: palettes.mjs → CSS custom properties.
@@ -53,7 +69,31 @@ const paletteCss = [
     <title>{fullTitle}</title>
     {description && <meta name="description" content={description} />}
     <link rel="icon" href={url('favicon.svg')} type="image/svg+xml" />
-    {!standalone && <link rel="alternate" hreflang={other} href={localeUrl(other, altPath)} />}
+    {/* Preload only what paints the largest text first: the Arabic verse on item
+        pages, the italic verse of the day on the home page. */}
+    {arabic && <link rel="preload" href={amiri} as="font" type="font/woff2" crossorigin />}
+    {home && <link rel="preload" href={frauncesItalicA} as="font" type="font/woff2" crossorigin />}
+    {home && lang === 'tr' && <link rel="preload" href={frauncesItalicB} as="font" type="font/woff2" crossorigin />}
+    {!standalone && (
+      <>
+        <link rel="canonical" href={abs(Astro.url.pathname)} />
+        <link rel="alternate" hreflang={lang} href={abs(Astro.url.pathname)} />
+        <link rel="alternate" hreflang={other} href={abs(localeUrl(other, altPath))} />
+        <link
+          rel="alternate"
+          hreflang="x-default"
+          href={abs(lang === 'tr' ? Astro.url.pathname : localeUrl('tr', altPath))}
+        />
+      </>
+    )}
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content={t(lang, 'siteName')} />
+    <meta property="og:title" content={fullTitle} />
+    {description && <meta property="og:description" content={description} />}
+    <meta property="og:locale" content={lang === 'tr' ? 'tr_TR' : 'en_US'} />
+    <meta property="og:image" content={abs(url('og.png'))} />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="theme-color" content={palettes.day.paper} />
     <script is:inline set:html={paletteScript} />
     <style is:global set:html={paletteCss} />
   </head>
@@ -103,7 +143,8 @@ const paletteCss = [
         </p>
         {!standalone && (
           <p>
-            <a href={localeUrl(lang, lang === 'tr' ? 'sozluk/' : 'glossary/')}>{t(lang, 'glossary')}</a>
+            <a href={localeUrl(lang, lang === 'tr' ? 'sozluk/' : 'glossary/')}>{t(lang, 'glossary')}</a> ·{' '}
+            <a href={localeUrl(lang, lang === 'tr' ? 'hakkinda/' : 'about/')}>{t(lang, 'about')}</a>
           </p>
         )}
       </div>

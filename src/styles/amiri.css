@@ -1,0 +1,12 @@
+/* Amiri Quran, declared here instead of fontsource's stylesheet so the Arabic
+   can use font-display: block. With swap, a verse first renders in a fallback
+   Naskh and then reflows (a 0.16 layout shift on sign pages). The file is
+   preloaded on every page that shows verses, so the wait is short. */
+@font-face {
+  font-family: 'Amiri Quran';
+  font-style: normal;
+  font-weight: 400;
+  font-display: block;
+  src: url('../../node_modules/@fontsource/amiri-quran/files/amiri-quran-arabic-400-normal.woff2') format('woff2');
+  unicode-range: U+0600-06FF, U+0750-077F, U+08A0-08FF, U+FB50-FDFF, U+FE70-FEFC;
+}

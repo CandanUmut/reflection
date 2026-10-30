@@ -35,6 +35,7 @@ export const ui = {
     pauseLabel: 'Tefekkür arası',
     sources: 'Kaynaklar',
     glossary: 'Sözlük',
+    about: 'Hakkında',
     glossaryIntro: 'Sitede geçen yerleşik kavramlar, araştırmanın kendi açıklamalarıyla.',
     rangeNote:
       'Görüşler bir uçtan ötekine sıralandı; sıra okumayı kolaylaştırmak içindir, kesin bir ölçüm değildir. Görüşler araştırmada adı geçen âlimlerden alınmıştır.',
@@ -126,6 +127,7 @@ export const ui = {
     pauseLabel: 'A pause to reflect',
     sources: 'Sources',
     glossary: 'Glossary',
+    about: 'About',
     glossaryIntro: 'Established terms used on this site, with the research’s own explanations.',
     rangeNote:
       'The views run from one end to the other; the order is a reading aid, not an exact measurement. Views are those named in the research.',
