@@ -1,0 +1,31 @@
+slugs: { tr: dinden-donme, en: apostasy }
+theme: apostasy
+title: İslam'dan çıkmanın cezası ölüm mü?
+sensitivity: high
+helpCard: general
+verses: ["2:256", "2:217"]
+steelman: |
+  Klasik hukuk, "dinini değiştireni öldürün" rivayetine dayanarak (Buhârî 3017) dinden dönen erkeğe ölüm cezası öngördü. Eğer öyleyse, inanç özgür değildir.
+whyAsked: |
+  Şüphe yaşayanlar güvenlikleri için korkar ve bu hüküm 2:256'yı ("dinde zorlama yoktur") boşa çıkarıyor gibi görünür.
+shortAnswer: |
+  Kur'an dinden dönmeyi anar (2:217; 5:54), ama dünyevi bir ceza belirtmez ve dinde zorlama olmadığını ilan eder (2:256). Klasik fakihler idam öngördü. Türk âlimler dâhil pek çok modern âlim, cezanın inancı değil vatana ihaneti hedeflediğini savunur. [Debated] — ama bugün yaygın kabul görüyor.
+layers:
+  4: |
+    - Hanefîler dinden dönen kadınları idam etmek yerine hapsetti; bu da cezanın savaşan olmakla bağlantılı olduğunu düşündürür.
+    - Süfyân es-Sevrî'nin, dinden dönen kadınların idamına karşı çıktığı nakledilir.
+    - Nihat Dalgın (İSAM, 1998–99), yalnızca dinden dönmenin ölümü gerektiremeyeceği sonucuna varır.
+    - Diyanet Haber, tarihteki idamları düşman saflarına katılmaya bağlar.
+  5: |
+    Zorla iman nifaktır (ikiyüzlülük).
+  7: |
+    Pew Araştırma Merkezi'nin "The World's Muslims" (2013) çalışmasında Mısırlı Müslümanların %88'i İslam'dan çıkmanın ölümle cezalandırılması gerektiğini söyledi; sorunun sorulduğu 37 ülkede medyan %28'di. İdeal ile tutumlar arasındaki bu mesafe kabul edilmelidir.
+honest: |
+  Reformcu okuma bir argümandır; tarih boyunca tek tip bir görüş değildir.
+visualization: |
+  - Üç sütunlu bir kart: Kur'an, fıkıh, modern ilim.
+  - Bir hukukî uygulama haritası.
+  - Bir "sormak güvenli" kartı.
+sourceUrls:
+  0: https://isamveri.org/pdfdrg/D02044/1999_1/1999_1_DALGINN.pdf
+  1: https://www.diyanethaber.com.tr/din-hurriyeti-dinde-zorlama-yoktur

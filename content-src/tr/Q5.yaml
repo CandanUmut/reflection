@@ -1,0 +1,29 @@
+slugs: { tr: evrim, en: evolution }
+theme: evolution
+title: Evrim İslam'la bağdaşır mı?
+verses: ["3:59"]
+steelman: |
+  Biyoloji doğal seçilim yoluyla ortak ataları gösterir; Kur'an ise Âdem'in topraktan yaratıldığını söyler.
+whyAsked: |
+  Biyoloji dersleri ve bilime karşıt olarak öğretilen din.
+shortAnswer: |
+  Şuayb Ahmed Malik (*Islam and Evolution*, Routledge 2021) dört görüşü haritalar: yaratılışçılık, insan istisnacılığı, Âdem istisnacılığı ve istisnasızlık. Gazzâlî'nin yorum ilkelerini kullanarak ilk üçünü metinle bağdaşır bulur ve David Solomon Jalajel'in geliştirdiği Âdem istisnacılığını tercih eder. Asıl tartışma dardır: Âdem'in kendisinin ataları olup olmadığı.
+layers:
+  4: |
+    3:59, Âdem'i bir âyet olarak İsa'ya benzetir. Malik, Darwin'i İbn Haldun'a ya da İbn Miskeveyh'e okumaya karşı uyarır. [Scholarly]
+  5: |
+    - "Güdümsüz" olması biyoloji değil, metafiziktir. Eş'arî vesilecilikte her doğal süreç Allah'ın fiilidir.
+    - İtiraz: popülasyon genetiği tek bir kurucu çifte karşı delil getirir. Âdem istisnacılığı, başka hominidlerin Âdem'le birlikte var olabileceği cevabını verir. Eleştirmenler bunu duruma göre uydurulmuş (ad hoc) bulur. [Debated]
+  6: |
+    Ortak ata [Established].
+  7: |
+    Bu seçeneklerin var olduğunu öğrenmek çoğu zaman rahatlama getirir.
+honest: |
+  Kurumsal tutumlar temkinli olmaya devam ediyor.
+visualization: |
+  - Dört görüşü gösteren bir yelpaze kaydırıcısı.
+  - Bir "bilim ve metafizik" ayırma oyunu.
+  - Bir hayat ağacı.
+sourceLabels: ['Malik (açık erişim)', null, null, null, 'Malik''in bir Türk DergiPark dergisindeki mektubu']
+sourceUrls:
+  0: https://www.taylorfrancis.com/chapters/oa-mono/10.4324/9780429345753-10/creationism-evolution-islamic-scripture-shoaib-ahmed-malik

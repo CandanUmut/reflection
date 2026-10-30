@@ -47,13 +47,32 @@ function sections(body) {
 }
 
 /** Markdown links in a sources section → [{label, url?}]. Plain lines become label-only. */
+/** Splits on "; " that is not inside (…) or […]. */
+function splitTopLevel(line) {
+  const parts = [];
+  let depth = 0;
+  let start = 0;
+  for (let i = 0; i < line.length; i++) {
+    const c = line[i];
+    if (c === '(' || c === '[') depth++;
+    else if (c === ')' || c === ']') depth = Math.max(0, depth - 1);
+    else if (c === ';' && depth === 0 && line[i + 1] === ' ') {
+      parts.push(line.slice(start, i));
+      start = i + 2;
+    }
+  }
+  parts.push(line.slice(start));
+  return parts;
+}
+
 export function parseSources(text, { splitSemicolons = false } = {}) {
   const out = [];
   // One source per line, or several on one line separated by semicolons (batch 2 and 4 style).
   const pieces = text
     .split('\n')
     .map((raw) => raw.replace(/^\s*-\s*/, '').trim())
-    .flatMap((line) => (splitSemicolons ? line.split(/;\s+(?![^[]*\])/) : [line]));
+    .filter((line) => !/Task [A-Z] stops here|^\*\*→/.test(line))
+    .flatMap((line) => (splitSemicolons ? splitTopLevel(line) : [line]));
   for (const piece of pieces) {
     const line = piece.trim().replace(/\.$/, '');
     if (!line) continue;

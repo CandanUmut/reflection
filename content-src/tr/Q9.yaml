@@ -1,0 +1,30 @@
+slugs: { tr: ibadete-ihtiyac, en: why-worship }
+theme: worship
+title: Allah'ın ibadetimize neden ihtiyacı var?
+verses: ["51:56-57", "35:15"]
+steelman: |
+  Allah kusursuz ve kendine yeterliyse hiçbir şeye ihtiyacı yoktur; o hâlde ibadeti emretmek anlamsız ya da övgüye ihtiyaç gibi görünür. Sürekli övgü isteyen bir insan güvensiz görünürdü.
+whyAsked: |
+  Düşünsel: ilahi müstağnîlik (*ganî*) ile emirler arasındaki gerilim. Duygusal: korkuya dayalı bir yük olarak yaşanan ibadet. Toplumsal: Allah'a ve din adamlarına dair otoriter imgeler.
+shortAnswer: |
+  Kur'an Allah'ın ibadete ihtiyacı olmadığını kabul eder: muhtaç olan insanlardır, Allah ganîdir (35:15). İbadet, ilacın sağlığa hizmet etmesi gibi ibadet edene hizmet eder. Namaz, zikir ve şükür insanı benlikten hakikate yöneltir. Bizim iyiliğimiz için ibadete davet eden bir Allah, kendi hatırı için övgü isteyen bir insandan farklıdır.
+layers:
+  4: |
+    - *Âyetler:* 51:56 ("Cinleri ve insanları ancak bana ibadet etsinler diye yarattım") hemen ardından "Onlardan bir rızık istemiyorum" (51:57) ile devam eder; 39:7; 31:12.
+    - *Hadis:* hadis-i kudsî, Sahîh-i Müslim 2577: bütün yaratılışın takvası Allah'ın mülküne hiçbir şey katmaz; bütün kötülüğü de hiçbir şey eksiltmez.
+    - *Klasik:* İbn Abbâs (Taberî aracılığıyla) "bana ibadet etsinler" ifadesini "beni tanısınlar" diye açıklar. Râzî: yaratılışın amacı yaratılanın kemalidir. Gazzâlî (*İhyâ*, Kitâbü'l-Mahabbe): ibadet, ruhun en yüksek mutluluğu olan Allah sevgisine ve marifetine giden yoldur.
+    - *Kelâm:* Eş'arîler Allah'ın kendisini tamamlayan bir amaç için iş yaptığını reddeder; Mâtürîdîler yaratıkların yararına bir hikmet (*hikmet*) olduğunu kabul eder. İki taraf da O'nun hiçbir şey kazanmadığında hemfikirdir.
+    - *Modern:* Said Nursî (*Sözler*), ibadeti insanlığın asıl vazifesi ve ilahi isimlerin aynası olarak görür; Tim Winter ibadeti parçalanmış benliğin iyileşmesi olarak anlatır.
+  5: |
+    Şükür, karşılık gören fayda görsün görmesin iyiliğe yakışır. İtiraz: neden sonuçları olan bir yükümlülük? Cevap: sonuçlar ruhun hâlini izler (79:40–41); ihmal kendine zarardır. Geriye kalan: gazap dili kişisel hissettirebilir; "Rahmetim gazabımı geçmiştir" (Buhârî 7404) hadisiyle okunmalıdır.
+  6: |
+    [Debated] — mütevazı: şükür ve tefekkür pratikleri, iyi oluşla küçük-orta düzeyde ilişkiler gösterir; bu, pratiklerin yardımcı olabileceğinin delilidir, teolojinin kanıtı değil.
+  7: |
+    Korkuya dayalı Allah imgeleri ibadeti bir yatıştırma çabası gibi hissettirir; onu bir ilişki olarak yeniden çerçevelemek gerekir. Geçersiz ibadete dair zorlayıcı korku vesvese olabilir; hayatı aksatıyorsa profesyonel yardım uygundur.
+honest: |
+  Kur'an ibadetin insanlara fayda verdiğini söyler, ama her şeklini açıklamaz; bazı ameller *taabbüdî*dir. "Bilim namazın iyileştirdiğini kanıtlıyor" demek, ilişkisel verileri abartmaktır.
+visualization: |
+  - "İki ok" kartı: ibadet yukarı çıkar, fayda geri döner; 35:15 ile.
+  - Nursî'nin aynaları: aynalar ışık kazanır, güneş hiçbir şey kaybetmez.
+  - Kaydırıcı: "muhtaç kral" ve "ilaç yazan doktor".
+sourceLabels: ['Kur''an 51:56–57, 35:15', null, 'Taberî ve Râzî''nin 51:56 tefsirleri', null, null, null, null]

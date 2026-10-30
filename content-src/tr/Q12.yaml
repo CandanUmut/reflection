@@ -1,0 +1,31 @@
+slugs: { tr: bilimsel-mucizeler, en: scientific-miracles }
+theme: science
+title: Kur'an'daki "bilimsel mucizeler" gerçek mi?
+verses: ["3:190", "2:2"]
+steelman: |
+  Popüler medya, Kur'an'ın embriyolojiyi, Büyük Patlama'yı, hatta ışık hızını önceden bildirdiğini iddia ediyor. Doğruysa ilahi kaynaklı olduğunu kanıtlar; zorlamaysa İslam'ı dürüst olmayan bir din gibi gösterir.
+whyAsked: |
+  Viral videolar (Zağlul en-Neccâr, Harun Yahya), bunları çürüten videolar ve bir iddia çöktüğünde kendini aldatılmış hisseden şüpheciler.
+shortAnswer: |
+  Kur'an doğa üzerine tefekküre davet eder ve pek çok âyet bilimle uyum içindedir. Ama âyetlerin belirli keşifleri *önceden bildirdiğini* iddia eden tür (i'câz-ı ilmî) çoğu zaman kelime anlamlarını zorlar, klasik tefsiri görmezden gelir ve Kur'an'ı değişebilen kuramlara bağlar. Pek çok Müslüman bilim insanı ve âlim, Kur'an'ı tamamen kabul ederken bu türü reddeder. Bu site âyetleri gizli bilim dersleri olarak değil, işaretler (âyât) olarak ele alır.
+layers:
+  4: |
+    Kur'an kendini hidayet (2:2), doğayı da tefekkür edenler için işaretler (3:190) olarak tanımlar. Şâtıbî (*el-Muvâfakât*), ilk muhatapların bilmediği bilimleri Kur'an'a okumaya karşı uyardı; Gazzâlî (*Cevâhirü'l-Kur'ân*) ve Râzî daha açıktı. Modern savunucular: Tantâvî Cevherî, Neccâr; eleştirenler: Emîn el-Hûlî, Mahmûd Şeltût, Nidhal Guessoum. Klasik i'câz esas olarak *edebî* idi (Bâkıllânî, Cürcânî).
+  5: |
+    Guessoum'un 2008 tarihli Zygon makalesi, bilimsel mucizeciliği hem bilimin hem Kur'an'ın yanlış anlaşılmasına dayandığı gerekçesiyle değerlendirir ve reddeder; İbn Rüşd'ün "çatışma mümkün değildir" ilkesini savunur: öngörüyü değil, bağdaşmayı göstermek. İtirazlar: sonradan uydurma, Arapçanın çok anlamlılığı, yanlışlanabilirlik riski. Savunucuların cevabı: birikimli örtüşme. Cevap: çarpıcı uyumları tefekkür olarak, öyle etiketleyerek not etmek.
+  6: |
+    Embriyo (S4), yörüngeler (S5) ve iki deniz (S7) sayfaları yaklaşımın örneğidir: doğru anlatmak, abartıları işaretlemek.
+  7: |
+    Mucizeye dayalı iman kırılgandır; tek bir çöküş "hepsi yalan" genellemesine dönüşür. Yaqeen'in, bilimin şüphe tetikleyicileri arasında *alt sıralarda* olduğu bulgusu, abartılı iddiaları bırakmanın az şey kaybettirip güven kazandırdığı anlamına gelir.
+honest: |
+  Bazı Müslüman kurumlar hâlâ i'câz-ı ilmîyi destekliyor; bu sitenin tutumu ilmî bir görüştür, icma değildir.
+visualization: |
+  - İddia denetleyicisi: âyetin ifadesi, klasik tefsir, bilim.
+  - Keşiflerden sonra ortaya çıkan iddiaların zaman çizelgesi.
+  - "İşaret ve kanıt" düğmesi.
+sourceLabels: [null, null, null, null, 'Guessoum ile Neccâr''ı karşılaştıran Endonezya çalışmaları (Akademika)', null, 'TDV İslâm Ansiklopedisi, "İ''câzü''l-Kur''ân"']
+enOverrides:
+  # "Batch 1's … entries" (author-facing) pointed at the pages they mean.
+  layers:
+    6: |
+      The embryo (S4), orbit (S5) and two-seas (S7) pages model the approach: describe accurately, flag overclaims.

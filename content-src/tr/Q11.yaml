@@ -1,0 +1,31 @@
+slugs: { tr: hadislerin-guvenilirligi, en: hadith-reliability }
+theme: sources
+title: Hadisler güvenilir mi? ("Kur'an İslamı" dâhil)
+verses: ["4:59", "59:7", "16:44"]
+steelman: |
+  Kanonik derlemeler Hz. Peygamber'den iki asır sonra oluşturuldu; klasik âlimlerin de kabul ettiği gibi uydurma oldu. Âişe'nin evlilik yaşı gibi sahih bir rivayetin, Oxford'daki bir doktora tezinde 8. yüzyılın bir ifadesi olduğu savunulabiliyorsa, hangisine güvenilir? "Yalnızca Kur'an" daha sadık değil mi?
+whyAsked: |
+  Batılı kaynak eleştirisi (Goldziher, Schacht, Juynboll) ve Kur'ancı medya; ahlâken rahatsız edici hadisler; Türkiye'de "Kur'an İslamı", akılcı görünen bir İslam ve geleneksel otoritelerden bir sığınak sunar.
+shortAnswer: |
+  Hadislerin ne hepsi güvenilirdir ne hepsi uydurmadır. Müslüman âlimler ayrıntılı bir sınama sistemi kurdu ve binlerce rivayeti reddetti. Modern yöntemler pek çok hadisi hicrî 1. asra tarihlendirdi ve bazılarını sorguladı. Kur'an Peygamber'e itaati emreder (4:59, 59:7) ve namazın nasıl kılınacağı uygulamaya bağlıdır; bu yüzden "yalnızca Kur'an" görüşünün ciddi sorunları vardır. Dürüst tutum: derecelendirilmiş, eleştirel olarak incelenmiş bir delil bütünü.
+layers:
+  4: |
+    - *Kur'an:* 4:59; 59:7; 16:44.
+    - *Klasik yöntem:* isnad tenkidi ile metin tenkidi; İbn Kayyim'in *el-Menârü'l-Münîf*'i uydurmanın metindeki işaretlerini sayar.
+    - *Mezhepler:* Hanefîler haber-i vâhidi ilkelere göre tarttı; Mâtürîdîler haber-i vâhidi itikadda kesin saymaz; Eserîler hadise daha geniş yer verir. Şiîlerin kendi derecelendirmesiyle paralel bir külliyatı (*el-Kâfî*) vardır.
+    - *Türk akademisi:* DergiPark çalışmaları "yalnızca Kur'an" görüşlerini bazı Mu'tezilî görüşlere ve modern "Ehl-i Kur'an"a dayandırır; Peygamber'i bir "postacıya" indirgemenin Kur'an'la çeliştiğini savunur; Türk ilahiyat fakülteleri de metin tenkidini geliştiriyor.
+  5: |
+    Şüpheci: uzun sözlü aktarım artı siyaset, düşük güvenilirlik demektir. Cevap: erken yazılı derlemeler (Hemmâm'ın sahifesi, *Muvatta*), çoklu senetler ve Motzki'nin malzemeyi hicrî 1. asrın sonuna tarihlendiren isnad-metin analizi (ICMA). Karşı görüş: Joshua Little'ın Oxford doktorası (2022/23), Hişâm b. Urve'nin Âişe'nin evlilik yaşına dair ifadeyi 8. yüzyılın ortasında Irak'ta formüle ettiğini savunmak için ICMA'yı kullandı; Müslüman cevaplar (ICRAA) adımlarına itiraz ediyor ve sempatik eleştirmenler bile Zührî'nin destekleyici bir rivayetini gözden kaçırdığını söylüyor. Tartışma *belirli rivayetlerle* ilgilidir.
+  6: |
+    Hafıza araştırması: resmî ezber kültürleri yüksek sadakatle aktarır; gündelik anekdot ise kayar.
+  7: |
+    Kur'ancılık çoğu zaman rahatsız edici metinlerden bir kurtuluştur. Bunu kabul etmek, sonra Sünnet'i koruyan klasik araçları (derecelendirme, bağlam, delil hiyerarşisi) göstermek gerekir.
+honest: |
+  Bazı sahih hadisler ciddi akademisyenlerce tartışılmaktadır; klasik derecelendirme güçlüdür ama yanılmaz değildir. "Buhârî'deki her rivayet kesindir" de, "bütün hadisler uydurmadır" da denmemelidir.
+visualization: |
+  - Klasik ve ICMA görüşleri arasında geçiş yapan, bir "ortak halka"da birleşen etkileşimli bir isnad ağacı.
+  - Mütevatirden mevzuya bir derecelendirme yelpazesi kartı.
+  - Hz. Peygamber'den Buhârî'ye, erken sahifelerle bir zaman çizelgesi.
+sourceLabels: [null, null, null, null, null, null, null, 'TDV İslâm Ansiklopedisi, "Hadis"']
+sourceUrls:
+  3: https://www.academia.edu/165206810/Tarihten_G%C3%BCn%C3%BCm%C3%BCze_Kur_an_ile_Yetinme_S%C3%B6yleminin_Kriti%C4%9Fi

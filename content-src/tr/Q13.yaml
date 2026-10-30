@@ -1,0 +1,28 @@
+slugs: { tr: ebedi-cehennem, en: eternal-hell }
+theme: salvation
+title: Sonlu günahlar için ebedî cehennem adil mi?
+verses: ["4:40", "11:106-108"]
+steelman: |
+  En kötü hayat bile sonlu yanlışlar içerir. Sonsuz ceza orantısız görünür. Rahmeti en geniş olan, birine nasıl sonsuza dek azap eder?
+whyAsked: |
+  Orantılılık sezgileri, gayrimüslim arkadaşlara duyulan sevgi, korkuya dayalı çocukluk eğitimi.
+shortAnswer: |
+  Çoğunluk, Allah'ı bilerek ve ısrarla reddedenler için cehennemin ebedî olduğunu kabul eder; bu, amellerin sayısıyla değil, değişmeyen bir iç hâlin sonucu olarak açıklanır. Aralarında İbn Teymiyye'nin son risalesinde ve İbn Kayyim'in de bulunduğu büyük klasik âlimlerden bir azınlık, kâfirlerin cezasının sona ereceğini savundu. Kur'an kimseye zerre kadar haksızlık edilmeyeceğini vurgular (4:40) ve gerçekte kimin sorumlu olduğunu yalnızca Allah bilir.
+layers:
+  4: |
+    - *Âyetler:* "orada ebedî kalacaklar" (4:169; 72:23); "Rabbinin dilemesi müstesna, gökler ve yer durdukça" (11:106–107); "çağlar boyu" (78:23).
+    - *Çoğunluk (Eş'arî, Mâtürîdî, Eserîlerin çoğu):* kâfirler için ebedîdir; günahkâr müminler çıkar. Sübkî, İbn Teymiyye'ye sert bir reddiye yazdı.
+    - *Azınlık:* Jon Hoover'a göre İbn Teymiyye'nin *Fenâü'n-nâr*'ı, ebedîliğe dair bir icma olmadığını ve azabın bir amaca yönelik olduğunu savunur, ama cezanın bittiğini kesin olarak söylemez; İbn Kayyim cehennemi iyileştirici ve ıslah edici olarak geliştirir. İbn Vezîr hüküm vermekten kaçındı; Reşîd Rızâ temkinli bir evrenselciliğe meyletti.
+    - *Tasavvuf:* İbn Arabî: ehli için ateşin azabı (*azâb*) "tatlılığa" (*azb*) dönüşür [Debated].
+  5: |
+    Cevaplar: (a) sabitleşmiş karakter: ceza süregiden reddi izler (6:28); (b) suç, kendisine karşı işlenenin yüceliğiyle büyür (modern okurlar için en zayıfı); (c) evrenselci azınlık.
+  7: |
+    Cehennem kaygısı dinî titizlikte (vesvese) yaygındır. Ürkütücü imgelerden kaçınmak; adaleti, Allah'ın rahmetinin yüz parça olduğu ve doksan dokuzunun âhiret için saklandığı hadisiyle (Müslim 2752) birlikte vermek gerekir.
+honest: |
+  Azınlık görüşü klasiktir ama azınlıkta kalır ve yaygın biçimde kınanmıştır; gizli "gerçek" İslam değildir.
+visualization: |
+  - İsim ve tarihlerle bir görüşler kaydırıcısı.
+  - 11:107'deki istisna üzerine üç klasik okumayı gösteren bir kart.
+  - 99'a 1 rahmet grafiği.
+sourceUrls:
+  0: https://onlinelibrary.wiley.com/doi/full/10.1111/j.1478-1913.2009.01260.x

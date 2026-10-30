@@ -1,0 +1,25 @@
+slugs: { tr: kadin-ve-esitlik, en: women-and-equality }
+theme: women
+title: İslam kadına eşitsiz mi davranıyor?
+sensitivity: high
+verses: ["33:35", "4:1"]
+steelman: |
+  Miras (4:11), şahitlik (2:282), 4:34 ve erkeğin önderliği yapısal olarak eşitsiz görünür.
+whyAsked: |
+  Türk gençlerinin dört ana kaygısından biridir ve ataerkilliğin yaşanmış deneyimine bağlıdır.
+shortAnswer: |
+  Kur'an eşit manevî değeri (33:35; 16:97) ve tek bir nefisten yaratılışı (4:1) kabul eder. Bazı hükümler kocanın tam nafaka yükümlülüğüne bağlıdır. Pek çok âlim 4:34'ü kesin biçimde sınırlar. Bazı haksızlıklar metinden değil örften gelir ve bazı sorular tartışmalı olmaya devam eder.
+layers:
+  4: |
+    - İbn Teymiyye ve İbn Kayyim 2:282'yi mali sözleşmeler bağlamıyla sınırladı.
+    - 4:34 konusunda pek çok fakih "darb"ın sembolik olmasını şart koştu. Hz. Peygamber hiçbir kadına vurmadı (Müslim 2328). [Debated]
+  5: |
+    Eşitlik ve aynılık. İtiraz: hükümler kendi ataerkil bağlamlarını yansıtıyor olabilir.
+  7: |
+    Ders verir gibi bir tondan kaçınmak gerekir.
+honest: |
+  Mirasla ilgili reform önerileri tartışmalıdır.
+visualization: |
+  - Bağlamı içinde âyet gezgini.
+  - Kadın hadis âlimlerinin zaman çizelgesi.
+  - Ev içi hak akışlarını gösteren bir şema.

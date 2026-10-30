@@ -6,6 +6,12 @@
   "Transliteration: Quran.com word-by-word data (api.quran.com v4)."
  ],
  "verses": {
+  "2:2": {
+   "ar": "ذَٰلِكَ ٱلْكِتَٰبُ لَا رَيْبَ ۛ فِيهِ ۛ هُدًى لِّلْمُتَّقِينَ",
+   "translit": "dhālika l-kitābu lā rayba fīhi hudan lil'muttaqīna",
+   "en": "This is the Book about which there is no doubt, a guidance for those conscious of Allah -",
+   "tr": "İşte o kitap, bunda şüphe yok, müttakiler (kötülükten korunacaklar) için hidayettir."
+  },
   "2:22": {
    "ar": "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ فِرَٰشًا وَٱلسَّمَآءَ بِنَآءً وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ ۖ فَلَا تَجْعَلُوا۟ لِلَّهِ أَندَادًا وَأَنتُمْ تَعْلَمُونَ",
    "translit": "alladhī jaʿala lakumu l-arḍa firāshan wal-samāa bināan wa-anzala mina l-samāi māan fa-akhraja bihi mina l-thamarāti riz'qan lakum falā tajʿalū lillahi andādan wa-antum taʿlamūna",
@@ -24,17 +30,41 @@
    "en": "And He taught Adam the names - all of them. Then He showed them to the angels and said, \"Inform Me of the names of these, if you are truthful.\"",
    "tr": "Ve Âdem'e isimlerin hepsini öğretti, sonra onları meleklere gösterip: \"Haydi davanızda sadıksanız bana şunları isimleriyle haber verin.\" dedi."
   },
+  "2:62": {
+   "ar": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَٱلَّذِينَ هَادُوا۟ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَعَمِلَ صَٰلِحًا فَلَهُمْ أَجْرُهُمْ عِندَ رَبِّهِمْ وَلَا خَوْفٌ عَلَيْهِمْ وَلَا هُمْ يَحْزَنُونَ",
+   "translit": "inna alladhīna āmanū wa-alladhīna hādū wal-naṣārā wal-ṣābiīna man āmana bil-lahi wal-yawmi l-ākhiri waʿamila ṣāliḥan falahum ajruhum ʿinda rabbihim walā khawfun ʿalayhim walā hum yaḥzanūna",
+   "en": "Indeed, those who believed and those who were Jews or Christians or Sabeans [before Prophet Muhammad] - those [among them] who believed in Allah and the Last Day and did righteousness - will have their reward with their Lord, and no fear will there be concerning them, nor will they grieve.",
+   "tr": "Şüphe yok ki, iman edenler, yahudiler, hıristiyanlar ve sabiîler, bunlardan her kim Allah'a ve ahiret gününe gerçekten iman eder ve salih amel işlerse elbette Rabbleri katında bunların ecirleri vardır, bunlara bir korku yoktur, bunlar mahzun da olacak değillerdir."
+  },
   "2:153": {
    "ar": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ إِنَّ ٱللَّهَ مَعَ ٱلصَّٰبِرِينَ",
    "translit": "yāayyuhā alladhīna āmanū is'taʿīnū bil-ṣabri wal-ṣalati inna l-laha maʿa l-ṣābirīna",
    "en": "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient.",
    "tr": "Ey iman edenler! Sabır ve namazla yardım isteyin. Şüphe yok ki Allah, sabredenlerle beraberdir."
   },
+  "2:155": {
+   "ar": "وَلَنَبْلُوَنَّكُم بِشَىْءٍ مِّنَ ٱلْخَوْفِ وَٱلْجُوعِ وَنَقْصٍ مِّنَ ٱلْأَمْوَٰلِ وَٱلْأَنفُسِ وَٱلثَّمَرَٰتِ ۗ وَبَشِّرِ ٱلصَّٰبِرِينَ",
+   "translit": "walanabluwannakum bishayin mina l-khawfi wal-jūʿi wanaqṣin mina l-amwāli wal-anfusi wal-thamarāti wabashiri l-ṣābirīna",
+   "en": "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient,",
+   "tr": "Çaresiz biz sizi biraz korku, biraz açlık, biraz da mallardan, canlardan ve ürünlerden eksiltme ile imtihan edeceğiz. Müjdele o sabredenleri!"
+  },
+  "2:156": {
+   "ar": "ٱلَّذِينَ إِذَآ أَصَٰبَتْهُم مُّصِيبَةٌ قَالُوٓا۟ إِنَّا لِلَّهِ وَإِنَّآ إِلَيْهِ رَٰجِعُونَ",
+   "translit": "alladhīna idhā aṣābathum muṣībatun qālū innā lillahi wa-innā ilayhi rājiʿūna",
+   "en": "Who, when disaster strikes them, say, \"Indeed we belong to Allah, and indeed to Him we will return.\"",
+   "tr": "Onlar başlarına bir musibet geldiği zaman: \"Biz Allah'a aidiz ve sonunda O'na döneceğiz.\" derler."
+  },
   "2:177": {
    "ar": "۞ لَّيْسَ ٱلْبِرَّ أَن تُوَلُّوا۟ وُجُوهَكُمْ قِبَلَ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ وَلَٰكِنَّ ٱلْبِرَّ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱلْمَلَٰٓئِكَةِ وَٱلْكِتَٰبِ وَٱلنَّبِيِّـۧنَ وَءَاتَى ٱلْمَالَ عَلَىٰ حُبِّهِۦ ذَوِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينَ وَٱبْنَ ٱلسَّبِيلِ وَٱلسَّآئِلِينَ وَفِى ٱلرِّقَابِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَٱلْمُوفُونَ بِعَهْدِهِمْ إِذَا عَٰهَدُوا۟ ۖ وَٱلصَّٰبِرِينَ فِى ٱلْبَأْسَآءِ وَٱلضَّرَّآءِ وَحِينَ ٱلْبَأْسِ ۗ أُو۟لَٰٓئِكَ ٱلَّذِينَ صَدَقُوا۟ ۖ وَأُو۟لَٰٓئِكَ هُمُ ٱلْمُتَّقُونَ",
    "translit": "laysa l-bira an tuwallū wujūhakum qibala l-mashriqi wal-maghribi walākinna l-bira man āmana bil-lahi wal-yawmi l-ākhiri wal-malāikati wal-kitābi wal-nabiyīna waātā l-māla ʿalā ḥubbihi dhawī l-qur'bā wal-yatāmā wal-masākīna wa-ib'na l-sabīli wal-sāilīna wafī l-riqābi wa-aqāma l-ṣalata waātā l-zakata wal-mūfūna biʿahdihim idhā ʿāhadū wal-ṣābirīna fī l-basāi wal-ḍarāi waḥīna l-basi ulāika alladhīna ṣadaqū wa-ulāika humu l-mutaqūna",
    "en": "Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allah, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakah; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.",
    "tr": "Yüzlerinizi bazan doğu, bazan batı tarafına çevirmeniz erginlik değildir. Fakat eren o kimselerdir ki, Allah'a, ahiret gününe, meleklere, kitaba ve bütün peygamberlere iman edip, yakınlığı olanlara, öksüzlere, yoksullara, yolda kalmışa, dilenenlere ve esirleri kurtarmaya seve seve mal verirler. Namazı kılarlar, zekatı verirler. Bir de andlaştıkları zaman sözlerini yerine getirenler, hele sıkıntı ve hastalık durumlarında ve harbin şiddetli zamanında sabır ve kararlılık gösterenler var ya, işte doğru olanlar da bunlardır, korunanlar da bunlardır."
+  },
+  "2:186": {
+   "ar": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
+   "translit": "wa-idhā sa-alaka ʿibādī ʿannī fa-innī qarībun ujību daʿwata l-dāʿi idhā daʿāni falyastajībū lī walyu'minū bī laʿallahum yarshudūna",
+   "en": "And when My servants ask you, [O Muhammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided.",
+   "tr": "Şayet kullarım, sana benden sordularsa, gerçekten ben çok yakınımdır. Bana dua edince, duacının duasını kabul ederim. O halde onlar da benim davetime koşsunlar ve bana hakkıyla iman etsinler ki, doğru yola gidebilsinler."
   },
   "2:187": {
    "ar": "أُحِلَّ لَكُمْ لَيْلَةَ ٱلصِّيَامِ ٱلرَّفَثُ إِلَىٰ نِسَآئِكُمْ ۚ هُنَّ لِبَاسٌ لَّكُمْ وَأَنتُمْ لِبَاسٌ لَّهُنَّ ۗ عَلِمَ ٱللَّهُ أَنَّكُمْ كُنتُمْ تَخْتَانُونَ أَنفُسَكُمْ فَتَابَ عَلَيْكُمْ وَعَفَا عَنكُمْ ۖ فَٱلْـَٰٔنَ بَٰشِرُوهُنَّ وَٱبْتَغُوا۟ مَا كَتَبَ ٱللَّهُ لَكُمْ ۚ وَكُلُوا۟ وَٱشْرَبُوا۟ حَتَّىٰ يَتَبَيَّنَ لَكُمُ ٱلْخَيْطُ ٱلْأَبْيَضُ مِنَ ٱلْخَيْطِ ٱلْأَسْوَدِ مِنَ ٱلْفَجْرِ ۖ ثُمَّ أَتِمُّوا۟ ٱلصِّيَامَ إِلَى ٱلَّيْلِ ۚ وَلَا تُبَٰشِرُوهُنَّ وَأَنتُمْ عَٰكِفُونَ فِى ٱلْمَسَٰجِدِ ۗ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَقْرَبُوهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ ءَايَٰتِهِۦ لِلنَّاسِ لَعَلَّهُمْ يَتَّقُونَ",
@@ -48,11 +78,23 @@
    "en": "And when he goes away, he strives throughout the land to cause corruption therein and destroy crops and animals. And Allah does not like corruption.",
    "tr": "İş başına geçti mi yeryüzünde bozgunculuk çıkarmak, ekini ve nesli helak etmek için koşar. Allah ise bozgunculuğu sevmez."
   },
+  "2:217": {
+   "ar": "يَسْـَٔلُونَكَ عَنِ ٱلشَّهْرِ ٱلْحَرَامِ قِتَالٍ فِيهِ ۖ قُلْ قِتَالٌ فِيهِ كَبِيرٌ ۖ وَصَدٌّ عَن سَبِيلِ ٱللَّهِ وَكُفْرٌۢ بِهِۦ وَٱلْمَسْجِدِ ٱلْحَرَامِ وَإِخْرَاجُ أَهْلِهِۦ مِنْهُ أَكْبَرُ عِندَ ٱللَّهِ ۚ وَٱلْفِتْنَةُ أَكْبَرُ مِنَ ٱلْقَتْلِ ۗ وَلَا يَزَالُونَ يُقَٰتِلُونَكُمْ حَتَّىٰ يَرُدُّوكُمْ عَن دِينِكُمْ إِنِ ٱسْتَطَٰعُوا۟ ۚ وَمَن يَرْتَدِدْ مِنكُمْ عَن دِينِهِۦ فَيَمُتْ وَهُوَ كَافِرٌ فَأُو۟لَٰٓئِكَ حَبِطَتْ أَعْمَٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۖ وَأُو۟لَٰٓئِكَ أَصْحَٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَٰلِدُونَ",
+   "translit": "yasalūnaka ʿani l-shahri l-ḥarāmi qitālin fīhi qul qitālun fīhi kabīrun waṣaddun ʿan sabīli l-lahi wakuf'run bihi wal-masjidi l-ḥarāmi wa-ikh'rāju ahlihi min'hu akbaru ʿinda l-lahi wal-fit'natu akbaru mina l-qatli walā yazālūna yuqātilūnakum ḥattā yaruddūkum ʿan dīnikum ini is'taṭāʿū waman yartadid minkum ʿan dīnihi fayamut wahuwa kāfirun fa-ulāika ḥabiṭat aʿmāluhum fī l-dun'yā wal-ākhirati wa-ulāika aṣḥābu l-nāri hum fīhā khālidūna",
+   "en": "They ask you about the sacred month - about fighting therein. Say, \"Fighting therein is great [sin], but averting [people] from the way of Allah and disbelief in Him and [preventing access to] al-Masjid al-Haram and the expulsion of its people therefrom are greater [evil] in the sight of Allah. And fitnah is greater than killing.\" And they will continue to fight you until they turn you back from your religion if they are able. And whoever of you reverts from his religion [to disbelief] and dies while he is a disbeliever - for those, their deeds have become worthless in this world and the Hereafter, and those are the companions of the Fire, they will abide therein eternally.",
+   "tr": "Ey Muhammed! Sana haram aydan ve o ayda savaşmaktan soruyorlar. De ki: O ayda savaşmak, büyük bir günahtır. Bununla beraber Allah yolundan alıkoymak, O'nu inkar etmek, insanları, Mescidi Haram'dan menetmek ve halkını oradan çıkarmak, Allah yanında daha büyük bir günahtır ve fitne, öldürmekten daha büyük bir vebaldir. Onlar, güçleri yeterse, sizi dininizden döndürmek için sizinle savaşmaktan hiçbir zaman geri durmazlar. Sizden de her kim, dininden döner ve kâfir olarak can verirse artık onların bütün amelleri, dünyada ve ahirette boşa gitmiştir. İşte onlar, cehennemliklerdir. Onlar orada ebedi olarak kalacaklardır."
+  },
   "2:229": {
    "ar": "ٱلطَّلَٰقُ مَرَّتَانِ ۖ فَإِمْسَاكٌۢ بِمَعْرُوفٍ أَوْ تَسْرِيحٌۢ بِإِحْسَٰنٍ ۗ وَلَا يَحِلُّ لَكُمْ أَن تَأْخُذُوا۟ مِمَّآ ءَاتَيْتُمُوهُنَّ شَيْـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ ۖ فَإِنْ خِفْتُمْ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيْهِمَا فِيمَا ٱفْتَدَتْ بِهِۦ ۗ تِلْكَ حُدُودُ ٱللَّهِ فَلَا تَعْتَدُوهَا ۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُو۟لَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
    "translit": "al-ṭalāqu marratāni fa-im'sākun bimaʿrūfin aw tasrīḥun bi-iḥ'sānin walā yaḥillu lakum an takhudhū mimmā ātaytumūhunna shayan illā an yakhāfā allā yuqīmā ḥudūda l-lahi fa-in khif'tum allā yuqīmā ḥudūda l-lahi falā junāḥa ʿalayhimā fīmā if'tadat bihi til'ka ḥudūdu l-lahi falā taʿtadūhā waman yataʿadda ḥudūda l-lahi fa-ulāika humu l-ẓālimūna",
    "en": "Divorce is twice. Then, either keep [her] in an acceptable manner or release [her] with good treatment. And it is not lawful for you to take anything of what you have given them unless both fear that they will not be able to keep [within] the limits of Allah. But if you fear that they will not keep [within] the limits of Allah, then there is no blame upon either of them concerning that by which she ransoms herself. These are the limits of Allah, so do not transgress them. And whoever transgresses the limits of Allah - it is those who are the wrongdoers.",
    "tr": "Boşamak (talak) iki defadır. Ondan sonrası ya iyilikle tutmak veya güzellikle salmaktır. Onlara verdiklerinizden bir şey almanız da size helâl olmaz. Ancak Allah'ın çizdiği hudutta duramayacaklarından korkmaları başka. Eğer siz de bunların, Allah'ın çizdiği hudutta duramayacaklarından korkarsanız, kadının, ayrılmak için hakkından vazgeçmesinde artık ikisine de günah yoktur. İşte bunlar, Allah'ın çizdiği hudududur. Sakın bunları aşmayın, Her kim Allah'ın hududunu aşarsa, işte onlar zalimlerdir."
+  },
+  "2:256": {
+   "ar": "لَآ إِكْرَاهَ فِى ٱلدِّينِ ۖ قَد تَّبَيَّنَ ٱلرُّشْدُ مِنَ ٱلْغَىِّ ۚ فَمَن يَكْفُرْ بِٱلطَّٰغُوتِ وَيُؤْمِنۢ بِٱللَّهِ فَقَدِ ٱسْتَمْسَكَ بِٱلْعُرْوَةِ ٱلْوُثْقَىٰ لَا ٱنفِصَامَ لَهَا ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+   "translit": "lā ik'rāha fī l-dīni qad tabayyana l-rush'du mina l-ghayi faman yakfur bil-ṭāghūti wayu'min bil-lahi faqadi is'tamsaka bil-ʿur'wati l-wuth'qā lā infiṣāma lahā wal-lahu samīʿun ʿalīmun",
+   "en": "There shall be no compulsion in [acceptance of] the religion. The right course has become clear from the wrong. So whoever disbelieves in Taghut and believes in Allah has grasped the most trustworthy handhold with no break in it. And Allah is Hearing and Knowing.",
+   "tr": "Dinde zorlama yoktur. Çünkü doğruluk, sapıklıktan ayırd edilmiştir. Artık her kim tâğutu inkar edip, Allah'a inanırsa, sağlam bir kulpa yapışmıştır ki, o hiçbir zaman kopmaz. Allah, her şeyi işitir ve bilir."
   },
   "2:261": {
    "ar": "مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتْ سَبْعَ سَنَابِلَ فِى كُلِّ سُنۢبُلَةٍ مِّا۟ئَةُ حَبَّةٍ ۗ وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
@@ -65,6 +107,12 @@
    "translit": "lā yukallifu l-lahu nafsan illā wus'ʿahā lahā mā kasabat waʿalayhā mā ik'tasabat rabbanā lā tuākhidh'nā in nasīnā aw akhṭanā rabbanā walā taḥmil ʿalaynā iṣ'ran kamā ḥamaltahu ʿalā alladhīna min qablinā rabbanā walā tuḥammil'nā mā lā ṭāqata lanā bihi wa-uʿ'fu ʿannā wa-igh'fir lanā wa-ir'ḥamnā anta mawlānā fa-unṣur'nā ʿalā l-qawmi l-kāfirīna",
    "en": "Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\"",
    "tr": "Allah hiç kimseye gücünün yeteceğinden başka yük yüklemez. Herkesin kazandığı hayır kendisine, yaptığı kötülüğün zararı yine kendisinedir. Ey Rabbimiz, eğer unuttuk ya da yanıldıysak bizi tutup sorguya çekme! Ey Rabbimiz, bize bizden öncekilere yüklediğin gibi ağır yük yükleme! Ey Rabbimiz, bize gücümüzün yetmeyeceği yükü de yükleme! Bağışla bizi, mağfiret et bizi, rahmet et bize! Sensin bizim Mevlamız, kâfir kavimlere karşı yardım et bize."
+  },
+  "3:59": {
+   "ar": "إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَ ۖ خَلَقَهُۥ مِن تُرَابٍ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ",
+   "translit": "inna mathala ʿīsā ʿinda l-lahi kamathali ādama khalaqahu min turābin thumma qāla lahu kun fayakūnu",
+   "en": "Indeed, the example of Jesus to Allah is like that of Adam. He created Him from dust; then He said to him, \"Be,\" and he was.",
+   "tr": "Doğrusu Allah katında İsa'nın (yaratılışındaki) durumu, Âdem'in durumu gibidir; onu topraktan yarattı, sonra ona \"ol!\" dedi, o da oluverdi."
   },
   "3:134": {
    "ar": "ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ",
@@ -84,6 +132,12 @@
    "en": "Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding.",
    "tr": "Göklerin ve yerin yaratılışında, gece ile gündüzün birbiri ardınca gelip gidişinde selim akıl sahipleri için gerçekten açık, ibretli deliller vardır."
   },
+  "4:1": {
+   "ar": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُوا۟ رَبَّكُمُ ٱلَّذِى خَلَقَكُم مِّن نَّفْسٍ وَٰحِدَةٍ وَخَلَقَ مِنْهَا زَوْجَهَا وَبَثَّ مِنْهُمَا رِجَالًا كَثِيرًا وَنِسَآءً ۚ وَٱتَّقُوا۟ ٱللَّهَ ٱلَّذِى تَسَآءَلُونَ بِهِۦ وَٱلْأَرْحَامَ ۚ إِنَّ ٱللَّهَ كَانَ عَلَيْكُمْ رَقِيبًا",
+   "translit": "yāayyuhā l-nāsu ittaqū rabbakumu alladhī khalaqakum min nafsin wāḥidatin wakhalaqa min'hā zawjahā wabatha min'humā rijālan kathīran wanisāan wa-ittaqū l-laha alladhī tasāalūna bihi wal-arḥāma inna l-laha kāna ʿalaykum raqīban",
+   "en": "O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allah, through whom you ask one another, and the wombs. Indeed Allah is ever, over you, an Observer.",
+   "tr": "Ey insanlar! Sizi bir tek nefisten yaratan ve ondan eşini yaratıp ikisinden bir çok erkekler ve kadınlar üreten Rabbinizden korkun; kendi adına birbirinizden dilekte bulunduğunuz Allah'dan ve akrabalık (bağlarını kırmak)tan sakının. Şüphesiz Allah sizin üzerinizde gözeticidir."
+  },
   "4:19": {
    "ar": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا ۖ وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ ۚ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا",
    "translit": "yāayyuhā alladhīna āmanū lā yaḥillu lakum an tarithū l-nisāa karhan walā taʿḍulūhunna litadhhabū bibaʿḍi mā ātaytumūhunna illā an yatīna bifāḥishatin mubayyinatin waʿāshirūhunna bil-maʿrūfi fa-in karih'tumūhunna faʿasā an takrahū shayan wayajʿala l-lahu fīhi khayran kathīran",
@@ -96,11 +150,23 @@
    "en": "Worship Allah and associate nothing with Him, and to parents do good, and to relatives, orphans, the needy, the near neighbor, the neighbor farther away, the companion at your side, the traveler, and those whom your right hands possess. Indeed, Allah does not like those who are self-deluding and boastful.",
    "tr": "Allah'a ibadet edin ve O'na hiçbir şeyi ortak koşmayın. Sonra anaya, babaya, akrabaya, yetimlere, yoksullara, akraba olan komşulara, yakın komşulara, yanında bulunan arkadaşa, yolda kalanlara, sahip olduğunuz kölelere iyilik edin. Şüphesiz Allah, kibirlenen ve övünen kimseyi sevmez."
   },
+  "4:40": {
+   "ar": "إِنَّ ٱللَّهَ لَا يَظْلِمُ مِثْقَالَ ذَرَّةٍ ۖ وَإِن تَكُ حَسَنَةً يُضَٰعِفْهَا وَيُؤْتِ مِن لَّدُنْهُ أَجْرًا عَظِيمًا",
+   "translit": "inna l-laha lā yaẓlimu mith'qāla dharratin wa-in taku ḥasanatan yuḍāʿif'hā wayu'ti min ladun'hu ajran ʿaẓīman",
+   "en": "Indeed, Allah does not do injustice, [even] as much as an atom's weight; while if there is a good deed, He multiplies it and gives from Himself a great reward.",
+   "tr": "Şüphesiz ki Allah, hiç kimseye zerre kadar zulüm etmez. Eğer yapılan iyilik zerre kadar da olsa, onun sevabını kat kat artırır. Ve kendi katından büyük bir mükafat verir."
+  },
   "4:58": {
    "ar": "۞ إِنَّ ٱللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا۟ ٱلْأَمَٰنَٰتِ إِلَىٰٓ أَهْلِهَا وَإِذَا حَكَمْتُم بَيْنَ ٱلنَّاسِ أَن تَحْكُمُوا۟ بِٱلْعَدْلِ ۚ إِنَّ ٱللَّهَ نِعِمَّا يَعِظُكُم بِهِۦٓ ۗ إِنَّ ٱللَّهَ كَانَ سَمِيعًۢا بَصِيرًا",
    "translit": "inna l-laha yamurukum an tu-addū l-amānāti ilā ahlihā wa-idhā ḥakamtum bayna l-nāsi an taḥkumū bil-ʿadli inna l-laha niʿimmā yaʿiẓukum bihi inna l-laha kāna samīʿan baṣīran",
    "en": "Indeed, Allah commands you to render trusts to whom they are due and when you judge between people to judge with justice. Excellent is that which Allah instructs you. Indeed, Allah is ever Hearing and Seeing.",
    "tr": "Allah size, emanetleri ehline vermenizi ve insanlar arasında hükmettiğiniz zaman adaletle hükmetmenizi emrediyor. Allah, bununla size ne güzel öğüt veriyor. Şüphesiz ki Allah her şeyi hakkıyla işiten, hakkıyla görendir."
+  },
+  "4:59": {
+   "ar": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ أَطِيعُوا۟ ٱللَّهَ وَأَطِيعُوا۟ ٱلرَّسُولَ وَأُو۟لِى ٱلْأَمْرِ مِنكُمْ ۖ فَإِن تَنَٰزَعْتُمْ فِى شَىْءٍ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمْ تُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ ۚ ذَٰلِكَ خَيْرٌ وَأَحْسَنُ تَأْوِيلًا",
+   "translit": "yāayyuhā alladhīna āmanū aṭīʿū l-laha wa-aṭīʿū l-rasūla wa-ulī l-amri minkum fa-in tanāzaʿtum fī shayin faruddūhu ilā l-lahi wal-rasūli in kuntum tu'minūna bil-lahi wal-yawmi l-ākhiri dhālika khayrun wa-aḥsanu tawīlan",
+   "en": "O you who have believed, obey Allah and obey the Messenger and those in authority among you. And if you disagree over anything, refer it to Allah and the Messenger, if you should believe in Allah and the Last Day. That is the best [way] and best in result.",
+   "tr": "Ey iman edenler! Allah'a itaat edin, Peygambere de itaat edin ve sizden olan emir sahibine de itaat edin. Eğer herhangi bir şeyde anlaşmazlığa düşerseniz; Allah'a ve ahiret gününe gerçekten inanıyorsanız, onu Allah ve Resulüne arz edin. Bu, daha iyidir ve sonuç bakımından da daha güzeldir."
   },
   "4:128": {
    "ar": "وَإِنِ ٱمْرَأَةٌ خَافَتْ مِنۢ بَعْلِهَا نُشُوزًا أَوْ إِعْرَاضًا فَلَا جُنَاحَ عَلَيْهِمَآ أَن يُصْلِحَا بَيْنَهُمَا صُلْحًا ۚ وَٱلصُّلْحُ خَيْرٌ ۗ وَأُحْضِرَتِ ٱلْأَنفُسُ ٱلشُّحَّ ۚ وَإِن تُحْسِنُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
@@ -168,11 +234,35 @@
    "en": "It is He who made the sun a shining light and the moon a derived light and determined for it phases - that you may know the number of years and account [of time]. Allah has not created this except in truth. He details the signs for a people who know",
    "tr": "O Allah'dır ki, senelerin sayısını ve hesabını bilesiniz diye güneşi bir ışık, ayı da bir nur yaptı. Ve aya menziller tayin etti. Allah bunu hak olarak yarattı. O, bilecek olan bir kavim için âyetlerini ayrıntılı olarak açıklar."
   },
+  "11:106": {
+   "ar": "فَأَمَّا ٱلَّذِينَ شَقُوا۟ فَفِى ٱلنَّارِ لَهُمْ فِيهَا زَفِيرٌ وَشَهِيقٌ",
+   "translit": "fa-ammā alladhīna shaqū fafī l-nāri lahum fīhā zafīrun washahīqun",
+   "en": "As for those who were [destined to be] wretched, they will be in the Fire. For them therein is [violent] exhaling and inhaling.",
+   "tr": "Bedbaht olanlar ateştedirler. Onlar orada başka türlü soluyacak, başka türlü haykıracaklar."
+  },
+  "11:107": {
+   "ar": "خَٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَٰوَٰتُ وَٱلْأَرْضُ إِلَّا مَا شَآءَ رَبُّكَ ۚ إِنَّ رَبَّكَ فَعَّالٌ لِّمَا يُرِيدُ",
+   "translit": "khālidīna fīhā mā dāmati l-samāwātu wal-arḍu illā mā shāa rabbuka inna rabbaka faʿʿālun limā yurīdu",
+   "en": "[They will be] abiding therein as long as the heavens and the earth endure, except what your Lord should will. Indeed, your Lord is an effecter of what He intends.",
+   "tr": "Onlar orada gökler ve yer durdukça duracaklar. Ancak Rabb'inin diledikleri başka. Çünkü Rabbin dilediğini yapandır."
+  },
+  "11:108": {
+   "ar": "۞ وَأَمَّا ٱلَّذِينَ سُعِدُوا۟ فَفِى ٱلْجَنَّةِ خَٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَٰوَٰتُ وَٱلْأَرْضُ إِلَّا مَا شَآءَ رَبُّكَ ۖ عَطَآءً غَيْرَ مَجْذُوذٍ",
+   "translit": "wa-ammā alladhīna suʿidū fafī l-janati khālidīna fīhā mā dāmati l-samāwātu wal-arḍu illā mā shāa rabbuka ʿaṭāan ghayra majdhūdhin",
+   "en": "And as for those who were [destined to be] prosperous, they will be in Paradise, abiding therein as long as the heavens and the earth endure, except what your Lord should will - a bestowal uninterrupted.",
+   "tr": "Mutlu olanlar ise cennettedirler. Orada gökler ve yer durdukça duracaklar, ancak Rabbinin diledikleri başka. (Bu) ardı arası kesilmeyen bir ihsan olacak."
+  },
   "12:53": {
    "ar": "۞ وَمَآ أُبَرِّئُ نَفْسِىٓ ۚ إِنَّ ٱلنَّفْسَ لَأَمَّارَةٌۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّىٓ ۚ إِنَّ رَبِّى غَفُورٌ رَّحِيمٌ",
    "translit": "wamā ubarri-u nafsī inna l-nafsa la-ammāratun bil-sūi illā mā raḥima rabbī inna rabbī ghafūrun raḥīmun",
    "en": "And I do not acquit myself. Indeed, the soul is a persistent enjoiner of evil, except those upon which my Lord has mercy. Indeed, my Lord is Forgiving and Merciful.\"",
    "tr": "Ben yine de nefsimi temize çıkarmıyorum. Çünkü nefis şiddetle kötülüğü emreder. Ancak Rabbimin rahmetiyle yarlığadığı müstesna. Muhakkak ki, Rabbim bağışlayıcı ve merhametlidir."
+  },
+  "12:86": {
+   "ar": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ",
+   "translit": "qāla innamā ashkū bathī waḥuz'nī ilā l-lahi wa-aʿlamu mina l-lahi mā lā taʿlamūna",
+   "en": "He said, \"I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know.",
+   "tr": "Dedi ki: \"Ben hüznümü, kederimi ancak Allah'a şikayet ederim ve Allah tarafından sizin bilmediğiniz şeyleri de bilirim.\""
   },
   "13:3": {
    "ar": "وَهُوَ ٱلَّذِى مَدَّ ٱلْأَرْضَ وَجَعَلَ فِيهَا رَوَٰسِىَ وَأَنْهَٰرًا ۖ وَمِن كُلِّ ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ ۖ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
@@ -197,6 +287,12 @@
    "translit": "wa-idh ta-adhana rabbukum la-in shakartum la-azīdannakum wala-in kafartum inna ʿadhābī lashadīdun",
    "en": "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe.' \"",
    "tr": "Ve hatırlayın ki Rabbiniz size şöyle bildirmişti: Yüceliğim hakkı için şükrederseniz elbette size (nimetimi) artırırım ve eğer nankörlük ederseniz hiç şüphesiz azabım çok şiddetlidir."
+  },
+  "15:9": {
+   "ar": "إِنَّا نَحْنُ نَزَّلْنَا ٱلذِّكْرَ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+   "translit": "innā naḥnu nazzalnā l-dhik'ra wa-innā lahu laḥāfiẓūna",
+   "en": "Indeed, it is We who sent down the Qur'an and indeed, We will be its guardian.",
+   "tr": "Hiç şüphe yok ki, Kur'ân'ı biz indirdik, elbette onu yine biz koruyacağız."
   },
   "15:19": {
    "ar": "وَٱلْأَرْضَ مَدَدْنَٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ شَىْءٍ مَّوْزُونٍ",
@@ -240,6 +336,12 @@
    "en": "And He has cast into the earth firmly set mountains, lest it shift with you, and [made] rivers and roads, that you may be guided,",
    "tr": "Allah, yeryüzü sizi sarsmasın diye oraya sabit dağlar yerleştirdi. Yolunuzu bulmanız için de nehirler ve yollar yarattı."
   },
+  "16:44": {
+   "ar": "بِٱلْبَيِّنَٰتِ وَٱلزُّبُرِ ۗ وَأَنزَلْنَآ إِلَيْكَ ٱلذِّكْرَ لِتُبَيِّنَ لِلنَّاسِ مَا نُزِّلَ إِلَيْهِمْ وَلَعَلَّهُمْ يَتَفَكَّرُونَ",
+   "translit": "bil-bayināti wal-zuburi wa-anzalnā ilayka l-dhik'ra litubayyina lilnnāsi mā nuzzila ilayhim walaʿallahum yatafakkarūna",
+   "en": "[We sent them] with clear proofs and written ordinances. And We revealed to you the message that you may make clear to the people what was sent down to them and that they might give thought.",
+   "tr": "Biz o peygamberleri mucizelerle ve kitaplarla gönderdik. Ey Peygamberim! Sana da Kur'ân'ı indirdik ki, insanlara vahyedileni açıklayasın. Belki onlar da düşünürler."
+  },
   "16:66": {
    "ar": "وَإِنَّ لَكُمْ فِى ٱلْأَنْعَٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍ وَدَمٍ لَّبَنًا خَالِصًا سَآئِغًا لِّلشَّٰرِبِينَ",
    "translit": "wa-inna lakum fī l-anʿāmi laʿib'ratan nus'qīkum mimmā fī buṭūnihi min bayni farthin wadamin labanan khāliṣan sāighan lilshāribīna",
@@ -269,6 +371,12 @@
    "translit": "inna l-laha yamuru bil-ʿadli wal-iḥ'sāni waītāi dhī l-qur'bā wayanhā ʿani l-faḥshāi wal-munkari wal-baghyi yaʿiẓukum laʿallakum tadhakkarūna",
    "en": "Indeed, Allah orders justice and good conduct and giving to relatives and forbids immorality and bad conduct and oppression. He admonishes you that perhaps you will be reminded.",
    "tr": "Şüphesiz ki Allah, size adaleti, iyilik yapmayı ve yakınlara bakmayı emreder; hayasızlıktan, fenalıktan ve azgınlıktan nehyeder. Öğüt almanız için size böyle öğüt verir."
+  },
+  "17:15": {
+   "ar": "مَّنِ ٱهْتَدَىٰ فَإِنَّمَا يَهْتَدِى لِنَفْسِهِۦ ۖ وَمَن ضَلَّ فَإِنَّمَا يَضِلُّ عَلَيْهَا ۚ وَلَا تَزِرُ وَازِرَةٌ وِزْرَ أُخْرَىٰ ۗ وَمَا كُنَّا مُعَذِّبِينَ حَتَّىٰ نَبْعَثَ رَسُولًا",
+   "translit": "mani ih'tadā fa-innamā yahtadī linafsihi waman ḍalla fa-innamā yaḍillu ʿalayhā walā taziru wāziratun wiz'ra ukh'rā wamā kunnā muʿadhibīna ḥattā nabʿatha rasūlan",
+   "en": "Whoever is guided is only guided for [the benefit of] his soul. And whoever errs only errs against it. And no bearer of burdens will bear the burden of another. And never would We punish until We sent a messenger.",
+   "tr": "Kim doğru yola gelirse sırf kendi iyiliği için gelir. Kim de saparsa ancak kendi aleyhine sapar. Hiçbir günahkar başkasının günah yükünü çekmez. Biz bir Peygamber göndermedikçe, hiç kimseye azab edecek değiliz."
   },
   "17:23": {
    "ar": "۞ وَقَضَىٰ رَبُّكَ أَلَّا تَعْبُدُوٓا۟ إِلَّآ إِيَّاهُ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا ۚ إِمَّا يَبْلُغَنَّ عِندَكَ ٱلْكِبَرَ أَحَدُهُمَآ أَوْ كِلَاهُمَا فَلَا تَقُل لَّهُمَآ أُفٍّ وَلَا تَنْهَرْهُمَا وَقُل لَّهُمَا قَوْلًا كَرِيمًا",
@@ -306,6 +414,18 @@
    "en": "And they ask you, [O Muhammad], about the soul. Say, \"The soul is of the affair of my Lord. And mankind have not been given of knowledge except a little.\"",
    "tr": "Ey Muhammed! Sana ruhtan soruyorlar. De ki: \"Ruh Rabbimin bildiği bir iştir ve size ilimden ancak az bir şey verilmiştir.\""
   },
+  "18:29": {
+   "ar": "وَقُلِ ٱلْحَقُّ مِن رَّبِّكُمْ ۖ فَمَن شَآءَ فَلْيُؤْمِن وَمَن شَآءَ فَلْيَكْفُرْ ۚ إِنَّآ أَعْتَدْنَا لِلظَّٰلِمِينَ نَارًا أَحَاطَ بِهِمْ سُرَادِقُهَا ۚ وَإِن يَسْتَغِيثُوا۟ يُغَاثُوا۟ بِمَآءٍ كَٱلْمُهْلِ يَشْوِى ٱلْوُجُوهَ ۚ بِئْسَ ٱلشَّرَابُ وَسَآءَتْ مُرْتَفَقًا",
+   "translit": "waquli l-ḥaqu min rabbikum faman shāa falyu'min waman shāa falyakfur innā aʿtadnā lilẓẓālimīna nāran aḥāṭa bihim surādiquhā wa-in yastaghīthū yughāthū bimāin kal-muh'li yashwī l-wujūha bi'sa l-sharābu wasāat mur'tafaqan",
+   "en": "And say, \"The truth is from your Lord, so whoever wills - let him believe; and whoever wills - let him disbelieve.\" Indeed, We have prepared for the wrongdoers a fire whose walls will surround them. And if they call for relief, they will be relieved with water like murky oil, which scalds [their] faces. Wretched is the drink, and evil is the resting place.",
+   "tr": "Ve de ki: O hak Rabbimizdendir. Artık dileyen iman etsin, dileyen inkâr etsin. Çünkü biz zalimler için öyle bir ateş hazırlamışız ki, duvarları, çepeçevre onları içine alacaktır. Eğer feryad edip yardım isteseler, erimiş maden gibi yüzleri haşlayan bir su ile cevap verilir. O ne kötü bir içecek ve ne kötü bir dayanma yeri!"
+  },
+  "20:14": {
+   "ar": "إِنَّنِىٓ أَنَا ٱللَّهُ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعْبُدْنِى وَأَقِمِ ٱلصَّلَوٰةَ لِذِكْرِىٓ",
+   "translit": "innanī anā l-lahu lā ilāha illā anā fa-uʿ'bud'nī wa-aqimi l-ṣalata lidhik'rī",
+   "en": "Indeed, I am Allah. There is no deity except Me, so worship Me and establish prayer for My remembrance.",
+   "tr": "Şüphesiz ben Allah'ım, benden başka hiçbir ilâh yoktur. Onun için bana kulluk et ve beni anmak için namaz kıl."
+  },
   "20:50": {
    "ar": "قَالَ رَبُّنَا ٱلَّذِىٓ أَعْطَىٰ كُلَّ شَىْءٍ خَلْقَهُۥ ثُمَّ هَدَىٰ",
    "translit": "qāla rabbunā alladhī aʿṭā kulla shayin khalqahu thumma hadā",
@@ -335,6 +455,18 @@
    "translit": "wamā arsalnāka illā raḥmatan lil'ʿālamīna",
    "en": "And We have not sent you, [O Muhammad], except as a mercy to the worlds.",
    "tr": "(Ey Muhammed!) biz seni ancak âlemlere rahmet olarak gönderdik."
+  },
+  "23:1": {
+   "ar": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ",
+   "translit": "qad aflaḥa l-mu'minūna",
+   "en": "Certainly will the believers have succeeded:",
+   "tr": "Gerçekten müminler kurtuluşa ermiştir,"
+  },
+  "23:2": {
+   "ar": "ٱلَّذِينَ هُمْ فِى صَلَاتِهِمْ خَٰشِعُونَ",
+   "translit": "alladhīna hum fī ṣalātihim khāshiʿūna",
+   "en": "They who are during their prayer humbly submissive",
+   "tr": "Onlar ki, namazlarında huşû içindedirler,"
   },
   "23:8": {
    "ar": "وَٱلَّذِينَ هُمْ لِأَمَٰنَٰتِهِمْ وَعَهْدِهِمْ رَٰعُونَ",
@@ -462,6 +594,12 @@
    "en": "And of His signs is your sleep by night and day and your seeking of His bounty. Indeed in that are signs for a people who listen.",
    "tr": "Yine gecede ve gündüzde uyumanız ve lütfundan nasib aramanız da O'nun âyetlerindendir. Şüphesiz ki bunda dinleyecek bir kavim için nice ibretler vardır."
   },
+  "30:30": {
+   "ar": "فَأَقِمْ وَجْهَكَ لِلدِّينِ حَنِيفًا ۚ فِطْرَتَ ٱللَّهِ ٱلَّتِى فَطَرَ ٱلنَّاسَ عَلَيْهَا ۚ لَا تَبْدِيلَ لِخَلْقِ ٱللَّهِ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ وَلَٰكِنَّ أَكْثَرَ ٱلنَّاسِ لَا يَعْلَمُونَ",
+   "translit": "fa-aqim wajhaka lilddīni ḥanīfan fiṭ'rata l-lahi allatī faṭara l-nāsa ʿalayhā lā tabdīla likhalqi l-lahi dhālika l-dīnu l-qayimu walākinna akthara l-nāsi lā yaʿlamūna",
+   "en": "So direct your face toward the religion, inclining to truth. [Adhere to] the fitrah of Allah upon which He has created [all] people. No change should there be in the creation of Allah. That is the correct religion, but most of the people do not know.",
+   "tr": "O halde yüzünü, Allah'ı bir tanıyarak dine, Allah'ın insanları üzerine yaratmış olduğu fıtratına doğrult. Allah'ın yaratışında değişiklik bulunmaz. Dosdoğru din budur. Fakat insanların çoğu bilmezler."
+  },
   "30:41": {
    "ar": "ظَهَرَ ٱلْفَسَادُ فِى ٱلْبَرِّ وَٱلْبَحْرِ بِمَا كَسَبَتْ أَيْدِى ٱلنَّاسِ لِيُذِيقَهُم بَعْضَ ٱلَّذِى عَمِلُوا۟ لَعَلَّهُمْ يَرْجِعُونَ",
    "translit": "ẓahara l-fasādu fī l-bari wal-baḥri bimā kasabat aydī l-nāsi liyudhīqahum baʿḍa alladhī ʿamilū laʿallahum yarjiʿūna",
@@ -498,11 +636,23 @@
    "en": "And be moderate in your pace and lower your voice; indeed, the most disagreeable of sounds is the voice of donkeys.\"",
    "tr": "Yürüyüşünde tabii ol, sesini alçalt, çünkü seslerin en çirkini elbette eşeklerin sesidir."
   },
+  "33:35": {
+   "ar": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَٱلْقَٰنِتِينَ وَٱلْقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلْحَٰفِظِينَ فُرُوجَهُمْ وَٱلْحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا",
+   "translit": "inna l-mus'limīna wal-mus'limāti wal-mu'minīna wal-mu'mināti wal-qānitīna wal-qānitāti wal-ṣādiqīna wal-ṣādiqāti wal-ṣābirīna wal-ṣābirāti wal-khāshiʿīna wal-khāshiʿāti wal-mutaṣadiqīna wal-mutaṣadiqāti wal-ṣāimīna wal-ṣāimāti wal-ḥāfiẓīna furūjahum wal-ḥāfiẓāti wal-dhākirīna l-laha kathīran wal-dhākirāti aʿadda l-lahu lahum maghfiratan wa-ajran ʿaẓīman",
+   "en": "Indeed, the Muslim men and Muslim women, the believing men and believing women, the obedient men and obedient women, the truthful men and truthful women, the patient men and patient women, the humble men and humble women, the charitable men and charitable women, the fasting men and fasting women, the men who guard their private parts and the women who do so, and the men who remember Allah often and the women who do so - for them Allah has prepared forgiveness and a great reward.",
+   "tr": "Şüphe yok ki müslüman erkeklerle müslüman kadınlar, mümin erkeklerle mümin kadınlar, itaat eden erkeklerle itaat eden kadınlar, sadık erkeklerle sadık kadınlar, sabreden erkeklerle sabreden kadınlar, mütevazi erkeklerle mütevazi kadınlar, sadaka veren erkeklerle sadaka veren kadınlar, oruç tutan erkeklerle oruç tutan kadınlar, ırzlarını koruyan erkeklerle ırzlarını koruyan kadınlar, Allah'ı çok zikreden erkeklerle Allah'ı çok zikreden kadınlar var ya, işte onlar için Allah bir mağfiret ve büyük bir mükâfat hazırlamıştır."
+  },
   "33:72": {
    "ar": "إِنَّا عَرَضْنَا ٱلْأَمَانَةَ عَلَى ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱلْجِبَالِ فَأَبَيْنَ أَن يَحْمِلْنَهَا وَأَشْفَقْنَ مِنْهَا وَحَمَلَهَا ٱلْإِنسَٰنُ ۖ إِنَّهُۥ كَانَ ظَلُومًا جَهُولًا",
    "translit": "innā ʿaraḍnā l-amānata ʿalā l-samāwāti wal-arḍi wal-jibāli fa-abayna an yaḥmil'nahā wa-ashfaqna min'hā waḥamalahā l-insānu innahu kāna ẓalūman jahūlan",
    "en": "Indeed, we offered the Trust to the heavens and the earth and the mountains, and they declined to bear it and feared it; but man [undertook to] bear it. Indeed, he was unjust and ignorant.",
    "tr": "Biz o emaneti göklere, yere ve dağlara arz ettik, onlar, onu yüklenmeye yanaşmadılar, ondan korktular da onu insan yüklendi. O gerçekten çok zalim ve çok cahildir."
+  },
+  "35:15": {
+   "ar": "۞ يَٰٓأَيُّهَا ٱلنَّاسُ أَنتُمُ ٱلْفُقَرَآءُ إِلَى ٱللَّهِ ۖ وَٱللَّهُ هُوَ ٱلْغَنِىُّ ٱلْحَمِيدُ",
+   "translit": "yāayyuhā l-nāsu antumu l-fuqarāu ilā l-lahi wal-lahu huwa l-ghaniyu l-ḥamīdu",
+   "en": "O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy.",
+   "tr": "Ey insanlar! Siz Allah'a muhtaçsınız. Allah ise zengin ve her hamde lâyıktır."
   },
   "35:27": {
    "ar": "أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦ ثَمَرَٰتٍ مُّخْتَلِفًا أَلْوَٰنُهَا ۚ وَمِنَ ٱلْجِبَالِ جُدَدٌۢ بِيضٌ وَحُمْرٌ مُّخْتَلِفٌ أَلْوَٰنُهَا وَغَرَابِيبُ سُودٌ",
@@ -582,6 +732,12 @@
    "en": "Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep. Then He keeps those for which He has decreed death and releases the others for a specified term. Indeed in that are signs for a people who give thought.",
    "tr": "Allah, o canları öldükleri zaman, ölmeyenleri de uyuduklarında alır. Sonra haklarında ölüm hükmü verdiklerini alıkor, diğerlerini de takdir edilmiş bir süreye kadar salıverir. Şüphesiz ki bunda düşünecek bir kavim için nice ibretler vardır."
   },
+  "40:60": {
+   "ar": "وَقَالَ رَبُّكُمُ ٱدْعُونِىٓ أَسْتَجِبْ لَكُمْ ۚ إِنَّ ٱلَّذِينَ يَسْتَكْبِرُونَ عَنْ عِبَادَتِى سَيَدْخُلُونَ جَهَنَّمَ دَاخِرِينَ",
+   "translit": "waqāla rabbukumu id'ʿūnī astajib lakum inna alladhīna yastakbirūna ʿan ʿibādatī sayadkhulūna jahannama dākhirīna",
+   "en": "And your Lord says, \"Call upon Me; I will respond to you.\" Indeed, those who disdain My worship will enter Hell [rendered] contemptible.",
+   "tr": "Halbuki Rabbiniz: \"Bana yalvarın, dua edin ki size karşılık vereyim. Çünkü bana ibadet etmekten kibirlenip yüz çevirenler yarın horlanmış olarak cehenneme gireceklerdir.\" buyurdu."
+  },
   "41:11": {
    "ar": "ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ",
    "translit": "thumma is'tawā ilā l-samāi wahiya dukhānun faqāla lahā walil'arḍi i'tiyā ṭawʿan aw karhan qālatā ataynā ṭāiʿīna",
@@ -647,6 +803,18 @@
    "translit": "wamin kulli shayin khalaqnā zawjayni laʿallakum tadhakkarūna",
    "en": "And of all things We created two mates; perhaps you will remember.",
    "tr": "Biz herşeyden iki çift yarattık. Umulur ki, iyice düşünürsünüz."
+  },
+  "51:56": {
+   "ar": "وَمَا خَلَقْتُ ٱلْجِنَّ وَٱلْإِنسَ إِلَّا لِيَعْبُدُونِ",
+   "translit": "wamā khalaqtu l-jina wal-insa illā liyaʿbudūni",
+   "en": "And I did not create the jinn and mankind except to worship Me.",
+   "tr": "Ben cinleri ve insanları ancak bana ibadet etsinler diye yarattım."
+  },
+  "51:57": {
+   "ar": "مَآ أُرِيدُ مِنْهُم مِّن رِّزْقٍ وَمَآ أُرِيدُ أَن يُطْعِمُونِ",
+   "translit": "mā urīdu min'hum min riz'qin wamā urīdu an yuṭ'ʿimūni",
+   "en": "I do not want from them any provision, nor do I want them to feed Me.",
+   "tr": "Ben onlardan herhangi bir rızık istemiyorum. Beni yedirmelerini de istemiyorum."
   },
   "54:49": {
    "ar": "إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ",
@@ -756,6 +924,18 @@
    "en": "And what Allah restored to His Messenger from the people of the towns - it is for Allah and for the Messenger and for [his] near relatives and orphans and the [stranded] traveler - so that it will not be a perpetual distribution among the rich from among you. And whatever the Messenger has given you - take; and what he has forbidden you - refrain from. And fear Allah; indeed, Allah is severe in penalty.",
    "tr": "Allah'ın o kent halkından, Resulüne verdiği ganimetler, Allah'a, Resul'e, ona akrabalığı bulunanlara, yetimlere, yoksullara, yolcuya aittir. Ta ki içinizden yalnız zenginler arasında dolaşan bir şey olmasın. Peygamber size ne verdiyse onu alın. Sizeneyi yasakladıysa ondan sakının ve Allah'tan korkun. Çünkü Allah'ın azabı şiddetlidir."
   },
+  "64:11": {
+   "ar": "مَآ أَصَابَ مِن مُّصِيبَةٍ إِلَّا بِإِذْنِ ٱللَّهِ ۗ وَمَن يُؤْمِنۢ بِٱللَّهِ يَهْدِ قَلْبَهُۥ ۚ وَٱللَّهُ بِكُلِّ شَىْءٍ عَلِيمٌ",
+   "translit": "mā aṣāba min muṣībatin illā bi-idh'ni l-lahi waman yu'min bil-lahi yahdi qalbahu wal-lahu bikulli shayin ʿalīmun",
+   "en": "No disaster strikes except by permission of Allah. And whoever believes in Allah - He will guide his heart. And Allah is Knowing of all things.",
+   "tr": "Allah'ın izni olmayınca hiç bir musibet isabet etmez. Kim Allah'a inanırsa, Allah onun kalbini doğruya götürür. Allah her şeyi bilendir."
+  },
+  "67:2": {
+   "ar": "ٱلَّذِى خَلَقَ ٱلْمَوْتَ وَٱلْحَيَوٰةَ لِيَبْلُوَكُمْ أَيُّكُمْ أَحْسَنُ عَمَلًا ۚ وَهُوَ ٱلْعَزِيزُ ٱلْغَفُورُ",
+   "translit": "alladhī khalaqa l-mawta wal-ḥayata liyabluwakum ayyukum aḥsanu ʿamalan wahuwa l-ʿazīzu l-ghafūru",
+   "en": "[He] who created death and life to test you [as to] which of you is best in deed - and He is the Exalted in Might, the Forgiving -",
+   "tr": "O, hanginizin daha güzel iş yapacağınızı denemek için ölümü ve hayatı yarattı. O, üstündür, bağışlayandır."
+  },
   "67:19": {
    "ar": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ",
    "translit": "awalam yaraw ilā l-ṭayri fawqahum ṣāffātin wayaqbiḍ'na mā yum'sikuhunna illā l-raḥmānu innahu bikulli shayin baṣīrun",
@@ -827,6 +1007,12 @@
    "translit": "fa-inna l-janata hiya l-mawā",
    "en": "Then indeed, Paradise will be [his] refuge.",
    "tr": "Kuşkusuz onun varacağı yer cennettir."
+  },
+  "81:29": {
+   "ar": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَٰلَمِينَ",
+   "translit": "wamā tashāūna illā an yashāa l-lahu rabbu l-ʿālamīna",
+   "en": "And you do not will except that Allah wills - Lord of the worlds.",
+   "tr": "Âlemlerin Rabbi olan Allah dilemeyince, siz dileyemezsiniz."
   },
   "83:1": {
    "ar": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَيْلٌ لِّلْمُطَفِّفِينَ",
@@ -935,6 +1121,18 @@
    "translit": "wa-ammā l-sāila falā tanhar",
    "en": "And as for the petitioner, do not repel [him].",
    "tr": "Dilenciyi de azarlama."
+  },
+  "94:5": {
+   "ar": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+   "translit": "fa-inna maʿa l-ʿus'ri yus'ran",
+   "en": "For indeed, with hardship [will be] ease.",
+   "tr": "Demek ki, zorlukla beraber bir kolaylık vardır."
+  },
+  "94:6": {
+   "ar": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+   "translit": "inna maʿa l-ʿus'ri yus'ran",
+   "en": "Indeed, with hardship [will be] ease.",
+   "tr": "Evet, zorlukla beraber bir kolaylık vardır."
   },
   "96:1": {
    "ar": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",

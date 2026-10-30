@@ -62,6 +62,8 @@ function build(id, tr) {
   }).map((s, i) => ({
     ...s,
     ...(tr.sourceLabels?.[i] ? { label: { tr: tr.sourceLabels[i], en: s.label } } : {}),
+    // A link the research gives in a batch's closing source list, for a source named without one.
+    ...(tr.sourceUrls?.[i] ? { url: tr.sourceUrls[i] } : {}),
   }));
   // Links the research lists once at the end of a batch, attached to the item they belong to.
   for (const extra of tr.extraSources ?? []) sources.push(extra);
@@ -110,7 +112,7 @@ function build(id, tr) {
       const kind = LAYER_KIND[s.name.toLowerCase()];
       if (!kind) throw new Error(`${id}: unknown layer "${s.name}"`);
       if (!tr.layers?.[n]) throw new Error(`${id}: Turkish layer ${n} missing`);
-      return { kind, tr: tr.layers[n], en: sec(it, n) };
+      return { kind, tr: tr.layers[n], en: tr.enOverrides?.layers?.[n] ?? sec(it, n) };
     });
   return {
     ...base,
