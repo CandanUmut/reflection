@@ -1,0 +1,47 @@
+slugs: { tr: evlilik, en: marriage }
+theme: family
+helpCard: violence
+title:
+  tr: 'Evlilik: eşler arasında sevgi ve rahmet'
+  en: 'Marriage: love and mercy between spouses'
+summary:
+  tr: Evliliğin kendisi bir âyettir. *Meveddet* (sevgi) ile *rahmet*, bir evliliği yaşlılık, hastalık ve zorluk boyunca taşır.
+  en: Marriage itself is called a sign. *Mawadda* (love) and *raḥma* (mercy) carry a marriage through age, illness and hardship.
+verses: ["30:21", "4:19", "2:187", "2:229", "4:128"]
+teachings: |
+  - "Kendileriyle huzur bulasınız (*sükûn*) diye size kendi cinsinizden eşler yaratması ve aranıza sevgi (*meveddet*) ve merhamet (*rahmet*) koyması O'nun âyetlerindendir" (30:21). Evliliğin kendisi bir âyet olarak anılır.
+  - "Onlarla iyilikle geçinin; onlardan hoşlanmıyorsanız, belki hoşlanmadığınız bir şeyde Allah çok hayır kılmıştır" (4:19).
+  - "Onlar sizin için bir elbise, siz de onlar için bir elbisesiniz" (2:187).
+  - Boşanma ya "iyilikle tutmak ya da iyilikle bırakmak" olmalıdır (2:229).
+  - Barışmak daha hayırlıdır (4:128).
+  - 'Hadis: "Sizin en hayırlınız, ailesine en hayırlı olanınızdır; ben de aileme en hayırlı olanınızım" (Tirmizî 3895). Hz. Peygamber ev işlerine yardım eder ve "ailesinin hizmetinde" olurdu (Buhârî 676). Âişe ile yarıştı (Ebû Dâvûd 2578).'
+scholarship: |
+  - Müfessirler *meveddet*i (sevgi, çoğu zaman gençlik ve çekimle ilişkilendirilir) *rahmet*ten (yaşlılık, hastalık ve zorluk boyunca evliliği taşıyan merhamet) ayırır.
+  - "Elbise" (2:187), örtmek, korumak, sıcaklık ve yakınlık olarak okunur — karşılıklı, tek taraflı değil.
+  - Makâsıd çerçevesinde evlilik *nesli/aileyi* ve *onuru* korur; iki tarafa da haklar tanıyan bir sözleşmedir.
+  - Gazzâlî'nin *Âdâbü'n-Nikâh*ı (*İhyâ*) evliliğin faydalarını ve tehlikelerini sayar; yumuşak huyu, eşin kusurlarına sabrı ve oyunu vurgular.
+evidence: |
+  - John Gottman'ın araştırması, istikrarlı çiftlerin çatışma sırasında her olumsuz etkileşime karşılık kabaca **beş olumlu etkileşimi** olduğunu buldu ve küçümsemeyi güçlü bir uyarı işareti olarak tanımladı. [*moderate*; boşanma tahmini iddiaları aşırı uyum (overfitting) gerekçesiyle eleştirildi]
+  - Evlilik kalitesi sağlıkla ilişkilidir; 126 çalışmanın meta-analizi (Robles ve ark., 2014) **küçük** ama gerçek ilişkiler buldu. [Established, *small*]
+  - Eşe karşı nezaket, şükran ve cömertlik evlilik memnuniyetini yordar. [*moderate*]
+stories: |
+  - Hatice: Hz. Peygamber'in ilk eşi; ondan büyük, başarılı bir tüccar, ilk iman eden; Hz. Peygamber onu ömrünün sonuna kadar sevgiyle andı.
+  - Pek çok hadiste kaydedilen, ev içi anlaşmazlıklarda yumuşak tavrı; hiçbir kadına vurmadı (Müslim 2328).
+gaps: |
+  - Türkiye'de 2025'te **552.237** çift evlendi ve **193.793** çift boşandı (kaba boşanma hızı binde **2,26**); boşanmaların **%34**'ü evliliğin ilk beş yılında gerçekleşti (TÜİK, Şubat 2026'da açıklandı).
+  - Aile içi şiddet Türkiye'de ve pek çok Müslüman çoğunluklu toplumda ciddi bir sorundur. Şiddet 30:21 ve 4:19 ile açıkça çelişir.
+  - 4:34 âyeti Q6'da (kadınlar ve eşitlik) ele alınıyor.
+enOverrides:
+  # Author-facing phrasing ("The site must say plainly…", "should link to it") turned into the statement itself.
+  gaps: |
+    - In Türkiye in 2025, **552,237** couples married and **193,793** divorced (crude divorce rate **2.26 per 1,000**); **34%** of divorces happened within the first five years of marriage (TÜİK, reported February 2026).
+    - Domestic violence is a serious problem in Türkiye and many Muslim-majority societies. Violence plainly contradicts 30:21 and 4:19.
+    - Verse 4:34 is discussed in Q6 (women and equality).
+visualization: |
+  - Bir ömür boyu "sevgi ve rahmet": bir zaman çizelgesi üzerinde iki çizgi — *meveddet* başta güçlü, *rahmet* yıllar içinde büyüyor — tek bir çizgide birleşiyor.
+  - "Elbise" (2:187): her biri ötekini örten, tek bir kumaşta dokunmuş iki parça.
+sourceLabels:
+  - 'DHA — 2025''te 552 bin çift evlendi, 193 bin çift boşandı (TÜİK verileri)'
+  - 'Gottman ve Silver, *The Seven Principles for Making Marriage Work*; eleştiri: Heyman ve Slep (2001), tahmin yöntemi üzerine'
+  - 'Robles ve ark. — Evlilik kalitesi ve sağlık: meta-analitik bir derleme, *Psychological Bulletin* 2014'
+  - 'Gazzâlî, *İhyâ*, "Âdâbü''n-Nikâh"; İbn Kesîr''in 30:21 tefsiri'

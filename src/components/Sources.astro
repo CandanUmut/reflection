@@ -17,11 +17,7 @@ const label = (l: string | { tr: string; en: string }) => mdInline(typeof l === 
   <ol>
     {sources.map((s) => (
       <li>
-        {s.url ? (
-          <a href={s.url} rel="noopener" set:html={label(s.label)} />
-        ) : (
-          <Fragment set:html={label(s.label)} />
-        )}
+        {s.url ? <a href={s.url} rel="noopener" set:html={label(s.label)} /> : <Fragment set:html={label(s.label)} />}
       </li>
     ))}
   </ol>

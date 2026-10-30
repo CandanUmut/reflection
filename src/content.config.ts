@@ -55,7 +55,7 @@ const questions = defineCollection({
     /** "high" = the research marks it high-sensitivity. */
     sensitivity: z.enum(['normal', 'high']),
     /** Suffering, grief, disasters, vesvese: show the gentle help card. */
-    helpCard: z.union([z.literal(false), z.enum(['vesvese', 'disaster'])]),
+    helpCard: z.union([z.literal(false), z.enum(['general', 'vesvese', 'suffering', 'disaster'])]),
     verses: z.array(verseRef),
     title: text,
     summary: text.optional(),
@@ -83,6 +83,8 @@ const morals = defineCollection({
     verses: z.array(verseRef).min(1),
     title: text,
     summary: text,
+    /** M13 (marriage) names domestic violence: show the help card. */
+    helpCard: z.enum(['violence']).optional(),
     /** Research section "Key verses and hadith" (M8+), verbatim. */
     teachings: text.optional(),
     hadith: text.optional(),

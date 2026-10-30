@@ -5,6 +5,7 @@ import type { CollectionEntry } from 'astro:content';
 import VerseBlock from './VerseBlock.astro';
 import HonestNote from './HonestNote.astro';
 import HundredParts from './HundredParts.astro';
+import HelpCard from './HelpCard.astro';
 import Divider from './Divider.astro';
 import Sources from './Sources.astro';
 import { md } from '../lib/md';
@@ -42,6 +43,7 @@ const hundred = m.visualizations.find((v) => v.id === 'hundred-parts');
     <HonestNote lang={lang} label={t(lang, 'gapsLabel')}>
       <Fragment set:html={md(m.gaps[lang], lang)} />
     </HonestNote>
+    {m.helpCard && <HelpCard lang={lang} variant={m.helpCard} />}
     <Sources sources={m.sources} lang={lang} />
   </div>
 </article>

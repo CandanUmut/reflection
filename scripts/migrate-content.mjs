@@ -57,17 +57,18 @@ function build(id, tr) {
     if (tr[key] === undefined) throw new Error(`${id}: Turkish "${key}" missing`);
     return { tr: tr[key], en: tr.enOverrides?.[key] ?? en };
   };
-  const sources = parseSources(it.sections[{ S: SIGN, M: MORAL, Q: QUESTION }[id[0]].sources].text).map((s, i) => ({
+  const sources = parseSources(it.sections[{ S: SIGN, M: MORAL, Q: QUESTION }[id[0]].sources].text, {
+    splitSemicolons: id[0] === 'Q',
+  }).map((s, i) => ({
     ...s,
     ...(tr.sourceLabels?.[i] ? { label: { tr: tr.sourceLabels[i], en: s.label } } : {}),
   }));
-  const base = {
-    id,
-    slugs: tr.slugs,
-    order: Number(id.slice(1)),
-    theme: tr.theme,
-    title: tr.title,
-  };
+  // Links the research lists once at the end of a batch, attached to the item they belong to.
+  for (const extra of tr.extraSources ?? []) sources.push(extra);
+  // A plain Turkish title takes its English from the research heading.
+  const title =
+    typeof tr.title === 'string' ? { tr: tr.title, en: it.heading.replace(/\s*\(HIGH\)\s*$/, '').trim() } : tr.title;
+  const base = { id, slugs: tr.slugs, order: Number(id.slice(1)), theme: tr.theme, title };
   const viz = (n) => [{ id: 'ideas', tr: tr.visualization ?? '', en: it.sections[n].text }];
 
   if (id[0] === 'S') {
@@ -92,6 +93,7 @@ function build(id, tr) {
       ...base,
       verses: tr.verses,
       summary: tr.summary,
+      ...(tr.helpCard ? { helpCard: tr.helpCard } : {}),
       teachings: both('teachings', sec(it, MORAL.teachings)),
       scholarship: both('scholarship', sec(it, MORAL.scholarship)),
       evidence: both('evidence', sec(it, MORAL.evidence)),

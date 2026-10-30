@@ -47,10 +47,15 @@ function sections(body) {
 }
 
 /** Markdown links in a sources section → [{label, url?}]. Plain lines become label-only. */
-export function parseSources(text) {
+export function parseSources(text, { splitSemicolons = false } = {}) {
   const out = [];
-  for (const raw of text.split('\n')) {
-    const line = raw.replace(/^\s*-\s*/, '').trim();
+  // One source per line, or several on one line separated by semicolons (batch 2 and 4 style).
+  const pieces = text
+    .split('\n')
+    .map((raw) => raw.replace(/^\s*-\s*/, '').trim())
+    .flatMap((line) => (splitSemicolons ? line.split(/;\s+(?![^[]*\])/) : [line]));
+  for (const piece of pieces) {
+    const line = piece.trim().replace(/\.$/, '');
     if (!line) continue;
     const links = [...line.matchAll(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g)];
     const rest = line.replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g, '').replace(/\b(and|ve)\b|[,;.\s]/g, '');

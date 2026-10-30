@@ -77,10 +77,10 @@ visualizations:
 sources:
   - label:
       tr: NASA Güneş ve Ay bilgi sayfaları (güneş ışıması, ay albedosu)
-      en: NASA Sun and Moon fact sheets (solar luminosity, lunar albedo).
+      en: NASA Sun and Moon fact sheets (solar luminosity, lunar albedo)
   - label:
       tr: Râzî ve Zemahşerî'nin 10:5 ve 25:61 tefsirleri
-      en: Al-Rāzī and al-Zamakhsharī on 10:5 and 25:61.
+      en: Al-Rāzī and al-Zamakhsharī on 10:5 and 25:61
   - label:
       tr: Diyanet, hicrî takvim üzerine
-      en: Diyanet, on the Hijri calendar (*Hicrî takvim*).
+      en: Diyanet, on the Hijri calendar (*Hicrî takvim*)

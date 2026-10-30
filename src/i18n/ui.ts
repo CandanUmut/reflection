@@ -76,6 +76,7 @@ export const ui = {
     helpTitle: 'Destek almak mümkün',
     helpVesvese:
       'Bu düşünceler ya da kontrol döngüleri sık ve yoğun biçimde tekrar ediyorsa, bir ruh sağlığı uzmanıyla konuşmak yardımcı olabilir. Dinî titizlik tedavi edilebilir ve yardım istemek imanla çelişmez.',
+    helpSuffering: 'Umutsuzluk, yas ya da travma yaşıyorsan, profesyonel destek almak yardımcı olabilir.',
     helpEmergency: 'Acil bir durumda:',
     helpClinics: 'Düzenli destek için: Toplum Ruh Sağlığı Merkezleri (TRSM) ve üniversite klinikleri',
     helpAfad: 'Afet sonrası psikososyal destek: AFAD',
@@ -158,6 +159,7 @@ export const ui = {
     helpTitle: 'Support is available',
     helpVesvese:
       'If these thoughts or checking loops come back often and strongly, talking with a mental-health professional can help. Scrupulosity is treatable, and seeking help is consistent with faith.',
+    helpSuffering: 'If you are facing hopelessness, grief or trauma, professional support can help.',
     helpEmergency: 'In an emergency in Türkiye:',
     helpClinics: 'For ongoing support in Türkiye: community mental health centres (TRSM) and university clinics',
     helpAfad: 'Psychosocial support after disasters in Türkiye: AFAD',

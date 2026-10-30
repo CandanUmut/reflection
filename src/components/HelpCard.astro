@@ -6,7 +6,8 @@
 import { t, type Locale } from '../i18n/ui';
 interface Props {
   lang: Locale;
-  variant: 'vesvese' | 'disaster';
+  /** general: high-sensitivity questions, resources only · vesvese: Q8 · suffering: grief, du'a, hopelessness · disaster: adds AFAD · violence: emergency first. */
+  variant: 'general' | 'vesvese' | 'suffering' | 'disaster' | 'violence';
 }
 const { lang, variant } = Astro.props;
 ---
@@ -16,13 +17,21 @@ const { lang, variant } = Astro.props;
     {t(lang, 'helpTitle')}
   </h2>
   {variant === 'vesvese' && <p>{t(lang, 'helpVesvese')}</p>}
+  {(variant === 'suffering' || variant === 'disaster') && <p>{t(lang, 'helpSuffering')}</p>}
   <ul>
+    {variant === 'violence' && (
+      <li>
+        {t(lang, 'helpEmergency')} <a href="tel:112">112</a>
+      </li>
+    )}
     <li>{t(lang, 'helpClinics')}</li>
     {variant === 'disaster' && <li>{t(lang, 'helpAfad')}</li>}
     <li>{t(lang, 'helpElsewhere')}</li>
-    <li>
-      {t(lang, 'helpEmergency')} <a href="tel:112">112</a>
-    </li>
+    {variant !== 'violence' && (
+      <li>
+        {t(lang, 'helpEmergency')} <a href="tel:112">112</a>
+      </li>
+    )}
   </ul>
 </aside>
 
