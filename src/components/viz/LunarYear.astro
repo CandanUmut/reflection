@@ -1,0 +1,104 @@
+---
+// S21 · The moon as a measure of time. Left: the phase over one 29.5-day
+// month. Right: twelve lunar months make about 354 days, about 11 days short
+// of the solar year, so Ramadan moves backwards through the seasons and comes
+// round again in about 33 years. Both are driven by sliders; nothing autoplays.
+import VizFrame from '../VizFrame.astro';
+import type { Locale } from '../../i18n/ui';
+interface Props {
+  lang: Locale;
+  title: string;
+  textVersion?: string | undefined;
+  labels: Record<string, string>;
+}
+const { lang, title, textVersion, labels: L } = Astro.props;
+const seasons = [L.spring, L.summer, L.autumn, L.winter];
+---
+
+<VizFrame lang={lang} title={title} textVersion={textVersion} kind="lunar">
+  <svg viewBox="0 0 320 150" role="img" aria-label={title} focusable="false">
+    <g transform="translate(70 70)">
+      <circle r="42" class="moon-dark" />
+      <path class="moon-lit" d="" />
+      <circle r="42" class="moon-rim" />
+      <text class="v-text" y="68" text-anchor="middle" data-day-label></text>
+    </g>
+    <g transform="translate(240 70)">
+      <circle r="52" class="ring" />
+      {seasons.map((s, i) => {
+        const a = (i * 90 - 45) * (Math.PI / 180);
+        return (
+          <text class="v-text" x={Math.cos(a) * 68} y={Math.sin(a) * 68 + 3} text-anchor="middle">
+            {s}
+          </text>
+        );
+      })}
+      <circle r="6" class="ramadan v-lamp" cx="0" cy="-52" />
+      <text class="v-text" y="4" text-anchor="middle" data-year-label></text>
+    </g>
+  </svg>
+  <Fragment slot="controls">
+    <p class="viz__readout" aria-live="polite" data-readout></p>
+    <label>
+      {L.day}
+      <input type="range" min="0" max="29.5" step="0.5" value="7.5" data-day />
+    </label>
+    <label>
+      {L.years}
+      <input type="range" min="0" max="33" step="1" value="0" data-years />
+    </label>
+  </Fragment>
+  <script type="application/json" is:inline data-labels set:html={JSON.stringify(L)} />
+</VizFrame>
+
+<style>
+  .moon-dark {
+    fill: var(--paper-deep);
+  }
+  .moon-lit {
+    fill: var(--lamp-line);
+  }
+  .moon-rim,
+  .ring {
+    fill: none;
+    stroke: var(--hairline-strong);
+    stroke-width: 1;
+  }
+</style>
+
+<script>
+  for (const fig of document.querySelectorAll<HTMLElement>('[data-viz="lunar"]')) {
+    const L: Record<string, string> = JSON.parse(fig.querySelector('[data-labels]')!.textContent!);
+    const day = fig.querySelector<HTMLInputElement>('[data-day]')!;
+    const years = fig.querySelector<HTMLInputElement>('[data-years]')!;
+    const out = fig.querySelector('[data-readout]')!;
+    const lit = fig.querySelector('.moon-lit')!;
+    const dot = fig.querySelector('.ramadan')!;
+    const lang = document.documentElement.lang;
+    const fmt = (x: number, d = 0) => x.toLocaleString(lang, { maximumFractionDigits: d });
+
+    // Lit part of the disc for a phase p (0 new, 0.5 full), northern view.
+    const moonPath = (p: number, r = 42) => {
+      const rx = r * Math.abs(Math.cos(2 * Math.PI * p));
+      const waxing = p < 0.5;
+      const gibbous = p > 0.25 && p < 0.75;
+      return `M0 ${-r} A${r} ${r} 0 0 ${waxing ? 1 : 0} 0 ${r} A${rx} ${r} 0 0 ${gibbous === waxing ? 1 : 0} 0 ${-r}Z`;
+    };
+
+    const draw = () => {
+      const d = Number(day.value);
+      lit.setAttribute('d', moonPath((d / 29.5) % 1));
+      fig.querySelector('[data-day-label]')!.textContent = L.dayN.replace('{d}', fmt(d, 1));
+      const y = Number(years.value);
+      // Each solar year, the lunar year is about 11 days shorter (365.25 − 354).
+      const shiftDays = y * 11.25;
+      const a = -(shiftDays / 365.25) * 2 * Math.PI - Math.PI / 2;
+      dot.setAttribute('cx', String(Math.cos(a) * 52));
+      dot.setAttribute('cy', String(Math.sin(a) * 52));
+      fig.querySelector('[data-year-label]')!.textContent = L.yearN.replace('{y}', fmt(y));
+      out.textContent = L.readout.replace('{days}', fmt(shiftDays)).replace('{y}', fmt(y));
+    };
+    fig.addEventListener('input', draw);
+    draw();
+  }
+</script>

@@ -40,3 +40,31 @@ sourceLabels:
   - 'NOAA Okyanus Servisi — Işık okyanusta ne kadar ilerler?'
   - 'LibreTexts Oşinografi — Okyanusta ışık'
   - 'Taberî, İbn Kesîr ve Kurtubî''nin 24:39–40 tefsirleri'
+built:
+  - id: ocean
+    tr: Derine iniş — ışık nerede biter?
+    en: The descent — where does the light end?
+    labels:
+      tr:
+        depth: Derinlik
+        surface: Yüzeye yakın. Kırmızı ışık ilk birkaç metrede emilir.
+        sunlight: Işıklı bölge (yaklaşık 200 m'ye kadar). Mavi en derine iner.
+        twilight: Alacakaranlık bölgesi (yaklaşık 1.000 m'ye kadar). Yalnızca loş ışık.
+        dark: Yaklaşık 1.000 m'nin altında hiç güneş ışığı yok. "Elini çıkarsa neredeyse onu göremez." (24:40)
+      en:
+        depth: Depth
+        surface: Near the surface. Red light is absorbed in the top few metres.
+        sunlight: The sunlight zone (to about 200 m). Blue goes deepest.
+        twilight: The twilight zone (to about 1,000 m). Only dim light.
+        dark: Below about 1,000 m there is no sunlight at all. "When one puts out his hand, he can hardly see it." (24:40)
+    textVersion:
+      tr: |
+        - Güneş ışığı deniz suyunda hızla söner. Kırmızı ışık çoğunlukla ilk birkaç metrede emilir; mavi ışık en derine iner.
+        - Işıklı bölge yaklaşık 200 m'ye kadar uzanır. Onun altında alacakaranlık bölgesi yaklaşık 1.000 m'ye kadar iner. Yaklaşık 1.000 m'nin altında hiç güneş ışığı yoktur.
+        - Renklerin kayboluşu bu üç bilgiye göre şematik olarak çizilmiştir; ölçülmüş bir renk eğrisi değildir.
+        - Âyet bir temsildir: hidayetten yoksun olanın iç hâli. Çizim onun fiziksel resmini gösterir, anlamını değil.
+      en: |
+        - Sunlight fades quickly in seawater. Red light is mostly absorbed in the top few metres; blue light goes deepest.
+        - The sunlight zone reaches about 200 m. Below that, the twilight zone reaches about 1,000 m. Below about 1,000 m there is no sunlight at all.
+        - The colour fade is drawn schematically from these three facts; it is not a measured colour curve.
+        - The verse is a parable about the inner state of one without guidance. The drawing shows its physical picture, not its meaning.

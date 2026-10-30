@@ -1,0 +1,28 @@
+---
+// Picks the component for a built visualization by its id. Entries with other
+// ids (e.g. "ideas", the research's own visualization ideas) render nothing.
+import Sundial from './Sundial.astro';
+import LunarYear from './LunarYear.astro';
+import GodwitFlight from './GodwitFlight.astro';
+import OceanDescent from './OceanDescent.astro';
+import MountainRoot from './MountainRoot.astro';
+import type { Locale } from '../../i18n/ui';
+interface Props {
+  lang: Locale;
+  viz: {
+    id: string;
+    tr: string;
+    en: string;
+    textVersion?: { tr: string; en: string } | undefined;
+    labels?: { tr: Record<string, string>; en: Record<string, string> } | undefined;
+  };
+}
+const { lang, viz } = Astro.props;
+const common = { lang, title: viz[lang], textVersion: viz.textVersion?.[lang], labels: viz.labels?.[lang] ?? {} };
+---
+
+{viz.id === 'sundial' && <Sundial {...common} />}
+{viz.id === 'lunar' && <LunarYear {...common} />}
+{viz.id === 'godwit' && <GodwitFlight {...common} />}
+{viz.id === 'ocean' && <OceanDescent {...common} />}
+{viz.id === 'mountain' && <MountainRoot {...common} />}

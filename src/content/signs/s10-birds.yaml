@@ -52,6 +52,31 @@ visualizations:
   - id: ideas
     tr: Gün sayacı ve azalan bir yakıt göstergesiyle bir küre üzerinde rota.
     en: A globe route with a day counter and draining fuel gauge.
+  - id: godwit
+    tr: Konmadan 13.560 km — genç bir kıyı çulluğunun uçuşu
+    en: 13,560 km without landing — a young godwit's flight
+    labels:
+      tr:
+        alaska: Alaska
+        tasmania: Tazmanya
+        fuel: Yağ deposu (şematik)
+        progress: Uçuşun ilerleyişi
+        readout: '{d} gün {h} saat · yaklaşık {km} km · yemeden, içmeden, dinlenmeden'
+      en:
+        alaska: Alaska
+        tasmania: Tasmania
+        fuel: Fat store (schematic)
+        progress: Progress of the flight
+        readout: '{d} days {h} h · about {km} km · without food, water or rest'
+    textVersion:
+      tr: |
+        - Ekim 2022'de uydudan izlenen, yaklaşık beş aylık genç bir kıyı çulluğu Alaska'dan Tazmanya'ya yaklaşık 13.560 km'yi 11 gün 1 saatte, konmadan uçtu; daha önce hiç uçmadığı bir rotadaydı.
+        - Yola çıkmadan önce kıyı çullukları sindirim organlarını küçültür ve vücut ağırlıklarının yarısından fazlası kadar yağ taşır (BirdLife International).
+        - Çizimdeki rota ve yağ göstergesi şematiktir: gerçek harita ya da yağ harcama eğrisi değildir.
+      en: |
+        - In October 2022 a satellite-tagged juvenile godwit, about five months old, flew roughly 13,560 km nonstop from Alaska to Tasmania in 11 days and 1 hour, on a route it had never flown.
+        - Before departure godwits shrink digestive organs and carry fat over half their body weight (BirdLife International).
+        - The route and the fat gauge in the drawing are schematic: not a real map, not a measured fat-burning curve.
 sources:
   - label: ScienceBlog — juvenile bar-tailed godwit, 13,560 km Alaska–Tasmania
     url: https://scienceblog.com/t-juvenile-bar-tailed-godwit-13560km-alaska-tasmania/

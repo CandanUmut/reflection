@@ -1,0 +1,144 @@
+---
+// S14 · Shadows. A stick in the ground, seen from the side. Move the time of
+// day and the season and the shadow stretches, shrinks and swings; the ʿAṣr
+// markers use the two definitions in the research (majority: shadow = length +
+// noon shadow; Ḥanafī: twice the length + noon shadow). Length = h / tan(elev).
+// No autoplay: the reader moves the sun.
+import VizFrame from '../VizFrame.astro';
+import type { Locale } from '../../i18n/ui';
+interface Props {
+  lang: Locale;
+  title: string;
+  textVersion?: string | undefined;
+  labels: Record<string, string>;
+}
+const { lang, title, textVersion, labels: L } = Astro.props;
+---
+
+<VizFrame lang={lang} title={title} textVersion={textVersion} kind="sundial">
+  <svg viewBox="0 0 320 190" role="img" aria-label={title} focusable="false">
+    <path class="sun-arc" d="M20 150 Q160 -20 300 150" />
+    <circle class="sun v-lamp" cx="160" cy="40" r="7" />
+    <line class="v-ground" x1="0" y1="150" x2="320" y2="150" />
+    <line class="shadow" x1="160" y1="150" x2="160" y2="150" />
+    <line class="stick" x1="160" y1="150" x2="160" y2="110" />
+    <text class="v-text" x="4" y="170">
+      {L.west}
+    </text>
+    <text class="v-text" x="316" y="170" text-anchor="end">
+      {L.east}
+    </text>
+    <text class="v-text asr-mark" x="160" y="184" text-anchor="middle"></text>
+  </svg>
+  <Fragment slot="controls">
+    <p class="viz__readout" aria-live="polite" data-readout></p>
+    <label>
+      {L.time} <span data-time-out></span>
+      <input type="range" min="5" max="19" step="0.1" value="9" data-time />
+    </label>
+    <div class="viz__row" role="radiogroup" aria-label={L.season}>
+      <span>{L.season}:</span>
+      <label class="choice">
+        <input type="radio" name="sd-season" value="23.44" /> {L.summer}
+      </label>
+      <label class="choice">
+        <input type="radio" name="sd-season" value="0" checked /> {L.equinox}
+      </label>
+      <label class="choice">
+        <input type="radio" name="sd-season" value="-23.44" /> {L.winter}
+      </label>
+    </div>
+    <div class="viz__row" role="radiogroup" aria-label={L.place}>
+      <span>{L.place}:</span>
+      <label class="choice">
+        <input type="radio" name="sd-place" value="41" checked /> {L.istanbul}
+      </label>
+      <label class="choice">
+        <input type="radio" name="sd-place" value="21.4" /> {L.mecca}
+      </label>
+    </div>
+  </Fragment>
+  <script type="application/json" is:inline data-labels set:html={JSON.stringify(L)} />
+</VizFrame>
+
+<style>
+  .sun-arc {
+    fill: none;
+    stroke: var(--hairline);
+    stroke-dasharray: 2 4;
+  }
+  .stick {
+    stroke: var(--ink);
+    stroke-width: 2.5;
+    stroke-linecap: round;
+  }
+  .shadow {
+    stroke: var(--ink-soft);
+    stroke-width: 5;
+    stroke-linecap: round;
+    opacity: 0.45;
+  }
+  .choice {
+    display: inline-flex !important;
+    align-items: center;
+    gap: var(--space-1);
+    min-height: 2.75rem;
+  }
+  .choice input {
+    accent-color: var(--lamp);
+  }
+  .asr-mark {
+    fill: var(--lamp);
+  }
+</style>
+
+<script>
+  const rad = Math.PI / 180;
+  for (const fig of document.querySelectorAll<HTMLElement>('[data-viz="sundial"]')) {
+    const L: Record<string, string> = JSON.parse(fig.querySelector('[data-labels]')!.textContent!);
+    const time = fig.querySelector<HTMLInputElement>('[data-time]')!;
+    const out = fig.querySelector('[data-readout]')!;
+    const timeOut = fig.querySelector('[data-time-out]')!;
+    const sun = fig.querySelector('.sun')!;
+    const shadow = fig.querySelector('.shadow')!;
+    const asrMark = fig.querySelector('.asr-mark')!;
+    const UNIT = 40; // the stick is 40 px tall
+    const fmt = (x: number) => x.toLocaleString(document.documentElement.lang, { maximumFractionDigits: 1 });
+
+    const draw = () => {
+      const t = Number(time.value);
+      const dec = Number(fig.querySelector<HTMLInputElement>('input[name="sd-season"]:checked')!.value) * rad;
+      const lat = Number(fig.querySelector<HTMLInputElement>('input[name="sd-place"]:checked')!.value) * rad;
+      const hour = (t - 12) * 15 * rad;
+      const elev = Math.asin(Math.sin(lat) * Math.sin(dec) + Math.cos(lat) * Math.cos(dec) * Math.cos(hour));
+      const noonShadow = Math.tan(Math.abs(lat - dec));
+      const hh = Math.floor(t);
+      timeOut.textContent = `${String(hh).padStart(2, '0')}:${String(Math.round((t - hh) * 60)).padStart(2, '0')}`;
+      // Sun along its arc (picture only): east (right) in the morning, west (left) after noon.
+      const sx = 160 - (t - 12) * 20;
+      sun.setAttribute('cx', String(Math.max(12, Math.min(308, sx))));
+      sun.setAttribute('cy', String(150 - Math.max(-10, Math.sin(elev)) * 125));
+      if (elev <= 0) {
+        shadow.setAttribute('x2', '160');
+        out.textContent = L.below;
+        asrMark.textContent = '';
+        return;
+      }
+      const len = 1 / Math.tan(elev);
+      // Morning sun in the east throws the shadow west (left), and the reverse.
+      const dir = t < 12 ? -1 : 1;
+      const px = Math.min(len * UNIT, 158);
+      shadow.setAttribute('x2', String(160 + dir * px));
+      let text = len < 0.05 ? L.almostNone : L.ratio.replace('{x}', fmt(len));
+      if (len > 3.95) text += ' ' + L.long;
+      if (Math.abs(t - 12) < 0.15) text += ' ' + L.noon;
+      out.textContent = text;
+      let mark = '';
+      if (t > 12 && len >= 2 + noonShadow) mark = L.asrHanafi;
+      else if (t > 12 && len >= 1 + noonShadow) mark = L.asr;
+      asrMark.textContent = mark;
+    };
+    fig.addEventListener('input', draw);
+    draw();
+  }
+</script>

@@ -1,0 +1,80 @@
+---
+// S26 · Darkness in the deep sea. Go down with the slider: red light is gone
+// within the top few metres, then green, and blue reaches deepest; the
+// sunlight zone ends near 200 m, the twilight zone near 1,000 m, and below
+// that there is no sunlight at all. A hand held out fades from view (24:40).
+// The colour fade is schematic, following those three facts from the research.
+import VizFrame from '../VizFrame.astro';
+import type { Locale } from '../../i18n/ui';
+interface Props {
+  lang: Locale;
+  title: string;
+  textVersion?: string | undefined;
+  labels: Record<string, string>;
+}
+const { lang, title, textVersion, labels: L } = Astro.props;
+---
+
+<VizFrame lang={lang} title={title} textVersion={textVersion} kind="ocean">
+  <svg viewBox="0 0 320 200" role="img" aria-label={title} focusable="false">
+    <rect class="water" x="0" y="0" width="320" height="200" rx="3" />
+    <g class="hand" transform="translate(160 100)">
+      <path d="M-18 30 V-6 a5 5 0 0 1 10 0 V-16 a5 5 0 0 1 10 0 V-12 a5 5 0 0 1 10 0 V-4 a5 5 0 0 1 10 0 V18 a18 18 0 0 1 -18 16 H-4 a14 14 0 0 1 -14 -4z" />
+    </g>
+    <text class="depth" x="12" y="24" data-depth-label></text>
+  </svg>
+  <Fragment slot="controls">
+    <p class="viz__readout" aria-live="polite" data-readout></p>
+    <label>
+      {L.depth}
+      <input type="range" min="0" max="100" step="1" value="0" data-depth />
+    </label>
+  </Fragment>
+  <script type="application/json" is:inline data-labels set:html={JSON.stringify(L)} />
+</VizFrame>
+
+<style>
+  .water {
+    fill: rgb(150 200 225);
+  }
+  .hand path {
+    fill: none;
+    stroke: rgb(255 255 255 / 0.9);
+    stroke-width: 2;
+    stroke-linejoin: round;
+  }
+  .depth {
+    font: 500 12px var(--font-ui);
+    fill: #fff;
+  }
+</style>
+
+<script>
+  for (const fig of document.querySelectorAll<HTMLElement>('[data-viz="ocean"]')) {
+    const L: Record<string, string> = JSON.parse(fig.querySelector('[data-labels]')!.textContent!);
+    const range = fig.querySelector<HTMLInputElement>('[data-depth]')!;
+    const water = fig.querySelector<SVGRectElement>('.water')!;
+    const hand = fig.querySelector<SVGGElement>('.hand')!;
+    const label = fig.querySelector('[data-depth-label]')!;
+    const out = fig.querySelector('[data-readout]')!;
+    const lang = document.documentElement.lang;
+
+    // Slider 0–100 maps to 0–1,200 m on a curve, so the first metres get room.
+    const depthOf = (v: number) => Math.round(1200 * (v / 100) ** 2.2);
+    // Schematic attenuation: red gone in a few metres, green by ~200 m, blue by ~1,000 m.
+    const fade = (d: number, scale: number) => Math.exp(-d / scale);
+
+    const draw = () => {
+      const d = depthOf(Number(range.value));
+      const r = 150 * fade(d, 4);
+      const g = 200 * fade(d, 45);
+      const b = 225 * (d >= 1000 ? 0 : fade(d, 320));
+      water.style.fill = `rgb(${r} ${g} ${b})`;
+      hand.style.opacity = String(Math.max(0, Math.min(1, fade(d, 160))));
+      label.textContent = `${d.toLocaleString(lang)} m`;
+      out.textContent = d < 10 ? L.surface : d < 200 ? L.sunlight : d < 1000 ? L.twilight : L.dark;
+    };
+    range.addEventListener('input', draw);
+    draw();
+  }
+</script>

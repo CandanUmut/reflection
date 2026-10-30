@@ -14,6 +14,10 @@ const visualization = text.extend({
   id: z.string(),
   /** Text shown with a built visualization (and its text equivalent). */
   caption: text.optional(),
+  /** Full text equivalent of a built visualization (Markdown). */
+  textVersion: text.optional(),
+  /** Short labels drawn inside a visualization, per language. */
+  labels: z.object({ tr: z.record(z.string(), z.string()), en: z.record(z.string(), z.string()) }).optional(),
   steps: z.object({ tr: z.array(z.string()), en: z.array(z.string()) }).optional(),
 });
 
