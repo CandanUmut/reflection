@@ -102,6 +102,11 @@ const paletteCss = [
           {t(lang, 'footerTexts')} <a href="https://tanzil.net">Tanzil Project · tanzil.net</a>.
           {t(lang, 'footerTranslit')} <a href="https://quran.com">Quran.com</a>.
         </p>
+        {!standalone && (
+          <p>
+            <a href={localeUrl(lang, lang === 'tr' ? 'sozluk/' : 'glossary/')}>{t(lang, 'glossary')}</a>
+          </p>
+        )}
       </div>
     </footer>
   </body>

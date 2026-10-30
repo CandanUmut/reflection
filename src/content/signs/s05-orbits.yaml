@@ -53,5 +53,7 @@ sources:
   - label:
       tr: İbn Kesîr'in 36:38 tefsiri; Buhârî 3199, 4802
       en: Ibn Kathīr on 36:38; Bukhārī 3199, 4802
-  - label: Quran.com — hadith on 36:38
+  - label:
+      tr: Quran.com — 36:38 ile ilgili hadis
+      en: Quran.com — hadith on 36:38
     url: https://quran.com/en/36:38/hadith

@@ -124,6 +124,7 @@ function build(id, tr) {
     whyAsked: both('whyAsked', sec(it, QUESTION.whyAsked)),
     shortAnswer: both('shortAnswer', sec(it, QUESTION.shortAnswer)),
     layers,
+    ...(tr.rangeOfViews ? { rangeOfViews: tr.rangeOfViews } : {}),
     honestLimits: both('honest', sec(it, QUESTION.honest)),
     visualizations: viz(QUESTION.viz),
     sources,

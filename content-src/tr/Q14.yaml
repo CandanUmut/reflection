@@ -30,3 +30,28 @@ sourceLabels: [null, null, 'Mutahhari, *Adl-e İlâhî* (Farsça; İngilizcesi "
 sourceUrls:
   3: https://www.bliis.org/wp-content/uploads/2018/08/Taymaz-Tabrizi_Khumayni%CC%84-and-the-Salvation-of-Non-Muslims-in-Ima%CC%84mi%CC%84-Soteriology.pdf
   4: https://yaqeeninstitute.org/read/paper/the-fate-of-non-muslims-perspectives-on-salvation-outside-of-islam
+rangeOfViews:
+  title: { tr: Görüşlerin yelpazesi, en: The range of views }
+  from: { tr: Dar, en: Narrower }
+  to: { tr: Geniş, en: Wider }
+  views:
+    - who: İstisnalarıyla dışlayıcılık
+      view:
+        tr: Mesajı almamış olanlar reddeden sayılmaz (17:15).
+        en: Those the message never reached are not counted as rejecters (17:15).
+    - who: Gazzâlî
+      view:
+        tr: Yalnızca doğru duyup bile bile reddedenler sorumludur.
+        en: Only those who heard accurately and deliberately rejected are culpable.
+    - who: Reşîd Rızâ
+      view: { tr: Çarpıtılmış bir sunum, gerçekten duymak sayılmaz., en: A distorted presentation does not count as truly hearing. }
+    - who: Mutahhari
+      view:
+        tr: Kusursuz cahiller çoğunluktadır ve cezalandırılmaz; Allah'a samimiyetle inananlar mükâfat görür.
+        en: The inculpably ignorant are the majority and will not be punished; sincere believers in God are rewarded.
+    - who: Ahlâkî teizm (2:62)
+      view: { tr: Yaqeen'in makalesinde sayılan görüşlerden biri; 2:62'ye dayanır., en: One of the positions set out in Yaqeen's paper; it rests on 2:62. }
+    - who: Perennialism (Nasr, Schuon)
+      view:
+        tr: Fakihlerin çoğunca reddedilir. [Debated]
+        en: Rejected by most jurists. [Debated]

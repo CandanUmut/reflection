@@ -69,6 +69,10 @@ visualizations:
 sources:
   - label: Al-Maturidi, *Kitāb al-Tawḥīd*
   - label: Al-Ghazali, *al-Iqtiṣād*
-  - label: Nursi, 26th Word
-  - label: TDV İslâm Ansiklopedisi, "Kader" and "Kesb"
+  - label:
+      tr: Nursî, Yirmi Altıncı Söz
+      en: Nursi, 26th Word
+  - label:
+      tr: TDV İslâm Ansiklopedisi, "Kader" ve "Kesb"
+      en: TDV İslâm Ansiklopedisi, "Kader" and "Kesb"
   - label: Temel Yeşilyurt, *Çağdaş İnanç Problemleri* (Diyanet, 2018)

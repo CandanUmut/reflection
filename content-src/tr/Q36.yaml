@@ -1,0 +1,23 @@
+slugs: { tr: tek-dogru-din-kibir-mi, en: is-exclusivism-arrogant }
+theme: diversity
+title: Tek bir dinin doğru olduğunu iddia etmek kibir mi?
+verses: ["109:6", "10:99", "49:13"]
+steelman: |
+  Milyarlarca insan buna katılmıyor.
+whyAsked: |
+  Çoğulcu bir kültür.
+shortAnswer: |
+  Her görüş, "bütün dinler eşittir" görüşü dâhil, başkalarını dışarıda bırakır. Kibir, bir inancın *tutulup tutulmamasıyla* değil, *nasıl* tutulduğuyla ilgilidir.
+layers:
+  4: |
+    109:6; 10:99; 49:13. Ayrıca bkz. M11 (tevazu).
+  5: |
+    Plantinga (1995) dışlayıcılığı savunur; Hick'in çoğulculuğunun kendisi de tartışmalıdır.
+  6: |
+    Düşünsel tevazu üzerine araştırmalar (Leary ve ark.).
+  7: |
+    Alçakgönüllü bir güven, gruplar arası ilişkileri iyileştirir.
+honest: |
+  Dışlayıcılık zaman zaman kibirli olmuştur.
+visualization: |
+  "Her harita bir şeyleri dışarıda bırakır." Nasıl ve olup olmadığı. Âyetler.

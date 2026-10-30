@@ -50,6 +50,42 @@ layers:
     tr: |
       Gayrimüslim aile üyeleri için duyulan keder gerçektir; sahte kesinlik olmadan ümide yer açmak gerekir.
     en: Grief for non-Muslim family is real; allow hope without false certainty.
+rangeOfViews:
+  title:
+    tr: Görüşlerin yelpazesi
+    en: The range of views
+  from:
+    tr: Dar
+    en: Narrower
+  to:
+    tr: Geniş
+    en: Wider
+  views:
+    - who: İstisnalarıyla dışlayıcılık
+      view:
+        tr: Mesajı almamış olanlar reddeden sayılmaz (17:15).
+        en: Those the message never reached are not counted as rejecters (17:15).
+    - who: Gazzâlî
+      view:
+        tr: Yalnızca doğru duyup bile bile reddedenler sorumludur.
+        en: Only those who heard accurately and deliberately rejected are culpable.
+    - who: Reşîd Rızâ
+      view:
+        tr: Çarpıtılmış bir sunum
+        gerçekten duymak sayılmaz.: null
+        en: A distorted presentation does not count as truly hearing.
+    - who: Mutahhari
+      view:
+        tr: Kusursuz cahiller çoğunluktadır ve cezalandırılmaz; Allah'a samimiyetle inananlar mükâfat görür.
+        en: The inculpably ignorant are the majority and will not be punished; sincere believers in God are rewarded.
+    - who: Ahlâkî teizm (2:62)
+      view:
+        tr: Allah'a ve âhirete inanıp salih amel işleyenler.
+        en: Those who believe in God and the Last Day and do good.
+    - who: Perennialism (Nasr, Schuon)
+      view:
+        tr: Fakihlerin çoğunca reddedilir. [Debated]
+        en: Rejected by most jurists. [Debated]
 honestLimits:
   tr: |
     Hiçbir büyük Sünnî mezhep bütün dinlerin eşit derecede geçerli yollar olduğunu öğretmez. Kapsayıcı görüşler, Allah'ın her kişinin mesaja ulaşma imkânını ve samimiyetini bilmesine dayanır.

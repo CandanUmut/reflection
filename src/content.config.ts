@@ -67,6 +67,15 @@ const questions = defineCollection({
         kind: z.enum(['religious', 'philosophical', 'scientific', 'clinical', 'psychological', 'history']),
       }),
     ),
+    /** Positions named in the research, set along one line (DESIGN.md §4.6). */
+    rangeOfViews: z
+      .object({
+        title: text,
+        from: text,
+        to: text,
+        views: z.array(z.object({ who: z.string(), view: text })).min(2),
+      })
+      .optional(),
     honestLimits: text,
     visualizations: z.array(visualization),
     sources: z.array(source).min(1),

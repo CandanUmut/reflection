@@ -46,6 +46,41 @@ layers:
     tr: |
       Cehennem kaygısı dinî titizlikte (vesvese) yaygındır. Ürkütücü imgelerden kaçınmak; adaleti, Allah'ın rahmetinin yüz parça olduğu ve doksan dokuzunun âhiret için saklandığı hadisiyle (Müslim 2752) birlikte vermek gerekir.
     en: Hell-anxiety is common in scrupulosity. Avoid graphic imagery; pair justice with the hadith that God's mercy has 100 parts, 99 reserved for the Hereafter (Muslim 2752).
+rangeOfViews:
+  title:
+    tr: Görüşlerin yelpazesi
+    en: The range of views
+  from:
+    tr: Kâfirler için ebedî
+    en: Eternal for disbelievers
+  to:
+    tr: Azap sona erer ya da dönüşür
+    en: The punishment ends or is transformed
+  views:
+    - who: Eş'arî, Mâtürîdî, Eserîlerin çoğu
+      view:
+        tr: Çoğunluk. Kâfirler için ebedîdir; günahkâr müminler çıkar.
+        en: The majority. Eternal for disbelievers; sinning believers leave.
+    - who: İbn Vezîr
+      view:
+        tr: Hüküm vermekten kaçındı.
+        en: Withheld judgement.
+    - who: İbn Teymiyye
+      view:
+        tr: Ebedîliğe dair icma yoktur; azap bir amaca yöneliktir. Sona erdiğini kesin söylemez (Hoover).
+        en: No consensus on eternity; the chastisement is purposive. Never states categorically that it ends (Hoover).
+    - who: İbn Kayyim
+      view:
+        tr: Cehennem iyileştirici ve ıslah edicidir.
+        en: Hell is therapeutic and reformative.
+    - who: Reşîd Rızâ
+      view:
+        tr: Temkinli bir evrenselciliğe meyletti.
+        en: Leaned toward cautious universalism.
+    - who: İbn Arabî
+      view:
+        tr: Ehli için azap (*azâb*) tatlılığa (*azb*) dönüşür. [Debated]
+        en: For its people, the torment (*ʿadhāb*) becomes sweetness (*ʿadhb*). [Debated]
 honestLimits:
   tr: |
     Azınlık görüşü klasiktir ama azınlıkta kalır ve yaygın biçimde kınanmıştır; gizli "gerçek" İslam değildir.

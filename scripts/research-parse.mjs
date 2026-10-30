@@ -78,7 +78,9 @@ export function parseSources(text, { splitSemicolons = false } = {}) {
     if (!line) continue;
     // URLs may hold one level of parentheses (Wikipedia: 73_Sects_(Hadith)).
     const links = [...line.matchAll(/\[([^\]]+)\]\((https?:(?:[^()\s]|\([^()\s]*\))+)\)/g)];
-    const rest = line.replace(/\[([^\]]+)\]\((https?:(?:[^()\s]|\([^()\s]*\))+)\)/g, '').replace(/\b(and|ve)\b|[,;.\s]/g, '');
+    const rest = line
+      .replace(/\[([^\]]+)\]\((https?:(?:[^()\s]|\([^()\s]*\))+)\)/g, '')
+      .replace(/\b(and|ve)\b|[,;.\s]/g, '');
     if (links.length && !rest) {
       // "[A](u1) and [B](u2)": one entry per link.
       for (const m of links) out.push({ label: m[1], url: m[2] });

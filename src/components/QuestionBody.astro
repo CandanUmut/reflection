@@ -7,6 +7,7 @@ import type { CollectionEntry } from 'astro:content';
 import VerseBlock from './VerseBlock.astro';
 import HonestNote from './HonestNote.astro';
 import HelpCard from './HelpCard.astro';
+import RangeOfViews from './RangeOfViews.astro';
 import Sources from './Sources.astro';
 import { md } from '../lib/md';
 import { t, type Locale, type UiKey } from '../i18n/ui';
@@ -66,6 +67,8 @@ const layerLabel: Record<string, UiKey> = {
       </details>
     ))}
   </section>
+
+  {q.rangeOfViews && <RangeOfViews lang={lang} range={q.rangeOfViews} />}
 
   <HonestNote lang={lang} label={t(lang, 'honestLimits')}>
     <Fragment set:html={md(q.honestLimits[lang], lang)} />

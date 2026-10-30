@@ -1,0 +1,24 @@
+slugs: { tr: dindar-degil-inancli, en: spiritual-not-religious }
+theme: meaning
+title: '"Dindar değilim ama inançlıyım" olabilir miyim?'
+verses: ["103:1-3"]
+steelman: |
+  İmanı neden kişisel tutmayayım?
+whyAsked: |
+  KONDA 2025: "inançlı ama dindar değil" diyenler %31'den %34'e yükseldi.
+shortAnswer: |
+  Kalpteki iman temeldir; beden ve ruh birlikte olduğu gibi, pratik de onu ayakta tutar. Küçük başla.
+layers:
+  4: |
+    103:3; Cibrîl hadisi (Müslim 8); Kuşeyrî.
+  5: |
+    Bireyselleşmiş din topluluktan yoksundur (Heelas ve Woodhead 2005).
+  6: |
+    ABD'li yetişkinlerin %27'si kendini dindar değil ama maneviyatlı olarak tanımlıyor; bu oran beş yılda 8 puan arttı (Pew Araştırma Merkezi, 5.002 yetişkinle anket, 2017).
+  7: |
+    Arada kalmış bir evre sağlıklı olabilir.
+honest: |
+  KONDA'nın "inançlı" kategorisi geniştir.
+visualization: |
+  Beden ve ruh. Bir grafik. Bir "küçük başla" kartı.
+sourceLabels: ['KONDA 2025 (Türkçe)', null, null, null]

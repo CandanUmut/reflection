@@ -78,6 +78,12 @@
    "en": "Righteousness is not that you turn your faces toward the east or the west, but [true] righteousness is [in] one who believes in Allah, the Last Day, the angels, the Book, and the prophets and gives wealth, in spite of love for it, to relatives, orphans, the needy, the traveler, those who ask [for help], and for freeing slaves; [and who] establishes prayer and gives zakah; [those who] fulfill their promise when they promise; and [those who] are patient in poverty and hardship and during battle. Those are the ones who have been true, and it is those who are the righteous.",
    "tr": "Yüzlerinizi bazan doğu, bazan batı tarafına çevirmeniz erginlik değildir. Fakat eren o kimselerdir ki, Allah'a, ahiret gününe, meleklere, kitaba ve bütün peygamberlere iman edip, yakınlığı olanlara, öksüzlere, yoksullara, yolda kalmışa, dilenenlere ve esirleri kurtarmaya seve seve mal verirler. Namazı kılarlar, zekatı verirler. Bir de andlaştıkları zaman sözlerini yerine getirenler, hele sıkıntı ve hastalık durumlarında ve harbin şiddetli zamanında sabır ve kararlılık gösterenler var ya, işte doğru olanlar da bunlardır, korunanlar da bunlardır."
   },
+  "2:183": {
+   "ar": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُتِبَ عَلَيْكُمُ ٱلصِّيَامُ كَمَا كُتِبَ عَلَى ٱلَّذِينَ مِن قَبْلِكُمْ لَعَلَّكُمْ تَتَّقُونَ",
+   "translit": "yāayyuhā alladhīna āmanū kutiba ʿalaykumu l-ṣiyāmu kamā kutiba ʿalā alladhīna min qablikum laʿallakum tattaqūna",
+   "en": "O you who have believed, decreed upon you is fasting as it was decreed upon those before you that you may become righteous -",
+   "tr": "Ey iman edenler! Oruç, sizden öncekilere farz kılındığı gibi size de farz kılındı. Umulur ki korunursunuz."
+  },
   "2:186": {
    "ar": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ",
    "translit": "wa-idhā sa-alaka ʿibādī ʿannī fa-innī qarībun ujību daʿwata l-dāʿi idhā daʿāni falyastajībū lī walyu'minū bī laʿallahum yarshudūna",
@@ -119,6 +125,12 @@
    "translit": "lā ik'rāha fī l-dīni qad tabayyana l-rush'du mina l-ghayi faman yakfur bil-ṭāghūti wayu'min bil-lahi faqadi is'tamsaka bil-ʿur'wati l-wuth'qā lā infiṣāma lahā wal-lahu samīʿun ʿalīmun",
    "en": "There shall be no compulsion in [acceptance of] the religion. The right course has become clear from the wrong. So whoever disbelieves in Taghut and believes in Allah has grasped the most trustworthy handhold with no break in it. And Allah is Hearing and Knowing.",
    "tr": "Dinde zorlama yoktur. Çünkü doğruluk, sapıklıktan ayırd edilmiştir. Artık her kim tâğutu inkar edip, Allah'a inanırsa, sağlam bir kulpa yapışmıştır ki, o hiçbir zaman kopmaz. Allah, her şeyi işitir ve bilir."
+  },
+  "2:260": {
+   "ar": "وَإِذْ قَالَ إِبْرَٰهِـۧمُ رَبِّ أَرِنِى كَيْفَ تُحْىِ ٱلْمَوْتَىٰ ۖ قَالَ أَوَلَمْ تُؤْمِن ۖ قَالَ بَلَىٰ وَلَٰكِن لِّيَطْمَئِنَّ قَلْبِى ۖ قَالَ فَخُذْ أَرْبَعَةً مِّنَ ٱلطَّيْرِ فَصُرْهُنَّ إِلَيْكَ ثُمَّ ٱجْعَلْ عَلَىٰ كُلِّ جَبَلٍ مِّنْهُنَّ جُزْءًا ثُمَّ ٱدْعُهُنَّ يَأْتِينَكَ سَعْيًا ۚ وَٱعْلَمْ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ",
+   "translit": "wa-idh qāla ib'rāhīmu rabbi arinī kayfa tuḥ'yī l-mawtā qāla awalam tu'min qāla balā walākin liyaṭma-inna qalbī qāla fakhudh arbaʿatan mina l-ṭayri faṣur'hunna ilayka thumma ij'ʿal ʿalā kulli jabalin min'hunna juz'an thumma ud'ʿuhunna yatīnaka saʿyan wa-iʿ'lam anna l-laha ʿazīzun ḥakīmun",
+   "en": "And [mention] when Abraham said, \"My Lord, show me how You give life to the dead.\" [Allah] said, \"Have you not believed?\" He said, \"Yes, but [I ask] only that my heart may be satisfied.\" [Allah] said, \"Take four birds and commit them to yourself. Then [after slaughtering them] put on each hill a portion of them; then call them - they will come [flying] to you in haste. And know that Allah is Exalted in Might and Wise.\"",
+   "tr": "Bir zamanlar İbrahim de: \"Ey Rabbim! Ölüleri nasıl dirilttiğini bana göster!\" demişti. Allah: \"İnanmadın mı ki?\" buyurdu. İbrahim: \"İnandım, fakat kalbim iyice yatışsın diye istiyorum.\" dedi. Allah buyurdu ki: \"Öyle ise kuşlardan dördünü tut da onları kendine çevir, iyice tanıdıktan sonra (kesip) her dağın başına onlardan birer parça dağıt, sonra da onları çağır, koşa koşa sana gelecekler ve bil ki, Allah gerçekten çok güçlüdür, hüküm ve hikmet sahibidir.\""
   },
   "2:261": {
    "ar": "مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمْوَٰلَهُمْ فِى سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتْ سَبْعَ سَنَابِلَ فِى كُلِّ سُنۢبُلَةٍ مِّا۟ئَةُ حَبَّةٍ ۗ وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُ ۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
@@ -299,6 +311,12 @@
    "translit": "qul law shāa l-lahu mā talawtuhu ʿalaykum walā adrākum bihi faqad labith'tu fīkum ʿumuran min qablihi afalā taʿqilūna",
    "en": "Say, \"If Allah had willed, I would not have recited it to you, nor would He have made it known to you, for I had remained among you a lifetime before it. Then will you not reason?\"",
    "tr": "De ki, \"Eğer Allah dileseydi ben onu size okumazdım. O da onu hiçbir şekilde size bildirmezdi. Bilirsiniz ki, ben sizin içinizde bundan önce yıllarca bulundum. Siz hâlâ aklınızı başınıza toplamayacak mısınız?\""
+  },
+  "10:99": {
+   "ar": "وَلَوْ شَآءَ رَبُّكَ لَـَٔامَنَ مَن فِى ٱلْأَرْضِ كُلُّهُمْ جَمِيعًا ۚ أَفَأَنتَ تُكْرِهُ ٱلنَّاسَ حَتَّىٰ يَكُونُوا۟ مُؤْمِنِينَ",
+   "translit": "walaw shāa rabbuka laāmana man fī l-arḍi kulluhum jamīʿan afa-anta tuk'rihu l-nāsa ḥattā yakūnū mu'minīna",
+   "en": "And had your Lord willed, those on earth would have believed - all of them entirely. Then, [O Muhammad], would you compel the people in order that they become believers?",
+   "tr": "Eğer Rabbin dileseydi, yeryüzünde kim varsa hepsi toptan iman ederlerdi. O halde insanları hep mümin olsunlar diye sen mi zorlayacaksın?"
   },
   "11:106": {
    "ar": "فَأَمَّا ٱلَّذِينَ شَقُوا۟ فَفِى ٱلنَّارِ لَهُمْ فِيهَا زَفِيرٌ وَشَهِيقٌ",
@@ -1344,6 +1362,24 @@
    "en": "Taught man that which he knew not.",
    "tr": "İnsana bilmediği şeyleri öğretti."
   },
+  "103:1": {
+   "ar": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ وَٱلْعَصْرِ",
+   "translit": "wal-ʿaṣri",
+   "en": "By time,",
+   "tr": "Asra yemin olsun ki,"
+  },
+  "103:2": {
+   "ar": "إِنَّ ٱلْإِنسَٰنَ لَفِى خُسْرٍ",
+   "translit": "inna l-insāna lafī khus'rin",
+   "en": "Indeed, mankind is in loss,",
+   "tr": "İnsan mutlaka ziyandadır."
+  },
+  "103:3": {
+   "ar": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّٰلِحَٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+   "translit": "illā alladhīna āmanū waʿamilū l-ṣāliḥāti watawāṣaw bil-ḥaqi watawāṣaw bil-ṣabri",
+   "en": "Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience.",
+   "tr": "Ancak iman edenler, salih amel (iyi işler) işleyenler, birbirlerine hakkı tavsiye eden ve sabrı tavsiye edenler bunun dışındadır"
+  },
   "107:1": {
    "ar": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
    "translit": "ara-ayta alladhī yukadhibu bil-dīni",
@@ -1361,6 +1397,12 @@
    "translit": "walā yaḥuḍḍu ʿalā ṭaʿāmi l-mis'kīni",
    "en": "And does not encourage the feeding of the poor.",
    "tr": "Yoksulu doyurmaya önayak olmaz."
+  },
+  "109:6": {
+   "ar": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+   "translit": "lakum dīnukum waliya dīni",
+   "en": "For you is your religion, and for me is my religion.\"",
+   "tr": "Sizin dininiz size, benim dinim banadır."
   },
   "112:1": {
    "ar": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قُلْ هُوَ ٱللَّهُ أَحَدٌ",
