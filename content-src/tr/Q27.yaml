@@ -1,0 +1,29 @@
+slugs: { tr: neden-peygamber, en: why-muhammad }
+theme: prophethood
+title: Muhammed'in peygamber olduğuna neden inanmalı?
+verses: ["10:16", "2:23", "30:2-4"]
+steelman: |
+  Pek çok insan peygamber olduğunu iddia etti ve kaynakları onun kendi takipçileri yazdı.
+whyAsked: |
+  Allah'a inanan ama vahiyden şüphe eden insanlar için bir sonraki adımdır.
+shortAnswer: |
+  Gerekçe birikimlidir; iplikler bir araya gelince sağlam bir halat oluşturur:
+  - risaletten önceki dürüstlüğü (*el-Emîn*, "güvenilir");
+  - yazı yazmayan bir adamdan gelen bir Kur'an;
+  - sade bir hayat;
+  - dönüşen takipçiler;
+  - gerçekleşen bazı öngörüler.
+layers:
+  4: |
+    Bkz. 10:16, Kur'an'ın benzeri bir sûre getirme meydan okuması (2:23) ve Bizans hakkındaki haber (30:2–4). O zaman düşman olan Ebû Süfyân, Herakleios'a Muhammed'in hiç yalan söylemediğini itiraf etti (Buhârî 7). Ayrıca bkz. Nursî'nin *19. Mektup*'u ve Mutahhari'nin *Nübüvvet*'i.
+  5: |
+    Yalancı mı, yanılgıda mı, yoksa doğru sözlü mü? Yalancılık, onun yoksulluğuyla ve gördüğü zulümle pek uyuşmaz.
+  6: |
+    630'lar–660'lardan gayrimüslim kaynaklar ondan söz eder. Birmingham yazması MS 568–645'e tarihlendirilir.
+  7: |
+    Hayatından hikâyeler kıyaslardan daha ikna edicidir.
+honest: |
+  Bazı kehanetler abartılıyor ve "bilimsel mucizeler" zayıf.
+visualization: |
+  Bir delil örgüsü. Vahiyden önceki 40 yılının zaman çizelgesi. Herakleios'la bir soru-cevap.
+sourceLabels: [null, 'İbn Teymiyye, *el-Cevâb* (Arapça)', 'Nursî (Türkçe)', null, 'Hamidullah (Fransızca)', 'Mutahhari (Farsça)']

@@ -1,0 +1,24 @@
+slugs: { tr: inanc-yetistirilme-mi, en: belief-and-upbringing }
+theme: god
+title: İnanç sadece yetiştirilme tarzının sonucu değil mi?
+verses: ["2:170", "30:30"]
+steelman: |
+  Tamil Nadu'da doğsaydım Hindu olurdum. İnanç doğum yerini izliyor.
+whyAsked: |
+  Üniversite öğrencileri arasında yaygındır.
+shortAnswer: |
+  Bir inancın nasıl ortaya çıktığı, doğru olup olmadığına karar vermez; öyle varsaymak köken safsatasıdır. Kur'an'ın kendisi de atalardan devralınan imanı kınar (2:170; 43:22–23). Allah'a doğal bir açıklık, *fıtrata*, yani doğuştan gelen yatkınlığa uyar. Asıl soru, şimdi sebeplerinin olup olmadığıdır.
+layers:
+  4: |
+    Fıtrat için bkz. 30:30 ve Buhârî 1385. Gazzâlî'nin kendi şüphesi tam olarak bu soruyla başladı (*Munkız*).
+  5: |
+    Çürütme argümanları gereğinden fazlasını kanıtlar. Barrett (2012), çocukların inanmaya yatkın olduğunu, ama belirli bir dinî ya da teolojik geleneğe yatkın olmadığını bulur.
+  6: |
+    Analitik düşünmenin inancı azalttığı iddiası büyük bir tekrar çalışmasında tutmadı (Sanchez ve ark., *PLOS ONE* 2017).
+  7: |
+    İmanı sahiplenmek, gelişimin normal bir evresidir.
+honest: |
+  Yetiştirilme inancı gerçekten şekillendirir. *Fıtrat* verilerle uyuşur ama onlarla kanıtlanmaz.
+visualization: |
+  "İki yol." Bir test. Tohum, toprak ve bahçıvan kartı.
+sourceLabels: [null, null, 'İbn Teymiyye, *Der''* (Arapça)', 'Gazzâlî, *el-Munkız* (Arapça/Türkçe)', 'Aimmah ve ark., *Ta''dibuna* (2025, Endonezce)', 'TDV, "Fıtrat" (Türkçe)']

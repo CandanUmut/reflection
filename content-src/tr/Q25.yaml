@@ -1,0 +1,26 @@
+slugs: { tr: escinsellik, en: homosexuality }
+theme: ethics
+title: Eşcinsellik
+sensitivity: high
+helpCard: general
+verses: ["2:286"]
+steelman: |
+  Cinsel yönelim seçilmez. Ömür boyu bekâr kalmayı şart koşmak adaletsiz görünür ve toplumsal zulüm bazı insanları intihara iter.
+whyAsked: |
+  İnsanlar bunu kendi kimlikleri, arkadaşları ya da modern ahlâkî kaygı yüzünden sorar.
+shortAnswer: |
+  İslam yönelimi fiilden ayırır; duygular günah değildir. Ana akım İslam hukuku eşcinsel fiilleri yasaklar; küçük bir revizyonist azınlık buna katılmaz. Her insanın Allah'ın verdiği bir onuru vardır. Alay, şiddet ve aile tarafından dışlanma yanlıştır.
+layers:
+  4: |
+    Lût kıssası (7:80–84) klasik olarak erkekler arası eşcinsel fiilleri kınayan bir anlatı olarak okunur. Ebû Hanîfe sabit bir *had* cezası olmadığı görüşündeydi. Scott Kugle (2010) kıssayı tecavüz ve misafirperverlik ihlali hakkında okur. Mobeen Vaid (*AJISS* 34(3), 2017), Kugle'ın hem Kur'an'ı hem İbn Hazm'ı yanlış okuduğunu savunur [Debated].
+  5: |
+    Ömür boyu bekârlığın farklı türden bir yük olduğu itirazı ciddidir. Tam tatmin edici bir cevabı yoktur. Teolojik cevap, Allah'ın insanları farklı şekillerde imtihan ettiğidir (2:286).
+  6: |
+    Tek bir "eşcinsellik geni" yoktur (Ganna ve ark., *Science* 2019, yaklaşık 500.000 kişi). Dönüşüm terapisi zararlıdır.
+  7: |
+    Önce güvenlik gelir: Türkiye'de 112 ya da bir kriz hattı.
+honest: |
+  Ana akım görüş açıktır ve revizyonist görüş tartışmalı bir azınlıktır. Lût kıssası asla kimseyi insanlıktan çıkarmak için kullanılmamalıdır.
+visualization: |
+  Bir yönelim → fiil → onur şeması. Cezalar hakkındaki tartışmaya dair bir kart. Destek hizmetleri haritası.
+sourceLabels: [null, null, null, 'İbn Hazm, *Tavku''l-Hamâme* (Arapça)', null, null]
