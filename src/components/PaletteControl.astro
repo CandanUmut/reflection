@@ -2,10 +2,20 @@
 // The sun/moon control (DESIGN.md §3.1). Its icon is the real current moon
 // phase, computed in the browser. Choices: automatic, or one of four palettes.
 import { t, type Locale } from '../i18n/ui';
+import { palettes } from '../styles/palettes.mjs';
 interface Props {
   lang: Locale;
 }
 const { lang } = Astro.props;
+// Swatch colours come from the palettes themselves, so they cannot drift.
+const { fajr, day, asr, night } = palettes;
+const swatch: Record<string, string> = {
+  auto: `conic-gradient(${fajr.paper} 0 25%, ${day.paper} 0 50%, ${asr.paper} 0 75%, ${night.paper} 0)`,
+  fajr: fajr.paper,
+  day: day.paper,
+  asr: asr.paper,
+  night: night.paper,
+};
 const options = [
   ['auto', t(lang, 'paletteAuto')],
   ['fajr', t(lang, 'paletteFajr')],
@@ -30,7 +40,7 @@ const options = [
       {options.map(([value, label]) => (
         <label class="palette-option">
           <input type="radio" name="palette" value={value} />
-          <span class={`swatch swatch--${value}`} aria-hidden="true"></span>
+          <span class="swatch" style={`background:${swatch[value]}`} aria-hidden="true"></span>
           <span>{label}</span>
         </label>
       ))}
@@ -109,21 +119,6 @@ const options = [
     border-radius: 50%;
     border: 1px solid var(--hairline-strong);
   }
-  .swatch--auto {
-    background: conic-gradient(#eeedea 0 25%, #f3ede2 0 50%, #f2e6d2 0 75%, #0e1322 0);
-  }
-  .swatch--fajr {
-    background: #eeedea;
-  }
-  .swatch--day {
-    background: #f3ede2;
-  }
-  .swatch--asr {
-    background: #f2e6d2;
-  }
-  .swatch--night {
-    background: #0e1322;
-  }
   .moon-note {
     margin: var(--space-2) 0 0;
     color: var(--ink-soft);
@@ -189,6 +184,9 @@ const options = [
     });
     document.addEventListener('click', (e) => {
       if (!el.contains(e.target as Node)) close();
+    });
+    el.addEventListener('focusout', (e) => {
+      if (!el.contains(e.relatedTarget as Node | null)) close();
     });
   }
 

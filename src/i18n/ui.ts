@@ -23,15 +23,15 @@ export const ui = {
     awe: 'Hayret noktaları',
     honestNote: 'Dürüst not',
     established: 'Yerleşik bilgi',
-    scholarly: 'Yaygın yorum',
+    scholarly: 'Ana akım yorum',
     debated: 'Tartışmalı',
     establishedHint: 'Bilimsel ya da tarihî uzlaşı',
-    scholarlyHint: 'Âlimlerin yaygın yorumu',
+    scholarlyHint: 'Âlimlerin ana akım yorumu',
     debatedHint: 'Tartışmalı ya da azınlık görüşü',
     pauseSkip: 'Devam et',
     pauseLabel: 'Tefekkür arası',
     sources: 'Kaynaklar',
-    translationBy: 'Meal: Elmalılı Hamdi Yazır',
+    translationBy: 'Meal: Elmalılı Hamdi Yazır (sadeleştirilmiş baskı)',
     transliteration: 'Okunuş',
     play: 'Oynat',
     pause: 'Durdur',
@@ -45,7 +45,9 @@ export const ui = {
     liveHint: 'Kur’an’ın ahlâk ve toplum vizyonu',
     askHint: 'İnancın zor sorularına dürüst cevaplar',
     invitation: 'Günün daveti',
-    footerTanzil: 'Arapça metin ve mealler: Tanzil Projesi (tanzil.net). Okunuş: Quran.com kelime kelime verisi.',
+    footerTexts:
+      'Arapça metin ve mealler (Elmalılı Hamdi Yazır, sadeleştirilmiş baskı; Saheeh International), değiştirilmeden:',
+    footerTranslit: 'Kelime kelime okunuş:',
   },
   en: {
     siteName: 'Tefekkür',
@@ -89,8 +91,9 @@ export const ui = {
     liveHint: 'The Quran’s moral and social vision',
     askHint: 'Honest answers to hard questions of faith',
     invitation: 'Invitation of the day',
-    footerTanzil:
-      'Arabic text and translations: Tanzil Project (tanzil.net). Transliteration: Quran.com word-by-word data.',
+    footerTexts:
+      'Arabic text and translations (Saheeh International; Elmalılı Hamdi Yazır, simplified edition), unchanged:',
+    footerTranslit: 'Word-by-word transliteration:',
   },
 } as const;
 

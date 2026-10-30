@@ -5,7 +5,7 @@
 // the day: one short verse from the research index, changing daily.
 import { parse } from 'yaml';
 import dailyRaw from '../data/daily-verses.yaml?raw';
-import { getVerse, refLabel } from '../lib/quran';
+import { expandRef, getVerse, refLabel } from '../lib/quran';
 import { t, type Locale } from '../i18n/ui';
 
 interface Props {
@@ -14,8 +14,14 @@ interface Props {
 }
 const { lang, links } = Astro.props;
 const refs: string[] = parse(dailyRaw).refs;
-const daily = refs.map((r) => ({ ref: refLabel(r), text: getVerse(r, lang).translation }));
-// Build-time choice; the script below swaps in the visitor's actual day.
+const daily = refs.map((r) => ({
+  ref: refLabel(r),
+  text: expandRef(r)
+    .map((v) => getVerse(v, lang).translation)
+    .join(' '),
+}));
+// Build-time choice, shown without JavaScript. With JavaScript the slot stays
+// hidden until the script has put in the visitor's own day, so nothing swaps.
 const dayIndex = Math.floor(Date.now() / 86400000) % daily.length;
 const arches = [
   { key: 'reflect', href: links.reflect, label: t(lang, 'reflect'), hint: t(lang, 'reflectHint') },
@@ -31,9 +37,10 @@ const ARCH = 'M8 210 V96 A104 104 0 0 1 70 10 A104 104 0 0 1 132 96 V210';
     <blockquote>
       <p data-invitation-text>{daily[dayIndex].text}</p>
     </blockquote>
-    <p class="ref" data-invitation-ref>
+    <p class="invitation__ref ref" data-invitation-ref>
       {daily[dayIndex].ref}
     </p>
+    <p class="invitation__credit">{t(lang, 'translationBy')}</p>
     <script type="application/json" is:inline set:html={JSON.stringify(daily)} />
   </figure>
   <nav class="arches" aria-label={t(lang, 'siteName')}>
@@ -71,6 +78,7 @@ const ARCH = 'M8 210 V96 A104 104 0 0 1 70 10 A104 104 0 0 1 132 96 V210';
 <style>
   .threshold {
     padding-block: var(--space-6) var(--space-5);
+    padding-inline: var(--space-3);
     text-align: center;
   }
   .invitation {
@@ -80,7 +88,7 @@ const ARCH = 'M8 210 V96 A104 104 0 0 1 70 10 A104 104 0 0 1 132 96 V210';
   .invitation blockquote {
     margin: var(--space-2) 0;
   }
-  .invitation p {
+  .invitation blockquote p {
     font-family: var(--font-display);
     font-style: italic;
     font-size: var(--step-1);
@@ -88,10 +96,18 @@ const ARCH = 'M8 210 V96 A104 104 0 0 1 70 10 A104 104 0 0 1 132 96 V210';
     margin: 0;
     font-variation-settings: 'SOFT' 100;
   }
-  .invitation .ref {
-    font-style: normal;
-    font-size: 0.8rem;
-    margin-top: var(--space-2);
+  .invitation__ref {
+    margin: var(--space-2) 0 0;
+  }
+  .invitation__credit {
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    color: var(--ink-soft);
+    margin: var(--space-1) 0 0;
+  }
+  :global(.js) .invitation:not([data-ready]) blockquote,
+  :global(.js) .invitation:not([data-ready]) .invitation__ref {
+    visibility: hidden;
   }
   .arches {
     display: grid;
@@ -103,6 +119,7 @@ const ARCH = 'M8 210 V96 A104 104 0 0 1 70 10 A104 104 0 0 1 132 96 V210';
   .arch {
     display: grid;
     justify-items: center;
+    align-content: start;
     gap: var(--space-2);
     text-decoration: none;
     border-radius: var(--radius);
@@ -127,7 +144,7 @@ const ARCH = 'M8 210 V96 A104 104 0 0 1 70 10 A104 104 0 0 1 132 96 V210';
   }
   .light-stop--low {
     stop-color: var(--lamp-line);
-    stop-opacity: 0.32;
+    stop-opacity: 0.2;
   }
   .light-stop--high {
     stop-color: var(--lamp-line);
@@ -175,5 +192,6 @@ const ARCH = 'M8 210 V96 A104 104 0 0 1 70 10 A104 104 0 0 1 132 96 V210';
     const today = list[localDay % list.length];
     fig.querySelector('[data-invitation-text]')!.textContent = today.text;
     fig.querySelector('[data-invitation-ref]')!.textContent = today.ref;
+    fig.dataset.ready = '';
   }
 </script>

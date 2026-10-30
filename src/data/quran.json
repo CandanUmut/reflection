@@ -30,6 +30,12 @@
    "en": "And it is He who spread the earth and placed therein firmly set mountains and rivers; and from all of the fruits He made therein two mates; He causes the night to cover the day. Indeed in that are signs for a people who give thought.",
    "tr": "Yeryüzünü enine boyuna yayıp döşeyen, onda oturaklı dağlar ve ırmaklar meydana getiren ve yeryüzünde meyvelerin hepsinden iki çift yapan O'dur. Sürekli olarak gece ile gündüzü birbirine dolamaktadır. Düşünecek olan bir kavim için bunda muhakkak ki, ibretler vardır."
   },
+  "16:68": {
+   "ar": "وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ",
+   "translit": "wa-awḥā rabbuka ilā l-naḥli ani ittakhidhī mina l-jibāli buyūtan wamina l-shajari wamimmā yaʿrishūna",
+   "en": "And your Lord inspired to the bee, \"Take for yourself among the mountains, houses, and among the trees and [in] that which they construct.",
+   "tr": "Senin Rabbin bal arısına şöyle vahyetti: Dağlardan, ağaçlardan ve insanların kuracakları kovanlardan kendine evler edin."
+  },
   "16:69": {
    "ar": "ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَتَفَكَّرُونَ",
    "translit": "thumma kulī min kulli l-thamarāti fa-us'lukī subula rabbiki dhululan yakhruju min buṭūnihā sharābun mukh'talifun alwānuhu fīhi shifāon lilnnāsi inna fī dhālika laāyatan liqawmin yatafakkarūna",
@@ -41,12 +47,6 @@
    "translit": "alam yaraw ilā l-ṭayri musakharātin fī jawwi l-samāi mā yum'sikuhunna illā l-lahu inna fī dhālika laāyātin liqawmin yu'minūna",
    "en": "Do they not see the birds controlled in the atmosphere of the sky? None holds them up except Allah. Indeed in that are signs for a people who believe.",
    "tr": "Göğün boşluğunda Allah'ın emrine boyun eğdirilerek uçuşan kuşlara bakmadılar mı? Şüphesiz bunda inanan bir toplum için âyetler (ibretler) vardır."
-  },
-  "21:30": {
-   "ar": "أَوَلَمْ يَرَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَٰهُمَا ۖ وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ ۖ أَفَلَا يُؤْمِنُونَ",
-   "translit": "awalam yara alladhīna kafarū anna l-samāwāti wal-arḍa kānatā ratqan fafataqnāhumā wajaʿalnā mina l-māi kulla shayin ḥayyin afalā yu'minūna",
-   "en": "Have those who disbelieved not considered that the heavens and the earth were a joined entity, and We separated them and made from water every living thing? Then will they not believe?",
-   "tr": "O kâfir olanlar, görmediler mi ki, göklerle yer bitişik bir halde iken biz onları ayırdık. Hayatı olan her şeyi sudan yarattık. Hâlâ inanmıyorlar mı?"
   },
   "25:45": {
    "ar": "أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ ٱلظِّلَّ وَلَوْ شَآءَ لَجَعَلَهُۥ سَاكِنًا ثُمَّ جَعَلْنَا ٱلشَّمْسَ عَلَيْهِ دَلِيلًا",
@@ -66,12 +66,6 @@
    "en": "And of His signs is the creation of the heavens and the earth and the diversity of your languages and your colors. Indeed in that are signs for those of knowledge.",
    "tr": "Yine göklerin ve yerin yaratılışı ile dillerinizin ve renklerinizin farklı oluşu da O'nun âyetlerindendir. Şüphesiz ki bunda bilenler için nice ibretler vardır."
   },
-  "36:40": {
-   "ar": "لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ ۚ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ",
-   "translit": "lā l-shamsu yanbaghī lahā an tud'rika l-qamara walā al-laylu sābiqu l-nahāri wakullun fī falakin yasbaḥūna",
-   "en": "It is not allowable for the sun to reach the moon, nor does the night overtake the day, but each, in an orbit, is swimming.",
-   "tr": "Ne güneşin aya çatması yaraşır, ne de gece gündüzü geçebilir; onların her biri kendi yörüngesinde yüzerler."
-  },
   "39:42": {
    "ar": "ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا ۖ فَيُمْسِكُ ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
    "translit": "al-lahu yatawaffā l-anfusa ḥīna mawtihā wa-allatī lam tamut fī manāmihā fayum'siku allatī qaḍā ʿalayhā l-mawta wayur'silu l-ukh'rā ilā ajalin musamman inna fī dhālika laāyātin liqawmin yatafakkarūna",
@@ -89,6 +83,12 @@
    "translit": "wasakhara lakum mā fī l-samāwāti wamā fī l-arḍi jamīʿan min'hu inna fī dhālika laāyātin liqawmin yatafakkarūna",
    "en": "And He has subjected to you whatever is in the heavens and whatever is on the earth - all from Him. Indeed in that are signs for a people who give thought.",
    "tr": "O, göklerde ve yerde bulunan herşeyi kendinden bir lütuf olarak sizin hizmetinize vermiştir. Şüphesiz bunda düşünen topluluklar için ibret ve deliller vardır."
+  },
+  "51:20": {
+   "ar": "وَفِى ٱلْأَرْضِ ءَايَٰتٌ لِّلْمُوقِنِينَ",
+   "translit": "wafī l-arḍi āyātun lil'mūqinīna",
+   "en": "And on the earth are signs for the certain [in faith]",
+   "tr": "Kesin olarak inananlar için, yeryüzünde ve kendi nefislerinde nice ibretler vardır. Hiç görmüyor musunuz?"
   },
   "51:21": {
    "ar": "وَفِىٓ أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ",

@@ -11,7 +11,8 @@ interface Props {
   title: string;
 }
 const { lang, steps, title } = Astro.props;
-const id = 'germ-' + Math.random().toString(36).slice(2, 7);
+// One germination viz per page, so a fixed id is enough and builds stay identical.
+const id = 'germ';
 ---
 
 <figure class="viz" data-germination data-stage="0" aria-labelledby={`${id}-title`}>
@@ -70,7 +71,7 @@ const id = 'germ-' + Math.random().toString(36).slice(2, 7);
       </g>
     </g>
   </svg>
-  <p class="viz__caption" id={`${id}-cap`} aria-live="polite">
+  <p class="viz__caption" id={`${id}-cap`} data-live>
     <span class="viz__step ref" data-step-num>
       1 / {steps.length}
     </span>
@@ -355,12 +356,21 @@ const id = 'germ-' + Math.random().toString(36).slice(2, 7);
         else show(stage + 1);
       }, STEP_MS);
     };
-    play.addEventListener('click', () => (timer ? stop() : start()));
+    // Captions are announced only after the reader takes the controls,
+    // never during the unasked-for autoplay.
+    const announce = () => fig.querySelector('[data-live]')!.setAttribute('aria-live', 'polite');
+    play.addEventListener('click', () => {
+      announce();
+      if (timer) stop();
+      else start();
+    });
     fig.querySelector('[data-next]')!.addEventListener('click', () => {
+      announce();
       stop();
       show(stage + 1);
     });
     fig.querySelector('[data-prev]')!.addEventListener('click', () => {
+      announce();
       stop();
       show(stage - 1);
     });

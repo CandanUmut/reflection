@@ -19,8 +19,3 @@ export function md(src: string | undefined, lang: Locale): string {
   if (!src) return '';
   return tags(marked.parse(src.trim(), { async: false }) as string, lang);
 }
-
-export function mdInline(src: string | undefined, lang: Locale): string {
-  if (!src) return '';
-  return tags(marked.parseInline(src.trim(), { async: false }) as string, lang);
-}

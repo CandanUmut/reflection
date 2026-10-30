@@ -71,10 +71,18 @@ const verse = getVerse(ref, lang);
 <script>
   const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
   for (const pause of document.querySelectorAll<HTMLElement>('[data-pause]')) {
-    const after = pause.nextElementSibling as HTMLElement | null;
-    if (!after || !after.hasAttribute('data-after-pause') || reduce) continue;
+    // The content that waits is named explicitly: Astro may insert other nodes between them.
+    const after = pause.closest('article')?.querySelector<HTMLElement>('[data-after-pause]');
+    if (!after || reduce) continue;
+    // Arriving already past the Pause (a link, a restored scroll): nothing waits.
+    if (pause.getBoundingClientRect().bottom < 0) {
+      pause.dataset.state = 'released';
+      continue;
+    }
     after.setAttribute('data-waiting', '');
+    after.tabIndex = -1;
     let timer = 0;
+    let start: number | null = null;
     const release = () => {
       clearTimeout(timer);
       after.removeAttribute('data-waiting');
@@ -82,10 +90,10 @@ const verse = getVerse(ref, lang);
       io.disconnect();
       removeEventListener('scroll', onScroll);
     };
-    // Scrolling on (half a screen past the question) is also a way of saying "continue".
-    let start: number | null = null;
+    // Scrolling on (half a screen past the question, or a jump) also says "continue".
     const onScroll = () => {
       if (start !== null && Math.abs(scrollY - start) > innerHeight * 0.5) release();
+      else if (pause.getBoundingClientRect().bottom < 0) release();
     };
     const io = new IntersectionObserver(
       ([entry]) => {
@@ -98,11 +106,12 @@ const verse = getVerse(ref, lang);
     );
     io.observe(pause);
     addEventListener('scroll', onScroll, { passive: true });
-    pause.querySelector('button')!.addEventListener('click', () => {
+    // Keyboard readers never tab into dimmed text.
+    after.addEventListener('focusin', release, { once: true });
+    pause.querySelector('button')?.addEventListener('click', () => {
       release();
       after.focus({ preventScroll: true });
-      after.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      after.scrollIntoView({ behavior: reduce ? 'auto' : 'smooth', block: 'start' });
     });
-    after.tabIndex = -1;
   }
 </script>

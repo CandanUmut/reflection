@@ -1,9 +1,29 @@
+/* Literata and Fraunces set ʿ and ʾ half an em wide, which opens a gap
+   inside transliterated words ("tazraʿ ūnahu"). These two glyphs come from
+   Source Serif 4 instead: a 1 KB subset, used only for U+02BE–02BF. */
+@font-face {
+  font-family: 'Ayn Hamza';
+  src: url('./fonts/ayn-hamza.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: normal;
+  font-display: swap;
+  unicode-range: U+02BE-02BF;
+}
+@font-face {
+  font-family: 'Ayn Hamza';
+  src: url('./fonts/ayn-hamza-italic.woff2') format('woff2');
+  font-weight: 100 900;
+  font-style: italic;
+  font-display: swap;
+  unicode-range: U+02BE-02BF;
+}
+
 /* Base styles for Tefekkür. Colors come from the palette tokens (palettes.mjs);
    everything else from the tokens below. See docs/design/DESIGN.md §3. */
 
 :root {
-  --font-display: 'Fraunces Variable', 'Literata Variable', Georgia, serif;
-  --font-text: 'Literata Variable', Georgia, 'Times New Roman', serif;
+  --font-display: 'Ayn Hamza', 'Fraunces Variable', 'Literata Variable', Georgia, serif;
+  --font-text: 'Ayn Hamza', 'Literata Variable', Georgia, 'Times New Roman', serif;
   --font-ui: 'Inter Variable', system-ui, -apple-system, 'Segoe UI', sans-serif;
   --font-mono: 'IBM Plex Mono', ui-monospace, Menlo, monospace;
   --font-arabic: 'Amiri Quran', 'Amiri', 'Noto Naskh Arabic', serif;
@@ -48,6 +68,11 @@ html {
 }
 html[data-palette='night'] {
   color-scheme: dark;
+}
+@media (prefers-color-scheme: dark) {
+  html:not([data-palette]) {
+    color-scheme: dark;
+  }
 }
 
 body {
