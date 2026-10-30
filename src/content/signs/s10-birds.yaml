@@ -53,8 +53,8 @@ visualizations:
     tr: Gün sayacı ve azalan bir yakıt göstergesiyle bir küre üzerinde rota.
     en: A globe route with a day counter and draining fuel gauge.
   - id: godwit
-    tr: Konmadan 13.560 km — genç bir kıyı çulluğunun uçuşu
-    en: 13,560 km without landing — a young godwit's flight
+    tr: Konmadan yaklaşık 13.560 km — genç bir kıyı çulluğunun uçuşu
+    en: About 13,560 km without landing — a young godwit's flight
     labels:
       tr:
         alaska: Alaska
@@ -72,11 +72,13 @@ visualizations:
       tr: |
         - Ekim 2022'de uydudan izlenen, yaklaşık beş aylık genç bir kıyı çulluğu Alaska'dan Tazmanya'ya yaklaşık 13.560 km'yi 11 gün 1 saatte, konmadan uçtu; daha önce hiç uçmadığı bir rotadaydı.
         - Yola çıkmadan önce kıyı çullukları sindirim organlarını küçültür ve vücut ağırlıklarının yarısından fazlası kadar yağ taşır (BirdLife International).
-        - Çizimdeki rota ve yağ göstergesi şematiktir: gerçek harita ya da yağ harcama eğrisi değildir.
+        - Sonraki modeller mesafeyi yaklaşık 13.391–13.560 km olarak verir.
+        - Çizimdeki rota ve yağ göstergesi şematiktir: gerçek harita ya da yağ harcama eğrisi değildir. Gösterge yalnızca deponun azaldığını anlatır, varışta ne kadar kaldığını göstermez; mesafe sayacı da hızı sabit varsayar.
       en: |
         - In October 2022 a satellite-tagged juvenile godwit, about five months old, flew roughly 13,560 km nonstop from Alaska to Tasmania in 11 days and 1 hour, on a route it had never flown.
         - Before departure godwits shrink digestive organs and carry fat over half their body weight (BirdLife International).
-        - The route and the fat gauge in the drawing are schematic: not a real map, not a measured fat-burning curve.
+        - Later models put the distance at about 13,391–13,560 km.
+        - The route and the fat gauge in the drawing are schematic: not a real map, not a measured fat-burning curve. The gauge only shows that the store runs down, not how much is left on arrival; the distance counter assumes a constant speed.
 sources:
   - label: ScienceBlog — juvenile bar-tailed godwit, 13,560 km Alaska–Tasmania
     url: https://scienceblog.com/t-juvenile-bar-tailed-godwit-13560km-alaska-tasmania/

@@ -90,13 +90,19 @@ const seasons = [L.spring, L.summer, L.autumn, L.winter];
       lit.setAttribute('d', moonPath((d / 29.5) % 1));
       fig.querySelector('[data-day-label]')!.textContent = L.dayN.replace('{d}', fmt(d, 1));
       const y = Number(years.value);
-      // Each solar year, the lunar year is about 11 days shorter (365.25 − 354).
-      const shiftDays = y * 11.25;
-      const a = -(shiftDays / 365.25) * 2 * Math.PI - Math.PI / 2;
+      // Each year the 354-day lunar year falls about 11 days short of the solar year.
+      const shiftDays = y * 11;
+      const a = -(shiftDays / 365) * 2 * Math.PI - Math.PI / 2;
       dot.setAttribute('cx', String(Math.cos(a) * 52));
       dot.setAttribute('cy', String(Math.sin(a) * 52));
-      fig.querySelector('[data-year-label]')!.textContent = L.yearN.replace('{y}', fmt(y));
-      out.textContent = L.readout.replace('{days}', fmt(shiftDays)).replace('{y}', fmt(y));
+      const yearsWord = y === 1 ? (L.year ?? '') : (L.yearsWord ?? '');
+      fig.querySelector('[data-year-label]')!.textContent = L.yearN
+        .replace('{y}', fmt(y))
+        .replace('{years}', yearsWord);
+      out.textContent =
+        y >= 33
+          ? L.back
+          : L.readout.replace('{days}', fmt(shiftDays)).replace('{y}', fmt(y)).replace('{years}', yearsWord);
     };
     fig.addEventListener('input', draw);
     draw();

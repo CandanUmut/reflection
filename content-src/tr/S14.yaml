@@ -54,7 +54,7 @@ built:
         ratio: Gölge, çubuğun {x} katı uzunluğunda.
         almostNone: Gölge neredeyse yok; güneş neredeyse tam tepede.
         long: (Çizimde kısaltıldı.)
-        noon: Öğle vakti — günün en kısa gölgesi.
+        noon: Güneşin en yüksekte olduğu an (zeval) — günün en kısa gölgesi.
         below: Güneş ufkun altında; gölge yok.
         asr: İkindi başladı (çoğunluk görüşü)
         asrHanafi: İkindi başladı (Hanefî görüşü de)
@@ -79,7 +79,7 @@ built:
     textVersion:
       tr: |
         - Bir gölgenin uzunluğu, cismin boyunun güneşin yükseklik açısının tanjantına bölümüne eşittir.
-        - Gün doğumunda ve batımında gölgeler çok uzar; güneş öğle vaktinde günün en kısa gölgesini verir.
+        - Gün doğumunda ve batımında gölgeler çok uzar; güneş en yüksekte olduğu anda (zeval) günün en kısa gölgesini verir.
         - Desen enleme ve mevsime göre değişir, çünkü Dünya'nın ekseni yaklaşık 23,4° eğiktir. Mekke'de yılda iki kez öğle güneşi tam tepeye gelir ve gölge neredeyse kaybolur.
         - Çoğunluğun görüşüne göre ikindi, gölge cismin boyu artı öğle gölgesi kadar olunca; Hanefî görüşüne göre boyunun iki katı artı öğle gölgesi kadar olunca başlar.
         - Çizim yandan bir görünüştür: gölgenin yönü yalnızca sabah batıya, öğleden sonra doğuya düşecek şekilde basitleştirilmiştir.

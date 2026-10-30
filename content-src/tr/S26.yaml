@@ -47,16 +47,16 @@ built:
     labels:
       tr:
         depth: Derinlik
-        surface: Yüzeye yakın. Kırmızı ışık ilk birkaç metrede emilir.
+        surface: Yüzeye yakın. Kırmızı ışık çoğunlukla ilk birkaç metrede emilir.
         sunlight: Işıklı bölge (yaklaşık 200 m'ye kadar). Mavi en derine iner.
         twilight: Alacakaranlık bölgesi (yaklaşık 1.000 m'ye kadar). Yalnızca loş ışık.
-        dark: Yaklaşık 1.000 m'nin altında hiç güneş ışığı yok. "Elini çıkarsa neredeyse onu göremez." (24:40)
+        dark: 'Yaklaşık 1.000 m''nin altında hiç güneş ışığı yok. Âyetteki temsil: "İnsan, elini çıkarıp uzatsa, nerdeyse onu dahi göremez." (24:40)'
       en:
         depth: Depth
-        surface: Near the surface. Red light is absorbed in the top few metres.
+        surface: Near the surface. Red light is mostly absorbed in the top few metres.
         sunlight: The sunlight zone (to about 200 m). Blue goes deepest.
         twilight: The twilight zone (to about 1,000 m). Only dim light.
-        dark: Below about 1,000 m there is no sunlight at all. "When one puts out his hand, he can hardly see it." (24:40)
+        dark: 'Below about 1,000 m there is no sunlight at all. The verse''s parable: "When one puts out his hand [therein], he can hardly see it." (24:40)'
     textVersion:
       tr: |
         - Güneş ışığı deniz suyunda hızla söner. Kırmızı ışık çoğunlukla ilk birkaç metrede emilir; mavi ışık en derine iner.
