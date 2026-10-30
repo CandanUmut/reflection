@@ -12,8 +12,8 @@ title:
 verses:
   - 75:3-4
 summary:
-  tr: Parmak izleriniz doğumdan önce belirlendi ve ömür boyu aynı kalır.
-  en: Your fingerprints were set before birth and stay the same for life.
+  tr: Âyet, hiçbir şeyin Allah'ın geri getiremeyeceği kadar ince olmadığını göstermek için parmak uçlarını seçer.
+  en: The verse picks the fingertips to show that nothing is too fine for God to restore.
 verseNotes:
   tr: "*Nüsevviye*: bir araya getirmek. *Benân*: parmak uçları."
   en: "*Nusawwiya*: to put together. *Banān*: fingertips."
@@ -71,8 +71,11 @@ honestNotes:
       - Çok yaygın bir iddiaya göre "Kur'an parmak izini 1.400 yıl önce bildirdi." Âyet izlerden değil parmak uçlarından söz eder ve hiçbir klasik âlim onu parmak iziyle ilgili okumadı. Parmak izini öngörü olarak değil, açıkça modern bir tefekkür olarak etiketleyerek sunmak gerekir.
       - Dünyadaki her parmak izinin benzersiz olduğunu kimse resmî olarak kanıtlamadı. Bu çok güçlü bir pratik kuraldır, matematiksel bir kesinlik değil.
     en: |-
+      …important.
+
       - A very popular claim says "the Quran revealed fingerprints 1,400 years ago." The verse mentions fingertips, not prints, and no classical scholar read it as being about fingerprints. Present fingerprints as a clearly labelled modern reflection, not a prediction.
       - Nobody has formally proven every fingerprint on Earth is unique. It is a very strong practical rule, not a mathematical certainty.
+    important: true
 visualizations:
   - id: ideas
     tr: |

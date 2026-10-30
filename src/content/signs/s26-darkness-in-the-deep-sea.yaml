@@ -64,9 +64,12 @@ honestNotes:
       - Denize açılan ya da dalan insanlar derin suyun karardığını biliyordu; yani derin denizdeki karanlık bilinmeyen bir bilgi değildi.
       - Odak, temsilin anlamında kalmalıdır.
     en: |-
+      …important.
+
       - A popular claim says the verse "revealed internal waves". The verse is explicitly a parable about guidance, and classical scholars read the "wave above which is a wave" as stacked surface waves and spiritual darkness. Present internal waves as an interesting modern reflection at most.
       - People who sailed or dove knew that deep water grows dark, so darkness in the deep sea was not unknown knowledge.
       - Keep the focus on the parable's meaning.
+    important: true
 visualizations:
   - id: ideas
     tr: |
@@ -82,8 +85,8 @@ sources:
     url: https://oceanservice.noaa.gov/facts/light_travel.html
   - label:
       tr: LibreTexts Oşinografi — Okyanusta ışık
-      en: LibreTexts Oceanography, "Light in the ocean"/04%3A_Properties_of_Water/4.3%3A_Light_in_the_ocean)
-    url: https://geo.libretexts.org/Bookshelves/Oceanography/Oceanography_(Hill
+      en: LibreTexts Oceanography, "Light in the ocean"
+    url: https://geo.libretexts.org/Bookshelves/Oceanography/Oceanography_(Hill)/04%3A_Properties_of_Water/4.3%3A_Light_in_the_ocean
   - label:
       tr: Taberî, İbn Kesîr ve Kurtubî'nin 24:39–40 tefsirleri
       en: Al-Ṭabarī, Ibn Kathīr and al-Qurṭubī on 24:39–40

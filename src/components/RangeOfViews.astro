@@ -11,7 +11,7 @@ interface Props {
     title: { tr: string; en: string };
     from: { tr: string; en: string };
     to: { tr: string; en: string };
-    views: { who: string; view: { tr: string; en: string } }[];
+    views: { who: string | { tr: string; en: string }; view: { tr: string; en: string } }[];
   };
 }
 const { lang, range } = Astro.props;
@@ -26,7 +26,7 @@ const { lang, range } = Astro.props;
   <ol class="range__views">
     {range.views.map((v) => (
       <li>
-        <span class="range__who" set:html={mdInline(v.who, lang)} />
+        <span class="range__who" set:html={mdInline(typeof v.who === 'string' ? v.who : v.who[lang], lang)} />
         <span class="range__view" set:html={mdInline(v.view[lang], lang)} />
       </li>
     ))}

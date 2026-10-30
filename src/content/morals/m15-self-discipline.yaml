@@ -20,12 +20,12 @@ summary:
   en: '"The most beloved deeds to God are those done consistently, even if small" (Bukhārī 6464). A long, uneven path.'
 teachings:
   tr: |
-    - '"Nefse ve onu düzenleyene, ona kötülüğünü ve takvasını ilham edene andolsun ki: onu arındıran kurtulmuş, onu gömüp kirleten ziyana uğramıştır" (91:7–10).'
-    - '"Kim Rabbinin huzurunda durmaktan korkar ve nefsini hevadan alıkoyarsa, cennet onun barınağıdır" (79:40–41).'
-    - '"Bizim uğrumuzda cihad edenleri elbette yollarımıza ileteceğiz" (29:69).'
-    - '"Nefis, Rabbimin merhamet ettiği müstesna, kötülüğü emreder" (12:53) — nefsin mertebeleri vardır (emmâre, levvâme 75:2, mutmainne 89:27).'
-    - '"Bir toplum kendinde olanı değiştirmedikçe Allah onların durumunu değiştirmez" (13:11).'
-    - 'Hadis: "Mücahid, Allah için nefsiyle mücadele edendir" (Tirmizî 1621). "Allah katında amellerin en sevimlisi, az da olsa devamlı olanıdır" (Buhârî 6464).'
+    - "Nefse ve onu düzenleyene, ona kötülüğünü ve takvasını ilham edene andolsun ki: onu arındıran kurtulmuş, onu gömüp kirleten ziyana uğramıştır" (91:7–10).
+    - "Kim Rabbinin huzurunda durmaktan korkar ve nefsini hevadan alıkoyarsa, cennet onun barınağıdır" (79:40–41).
+    - "Bizim uğrumuzda mücâhede edenleri (çaba gösterenleri) elbette yollarımıza ileteceğiz" (29:69).
+    - "Nefis, Rabbimin merhamet ettiği müstesna, kötülüğü emreder" (12:53) — nefsin mertebeleri vardır (emmâre, levvâme 75:2, mutmainne 89:27).
+    - "Bir toplum kendinde olanı değiştirmedikçe Allah onların durumunu değiştirmez" (13:11).
+    - Hadis: "Mücahid, Allah için nefsiyle mücadele edendir" (Tirmizî 1621). "Allah katında amellerin en sevimlisi, az da olsa devamlı olanıdır" (Buhârî 6464).
   en: |-
     - "By the soul and the One who shaped it, and inspired it with its wickedness and its mindfulness: successful is the one who purifies it, and failed is the one who buries it" (91:7–10).
     - "As for one who feared standing before his Lord and held the self back from desire, Paradise is the refuge" (79:40–41).
@@ -46,10 +46,10 @@ scholarship:
     - The stages of the soul (*nafs ammāra, lawwāma, muṭmaʾinna*) give a map of growth.
 evidence:
   tr: |
-    - Dunedin çalışmasında (doğumdan itibaren izlenen yaklaşık 1.000 çocuk), çocukluktaki öz denetim, zekâ ve sosyal sınıf kontrol edildikten sonra bile yetişkinlikteki sağlığı, serveti ve daha az mahkûmiyeti yordadı (Moffitt ve ark., *PNAS* 2011). [Established, *moderate*]
-    - Yeni alışkanlıklar zaman alır: bir çalışmada otomatikleşme medyan **66 gün** sürdü; 18 ile 254 gün arasında değişti (Lally ve ark., 2010). [*small study*, widely cited]
-    - İrade gücünün tükenen bir kas olduğu fikri olan **"ego tükenmesi"**, büyük ön kayıtlı tekrar çalışmalarında **tutmadı** (Hagger ve ark., 2016: etki sıfıra yakın; Vohs ve ark., 2021: çok küçük). İradeyi bir yakıt deposu gibi öğretmemek gerekir. [Established that the original effect was overstated]
-    - Öz denetim, anlık sürekli çabadan çok durumları ve alışkanlıkları biçimlendirerek daha iyi işler. [*moderate*]
+    - Dunedin çalışmasında (doğumdan itibaren izlenen yaklaşık 1.000 çocuk), çocukluktaki öz denetim, zekâ ve sosyal sınıf kontrol edildikten sonra bile yetişkinlikteki sağlığı, serveti ve daha az mahkûmiyeti yordadı (Moffitt ve ark., *PNAS* 2011). [Established, *orta*]
+    - Yeni alışkanlıklar zaman alır: bir çalışmada otomatikleşme medyan **66 gün** sürdü; 18 ile 254 gün arasında değişti (Lally ve ark., 2010). [*küçük çalışma*, sık atıf alıyor]
+    - İrade gücünün tükenen bir kas olduğu fikri olan **"ego tükenmesi"**, büyük ön kayıtlı tekrar çalışmalarında **tutmadı** (Hagger ve ark., 2016: etki sıfıra yakın; Vohs ve ark., 2021: çok küçük). İradeyi bir yakıt deposu gibi öğretmemek gerekir. [Established, özgün etkinin abartıldığı]
+    - Öz denetim, anlık sürekli çabadan çok durumları ve alışkanlıkları biçimlendirerek daha iyi işler. [*orta*]
   en: |-
     - In the Dunedin study (~1,000 children followed from birth), childhood self-control predicted adult health, wealth and lower criminal convictions, even after controlling for intelligence and social class (Moffitt et al., *PNAS* 2011). [Established, *moderate*]
     - New habits take time: in one study, automaticity took a median of **66 days**, ranging from 18 to 254 days (Lally et al., 2010). [*small study*, widely cited]
@@ -76,8 +76,8 @@ gaps:
 visualizations:
   - id: ideas
     tr: |
-      - '"Üç nefis": *emmâre*den *levvâme*ye, oradan *mutmainne*ye giden bir yol; düz bir merdiven değil, dönemeçleri ve geri düşüşleri olan bir yol olarak çizilmiş.'
-      - 'Buhârî 6464 ruhunda bir alışkanlık takipçisi: küçük, günlük bir uygulama ve bir günü kaçırmanın her şeyi sıfırlamadığına dair dürüst bir not.'
+      - "Üç nefis": *emmâre*den *levvâme*ye, oradan *mutmainne*ye giden bir yol; düz bir merdiven değil, dönemeçleri ve geri düşüşleri olan bir yol olarak çizilmiş.
+      - Buhârî 6464 ruhunda bir alışkanlık takipçisi: küçük, günlük bir uygulama ve bir günü kaçırmanın her şeyi sıfırlamadığına dair dürüst bir not.
     en: |-
       - "The three selves": a path from *ammāra* to *lawwāma* to *muṭmaʾinna*, drawn as a road with turns and setbacks, not a straight staircase.
       - A habit tracker in the spirit of Bukhārī 6464: one small daily practice, with an honest note that missing a day does not reset everything.

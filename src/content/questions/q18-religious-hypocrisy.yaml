@@ -35,7 +35,7 @@ whyAsked:
     Diyanet's own monthly magazine (November 2018) asked how to protect youth from *din istismarı* (exploitation of religion). This is doubt born of betrayal, not of logic.
 shortAnswer:
   tr: |
-    Kur'an müminler arasında ikiyüzlülük olacağını bekler ve onu hiçbir eleştirmenin yapmadığı kadar sert kınar. Dinin kötüye kullanılması, Kur'an'ın insan doğasına dair anlatımını doğrular; sigara içen bir doktor tıbbı çürütmez. Öfken meşrudur. Mesajı kaynağına ve en iyi örneklerine göre değerlendir; yozlaşmış insanların imanını sahiplenmesine izin verme.
+    Kur'an müminler arasında ikiyüzlülük olacağını bekler ve onu hiçbir eleştirmenin yapmadığı kadar sert kınar. Dinin kötüye kullanılması, Kur'an'ın insan doğasına dair anlatımını doğrular; sigara içen bir doktor tıbbı çürütmez. Öfken meşrudur. Mesajı kaynağına ve en iyi örneklerine göre değerlendir; imanının yozlaşmış insanların elinde kalmasına izin verme.
   en: The Quran expects hypocrisy among believers and condemns it more harshly than any critic does. Misuse of religion confirms its account of human nature; a doctor who smokes does not disprove medicine. Your anger is legitimate. Judge the message by its source and its best examples, and don't let corrupt people own your faith.
 layers:
   - kind: religious
@@ -65,13 +65,13 @@ honestLimits:
   tr: |
     Türkiye'deki topluluklar da, başkaları gibi, zaman zaman istismarcıları korudu ve inancı siyasi olarak kullandı. "Bu gerçek İslam değil" demek yetmez. Bu site:
     - istismarı hem günah hem suç olarak adlandırır;
-    - hukukî ve klinik yardıma yönlendirir;
+    - klinik yardıma ve 112 acil hattına yönlendirir;
     - parti siyasetinden uzak durur;
     - *hangi taraftan* gelirse gelsin kötüye kullanımı eleştirir.
   en: |
     Turkish communities, like others, have sometimes shielded abusers and used faith politically. "That's not real Islam" is not enough. This site:
     - names abuse as both sin and crime;
-    - points to legal and clinical help;
+    - points to clinical help and the 112 emergency line;
     - avoids party politics;
     - criticises misuse by *any* side.
 visualizations:

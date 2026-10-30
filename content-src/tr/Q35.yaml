@@ -21,4 +21,6 @@ honest: |
   Sağlık orucun "sebebi" değildir.
 visualization: |
   Kurallar ve amaçları haritası. Bir infografik. Orucun üç mertebesi.
+sourceUrls:
+  0: https://academic.oup.com/nutritionreviews/article-abstract/83/2/e711/7604369
 sourceLabels: [null, null, null, 'Şâtıbî (Arapça)', 'Diyanet, "Oruç" (Türkçe)']

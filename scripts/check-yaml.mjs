@@ -11,7 +11,17 @@ const walk = (d) => {
     if (e.isDirectory()) walk(p);
     else if (/\.ya?ml$/.test(e.name)) {
       try {
-        parse(fs.readFileSync(p, 'utf8'));
+        // A comma inside an unquoted flow map value ({ tr: a, b }) silently turns
+        // the rest of the sentence into an empty key. Flag any key with a null
+        // value that contains a space: real keys never do.
+        const walkNull = (node, trail) => {
+          if (node && typeof node === 'object')
+            for (const [k, v] of Object.entries(node)) {
+              if (v === null && /\s/.test(k)) throw new Error(`prose cut into a key at ${trail}.${k.slice(0, 40)}`);
+              walkNull(v, `${trail}.${k}`);
+            }
+        };
+        walkNull(parse(fs.readFileSync(p, 'utf8')), '');
       } catch (err) {
         bad++;
         console.log(`${p}: ${err.message.split('\n')[0]}`);

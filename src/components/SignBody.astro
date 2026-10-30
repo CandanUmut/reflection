@@ -11,7 +11,7 @@ import HonestNote from './HonestNote.astro';
 import Divider from './Divider.astro';
 import GerminationViz from './GerminationViz.astro';
 import Sources from './Sources.astro';
-import { md } from '../lib/md';
+import { md, mdInline } from '../lib/md';
 import { refLabel } from '../lib/quran';
 import { t, type Locale } from '../i18n/ui';
 
@@ -27,7 +27,7 @@ const viz = sign.visualizations.find((v) => v.id === 'germination');
   <header class="sign__head wrap">
     <p class="label">{sign.id}</p>
     <h1>{sign.title[lang]}</h1>
-    <p class="sign__summary">{sign.summary[lang]}</p>
+    <p class="sign__summary" set:html={mdInline(sign.summary[lang], lang)} />
   </header>
 
   <section class="sign__verse wrap" aria-label={t(lang, 'layerVerse')}>
@@ -75,7 +75,7 @@ const viz = sign.visualizations.find((v) => v.id === 'germination');
       </div>
       <div class="sign__notes">
         {sign.honestNotes.map((note) => (
-          <HonestNote lang={lang}>
+          <HonestNote lang={lang} important={note.important}>
             <Fragment set:html={md(note[lang], lang)} />
           </HonestNote>
         ))}

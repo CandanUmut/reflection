@@ -12,16 +12,16 @@ teachings: |
   - "Rahmân'ın kulları, yeryüzünde vakarla yürüyen kimselerdir; cahiller onlara laf attığında 'Selam' derler" (25:63).
   - "Yeryüzünde böbürlenerek yürüme; sen ne yeri yarabilirsin ne de boyca dağlara erişebilirsin" (17:37).
   - "Allah katında en değerliniz, O'na karşı en saygılı olanınızdır" (49:13).
-  - 'Hadis: "Kalbinde zerre kadar kibir bulunan cennete girmez." Bir adam güzel elbise istemeyi sordu. Hz. Peygamber: "Allah güzeldir, güzeli sever. Kibir, **hakkı reddetmek ve insanları küçük görmektir**" (Müslim 91).'
+  - Hadis: "Kalbinde zerre kadar kibir bulunan cennete girmez." Bir adam güzel elbise istemeyi sordu. Hz. Peygamber: "Allah güzeldir, güzeli sever. Kibir, **hakkı reddetmek ve insanları küçük görmektir**" (Müslim 91).
 scholarship: |
   - Müslim 91'deki tanım önemlidir: kibir (*kibr*) görünüşe özen göstermek değil, hakikati reddetmek ve başkalarını hor görmektir. Bu, tevazuyu doğrudan **düşünsel dürüstlüğe** bağlar.
   - İblis'in reddi — "Ben ondan hayırlıyım" (7:12) — ilk kibir eylemi olarak okunur.
   - Gazzâlî (*İhyâ*, "Zemmü'l-Kibr") kibrin kaynaklarını sayar: ilim, ibadet, soy, güzellik, servet, güç, taraftar — ve ilim ve takva yoluyla gelen kibrin en tehlikelisi olduğunu belirtir.
   - Tasavvuf ahlâkı tevazuyu (*tevâzu*) bütün öteki erdemlerin zemini sayar.
 evidence: |
-  - **Düşünsel tevazu** — kişinin inançlarının yanlış olabileceğini kabul etmesi — karşıt görüşlere daha açık olmak, daha az kutuplaşma ve daha iyi öğrenmeyle ilişkilidir (derleme: Porter ve ark., 2022). [*moderate*, mostly correlational]
+  - **Düşünsel tevazu** — kişinin inançlarının yanlış olabileceğini kabul etmesi — karşıt görüşlere daha açık olmak, daha az kutuplaşma ve daha iyi öğrenmeyle ilişkilidir (derleme: Porter ve ark., 2022). [*orta*, çoğunlukla ilişkisel]
   - Narsisizm, daha kötü ilişkiler ve eleştiri sonrası saldırganlıkla ilişkilidir. [Established]
-  - Örgüt çalışmalarında alçakgönüllü olarak değerlendirilen liderler, daha bağlı ekiplerle ilişkilidir. [*small–moderate*, mixed]
+  - Örgüt çalışmalarında alçakgönüllü olarak değerlendirilen liderler, daha bağlı ekiplerle ilişkilidir. [*küçük–orta*, karışık]
 stories: |
   - Hz. Peygamber kendi sandaletini ve elbisesini kendisi onarır, ev işlerine yardım ederdi (Buhârî 676).
   - Mekke'ye zaferle girerken başını bineğinin üzerinde, neredeyse eyere değecek kadar eğdi.
@@ -37,6 +37,9 @@ enOverrides:
 visualization: |
   - "Vakarla yürü" (25:63): yeryüzüne zarar vermeyen ayak izleri, yanında onu çatlatan ağır izler (17:37).
   - Müslim 91 için iki parçalı bir kart: kibrin *ne olmadığı* (güzel elbise) / *ne olduğu* (hakkı reddetmek, insanları küçük görmek).
+extraSources:
+  - label: Chouhoud, "What Causes Muslims to Doubt Islam?" (Yaqeen, 2018)
+    url: https://yaqeeninstitute.org/read/paper/what-causes-muslims-to-doubt-islam-a-quantitative-analysis
 sourceLabels:
   - 'Porter ve ark. — Düşünsel tevazunun yordayıcıları ve sonuçları, *Nature Reviews Psychology* 2022 (PMC)'
   - 'Greater Good Bilim Merkezi — düşünsel tevazu araştırmalarına genel bakış'

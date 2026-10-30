@@ -12,7 +12,7 @@ const { items } = Astro.props;
       <a href={i.href}>
         <span class="ref">{i.id}</span>
         <span class="items__title">{i.title}</span>
-        {i.summary && <span class="items__summary">{i.summary}</span>}
+        {i.summary && <span class="items__summary" set:html={i.summary} />}
       </a>
     </li>
   ))}

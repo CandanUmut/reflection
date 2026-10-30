@@ -57,27 +57,39 @@ rangeOfViews:
     tr: Azap sona erer ya da dönüşür
     en: The punishment ends or is transformed
   views:
-    - who: Eş'arî, Mâtürîdî, Eserîlerin çoğu
+    - who:
+        tr: Eş'arî, Mâtürîdî, Eserîlerin çoğu
+        en: Ashʿarīs, Māturīdīs, most Atharīs
       view:
         tr: Çoğunluk. Kâfirler için ebedîdir; günahkâr müminler çıkar.
         en: The majority. Eternal for disbelievers; sinning believers leave.
-    - who: İbn Vezîr
+    - who:
+        tr: İbn Vezîr
+        en: Ibn al-Wazīr
       view:
         tr: Hüküm vermekten kaçındı.
         en: Withheld judgement.
-    - who: İbn Teymiyye
+    - who:
+        tr: İbn Teymiyye
+        en: Ibn Taymiyya
       view:
         tr: Ebedîliğe dair icma yoktur; azap bir amaca yöneliktir. Sona erdiğini kesin söylemez (Hoover).
         en: No consensus on eternity; the chastisement is purposive. Never states categorically that it ends (Hoover).
-    - who: İbn Kayyim
+    - who:
+        tr: İbn Kayyim
+        en: Ibn al-Qayyim
       view:
         tr: Cehennem iyileştirici ve ıslah edicidir.
         en: Hell is therapeutic and reformative.
-    - who: Reşîd Rızâ
+    - who:
+        tr: Reşîd Rızâ
+        en: Rashīd Riḍā
       view:
         tr: Temkinli bir evrenselciliğe meyletti.
         en: Leaned toward cautious universalism.
-    - who: İbn Arabî
+    - who:
+        tr: İbn Arabî
+        en: Ibn ʿArabī
       view:
         tr: Ehli için azap (*azâb*) tatlılığa (*azb*) dönüşür. [Debated]
         en: For its people, the torment (*ʿadhāb*) becomes sweetness (*ʿadhb*). [Debated]

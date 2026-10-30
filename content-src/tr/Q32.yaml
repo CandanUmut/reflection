@@ -5,7 +5,7 @@ verses: ["6:91", "29:61-63"]
 steelman: |
   Bir Yaratıcıya inanıyorum ama dini reddediyorum.
 whyAsked: |
-  Türkiye'deki 2018 tartışması, Konya'da 50 din kültürü öğretmeninin katıldığı "Gençlik ve İnanç" çalıştayında (4 Mart 2018) başladı. Kapanış bildirgesi, inanç sorunları yaşayan gençler arasında deizmin ön plana çıktığını söyledi. Ölçülmüş veriler gerçek deizmin %2'nin altında olduğunu buldu; ama 18–24 yaş arasındakilerin %11'i kendini bu etikete yakın hissediyor.
+  Türkiye'deki 2018 tartışması, Konya'da 50 din kültürü öğretmeninin katıldığı "Gençlik ve İnanç" çalıştayında (4 Mart 2018) başladı. Kapanış bildirgesi, inanç sorunları yaşayan gençler arasında deizmin ön plana çıktığını söyledi. TİDA/Nişancı anketi (2023) gerçek deizmin %2'nin altında olduğunu buldu; ama 18–24 yaş arasındakilerin %11'i kendini bu etikete yakın hissediyor.
 shortAnswer: |
   Deizm çoğu zaman bir varış noktası değil, bir mola yeridir. İyi bir Yaratıcı pek sessiz kalmaz. Türkiye'deki "deizmin" büyük kısmı dindarlara karşı bir protestodur.
 layers:
@@ -22,7 +22,7 @@ honest: |
 enOverrides:
   # "Batch 2 found…" and "Q3 (Batch 1)": batch names dropped; the finding is kept.
   whyAsked: |
-    Türkiye's 2018 debate began at the "Gençlik ve İnanç" workshop of 50 religion teachers in Konya (4 March 2018). Its closing statement said deism was coming to the fore among young people with problems of belief. Measured survey data found actual deism under 2%, though 11% of 18–24-year-olds feel close to the label.
+    Türkiye's 2018 debate began at the "Gençlik ve İnanç" workshop of 50 religion teachers in Konya (4 March 2018). Its closing statement said deism was coming to the fore among young people with problems of belief. The TİDA/Nişancı survey (2023) found actual deism under 2%, though 11% of 18–24-year-olds feel close to the label.
   layers:
     4: |
       6:91; 29:61–63; the classical ideas of God's grace (*luṭf*) and wisdom (*ḥikma*). See also Q3.

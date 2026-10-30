@@ -15,8 +15,8 @@ seeAlso:
   - 39:6
   - 7:26
 summary:
-  tr: Kanınızdaki demir, Güneş var olmadan önce ölen yıldızlarda dövüldü.
-  en: The iron in your blood was forged in stars that died before the Sun existed.
+  tr: Tek bir element yıldızları, kanı ve medeniyeti birbirine bağlar. Âyet demirin gücünü adaletin yanına koyar.
+  en: One element links stars, blood and civilization. The verse puts iron's power next to justice.
 verseNotes:
   tr: Sûre, *el-Hadîd* ("Demir") adını taşır.
   en: The surah is named *al-Ḥadīd*, "Iron".
@@ -68,10 +68,13 @@ honestNotes:
         2. Demir yıldızlarda üretildi; ama helyumdan ağır her element de öyle: sudaki oksijen, bedenimizdeki karbon, yüzüklerdeki altın. Demir, kozmik kökene sahip olmakta özel değildir.
       - Yıldız içi element sentezini (nükleosentez) gerçekleşmiş bir öngörü olarak değil, tefekkürü zenginleştiren bir hayret konusu olarak sunmak gerekir.
     en: |-
+      …important.
+
       - A popular claim says "the Quran revealed that iron came from space". Two cautions:
         1. *Anzalnā* is also used for livestock and clothing. Classical scholars did not read it as "fell from the sky", so the "from space" reading is a modern reflection, not the verse's clear meaning.
         2. Iron was made in stars, but so was every element heavier than helium: the oxygen in water, the carbon in our bodies, the gold in rings. Iron is not special in having a cosmic origin.
       - Present stellar nucleosynthesis as a wonder that enriches the reflection, not as a fulfilled prediction.
+    important: true
 visualizations:
   - id: ideas
     tr: |

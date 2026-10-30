@@ -6,8 +6,8 @@
 import { t, type Locale } from '../i18n/ui';
 interface Props {
   lang: Locale;
-  /** general: high-sensitivity questions, resources only · vesvese: Q8 · suffering: grief, du'a, hopelessness · disaster: adds AFAD · violence: emergency first. */
-  variant: 'general' | 'vesvese' | 'suffering' | 'disaster' | 'violence';
+  /** general: high-sensitivity questions, resources only · vesvese: Q8 · suffering: grief, du'a, hopelessness · disaster: adds AFAD · urgent: emergency first (M13, Q6, Q25). */
+  variant: 'general' | 'vesvese' | 'suffering' | 'disaster' | 'urgent';
 }
 const { lang, variant } = Astro.props;
 ---
@@ -19,7 +19,7 @@ const { lang, variant } = Astro.props;
   {variant === 'vesvese' && <p>{t(lang, 'helpVesvese')}</p>}
   {(variant === 'suffering' || variant === 'disaster') && <p>{t(lang, 'helpSuffering')}</p>}
   <ul>
-    {variant === 'violence' && (
+    {variant === 'urgent' && (
       <li>
         {t(lang, 'helpEmergency')} <a href="tel:112">112</a>
       </li>
@@ -27,7 +27,7 @@ const { lang, variant } = Astro.props;
     <li>{t(lang, 'helpClinics')}</li>
     {variant === 'disaster' && <li>{t(lang, 'helpAfad')}</li>}
     <li>{t(lang, 'helpElsewhere')}</li>
-    {variant !== 'violence' && (
+    {variant !== 'urgent' && (
       <li>
         {t(lang, 'helpEmergency')} <a href="tel:112">112</a>
       </li>

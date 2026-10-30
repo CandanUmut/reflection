@@ -24,7 +24,7 @@ whyAsked:
   en: Friendships with people of other faiths.
 shortAnswer:
   tr: |
-    İslam kendini önceki bütün peygamberlerin devamı olarak sunar. Gerekçesi katı tevhide, iyi korunmuş bir kitaba ve tarihî olarak izlenebilen bir peygambere dayanır. İnanç ve saygı bir arada var olabilir.
+    İslam kendini önceki bütün peygamberlerin devamı olarak sunar. Gerekçesi katı tevhide, iyi korunmuş bir kitaba ve tarihî olarak izlenebilen bir peygambere dayanır. Kesin bir inanç ile saygı bir arada var olabilir.
   en: Islam presents itself as the continuation of all the earlier prophets. Its case rests on strict monotheism, a well-preserved scripture and a historically traceable prophet. Conviction can coexist with respect.
 layers:
   - kind: religious
@@ -41,7 +41,7 @@ layers:
     en: The Quran's transmission is well documented.
   - kind: psychological
     tr: |
-      Tevazu, inançla bağdaşır.
+      Tevazu, kesin inançla bağdaşır.
     en: Humility is compatible with conviction.
 honestLimits:
   tr: |

@@ -27,7 +27,14 @@ export async function getStaticPaths() {
 const lang = Astro.params.lang as Locale;
 const { section, entry } = Astro.props;
 const data = entry.data;
-const description = ('summary' in data && data.summary?.[lang]) || ('steelman' in data ? data.steelman[lang] : '');
+const rawDescription = ('summary' in data && data.summary?.[lang]) || ('steelman' in data ? data.steelman[lang] : '');
+// Meta descriptions are plain text: drop Markdown marks and evidence brackets.
+const description = rawDescription
+  .replace(/[*_]/g, '')
+  .replace(/\[[^\]]*\]/g, '')
+  .replace(/\s+/g, ' ')
+  .trim()
+  .slice(0, 300);
 ---
 
 <Base

@@ -10,10 +10,11 @@ title:
   tr: İslam kadına eşitsiz mi davranıyor?
   en: Does Islam treat women unequally?
 sensitivity: high
-helpCard: false
+helpCard: urgent
 verses:
   - 33:35
   - 4:1
+  - 4:34
 steelman:
   tr: |
     Miras (4:11), şahitlik (2:282), 4:34 ve erkeğin önderliği yapısal olarak eşitsiz görünür.
@@ -24,7 +25,7 @@ whyAsked:
   en: It is among the top four Turkish youth concerns, and tied to lived experience of patriarchy.
 shortAnswer:
   tr: |
-    Kur'an eşit manevî değeri (33:35; 16:97) ve tek bir nefisten yaratılışı (4:1) kabul eder. Bazı hükümler kocanın tam nafaka yükümlülüğüne bağlıdır. Pek çok âlim 4:34'ü kesin biçimde sınırlar. Bazı haksızlıklar metinden değil örften gelir ve bazı sorular tartışmalı olmaya devam eder.
+    Kur'an eşit manevî değeri (33:35; 16:97) ve tek bir nefisten yaratılışı (4:1) kabul eder. Bazı hükümler kocanın tam nafaka yükümlülüğüne bağlıdır. Pek çok âlim 4:34'ü sıkı biçimde sınırlar. Bazı haksızlıklar metinden değil örften gelir ve bazı sorular tartışmalı olmaya devam eder.
   en: The Quran affirms equal spiritual worth (33:35; 16:97) and creation from one soul (4:1). Several rulings are tied to the husband's full duty of maintenance. Many scholars restrict 4:34 sharply. Some injustices are custom, not text, and some questions remain contested.
 layers:
   - kind: religious
@@ -38,10 +39,6 @@ layers:
     tr: |
       Eşitlik ve aynılık. İtiraz: hükümler kendi ataerkil bağlamlarını yansıtıyor olabilir.
     en: "Equality vs. sameness. Objection: the rulings may encode their patriarchal context."
-  - kind: psychological
-    tr: |
-      Ders verir gibi bir tondan kaçınmak gerekir.
-    en: Avoid a lecturing tone.
 honestLimits:
   tr: |
     Mirasla ilgili reform önerileri tartışmalıdır.

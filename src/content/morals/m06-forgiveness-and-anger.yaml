@@ -10,7 +10,7 @@ title:
 summary:
   tr: Hakkını aramak korunur; affetmek daha yüksektir. Güçlü olan öfkesini yenendir.
   en: The right to justice is preserved; forgiveness is higher. The strong one controls anger.
-hadith:
+teachings:
   tr: |
     - Güçlü olan, öfkesini yenendir (Buhârî 6114).
     - 24:22, Hz. Âişe'ye iftira eden bir akrabasının yardımını Ebû Bekir kestiğinde indi.
@@ -22,9 +22,7 @@ hadith:
 evidence:
   tr: Wade ve ark. (2014), affetmede Δ = 0,56 ve daha düşük depresyon ve kaygı buldu. 2022 tarihli bir *Child Development* meta-analizi öfkede azalma buldu (g = 0,29). [Established] Etki orta düzeyde.
   en: Wade et al. (2014) found Δ = 0.56 on forgiveness, plus lower depression and anxiety. A 2022 *Child Development* meta-analysis found reduced anger (g = 0.29). [Established] The effect is moderate.
-stories:
-  tr: Taif; Hind.
-  en: Ta'if; Hind.
+# The research gives only the shorthand "Ta'if; Hind."; left out until it tells the stories (CONTENT_GAPS).
 gaps:
   tr: Affetmek, mağdurlardan talep ediliyor.
   en: Forgiveness is demanded of victims.

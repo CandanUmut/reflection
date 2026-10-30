@@ -64,9 +64,12 @@ honestNotes:
       - Bir gaz ve toz bulutsusuna "duman gibi" demek makul bir modern tefekkürdür [Debated], ama tefekkür olarak etiketlenmelidir.
       - Ayrıca 41:9–12'nin verdiği sıra (önce yer, sonra gökler) müfessirlerin 79:27–30 ile birlikte uzun uzun tartıştığı bir konudur. Bunu gizlemeden, tefsirdeki eski bir tartışma olarak sunmak gerekir.
     en: |-
+      …important.
+
       - "The Quran described the Big Bang" overstates. The classical reading of 21:30 (rain and plants splitting sky and earth) is quite different, and the early universe was a hot plasma, not smoke.
       - Calling a gas-and-dust nebula "smoke-like" is a reasonable modern reflection [Debated], but it should be labelled as a reflection.
       - Also note 41:9–12 gives a sequence (earth, then heavens) that commentators discussed at length alongside 79:27–30. Don't hide this; present it as an old discussion in tafsir.
+    important: true
 visualizations:
   - id: ideas
     tr: |

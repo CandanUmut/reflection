@@ -25,7 +25,7 @@ teachings:
     - Servet yalnızca zenginler arasında dolaşmamalıdır (59:7).
     - Altın ve gümüşü yığıp Allah yolunda harcamayanlara uyarı (9:34).
     - 9:60'ta sayılan zekât alanları (fakirler, yoksullar, borçlular, yolcular ve diğerleri).
-    - Hadis: Hz. Peygamber faizi yiyene, yedirene, yazana ve şahitlerine lanet etti (Müslim 1598). "Doğru sözlü, güvenilir tüccar peygamberlerle, sıddıklarla ve şehitlerle beraberdir" (Tirmizî 1209; bazılarınca zayıf ile hasen arası sayılır). "Fiyatları yükseltmek için mal stoklayan günahkârdır" (Müslim 1605).
+    - Hadis: Hz. Peygamber faizi yiyene, yedirene, yazana ve şahitlerine lanet etti (Müslim 1598). "Doğru sözlü, güvenilir tüccar peygamberlerle, sıddıklarla ve şehitlerle beraberdir" (Tirmizî 1209; bazılarınca zayıf ile hasen arası sayılır). "[Fiyatları yükseltmek için] mal stoklayan günahkârdır" (Müslim 1605).
   en: |-
     - Charity multiplies like a grain that grows seven ears, each with a hundred grains (2:261). Charity should not be spoiled by reminders or hurt (2:262–264).
     - Usury (*ribā*) is forbidden; trade is allowed; whoever stops gets what passed, and debtors in hardship should be given time, and forgiving the debt is better (2:275–280).
@@ -39,7 +39,7 @@ scholarship:
     - **Makâsıd:** *servetin* korunması (*hıfzu'l-mâl*), beş klasik amaçtan biridir (Gazzâlî, Şâtıbî). İbn Âşûr, servetin *dolaşması* (*revâc*), açık ve adil olması (*vuzûh*, *adl*) gerektiğini ekler. Jasser Auda makâsıdı yalnızca korumayı değil, insanın gelişmesini amaçlayan bir sistem olarak okur.
     - **Ahlâk:** Gazzâlî (*İhyâ*, Cimriliğin Kınanması Kitabı) hırsı bir kalp hastalığı, cömertliği onun ilacı olarak ele alır. Râgıb el-İsfahânî serveti iyi kullanılması gereken bir emanet olarak görür.
     - Zekât, fakirin servet üzerindeki bir hakkıdır (*hak*), bir lütuf değil (70:24–25).
-    - *Ribâ* konusunda âlimler yasakta hemfikirdir, ama bunun modern banka faizine ve enflasyona nasıl uygulanacağını tartışır [Debated in its details].
+    - *Ribâ* konusunda âlimler yasakta hemfikirdir, ama bunun modern banka faizine ve enflasyona nasıl uygulanacağını tartışır [Debated, ayrıntılarda].
   en: |-
     - **Maqāṣid:** protecting *wealth* (*ḥifẓ al-māl*) is one of the five classical objectives (al-Ghazālī, al-Shāṭibī). Ibn ʿĀshūr adds that wealth must *circulate* (*rawāj*) and be clear and fair (*wuḍūḥ*, *ʿadl*). Jasser Auda reads the maqāṣid as a system aimed at human development, not only protection.
     - **Akhlaq:** al-Ghazālī (*Iḥyāʾ*, Book on the Condemnation of Miserliness) treats greed as a disease of the heart and generosity as its cure. Al-Rāghib al-Iṣfahānī frames wealth as a trust to be used well.
@@ -47,9 +47,9 @@ scholarship:
     - On *ribā*, scholars agree on the ban but debate how it applies to modern bank interest and inflation [Debated in its details].
 evidence:
   tr: |
-    - İyilik ve cömertlik davranışları verenin iyi oluşunu artırır. 27 deneyin meta-analizi (Curry ve ark., 2018) küçük-orta düzeyde bir etki buldu (d ≈ 0,28). [Established, *small*]
-    - "Toplum yararına harcama" çalışmaları (başkaları için para harcamak, insanları kendileri için harcamaktan daha mutlu eder; Dunn ve ark., 2008) çoğunlukla tekrarlandı, ama etkiler ilk bildirilenden küçük. [Established, *small*]
-    - Yüksek eşitsizlik, ülkeler arasında daha düşük toplumsal güven ve daha kötü sağlık sonuçlarıyla ilişkilidir (Wilkinson ve Pickett). [Debated in size and causality, *moderate*]
+    - İyilik ve cömertlik davranışları verenin iyi oluşunu artırır. 27 deneyin meta-analizi (Curry ve ark., 2018) küçük-orta düzeyde bir etki buldu (d ≈ 0,28). [Established, *küçük*]
+    - "Toplum yararına harcama" çalışmaları (başkaları için para harcamak, insanları kendileri için harcamaktan daha mutlu eder; Dunn ve ark., 2008) çoğunlukla tekrarlandı, ama etkiler ilk bildirilenden küçük. [Established, *küçük*]
+    - Yüksek eşitsizlik, ülkeler arasında daha düşük toplumsal güven ve daha kötü sağlık sonuçlarıyla ilişkilidir (Wilkinson ve Pickett). [Debated, büyüklüğü ve nedenselliği; *orta*]
   en: |-
     - Acts of kindness and generosity raise the giver's wellbeing. A meta-analysis of 27 experiments (Curry et al., 2018) found a small-to-medium effect (d ≈ 0.28). [Established, *small*]
     - "Prosocial spending" studies (spending on others makes people happier than spending on themselves; Dunn et al., 2008) have mostly replicated, with smaller effects than first reported. [Established, *small*]
@@ -71,6 +71,8 @@ gaps:
     - Zekât toplama pek çok Müslüman çoğunluklu ülkede zayıf ya da gayriresmîdir ve birçoğunda eşitsizlik yüksektir.
     - İslam iktisadını büyük ölçekte daha iyi işlediği kanıtlanmış gibi sunmamak; ilkelerini ve dürüst sicilini sunmak gerekir.
   en: |-
+    …gaps.
+
     - Much modern "Islamic finance" has been criticized by Muslim economists (e.g., Mahmoud El-Gamal) for copying interest-based products with new names ("sharia arbitrage") rather than building different, fairer finance.
     - Zakat collection is weak or informal in many Muslim-majority countries, and inequality in several is high.
     - Do not present Islamic economics as already proven to work better at scale; present its principles and the honest record.

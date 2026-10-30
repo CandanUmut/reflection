@@ -11,7 +11,8 @@ title:
   en: Aisha's age at marriage
 sensitivity: high
 helpCard: general
-verses: []
+verses:
+  - 4:6
 steelman:
   tr: |
     Buhârî ve Müslim, altı yaşında nikâhı ve dokuz yaşında zifafı rivayet eder. Peygamber bütün zamanlar için bir örnekse, bugün çocuk istismarı dediğimiz şeyi onaylamış mı oldu? Bazı hukuk sistemleri bu rivayeti asgari yaş kanunlarına karşı delil olarak kullanır.
@@ -27,7 +28,7 @@ shortAnswer:
 layers:
   - kind: religious
     tr: |
-      Buhârî 5133–5134 ve Müslim 1422 rivayeti, çoğunlukla Hişâm b. Urve ← Urve ← Âişe yoluyla taşır. Klasik fakihler zifafı bedensel hazırlığa (*tâkat*) bağladı. Sonraki hukuk düzenlemeleri, *siyâset-i şer'iyye* (şeriat çerçevesinde yönetim) kapsamında devletin asgari yaşı belirlemesine izin verdi. Revizyonist kronolojiler (Urduca Kândehlevî ve bazı Türk ilahiyatçılar) Esmâ'nın yaşını ve Âişe'nin Bedir ve Uhud'da bulunmasını kullanarak onun on yaşlarının sonunda olduğunu savunur. Bunlar belirsiz rivayetlere dayanır [Debated].
+      Buhârî 5133–5134 ve Müslim 1422 rivayeti, çoğunlukla Hişâm b. Urve ← Urve ← Âişe yoluyla taşır. Klasik fakihler zifafı bedensel hazırlığa (*tâkat*) bağladı. Sonraki hukuk düzenlemeleri, *siyâset-i şer'iyye* (şeriat çerçevesinde yönetim) kapsamında devletin asgari yaşı belirlemesine izin verdi. Revizyonist kronolojiler (Urduca Kândehlevî ve bazı Türk ilahiyatçılar) Esmâ'nın yaşını ve Âişe'nin Bedir ve Uhud'da bulunmasını kullanarak onun ergenlik çağının sonlarında, yani yirmi yaşına yakın olduğunu savunur. Bunlar belirsiz rivayetlere dayanır [Debated].
     en: Bukhārī 5133–5134 and Muslim 1422 carry the report, mostly through Hishām b. ʿUrwa ← ʿUrwa ← Aisha. Classical jurists tied consummation to physical readiness (*ṭāqa*). Later legal codes let the state set minimum ages under *siyāsa sharʿiyya* (governance within the Sharia). Revisionist chronologies (Kāndhlawī in Urdu, and some Turkish theologians) use Asmāʾ's age and Aisha's presence at Badr and Uḥud to argue she was in her late teens. These rely on uncertain reports [Debated].
   - kind: philosophical
     tr: |

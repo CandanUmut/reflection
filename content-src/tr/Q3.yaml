@@ -1,13 +1,13 @@
 slugs: { tr: deizm, en: deism }
 theme: deism
-title: Yaratıcının işe karıştığına neden inanmalı (deizm)?
+title: Yaratıcının dünyayla ilgilendiğine neden inanmalı (deizm)?
 verses: ["20:50", "30:30"]
 steelman: |
   Akıl bir İlk Sebebe ulaşabilir, ama kanun vahyeden ya da duaya cevap veren bir Tanrı'ya değil. Dinler kültürel olarak şekillenmiş görünür; bu yüzden uzak bir Yaratıcı akla uygun asgari kabul gibi görünür.
 whyAsked: |
   Türk gençliğinde baskın olan örüntüdür. Kökleri: din temsilcilerinden duyulan hayal kırıklığı, bilime karşı öğretilen din ve kötülük.
 shortAnswer: |
-  Anlam arayan zihinler yaratan bir Yaratıcının onlara kayıtsız olması pek olası değildir. İşe karışmanın gerekçesi Allah'ın vasıflarına (deizmin sessizce bıraktığı rahmet ve hikmete), peygamberliğin tarihî delillerine ve vahyin insan fıtratına uyumuna (*fıtrat*, 30:30) dayanır.
+  Anlam arayan zihinler yaratan bir Yaratıcının onlara kayıtsız olması pek olası değildir. Dünyayla ilgilendiğine dair gerekçe Allah'ın vasıflarına (deizmin sessizce bıraktığı rahmet ve hikmete), peygamberliğin tarihî delillerine ve vahyin insan fıtratına uyumuna (*fıtrat*, 30:30) dayanır.
 layers:
   4: |
     - Kur'an rızıktan hidayete doğru delil getirir (20:50; 87:2–3).
@@ -20,7 +20,7 @@ layers:
   6: |
     Bkz. S9 (ince ayar).
   7: |
-    Konyalı öğretmenler, ikiyüzlülüğün ve eskimiş dinî söylemin gençleri uzaklaştırdığını belirtir. Deizm çoğu zaman ahlâkî bir protestodur; bu yüzden cevaplar dürüstlüğe değinmelidir.
+    Konya çalıştayındaki öğretmenler, ikiyüzlülüğün ve eskimiş dinî söylemin gençleri uzaklaştırdığını belirtir. Deizm çoğu zaman ahlâkî bir protestodur; bu yüzden cevaplar dürüstlüğe değinmelidir.
 honest: |
   Argümanlar zorunluluk değil, makuliyet verir.
 visualization: |

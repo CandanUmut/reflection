@@ -39,7 +39,8 @@ const signs = defineCollection({
     /** Optional: S3, S7 and S9 have no reflection in the research; logged in CONTENT_GAPS. */
     reflection: text.optional(),
     reflectionVerses: z.array(verseRef).optional(),
-    honestNotes: z.array(text),
+    /** `important`: the research marks the note "Honest note — important". */
+    honestNotes: z.array(text.extend({ important: z.boolean().optional() })),
     visualizations: z.array(visualization),
     sources: z.array(source).min(1),
   }),
@@ -55,7 +56,7 @@ const questions = defineCollection({
     /** "high" = the research marks it high-sensitivity. */
     sensitivity: z.enum(['normal', 'high']),
     /** Suffering, grief, disasters, vesvese: show the gentle help card. */
-    helpCard: z.union([z.literal(false), z.enum(['general', 'vesvese', 'suffering', 'disaster'])]),
+    helpCard: z.union([z.literal(false), z.enum(['general', 'vesvese', 'suffering', 'disaster', 'urgent'])]),
     verses: z.array(verseRef),
     title: text,
     summary: text.optional(),
@@ -73,7 +74,7 @@ const questions = defineCollection({
         title: text,
         from: text,
         to: text,
-        views: z.array(z.object({ who: z.string(), view: text })).min(2),
+        views: z.array(z.object({ who: z.union([z.string(), text]), view: text })).min(2),
       })
       .optional(),
     honestLimits: text,
@@ -93,7 +94,7 @@ const morals = defineCollection({
     title: text,
     summary: text,
     /** M13 (marriage) names domestic violence: show the help card. */
-    helpCard: z.enum(['violence']).optional(),
+    helpCard: z.enum(['urgent']).optional(),
     /** Research section "Key verses and hadith" (M8+), verbatim. */
     teachings: text.optional(),
     hadith: text.optional(),

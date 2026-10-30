@@ -43,7 +43,9 @@ const sec = (it, n) => {
     : '';
   // Words written after the label in the heading ("[Scholarly]. There are two main readings") belong to the text.
   const after = s.name.split(/\]\.\s*/)[1];
-  return tags + (after ? `${after}.\n\n` : '') + s.text;
+  // "How it works — and where it stops": the words after the dash are part of what the section says.
+  const dash = s.name.replace(/\s*\[.*$/, '').split(/\s+—\s+/)[1];
+  return tags + (after ? `${after}.\n\n` : '') + (dash && !after ? `…${dash}.\n\n` : '') + s.text;
 };
 const notApplicable = (t) => /^not (applicable|central)\.?$/i.test(t.trim());
 
@@ -85,7 +87,12 @@ function build(id, tr) {
       howItWorks: both('howItWorks', sec(it, SIGN.howItWorks)),
       awe: both('awe', sec(it, SIGN.awe)),
       reflection: both('reflection', sec(it, SIGN.reflection)),
-      honestNotes: [both('honest', sec(it, SIGN.honest))],
+      honestNotes: [
+        {
+          ...both('honest', sec(it, SIGN.honest)),
+          ...(/important/.test(it.sections[SIGN.honest].name) ? { important: true } : {}),
+        },
+      ],
       visualizations: viz(SIGN.viz),
       sources,
     };
@@ -108,6 +115,8 @@ function build(id, tr) {
   const layers = [4, 5, 6, 7]
     .map((n) => ({ n, s: it.sections[n] }))
     .filter(({ s }) => !notApplicable(s.text))
+    // A layer set to null in the Turkish file is left out on purpose (e.g. a note to authors).
+    .filter(({ n }) => tr.layers?.[n] !== null)
     .map(({ n, s }) => {
       const kind = LAYER_KIND[s.name.toLowerCase()];
       if (!kind) throw new Error(`${id}: unknown layer "${s.name}"`);

@@ -14,7 +14,7 @@ whyAsked: |
 
   Diyanet'in kendi aylık dergisi (Kasım 2018) gençlerin *din istismarından* nasıl korunacağını sordu. Bu, mantıktan değil ihanetten doğan bir şüphedir.
 shortAnswer: |
-  Kur'an müminler arasında ikiyüzlülük olacağını bekler ve onu hiçbir eleştirmenin yapmadığı kadar sert kınar. Dinin kötüye kullanılması, Kur'an'ın insan doğasına dair anlatımını doğrular; sigara içen bir doktor tıbbı çürütmez. Öfken meşrudur. Mesajı kaynağına ve en iyi örneklerine göre değerlendir; yozlaşmış insanların imanını sahiplenmesine izin verme.
+  Kur'an müminler arasında ikiyüzlülük olacağını bekler ve onu hiçbir eleştirmenin yapmadığı kadar sert kınar. Dinin kötüye kullanılması, Kur'an'ın insan doğasına dair anlatımını doğrular; sigara içen bir doktor tıbbı çürütmez. Öfken meşrudur. Mesajı kaynağına ve en iyi örneklerine göre değerlendir; imanının yozlaşmış insanların elinde kalmasına izin verme.
 layers:
   4: |
     - "İnsanlara iyiliği emredip kendinizi unutuyor musunuz?" (2:44); ayrıca 61:2–3, Mâûn sûresi ve münafıklar hakkında Münâfikûn sûresi.
@@ -30,7 +30,7 @@ layers:
 honest: |
   Türkiye'deki topluluklar da, başkaları gibi, zaman zaman istismarcıları korudu ve inancı siyasi olarak kullandı. "Bu gerçek İslam değil" demek yetmez. Bu site:
   - istismarı hem günah hem suç olarak adlandırır;
-  - hukukî ve klinik yardıma yönlendirir;
+  - klinik yardıma ve 112 acil hattına yönlendirir;
   - parti siyasetinden uzak durur;
   - *hangi taraftan* gelirse gelsin kötüye kullanımı eleştirir.
 enOverrides:
@@ -38,7 +38,7 @@ enOverrides:
   honest: |
     Turkish communities, like others, have sometimes shielded abusers and used faith politically. "That's not real Islam" is not enough. This site:
     - names abuse as both sin and crime;
-    - points to legal and clinical help;
+    - points to clinical help and the 112 emergency line;
     - avoids party politics;
     - criticises misuse by *any* side.
 visualization: |

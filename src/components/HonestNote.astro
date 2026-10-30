@@ -6,12 +6,17 @@ interface Props {
   lang: Locale;
   /** Defaults to "Honest note"; questions use "Honest limits", morals "the gap between ideal and practice". */
   label?: string;
+  /** The research marks this note as important; it is set apart a little more. */
+  important?: boolean;
 }
-const { lang, label } = Astro.props;
+const { lang, label, important = false } = Astro.props;
 ---
 
-<aside class="honest-note">
-  <p class="honest-note__label">{label ?? t(lang, 'honestNote')}</p>
+<aside class:list={['honest-note', { 'honest-note--important': important }]}>
+  <p class="honest-note__label">
+    {label ?? t(lang, 'honestNote')}
+    {important && <> · {t(lang, 'important')}</>}
+  </p>
   <div class="honest-note__body">
     <slot />
   </div>
@@ -40,5 +45,8 @@ const { lang, label } = Astro.props;
   }
   .honest-note__body :global(p:last-child) {
     margin-bottom: 0;
+  }
+  .honest-note--important {
+    border-left-width: 3px;
   }
 </style>

@@ -156,6 +156,12 @@
    "en": "Indeed, the example of Jesus to Allah is like that of Adam. He created Him from dust; then He said to him, \"Be,\" and he was.",
    "tr": "Doğrusu Allah katında İsa'nın (yaratılışındaki) durumu, Âdem'in durumu gibidir; onu topraktan yarattı, sonra ona \"ol!\" dedi, o da oluverdi."
   },
+  "3:85": {
+   "ar": "وَمَن يَبْتَغِ غَيْرَ ٱلْإِسْلَٰمِ دِينًا فَلَن يُقْبَلَ مِنْهُ وَهُوَ فِى ٱلْـَٔاخِرَةِ مِنَ ٱلْخَٰسِرِينَ",
+   "translit": "waman yabtaghi ghayra l-is'lāmi dīnan falan yuq'bala min'hu wahuwa fī l-ākhirati mina l-khāsirīna",
+   "en": "And whoever desires other than Islam as religion - never will it be accepted from him, and he, in the Hereafter, will be among the losers.",
+   "tr": "Kim İslâm'dan başka bir din ararsa ondan asla kabul edilmeyecek ve o ahirette de zarar edenlerden olacaktır."
+  },
   "3:103": {
    "ar": "وَٱعْتَصِمُوا۟ بِحَبْلِ ٱللَّهِ جَمِيعًا وَلَا تَفَرَّقُوا۟ ۚ وَٱذْكُرُوا۟ نِعْمَتَ ٱللَّهِ عَلَيْكُمْ إِذْ كُنتُمْ أَعْدَآءً فَأَلَّفَ بَيْنَ قُلُوبِكُمْ فَأَصْبَحْتُم بِنِعْمَتِهِۦٓ إِخْوَٰنًا وَكُنتُمْ عَلَىٰ شَفَا حُفْرَةٍ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنْهَا ۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمْ ءَايَٰتِهِۦ لَعَلَّكُمْ تَهْتَدُونَ",
    "translit": "wa-iʿ'taṣimū biḥabli l-lahi jamīʿan walā tafarraqū wa-udh'kurū niʿ'mata l-lahi ʿalaykum idh kuntum aʿdāan fa-allafa bayna qulūbikum fa-aṣbaḥtum biniʿ'matihi ikh'wānan wakuntum ʿalā shafā ḥuf'ratin mina l-nāri fa-anqadhakum min'hā kadhālika yubayyinu l-lahu lakum āyātihi laʿallakum tahtadūna",
@@ -192,11 +198,23 @@
    "en": "And if you fear that you will not deal justly with the orphan girls, then marry those that please you of [other] women, two or three or four. But if you fear that you will not be just, then [marry only] one or those your right hand possesses. That is more suitable that you may not incline [to injustice].",
    "tr": "Eğer öksüz kızlarla evlendiğinizde onlara karşı adaletli davranamamaktan korkarsanız, hoşunuza giden diğer kadınlardan iki, üç ve dörde kadar evlenebilirsiniz. Eğer adaleti gözetmemekten korkarsanız, o zaman bir tane ile veya elinizin altındakiyle (sahip olduğunuz câriye ile) yetinin. Doğruluktan ayrılmamak için bu daha elverişlidir."
   },
+  "4:6": {
+   "ar": "وَٱبْتَلُوا۟ ٱلْيَتَٰمَىٰ حَتَّىٰٓ إِذَا بَلَغُوا۟ ٱلنِّكَاحَ فَإِنْ ءَانَسْتُم مِّنْهُمْ رُشْدًا فَٱدْفَعُوٓا۟ إِلَيْهِمْ أَمْوَٰلَهُمْ ۖ وَلَا تَأْكُلُوهَآ إِسْرَافًا وَبِدَارًا أَن يَكْبَرُوا۟ ۚ وَمَن كَانَ غَنِيًّا فَلْيَسْتَعْفِفْ ۖ وَمَن كَانَ فَقِيرًا فَلْيَأْكُلْ بِٱلْمَعْرُوفِ ۚ فَإِذَا دَفَعْتُمْ إِلَيْهِمْ أَمْوَٰلَهُمْ فَأَشْهِدُوا۟ عَلَيْهِمْ ۚ وَكَفَىٰ بِٱللَّهِ حَسِيبًا",
+   "translit": "wa-ib'talū l-yatāmā ḥattā idhā balaghū l-nikāḥa fa-in ānastum min'hum rush'dan fa-id'faʿū ilayhim amwālahum walā takulūhā is'rāfan wabidāran an yakbarū waman kāna ghaniyyan falyastaʿfif waman kāna faqīran falyakul bil-maʿrūfi fa-idhā dafaʿtum ilayhim amwālahum fa-ashhidū ʿalayhim wakafā bil-lahi ḥasīban",
+   "en": "And test the orphans [in their abilities] until they reach marriageable age. Then if you perceive in them sound judgement, release their property to them. And do not consume it excessively and quickly, [anticipating] that they will grow up. And whoever, [when acting as guardian], is self-sufficient should refrain [from taking a fee]; and whoever is poor - let him take according to what is acceptable. Then when you release their property to them, bring witnesses upon them. And sufficient is Allah as Accountant.",
+   "tr": "Evlenme çağına gelinceye kadar yetimleri gözetip deneyin. Onların akılca olgunlaştıklarını görürseniz, mallarını kendilerine teslim edin. \"Büyüyecekler de mallarına sahip olacaklar\" endişesiyle onları israf ederek, tez elden yemeyin. Zengin olan, onların malını yemekten çekinsin. Fakir olan ise, meşrû sûrette yesin. Mallarını kendilerine verdiğiniz zaman, bunu şahitler karşısında yapın. Hesap görücü olarak Allah yeter."
+  },
   "4:19": {
    "ar": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا ۖ وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ ۚ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا",
    "translit": "yāayyuhā alladhīna āmanū lā yaḥillu lakum an tarithū l-nisāa karhan walā taʿḍulūhunna litadhhabū bibaʿḍi mā ātaytumūhunna illā an yatīna bifāḥishatin mubayyinatin waʿāshirūhunna bil-maʿrūfi fa-in karih'tumūhunna faʿasā an takrahū shayan wayajʿala l-lahu fīhi khayran kathīran",
    "en": "O you who have believed, it is not lawful for you to inherit women by compulsion. And do not make difficulties for them in order to take [back] part of what you gave them unless they commit a clear immorality. And live with them in kindness. For if you dislike them - perhaps you dislike a thing and Allah makes therein much good.",
    "tr": "Ey iman edenler! Kadınlara zorla varis olmanız size helal değildir. Verdiğiniz mehrin bir kısmını kurtaracaksınız diye, onları sıkıştırmanız da helal değildir. Ancak açık bir hayasızlık yapmış olurlarsa başka. Onlarla iyi geçinin. Eğer kendilerinden hoşlanmadınızsa, olabilir ki, siz bir şeyden hoşlanmasanız da Allah onda bir çok hayır takdir etmiş bulunur."
+  },
+  "4:34": {
+   "ar": "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعْضَهُمْ عَلَىٰ بَعْضٍ وَبِمَآ أَنفَقُوا۟ مِنْ أَمْوَٰلِهِمْ ۚ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٌ لِّلْغَيْبِ بِمَا حَفِظَ ٱللَّهُ ۚ وَٱلَّٰتِى تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهْجُرُوهُنَّ فِى ٱلْمَضَاجِعِ وَٱضْرِبُوهُنَّ ۖ فَإِنْ أَطَعْنَكُمْ فَلَا تَبْغُوا۟ عَلَيْهِنَّ سَبِيلًا ۗ إِنَّ ٱللَّهَ كَانَ عَلِيًّا كَبِيرًا",
+   "translit": "al-rijālu qawwāmūna ʿalā l-nisāi bimā faḍḍala l-lahu baʿḍahum ʿalā baʿḍin wabimā anfaqū min amwālihim fal-ṣāliḥātu qānitātun ḥāfiẓātun lil'ghaybi bimā ḥafiẓa l-lahu wa-allātī takhāfūna nushūzahunna faʿiẓūhunna wa-uh'jurūhunna fī l-maḍājiʿi wa-iḍ'ribūhunna fa-in aṭaʿnakum falā tabghū ʿalayhinna sabīlan inna l-laha kāna ʿaliyyan kabīran",
+   "en": "Men are in charge of women by [right of] what Allah has given one over the other and what they spend [for maintenance] from their wealth. So righteous women are devoutly obedient, guarding in [the husband's] absence what Allah would have them guard. But those [wives] from whom you fear arrogance - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them. But if they obey you [once more], seek no means against them. Indeed, Allah is ever Exalted and Grand.",
+   "tr": "Erkekler, kadın üzerine idareci ve hakimdirler. Çünkü Allah birini (cihad, imamet, miras gibi işlerde) diğerinden üstün yaratmıştır. Bir de erkekler mallarından (aile fertlerine) harcamaktadırlar. İyi kadınlar, itaatkar olanlar ve Allah'ın korunmasını emrettiği şeyleri kocalarının bulunmadığı zamanlarda da koruyanlardır. Fenalık ve geçimsizliklerinden korktuğunuz kadınlara gelince: Önce kendilerine öğüt verin, yataklarından ayrılın. Bunlar da fayda vermezse dövün. Eğer size itaat ederlerse kendilerini incitmeye başka bir bahane aramayın. Çünkü Allah çok yücedir, çok büyüktür."
   },
   "4:36": {
    "ar": "۞ وَٱعْبُدُوا۟ ٱللَّهَ وَلَا تُشْرِكُوا۟ بِهِۦ شَيْـًٔا ۖ وَبِٱلْوَٰلِدَيْنِ إِحْسَٰنًا وَبِذِى ٱلْقُرْبَىٰ وَٱلْيَتَٰمَىٰ وَٱلْمَسَٰكِينِ وَٱلْجَارِ ذِى ٱلْقُرْبَىٰ وَٱلْجَارِ ٱلْجُنُبِ وَٱلصَّاحِبِ بِٱلْجَنۢبِ وَٱبْنِ ٱلسَّبِيلِ وَمَا مَلَكَتْ أَيْمَٰنُكُمْ ۗ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ مُخْتَالًا فَخُورًا",
@@ -281,6 +299,36 @@
    "translit": "yābanī ādama khudhū zīnatakum ʿinda kulli masjidin wakulū wa-ish'rabū walā tus'rifū innahu lā yuḥibbu l-mus'rifīna",
    "en": "O children of Adam, take your adornment at every masjid, and eat and drink, but be not excessive. Indeed, He likes not those who commit excess.",
    "tr": "Ey Âdemoğulları! Her mescide gidişinizde güzel giysilerinizi giyin ve yiyin, için, fakat israf etmeyin, Çünkü Allah israf edenleri sevmez."
+  },
+  "7:80": {
+   "ar": "وَلُوطًا إِذْ قَالَ لِقَوْمِهِۦٓ أَتَأْتُونَ ٱلْفَٰحِشَةَ مَا سَبَقَكُم بِهَا مِنْ أَحَدٍ مِّنَ ٱلْعَٰلَمِينَ",
+   "translit": "walūṭan idh qāla liqawmihi atatūna l-fāḥishata mā sabaqakum bihā min aḥadin mina l-ʿālamīna",
+   "en": "And [We had sent] Lot when he said to his people, \"Do you commit such immorality as no one has preceded you with from among the worlds?",
+   "tr": "Lût'u da (peygamber olarak) gönderdik. Kavmine dedi ki: \"Sizden önce âlemlerden hiç birinin yapmadığı fuhuşu mu yapıyor sunuz?"
+  },
+  "7:81": {
+   "ar": "إِنَّكُمْ لَتَأْتُونَ ٱلرِّجَالَ شَهْوَةً مِّن دُونِ ٱلنِّسَآءِ ۚ بَلْ أَنتُمْ قَوْمٌ مُّسْرِفُونَ",
+   "translit": "innakum latatūna l-rijāla shahwatan min dūni l-nisāi bal antum qawmun mus'rifūna",
+   "en": "Indeed, you approach men with desire, instead of women. Rather, you are a transgressing people.\"",
+   "tr": "Çünkü siz kadınları bırakıp da şehvetle erkeklere gidiyorsunuz. Belki de siz haddi aşan bir kavimsiniz."
+  },
+  "7:82": {
+   "ar": "وَمَا كَانَ جَوَابَ قَوْمِهِۦٓ إِلَّآ أَن قَالُوٓا۟ أَخْرِجُوهُم مِّن قَرْيَتِكُمْ ۖ إِنَّهُمْ أُنَاسٌ يَتَطَهَّرُونَ",
+   "translit": "wamā kāna jawāba qawmihi illā an qālū akhrijūhum min qaryatikum innahum unāsun yataṭahharūna",
+   "en": "But the answer of his people was only that they said, \"Evict them from your city! Indeed, they are men who keep themselves pure.\"",
+   "tr": "Kavminin cevabı: \"Onları (Lût'u ve taraftarlarını) kentinizden çıkarın, çünkü onlar, fazla temizlenen insanlarmış! \"demelerinden başka bir şey olmadı."
+  },
+  "7:83": {
+   "ar": "فَأَنجَيْنَٰهُ وَأَهْلَهُۥٓ إِلَّا ٱمْرَأَتَهُۥ كَانَتْ مِنَ ٱلْغَٰبِرِينَ",
+   "translit": "fa-anjaynāhu wa-ahlahu illā im'ra-atahu kānat mina l-ghābirīna",
+   "en": "So We saved him and his family, except for his wife; she was of those who remained [with the evildoers].",
+   "tr": "Biz de onu ve ailesini kurtardık, yalnız karısı(nı kurtarmadık) çünkü o, geride kalanlardan oldu."
+  },
+  "7:84": {
+   "ar": "وَأَمْطَرْنَا عَلَيْهِم مَّطَرًا ۖ فَٱنظُرْ كَيْفَ كَانَ عَٰقِبَةُ ٱلْمُجْرِمِينَ",
+   "translit": "wa-amṭarnā ʿalayhim maṭaran fa-unẓur kayfa kāna ʿāqibatu l-muj'rimīna",
+   "en": "And We rained upon them a rain [of stones]. Then see how was the end of the criminals.",
+   "tr": "Ve üzerlerine bir (azab) yağmuru yağdırdık. Bak ki günahkârların sonu nasıl oldu!"
   },
   "7:156": {
    "ar": "۞ وَٱكْتُبْ لَنَا فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْـَٔاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ ۚ قَالَ عَذَابِىٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ ۖ وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ ۚ فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤْمِنُونَ",
@@ -785,6 +833,12 @@
    "translit": "wa-iq'ṣid fī mashyika wa-ugh'ḍuḍ min ṣawtika inna ankara l-aṣwāti laṣawtu l-ḥamīri",
    "en": "And be moderate in your pace and lower your voice; indeed, the most disagreeable of sounds is the voice of donkeys.\"",
    "tr": "Yürüyüşünde tabii ol, sesini alçalt, çünkü seslerin en çirkini elbette eşeklerin sesidir."
+  },
+  "33:26": {
+   "ar": "وَأَنزَلَ ٱلَّذِينَ ظَٰهَرُوهُم مِّنْ أَهْلِ ٱلْكِتَٰبِ مِن صَيَاصِيهِمْ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ فَرِيقًا تَقْتُلُونَ وَتَأْسِرُونَ فَرِيقًا",
+   "translit": "wa-anzala alladhīna ẓāharūhum min ahli l-kitābi min ṣayāṣīhim waqadhafa fī qulūbihimu l-ruʿ'ba farīqan taqtulūna watasirūna farīqan",
+   "en": "And He brought down those who supported them among the People of the Scripture from their fortresses and cast terror into their hearts [so that] a party you killed, and you took captive a party.",
+   "tr": "Hem de kitap ehlinden onlara yardım edenleri kalplerine korku düşürerek kalelerinden indirdi, siz onların bir kısmını katlediyordunuz, bir kısmını da esir alıyordunuz."
   },
   "33:35": {
    "ar": "إِنَّ ٱلْمُسْلِمِينَ وَٱلْمُسْلِمَٰتِ وَٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَٰتِ وَٱلْقَٰنِتِينَ وَٱلْقَٰنِتَٰتِ وَٱلصَّٰدِقِينَ وَٱلصَّٰدِقَٰتِ وَٱلصَّٰبِرِينَ وَٱلصَّٰبِرَٰتِ وَٱلْخَٰشِعِينَ وَٱلْخَٰشِعَٰتِ وَٱلْمُتَصَدِّقِينَ وَٱلْمُتَصَدِّقَٰتِ وَٱلصَّٰٓئِمِينَ وَٱلصَّٰٓئِمَٰتِ وَٱلْحَٰفِظِينَ فُرُوجَهُمْ وَٱلْحَٰفِظَٰتِ وَٱلذَّٰكِرِينَ ٱللَّهَ كَثِيرًا وَٱلذَّٰكِرَٰتِ أَعَدَّ ٱللَّهُ لَهُم مَّغْفِرَةً وَأَجْرًا عَظِيمًا",

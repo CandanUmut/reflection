@@ -60,9 +60,12 @@ honestNotes:
       - Şuayb Ahmed Malik gibi Müslüman âlimler, Allah'a imanın evrimsel açıklamalardaki boşluklara bağlı olmadığını savunur; Allah doğal süreçler aracılığıyla da iş görebilir.
       - Önerilen çerçeve: DNA'yı bilimsel bir kanıt olarak **değil**, hayrete davet eden bir âyet olarak sunmak. İki tarafı da adilce sunmak gerekir.
     en: |-
+      …important.
+
       - "DNA proves design" is **[Debated]**. The intelligent design movement (e.g., Stephen Meyer) argues that biological information points to a mind. Most biologists reply that evolution by mutation and natural selection explains how genetic information grows, and US courts (Kitzmiller v. Dover, 2005) ruled that intelligent design is not science.
       - Muslim scholars such as Shoaib Ahmed Malik argue that belief in God does not depend on gaps in evolutionary explanations; God can work through natural processes.
       - Recommended framing: DNA as a sign that invites wonder, **not** as a scientific proof. Present both sides fairly.
+    important: true
 visualizations:
   - id: ideas
     tr: |

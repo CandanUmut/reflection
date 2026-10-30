@@ -16,9 +16,9 @@ verses:
   - 2:229
   - 4:128
 summary:
-  tr: Evliliğin kendisi bir âyettir. *Meveddet* (sevgi) ile *rahmet*, bir evliliği yaşlılık, hastalık ve zorluk boyunca taşır.
-  en: Marriage itself is called a sign. *Mawadda* (love) and *raḥma* (mercy) carry a marriage through age, illness and hardship.
-helpCard: violence
+  tr: Evliliğin kendisi bir âyettir. *Meveddet* (sevgi) çoğu zaman gençlik ve çekimle anılır; *rahmet* ise bir evliliği yaşlılık, hastalık ve zorluk boyunca taşır.
+  en: Marriage itself is called a sign. *Mawadda* (love) is often linked to youth and attraction; *raḥma* (mercy) carries a marriage through age, illness and hardship.
+helpCard: urgent
 teachings:
   tr: |
     - "Kendileriyle huzur bulasınız (*sükûn*) diye size kendi cinsinizden eşler yaratması ve aranıza sevgi (*meveddet*) ve merhamet (*rahmet*) koyması O'nun âyetlerindendir" (30:21). Evliliğin kendisi bir âyet olarak anılır.
@@ -26,7 +26,7 @@ teachings:
     - "Onlar sizin için bir elbise, siz de onlar için bir elbisesiniz" (2:187).
     - Boşanma ya "iyilikle tutmak ya da iyilikle bırakmak" olmalıdır (2:229).
     - Barışmak daha hayırlıdır (4:128).
-    - 'Hadis: "Sizin en hayırlınız, ailesine en hayırlı olanınızdır; ben de aileme en hayırlı olanınızım" (Tirmizî 3895). Hz. Peygamber ev işlerine yardım eder ve "ailesinin hizmetinde" olurdu (Buhârî 676). Âişe ile yarıştı (Ebû Dâvûd 2578).'
+    - Hadis: "Sizin en hayırlınız, eşlerine en hayırlı olanınızdır; ben de eşlerime en hayırlı olanınızım" (Tirmizî 3895). Hz. Peygamber ev işlerine yardım eder ve "ailesinin hizmetinde" olurdu (Buhârî 676). Âişe ile yarıştı (Ebû Dâvûd 2578).
   en: |-
     - "Among His signs is that He created for you spouses from among yourselves so that you may find tranquility (*sakan*) in them, and He placed between you love (*mawadda*) and mercy (*raḥma*)" (30:21). Marriage itself is called a sign.
     - "Live with them in kindness; if you dislike them, perhaps you dislike something in which God has placed much good" (4:19).
@@ -47,9 +47,9 @@ scholarship:
     - Al-Ghazālī's *Ādāb al-Nikāḥ* (*Iḥyāʾ*) lists benefits and dangers of marriage and stresses gentle character, patience with a spouse's faults, and play.
 evidence:
   tr: |
-    - John Gottman'ın araştırması, istikrarlı çiftlerin çatışma sırasında her olumsuz etkileşime karşılık kabaca **beş olumlu etkileşimi** olduğunu buldu ve küçümsemeyi güçlü bir uyarı işareti olarak tanımladı. [*moderate*; boşanma tahmini iddiaları aşırı uyum (overfitting) gerekçesiyle eleştirildi]
-    - Evlilik kalitesi sağlıkla ilişkilidir; 126 çalışmanın meta-analizi (Robles ve ark., 2014) **küçük** ama gerçek ilişkiler buldu. [Established, *small*]
-    - Eşe karşı nezaket, şükran ve cömertlik evlilik memnuniyetini yordar. [*moderate*]
+    - John Gottman'ın araştırması, istikrarlı çiftlerin çatışma sırasında her olumsuz etkileşime karşılık kabaca **beş olumlu etkileşimi** olduğunu buldu ve küçümsemeyi güçlü bir uyarı işareti olarak tanımladı. [*orta*; boşanma tahmini iddiaları aşırı uyum gerekçesiyle eleştirildi]
+    - Evlilik kalitesi sağlıkla ilişkilidir; 126 çalışmanın meta-analizi (Robles ve ark., 2014) **küçük** ama gerçek ilişkiler buldu. [Established, *küçük*]
+    - Eşe karşı nezaket, şükran ve cömertlik evlilik memnuniyetini yordar. [*orta*]
   en: |-
     - John Gottman's research found that stable couples have roughly **five positive interactions for every negative one** during conflict, and identified contempt as a strong warning sign. [*moderate*; his divorce-prediction claims have been criticized for overfitting]
     - Marital quality is linked to health; a meta-analysis of 126 studies (Robles et al., 2014) found **small** but real associations. [Established, *small*]

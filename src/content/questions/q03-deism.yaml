@@ -7,7 +7,7 @@ slugs:
 order: 3
 theme: deism
 title:
-  tr: Yaratıcının işe karıştığına neden inanmalı (deizm)?
+  tr: Yaratıcının dünyayla ilgilendiğine neden inanmalı (deizm)?
   en: Why believe the Creator is involved (deism)?
 sensitivity: normal
 helpCard: false
@@ -24,7 +24,7 @@ whyAsked:
   en: It is the dominant Turkish youth pattern. Its roots are disappointment with religious representatives, religion taught against science, and evil.
 shortAnswer:
   tr: |
-    Anlam arayan zihinler yaratan bir Yaratıcının onlara kayıtsız olması pek olası değildir. İşe karışmanın gerekçesi Allah'ın vasıflarına (deizmin sessizce bıraktığı rahmet ve hikmete), peygamberliğin tarihî delillerine ve vahyin insan fıtratına uyumuna (*fıtrat*, 30:30) dayanır.
+    Anlam arayan zihinler yaratan bir Yaratıcının onlara kayıtsız olması pek olası değildir. Dünyayla ilgilendiğine dair gerekçe Allah'ın vasıflarına (deizmin sessizce bıraktığı rahmet ve hikmete), peygamberliğin tarihî delillerine ve vahyin insan fıtratına uyumuna (*fıtrat*, 30:30) dayanır.
   en: A Creator who makes meaning-seeking minds is unlikely to be indifferent to them. The case for involvement rests on God's character (mercy and wisdom, which deism quietly drops), the historical evidence for prophethood, and revelation's fit with human nature (fiṭra, 30:30).
 layers:
   - kind: religious
@@ -51,7 +51,7 @@ layers:
     en: See S9.
   - kind: psychological
     tr: |
-      Konyalı öğretmenler, ikiyüzlülüğün ve eskimiş dinî söylemin gençleri uzaklaştırdığını belirtir. Deizm çoğu zaman ahlâkî bir protestodur; bu yüzden cevaplar dürüstlüğe değinmelidir.
+      Konya çalıştayındaki öğretmenler, ikiyüzlülüğün ve eskimiş dinî söylemin gençleri uzaklaştırdığını belirtir. Deizm çoğu zaman ahlâkî bir protestodur; bu yüzden cevaplar dürüstlüğe değinmelidir.
     en: Konya teachers note that hypocrisy and outdated religious discourse push young people away. Deism is often a moral protest, so answers must address integrity.
 honestLimits:
   tr: |

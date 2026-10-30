@@ -8,7 +8,7 @@ import HundredParts from './HundredParts.astro';
 import HelpCard from './HelpCard.astro';
 import Divider from './Divider.astro';
 import Sources from './Sources.astro';
-import { md } from '../lib/md';
+import { md, mdInline } from '../lib/md';
 import { t, type Locale, type UiKey } from '../i18n/ui';
 
 interface Props {
@@ -24,7 +24,7 @@ const hundred = m.visualizations.find((v) => v.id === 'hundred-parts');
   <header class="moral__head wrap">
     <p class="label">{m.id}</p>
     <h1>{m.title[lang]}</h1>
-    <p class="moral__summary">{m.summary[lang]}</p>
+    <p class="moral__summary" set:html={mdInline(m.summary[lang], lang)} />
   </header>
   <section class="wrap" aria-label={t(lang, 'keyVerses')}>
     <VerseBlock refs={m.verses} lang={lang} size="small" />

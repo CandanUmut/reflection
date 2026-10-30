@@ -3,6 +3,7 @@
 import { getCollection } from 'astro:content';
 import Base from '../../../layouts/Base.astro';
 import ItemList from '../../../components/ItemList.astro';
+import { mdInline } from '../../../lib/md';
 import { t, locales, otherLocale, type Locale, type UiKey } from '../../../i18n/ui';
 import { itemUrl, sectionPath, sectionSegment, type Section } from '../../../lib/routes';
 
@@ -26,7 +27,7 @@ const items = entries.map(({ data }) => ({
   id: data.id,
   href: itemUrl(section, data.slugs, lang),
   title: data.title[lang],
-  summary: 'summary' in data ? data.summary?.[lang] : undefined,
+  summary: 'summary' in data && data.summary?.[lang] ? mdInline(data.summary[lang], lang) : undefined,
 }));
 ---
 
