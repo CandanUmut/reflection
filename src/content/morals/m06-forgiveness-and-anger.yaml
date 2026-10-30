@@ -1,0 +1,40 @@
+# Source: docs/research/01-batch-1.md, Phase 4, M6.
+id: M6
+slugs: { tr: affetmek-ve-ofke, en: forgiveness-and-anger }
+order: 6
+theme: forgiveness
+verses: ["3:134", "42:40", "24:22"]
+title:
+  tr: Affetmek ve öfkeyi yenmek
+  en: Forgiveness and anger
+summary:
+  tr: Hakkını aramak korunur; affetmek daha yüksektir. Güçlü olan öfkesini yenendir.
+  en: The right to justice is preserved; forgiveness is higher. The strong one controls anger.
+hadith:
+  tr: |
+    - Güçlü olan, öfkesini yenendir (Buhârî 6114).
+    - 24:22, Hz. Âişe'ye iftira eden bir akrabasının yardımını Ebû Bekir kestiğinde indi.
+    - 42:40 adalet hakkını korur.
+  en: |
+    - The strong one controls anger (Bukhārī 6114).
+    - 24:22 was revealed when Abu Bakr cut off a relative who had slandered Aisha.
+    - 42:40 preserves the right to justice.
+evidence:
+  tr: Wade ve ark. (2014), affetmede Δ = 0,56 ve daha düşük depresyon ve kaygı buldu. 2022 tarihli bir *Child Development* meta-analizi öfkede azalma buldu (g = 0,29). [Established] Etki orta düzeyde.
+  en: Wade et al. (2014) found Δ = 0.56 on forgiveness, plus lower depression and anxiety. A 2022 *Child Development* meta-analysis found reduced anger (g = 0.29). [Established] The effect is moderate.
+stories:
+  tr: Taif; Hind.
+  en: Ta'if; Hind.
+gaps:
+  tr: Affetmek, mağdurlardan talep ediliyor.
+  en: Forgiveness is demanded of victims.
+visualizations:
+  - id: ideas
+    tr: Bir REACH affetme yolu.
+    en: A REACH forgiveness path.
+sources:
+  - label: Ṣaḥīḥ al-Bukhārī 6114
+  - label: Wade et al. 2014 (Academia)
+    url: https://www.academia.edu/30428447/Efficacy_of_psychotherapeutic_interventions_to_promote_forgiveness_A_meta_analysis
+  - label: Child Development 2022 forgiveness meta-analysis
+    url: https://www.ovid.com/journals/cdev/fulltext/10.1111/cdev.13771~a-metaanalysis-of-forgiveness-education-interventions

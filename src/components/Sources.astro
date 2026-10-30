@@ -1,11 +1,13 @@
 ---
 import { t, type Locale } from '../i18n/ui';
+import { mdInline } from '../lib/md';
 interface Props {
   sources: { label: string | { tr: string; en: string }; url?: string | undefined }[];
   lang: Locale;
 }
 const { sources, lang } = Astro.props;
-const label = (l: string | { tr: string; en: string }) => (typeof l === 'string' ? l : l[lang]);
+// Labels may carry inline Markdown (*book titles*); rendered at build time.
+const label = (l: string | { tr: string; en: string }) => mdInline(typeof l === 'string' ? l : l[lang], lang);
 ---
 
 <section class="sources" aria-labelledby="sources-title">
@@ -16,11 +18,9 @@ const label = (l: string | { tr: string; en: string }) => (typeof l === 'string'
     {sources.map((s) => (
       <li>
         {s.url ? (
-          <a href={s.url} rel="noopener">
-            {label(s.label)}
-          </a>
+          <a href={s.url} rel="noopener" set:html={label(s.label)} />
         ) : (
-          label(s.label)
+          <Fragment set:html={label(s.label)} />
         )}
       </li>
     ))}

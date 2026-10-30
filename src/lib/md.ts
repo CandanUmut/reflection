@@ -19,3 +19,9 @@ export function md(src: string | undefined, lang: Locale): string {
   if (!src) return '';
   return tags(marked.parse(src.trim(), { async: false }) as string, lang);
 }
+
+/** Inline Markdown only (no paragraph), for short strings such as source labels. */
+export function mdInline(src: string | undefined, lang: Locale): string {
+  if (!src) return '';
+  return tags(marked.parseInline(src.trim(), { async: false }) as string, lang);
+}

@@ -1,0 +1,34 @@
+# Source: docs/research/01-batch-1.md, Phase 4, M3.
+id: M3
+slugs: { tr: anne-baba-ve-aile, en: parents-and-family }
+order: 3
+theme: family
+verses: ["17:23-24", "31:14-15"]
+title:
+  tr: Anne baba ve aile
+  en: Parents and family
+summary:
+  tr: Yaşlılıkta özen ve saygı — ama günahta itaat yoktur.
+  en: Care and respect in old age — but no obedience in sin.
+hadith:
+  tr: |
+    - "Annen" üç kez söylendi (Buhârî 5971).
+    - Günahta itaat yoktur (31:15).
+  en: |
+    - "Your mother", said three times (Bukhārī 5971).
+    - There is no obedience in sin (31:15).
+scholarship:
+  tr: Makâsıd, aileyi neslin korunmasına bağlar.
+  en: Maqāṣid connects family to the preservation of lineage.
+evidence:
+  tr: Aile bağlılığı, ergenlerin iyi oluşuyla ilişkilidir. [Established] (ilişkisel bulgu)
+  en: Family cohesion correlates with adolescent wellbeing. [Established] (correlational)
+gaps:
+  tr: Namus temelli denetim.
+  en: Honour-based control.
+visualizations:
+  - id: ideas
+    tr: Bir aile hakları çemberi.
+    en: A family-rights circle.
+sources:
+  - label: Ṣaḥīḥ al-Bukhārī 5971

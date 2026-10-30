@@ -50,9 +50,12 @@ const notApplicable = (t) => /^not (applicable|central)\.?$/i.test(t.trim());
 function build(id, tr) {
   const it = R[id];
   if (!it) throw new Error(`${id} not found in research`);
+  // enOverrides: rare, explicit replacements for research lines written to the site's
+  // authors rather than its readers (e.g. M9: "weak evidence; do not feature it").
+  // Each one is listed in the Turkish file with its reason, so the change is visible.
   const both = (key, en) => {
     if (tr[key] === undefined) throw new Error(`${id}: Turkish "${key}" missing`);
-    return { tr: tr[key], en };
+    return { tr: tr[key], en: tr.enOverrides?.[key] ?? en };
   };
   const sources = parseSources(it.sections[{ S: SIGN, M: MORAL, Q: QUESTION }[id[0]].sources].text).map((s, i) => ({
     ...s,

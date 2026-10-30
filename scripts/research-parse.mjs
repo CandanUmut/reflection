@@ -48,14 +48,22 @@ function sections(body) {
 
 /** Markdown links in a sources section → [{label, url?}]. Plain lines become label-only. */
 export function parseSources(text) {
-  return text
-    .split('\n')
-    .map((l) => l.replace(/^\s*-\s*/, '').trim())
-    .filter(Boolean)
-    .map((l) => {
-      const m = l.match(/^\[(.+)\]\((https?:[^)]+)\)\s*$/);
-      return m ? { label: m[1], url: m[2] } : { label: l };
-    });
+  const out = [];
+  for (const raw of text.split('\n')) {
+    const line = raw.replace(/^\s*-\s*/, '').trim();
+    if (!line) continue;
+    const links = [...line.matchAll(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g)];
+    const rest = line.replace(/\[([^\]]+)\]\((https?:[^)\s]+)\)/g, '').replace(/\b(and|ve)\b|[,;.\s]/g, '');
+    if (links.length && !rest) {
+      // "[A](u1) and [B](u2)": one entry per link.
+      for (const m of links) out.push({ label: m[1], url: m[2] });
+    } else if (links.length === 1) {
+      out.push({ label: line.replace(links[0][0], links[0][1]).replace(/\.$/, ''), url: links[0][2] });
+    } else {
+      out.push({ label: line.replace(/\.$/, '') });
+    }
+  }
+  return out;
 }
 
 export function research() {

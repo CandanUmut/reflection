@@ -1,0 +1,38 @@
+# Source: docs/research/01-batch-1.md, Phase 4, M5.
+id: M5
+slugs: { tr: sukur-ve-sabir, en: gratitude-and-patience }
+order: 5
+theme: gratitude
+verses: ["14:7", "2:153", "39:10"]
+title:
+  tr: Şükür ve sabır
+  en: Gratitude and patience
+summary:
+  tr: Gazzâlî'ye göre iman yarı sabır, yarı şükürdür. Araştırmalar küçük ama gerçek faydalar buluyor.
+  en: For al-Ghazālī, faith is half patience, half gratitude. Research finds small but real benefits.
+hadith:
+  tr: |
+    - Müminin her işi hayırdır: ya şükür ya sabır (Müslim 2999).
+    - Hz. Peygamber: "Şükreden bir kul olmayayım mı?" (Buhârî 4837).
+  en: |
+    - The believer's affair is all good: gratitude or patience (Muslim 2999).
+    - The Prophet: "Should I not be a grateful servant?" (Bukhārī 4837).
+scholarship:
+  tr: Gazzâlî'ye göre iman yarı sabır, yarı şükürdür.
+  en: "Al-Ghazālī: faith is half patience, half gratitude."
+evidence:
+  tr: |
+    Cregg ve Cheavens (2021), son testte g = −0,29, takipte −0,23 buldu; aktif kontrol gruplarına karşı etki daha küçüktü. 2023 tarihli bir meta-analiz (23 çalışma, 6.745 kişi) nötr kontrollere karşı g = 0,22, aktif kontrollere karşı 0,12 (anlamlı değil) buldu. [Established] Etki küçük.
+  en: |
+    Cregg & Cheavens (2021) found g = −0.29 post-test and −0.23 at follow-up, smaller against active controls. A 2023 meta-analysis (23 studies, 6,745 people) found g = 0.22 vs neutral controls and 0.12 (not significant) vs active ones. [Established] The effect is small.
+gaps:
+  tr: '"Sabret" sözü, mağdurları susturmak için kullanılıyor.'
+  en: '"Be patient" is used to silence victims.'
+visualizations:
+  - id: ideas
+    tr: Günlük bir "üç ikram" kartı.
+    en: A daily "three gifts" card.
+sources:
+  - label: Ṣaḥīḥ Muslim 2999; Ṣaḥīḥ al-Bukhārī 4837
+  - label: Cregg & Cheavens 2021 (Semantic Scholar)
+    url: https://www.semanticscholar.org/paper/Gratitude-Interventions:-Effective-Self-help-A-of-Cregg-Cheavens/cc4f096cc8138711920eabf30d9311929d2df577

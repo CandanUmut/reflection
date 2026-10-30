@@ -1,0 +1,35 @@
+# Source: docs/research/01-batch-1.md, Phase 4, M1.
+id: M1
+slugs: { tr: adalet, en: justice }
+order: 1
+theme: justice
+verses: ["4:135", "5:8", "16:90"]
+title:
+  tr: Kendi aleyhine bile adalet
+  en: Justice even against oneself
+summary:
+  tr: Adalet, kişinin kendisi ya da yakınları aleyhine olsa bile ayakta tutulur.
+  en: Justice is upheld even against oneself or one's relatives.
+hadith:
+  tr: |
+    - Hz. Peygamber, hukuku kızı Fâtıma'ya bile uygulayacağını söyledi (Buhârî 3475).
+  en: |
+    - The Prophet would have applied the law even to his daughter Fatima (Bukhārī 3475).
+scholarship:
+  tr: "Şâtıbî'nin *makâsıd*ı (hukukun amaçları) ve İbn Kayyim'e göre: adalet neredeyse, Allah'ın hukuku oradadır."
+  en: "Al-Shāṭibī's *maqāṣid* (objectives of the law), and Ibn al-Qayyim: wherever justice is, there is God's law."
+evidence:
+  tr: Usul adaleti araştırmaları, adil süreçleri güvenle ilişkilendirir. [Established]
+  en: Procedural-justice research links fair processes to trust. [Established]
+gaps:
+  tr: Arap Barometresi, din önderlerine güvenin azaldığını gösteriyor.
+  en: Arab Barometer shows falling trust in religious leaders.
+visualizations:
+  - id: ideas
+    tr: Önyargıyı yakalayan bir "terazi" oyunu.
+    en: A "scales" game that detects bias.
+sources:
+  - label: Ṣaḥīḥ al-Bukhārī 3475
+  - label: Al-Shāṭibī, al-Muwāfaqāt
+  - label: Arab Barometer — Is the Arab world really becoming less religious?
+    url: https://www.arabbarometer.org/media-news/is-the-arab-world-really-becoming-less-religious/

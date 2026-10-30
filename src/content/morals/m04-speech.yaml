@@ -1,0 +1,30 @@
+# Source: docs/research/01-batch-1.md, Phase 4, M4.
+id: M4
+slugs: { tr: dil-adabi, en: ethics-of-speech }
+order: 4
+theme: speech
+verses: ["49:11-12"]
+title:
+  tr: Dil âdâbı
+  en: Ethics of speech
+summary:
+  tr: Alay yok, gıybet yok, kötü zan yok. Ya hayır söyle ya sus.
+  en: No mockery, no backbiting, no suspicion. Speak good or stay silent.
+hadith:
+  tr: |
+    - Ya hayır söyle ya sus (Buhârî 6018).
+  en: |
+    - Speak good or stay silent (Bukhārī 6018).
+scholarship:
+  tr: Gazzâlî'nin yirmi "dil âfeti".
+  en: Al-Ghazālī's twenty "calamities of the tongue".
+gaps:
+  tr: Şüphe yaşayanlara yönelik çevrim içi hakaret ve saldırılar.
+  en: Online abuse of doubters.
+visualizations:
+  - id: ideas
+    tr: Bir "paylaşmadan önce" süzgeci.
+    en: A "before you post" filter.
+sources:
+  - label: Ṣaḥīḥ al-Bukhārī 6018
+  - label: Al-Ghazālī, Āfāt al-lisān (Iḥyāʾ)
