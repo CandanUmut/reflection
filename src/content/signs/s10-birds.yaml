@@ -1,0 +1,64 @@
+# Source: docs/research/02-batch-2.md, Task C, S10.
+id: S10
+slugs: { tr: kuslar, en: birds }
+order: 10
+theme: animals
+verses: ["16:79", "67:19"]
+title:
+  tr: Gökte tutulan kuşlar
+  en: Birds held in the sky
+summary:
+  tr: Beş aylık bir çulluk 2022'de, daha önce hiç uçmadığı bir rotada 13.560 km'yi konmadan uçtu.
+  en: In 2022 a five-month-old godwit flew about 13,560 km nonstop, on a route it had never flown.
+verseNotes:
+  tr: Her iki âyet de Allah'ın inayetini anlatan pasajların içindedir.
+  en: Both verses sit within passages on God's care.
+tafsir:
+  tr: |
+    [Scholarly]
+
+    Râzî ve İbn Kesîr: havada tutulan ağır bir beden, sebepleri (kanatları, havayı) yaratan bir Koruyucuya işaret eder; aerodinamik inkâr edilmez.
+  en: |
+    [Scholarly]
+
+    Al-Rāzī and Ibn Kathīr: a heavy body held in air points to a Sustainer, who creates the means (wings, air); aerodynamics is not denied.
+howItWorks:
+  tr: |
+    - Kanatlar havayı aşağı doğru saptırır ve basınç farkları (kaldırma kuvveti) oluşturur; kanat çırpmak itme sağlar.
+    - Süzülen kuşlar sıcak hava akımlarını (termikleri) kullanır.
+    - Göçmen kuşlar güneşe, yıldızlara ve manyetik ipuçlarına göre yön bulur.
+  en: |
+    - Wings deflect air downward and create pressure differences (lift); flapping gives thrust.
+    - Soaring birds use thermals.
+    - Migrants navigate by sun, stars and magnetic cues.
+awe:
+  tr: |
+    [Established]
+
+    - Ekim 2022'de uydudan izlenen, yaklaşık beş aylık genç bir kıyı çulluğu (bar-tailed godwit), Alaska'dan Tazmanya'ya yaklaşık 13.560 km'yi 11 gün 1 saatte, yemeden, içmeden ve dinlenmeden, daha önce hiç uçmadığı bir rotada konmadan uçtu.
+    - Kıyı çullukları yola çıkmadan önce sindirim organlarını küçültür ve vücut ağırlıklarının yarısından fazlası kadar yağ taşır (BirdLife International).
+    - Sonraki modeller mesafeyi yaklaşık 13.391–13.560 km olarak verir.
+  en: |
+    [Established]
+
+    - In October 2022 a satellite-tagged juvenile bar-tailed godwit, about five months old, flew roughly 13,560 km nonstop from Alaska to Tasmania in 11 days and 1 hour, without food, water or rest, on a route it had never flown.
+    - Before departure godwits shrink digestive organs and carry fat over half their body weight (BirdLife International).
+    - Later models put the distance at about 13,391–13,560 km.
+reflection:
+  tr: 'Bağımlılık ve inayet: kendi yapmadığı yasalarla havada tutulan, görünmeyen bir okyanusun üzerinden yol gösterilen bir kuş.'
+  en: 'Dependence and care: held up by laws it did not make, guided across an unseen ocean.'
+honestNotes:
+  - tr: Âyetler aerodinamiği anlatmaz; kaldırma kuvvetini "önceden bildirdiklerini" iddia etmemek gerekir.
+    en: The verses don't describe aerodynamics; don't claim they "predicted" lift.
+visualizations:
+  - id: ideas
+    tr: Gün sayacı ve azalan bir yakıt göstergesiyle bir küre üzerinde rota.
+    en: A globe route with a day counter and draining fuel gauge.
+sources:
+  - label: ScienceBlog — juvenile bar-tailed godwit, 13,560 km Alaska–Tasmania
+    url: https://scienceblog.com/t-juvenile-bar-tailed-godwit-13560km-alaska-tasmania/
+  - label: BirdLife International
+  - label: Guinness World Records
+  - label:
+      tr: Râzî ve İbn Kesîr'in 16:79 ve 67:19 tefsirleri
+      en: Al-Rāzī and Ibn Kathīr on 16:79 and 67:19

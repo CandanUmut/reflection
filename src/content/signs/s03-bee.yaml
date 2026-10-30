@@ -1,0 +1,56 @@
+# Source: docs/research/01-batch-1.md, Phase 3b, S3.
+id: S3
+slugs: { tr: ari-ve-bal, en: bee-and-honey }
+order: 3
+theme: animals
+verses: ["16:68-69"]
+title:
+  tr: Arı ve bal
+  en: The bee and honey
+summary:
+  tr: Bir libre bal için 2,6 milyondan fazla çiçek ziyareti. Bir arı ömrü boyunca bir çay kaşığının yaklaşık on ikide biri kadar bal yapar.
+  en: Over 2.6 million flower visits for a pound of honey. One bee makes about 1/12 teaspoon in its lifetime.
+verseNotes:
+  tr: Allah arıya "vahyetti"; ondan "renkleri çeşitli, şifa veren" bir içecek çıkar; bu, "düşünen bir toplum için" bir âyettir.
+  en: God "inspired" the bee, and from it comes a drink "of varied colours, with healing", a sign "for people who reflect".
+tafsir:
+  tr: |
+    Râzî, arıya gelen *vahyi* içgüdü olarak okur. Âyetteki fiiller dişildir; işçi arılar da dişidir. Hz. Peygamber balı tavsiye etmiştir (Buhârî 5684).
+  en: |
+    Al-Rāzī reads the bee's *waḥy* (inspiration) as instinct. The verbs are feminine; worker bees are female. The Prophet recommended honey (Bukhārī 5684).
+howItWorks:
+  tr: |
+    [Established]
+
+    - Dişi toplayıcı arılar nektarı bal midelerinde taşır.
+    - İnvertaz enzimi sakarozu parçalar.
+    - Kanat çırpma (yelpazeleme), suyu yaklaşık %20'nin altına indirir.
+  en: |
+    [Established]
+
+    - Female foragers carry nectar in the crop.
+    - The enzyme invertase splits sucrose.
+    - Fanning drives water below about 20%.
+awe:
+  tr: |
+    - Her uçuşta 50–100 çiçek.
+    - Kanada Bal Konseyi: bir libre bal için 2,6 milyondan fazla çiçek ziyareti (her yükte en az 100 çiçek varsayımıyla 2.670.588; Ribbands 1949'a dayanarak) ve yaklaşık 50.000 mil uçuş. Konseyin kendi "Arı Bilgileri" sayfası bunu iki milyona yuvarlar.
+    - Bir arı ömrü boyunca bir çay kaşığının yaklaşık 1/12'si kadar bal yapar.
+  en: |
+    - 50–100 flowers per trip.
+    - Canadian Honey Council: over 2.6 million flower visits per pound (2,670,588, assuming at least 100 flowers per load, after Ribbands 1949) and about 50,000 miles of flight. The Council's own "Bee Facts" page rounds this to two million.
+    - One bee makes about 1/12 teaspoon in its lifetime.
+honestNotes:
+  - tr: Bu rakamlar varsayımlara dayanan tahminlerdir. Bal antibakteriyeldir ve öksürüğe iyi gelir, ama her derde deva değildir.
+    en: These figures are assumption-based estimates. Honey is antibacterial and helps coughs, but it is not a cure-all.
+visualizations:
+  - id: ideas
+    tr: Bir kovan kesiti ve kavanoz doldukça artan bir çiçek sayacı.
+    en: A hive cross-section and a jar-filling flower counter.
+sources:
+  - label: Canadian Honey Council — Bee Facts
+  - label: Ribbands (1949)
+  - label: Ṣaḥīḥ al-Bukhārī 5684
+  - label:
+      tr: Râzî'nin 16:68–69 tefsiri
+      en: Al-Rāzī on 16:68–69

@@ -1,0 +1,51 @@
+# Source: docs/research/02-batch-2.md, Task C, S12.
+id: S12
+slugs: { tr: orumcek, en: spider }
+order: 12
+theme: animals
+verses: ["29:41"]
+title:
+  tr: Örümceğin evi
+  en: The spider's house
+summary:
+  tr: En sağlam ipek, en çürük barınak. Etkileyici biçimde yapılmış bir şey de gerçek bir sığınak olmayabilir.
+  en: Toughest silk, flimsiest shelter. Something impressively engineered can still offer no real refuge.
+tafsir:
+  tr: |
+    [Scholarly]
+
+    Râzî, İbn Kesîr ve Kurtubî "çürüklüğü", sıcaktan, soğuktan, rüzgârdan ya da avcılardan koruyamamak olarak okur. Bazıları dişil fiile (*ittehazet*) dikkat çeker; ağı dişi örümceğin örmesiyle örtüşür.
+  en: |
+    [Scholarly]
+
+    Al-Rāzī, Ibn Kathīr and al-Qurṭubī read frailty as failure to shelter from heat, cold, wind or predators. Some note the feminine verb (*ittakhadhat*), matching that the female builds the web.
+howItWorks:
+  tr: |
+    [Established]
+
+    - Darwin'in kabuk örümceğinin (*Caerostris darwini*, Madagaskar) çekme ipeğinin tokluğu ortalama yaklaşık 350 MJ/m³, bazı liflerde yaklaşık 520'dir: bilinen her ipeğin iki katı ve Kevlar'ın yaklaşık on katı; yaklaşık %91'e kadar uzayabilir (Agnarsson ve ark., PLoS ONE 2010; Garb ve ark., Communications Biology 2019).
+    - Köprü iplikleri 25 m'ye kadar uzanır.
+  en: |
+    [Established]
+
+    - Dragline silk of Darwin's bark spider (*Caerostris darwini*, Madagascar) averages about 350 MJ/m³ toughness, some fibres about 520: twice any other known silk and about ten times Kevlar, stretching up to about 91% (Agnarsson et al., PLoS ONE 2010; Garb et al., Communications Biology 2019).
+    - Bridge lines span up to 25 m.
+reflection:
+  tr: Mesele "ipek zayıftır" değil; etkileyici biçimde yapılmış bir şeyin de gerçek bir sığınak sunamayabilmesidir. Yanlış dayanaklara güvenmeye dair asıl mesaj budur.
+  en: Not "silk is weak", but that something impressively engineered can still offer no real refuge, the point about false reliance.
+honestNotes:
+  - tr: Âyetin dişilerin erkekleri yemesine ya da aile çöküşüne "atıf yaptığı" iddiaları metnin ötesine geçer; eşeysel yamyamlık yalnızca bazı türlerde görülür.
+    en: Claims that the verse "refers to" females eating males or family breakdown go beyond the text; sexual cannibalism occurs only in some species.
+visualizations:
+  - id: ideas
+    tr: 'İkiye bölünmüş ekran: çelik ve Kevlar''a karşı ipek tokluğu çubuğu; yağmur ve rüzgârda barınak olamayan bir ağ.'
+    en: 'Split screen: silk toughness bar against steel and Kevlar; a web failing to shelter in rain and wind.'
+sources:
+  - label: Darwin's bark spider (Wikipedia)
+    url: https://en.wikipedia.org/wiki/Darwin's_bark_spider
+  - label: Garb et al. 2019 (PMC)
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6658490/
+  - label: Agnarsson et al., PLoS ONE (2010)
+  - label:
+      tr: Râzî, İbn Kesîr ve Kurtubî'nin 29:41 tefsirleri
+      en: Al-Rāzī, Ibn Kathīr and al-Qurṭubī on 29:41

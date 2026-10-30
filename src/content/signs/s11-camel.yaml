@@ -1,0 +1,65 @@
+# Source: docs/research/02-batch-2.md, Task C, S11.
+id: S11
+slugs: { tr: deve, en: camel }
+order: 11
+theme: animals
+verses: ["88:17-20"]
+pause: { ref: "88:17" }
+title:
+  tr: Deve
+  en: The camel
+summary:
+  tr: Deve vücut ağırlığının yaklaşık %25'i kadar su kaybına dayanır. Sıradan olana yakından bakmaya bir davet.
+  en: The camel tolerates losing about 25% of its body weight in water. An invitation to look closely at the ordinary.
+verseNotes:
+  tr: '"Deveye bakmazlar mı, nasıl yaratılmış?" (88:17); ardından gök, dağlar, yer gelir: çöldeki bir yolcunun gördükleri.'
+  en: '"Do they not look at the camel, how it was created?" (88:17), then sky, mountains, earth: what a desert traveller sees.'
+tafsir:
+  tr: |
+    [Scholarly]
+
+    Zemahşerî ve Kurtubî devenin dayanıklılığını, faydasını ve bir çocuğun bile onu yedebilmesini vurgular.
+  en: |
+    [Scholarly]
+
+    Al-Zamakhsharī and al-Qurṭubī stress endurance, usefulness, and how even a child can lead it.
+howItWorks:
+  tr: |
+    [Established]
+
+    - Hörgüç su değil, yağ depolar.
+    - Develer vücut ağırlığının yaklaşık %25'i kadar su kaybına dayanır; çoğu memelide dolaşım yaklaşık %12–14'te çöker.
+    - Kan plazmasının hacmi korunur; oval alyuvarlar yeniden su alırken patlamadan şişer.
+    - Böbrekler idrarı yoğunlaştırır; vücut ısısı gündüz yükselerek terden tasarruf sağlar.
+  en: |
+    [Established]
+
+    - The hump stores fat, not water.
+    - Camels tolerate about 25% body-weight water loss, versus about 12–14% before circulatory failure in most mammals.
+    - Plasma volume is protected; oval red blood cells swell without bursting on rehydration.
+    - Kidneys concentrate urine; body temperature rises by day to save sweat.
+awe:
+  tr: |
+    - Susuz kalmış bir deve, vücut ağırlığının yaklaşık üçte biri kadar suyu yaklaşık 10 dakikada içebilir (Irak deve kolokyumu derlemesi).
+    - İkincil kaynaklardan aktarılan bir çalışmaya göre altı gün susuz kalmış dişi develer yaklaşık 83 litre su içti.
+  en: |
+    - A dehydrated camel can drink about one-third of its body weight in about 10 minutes (Iraqi camel colloquium review).
+    - A study cited secondhand reports she-camels drinking about 83 litres after six days without water.
+reflection:
+  tr: 'İlk muhatapların ortamına uygun yaratılmış bir varlık: sıradan olana yakından bakın.'
+  en: 'A creature fitted to the first hearers'' environment; look closely at the ordinary.'
+honestNotes:
+  - tr: '"3 dakikada 200 litre" iddiası sağlam kaynak olmadan dolaşıyor; ihtiyatlı aralıkları kullanmak gerekir.'
+    en: '"200 litres in 3 minutes" circulates without solid sources; use conservative ranges.'
+visualizations:
+  - id: ideas
+    tr: Kan hücrelerini, böbrekleri ve ısıyı gösteren, susuzluk kaydırıcılı bir deve kesiti.
+    en: A cutaway camel with a dehydration slider showing blood cells, kidneys and temperature.
+sources:
+  - label: Camel (Wikipedia)
+    url: https://en.wikipedia.org/wiki/Camel
+  - label: Camels and adaptation to water lack (PDF)
+    url: https://mrvsa.com/upload/9%20Camels%20and%20adaptation%20to%20water%20lack.pdf
+  - label:
+      tr: Zemahşerî ve Kurtubî'nin 88:17 tefsirleri
+      en: Al-Zamakhsharī and al-Qurṭubī on 88:17

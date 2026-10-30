@@ -42,7 +42,7 @@ async function load(key) {
 function collectRefs() {
   const refs = new Set();
   const visit = (node, key) => {
-    if (typeof node === 'string' && (key === 'verses' || key === 'ref' || key === 'refs')) {
+    if (typeof node === 'string' && ['verses', 'ref', 'refs', 'reflectionVerses'].includes(key)) {
       const m = node.match(/^(\d+):(\d+)(?:-(\d+))?$/);
       if (!m) throw new Error(`Bad verse ref "${node}"`);
       const [s, a, b = a] = [m[1], +m[2], +(m[3] ?? m[2])];

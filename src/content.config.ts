@@ -32,10 +32,12 @@ const signs = defineCollection({
     summary: text,
     /** Word notes from the research's verse section (e.g. the root of a key word). */
     verseNotes: text.optional(),
-    tafsir: text,
+    /** Optional: a few early research items (e.g. S6) give no classical tafsir; logged in CONTENT_GAPS. */
+    tafsir: text.optional(),
     howItWorks: text,
     awe: text.optional(),
-    reflection: text,
+    /** Optional: S3, S7 and S9 have no reflection in the research; logged in CONTENT_GAPS. */
+    reflection: text.optional(),
     reflectionVerses: z.array(verseRef).optional(),
     honestNotes: z.array(text),
     visualizations: z.array(visualization),

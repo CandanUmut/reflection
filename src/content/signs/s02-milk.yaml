@@ -1,0 +1,47 @@
+# Source: docs/research/01-batch-1.md, Phase 3b, S2.
+id: S2
+slugs: { tr: sut, en: milk }
+order: 2
+theme: animals
+verses: ["16:66"]
+title:
+  tr: '"Fışkı ile kan arasından" süt'
+  en: Milk "from between digested food and blood"
+summary:
+  tr: Bir litre süt için ineğin memesinden yaklaşık 500 litre kan geçer.
+  en: About 500 litres of blood pass through a cow's udder for every litre of milk.
+tafsir:
+  tr: İbn Kesîr ve Kurtubî, pis şeylerin arasından saf sütün çıkmasını vurgular.
+  en: Ibn Kathīr and al-Qurṭubī stress pure milk emerging from among impurities.
+howItWorks:
+  tr: |
+    [Established]
+
+    - Besinler bağırsaktan kana, kandan da memenin alveollerine geçer; oradaki hücreler laktoz, kazein ve yağ üretir.
+    - CSIRO Publishing'e (2005) göre bir litre süt için memeden yaklaşık 500 litre kan geçer. Cornell'e göre günde 60 litre süt veren bir inek, meme bezinden 30.000 litre kan dolaştırır.
+  en: |
+    [Established]
+
+    - Nutrients pass from gut to blood to the udder's alveoli, where cells synthesize lactose, casein and fat.
+    - CSIRO Publishing (2005) puts it at about 500 L of blood through the udder per litre of milk. Cornell notes that a cow producing 60 litres a day circulates 30,000 litres of blood through the mammary gland.
+awe:
+  tr: Bir litre süt için geçen kan miktarı 400 ile 600 litre arasındadır.
+  en: The range is 400–600 L of blood per litre of milk.
+reflection:
+  tr: Âyetteki "arasından" ifadesi, bağırsaktan kana, kandan bezeye giden gerçek yola uyar.
+  en: The verse's "between" fits the actual pathway from gut to blood to gland.
+honestNotes:
+  - tr: Âyet bir hücre biyolojisi metni değildir. Onu uygun düşen bir imge olarak sunmak gerekir. Süt ve kan rakamları da yaklaşık değerlerdir.
+    en: It is not a cell-biology text. Present it as a fitting image. The milk and blood figures are also approximations.
+visualizations:
+  - id: ideas
+    tr: Litre litre kanı sayan bir sayaçla besinlerin yolculuğu canlandırması.
+    en: A nutrient-journey animation with a counter of litres of blood.
+sources:
+  - label: CSIRO Publishing (2005)
+  - label:
+      tr: Cornell Üniversitesi, meme bezinden geçen kan üzerine
+      en: Cornell University, on blood flow through the mammary gland
+  - label:
+      tr: İbn Kesîr ve Kurtubî'nin 16:66 tefsirleri
+      en: Ibn Kathīr and al-Qurṭubī on 16:66

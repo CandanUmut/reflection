@@ -1,0 +1,44 @@
+slugs: { tr: demir, en: iron }
+theme: cosmos
+title:
+  tr: '"İndirilen" demir'
+  en: Iron "sent down"
+summary:
+  tr: Kanınızdaki demir, Güneş var olmadan önce ölen yıldızlarda dövüldü.
+  en: The iron in your blood was forged in stars that died before the Sun existed.
+verses: ["57:25"]
+seeAlso: ["39:6", "7:26"]
+verseNotes:
+  tr: Sûre, *el-Hadîd* ("Demir") adını taşır.
+  en: The surah is named *al-Ḥadīd*, "Iron".
+tafsir: |
+  [Scholarly]
+
+  - *Enzelnâ* ("indirdik"), Kur'an'ın hayvanlar (39:6) ve elbise (7:26) için de kullandığı fiildir. Bu yüzden klasik âlimler onu çoğu zaman "yarattık ve lütfettik" diye okudu: mutlaka gökten değil, rütbe bakımından yukarıdan gelen bir ikram.
+  - Bağlamda demirin "büyük gücü" silah ve savunmayla, "faydaları" ise alet ve zanaatlarla ilgilidir. Âyet demiri Kitap ve Mîzân'ın yanına koyar: adalete hizmet etmesi gereken güç.
+howItWorks: |
+  [Established]
+
+  - Demir, çekirdeği en sıkı bağlı elementtir. Büyük kütleli yıldızların enerji kazanarak füzyonla üretebileceği en ağır elementtir.
+  - Büyük kütleli bir yıldızın çekirdeği demire dönüşünce füzyon artık enerji kazandırmaz; çekirdek çöker ve yıldız bir süpernova olarak patlar. Demirin büyük kısmı önce radyoaktif nikel-56 olarak oluşur; bu da kobalt üzerinden kararlı demir-56'ya bozunur.
+  - Doğal demirin yaklaşık %92'si demir-56'dır.
+  - Dünya'daki demirin tamamı, Güneş Sistemi oluşmadan önceki yıldızlarda ve süpernovalarda üretildi. Dünya oluşurken onu topladı; çoğu çekirdeğe battı.
+  - Demir, kanımızda oksijeni taşıyan molekül olan hemoglobinin merkezindedir.
+awe: |
+  - Kanınızdaki demir, Güneş var olmadan önce ölen yıldızlarda dövüldü.
+  - Büyük tek bir süpernova, bir Güneş kütlesinin yalnızca küçük bir kısmı kadar demir üretir; yine de demir, Dünya'nın büyük kısmını oluşturan dört elementten biridir.
+  - Demir, yıldız inşasının yıldız ölümüne dönüştüğü bitiş noktasıdır.
+reflection: |
+  Tek bir element yıldızları, kanı ve medeniyeti birbirine bağlar. Âyet demirin gücünü adaletin yanına koyar: güç bize verilmiştir, imtihan onu nasıl kullandığımızdadır.
+honest: |
+  - Yaygın bir iddiaya göre "Kur'an demirin uzaydan geldiğini bildirdi." İki uyarı:
+    1. *Enzelnâ* hayvanlar ve elbise için de kullanılır. Klasik âlimler onu "gökten düştü" diye okumadı; dolayısıyla "uzaydan" okuması modern bir tefekkürdür, âyetin açık anlamı değil.
+    2. Demir yıldızlarda üretildi; ama helyumdan ağır her element de öyle: sudaki oksijen, bedenimizdeki karbon, yüzüklerdeki altın. Demir, kozmik kökene sahip olmakta özel değildir.
+  - Yıldız içi element sentezini (nükleosentez) gerçekleşmiş bir öngörü olarak değil, tefekkürü zenginleştiren bir hayret konusu olarak sunmak gerekir.
+visualization: |
+  - "Bir demir atomunun yolculuğu": bir yıldız hafif elementleri kaynaştırır, çekirdeği demirle dolar, çöker ve patlar, toz genç bir Dünya'da toplanır ve demir bir alyuvarda ve çelik bir alette son bulur.
+  - Zirvesinde demirin olduğu, yıldızların neden orada durduğunu açıklayan bir bağlanma enerjisi eğrisi.
+sourceLabels:
+  - 'Dwek — Yıldızlararası tozun kökenini anlamak için kilit bir element olarak demir (arXiv)'
+  - 'Hopp ve ark. — Dünya''daki demir izotoplarının süpernova kökeni, EPSL (arXiv)'
+  - 'Taberî ve Râzî''nin 57:25 tefsirleri; *enzelnâ* için 39:6 ve 7:26 ile karşılaştırınız'

@@ -1,0 +1,41 @@
+slugs: { tr: yagmur, en: rain }
+theme: water
+title:
+  tr: Ölü toprağı dirilten yağmur
+  en: Rain reviving dead earth
+summary:
+  tr: Tamamen ölü görünen toprak, bekleyen hayatla doludur.
+  en: Ground that looks completely dead is full of waiting life.
+verses: ["41:39"]
+seeAlso: ["22:5", "35:9", "50:9-11"]
+verseNotes:
+  tr: 41:39'da yeryüzü *hâşia* (sakin, kuru, boynu bükük) diye anılır. 35:9 aynı benzetmeyi dirilişe bağlar.
+  en: In 41:39 the earth is called *khāshiʿa* (still and dry). 35:9 ties the same image to the Resurrection.
+tafsir: |
+  [Scholarly]
+
+  Müfessirler diriliş delilini vurgular: kuru toprağı dirilten kudret, ölüleri de diriltecektir. Râzî, yeryüzünün *hâşia* diye anıldığını not eder; bu kelime alçak gönüllü, eğilmiş bir kalp için de kullanılır. İmge topraktan ruha geçer.
+howItWorks: |
+  [Established]
+
+  - Çöl toprakları bir "tohum bankası" barındırır: tek yıllık çiçeklerin, toprakta yıllarca, bazen on yıllarca bekleyebilen tohumları.
+  - Pek çok çöl tohumu, ancak bol ve ıslatan bir yağmurun yıkayabileceği, filizlenmeyi engelleyen maddelerle kaplıdır. Bu, onları hayat döngülerini tamamlatamayacak hafif bir sağanaktan sonra filizlenmekten korur.
+  - Doğru zamanda ve sıcaklıkta yeterli yağmur yağınca çok sayıda tohum birlikte filizlenir. Buna "süper çiçeklenme" (superbloom) denir.
+  - Ölüm Vadisi'ne (Death Valley) yılda ortalama 2 inçin (yaklaşık 50 mm) biraz altında yağmur düşer. Buna rağmen 2026 baharında 2016'dan bu yana en büyük süper çiçeklenmesini yaşadı.
+awe: |
+  - Çöl ekolojistlerine göre bazı tohumlar toprakta on yıl ya da daha uzun süre bekleyebilir.
+  - Tohumlar, ne kadar yağmur yağdığına bakarak uyanıp uyanmamaya "karar verir". İnce bir sağanak görmezden gelinir; derin, ıslatan bir yağmur kapıyı açar.
+  - İyi bir yılda bile her tohum filizlenmez. Bazıları, sonraki bir kuraklığa karşı sigorta olarak hep geride kalır.
+reflection: |
+  Tamamen ölü görünen toprak, bekleyen hayatla doludur. Kur'an bunu her yıl, her manzarada dirilişin resmi olarak kullanır: bitmiş görünen şey bir emri beklemektedir.
+honest: |
+  - Süper çiçeklenme için gereken yağış eşikleri yere ve türe göre değişir; popüler kaynaklar rakamları gelişigüzel verir. Sabit bir rakam yerine "derin, ıslatan bir yağmur" demek doğrudur.
+  - Âyet, toprağın dirilişini diriliş için bir benzetme olarak kullanır; botanik bir iddia olarak değil.
+visualization: |
+  - Çıplak, çatlamış bir çölden çiçek halısına giden bir zaman kaydırıcısı. Altında, su aşağı süzüldükçe gizli tohumların uyandığını gösteren bir toprak kesiti.
+  - Bir "tohumun kararı" mini oyunu: hafif ya da ıslatan yağmuru seçin ve hangi tohumların filizlendiğini görün.
+sourceLabels:
+  - 'NPR — Kuzey Amerika''nın en kurak yerinde kır çiçeği patlaması (Mart 2026)'
+  - 'Science Friday — Süper çiçeklenme: Ölüm Vadisi nasıl canlanır'
+  - 'UC Riverside Palm Desert — Kır çiçekleri ne zaman açar?'
+  - 'Râzî ve İbn Kesîr''in 41:39 tefsirleri'

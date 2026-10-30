@@ -1,0 +1,41 @@
+slugs: { tr: renklerin-cesitliligi, en: diversity-of-colors }
+theme: diversity
+title:
+  tr: Doğada renklerin çeşitliliği
+  en: The diversity of colors in nature
+summary:
+  tr: Rengin nasıl oluştuğunu öğrendikçe hayret için daha çok sebep bulunur.
+  en: The more one learns about how color arises, the more reason there is for awe.
+verses: ["35:27-28"]
+seeAlso: ["16:13", "30:22"]
+verseNotes:
+  tr: "*Cüded*: dağlardaki farklı renkli yollar, damarlar. Âyet bilgiyi *haşyet* (saygıyla karışık korku) ile birleştirerek biter."
+  en: "*Judad*: streaks or paths of different colors on mountains. The verse ends by linking knowledge with reverence (*khashya*)."
+tafsir: |
+  [Scholarly]
+
+  - *Cüded*, dağlardaki farklı renklerde çizgiler ya da yollardır.
+  - Müfessirler tek bir sudan ve tek bir topraktan doğan çeşitliliği vurgular.
+  - Râzî ve diğerleri, âyetin bu çeşitliliği bilgiye bağlayarak bittiğini not eder: "bilgi sahibi olanlar", âyetleri gören ve onlara saygıyla (*haşyet*) karşılık verenlerdir.
+howItWorks: |
+  [Established]
+
+  - Doğadaki renkler iki ana kaynaktan gelir:
+    1. **Pigmentler** ışığın bazı dalga boylarını emer, bazılarını yansıtır. Klorofil (yeşil), karotenoidler (turuncu, sarı), antosiyaninler (kırmızı, mor) ve melanin (kahverengi, siyah).
+    2. **Yapısal renk**, ışığı büken ve yansıtan mikroskobik desenlerden gelir. Morpho kelebeğinin mavisi ve tavus kuşu tüyünün parıltısı mavi pigmentten değil, nano yapılardan gelir.
+  - Dağların renkleri minerallerden gelir: demir oksitler kırmızı ve sarıları, kuvars ve kireçtaşı beyazları verir.
+  - İnsan ten rengi esas olarak melaninden gelir ve insanların yaşadığı yerdeki UV ışığının miktarına göre zaman içinde değişti.
+awe: |
+  - Gerçek mavi pigment doğada nadirdir. Mavi hayvanların çoğu boya yüzünden değil, yapı yüzünden mavidir.
+  - Bir Morpho kelebeğinin kanadını öğütün, mavi kaybolur; çünkü renk maddede değil, şekilde yaşar.
+reflection: |
+  Âyet meyvelerden dağlara, insanlara ve hayvanlara, oradan da bilgiye geçer. Rengin nasıl oluştuğunu öğrendikçe hayret için daha çok sebep bulunur. Bu, saygıya giden bir yol olarak bilime doğrudan bir davettir.
+honest: |
+  Âyet çeşitliliği kutlar; pigmentleri ya da yapısal rengi anlatmaz. Bilimi, gerçekleşmiş bir öngörü olarak değil, âyetin davet ettiği şeyi daha derinden takdir etmenin bir yolu olarak sunmak gerekir.
+visualization: |
+  - Bir "doğada renk" gezgini: bir yaprağa, bir havuca, bir kelebek kanadına, kırmızı bir dağa ya da tene dokunun ve renginin pigmentten mi, yapıdan mı, minerallerden mi geldiğini görün.
+  - Yapı bozulunca mavinin kaybolduğu bir "kanadı öğüt" gösterimi.
+sourceLabels:
+  - 'EarthDate — Boyaların pigmente ihtiyaç duymadığı zaman'
+  - 'KQED — Morpho kelebeğine o muhteşem maviyi ne verir?'
+  - 'Râzî ve İbn Kesîr''in 35:27–28 tefsirleri'

@@ -1,0 +1,37 @@
+slugs: { tr: golge, en: shadows }
+theme: light
+title:
+  tr: Uzayıp kısalan gölgeler
+  en: Shadows extending and contracting
+summary:
+  tr: Yere dikilmiş bir çubuk aynı anda hem saat, hem takvim, hem pusuladır.
+  en: A stick in the ground is a clock, a calendar and a compass all at once.
+verses: ["25:45-46"]
+pause: "25:45"
+tafsir: |
+  [Scholarly]
+
+  - Taberî ve İbn Kesîr uzatılan gölgeyi, tan yerinin ağarmasıyla güneşin doğuşu arasındaki vakit ya da sabahın uzun gölgeleri olarak okur.
+  - "Güneşi ona delil kıldık" (*delîlen*): gölge ancak güneş sayesinde bilinir ve ölçülür.
+  - "Onu yavaş yavaş kendimize çekeriz": gölgelerin öğleye doğru kısalmasıdır. Râzî, "Dileseydi onu sabit kılardı" ifadesinin, bu düzenli hareketin kendiliğinden olmadığına işaret ettiğini belirtir.
+howItWorks: |
+  [Established]
+
+  - Bir gölgenin uzunluğu güneşin gökyüzündeki yüksekliğine bağlıdır: cismin boyunun, güneşin yükseklik açısının tanjantına bölümüne eşittir.
+  - Gün doğumunda ve batımında gölgeler sonsuza doğru uzar. Güneşin tam tepeye en yakın olduğu öğle vaktinde günün en kısa uzunluğuna iner.
+  - Dünya'nın ekseni yaklaşık 23,4° eğik olduğu için bu desen enleme ve mevsime göre değişir. Tropik bölgelerde belli günlerde öğle gölgesi tamamen kaybolabilir.
+  - İslam'da namaz vakitleri kısmen gölgelerle tanımlanır. Çoğunluğun görüşüne göre ikindi, bir cismin gölgesi kendi boyu artı öğle gölgesi kadar olduğunda başlar. Hanefî görüşe göre ise boyunun iki katı olduğunda başlar.
+awe: |
+  - Yere dikilmiş bir çubuk aynı anda hem saat, hem takvim, hem pusuladır. Güneş saatleri ve Müslüman vakit uzmanları (*muvakkitler*) tam olarak bunu kullandı.
+  - Mekke gibi yerlerde yılda iki kez öğle güneşi tam tepeye gelir ve gölgeler neredeyse kaybolur. Müslümanlar tarihte bu anı, uzak yerlerden kıble yönünü bulmak için kullandı.
+reflection: |
+  Gölge kadar sıradan bir şey kusursuz bir düzenlilikle hareket eder. Dursaydı, hayat ve vakit ölçümü bir dayanak noktasını kaybederdi. Âyet, genellikle fark etmediğimiz şeydeki düzeni görmeye davet eder.
+honest: |
+  Âyet, herkesin gözlemleyebileceği bir şeyi anlatır. "Dünya'nın dönüşünü açıkladığı" iddiaları âyetin ifadesinin ötesine geçer. Klasik âlimler âyeti kendi kozmolojileri içinde okudu ve o okuma da gözleme uyar.
+visualization: |
+  - Etkileşimli bir güneş saati: günün saatini ve mevsimi sürükleyin, gölgenin uzayıp kısaldığını ve döndüğünü izleyin. Kadranda namaz vakti işaretleri belirir.
+  - Gölgeyi donduran bir "sabit gölge" düğmesi: bu hareket olmasaydı dünyanın neyi kaybedeceğini gösterir.
+sourceLabels:
+  - 'İbn Kesîr ve Taberî''nin 25:45–46 tefsirleri'
+  - 'David A. King, *In Synchrony with the Heavens* (Brill) — İslam astronomisinde vakit ölçümü üzerine'
+  - 'Diyanet İlmihali, namaz vakitleri üzerine'

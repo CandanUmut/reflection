@@ -55,9 +55,11 @@ const viz = sign.visualizations.find((v) => v.id === 'germination');
   <div class="sign__layers" data-after-pause>
     <div class="sign__grid">
       <div class="sign__tafsir">
-        <Layer kind="tafsir" n={2} lang={lang}>
-          <Fragment set:html={md(sign.tafsir[lang], lang)} />
-        </Layer>
+        {sign.tafsir && (
+          <Layer kind="tafsir" n={2} lang={lang}>
+            <Fragment set:html={md(sign.tafsir[lang], lang)} />
+          </Layer>
+        )}
       </div>
       <div class="sign__science">
         <Layer kind="science" n={3} lang={lang}>
@@ -83,9 +85,11 @@ const viz = sign.visualizations.find((v) => v.id === 'germination');
     <Divider />
 
     <div class="wrap">
-      <Layer kind="reflection" n={4} lang={lang}>
-        <Fragment set:html={md(sign.reflection[lang], lang)} />
-      </Layer>
+      {sign.reflection && (
+        <Layer kind="reflection" n={4} lang={lang}>
+          <Fragment set:html={md(sign.reflection[lang], lang)} />
+        </Layer>
+      )}
       {sign.reflectionVerses && <VerseBlock refs={sign.reflectionVerses} lang={lang} size="small" />}
       <Sources sources={sign.sources} lang={lang} />
     </div>

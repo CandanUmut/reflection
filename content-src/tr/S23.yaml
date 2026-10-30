@@ -1,0 +1,43 @@
+slugs: { tr: goklerin-genisletilmesi, en: expanding-heavens }
+theme: cosmos
+title:
+  tr: Göklerin genişletilmesi
+  en: Expansion of the heavens
+summary:
+  tr: Gördüğümüz gök sabit bir tavan değil; uçsuz bucaksız ve hâlâ büyüyen bir yaratılıştır.
+  en: The sky we see is not a fixed ceiling but a vast, still-growing creation.
+verses: ["51:47"]
+verseNotes:
+  tr: "*Bi-eyd*: kuvvetle (\"ellerle\" değil). *Le-mûsiûn*: genişleticiler ya da genişlik sahibi olanlar."
+  en: "*Bi-ayd*: with strength (not \"hands\"). *La-mūsiʿūn*: expanders, or possessors of vastness."
+tafsir: |
+  [Scholarly]
+
+  - İbn Abbâs ve diğerlerine göre *eyd*, kuvvet ya da güç demektir ("eller" değil).
+  - *Mûsiûn* birkaç şekilde okundu: "Biz geniş bir güce sahibiz" (Taberî bunu nakleder); "Yaratıkların rızkını genişletiriz"; ya da "Onu geniş kıldık". İbn Kesîr göğün geniş ve uçsuz bucaksız kılınmasından söz eder.
+  - Klasik vurgu, kozmosun zaman içinde değişen büyüklüğü değil, Allah'ın kudreti ve cömertliğidir.
+howItWorks: |
+  [Established]
+
+  - 1927'de Georges Lemaître, 1929'da Edwin Hubble, uzak galaksilerin bizden uzaklaştığını ve ne kadar uzaksalar o kadar hızlı uzaklaştıklarını gösterdi. En iyi açıklama, uzayın kendisinin genişlemesidir.
+  - Genişleme hızı (Hubble sabiti) megaparsek başına saniyede yaklaşık 67–73 km'dir. İki ana yöntem biraz farklı sonuç verir (erken evrenden yaklaşık 67, yakın yıldızlardan yaklaşık 73). Bu "Hubble gerilimi" açık bir sorundur.
+  - 1998'den beri genişlemenin hızlandığını biliyoruz; bu "karanlık enerjiye" bağlanır.
+  - Genişlemeyi geriye doğru izlemek yaklaşık 13,8 milyar yıllık bir yaş verir.
+awe: |
+  - Gördüğümüz galaksiler uzayda uçmuyor; aralarındaki uzay büyüyor.
+  - En uzak galaksilerden gelen ışık, onlardan 13 milyar yıldan daha uzun süre önce yola çıktı.
+  - Einstein bile önce genişleyen bir evrene direndi ve onu durağan tutmak için denklemine bir terim ekledi.
+reflection: |
+  Gördüğümüz gök sabit bir tavan değil; uçsuz bucaksız ve hâlâ büyüyen bir yaratılıştır. "Kuvvetle bina ettik" ve "Onu genişletmekteyiz" ifadeleri, aklımızın zor kavradığı bir ölçek karşısında hayrete davet eder.
+honest: |
+  - "Kur'an genişleyen evreni önceden bildirdi" demek abartıdır. Kelime "genişleten" okumasına imkân verir ve bazı modern âlimler bunu tercih eder [Debated]; ama klasik müfessirler onu çoğunlukla kudret, güç ya da cömertlik olarak okudu.
+  - Modern okumayı, âyetin tek anlamı olarak değil, klasik okumaların yanında kozmolojiyle uyuşan ve kelimenin izin verdiği bir anlam olarak sunmak gerekir.
+  - Kozmoloji kesin genişleme hızını hâlâ tartışıyor; bu yüzden "Kur'an rakamla örtüşüyor" gibi kesin iddialardan kaçınmak gerekir.
+visualization: |
+  - Bir "üzümlü ekmek" ya da balon canlandırması: gerilen bir yüzeydeki noktalar (galaksiler); uzaktaki noktalar arasındaki mesafe daha hızlı büyür.
+  - *Le-mûsiûn* için klasik okumaları ve modern okumayı yan yana gösteren bir kelime kartı.
+sourceLabels:
+  - 'CERN Courier — Hubble gerilimi'
+  - 'Di Valentino ve ark. — Hassas kozmoloji çağında kozmolojik gerilimler (arXiv 2025)'
+  - 'Taberî ve İbn Kesîr''in 51:47 tefsirleri'
+  - 'Nidhal Guessoum, *Islam''s Quantum Question* (I.B. Tauris) — âyetlere kozmoloji okumak üzerine'

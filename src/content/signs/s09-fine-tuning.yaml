@@ -1,0 +1,47 @@
+# Source: docs/research/01-batch-1.md, Phase 3b, S9. The research gives no separate reflection for S9;
+# its accuracy note ("an invitation, not proof") is shown as the Honest Note.
+id: S9
+slugs: { tr: ince-ayar, en: fine-tuning }
+order: 9
+theme: fine_tuning
+verses: ["25:2", "54:49"]
+title:
+  tr: İnce ayar
+  en: Fine-tuning
+summary:
+  tr: Bazı sabitler hayata izin veren dar aralıklarda durur. İnce ayar bir kanıt değil, bir davettir.
+  en: Some constants sit in narrow ranges that permit life. Fine-tuning is an invitation, not proof.
+tafsir:
+  tr: Arka plan, Gazzâlî ve Râzî'nin kullandığı kelâmdaki tahsis (belirleme) delilidir.
+  en: The background is the kalam argument from particularization (*takhṣīṣ*), used by al-Ghazālī and al-Rāzī.
+howItWorks:
+  tr: |
+    [Established] — çıkarımlar ise [Debated]
+
+    - Bazı sabitler hayata izin veren dar aralıklarda durur. Bir tahmine göre kozmolojik sabitin ince ayarı 10^120'de 1'dir (Stanford Felsefe Ansiklopedisi).
+
+    **Cevaplar:**
+
+    - Çoklu evren: şişme (enflasyon) artı sicim manzarası.
+    - Bu çıkarımın eleştirmenleri "ters kumarbaz yanılgısı"nı ve "bu evren itirazı"nı (Hacking, White) öne sürer; savunucular buna itiraz eder.
+    - Weinberg bazı örneklerin "o kadar da ince olmadığına" hükmetti.
+  en: |
+    [Established] — inferences [Debated]
+
+    - Some constants sit in narrow ranges that permit life. One estimate puts the cosmological constant's fine-tuning at 1 part in 10^120 (Stanford Encyclopedia of Philosophy).
+
+    **Responses:**
+
+    - The multiverse: inflation plus the string landscape.
+    - Critics of that inference cite the "inverse gambler's fallacy" and the "this-universe objection" (Hacking, White); defenders dispute it.
+    - Weinberg judged some cases "not so fine".
+honestNotes:
+  - tr: İnce ayar bir kanıt değil, bir davettir.
+    en: Fine-tuning is an invitation, not proof.
+visualizations:
+  - id: ideas
+    tr: '"Kozmik kadranlar" ve yanında üç yönlü bir panel: tasarım, çoklu evren, geleceğin fiziği.'
+    en: '"Cosmic dials", alongside a three-way panel: design, multiverse, future physics.'
+sources:
+  - label: Stanford Encyclopedia of Philosophy — Fine-Tuning
+    url: https://plato.stanford.edu/entries/fine-tuning/

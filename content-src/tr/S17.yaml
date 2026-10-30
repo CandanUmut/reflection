@@ -1,0 +1,44 @@
+slugs: { tr: bulutlar-ve-ruzgarlar, en: clouds-and-winds }
+theme: water
+title:
+  tr: Bulutlar ve rüzgârlar
+  en: Clouds and winds
+summary:
+  tr: Küçük, kabarık tek bir bulutta başımızın üstünde yaklaşık 500 ton su süzülür.
+  en: About 500 tonnes of water float over your head in a single small, fluffy cloud.
+verses: ["24:43", "30:48", "15:22"]
+seeAlso: ["2:164", "7:57"]
+verseNotes:
+  tr: 15:22'deki *levâkıh* "aşılayan" demektir. 24:43'teki "dağlar", çoğu zaman büyük bulut kütleleri olarak okunur.
+  en: In 15:22 the winds are *lawāqiḥ*, "fertilizing". The "mountains" in 24:43 are often read as great cloud masses.
+tafsir: |
+  [Scholarly]
+
+  - İbn Kesîr ve Kurtubî, bulutların Allah'ın idaresi altında toplanıp üst üste yığıldığını ve yağmur yağdırdığını anlatır.
+  - *Levâkıh* (15:22) için İbn Mes'ûd ve İbn Abbâs gibi erken dönem müfessirler iki okuma verdi: rüzgârlar bulutları yağmur taşısınlar diye "aşılar" ve rüzgârlar ağaçları tozlaştırır.
+  - 24:43'teki "dağlar" çoğu zaman büyük bulut kütleleri ya da dağlar gibi anlatılan dolu olarak okunur.
+howItWorks: |
+  [Established]
+
+  - Sıcak, nemli hava yükselir ve soğur. Su buharı küçük parçacıkların (toz, tuz, polen) üzerinde yoğuşur ve damlacıklar oluşturur: bir bulut.
+  - Yaklaşık 1 km genişliğindeki açık hava kümülüs bulutu yaklaşık 500 ton sıvı su taşır; kabaca 100 filin ağırlığı. Havada kalır, çünkü su metreküpte yaklaşık yarım gram olacak şekilde küçük damlacıklara dağılmıştır ve yükselen hava onları taşır.
+  - Bulutlar birleşip yükselen bir kümülonimbusa dönüştüğünde, güçlü yukarı akımlar damlacıkları donacakları yüksekliğe taşır. Dolu taneleri fırtınanın içinde inip çıktıkça kat kat büyür.
+  - Olgun bir fırtına bulutu yüz binlerce ton su taşıyabilir.
+  - Rüzgâr; buğday, mısır, pirinç ve birçok ağaç dâhil pek çok bitkinin polenini taşır. Hurmada tozlaşmaya rüzgâr yardım eder, ama genellikle elle yapılır.
+awe: |
+  - Küçük, kabarık tek bir bulutta başınızın üstünde yaklaşık 500 ton su süzülür.
+  - Bulut damlacıkları düşer, ama yavaşça (20 mikrometrelik bir damlacık için saniyede yaklaşık 1 cm). Onları yukarı taşıyan akım çok daha hızlıdır.
+  - Dünyanın temel tahıllarının çoğu tozlaşma için rüzgâra muhtaçtır.
+reflection: |
+  Muazzam su ağırlıkları, göremediğimiz kuvvetlerle taşınır, tutulur ve bırakılır. Her adımı (kaldırmak, toplamak, yığmak, bırakmak) âyet tek tek anar. Rüzgâr, biz hiçbir şey yapmadan yediğimiz besinleri tozlaştırarak bizim için çalışır.
+honest: |
+  - Âyet, herkesin gökyüzünde izleyebileceği şeyi anlatır. "Kümülonimbus su döngüsünü önceden bildirdiğini" söylememek gerekir.
+  - 500 tonluk rakam, tipik 1 km³'lük bir kümülüs için yapılmış bir tahmindir. Gerçek bulutlar çok farklılık gösterir.
+  - "Aşılayan rüzgârlar", klasik âlimler tarafından hem bulutlar hem tozlaşma açısından anlaşıldı; yani bu okuma eskidir, modern bir ekleme değildir.
+visualization: |
+  - 24:43'ün fiillerini izleyen adım adım bir bulut canlandırması: sürmek, birleştirmek, yığmak, yağmur ya da dolu. Bir "ağırlık ölçer" gökyüzünde asılı duran suyun tonunu gösterir.
+  - Bir buğday tarlası üzerinde rüzgârla taşınan polen canlandırması.
+sourceLabels:
+  - 'USGS Su Bilimi Okulu — "Bir bulut ne kadar ağırdır?" (Kongre Kütüphanesi aracılığıyla)'
+  - 'EarthDate (Texas Üniversitesi) — "Kabarık bulutların ağırlığı"'
+  - 'İbn Kesîr''in 24:43 ve 15:22, Kurtubî''nin 15:22 tefsirleri'

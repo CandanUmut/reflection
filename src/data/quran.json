@@ -6,6 +6,18 @@
   "Transliteration: Quran.com word-by-word data (api.quran.com v4)."
  ],
  "verses": {
+  "2:22": {
+   "ar": "ٱلَّذِى جَعَلَ لَكُمُ ٱلْأَرْضَ فِرَٰشًا وَٱلسَّمَآءَ بِنَآءً وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزْقًا لَّكُمْ ۖ فَلَا تَجْعَلُوا۟ لِلَّهِ أَندَادًا وَأَنتُمْ تَعْلَمُونَ",
+   "translit": "alladhī jaʿala lakumu l-arḍa firāshan wal-samāa bināan wa-anzala mina l-samāi māan fa-akhraja bihi mina l-thamarāti riz'qan lakum falā tajʿalū lillahi andādan wa-antum taʿlamūna",
+   "en": "[He] who made for you the earth a bed [spread out] and the sky a ceiling and sent down from the sky, rain and brought forth thereby fruits as provision for you. So do not attribute to Allah equals while you know [that there is nothing similar to Him].",
+   "tr": "O (Rabb) ki yeri sizin için bir döşek, göğü de bir bina yaptı. Gökten su indirdi, onunla size rızık olarak çeşitli ürünler çıkardı. Öyleyse siz de, bile bile, Allah'a eşler koşmayın."
+  },
+  "2:31": {
+   "ar": "وَعَلَّمَ ءَادَمَ ٱلْأَسْمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمْ عَلَى ٱلْمَلَٰٓئِكَةِ فَقَالَ أَنۢبِـُٔونِى بِأَسْمَآءِ هَٰٓؤُلَآءِ إِن كُنتُمْ صَٰدِقِينَ",
+   "translit": "waʿallama ādama l-asmāa kullahā thumma ʿaraḍahum ʿalā l-malāikati faqāla anbiūnī bi-asmāi hāulāi in kuntum ṣādiqīna",
+   "en": "And He taught Adam the names - all of them. Then He showed them to the angels and said, \"Inform Me of the names of these, if you are truthful.\"",
+   "tr": "Ve Âdem'e isimlerin hepsini öğretti, sonra onları meleklere gösterip: \"Haydi davanızda sadıksanız bana şunları isimleriyle haber verin.\" dedi."
+  },
   "2:286": {
    "ar": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
    "translit": "lā yukallifu l-lahu nafsan illā wus'ʿahā lahā mā kasabat waʿalayhā mā ik'tasabat rabbanā lā tuākhidh'nā in nasīnā aw akhṭanā rabbanā walā taḥmil ʿalaynā iṣ'ran kamā ḥamaltahu ʿalā alladhīna min qablinā rabbanā walā tuḥammil'nā mā lā ṭāqata lanā bihi wa-uʿ'fu ʿannā wa-igh'fir lanā wa-ir'ḥamnā anta mawlānā fa-unṣur'nā ʿalā l-qawmi l-kāfirīna",
@@ -48,6 +60,60 @@
    "en": "And it is He who spread the earth and placed therein firmly set mountains and rivers; and from all of the fruits He made therein two mates; He causes the night to cover the day. Indeed in that are signs for a people who give thought.",
    "tr": "Yeryüzünü enine boyuna yayıp döşeyen, onda oturaklı dağlar ve ırmaklar meydana getiren ve yeryüzünde meyvelerin hepsinden iki çift yapan O'dur. Sürekli olarak gece ile gündüzü birbirine dolamaktadır. Düşünecek olan bir kavim için bunda muhakkak ki, ibretler vardır."
   },
+  "13:4": {
+   "ar": "وَفِى ٱلْأَرْضِ قِطَعٌ مُّتَجَٰوِرَٰتٌ وَجَنَّٰتٌ مِّنْ أَعْنَٰبٍ وَزَرْعٌ وَنَخِيلٌ صِنْوَانٌ وَغَيْرُ صِنْوَانٍ يُسْقَىٰ بِمَآءٍ وَٰحِدٍ وَنُفَضِّلُ بَعْضَهَا عَلَىٰ بَعْضٍ فِى ٱلْأُكُلِ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّقَوْمٍ يَعْقِلُونَ",
+   "translit": "wafī l-arḍi qiṭaʿun mutajāwirātun wajannātun min aʿnābin wazarʿun wanakhīlun ṣin'wānun waghayru ṣin'wānin yus'qā bimāin wāḥidin wanufaḍḍilu baʿḍahā ʿalā baʿḍin fī l-ukuli inna fī dhālika laāyātin liqawmin yaʿqilūna",
+   "en": "And within the land are neighboring plots and gardens of grapevines and crops and palm trees, [growing] several from a root or otherwise, watered with one water; but We make some of them exceed others in [quality of] fruit. Indeed in that are signs for a people who reason.",
+   "tr": "Yeryüzünde birbirine komşu kıtalar vardır. Üzüm bağları, ekinler, çatallı ve çatalsız hurmalıklar vardır ki, hepsi bir tek su ile sulanır. Halbuki meyvelerinde birini öbürüne üstün kılıyoruz. Aklı eren bir kavim için bunda muhakkak ibretler vardır."
+  },
+  "15:19": {
+   "ar": "وَٱلْأَرْضَ مَدَدْنَٰهَا وَأَلْقَيْنَا فِيهَا رَوَٰسِىَ وَأَنۢبَتْنَا فِيهَا مِن كُلِّ شَىْءٍ مَّوْزُونٍ",
+   "translit": "wal-arḍa madadnāhā wa-alqaynā fīhā rawāsiya wa-anbatnā fīhā min kulli shayin mawzūnin",
+   "en": "And the earth - We have spread it and cast therein firmly set mountains and caused to grow therein [something] of every well-balanced thing.",
+   "tr": "Yeryüzünü düzgün bir şekilde yarattık ve oraya sabit dağlar yerleştirdik. Orada hikmetle ölçülmüş her şeyden bitkiler bitirdik."
+  },
+  "15:22": {
+   "ar": "وَأَرْسَلْنَا ٱلرِّيَٰحَ لَوَٰقِحَ فَأَنزَلْنَا مِنَ ٱلسَّمَآءِ مَآءً فَأَسْقَيْنَٰكُمُوهُ وَمَآ أَنتُمْ لَهُۥ بِخَٰزِنِينَ",
+   "translit": "wa-arsalnā l-riyāḥa lawāqiḥa fa-anzalnā mina l-samāi māan fa-asqaynākumūhu wamā antum lahu bikhāzinīna",
+   "en": "And We have sent the fertilizing winds and sent down water from the sky and given you drink from it. And you are not its retainers.",
+   "tr": "Biz rüzgarları aşılayıcı olarak gönderdik ve gökten bir su indirip sizi onunla suladık. O suyu hazinelerde tutan da siz değilsiniz."
+  },
+  "15:29": {
+   "ar": "فَإِذَا سَوَّيْتُهُۥ وَنَفَخْتُ فِيهِ مِن رُّوحِى فَقَعُوا۟ لَهُۥ سَٰجِدِينَ",
+   "translit": "fa-idhā sawwaytuhu wanafakhtu fīhi min rūḥī faqaʿū lahu sājidīna",
+   "en": "And when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration.\"",
+   "tr": "Ben, onun yaratılışını tamamladığım ve ona ruhumdan üflediğim zaman, siz hemen onun için secdeye kapanın.\""
+  },
+  "16:5": {
+   "ar": "وَٱلْأَنْعَٰمَ خَلَقَهَا ۗ لَكُمْ فِيهَا دِفْءٌ وَمَنَٰفِعُ وَمِنْهَا تَأْكُلُونَ",
+   "translit": "wal-anʿāma khalaqahā lakum fīhā dif'on wamanāfiʿu wamin'hā takulūna",
+   "en": "And the grazing livestock He has created for you; in them is warmth and [numerous] benefits, and from them you eat.",
+   "tr": "Hayvanları da O yarattı. Onlarda sizi ısıtacak şeyler ve birçok faydalar vardır. Ve siz onlardan bir kısmını da yersiniz."
+  },
+  "16:6": {
+   "ar": "وَلَكُمْ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسْرَحُونَ",
+   "translit": "walakum fīhā jamālun ḥīna turīḥūna waḥīna tasraḥūna",
+   "en": "And for you in them is [the enjoyment of] beauty when you bring them in [for the evening] and when you send them out [to pasture].",
+   "tr": "O hayvanları, akşam vakti getirirken ve sabahleyin salarken, onlarda sizin için bir güzellik ve zevk vardır."
+  },
+  "16:7": {
+   "ar": "وَتَحْمِلُ أَثْقَالَكُمْ إِلَىٰ بَلَدٍ لَّمْ تَكُونُوا۟ بَٰلِغِيهِ إِلَّا بِشِقِّ ٱلْأَنفُسِ ۚ إِنَّ رَبَّكُمْ لَرَءُوفٌ رَّحِيمٌ",
+   "translit": "wataḥmilu athqālakum ilā baladin lam takūnū bālighīhi illā bishiqqi l-anfusi inna rabbakum laraūfun raḥīmun",
+   "en": "And they carry your loads to a land you could not have reached except with difficulty to yourselves. Indeed, your Lord is Kind and Merciful.",
+   "tr": "Bu hayvanlar, ancak güçlükle varabileceğiniz bir memlekete yüklerinizi taşır. Rabbiniz, şüphesiz çok şefkatlidir, çok merhametlidir."
+  },
+  "16:15": {
+   "ar": "وَأَلْقَىٰ فِى ٱلْأَرْضِ رَوَٰسِىَ أَن تَمِيدَ بِكُمْ وَأَنْهَٰرًا وَسُبُلًا لَّعَلَّكُمْ تَهْتَدُونَ",
+   "translit": "wa-alqā fī l-arḍi rawāsiya an tamīda bikum wa-anhāran wasubulan laʿallakum tahtadūna",
+   "en": "And He has cast into the earth firmly set mountains, lest it shift with you, and [made] rivers and roads, that you may be guided,",
+   "tr": "Allah, yeryüzü sizi sarsmasın diye oraya sabit dağlar yerleştirdi. Yolunuzu bulmanız için de nehirler ve yollar yarattı."
+  },
+  "16:66": {
+   "ar": "وَإِنَّ لَكُمْ فِى ٱلْأَنْعَٰمِ لَعِبْرَةً ۖ نُّسْقِيكُم مِّمَّا فِى بُطُونِهِۦ مِنۢ بَيْنِ فَرْثٍ وَدَمٍ لَّبَنًا خَالِصًا سَآئِغًا لِّلشَّٰرِبِينَ",
+   "translit": "wa-inna lakum fī l-anʿāmi laʿib'ratan nus'qīkum mimmā fī buṭūnihi min bayni farthin wadamin labanan khāliṣan sāighan lilshāribīna",
+   "en": "And indeed, for you in grazing livestock is a lesson. We give you drink from what is in their bellies - between excretion and blood - pure milk, palatable to drinkers.",
+   "tr": "Gerçekten süt veren hayvanlarda da size bir ibret vardır. Size işkembelerindeki yem artıklarıyla kandan meydana gelen, içenlere içimi kolay halis bir süt içirmekteyiz."
+  },
   "16:68": {
    "ar": "وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ",
    "translit": "wa-awḥā rabbuka ilā l-naḥli ani ittakhidhī mina l-jibāli buyūtan wamina l-shajari wamimmā yaʿrishūna",
@@ -66,17 +132,113 @@
    "en": "Do they not see the birds controlled in the atmosphere of the sky? None holds them up except Allah. Indeed in that are signs for a people who believe.",
    "tr": "Göğün boşluğunda Allah'ın emrine boyun eğdirilerek uçuşan kuşlara bakmadılar mı? Şüphesiz bunda inanan bir toplum için âyetler (ibretler) vardır."
   },
+  "17:85": {
+   "ar": "وَيَسْـَٔلُونَكَ عَنِ ٱلرُّوحِ ۖ قُلِ ٱلرُّوحُ مِنْ أَمْرِ رَبِّى وَمَآ أُوتِيتُم مِّنَ ٱلْعِلْمِ إِلَّا قَلِيلًا",
+   "translit": "wayasalūnaka ʿani l-rūḥi quli l-rūḥu min amri rabbī wamā ūtītum mina l-ʿil'mi illā qalīlan",
+   "en": "And they ask you, [O Muhammad], about the soul. Say, \"The soul is of the affair of my Lord. And mankind have not been given of knowledge except a little.\"",
+   "tr": "Ey Muhammed! Sana ruhtan soruyorlar. De ki: \"Ruh Rabbimin bildiği bir iştir ve size ilimden ancak az bir şey verilmiştir.\""
+  },
+  "20:50": {
+   "ar": "قَالَ رَبُّنَا ٱلَّذِىٓ أَعْطَىٰ كُلَّ شَىْءٍ خَلْقَهُۥ ثُمَّ هَدَىٰ",
+   "translit": "qāla rabbunā alladhī aʿṭā kulla shayin khalqahu thumma hadā",
+   "en": "He said, \"Our Lord is He who gave each thing its form and then guided [it].\"",
+   "tr": "Musa: \"Bizim Rabbimiz her şeye şeklini veren, sonra da yolunu gösterendir.\" dedi."
+  },
+  "21:30": {
+   "ar": "أَوَلَمْ يَرَ ٱلَّذِينَ كَفَرُوٓا۟ أَنَّ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضَ كَانَتَا رَتْقًا فَفَتَقْنَٰهُمَا ۖ وَجَعَلْنَا مِنَ ٱلْمَآءِ كُلَّ شَىْءٍ حَىٍّ ۖ أَفَلَا يُؤْمِنُونَ",
+   "translit": "awalam yara alladhīna kafarū anna l-samāwāti wal-arḍa kānatā ratqan fafataqnāhumā wajaʿalnā mina l-māi kulla shayin ḥayyin afalā yu'minūna",
+   "en": "Have those who disbelieved not considered that the heavens and the earth were a joined entity, and We separated them and made from water every living thing? Then will they not believe?",
+   "tr": "O kâfir olanlar, görmediler mi ki, göklerle yer bitişik bir halde iken biz onları ayırdık. Hayatı olan her şeyi sudan yarattık. Hâlâ inanmıyorlar mı?"
+  },
+  "21:32": {
+   "ar": "وَجَعَلْنَا ٱلسَّمَآءَ سَقْفًا مَّحْفُوظًا ۖ وَهُمْ عَنْ ءَايَٰتِهَا مُعْرِضُونَ",
+   "translit": "wajaʿalnā l-samāa saqfan maḥfūẓan wahum ʿan āyātihā muʿ'riḍūna",
+   "en": "And We made the sky a protected ceiling, but they, from its signs, are turning away.",
+   "tr": "Gökyüzünü de korunmuş bir tavan yaptık. Kâfirler ise, gökyüzünün alâmetlerinden (Allah'ın kudret ve azametine delalet eden delillerinden) yüz çeviriyorlar."
+  },
   "21:107": {
    "ar": "وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةً لِّلْعَٰلَمِينَ",
    "translit": "wamā arsalnāka illā raḥmatan lil'ʿālamīna",
    "en": "And We have not sent you, [O Muhammad], except as a mercy to the worlds.",
    "tr": "(Ey Muhammed!) biz seni ancak âlemlere rahmet olarak gönderdik."
   },
+  "23:12": {
+   "ar": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَٰنَ مِن سُلَٰلَةٍ مِّن طِينٍ",
+   "translit": "walaqad khalaqnā l-insāna min sulālatin min ṭīnin",
+   "en": "And certainly did We create man from an extract of clay.",
+   "tr": "And olsun biz insanı, çamurdan, bir sülâleden (süzülüp çıkarılmış çamurdan) yarattık."
+  },
+  "23:13": {
+   "ar": "ثُمَّ جَعَلْنَٰهُ نُطْفَةً فِى قَرَارٍ مَّكِينٍ",
+   "translit": "thumma jaʿalnāhu nuṭ'fatan fī qarārin makīnin",
+   "en": "Then We placed him as a sperm-drop in a firm lodging.",
+   "tr": "Sonra onu emin ve sağlam bir karargahta (rahimde) nutfe (sperma) haline getirdik."
+  },
+  "23:14": {
+   "ar": "ثُمَّ خَلَقْنَا ٱلنُّطْفَةَ عَلَقَةً فَخَلَقْنَا ٱلْعَلَقَةَ مُضْغَةً فَخَلَقْنَا ٱلْمُضْغَةَ عِظَٰمًا فَكَسَوْنَا ٱلْعِظَٰمَ لَحْمًا ثُمَّ أَنشَأْنَٰهُ خَلْقًا ءَاخَرَ ۚ فَتَبَارَكَ ٱللَّهُ أَحْسَنُ ٱلْخَٰلِقِينَ",
+   "translit": "thumma khalaqnā l-nuṭ'fata ʿalaqatan fakhalaqnā l-ʿalaqata muḍ'ghatan fakhalaqnā l-muḍ'ghata ʿiẓāman fakasawnā l-ʿiẓāma laḥman thumma anshanāhu khalqan ākhara fatabāraka l-lahu aḥsanu l-khāliqīna",
+   "en": "Then We made the sperm-drop into a clinging clot, and We made the clot into a lump [of flesh], and We made [from] the lump, bones, and We covered the bones with flesh; then We developed him into another creation. So blessed is Allah, the best of creators.",
+   "tr": "Sonra nutfeyi bir alaka (embrio) yarattık, derken o alakayı bir mudga (bir çiğnem et parçası halinde) yarattık, derken o mudgayı bir takım kemik yarattık, derken o kemiklere bir et giydirdik, sonra onu diğer bir yaratık olarak teşekkül ettirdik. Yapıp yaratanların en güzeli olan Allah, pek yücedir."
+  },
+  "24:40": {
+   "ar": "أَوْ كَظُلُمَٰتٍ فِى بَحْرٍ لُّجِّىٍّ يَغْشَىٰهُ مَوْجٌ مِّن فَوْقِهِۦ مَوْجٌ مِّن فَوْقِهِۦ سَحَابٌ ۚ ظُلُمَٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا ۗ وَمَن لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًا فَمَا لَهُۥ مِن نُّورٍ",
+   "translit": "aw kaẓulumātin fī baḥrin lujjiyyin yaghshāhu mawjun min fawqihi mawjun min fawqihi saḥābun ẓulumātun baʿḍuhā fawqa baʿḍin idhā akhraja yadahu lam yakad yarāhā waman lam yajʿali l-lahu lahu nūran famā lahu min nūrin",
+   "en": "Or [they are] like darknesses within an unfathomable sea which is covered by waves, upon which are waves, over which are clouds - darknesses, some of them upon others. When one puts out his hand [therein], he can hardly see it. And he to whom Allah has not granted light - for him there is no light.",
+   "tr": "Yahut (o kâfirlerin duygu, düşünce ve davranışları) engin bir denizdeki yoğun karanlıklar gibidir ki, onu dalga üstüne dalga kaplıyor; üstünde de bulut. Bir biri üstüne karanlıklar... İnsan, elini çıkarıp uzatsa, nerdeyse onu dahi göremez. Bir kimseye Allah, nur vermemişse, artık o kimsenin ışık ve aydınlıktan nasibi yoktur."
+  },
+  "24:43": {
+   "ar": "أَلَمْ تَرَ أَنَّ ٱللَّهَ يُزْجِى سَحَابًا ثُمَّ يُؤَلِّفُ بَيْنَهُۥ ثُمَّ يَجْعَلُهُۥ رُكَامًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ وَيُنَزِّلُ مِنَ ٱلسَّمَآءِ مِن جِبَالٍ فِيهَا مِنۢ بَرَدٍ فَيُصِيبُ بِهِۦ مَن يَشَآءُ وَيَصْرِفُهُۥ عَن مَّن يَشَآءُ ۖ يَكَادُ سَنَا بَرْقِهِۦ يَذْهَبُ بِٱلْأَبْصَٰرِ",
+   "translit": "alam tara anna l-laha yuz'jī saḥāban thumma yu-allifu baynahu thumma yajʿaluhu rukāman fatarā l-wadqa yakhruju min khilālihi wayunazzilu mina l-samāi min jibālin fīhā min baradin fayuṣību bihi man yashāu wayaṣrifuhu ʿan man yashāu yakādu sanā barqihi yadhhabu bil-abṣāri",
+   "en": "Do you not see that Allah drives clouds? Then He brings them together, then He makes them into a mass, and you see the rain emerge from within it. And He sends down from the sky, mountains [of clouds] within which is hail, and He strikes with it whom He wills and averts it from whom He wills. The flash of its lightening almost takes away the eyesight.",
+   "tr": "Görmez misin ki Allah bulutları (dilediği yere) sürüklüyor; sonra onları biraraya getirip üstüste yığıyor. İşte görüyorsun ki bunlar arasında yağmur çıkıyor. O, gökten, sanki oradaki dağlardan da dolu indirir. Artık onu dilediğine isabet ettirir; dilediğinden de onu uzak tutar; bu bulutlardan çıkan şimşeğin parıltısı nerdeyse gözleri alır!"
+  },
+  "25:2": {
+   "ar": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَلَمْ يَتَّخِذْ وَلَدًا وَلَمْ يَكُن لَّهُۥ شَرِيكٌ فِى ٱلْمُلْكِ وَخَلَقَ كُلَّ شَىْءٍ فَقَدَّرَهُۥ تَقْدِيرًا",
+   "translit": "alladhī lahu mul'ku l-samāwāti wal-arḍi walam yattakhidh waladan walam yakun lahu sharīkun fī l-mul'ki wakhalaqa kulla shayin faqaddarahu taqdīran",
+   "en": "He to whom belongs the dominion of the heavens and the earth and who has not taken a son and has not had a partner in dominion and has created each thing and determined it with [precise] determination.",
+   "tr": "O öyle bir ilâhtır ki, göklerin ve yerin hükümranlığı kendisinindir. O hiç çocuk edinmedi, hükümranlıkta ortağı yoktur. O, her şeyi yaratıp bir ölçüye göre düzenleyerek takdir etmiştir."
+  },
   "25:45": {
    "ar": "أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ ٱلظِّلَّ وَلَوْ شَآءَ لَجَعَلَهُۥ سَاكِنًا ثُمَّ جَعَلْنَا ٱلشَّمْسَ عَلَيْهِ دَلِيلًا",
    "translit": "alam tara ilā rabbika kayfa madda l-ẓila walaw shāa lajaʿalahu sākinan thumma jaʿalnā l-shamsa ʿalayhi dalīlan",
    "en": "Have you not considered your Lord - how He extends the shadow, and if He willed, He could have made it stationary? Then We made the sun for it an indication.",
    "tr": "Rabbinin gölgeyi nasıl uzatmakta olduğunu görmedin mi? Dileseydi onu elbet hareketsiz de kılardı. Sonra biz güneşi, ona (gölgeye) delil kılmışızdır."
+  },
+  "25:46": {
+   "ar": "ثُمَّ قَبَضْنَٰهُ إِلَيْنَا قَبْضًا يَسِيرًا",
+   "translit": "thumma qabaḍnāhu ilaynā qabḍan yasīran",
+   "en": "Then We hold it in hand for a brief grasp.",
+   "tr": "Sonra da onu yavaş yavaş kendimize (başka yöne) çekmekteyiz."
+  },
+  "25:53": {
+   "ar": "۞ وَهُوَ ٱلَّذِى مَرَجَ ٱلْبَحْرَيْنِ هَٰذَا عَذْبٌ فُرَاتٌ وَهَٰذَا مِلْحٌ أُجَاجٌ وَجَعَلَ بَيْنَهُمَا بَرْزَخًا وَحِجْرًا مَّحْجُورًا",
+   "translit": "wahuwa alladhī maraja l-baḥrayni hādhā ʿadhbun furātun wahādhā mil'ḥun ujājun wajaʿala baynahumā barzakhan waḥij'ran maḥjūran",
+   "en": "And it is He who has released [simultaneously] the two seas, one fresh and sweet and one salty and bitter, and He placed between them a barrier and prohibiting partition.",
+   "tr": "Birinin suyu tatlı ve susuzluğu giderici, diğerininki tuzlu ve acı iki denizi salıveren ve aralarına bir engel, aşılmaz bir serhat koyan O'dur."
+  },
+  "25:61": {
+   "ar": "تَبَارَكَ ٱلَّذِى جَعَلَ فِى ٱلسَّمَآءِ بُرُوجًا وَجَعَلَ فِيهَا سِرَٰجًا وَقَمَرًا مُّنِيرًا",
+   "translit": "tabāraka alladhī jaʿala fī l-samāi burūjan wajaʿala fīhā sirājan waqamaran munīran",
+   "en": "Blessed is He who has placed in the sky great stars and placed therein a [burning] lamp and luminous moon.",
+   "tr": "Gökte burçları var eden, onların içinde bir kandil (güneş) ve nurlu bir ay barındıran Allah, yüceler yücesidir."
+  },
+  "27:18": {
+   "ar": "حَتَّىٰٓ إِذَآ أَتَوْا۟ عَلَىٰ وَادِ ٱلنَّمْلِ قَالَتْ نَمْلَةٌ يَٰٓأَيُّهَا ٱلنَّمْلُ ٱدْخُلُوا۟ مَسَٰكِنَكُمْ لَا يَحْطِمَنَّكُمْ سُلَيْمَٰنُ وَجُنُودُهُۥ وَهُمْ لَا يَشْعُرُونَ",
+   "translit": "ḥattā idhā ataw ʿalā wādi l-namli qālat namlatun yāayyuhā l-namlu ud'khulū masākinakum lā yaḥṭimannakum sulaymānu wajunūduhu wahum lā yashʿurūna",
+   "en": "Until, when they came upon the valley of the ants, an ant said, \"O ants, enter your dwellings that you not be crushed by Solomon and his soldiers while they perceive not.\"",
+   "tr": "Nihayet karınca vâdisine geldikleri zaman, bir karınca: \"Ey karıncalar! Yuvalarınıza girin; Süleyman ve ordusu farkına varmadan sizi ezmesin!\" dedi."
+  },
+  "27:19": {
+   "ar": "فَتَبَسَّمَ ضَاحِكًا مِّن قَوْلِهَا وَقَالَ رَبِّ أَوْزِعْنِىٓ أَنْ أَشْكُرَ نِعْمَتَكَ ٱلَّتِىٓ أَنْعَمْتَ عَلَىَّ وَعَلَىٰ وَٰلِدَىَّ وَأَنْ أَعْمَلَ صَٰلِحًا تَرْضَىٰهُ وَأَدْخِلْنِى بِرَحْمَتِكَ فِى عِبَادِكَ ٱلصَّٰلِحِينَ",
+   "translit": "fatabassama ḍāḥikan min qawlihā waqāla rabbi awziʿ'nī an ashkura niʿ'mataka allatī anʿamta ʿalayya waʿalā wālidayya wa-an aʿmala ṣāliḥan tarḍāhu wa-adkhil'nī biraḥmatika fī ʿibādika l-ṣāliḥīna",
+   "en": "So [Solomon] smiled, amused at her speech, and said, \"My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And admit me by Your mercy into [the ranks of] Your righteous servants.\"",
+   "tr": "(Süleyman) onun sözüne gülümseyerek dedi ki: \"Ey Rabbim! Bana ve ana babama verdiğin nimete şükretmemi ve hoşnut olacağın iyi iş yapmamı gönlüme getir. Rahmetinle, beni iyi kulların arasına kat.\""
+  },
+  "29:41": {
+   "ar": "مَثَلُ ٱلَّذِينَ ٱتَّخَذُوا۟ مِن دُونِ ٱللَّهِ أَوْلِيَآءَ كَمَثَلِ ٱلْعَنكَبُوتِ ٱتَّخَذَتْ بَيْتًا ۖ وَإِنَّ أَوْهَنَ ٱلْبُيُوتِ لَبَيْتُ ٱلْعَنكَبُوتِ ۖ لَوْ كَانُوا۟ يَعْلَمُونَ",
+   "translit": "mathalu alladhīna ittakhadhū min dūni l-lahi awliyāa kamathali l-ʿankabūti ittakhadhat baytan wa-inna awhana l-buyūti labaytu l-ʿankabūti law kānū yaʿlamūna",
+   "en": "The example of those who take allies other than Allah is like that of the spider who takes a home. And indeed, the weakest of homes is the home of the spider, if they only knew.",
+   "tr": "Allah'tan başka dost edinenlerin durumu, kendine yuva yapan örümceğin durumu gibidir. Halbuki, evlerin en çürüğü şüphesiz örümcek yuvasıdır. Keşke bilselerdi."
   },
   "30:21": {
    "ar": "وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
@@ -90,11 +252,89 @@
    "en": "And of His signs is the creation of the heavens and the earth and the diversity of your languages and your colors. Indeed in that are signs for those of knowledge.",
    "tr": "Yine göklerin ve yerin yaratılışı ile dillerinizin ve renklerinizin farklı oluşu da O'nun âyetlerindendir. Şüphesiz ki bunda bilenler için nice ibretler vardır."
   },
+  "30:23": {
+   "ar": "وَمِنْ ءَايَٰتِهِۦ مَنَامُكُم بِٱلَّيْلِ وَٱلنَّهَارِ وَٱبْتِغَآؤُكُم مِّن فَضْلِهِۦٓ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّقَوْمٍ يَسْمَعُونَ",
+   "translit": "wamin āyātihi manāmukum bi-al-layli wal-nahāri wa-ib'tighāukum min faḍlihi inna fī dhālika laāyātin liqawmin yasmaʿūna",
+   "en": "And of His signs is your sleep by night and day and your seeking of His bounty. Indeed in that are signs for a people who listen.",
+   "tr": "Yine gecede ve gündüzde uyumanız ve lütfundan nasib aramanız da O'nun âyetlerindendir. Şüphesiz ki bunda dinleyecek bir kavim için nice ibretler vardır."
+  },
+  "30:48": {
+   "ar": "ٱللَّهُ ٱلَّذِى يُرْسِلُ ٱلرِّيَٰحَ فَتُثِيرُ سَحَابًا فَيَبْسُطُهُۥ فِى ٱلسَّمَآءِ كَيْفَ يَشَآءُ وَيَجْعَلُهُۥ كِسَفًا فَتَرَى ٱلْوَدْقَ يَخْرُجُ مِنْ خِلَٰلِهِۦ ۖ فَإِذَآ أَصَابَ بِهِۦ مَن يَشَآءُ مِنْ عِبَادِهِۦٓ إِذَا هُمْ يَسْتَبْشِرُونَ",
+   "translit": "al-lahu alladhī yur'silu l-riyāḥa fatuthīru saḥāban fayabsuṭuhu fī l-samāi kayfa yashāu wayajʿaluhu kisafan fatarā l-wadqa yakhruju min khilālihi fa-idhā aṣāba bihi man yashāu min ʿibādihi idhā hum yastabshirūna",
+   "en": "It is Allah who sends the winds, and they stir the clouds and spread them in the sky however He wills, and He makes them fragments so you see the rain emerge from within them. And when He causes it to fall upon whom He wills of His servants, immediately they rejoice",
+   "tr": "Allah O'dur ki, rüzgarları gönderir de bir bulut savururlar. Derken onu gökyüzünde nasıl dilerse öyle serer, parça parça da eder. Derken yağmuru görürsün, aralarından çıkar. Derken onu kullarından kimlere diliyorsa döküverdi mi derhal yüzleri güler."
+  },
+  "35:27": {
+   "ar": "أَلَمْ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءً فَأَخْرَجْنَا بِهِۦ ثَمَرَٰتٍ مُّخْتَلِفًا أَلْوَٰنُهَا ۚ وَمِنَ ٱلْجِبَالِ جُدَدٌۢ بِيضٌ وَحُمْرٌ مُّخْتَلِفٌ أَلْوَٰنُهَا وَغَرَابِيبُ سُودٌ",
+   "translit": "alam tara anna l-laha anzala mina l-samāi māan fa-akhrajnā bihi thamarātin mukh'talifan alwānuhā wamina l-jibāli judadun bīḍun waḥum'run mukh'talifun alwānuhā wagharābību sūdun",
+   "en": "Do you not see that Allah sends down rain from the sky, and We produce thereby fruits of varying colors? And in the mountains are tracts, white and red of varying shades and [some] extremely black.",
+   "tr": "Görmedin mi Allah gökten bir su indirdi. Biz onunla renkleri başka başka meyveler çıkardık. Dağlarda da yollar, beyazlı kırmızılı çeşitli renklerde ve kapkara topraklar var."
+  },
+  "35:28": {
+   "ar": "وَمِنَ ٱلنَّاسِ وَٱلدَّوَآبِّ وَٱلْأَنْعَٰمِ مُخْتَلِفٌ أَلْوَٰنُهُۥ كَذَٰلِكَ ۗ إِنَّمَا يَخْشَى ٱللَّهَ مِنْ عِبَادِهِ ٱلْعُلَمَٰٓؤُا۟ ۗ إِنَّ ٱللَّهَ عَزِيزٌ غَفُورٌ",
+   "translit": "wamina l-nāsi wal-dawābi wal-anʿāmi mukh'talifun alwānuhu kadhālika innamā yakhshā l-laha min ʿibādihi l-ʿulamāu inna l-laha ʿazīzun ghafūrun",
+   "en": "And among people and moving creatures and grazing livestock are various colors similarly. Only those fear Allah, from among His servants, who have knowledge. Indeed, Allah is Exalted in Might and Forgiving.",
+   "tr": "Yine insanlardan, hayvanlardan ve davarlardan da türlü renklileri vardır. Kulları içinde Allah'tan ancak âlimler korkar. Şüphe yok ki Allah çok güçlüdür. Hüküm ve hikmet sahibidir."
+  },
+  "36:37": {
+   "ar": "وَءَايَةٌ لَّهُمُ ٱلَّيْلُ نَسْلَخُ مِنْهُ ٱلنَّهَارَ فَإِذَا هُم مُّظْلِمُونَ",
+   "translit": "waāyatun lahumu al-laylu naslakhu min'hu l-nahāra fa-idhā hum muẓ'limūna",
+   "en": "And a sign for them is the night. We remove from it [the light of] day, so they are [left] in darkness.",
+   "tr": "Gece de onlara bir delildir. Biz ondan gündüzü soyar çıkarırız, bir de bakarlar ki karanlığa dalmışlar."
+  },
+  "36:38": {
+   "ar": "وَٱلشَّمْسُ تَجْرِى لِمُسْتَقَرٍّ لَّهَا ۚ ذَٰلِكَ تَقْدِيرُ ٱلْعَزِيزِ ٱلْعَلِيمِ",
+   "translit": "wal-shamsu tajrī limus'taqarrin lahā dhālika taqdīru l-ʿazīzi l-ʿalīmi",
+   "en": "And the sun runs [on course] toward its stopping point. That is the determination of the Exalted in Might, the Knowing.",
+   "tr": "Güneş de bir delildir ki kendi yolunda akıp gidiyor. İşte bu çok güçlü ve her şeyi bilen Allah'ın takdiridir."
+  },
+  "36:39": {
+   "ar": "وَٱلْقَمَرَ قَدَّرْنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلْعُرْجُونِ ٱلْقَدِيمِ",
+   "translit": "wal-qamara qaddarnāhu manāzila ḥattā ʿāda kal-ʿur'jūni l-qadīmi",
+   "en": "And the moon - We have determined for it phases, until it returns [appearing] like the old date stalk.",
+   "tr": "Ay'a gelince, ona menziller tayin ettik. Nihayet o eski hurma salkımının çöpü gibi (yay haline) dönmüştür."
+  },
+  "36:40": {
+   "ar": "لَا ٱلشَّمْسُ يَنۢبَغِى لَهَآ أَن تُدْرِكَ ٱلْقَمَرَ وَلَا ٱلَّيْلُ سَابِقُ ٱلنَّهَارِ ۚ وَكُلٌّ فِى فَلَكٍ يَسْبَحُونَ",
+   "translit": "lā l-shamsu yanbaghī lahā an tud'rika l-qamara walā al-laylu sābiqu l-nahāri wakullun fī falakin yasbaḥūna",
+   "en": "It is not allowable for the sun to reach the moon, nor does the night overtake the day, but each, in an orbit, is swimming.",
+   "tr": "Ne güneşin aya çatması yaraşır, ne de gece gündüzü geçebilir; onların her biri kendi yörüngesinde yüzerler."
+  },
+  "36:71": {
+   "ar": "أَوَلَمْ يَرَوْا۟ أَنَّا خَلَقْنَا لَهُم مِّمَّا عَمِلَتْ أَيْدِينَآ أَنْعَٰمًا فَهُمْ لَهَا مَٰلِكُونَ",
+   "translit": "awalam yaraw annā khalaqnā lahum mimmā ʿamilat aydīnā anʿāman fahum lahā mālikūna",
+   "en": "Do they not see that We have created for them from what Our hands have made, grazing livestock, and [then] they are their owners?",
+   "tr": "Şunu da görmediler mi: Biz onlar için kudretimizin meydana getirdiklerinden birtakım hayvanlar yaratmışız da onlara sahip bulunuyorlar."
+  },
+  "36:72": {
+   "ar": "وَذَلَّلْنَٰهَا لَهُمْ فَمِنْهَا رَكُوبُهُمْ وَمِنْهَا يَأْكُلُونَ",
+   "translit": "wadhallalnāhā lahum famin'hā rakūbuhum wamin'hā yakulūna",
+   "en": "And We have tamed them for them, so some of them they ride, and some of them they eat.",
+   "tr": "Onları, kendilerinin hizmetine vermişiz de, hem onlardan binekleri var, hem de onlardan yiyorlar."
+  },
+  "36:73": {
+   "ar": "وَلَهُمْ فِيهَا مَنَٰفِعُ وَمَشَارِبُ ۖ أَفَلَا يَشْكُرُونَ",
+   "translit": "walahum fīhā manāfiʿu wamashāribu afalā yashkurūna",
+   "en": "And for them therein are [other] benefits and drinks, so will they not be grateful?",
+   "tr": "Onlarda daha birçok menfaatleri ve türlü içecekleri de var. Hâlâ şükretmeyecekler mi?"
+  },
+  "36:80": {
+   "ar": "ٱلَّذِى جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلْأَخْضَرِ نَارًا فَإِذَآ أَنتُم مِّنْهُ تُوقِدُونَ",
+   "translit": "alladhī jaʿala lakum mina l-shajari l-akhḍari nāran fa-idhā antum min'hu tūqidūna",
+   "en": "[It is] He who made for you from the green tree, fire, and then from it you ignite.",
+   "tr": "Size o yeşil ağaçtan bir ateş yapan O'dur. Şimdi siz ondan tutuşturmaktasınız."
+  },
   "39:42": {
    "ar": "ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا ۖ فَيُمْسِكُ ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
    "translit": "al-lahu yatawaffā l-anfusa ḥīna mawtihā wa-allatī lam tamut fī manāmihā fayum'siku allatī qaḍā ʿalayhā l-mawta wayur'silu l-ukh'rā ilā ajalin musamman inna fī dhālika laāyātin liqawmin yatafakkarūna",
    "en": "Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep. Then He keeps those for which He has decreed death and releases the others for a specified term. Indeed in that are signs for a people who give thought.",
    "tr": "Allah, o canları öldükleri zaman, ölmeyenleri de uyuduklarında alır. Sonra haklarında ölüm hükmü verdiklerini alıkor, diğerlerini de takdir edilmiş bir süreye kadar salıverir. Şüphesiz ki bunda düşünecek bir kavim için nice ibretler vardır."
+  },
+  "41:11": {
+   "ar": "ثُمَّ ٱسْتَوَىٰٓ إِلَى ٱلسَّمَآءِ وَهِىَ دُخَانٌ فَقَالَ لَهَا وَلِلْأَرْضِ ٱئْتِيَا طَوْعًا أَوْ كَرْهًا قَالَتَآ أَتَيْنَا طَآئِعِينَ",
+   "translit": "thumma is'tawā ilā l-samāi wahiya dukhānun faqāla lahā walil'arḍi i'tiyā ṭawʿan aw karhan qālatā ataynā ṭāiʿīna",
+   "en": "Then He directed Himself to the heaven while it was smoke and said to it and to the earth, \"Come [into being], willingly or by compulsion.\" They said, \"We have come willingly.\"",
+   "tr": "Sonra duman halinde bulunan göğe yöneldi. Ona ve yerküreye: \"İsteyerek veya istemeyerek buyruğuma gelin.\" dedi. Her ikisi de: \"İsteyerek geldik\" dediler."
   },
   "41:39": {
    "ar": "وَمِنْ ءَايَٰتِهِۦٓ أَنَّكَ تَرَى ٱلْأَرْضَ خَٰشِعَةً فَإِذَآ أَنزَلْنَا عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ ۚ إِنَّ ٱلَّذِىٓ أَحْيَاهَا لَمُحْىِ ٱلْمَوْتَىٰٓ ۚ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
@@ -108,6 +348,12 @@
    "en": "And He has subjected to you whatever is in the heavens and whatever is on the earth - all from Him. Indeed in that are signs for a people who give thought.",
    "tr": "O, göklerde ve yerde bulunan herşeyi kendinden bir lütuf olarak sizin hizmetinize vermiştir. Şüphesiz bunda düşünen topluluklar için ibret ve deliller vardır."
   },
+  "49:13": {
+   "ar": "يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّا خَلَقْنَٰكُم مِّن ذَكَرٍ وَأُنثَىٰ وَجَعَلْنَٰكُمْ شُعُوبًا وَقَبَآئِلَ لِتَعَارَفُوٓا۟ ۚ إِنَّ أَكْرَمَكُمْ عِندَ ٱللَّهِ أَتْقَىٰكُمْ ۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرٌ",
+   "translit": "yāayyuhā l-nāsu innā khalaqnākum min dhakarin wa-unthā wajaʿalnākum shuʿūban waqabāila litaʿārafū inna akramakum ʿinda l-lahi atqākum inna l-laha ʿalīmun khabīrun",
+   "en": "O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you. Indeed, Allah is Knowing and Acquainted.",
+   "tr": "Ey insanlar! Doğrusu biz sizi bir erkekle bir dişiden yarattık. Ve birbirinizle tanışmanız için sizi milletlere ve kabilelere ayırdık. Muhakkak ki Allah yanında en değerli ve en üstününüz O'ndan en çok korkanınızdır. Şüphesiz Allah bilendir, herşeyden haberdar olandır."
+  },
   "51:20": {
    "ar": "وَفِى ٱلْأَرْضِ ءَايَٰتٌ لِّلْمُوقِنِينَ",
    "translit": "wafī l-arḍi āyātun lil'mūqinīna",
@@ -119,6 +365,66 @@
    "translit": "wafī anfusikum afalā tub'ṣirūna",
    "en": "And in yourselves. Then will you not see?",
    "tr": "Kesin olarak inananlar için, yeryüzünde ve kendi nefislerinde nice ibretler vardır. Hiç görmüyor musunuz?"
+  },
+  "51:47": {
+   "ar": "وَٱلسَّمَآءَ بَنَيْنَٰهَا بِأَيْي۟دٍ وَإِنَّا لَمُوسِعُونَ",
+   "translit": "wal-samāa banaynāhā bi-aydin wa-innā lamūsiʿūna",
+   "en": "And the heaven We constructed with strength, and indeed, We are [its] expander.",
+   "tr": "Biz göğü kudretimizle bina ettik. Hiç şüphesiz biz, çok genişlik ve kudret sahibiyiz."
+  },
+  "51:49": {
+   "ar": "وَمِن كُلِّ شَىْءٍ خَلَقْنَا زَوْجَيْنِ لَعَلَّكُمْ تَذَكَّرُونَ",
+   "translit": "wamin kulli shayin khalaqnā zawjayni laʿallakum tadhakkarūna",
+   "en": "And of all things We created two mates; perhaps you will remember.",
+   "tr": "Biz herşeyden iki çift yarattık. Umulur ki, iyice düşünürsünüz."
+  },
+  "54:49": {
+   "ar": "إِنَّا كُلَّ شَىْءٍ خَلَقْنَٰهُ بِقَدَرٍ",
+   "translit": "innā kulla shayin khalaqnāhu biqadarin",
+   "en": "Indeed, all things We created with predestination.",
+   "tr": "Haberiniz olsun ki, biz her şeyi bir kadere göre yarattık."
+  },
+  "55:3": {
+   "ar": "خَلَقَ ٱلْإِنسَٰنَ",
+   "translit": "khalaqa l-insāna",
+   "en": "Created man,",
+   "tr": "İnsanı yarattı."
+  },
+  "55:4": {
+   "ar": "عَلَّمَهُ ٱلْبَيَانَ",
+   "translit": "ʿallamahu l-bayāna",
+   "en": "[And] taught him eloquence.",
+   "tr": "Ona beyanı öğretti."
+  },
+  "55:7": {
+   "ar": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+   "translit": "wal-samāa rafaʿahā wawaḍaʿa l-mīzāna",
+   "en": "And the heaven He raised and imposed the balance",
+   "tr": "Göğü yükseltti ve mizanı koydu."
+  },
+  "55:8": {
+   "ar": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+   "translit": "allā taṭghaw fī l-mīzāni",
+   "en": "That you not transgress within the balance.",
+   "tr": "Sakın tartıda taşkınlık etmeyin."
+  },
+  "55:9": {
+   "ar": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+   "translit": "wa-aqīmū l-wazna bil-qis'ṭi walā tukh'sirū l-mīzāna",
+   "en": "And establish weight in justice and do not make deficient the balance.",
+   "tr": "Tartıyı adaletle yapın, terazide eksiklik yapmayın."
+  },
+  "55:19": {
+   "ar": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+   "translit": "maraja l-baḥrayni yaltaqiyāni",
+   "en": "He released the two seas, meeting [side by side];",
+   "tr": "(Acı ve tatlı) iki denizi salıverdi birbirine kavuşuyorlar."
+  },
+  "55:20": {
+   "ar": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+   "translit": "baynahumā barzakhun lā yabghiyāni",
+   "en": "Between them is a barrier [so] neither of them transgresses.",
+   "tr": "Fakat aralarında bir engel vardır, birbirlerine geçip karışmıyorlar."
   },
   "56:63": {
    "ar": "أَفَرَءَيْتُم مَّا تَحْرُثُونَ",
@@ -138,11 +444,35 @@
    "en": "And have you seen the water that you drink?",
    "tr": "İçtiğiniz suya baktınız mı?"
   },
+  "56:69": {
+   "ar": "ءَأَنتُمْ أَنزَلْتُمُوهُ مِنَ ٱلْمُزْنِ أَمْ نَحْنُ ٱلْمُنزِلُونَ",
+   "translit": "a-antum anzaltumūhu mina l-muz'ni am naḥnu l-munzilūna",
+   "en": "Is it you who brought it down from the clouds, or is it We who bring it down?",
+   "tr": "Buluttan onu siz mi indirdiniz, yoksa indiren biz miyiz?"
+  },
+  "56:70": {
+   "ar": "لَوْ نَشَآءُ جَعَلْنَٰهُ أُجَاجًا فَلَوْلَا تَشْكُرُونَ",
+   "translit": "law nashāu jaʿalnāhu ujājan falawlā tashkurūna",
+   "en": "If We willed, We could make it bitter, so why are you not grateful?",
+   "tr": "Dileseydik onu tuzlu yapardık. O halde şükretseniz ya!"
+  },
   "56:71": {
    "ar": "أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ",
    "translit": "afara-aytumu l-nāra allatī tūrūna",
    "en": "And have you seen the fire that you ignite?",
    "tr": "Yaktığınız ateşi gördünüz mü?"
+  },
+  "56:72": {
+   "ar": "ءَأَنتُمْ أَنشَأْتُمْ شَجَرَتَهَآ أَمْ نَحْنُ ٱلْمُنشِـُٔونَ",
+   "translit": "a-antum anshatum shajaratahā am naḥnu l-munshiūna",
+   "en": "Is it you who produced its tree, or are We the producer?",
+   "tr": "Onun ağacını siz mi yarattınız, yoksa yaratan biz miyiz?"
+  },
+  "57:25": {
+   "ar": "لَقَدْ أَرْسَلْنَا رُسُلَنَا بِٱلْبَيِّنَٰتِ وَأَنزَلْنَا مَعَهُمُ ٱلْكِتَٰبَ وَٱلْمِيزَانَ لِيَقُومَ ٱلنَّاسُ بِٱلْقِسْطِ ۖ وَأَنزَلْنَا ٱلْحَدِيدَ فِيهِ بَأْسٌ شَدِيدٌ وَمَنَٰفِعُ لِلنَّاسِ وَلِيَعْلَمَ ٱللَّهُ مَن يَنصُرُهُۥ وَرُسُلَهُۥ بِٱلْغَيْبِ ۚ إِنَّ ٱللَّهَ قَوِىٌّ عَزِيزٌ",
+   "translit": "laqad arsalnā rusulanā bil-bayināti wa-anzalnā maʿahumu l-kitāba wal-mīzāna liyaqūma l-nāsu bil-qis'ṭi wa-anzalnā l-ḥadīda fīhi basun shadīdun wamanāfiʿu lilnnāsi waliyaʿlama l-lahu man yanṣuruhu warusulahu bil-ghaybi inna l-laha qawiyyun ʿazīzun",
+   "en": "We have already sent Our messengers with clear evidences and sent down with them the Scripture and the balance that the people may maintain [their affairs] in justice. And We sent down iron, wherein is great military might and benefits for the people, and so that Allah may make evident those who support Him and His messengers unseen. Indeed, Allah is Powerful and Exalted in Might.",
+   "tr": "Andolsun biz peygamberlerimizi açık delillerle gönderdik ve insanların adaleti yerine getirmeleri için beraberlerinde kitabı ve ölçüyü indirdik. Biz demiri de indirdik ki onda büyük bir kuvvet ve insanlar için faydalar vardır. Bu, Allah'ın dinine ve peygamberlerine görmeden yardım edenleri belirlemesi içindir. Şüphesiz Allah kuvvetlidir, daima üstündür."
   },
   "67:19": {
    "ar": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ",
@@ -150,11 +480,101 @@
    "en": "Do they not see the birds above them with wings outspread and [sometimes] folded in? None holds them [aloft] except the Most Merciful. Indeed He is, of all things, Seeing.",
    "tr": "Üstlerinde kanatlarını açıp yumarak uçan kuşları görmüyorlar mı? Onları Rahmân'dan başkası tutmuyor. Doğrusu O, her şeyi görmektedir."
   },
+  "75:3": {
+   "ar": "أَيَحْسَبُ ٱلْإِنسَٰنُ أَلَّن نَّجْمَعَ عِظَامَهُۥ",
+   "translit": "ayaḥsabu l-insānu allan najmaʿa ʿiẓāmahu",
+   "en": "Does man think that We will not assemble his bones?",
+   "tr": "İnsan, kendisinin kemiklerini bir araya toplayamayacağımızı mı sanıyor?"
+  },
+  "75:4": {
+   "ar": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّىَ بَنَانَهُۥ",
+   "translit": "balā qādirīna ʿalā an nusawwiya banānahu",
+   "en": "Yes. [We are] Able [even] to proportion his fingertips.",
+   "tr": "Evet, bizim onun parmak uçlarını bile aynen eski haline getirmeye gücümüz yeter."
+  },
+  "78:6": {
+   "ar": "أَلَمْ نَجْعَلِ ٱلْأَرْضَ مِهَٰدًا",
+   "translit": "alam najʿali l-arḍa mihādan",
+   "en": "Have We not made the earth a resting place?",
+   "tr": "Biz yeryüzünü bir beşik yapmadık mı?"
+  },
+  "78:7": {
+   "ar": "وَٱلْجِبَالَ أَوْتَادًا",
+   "translit": "wal-jibāla awtādan",
+   "en": "And the mountains as stakes?",
+   "tr": "Dağları da birer kazık kılmadık mı?"
+  },
+  "78:9": {
+   "ar": "وَجَعَلْنَا نَوْمَكُمْ سُبَاتًا",
+   "translit": "wajaʿalnā nawmakum subātan",
+   "en": "And made your sleep [a means for] rest",
+   "tr": "Uykunuzu bir dinlenme yaptık."
+  },
+  "78:13": {
+   "ar": "وَجَعَلْنَا سِرَاجًا وَهَّاجًا",
+   "translit": "wajaʿalnā sirājan wahhājan",
+   "en": "And made [therein] a burning lamp",
+   "tr": "İçlerine ışık saçan bir kandil astık."
+  },
+  "79:32": {
+   "ar": "وَٱلْجِبَالَ أَرْسَىٰهَا",
+   "translit": "wal-jibāla arsāhā",
+   "en": "And the mountains He set firmly",
+   "tr": "Dağlarını oturttu."
+  },
+  "87:2": {
+   "ar": "ٱلَّذِى خَلَقَ فَسَوَّىٰ",
+   "translit": "alladhī khalaqa fasawwā",
+   "en": "Who created and proportioned",
+   "tr": "Yaratıp düzene koyan O'dur."
+  },
+  "87:3": {
+   "ar": "وَٱلَّذِى قَدَّرَ فَهَدَىٰ",
+   "translit": "wa-alladhī qaddara fahadā",
+   "en": "And who destined and [then] guided",
+   "tr": "Takdir edip hidayeti gösteren O'dur."
+  },
   "88:17": {
    "ar": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
    "translit": "afalā yanẓurūna ilā l-ibili kayfa khuliqat",
    "en": "Then do they not look at the camels - how they are created?",
    "tr": "Bakmıyorlar mı o develere, nasıl yaratılmış?"
+  },
+  "88:18": {
+   "ar": "وَإِلَى ٱلسَّمَآءِ كَيْفَ رُفِعَتْ",
+   "translit": "wa-ilā l-samāi kayfa rufiʿat",
+   "en": "And at the sky - how it is raised?",
+   "tr": "Göğe bakmıyorlar mı, nasıl yükseltilmiş?"
+  },
+  "88:19": {
+   "ar": "وَإِلَى ٱلْجِبَالِ كَيْفَ نُصِبَتْ",
+   "translit": "wa-ilā l-jibāli kayfa nuṣibat",
+   "en": "And at the mountains - how they are erected?",
+   "tr": "Bakmıyorlar mı dağlara, nasıl dikilmiş?"
+  },
+  "88:20": {
+   "ar": "وَإِلَى ٱلْأَرْضِ كَيْفَ سُطِحَتْ",
+   "translit": "wa-ilā l-arḍi kayfa suṭiḥat",
+   "en": "And at the earth - how it is spread out?",
+   "tr": "Yere bakmıyorlar mı, nasıl yayılmış?"
+  },
+  "90:8": {
+   "ar": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+   "translit": "alam najʿal lahu ʿaynayni",
+   "en": "Have We not made for him two eyes?",
+   "tr": "Biz ona iki göz vermedik mi?"
+  },
+  "90:9": {
+   "ar": "وَلِسَانًا وَشَفَتَيْنِ",
+   "translit": "walisānan washafatayni",
+   "en": "And a tongue and two lips?",
+   "tr": "Bir dil ve iki dudak?"
+  },
+  "90:10": {
+   "ar": "وَهَدَيْنَٰهُ ٱلنَّجْدَيْنِ",
+   "translit": "wahadaynāhu l-najdayni",
+   "en": "And have shown him the two ways?",
+   "tr": "Ona iki yolu gösterdik."
   }
  }
 }

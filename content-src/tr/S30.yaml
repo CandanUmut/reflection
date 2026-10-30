@@ -1,0 +1,41 @@
+slugs: { tr: dna, en: dna }
+theme: human
+title:
+  tr: DNA ve hayattaki bilgi
+  en: DNA and the information in life
+summary:
+  tr: Aynı dört harf; bir bakterinin, bir meşe ağacının ve bir insanın talimatlarını yazar.
+  en: The same four letters write the instructions for a bacterium, an oak tree and a human being.
+verses: ["20:50", "87:2-3", "54:49"]
+verseNotes:
+  tr: Bu âyetler DNA hakkında iddia olarak değil, tefekkür için dayanak olarak verilmiştir.
+  en: These verses are given as anchors for reflection, not as claims about DNA.
+tafsir: |
+  [Scholarly]
+
+  Müfessirler 20:50'yi ve 87:2–3'ü iki adım olarak okur: Allah her varlığa yaratılışını verir, sonra onu ihtiyaç duyduğu şeye yönlendirir; yeni doğanı annesinin sütüne, arıyı işine yönlendirmesi gibi. Her varlığın fıtratına yerleştirilmiş bir "hidayet" (*hidâye*) gördüler.
+howItWorks: |
+  [Established]
+
+  - DNA, bir canlıyı kurmanın ve işletmenin talimatlarını dört kimyasal "harfle" (A, T, C, G) yazılı olarak saklar.
+  - İnsan genomunda yaklaşık 3,1 milyar harf çifti vardır. Uzatılırsa, tek bir insan hücresindeki DNA yaklaşık 2 metre uzunluğundadır ve birkaç mikrometre genişliğindeki bir çekirdeğe katlanmıştır.
+  - Yaklaşık 20.000 gen protein kodlar; geri kalanın büyük kısmı genlerin ne zaman ve nerede açılacağını düzenlemeye yardım eder.
+  - Hücreler DNA'yı, düzeltme ve onarım sistemleri sayesinde çok düşük hata oranlarıyla kopyalar.
+awe: |
+  - Yaklaşık 2 metre DNA her hücre çekirdeğine sığar; beden ise trilyonlarca hücreden oluşur.
+  - Aynı dört harf; bir bakterinin, bir meşe ağacının ve bir insanın talimatlarını yazar.
+reflection: |
+  "Her şeye yaratılışını verdi, sonra onu yönlendirdi" ifadesi, her varlığın kendi şekli ve davranışı için içinde talimatlar taşıdığı bir dünyaya çarpıcı biçimde uyar. Bir mümin için böyle bir kodun varlığı, ölçünün ve hidayetin bir âyetidir.
+honest: |
+  - "DNA tasarımı kanıtlar" iddiası **[Debated]**. Akıllı tasarım hareketi (ör. Stephen Meyer) biyolojik bilginin bir akla işaret ettiğini savunur. Biyologların çoğu, mutasyon ve doğal seçilim yoluyla evrimin genetik bilginin nasıl arttığını açıkladığını söyler; ABD mahkemeleri de (Kitzmiller - Dover davası, 2005) akıllı tasarımın bilim olmadığına hükmetti.
+  - Şuayb Ahmed Malik gibi Müslüman âlimler, Allah'a imanın evrimsel açıklamalardaki boşluklara bağlı olmadığını savunur; Allah doğal süreçler aracılığıyla da iş görebilir.
+  - Önerilen çerçeve: DNA'yı bilimsel bir kanıt olarak **değil**, hayrete davet eden bir âyet olarak sunmak. İki tarafı da adilce sunmak gerekir.
+visualization: |
+  - Bir insandan hücreye, çekirdeğe, kromozoma, DNA çift sarmalına ve A-T-C-G harflerine uzanan bir yakınlaştırma; "her hücrede 2 metre" sayacıyla.
+  - Bir "aynı alfabe" kartı: bakteri, ağaç ve insan, hepsi aynı dört harfle yazılmış.
+sourceLabels:
+  - 'Hypertextbook — İnsan DNA molekülünün uzunluğu'
+  - 'Ulusal İnsan Genomu Araştırma Enstitüsü (genome.gov) bilgi sayfaları'
+  - 'Stephen Meyer, *Signature in the Cell* (tasarım yanlısı); Francis Collins, *The Language of God* (teistik evrim)'
+  - 'Shoaib Ahmed Malik, *Islam and Evolution* (Routledge, 2021)'
+  - 'Râzî ve İbn Kesîr''in 20:50 ve 87:2–3 tefsirleri'

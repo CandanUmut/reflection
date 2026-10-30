@@ -1,0 +1,39 @@
+slugs: { tr: hayvanlar-ve-faydalari, en: livestock }
+theme: animals
+title:
+  tr: Hayvanlar ve faydaları
+  en: Livestock and their benefits
+summary:
+  tr: Bu hayvanlar insan ihtiyaçlarına dikkat çekici biçimde uyar. Âyet bu boyun eğdirmeyi bir ikram sayar ve şükre çağırır.
+  en: These animals fit human needs remarkably well. The verse calls this subjection a gift and asks for gratitude.
+verses: ["16:5-7", "36:71-73"]
+seeAlso: ["16:8", "6:142"]
+verseNotes:
+  tr: "36:72'deki *zellelnâhâ*: \"onları boyun eğdirdik\"; büyük ve güçlü hayvanların uysal ve idare edilebilir kılınması."
+  en: "In 36:72, *dhallalnāhā*: \"We subdued them\", large and strong animals made gentle and manageable."
+tafsir: |
+  [Scholarly]
+
+  - Müfessirler faydaları sayar: ısınmak için yün ve kıl, süt, et, deri, taşıma.
+  - *Zellelnâhâ*'yı vurgularlar: büyük, güçlü hayvanlar uysal ve idare edilebilir kılınmıştır; öyle ki bir çocuk bile deveyi yedebilir. Bu, insanların yaratmadığı bir nimet sayılır.
+  - Akşam ve sabahki "güzellik" (*cemâl*), hayvanlarda estetik zevkten nadir söz edilen yerlerden biri olarak not edilir.
+howItWorks: |
+  [Established]
+
+  - Keçi, koyun ve sığır, yaklaşık 10.000–11.000 yıl önce Bereketli Hilal'de ve çevresinde evcilleştirildi. Tek hörgüçlü deve çok daha sonra, yaklaşık 3.000 yıl önce Arabistan'da evcilleştirildi.
+  - Büyük memeli türlerinden yalnızca az sayıda tür başarıyla evcilleştirilebildi. Evcilleştirme için hayvanların sakin olması, sürü hâlinde yaşaması, esaret altında üremesi ve yeterince hızlı büyümesi gerekir.
+  - Evcil hayvanlar insan hayatını değiştirdi: düzenli süt ve et, giysi için yün, deri, gübre, sabanı çekecek ve yük taşıyacak güç.
+awe: |
+  - Yeryüzündeki pek çok büyük yabani memeliden yalnızca bir düzine kadarı gerçek anlamda evcil hayvan oldu.
+  - Tek bir koyun yılda birkaç kilogram yün verebilir ve yün her yıl yeniden çıkar.
+reflection: |
+  Bu hayvanlar insan ihtiyaçlarına dikkat çekici biçimde uyar: yedilmeye razıdırlar, sıcaklık, besin ve taşıma sağlarlar. Âyet bu boyun eğdirmeyi bir ikram sayar ve şükre çağırır ("Hâlâ şükretmeyecekler mi?" 36:73).
+honest: |
+  Evcilleştirme aynı zamanda insanın uzun bir seçme ve yetiştirme sürecidir. Âyet bunu inkâr etmez; bu hayvanların en başta buna elverişli olduğuna işaret eder. Kesin evcilleştirme tarihleri çalışmadan çalışmaya değişir.
+visualization: |
+  - Koyun, keçi, inek ve devenin her faydasının (yün, süt, deri, taşıma) işaretlendiği bir "ikram haritası".
+  - Yaklaşık 11.000 yıl önce başlayan bir evcilleştirme zaman çizelgesi.
+sourceLabels:
+  - 'Cardiff Üniversitesi — Koyun ve keçinin evcilleştirilme tarihine yeni ışık'
+  - 'Jared Diamond, *Guns, Germs, and Steel* — evcilleştirme bölümü (neden bu kadar az türün evcilleştirildiği üzerine)'
+  - 'İbn Kesîr ve Kurtubî''nin 16:5–8 ve 36:71–73 tefsirleri'

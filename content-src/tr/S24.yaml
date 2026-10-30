@@ -1,0 +1,41 @@
+slugs: { tr: duman-ve-ayrilis, en: smoke-and-separation }
+theme: cosmos
+title:
+  tr: Duman gibi bir başlangıç; bitişikken ayrılan gökler ve yer
+  en: A smoke-like origin; heavens and earth joined then split
+summary:
+  tr: Âyetler yaratılışı bir süreç olarak anlatır ve hepsi Allah'ın emrine cevap verir.
+  en: The verses describe creation as a process, and all of it answers God's command.
+verses: ["41:11", "21:30"]
+seeAlso: ["41:9-12", "79:27-30"]
+verseNotes:
+  tr: "41:11'de *duhân* (duman); 21:30'da *ratk* (bitişik) ve *fatk* (ayırmak)."
+  en: "In 41:11, *dukhān* (smoke); in 21:30, *ratq* (joined) and *fatq* (split apart)."
+tafsir: |
+  [Scholarly]
+
+  - 21:30 için İbn Abbâs'tan (Taberî ve İbn Kesîr aracılığıyla) bilinen bir okuma gelir: gök yağmur yağdırmıyor, yer bitki bitirmiyordu; sonra Allah göğü yağmurla, yeri bitkilerle "yardı". Başka bir okumaya göre ikisi Allah'ın ayırdığı tek bir kütleydi.
+  - 41:11'deki *duhân*, sudan yükselen buhar olarak anlatılır (İbn Mes'ûd ve başkalarından gelen, Taberî'nin aktardığı rivayetler).
+  - "İsteyerek" cevabı, bütün yaratılışın Allah'ın emrine itaati olarak okunur.
+howItWorks: |
+  [Established]
+
+  - Erken evrende her şey sıcak ve yoğun bir plazmaydı. Genişleyip soğudukça atomlar oluştu (başlangıçtan yaklaşık 380.000 yıl sonra), ardından yıldızlar ve galaksiler.
+  - Güneş Sistemi'miz yaklaşık 4,6 milyar yıl önce çöken bir gaz ve toz bulutundan (güneş bulutsusu) oluştu. Çoğu Güneş oldu; geri kalanı gezegenlerin büyüdüğü bir disk oluşturdu.
+  - Dünya'daki hayat sıvı suya bağlıdır. Bilinen her canlı hücrenin büyük kısmı sudur.
+awe: |
+  - Dünya'daki ve bedenimizdeki atomlar bir zamanlar dağınık bir gaz ve toz bulutunun parçasıydı.
+  - Güneş, Güneş Sistemi'nin kütlesinin yaklaşık %99,8'ini taşır; gezegenler artan kırıntılardan oluştu.
+reflection: |
+  Âyetler yaratılışı bir süreç olarak anlatır: bir olan ayrılır, şekilsiz olan şekil alır ve hepsi Allah'ın emrine cevap verir. Göklerin ve yerin "isteyerek" itaati, reddetme imkânı olan tek varlık olan insana bir örnek olarak sunulur.
+honest: |
+  - "Kur'an Büyük Patlama'yı anlattı" demek abartıdır. 21:30'un klasik okuması (göğü ve yeri yağmur ve bitkilerle yarmak) oldukça farklıdır ve erken evren duman değil, sıcak bir plazmaydı.
+  - Bir gaz ve toz bulutsusuna "duman gibi" demek makul bir modern tefekkürdür [Debated], ama tefekkür olarak etiketlenmelidir.
+  - Ayrıca 41:9–12'nin verdiği sıra (önce yer, sonra gökler) müfessirlerin 79:27–30 ile birlikte uzun uzun tartıştığı bir konudur. Bunu gizlemeden, tefsirdeki eski bir tartışma olarak sunmak gerekir.
+visualization: |
+  - "Buluttan sisteme" canlandırması: bir gaz bulutu çöker, dönerek bir diske dönüşür, Güneş tutuşur, gezegenler oluşur.
+  - 21:30 için yan yana bir kart: İbn Abbâs'ın yağmur ve bitki okuması ile modern "ayrılan tek kütle" tefekkürü.
+sourceLabels:
+  - 'Taberî ve İbn Kesîr''in 21:30 ve 41:11 tefsirleri'
+  - 'NASA, Güneş Sistemi''nin oluşumu üzerine genel bakışlar'
+  - 'Guessoum, *Islam''s Quantum Question* — kozmoloji ve Kur''an bölümü'

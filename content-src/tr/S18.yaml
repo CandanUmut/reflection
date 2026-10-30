@@ -1,0 +1,42 @@
+slugs: { tr: yesil-agactan-ates, en: fire-from-the-green-tree }
+theme: plants
+title:
+  tr: Yeşil ağaçtan ateş
+  en: Fire from the green tree
+summary:
+  tr: Her kamp ateşi, bir ağacın yıllar ya da on yıllar önce yakaladığı güneş ışığını salıverir.
+  en: Every campfire releases sunlight that a tree captured years or decades earlier.
+verses: ["36:80", "56:71-72"]
+seeAlso: ["36:78-79"]
+pause: "56:71"
+verseNotes:
+  tr: 36:80, kendisine çürümüş kemikleri kimin dirilteceğini soran bir inkârcının sorusunun hemen ardından gelir (36:78–79).
+  en: 36:80 comes right after a denier asks who will revive rotten bones (36:78–79).
+tafsir: |
+  [Scholarly]
+
+  - Kurtubî ve diğerleri iki Arabistan ağacının adını verir: *merh* ve *afâr*. Araplar bunlardan yeşil, özlü dallar keser ve çakmaktaşı gibi birbirine sürterek ateş yakardı.
+  - Asıl vurgu "zıttan zıddı çıkarmak"tır. Ateş ıslak ve yeşil olan bir şeyden çıkar; öyleyse ölü kemiklerden hayat çıkarmak daha zor değildir.
+  - Bazı müfessirler daha geniş de okur: her yeşil ağaç sonunda yakıta dönüşür.
+howItWorks: |
+  [Established]
+
+  - Bitkiler güneş ışığını fotosentezle yakalar. Karbondioksit ve suyu şekerlere ve selüloza dönüştürür, güneşin enerjisini kimyasal bağlarda depolar.
+  - Odun yakmak bunu tersine çevirir. Oksijen, depolanmış karbon ve hidrojenle yeniden birleşir ve o depolanmış güneş ışığını ısı ve ışık olarak salıverir.
+  - Sürtünmeyle ateş yakmak işe yarar, çünkü sürtmek odun liflerini için için yanmaya başlayana kadar ısıtır.
+  - Kömür, petrol ve gaz eski bitki ve plankton kalıntılarıdır; dolayısıyla enerjileri de depolanmış güneş ışığıdır.
+awe: |
+  - Her kamp ateşi, bir ağacın yıllar ya da on yıllar önce yakaladığı güneş ışığını salıverir.
+  - İnsanların ısınmak, pişirmek ve sanayi için şimdiye kadar yaktığı enerjinin çoğunu (odun, kömür, petrol) önce yeşil bitkiler topladı.
+  - Yeşil bir yaprak ile bir alev zıt görünür: biri ıslak, serin ve canlı; öteki sıcak ve yakıp tüketen. Kimyasal olarak ikisi aynı enerjinin girişi ve çıkışıdır.
+reflection: |
+  Âyet, diriliş hakkındaki bir şüpheye herkesin gördüğü bir şeyle cevap verir: yeşil ve ıslak olandan çıkan ateş. Modern tablo bu imgeyi derinleştirir; çünkü ağaç, ateşin daha sonra salıvereceği bir ışık deposudur. "O ağacı siz mi yarattınız?" sorusu bize, yalnızca kıvılcımı çaktığımızı hatırlatır; enerji bizim için hazırlanmıştı.
+honest: |
+  Âyet bilinen bir Arap uygulamasına (*merh* ve *afâr* dalları) atıf yapar. Fotosentezin tarifi değildir. Fotosentezi âyet üzerine bir tefekkür olarak kullanmak yerindedir; "Kur'an fotosentezi açıkladı" demek değildir.
+visualization: |
+  - İki yönlü bir canlandırma: güneş ışığı yaprağa akar ve odun olarak depolanır, sonra ateş onu ısı ve ışık olarak salıverir; aynı "enerji parçacıkları" iki yönde gösterilir.
+  - *Merh* ve *afâr* ile sürtünme ateşi gösteren bir kart.
+sourceLabels:
+  - 'Meâriful-Kur''ân''ın 36:80 tefsiri, Kurtubî''den aktararak (quran.com)'
+  - 'Kurtubî ve İbn Kesîr''in 36:80 ve 56:71–73 tefsirleri'
+  - 'Fotosentez ve solunum üzerine standart bir biyoloji ders kitabı bölümü (ör. Campbell *Biology*)'
