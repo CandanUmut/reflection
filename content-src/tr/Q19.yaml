@@ -1,0 +1,27 @@
+slugs: { tr: mezhepler, en: sects }
+theme: sects
+title: Neden tek bir "doğru" İslam? Neden bu kadar çok mezhep var?
+verses: ["5:48", "3:103"]
+steelman: |
+  Allah'ın mesajı açıksa, neden bölünmeler var ve her grup kendini "fırka-i nâciye" (kurtulan fırka) ilan ediyor? Ya mesaj açık değil ya da kesinlik iddiası kibirli.
+whyAsked: |
+  "Tek doğru yol" katılığı, Yaqeen'deki en büyük tetikleyicilerden biridir. Türk gençleri rakip cemaatlerle, internetteki Selefî vaizlerle, Alevi komşularla ve laik akrabalarla karşılaşır. "73 fırka" hadisi sık sık bir silah olarak kullanılır.
+shortAnswer: |
+  Bütün Müslümanlar ortak bir çekirdeği paylaşır: Allah, Peygamber, Kur'an, namaz ve âhiret. Yorum farklılıkları sahâbeden itibaren kabul gördü. 4–6 Temmuz 2005'te 50 ülkeden 200 önde gelen âlim Amman'da toplandı. Sünnî, Şiî ve İbâdî İslam'ın sekiz mezhebinin hepsinin geçerliliğini tanıdılar ve diğer Müslümanları tekfir etmeyi (kâfir ilan etmeyi) yasakladılar. Daha sonra 500'den fazla âlim bunu onayladı.
+layers:
+  4: |
+    Kur'an çeşitliliği Allah'ın planının bir parçası sayar (5:48; 11:118), ama düşmanca bölünmeyi kınar (3:103, 105; 6:159).
+    - **73 fırka hadisi.** Ebû Dâvûd 4596, Elbânî tarafından *hasen sahih* sayılır. Ebû Dâvûd 4597 "72'si ateşte, biri cennette: *cemaat*" ekini taşır ve *hasen* sayılır. İbn Teymiyye 72'nin kâfir *olmadığı* görüşündeydi (Abdallah, *AFKAR* 2006). Bağdâdî'nin *el-Fark*'ı bilinen fırkaları 73 sayısına zorladı (Gömbeyaz, *ULUM* 2018).
+    - **"İhtilaf rahmettir."** "*İhtilâfu ümmetî rahmetün*" sözünün bilinen bir senedi yoktur (Sübkî, Süyûtî, Elbânî) ve İbn Hazm onu kınadı. Sabit olan, Kāsım b. Muhammed'in sahâbenin ihtilafının rahmet olduğuna dair sözüdür (İbn Sa'd).
+    - **Sünnî–Şiî karşılıklı tanıma.** Ezher'den Şeltût 1959'da Ca'ferî (Şiî) mezhebinin geçerli olduğuna hükmetti. Sîstânî ve Ezher Şeyhi Amman Mesajı'nı destekledi.
+  5: |
+    Klasik teori kesin olanı (*kat'î*) muhtemel olandan (*zannî*) ayırır: çekirdek için kesinlik, geri kalanında tevazu. Dikkatle içtihat edip yanılan bir âlim yine de sevap alır (Buhârî 7352).
+  6: |
+    Onlarca erken fıkıh mezhebinden dört Sünnî mezhep ile Ca'ferî, Zeydî ve İbâdî mezhepleri ayakta kaldı. Sünnî–Şiî ayrılığı 632'den sonra liderlik meselesiyle başladı. Türkiye'de Hanefî, Şâfiî, Alevi-Bektaşi ve Ca'ferî topluluklar vardır.
+  7: |
+    Siyah-beyaz dinî düşünce kaygı ve hoşgörüsüzlükle ilişkilidir. Düşünsel tevazu gruplar arası ilişkilerin daha iyi olmasını yordar.
+honest: |
+  Her farklılık zararsız değildir ve Amman Mesajı bazı grupları (ör. Ahmedîler) dışarıda bıraktı. İki slogan da iddiasını abartır.
+visualization: |
+  Ortak çekirdeği gövde, mezhepleri dallar ve yerel âdetleri yapraklar olarak gösteren bir ağaç. Bir *kat'î/zannî* ayırma oyunu. Bir hadis derecelendirme kartı.
+sourceLabels: [null, 'Bağdâdî, *el-Fark* (Arapça)', 'Gömbeyaz, *ULUM* 1/2 (Türkçe)', null, null, '73 fırka (Vikipedi)', 'TDV, "İhtilâf" (Türkçe)']
