@@ -34,6 +34,7 @@ const items = entries.map(({ data }) => ({
 <Base
   lang={lang}
   title={t(lang, meta[section].title)}
+  description={t(lang, meta[section].intro)}
   altPath={sectionPath(section, otherLocale(lang))}
   section={section}
 >

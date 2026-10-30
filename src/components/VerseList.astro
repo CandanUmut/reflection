@@ -1,0 +1,66 @@
+---
+// Further key verses on moral and question pages, kept compact so the first
+// explanation is not six phone screens away: translation and reference, with
+// the Arabic and transliteration one tap away. Text is never shortened.
+import { expandRef, getVerse, joinTranslations, refLabel } from '../lib/quran';
+import { t, type Locale } from '../i18n/ui';
+interface Props {
+  refs: string[];
+  lang: Locale;
+}
+const { refs, lang } = Astro.props;
+const items = refs.map((ref) => ({ ref, verses: expandRef(ref).map((r) => getVerse(r, lang)) }));
+---
+
+<ul class="verse-list">
+  {items.map(({ ref, verses }) => (
+    <li>
+      <p class="verse-list__translation">
+        {joinTranslations(expandRef(ref), lang)} <span class="ref">{refLabel(ref)}</span>
+      </p>
+      <details>
+        <summary>{t(lang, 'arabicText')}</summary>
+        <p class="verse-list__ar" lang="ar" dir="rtl">
+          {verses.map((v) => v.ar).join(' ۝ ')}
+        </p>
+        <p class="translit" lang="ar-Latn">
+          {verses.map((v) => v.translit).join(' · ')}
+        </p>
+      </details>
+    </li>
+  ))}
+</ul>
+
+<style>
+  .verse-list {
+    list-style: none;
+    padding: 0;
+    margin: var(--space-4) auto 0;
+    max-width: 32rem;
+  }
+  li {
+    padding-block: var(--space-3);
+    border-top: var(--rule);
+  }
+  .verse-list__translation {
+    font-family: var(--font-display);
+    font-size: var(--step-0);
+    line-height: 1.5;
+    margin: 0;
+    font-variation-settings: 'SOFT' 100;
+  }
+  summary {
+    font-family: var(--font-ui);
+    font-size: var(--step--1);
+    color: var(--ink-soft);
+    cursor: pointer;
+    min-height: 2.75rem;
+    display: flex;
+    align-items: center;
+  }
+  .verse-list__ar {
+    font-size: var(--step-1);
+    line-height: 2.1;
+    margin: 0 0 var(--space-2);
+  }
+</style>

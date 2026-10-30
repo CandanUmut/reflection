@@ -21,6 +21,9 @@ interface Props {
 }
 const { sign, lang } = Astro.props;
 const viz = sign.visualizations.find((v) => v.id === 'germination');
+// A short note sits in the margin like a scholar's gloss; a long or listed one
+// would be squeezed there, so it stays full width right after the science.
+const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.test(n.en));
 ---
 
 <article class="sign">
@@ -55,11 +58,13 @@ const viz = sign.visualizations.find((v) => v.id === 'germination');
   <div class="sign__layers" data-after-pause>
     <div class="sign__grid">
       <div class="sign__tafsir">
-        {sign.tafsir && (
-          <Layer kind="tafsir" n={2} lang={lang}>
+        <Layer kind="tafsir" n={2} lang={lang}>
+          {sign.tafsir ? (
             <Fragment set:html={md(sign.tafsir[lang], lang)} />
-          </Layer>
-        )}
+          ) : (
+            <p class="sign__missing">{t(lang, 'noTafsir')}</p>
+          )}
+        </Layer>
       </div>
       <div class="sign__science">
         <Layer kind="science" n={3} lang={lang}>
@@ -72,24 +77,33 @@ const viz = sign.visualizations.find((v) => v.id === 'germination');
           )}
           {viz && viz.steps && <GerminationViz lang={lang} steps={viz.steps[lang]} title={viz[lang]} />}
         </Layer>
+        {notesInline &&
+          sign.honestNotes.map((note) => (
+            <HonestNote lang={lang} important={note.important}>
+              <Fragment set:html={md(note[lang], lang)} />
+            </HonestNote>
+          ))}
       </div>
       <div class="sign__notes">
-        {sign.honestNotes.map((note) => (
-          <HonestNote lang={lang} important={note.important}>
-            <Fragment set:html={md(note[lang], lang)} />
-          </HonestNote>
-        ))}
+        {!notesInline &&
+          sign.honestNotes.map((note) => (
+            <HonestNote lang={lang} important={note.important}>
+              <Fragment set:html={md(note[lang], lang)} />
+            </HonestNote>
+          ))}
       </div>
     </div>
 
     <Divider />
 
     <div class="wrap">
-      {sign.reflection && (
-        <Layer kind="reflection" n={4} lang={lang}>
+      <Layer kind="reflection" n={4} lang={lang}>
+        {sign.reflection ? (
           <Fragment set:html={md(sign.reflection[lang], lang)} />
-        </Layer>
-      )}
+        ) : (
+          <p class="sign__missing">{t(lang, 'noReflection')}</p>
+        )}
+      </Layer>
       {sign.reflectionVerses && <VerseBlock refs={sign.reflectionVerses} lang={lang} size="small" />}
       <Sources sources={sign.sources} lang={lang} />
     </div>
@@ -97,6 +111,12 @@ const viz = sign.visualizations.find((v) => v.id === 'germination');
 </article>
 
 <style>
+  .sign__missing {
+    font-family: var(--font-ui);
+    font-size: 0.85rem;
+    font-style: normal;
+    color: var(--ink-soft);
+  }
   .sign__verse-notes,
   .sign__see-also {
     max-width: 32rem;

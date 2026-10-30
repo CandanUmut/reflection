@@ -19,7 +19,12 @@ const terms: Term[] = parse(raw).terms;
 const sorted = [...terms].sort((a, b) => a.term[lang].localeCompare(b.term[lang], lang));
 ---
 
-<Base lang={lang} title={t(lang, 'glossary')} altPath={`${slug[otherLocale(lang)]}/`}>
+<Base
+  lang={lang}
+  title={t(lang, 'glossary')}
+  description={t(lang, 'glossaryIntro')}
+  altPath={`${slug[otherLocale(lang)]}/`}
+>
   <div class="wrap glossary">
     <h1>{t(lang, 'glossary')}</h1>
     <p class="intro">{t(lang, 'glossaryIntro')}</p>

@@ -5,6 +5,7 @@
 // → help card where needed → sources.
 import type { CollectionEntry } from 'astro:content';
 import VerseBlock from './VerseBlock.astro';
+import VerseList from './VerseList.astro';
 import HonestNote from './HonestNote.astro';
 import HelpCard from './HelpCard.astro';
 import RangeOfViews from './RangeOfViews.astro';
@@ -52,7 +53,7 @@ const layerLabel: Record<string, UiKey> = {
     <Fragment set:html={md(q.shortAnswer[lang], lang)} />
   </section>
 
-  {q.helpCard && <HelpCard lang={lang} variant={q.helpCard} />}
+  {q.helpCard && q.helpCard !== 'general' && <HelpCard lang={lang} variant={q.helpCard} />}
 
   <section class="depth" aria-labelledby="depth-title">
     <h2 class="label" id="depth-title">
@@ -74,12 +75,15 @@ const layerLabel: Record<string, UiKey> = {
     <Fragment set:html={md(q.honestLimits[lang], lang)} />
   </HonestNote>
 
+  {q.helpCard === 'general' && <HelpCard lang={lang} variant="general" />}
+
   {q.verses.length > 0 && (
     <section class="verses-ref" aria-labelledby="verses-title">
       <h2 class="label" id="verses-title">
         {t(lang, 'keyVerses')}
       </h2>
-      <VerseBlock refs={q.verses} lang={lang} size="small" />
+      <VerseBlock refs={q.verses.slice(0, 1)} lang={lang} size="small" />
+      {q.verses.length > 1 && <VerseList refs={q.verses.slice(1)} lang={lang} />}
     </section>
   )}
 

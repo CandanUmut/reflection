@@ -16,6 +16,7 @@ const { lang, variant } = Astro.props;
   <h2 class="help__title" id="help-title">
     {t(lang, 'helpTitle')}
   </h2>
+  {variant === 'general' && <p>{t(lang, 'helpGeneral')}</p>}
   {variant === 'vesvese' && <p>{t(lang, 'helpVesvese')}</p>}
   {(variant === 'suffering' || variant === 'disaster') && <p>{t(lang, 'helpSuffering')}</p>}
   <ul>

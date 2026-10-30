@@ -19,6 +19,8 @@ export function evidenceTag(kind: keyof typeof LABELS, lang: Locale): string {
 // "[Established]" → tag. "[Established, small]" or "[Debated in its details]" →
 // tag followed by the qualifier, so the research's strength notes stay visible.
 function tags(html: string, lang: Locale): string {
+  // A strength label on its own ([moderate, mixed]) reads as the same quiet note.
+  html = html.replace(/\[(<em>[^\][]*)\]/g, '<span class="tag-note">($1)</span>');
   return html.replace(/\[(Established|Scholarly|Debated)([^\][]*)\]/g, (_, k: keyof typeof LABELS, rest: string) => {
     const note = rest.replace(/^[\s,;]+/, '').trim();
     return evidenceTag(k, lang) + (note ? ` <span class="tag-note">(${note})</span>` : '');

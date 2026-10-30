@@ -19,10 +19,7 @@ const { lang, range } = Astro.props;
 
 <figure class="range">
   <figcaption class="label">{range.title[lang]}</figcaption>
-  <div class="range__ends" aria-hidden="true">
-    <span>{range.from[lang]}</span>
-    <span>{range.to[lang]}</span>
-  </div>
+  <p class="range__end">{range.from[lang]}</p>
   <ol class="range__views">
     {range.views.map((v) => (
       <li>
@@ -31,6 +28,7 @@ const { lang, range } = Astro.props;
       </li>
     ))}
   </ol>
+  <p class="range__end">{range.to[lang]}</p>
   <p class="range__note">{t(lang, 'rangeNote')}</p>
 </figure>
 
@@ -38,14 +36,11 @@ const { lang, range } = Astro.props;
   .range {
     margin: var(--space-5) 0;
   }
-  .range__ends {
-    display: flex;
-    justify-content: space-between;
-    gap: var(--space-3);
+  .range__end {
     font-family: var(--font-ui);
     font-size: 0.8rem;
     color: var(--ink-soft);
-    margin-top: var(--space-3);
+    margin: var(--space-3) 0 var(--space-2);
   }
   .range__views {
     list-style: none;
