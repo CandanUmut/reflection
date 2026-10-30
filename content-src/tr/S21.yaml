@@ -47,6 +47,7 @@ built:
       tr:
         day: Ayın günü
         dayN: '{d}. gün'
+        phaseOut: 'Kamerî ayın {d}. günü.'
         years: Geçen yıl
         yearN: '{y} yıl'
         spring: ilkbahar
@@ -58,6 +59,7 @@ built:
       en:
         day: Day of the lunar month
         dayN: 'day {d}'
+        phaseOut: 'Day {d} of the lunar month.'
         years: Years passed
         yearN: '{y} {years}'
         spring: spring

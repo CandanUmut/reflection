@@ -17,7 +17,7 @@ const { lang, title, textVersion, labels: L } = Astro.props;
 ---
 
 <VizFrame lang={lang} title={title} textVersion={textVersion} kind="mountain">
-  <svg viewBox="0 0 320 230" role="img" aria-label={title} focusable="false">
+  <svg viewBox="0 0 320 230" aria-hidden="true" focusable="false">
     <rect class="mantle" x="0" y="110" width="320" height="120" />
     <path class="crust" d="" />
     <line class="v-ground" x1="0" y1="40" x2="320" y2="40" />
@@ -36,7 +36,7 @@ const { lang, title, textVersion, labels: L } = Astro.props;
     <p class="viz__readout" aria-live="polite" data-readout></p>
     <label>
       {L.height}
-      <input type="range" min="0" max="8.8" step="0.1" value="4" data-height />
+      <input type="range" min="0.5" max="8.8" step="0.1" value="4" data-height />
     </label>
   </Fragment>
   <script type="application/json" is:inline data-labels set:html={JSON.stringify(L)} />
@@ -74,6 +74,7 @@ const { lang, title, textVersion, labels: L } = Astro.props;
       rootLabel.setAttribute('y', String(Math.min(bottom, 226)));
       rootLabel.textContent = root > 0 ? `${fmt(root)} km` : '';
       out.textContent = L.readout.replace('{h}', fmt(h)).replace('{r}', fmt(root));
+      range.setAttribute('aria-valuetext', out.textContent);
     };
     range.addEventListener('input', draw);
     draw();

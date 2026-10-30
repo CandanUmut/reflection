@@ -61,12 +61,16 @@ visualizations:
         tasmania: Tazmanya
         fuel: Yağ deposu (şematik)
         progress: Uçuşun ilerleyişi
+        dayBack: Bir gün geri
+        dayOn: Bir gün ileri
         readout: '{d} gün {h} saat · yaklaşık {km} km · yemeden, içmeden, dinlenmeden'
       en:
         alaska: Alaska
         tasmania: Tasmania
         fuel: Fat store (schematic)
         progress: Progress of the flight
+        dayBack: A day back
+        dayOn: A day on
         readout: '{d} days {h} h · about {km} km · without food, water or rest'
     textVersion:
       tr: |

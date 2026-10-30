@@ -82,10 +82,10 @@ built:
         - Gün doğumunda ve batımında gölgeler çok uzar; güneş en yüksekte olduğu anda (zeval) günün en kısa gölgesini verir.
         - Desen enleme ve mevsime göre değişir, çünkü Dünya'nın ekseni yaklaşık 23,4° eğiktir. Mekke'de yılda iki kez öğle güneşi tam tepeye gelir ve gölge neredeyse kaybolur.
         - Çoğunluğun görüşüne göre ikindi, gölge cismin boyu artı öğle gölgesi kadar olunca; Hanefî görüşüne göre boyunun iki katı artı öğle gölgesi kadar olunca başlar.
-        - Çizim yandan bir görünüştür: gölgenin yönü yalnızca sabah batıya, öğleden sonra doğuya düşecek şekilde basitleştirilmiştir.
+        - Çizim güneyden bakan bir görünüştür: çizilen gölge, gölgenin doğu–batı bileşenidir; bu yüzden öğle vakti yön değiştirirken yumuşakça kısalıp uzar. Okunan değer gölgenin tam uzunluğudur.
       en: |
         - A shadow's length equals the object's height divided by the tangent of the sun's elevation angle.
         - At sunrise and sunset shadows stretch very long; at solar noon they reach their shortest length of the day.
         - The pattern changes with latitude and season, because Earth's axis is tilted about 23.4°. Twice a year in Mecca the noon sun stands directly overhead and shadows almost disappear.
         - In the majority view, ʿAṣr begins when the shadow equals the object's length plus its noon shadow; in the Ḥanafī view, twice the length plus the noon shadow.
-        - The drawing is a side view: the shadow's direction is simplified to fall west in the morning and east in the afternoon.
+        - The drawing is seen from the south: the drawn shadow is its east–west part, so it shrinks and grows smoothly as it swings through noon. The readout gives the shadow's full length.

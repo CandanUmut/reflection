@@ -1,6 +1,7 @@
 ---
-// S14 · Shadows. A stick in the ground, seen from the side. Move the time of
-// day and the season and the shadow stretches, shrinks and swings. ʿAṣr
+// S14 · Shadows. A stick in the ground, seen from the south. Move the time of
+// day and the season: the drawn shadow is its true east–west part, so it
+// swings smoothly through noon; the readout gives its full length. ʿAṣr
 // markers: majority, shadow = length + noon shadow (research S14); Ḥanafī,
 // twice the length + noon shadow (the usual fiqh wording; the research says
 // only "twice the length" — logged in CONTENT_GAPS). Length = h / tan(elev).
@@ -17,8 +18,8 @@ const { lang, title, textVersion, labels: L } = Astro.props;
 ---
 
 <VizFrame lang={lang} title={title} textVersion={textVersion} kind="sundial">
-  <svg viewBox="0 0 320 190" role="img" aria-label={title} focusable="false">
-    <path class="sun-arc" d="M20 150 Q160 -20 300 150" />
+  <svg viewBox="0 0 320 190" aria-hidden="true" focusable="false">
+    <path class="sun-arc" d="" />
     <circle class="sun v-lamp" cx="160" cy="40" r="7" />
     <line class="v-ground" x1="0" y1="150" x2="320" y2="150" />
     <line class="shadow" x1="160" y1="150" x2="160" y2="150" />
@@ -77,7 +78,6 @@ const { lang, title, textVersion, labels: L } = Astro.props;
     stroke: var(--ink-soft);
     stroke-width: 5;
     stroke-linecap: round;
-    opacity: 0.45;
   }
   .choice {
     display: inline-flex !important;
@@ -86,7 +86,7 @@ const { lang, title, textVersion, labels: L } = Astro.props;
     min-height: 2.75rem;
   }
   .choice input {
-    accent-color: var(--lamp);
+    accent-color: var(--water);
   }
   .asr-mark {
     fill: var(--lamp);
@@ -106,38 +106,59 @@ const { lang, title, textVersion, labels: L } = Astro.props;
     const UNIT = 40; // the stick is 40 px tall
     const fmt = (x: number) => x.toLocaleString(document.documentElement.lang, { maximumFractionDigits: 1 });
 
+    const arc = fig.querySelector('.sun-arc')!;
+    // Sun direction in east/north/up for a given hour angle (unit stick, unit sky).
+    const sunAt = (lat: number, dec: number, hour: number) => {
+      const up = Math.sin(lat) * Math.sin(dec) + Math.cos(lat) * Math.cos(dec) * Math.cos(hour);
+      const east = -Math.cos(dec) * Math.sin(hour);
+      return { up, east };
+    };
+    // East is to the right, west to the left (seen from the south).
+    const skyX = (east: number) => 160 + east * 140;
+    const skyY = (up: number) => 150 - up * 125;
+
     const draw = () => {
       const t = Number(time.value);
       const dec = Number(fig.querySelector<HTMLInputElement>('input[name="sd-season"]:checked')!.value) * rad;
       const lat = Number(fig.querySelector<HTMLInputElement>('input[name="sd-place"]:checked')!.value) * rad;
       const hour = (t - 12) * 15 * rad;
-      const elev = Math.asin(Math.sin(lat) * Math.sin(dec) + Math.cos(lat) * Math.cos(dec) * Math.cos(hour));
+      const { up, east } = sunAt(lat, dec, hour);
+      const elev = Math.asin(up);
       const noonShadow = Math.tan(Math.abs(lat - dec));
       const hh = Math.floor(t);
-      timeOut.textContent = `${String(hh).padStart(2, '0')}:${String(Math.round((t - hh) * 60)).padStart(2, '0')}`;
-      // Sun along its arc (picture only): east (right) in the morning, west (left) after noon.
-      const sx = 160 - (t - 12) * 20;
-      sun.setAttribute('cx', String(Math.max(12, Math.min(308, sx))));
-      sun.setAttribute('cy', String(150 - Math.max(-10, Math.sin(elev)) * 125));
+      const clock = `${String(hh).padStart(2, '0')}:${String(Math.round((t - hh) * 60)).padStart(2, '0')}`;
+      timeOut.textContent = clock;
+      // The sun's path for this season, drawn where it is above the horizon.
+      const pts: string[] = [];
+      for (let h = -180; h <= 180; h += 5) {
+        const p = sunAt(lat, dec, h * rad);
+        if (p.up >= 0) pts.push(`${skyX(p.east).toFixed(1)} ${skyY(p.up).toFixed(1)}`);
+      }
+      arc.setAttribute('d', pts.length ? 'M' + pts.join(' L') : '');
       if (elev <= 0) {
+        sun.setAttribute('visibility', 'hidden');
         shadow.setAttribute('x2', '160');
         out.textContent = L.below;
         asrMark.textContent = '';
+        time.setAttribute('aria-valuetext', `${clock}. ${L.below}`);
         return;
       }
+      sun.setAttribute('visibility', 'visible');
+      sun.setAttribute('cx', String(skyX(east)));
+      sun.setAttribute('cy', String(skyY(up)));
       const len = 1 / Math.tan(elev);
-      // Morning sun in the east throws the shadow west (left), and the reverse.
-      const dir = t < 12 ? -1 : 1;
-      const px = Math.min(len * UNIT, 158);
-      shadow.setAttribute('x2', String(160 + dir * px));
+      // The shadow points away from the sun: its east–west part is −east / up.
+      const ew = -east / up;
+      shadow.setAttribute('x2', String(160 + Math.max(-158, Math.min(158, ew * UNIT))));
       let text = len < 0.05 ? L.almostNone : L.ratio.replace('{x}', fmt(len));
-      if (len > 3.95) text += ' ' + L.long;
-      if (Math.abs(t - 12) < 0.15) text += ' ' + L.noon;
+      if (Math.abs(ew * UNIT) > 158) text += ' ' + L.long;
+      if (Math.abs(t - 12) < 0.05) text += ' ' + L.noon;
       out.textContent = text;
       let mark = '';
       if (t > 12 && len >= 2 + noonShadow) mark = L.asrHanafi;
       else if (t > 12 && len >= 1 + noonShadow) mark = L.asr;
       asrMark.textContent = mark;
+      time.setAttribute('aria-valuetext', `${clock}. ${text} ${mark}`.trim());
     };
     fig.addEventListener('input', draw);
     draw();

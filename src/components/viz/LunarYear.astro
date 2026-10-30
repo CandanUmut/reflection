@@ -16,7 +16,7 @@ const seasons = [L.spring, L.summer, L.autumn, L.winter];
 ---
 
 <VizFrame lang={lang} title={title} textVersion={textVersion} kind="lunar">
-  <svg viewBox="0 0 320 150" role="img" aria-label={title} focusable="false">
+  <svg viewBox="0 0 320 150" aria-hidden="true" focusable="false">
     <g transform="translate(70 70)">
       <circle r="42" class="moon-dark" />
       <path class="moon-lit" d="" />
@@ -33,36 +33,42 @@ const seasons = [L.spring, L.summer, L.autumn, L.winter];
           </text>
         );
       })}
-      <circle r="6" class="ramadan v-lamp" cx="0" cy="-52" />
+      <circle r="6" class="ramadan" cx="0" cy="-52" />
       <text class="v-text" y="4" text-anchor="middle" data-year-label></text>
     </g>
   </svg>
   <Fragment slot="controls">
-    <p class="viz__readout" aria-live="polite" data-readout></p>
+    <p class="viz__readout" aria-live="polite">
+      <span data-phase-out></span> <span data-readout></span>
+    </p>
     <label>
       {L.day}
-      <input type="range" min="0" max="29.5" step="0.5" value="7.5" data-day />
+      <input type="range" min="1" max="29" step="1" value="8" data-day />
     </label>
     <label>
       {L.years}
-      <input type="range" min="0" max="33" step="1" value="0" data-years />
+      <input type="range" min="1" max="33" step="1" value="1" data-years />
     </label>
   </Fragment>
   <script type="application/json" is:inline data-labels set:html={JSON.stringify(L)} />
 </VizFrame>
 
 <style>
+  /* Lit and dark halves in ink tones (not gold): at least 3:1 in every palette. */
   .moon-dark {
     fill: var(--paper-deep);
   }
   .moon-lit {
-    fill: var(--lamp-line);
+    fill: var(--ink-soft);
   }
   .moon-rim,
   .ring {
     fill: none;
     stroke: var(--hairline-strong);
     stroke-width: 1;
+  }
+  .ramadan {
+    fill: var(--ink);
   }
 </style>
 
@@ -88,7 +94,10 @@ const seasons = [L.spring, L.summer, L.autumn, L.winter];
     const draw = () => {
       const d = Number(day.value);
       lit.setAttribute('d', moonPath((d / 29.5) % 1));
-      fig.querySelector('[data-day-label]')!.textContent = L.dayN.replace('{d}', fmt(d, 1));
+      const dayText = L.dayN.replace('{d}', fmt(d));
+      fig.querySelector('[data-day-label]')!.textContent = dayText;
+      fig.querySelector('[data-phase-out]')!.textContent = L.phaseOut.replace('{d}', fmt(d));
+      day.setAttribute('aria-valuetext', dayText);
       const y = Number(years.value);
       // Each year the 354-day lunar year falls about 11 days short of the solar year.
       const shiftDays = y * 11;
@@ -99,6 +108,7 @@ const seasons = [L.spring, L.summer, L.autumn, L.winter];
       fig.querySelector('[data-year-label]')!.textContent = L.yearN
         .replace('{y}', fmt(y))
         .replace('{years}', yearsWord);
+      years.setAttribute('aria-valuetext', L.yearN.replace('{y}', fmt(y)).replace('{years}', yearsWord));
       out.textContent =
         y >= 33
           ? L.back
