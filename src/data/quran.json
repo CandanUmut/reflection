@@ -78,6 +78,12 @@
    "en": "It has been made permissible for you the night preceding fasting to go to your wives [for sexual relations]. They are clothing for you and you are clothing for them. Allah knows that you used to deceive yourselves, so He accepted your repentance and forgave you. So now, have relations with them and seek that which Allah has decreed for you. And eat and drink until the white thread of dawn becomes distinct to you from the black thread [of night]. Then complete the fast until the sunset. And do not have relations with them as long as you are staying for worship in the mosques. These are the limits [set by] Allah, so do not approach them. Thus does Allah make clear His ordinances to the people that they may become righteous.",
    "tr": "Oruç gecesi kadınlarınıza yaklaşmanız, size helâl kılındı. Onlar, sizin için bir örtü, siz de onlar için bir örtü durumundasınız. Allah, nefsinize güvenemeyeceğinizi bildiği için müracaatınızı kabul buyurdu ve sizi bağışladı. Şimdi onlara yaklaşın ve Allah'ın sizler için yazdığını isteyin. Ta fecrin beyaz ipliği siyah iplikden size seçilinceye kadar yiyin, için. Sonra da ertesi geceye kadar orucu tam tutun. Bununla beraber siz mescitlerde îtikaf halinde iken onlara yaklaşmayın. Bunlar, Allah'ınsınırlarıdır, sakın onlara yaklaşmayın. Allah, âyetlerini insanlara böyle açıklıyor ki sakınıp korunsunlar."
   },
+  "2:190": {
+   "ar": "وَقَٰتِلُوا۟ فِى سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمْ وَلَا تَعْتَدُوٓا۟ ۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلْمُعْتَدِينَ",
+   "translit": "waqātilū fī sabīli l-lahi alladhīna yuqātilūnakum walā taʿtadū inna l-laha lā yuḥibbu l-muʿ'tadīna",
+   "en": "Fight in the way of Allah those who fight you but do not transgress. Indeed. Allah does not like transgressors.",
+   "tr": "Size savaş açanlarla Allah yolunda çarpışın. Fakat haksız saldırıda bulunmayın. Çünkü Allah, haksız saldırıda bulunanları sevmez."
+  },
   "2:205": {
    "ar": "وَإِذَا تَوَلَّىٰ سَعَىٰ فِى ٱلْأَرْضِ لِيُفْسِدَ فِيهَا وَيُهْلِكَ ٱلْحَرْثَ وَٱلنَّسْلَ ۗ وَٱللَّهُ لَا يُحِبُّ ٱلْفَسَادَ",
    "translit": "wa-idhā tawallā saʿā fī l-arḍi liyuf'sida fīhā wayuh'lika l-ḥartha wal-nasla wal-lahu lā yuḥibbu l-fasāda",
@@ -150,6 +156,12 @@
    "en": "O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allah, through whom you ask one another, and the wombs. Indeed Allah is ever, over you, an Observer.",
    "tr": "Ey insanlar! Sizi bir tek nefisten yaratan ve ondan eşini yaratıp ikisinden bir çok erkekler ve kadınlar üreten Rabbinizden korkun; kendi adına birbirinizden dilekte bulunduğunuz Allah'dan ve akrabalık (bağlarını kırmak)tan sakının. Şüphesiz Allah sizin üzerinizde gözeticidir."
   },
+  "4:3": {
+   "ar": "وَإِنْ خِفْتُمْ أَلَّا تُقْسِطُوا۟ فِى ٱلْيَتَٰمَىٰ فَٱنكِحُوا۟ مَا طَابَ لَكُم مِّنَ ٱلنِّسَآءِ مَثْنَىٰ وَثُلَٰثَ وَرُبَٰعَ ۖ فَإِنْ خِفْتُمْ أَلَّا تَعْدِلُوا۟ فَوَٰحِدَةً أَوْ مَا مَلَكَتْ أَيْمَٰنُكُمْ ۚ ذَٰلِكَ أَدْنَىٰٓ أَلَّا تَعُولُوا۟",
+   "translit": "wa-in khif'tum allā tuq'siṭū fī l-yatāmā fa-inkiḥū mā ṭāba lakum mina l-nisāi mathnā wathulātha warubāʿa fa-in khif'tum allā taʿdilū fawāḥidatan aw mā malakat aymānukum dhālika adnā allā taʿūlū",
+   "en": "And if you fear that you will not deal justly with the orphan girls, then marry those that please you of [other] women, two or three or four. But if you fear that you will not be just, then [marry only] one or those your right hand possesses. That is more suitable that you may not incline [to injustice].",
+   "tr": "Eğer öksüz kızlarla evlendiğinizde onlara karşı adaletli davranamamaktan korkarsanız, hoşunuza giden diğer kadınlardan iki, üç ve dörde kadar evlenebilirsiniz. Eğer adaleti gözetmemekten korkarsanız, o zaman bir tane ile veya elinizin altındakiyle (sahip olduğunuz câriye ile) yetinin. Doğruluktan ayrılmamak için bu daha elverişlidir."
+  },
   "4:19": {
    "ar": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا يَحِلُّ لَكُمْ أَن تَرِثُوا۟ ٱلنِّسَآءَ كَرْهًا ۖ وَلَا تَعْضُلُوهُنَّ لِتَذْهَبُوا۟ بِبَعْضِ مَآ ءَاتَيْتُمُوهُنَّ إِلَّآ أَن يَأْتِينَ بِفَٰحِشَةٍ مُّبَيِّنَةٍ ۚ وَعَاشِرُوهُنَّ بِٱلْمَعْرُوفِ ۚ فَإِن كَرِهْتُمُوهُنَّ فَعَسَىٰٓ أَن تَكْرَهُوا۟ شَيْـًٔا وَيَجْعَلَ ٱللَّهُ فِيهِ خَيْرًا كَثِيرًا",
    "translit": "yāayyuhā alladhīna āmanū lā yaḥillu lakum an tarithū l-nisāa karhan walā taʿḍulūhunna litadhhabū bibaʿḍi mā ātaytumūhunna illā an yatīna bifāḥishatin mubayyinatin waʿāshirūhunna bil-maʿrūfi fa-in karih'tumūhunna faʿasā an takrahū shayan wayajʿala l-lahu fīhi khayran kathīran",
@@ -185,6 +197,12 @@
    "translit": "wa-ini im'ra-atun khāfat min baʿlihā nushūzan aw iʿ'rāḍan falā junāḥa ʿalayhimā an yuṣ'liḥā baynahumā ṣul'ḥan wal-ṣul'ḥu khayrun wa-uḥ'ḍirati l-anfusu l-shuḥa wa-in tuḥ'sinū watattaqū fa-inna l-laha kāna bimā taʿmalūna khabīran",
    "en": "And if a woman fears from her husband contempt or evasion, there is no sin upon them if they make terms of settlement between them - and settlement is best. And present in [human] souls is stinginess. But if you do good and fear Allah - then indeed Allah is ever, with what you do, Acquainted.",
    "tr": "Eğer bir kadın kocasının geçimsizliğinden, yahut kendisinden yüz çevirmesinden endişe ederse, aralarında bir sulh yapmalarında, onlara bir günah yoktur. Sulh hep hayırlıdır. Zaten nefisler kıskançlığa hazırdır. Eğer iyi geçinir ve geçimsizlikten sakınırsanız, şüphesiz Allah yaptıklarınızdan haberdardır."
+  },
+  "4:129": {
+   "ar": "وَلَن تَسْتَطِيعُوٓا۟ أَن تَعْدِلُوا۟ بَيْنَ ٱلنِّسَآءِ وَلَوْ حَرَصْتُمْ ۖ فَلَا تَمِيلُوا۟ كُلَّ ٱلْمَيْلِ فَتَذَرُوهَا كَٱلْمُعَلَّقَةِ ۚ وَإِن تُصْلِحُوا۟ وَتَتَّقُوا۟ فَإِنَّ ٱللَّهَ كَانَ غَفُورًا رَّحِيمًا",
+   "translit": "walan tastaṭīʿū an taʿdilū bayna l-nisāi walaw ḥaraṣtum falā tamīlū kulla l-mayli fatadharūhā kal-muʿalaqati wa-in tuṣ'liḥū watattaqū fa-inna l-laha kāna ghafūran raḥīman",
+   "en": "And you will never be able to be equal [in feeling] between wives, even if you should strive [to do so]. So do not incline completely [toward one] and leave another hanging. And if you amend [your affairs] and fear Allah - then indeed, Allah is ever Forgiving and Merciful.",
+   "tr": "Kadınlarınız arasında her yönden adaletli davranmaya ne kadar uğraşsanız buna güç yetiremezsiniz. Bari birisine tamamen kapılıp da diğerini askıya alınmış gibi bırakmayın. Eğer arayı düzeltir ve haksızlıktan korunursanız, şüphesiz Allah çok bağışlayıcı ve esirgeyicidir."
   },
   "4:135": {
    "ar": "۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ كُونُوا۟ قَوَّٰمِينَ بِٱلْقِسْطِ شُهَدَآءَ لِلَّهِ وَلَوْ عَلَىٰٓ أَنفُسِكُمْ أَوِ ٱلْوَٰلِدَيْنِ وَٱلْأَقْرَبِينَ ۚ إِن يَكُنْ غَنِيًّا أَوْ فَقِيرًا فَٱللَّهُ أَوْلَىٰ بِهِمَا ۖ فَلَا تَتَّبِعُوا۟ ٱلْهَوَىٰٓ أَن تَعْدِلُوا۟ ۚ وَإِن تَلْوُۥٓا۟ أَوْ تُعْرِضُوا۟ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعْمَلُونَ خَبِيرًا",
@@ -474,6 +492,18 @@
    "en": "And We have not sent you, [O Muhammad], except as a mercy to the worlds.",
    "tr": "(Ey Muhammed!) biz seni ancak âlemlere rahmet olarak gönderdik."
   },
+  "22:39": {
+   "ar": "أُذِنَ لِلَّذِينَ يُقَٰتَلُونَ بِأَنَّهُمْ ظُلِمُوا۟ ۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصْرِهِمْ لَقَدِيرٌ",
+   "translit": "udhina lilladhīna yuqātalūna bi-annahum ẓulimū wa-inna l-laha ʿalā naṣrihim laqadīrun",
+   "en": "Permission [to fight] has been given to those who are being fought, because they were wronged. And indeed, Allah is competent to give them victory.",
+   "tr": "Kendilerine savaş açılan kimselere (kâfirlere karşı koymak için) izin verildi. Çünkü onlar zulme uğradılar. Şüphesiz Allah onları zafere ulaştırmaya kadirdir."
+  },
+  "22:40": {
+   "ar": "ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَٰرِهِم بِغَيْرِ حَقٍّ إِلَّآ أَن يَقُولُوا۟ رَبُّنَا ٱللَّهُ ۗ وَلَوْلَا دَفْعُ ٱللَّهِ ٱلنَّاسَ بَعْضَهُم بِبَعْضٍ لَّهُدِّمَتْ صَوَٰمِعُ وَبِيَعٌ وَصَلَوَٰتٌ وَمَسَٰجِدُ يُذْكَرُ فِيهَا ٱسْمُ ٱللَّهِ كَثِيرًا ۗ وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓ ۗ إِنَّ ٱللَّهَ لَقَوِىٌّ عَزِيزٌ",
+   "translit": "alladhīna ukh'rijū min diyārihim bighayri ḥaqqin illā an yaqūlū rabbunā l-lahu walawlā dafʿu l-lahi l-nāsa baʿḍahum bibaʿḍin lahuddimat ṣawāmiʿu wabiyaʿun waṣalawātun wamasājidu yudh'karu fīhā us'mu l-lahi kathīran walayanṣuranna l-lahu man yanṣuruhu inna l-laha laqawiyyun ʿazīzun",
+   "en": "[They are] those who have been evicted from their homes without right - only because they say, \"Our Lord is Allah.\" And were it not that Allah checks the people, some by means of others, there would have been demolished monasteries, churches, synagogues, and mosques in which the name of Allah is much mentioned. And Allah will surely support those who support Him. Indeed, Allah is Powerful and Exalted in Might.",
+   "tr": "Onlar \"Rabbimiz Allah'tır\" demelerinden başka bir sebep olmaksızın haksız yere yurtlarından çıkarıldılar. Eğer Allah insanların bir kısmını bir kısmı ile defetmeseydi manastırlar, kiliseler, havralar ve içinde Allah'ın adı çok anılan mescidler elbette yıkılırdı. Şüphesiz Allah kendi (dini) ne yardım edene yardım edecektir. Şüphesiz Allah çok güçlüdür, çok izetlidir (her şeye galiptir)."
+  },
   "23:1": {
    "ar": "بِسْمِ ٱللَّهِ ٱلرَّحْمَٰنِ ٱلرَّحِيمِ قَدْ أَفْلَحَ ٱلْمُؤْمِنُونَ",
    "translit": "qad aflaḥa l-mu'minūna",
@@ -515,6 +545,18 @@
    "translit": "walā yatali ulū l-faḍli minkum wal-saʿati an yu'tū ulī l-qur'bā wal-masākīna wal-muhājirīna fī sabīli l-lahi walyaʿfū walyaṣfaḥū alā tuḥibbūna an yaghfira l-lahu lakum wal-lahu ghafūrun raḥīmun",
    "en": "And let not those of virtue among you and wealth swear not to give [aid] to their relatives and the needy and the emigrants for the cause of Allah, and let them pardon and overlook. Would you not like that Allah should forgive you? And Allah is Forgiving and Merciful.",
    "tr": "İçinizden faziletli ve servet sahibi kimseler akrabaya, yoksullara, Allah yolunda göç edenlere (mallarından) vermeyeceklerine yemin etmesinler; bağışlasınlar, feragat göstersinler. Allah'ın sizi bağışlamasını arzulamaz mısınız? Allah çok bağışlayandır, çok merhametlidir."
+  },
+  "24:31": {
+   "ar": "وَقُل لِّلْمُؤْمِنَٰتِ يَغْضُضْنَ مِنْ أَبْصَٰرِهِنَّ وَيَحْفَظْنَ فُرُوجَهُنَّ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا مَا ظَهَرَ مِنْهَا ۖ وَلْيَضْرِبْنَ بِخُمُرِهِنَّ عَلَىٰ جُيُوبِهِنَّ ۖ وَلَا يُبْدِينَ زِينَتَهُنَّ إِلَّا لِبُعُولَتِهِنَّ أَوْ ءَابَآئِهِنَّ أَوْ ءَابَآءِ بُعُولَتِهِنَّ أَوْ أَبْنَآئِهِنَّ أَوْ أَبْنَآءِ بُعُولَتِهِنَّ أَوْ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ إِخْوَٰنِهِنَّ أَوْ بَنِىٓ أَخَوَٰتِهِنَّ أَوْ نِسَآئِهِنَّ أَوْ مَا مَلَكَتْ أَيْمَٰنُهُنَّ أَوِ ٱلتَّٰبِعِينَ غَيْرِ أُو۟لِى ٱلْإِرْبَةِ مِنَ ٱلرِّجَالِ أَوِ ٱلطِّفْلِ ٱلَّذِينَ لَمْ يَظْهَرُوا۟ عَلَىٰ عَوْرَٰتِ ٱلنِّسَآءِ ۖ وَلَا يَضْرِبْنَ بِأَرْجُلِهِنَّ لِيُعْلَمَ مَا يُخْفِينَ مِن زِينَتِهِنَّ ۚ وَتُوبُوٓا۟ إِلَى ٱللَّهِ جَمِيعًا أَيُّهَ ٱلْمُؤْمِنُونَ لَعَلَّكُمْ تُفْلِحُونَ",
+   "translit": "waqul lil'mu'mināti yaghḍuḍ'na min abṣārihinna wayaḥfaẓna furūjahunna walā yub'dīna zīnatahunna illā mā ẓahara min'hā walyaḍrib'na bikhumurihinna ʿalā juyūbihinna walā yub'dīna zīnatahunna illā libuʿūlatihinna aw ābāihinna aw ābāi buʿūlatihinna aw abnāihinna aw abnāi buʿūlatihinna aw ikh'wānihinna aw banī ikh'wānihinna aw banī akhawātihinna aw nisāihinna aw mā malakat aymānuhunna awi l-tābiʿīna ghayri ulī l-ir'bati mina l-rijāli awi l-ṭif'li alladhīna lam yaẓharū ʿalā ʿawrāti l-nisāi walā yaḍrib'na bi-arjulihinna liyuʿ'lama mā yukh'fīna min zīnatihinna watūbū ilā l-lahi jamīʿan ayyuha l-mu'minūna laʿallakum tuf'liḥūna",
+   "en": "And tell the believing women to reduce [some] of their vision and guard their private parts and not expose their adornment except that which [necessarily] appears thereof and to wrap [a portion of] their headcovers over their chests and not expose their adornment except to their husbands, their fathers, their husbands' fathers, their sons, their husbands' sons, their brothers, their brothers' sons, their sisters' sons, their women, that which their right hands possess, or those male attendants having no physical desire, or children who are not yet aware of the private aspects of women. And let them not stamp their feet to make known what they conceal of their adornment. And turn to Allah in repentance, all of you, O believers, that you might succeed.",
+   "tr": "Mümin kadınlara da söyle: Gözlerini (harama bakmaktan) korusunlar; namus ve iffetlerini esirgesinler. Görünen kısımları müstesna olmak üzere, zinetlerini teşhir etmesinler. Baş örtülerini, yakalarının üzerine (kadar) örtsünler. Kocaları, babaları, kocalarının babaları, kendi oğulları, kocalarının oğulları, erkek kardeşleri, erkek kardeşlerinin oğulları, kız kardeşlerinin oğulları, kendi kadınları (mümin kadınlar), ellerinin altında bulunan (köleleri), erkeklerden, kadına ihtiyacı kalmamış (cinsî güçten düşmüş) hizmetçiler, yahut henüz kadınların gizli kadınlık hususiyetlerinin farkında olmayan çocuklardan başkasına zinetlerini göstermesinler. Gizlemekte oldukları zinetleri anlaşılsın diye, ayaklarını yere vurmasınlar. Ey müminler! Hep birden Allah'a tevbe ediniz ki, kurtuluşa eresiniz."
+  },
+  "24:33": {
+   "ar": "وَلْيَسْتَعْفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغْنِيَهُمُ ٱللَّهُ مِن فَضْلِهِۦ ۗ وَٱلَّذِينَ يَبْتَغُونَ ٱلْكِتَٰبَ مِمَّا مَلَكَتْ أَيْمَٰنُكُمْ فَكَاتِبُوهُمْ إِنْ عَلِمْتُمْ فِيهِمْ خَيْرًا ۖ وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِىٓ ءَاتَىٰكُمْ ۚ وَلَا تُكْرِهُوا۟ فَتَيَٰتِكُمْ عَلَى ٱلْبِغَآءِ إِنْ أَرَدْنَ تَحَصُّنًا لِّتَبْتَغُوا۟ عَرَضَ ٱلْحَيَوٰةِ ٱلدُّنْيَا ۚ وَمَن يُكْرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعْدِ إِكْرَٰهِهِنَّ غَفُورٌ رَّحِيمٌ",
+   "translit": "walyastaʿfifi alladhīna lā yajidūna nikāḥan ḥattā yugh'niyahumu l-lahu min faḍlihi wa-alladhīna yabtaghūna l-kitāba mimmā malakat aymānukum fakātibūhum in ʿalim'tum fīhim khayran waātūhum min māli l-lahi alladhī ātākum walā tuk'rihū fatayātikum ʿalā l-bighāi in aradna taḥaṣṣunan litabtaghū ʿaraḍa l-ḥayati l-dun'yā waman yuk'rihhunna fa-inna l-laha min baʿdi ik'rāhihinna ghafūrun raḥīmun",
+   "en": "But let them who find not [the means for] marriage abstain [from sexual relations] until Allah enriches them from His bounty. And those who seek a contract [for eventual emancipation] from among whom your right hands possess - then make a contract with them if you know there is within them goodness and give them from the wealth of Allah which He has given you. And do not compel your slave girls to prostitution, if they desire chastity, to seek [thereby] the temporary interests of worldly life. And if someone should compel them, then indeed, Allah is [to them], after their compulsion, Forgiving and Merciful.",
+   "tr": "Evlenme imkanını bulamayanlar ise, Allah, lütfu ile kendilerini varlıklı kılıncaya kadar iffetlerini korusunlar. Ellerinizin altında bulunanlardan (köleler ve cariyelerden) mükatebe yapmak isteyenlerle, eğer kendilerinde (hürriyete kavuşmalarında kendileri için) bir iyilik görüyorsanız, hemen mükatebe yapın. Allah'ın size vermiş olduğu malından siz de onlara verin. Dünya hayatının geçici menfaatlerini elde edeceksiniz diye, namuslu kalmak isteyen cariyelerinizi fuhşa zorlamayın. Kim onları zor altında bırakırsa, bilinmelidir ki, zorlanmalarından sonra Allah (onlar için) çok bağışlayıcı ve merhametlidir."
   },
   "24:40": {
    "ar": "أَوْ كَظُلُمَٰتٍ فِى بَحْرٍ لُّجِّىٍّ يَغْشَىٰهُ مَوْجٌ مِّن فَوْقِهِۦ مَوْجٌ مِّن فَوْقِهِۦ سَحَابٌ ۚ ظُلُمَٰتٌۢ بَعْضُهَا فَوْقَ بَعْضٍ إِذَآ أَخْرَجَ يَدَهُۥ لَمْ يَكَدْ يَرَىٰهَا ۗ وَمَن لَّمْ يَجْعَلِ ٱللَّهُ لَهُۥ نُورًا فَمَا لَهُۥ مِن نُّورٍ",
@@ -1121,6 +1163,18 @@
    "translit": "wahadaynāhu l-najdayni",
    "en": "And have shown him the two ways?",
    "tr": "Ona iki yolu gösterdik."
+  },
+  "90:12": {
+   "ar": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+   "translit": "wamā adrāka mā l-ʿaqabatu",
+   "en": "And what can make you know what is [breaking through] the difficult pass?",
+   "tr": "Bildin mi sen, o sarp yokuş nedir?"
+  },
+  "90:13": {
+   "ar": "فَكُّ رَقَبَةٍ",
+   "translit": "fakku raqabatin",
+   "en": "It is the freeing of a slave",
+   "tr": "Köle azat etmek,"
   },
   "91:7": {
    "ar": "وَنَفْسٍ وَمَا سَوَّىٰهَا",

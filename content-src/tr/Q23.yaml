@@ -1,0 +1,31 @@
+slugs: { tr: cok-esle-evlilik, en: polygyny }
+theme: women
+title: Çok eşlilik
+sensitivity: high
+helpCard: general
+verses: ["4:3", "4:129"]
+steelman: |
+  Erkekler dört kadınla evlenebilir; kadınlar evlenemez. Eşit davranmak neredeyse imkânsızdır ve kumalara verilen zarar belgelenmiştir.
+whyAsked: |
+  Kadınlar kendilerini tehdit altında hisseder. Türkiye'de resmî olmayan dinî nikâhlar (*imam nikâhı*) kadınları hukukî korumadan yoksun bırakır.
+shortAnswer: |
+  Kur'an katı bir adalet şartıyla dörde kadar eşe izin verir. "Adaletsizlikten korkarsanız, bir tane" ekler ve daha sonra tam adaletin imkânsız olduğunu söyler. Pek çok âlim bunu bir ideal değil, bir istisna olarak okur. Tunus ve Türkiye çok eşliliği yasaklar.
+layers:
+  4: |
+    Temel âyetler 4:3 (yetimlerin hakları bağlamında indi) ve 4:129'dur. Bir eşini kayıran adam Kıyamet günü "bir yanı sarkık olarak" gelir (Ebû Dâvûd 2133). Hz. Peygamber Ali'nin ikinci bir eş almasına itiraz etti (Buhârî 5230). Yorumlar:
+    - **Çoğunluk:** 4:129 sevgiyle, 4:3 nafakayla ilgilidir.
+    - **Abduh ve Rızâ:** birlikte okunduğunda âyetler, devletin uygulayabileceği bir sınırlamadır.
+    - **Tunus (1956):** çok eşliliği Kur'anî gerekçelerle yasakladı.
+    - **Mevdûdî (Urduca):** âyet çok eşliliği adalet şartına bağlar.
+    - **Endonezya:** ilke olarak tek eşlidir, ama mahkeme izniyle çok eşliliğe izin verir.
+  5: |
+    Savunucular dulları koruduğunu söyler. Eleştirmenler asimetriye dikkat çeker. Kısmi bir cevap: Hanbelî mezhebinde (İbn Teymiyye) kadın, evlilik sözleşmesine tek eşliliği şart koyabilir.
+  6: |
+    Dünya nüfusunun yalnızca yaklaşık %2'si çok eşli hanelerde yaşıyor ve çoğu ülkede bu oran %0,5'in altında (Pew Araştırma Merkezi, 7 Aralık 2020).
+  7: |
+    Kadınlar haklarını bilmelidir: zarar (*darar*) sebebiyle boşanma ve danışmanlığa erişim.
+honest: |
+  "Kur'an onu yasaklar" da, "Kur'an onu teşvik eder" de metni çarpıtır. Onu sınırlamak meşru bir *içtihattır* (bağımsız hukukî akıl yürütme).
+visualization: |
+  Âyetler üzerine bir adalet katmanı. Çok eşlilik kanunları haritası. Sözleşme şartları kartı.
+sourceLabels: [null, '*Tefsîrü''l-Menâr* (Arapça)', 'Mevdûdî, "Mes''ele-i taaddüd-i ezvâc" (Urduca)', 'Musawah özeti', 'Melia Rosa ve ark., *Jurnal Konstitusi* 21(4) (2024, Endonezce)', 'TDV, "Taaddüd-i Zevcât" (Türkçe)']

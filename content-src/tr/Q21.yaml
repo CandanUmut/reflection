@@ -1,0 +1,37 @@
+slugs: { tr: kolelik, en: slavery }
+theme: ethics
+title: Kölelik
+sensitivity: high
+helpCard: general
+verses: ["90:12-13", "24:33"]
+steelman: |
+  Kur'an köleliği ve cariyeliği (*mâ meleket eymânüküm*, "ellerinizin sahip olduğu") düzenler, ama ikisini de hiçbir zaman kaldırmaz. Kölelik Avrupa baskısıyla kaldırıldı.
+whyAsked: |
+  IŞİD 2014'te köleleştirmeyi yeniden canlandırdı ve modern ahlâkî kesinlik bu metinleri sarsıcı kılıyor.
+shortAnswer: |
+  Kur'an köleliği kaldırmadı. Köle azat etmeyi tekrar tekrar bir ibadet ve günahlara keffaret yaptı ve özgürlüğe giden hukukî yollar açtı. Köleliğin kaldırılması çok sonra geldi ve klasik hukuktan doğmadı. Bugün Müslüman âlimlerin ezici çoğunluğu köleliğin yasak olduğunu kabul eder.
+layers:
+  4: |
+    - Köle azat etmek "sarp yokuştur" (90:13) ve bir keffarettir (4:92; 5:89; 58:3).
+    - Zekât esirlerin hürriyetine harcanabilir (9:60).
+    - Köleler sözleşmeyle (*mükâtebe*) hürriyetlerini satın alabilir (24:33).
+    - "Köleleriniz kardeşlerinizdir" (Buhârî 30).
+    - Cariyenin çocuğu hür doğardı ve anne (*ümmü veled*) efendisinin ölümüyle hür olurdu.
+
+    Kecia Ali (2010), klasik evlilik hukukunun mülkiyetle bir kıyastan beslendiğini gösterir. Jonathan Brown (2019) "köleliğin kaldırılmasının İslam'a özgü olmadığını" yazar, ama âlimlerin icmaının ve *makâsıd*ın bugün bunu desteklediğini savunur.
+  5: |
+    Reformcular (Abduh, Rızâ, İbn Âşûr) şeriatın hürriyeti amaçladığını söyler. İtiraz şudur: bu kademeli yol 1.200 yıl boyunca durdu. Rıza olmadan cariyelik en zor nokta olarak kalıyor ve tam tatmin edici bir cevap yok.
+  6: |
+    Osmanlı adımları:
+    - 1847: İstanbul esir pazarı kapatıldı.
+    - 1854–55: Çerkes ticareti yasaklandı; bu Hicaz'da bir isyana yol açtı ve Hicaz daha sonra muaf tutuldu.
+    - 1857: siyahi köle ticareti yasaklandı.
+
+    Suudi Arabistan köleliği 1962'de, Moritanya 1981'de kaldırdı. Pérouse de Montclos (2002): Hristiyan dünyasından farklı olarak İslam bir kölelik karşıtı hareket üretmedi.
+  7: |
+    Köleleştirilmiş insanların torunları, örneğin Afro-Türkler, bunu kişisel olarak hissedebilir. Dürüstlük onlara saygıdır.
+honest: |
+  "İslam köleliği kaldırdı" demek yanlıştır. "İslam'daki kölelik yumuşaktı" demek işine geleni seçmektir. Ana akım âlimler IŞİD'i kınadı (Bağdadî'ye Açık Mektup, 2014).
+visualization: |
+  Bir "hürriyete açılan kapılar" şeması. Bir kaldırılış zaman çizelgesi. Azat ile kaldırılışı karşılaştıran bir kart.
+sourceLabels: [null, null, null, 'Pérouse de Montclos, *Études* (2002, Fransızca)', 'Gilli-Elewy, *Der Islam* 77 (2000, Almanca)', 'TDV, "Köle" (Türkçe)']
