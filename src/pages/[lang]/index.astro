@@ -1,0 +1,22 @@
+---
+// The Threshold: the home page in each language.
+import Base from '../../layouts/Base.astro';
+import Threshold from '../../components/Threshold.astro';
+import { t, locales, type Locale } from '../../i18n/ui';
+import { sectionUrl } from '../../lib/routes';
+
+export const getStaticPaths = () => locales.map((lang) => ({ params: { lang } }));
+const lang = Astro.params.lang as Locale;
+const links = {
+  reflect: sectionUrl('signs', lang),
+  live: sectionUrl('morals', lang),
+  ask: sectionUrl('questions', lang),
+};
+---
+
+<Base lang={lang} title={t(lang, 'siteName')} description={t(lang, 'siteSubtitle')} altPath="">
+  <h1 class="visually-hidden">
+    {t(lang, 'siteName')} · {t(lang, 'siteSubtitle')}
+  </h1>
+  <Threshold lang={lang} links={links} />
+</Base>

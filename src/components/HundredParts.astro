@@ -1,0 +1,53 @@
+---
+// M2 visualization: one hundred parts of mercy, one of them on earth.
+// Still, not animated: the point is to be counted, slowly, by the eye.
+import { t, type Locale } from '../i18n/ui';
+interface Props {
+  lang: Locale;
+  title: string;
+}
+const { lang, title } = Astro.props;
+const cells = Array.from({ length: 100 }, (_, i) => ({
+  x: (i % 10) * 20 + 10,
+  y: Math.floor(i / 10) * 20 + 10,
+  lit: i === 90,
+}));
+---
+
+<figure class="hundred">
+  <figcaption class="label">{title}</figcaption>
+  <svg viewBox="0 0 200 200" role="img" aria-label={t(lang, 'hundredCaption')} focusable="false">
+    {cells.map((c) => (
+      <circle class:list={['part', { 'part--lit': c.lit }]} cx={c.x} cy={c.y} r={c.lit ? 5 : 4} />
+    ))}
+  </svg>
+  <p class="hundred__text">{t(lang, 'hundredCaption')}</p>
+</figure>
+
+<style>
+  .hundred {
+    margin: var(--space-5) 0;
+    text-align: center;
+  }
+  svg {
+    width: min(16rem, 70vw);
+    height: auto;
+    margin: var(--space-3) auto;
+    display: block;
+  }
+  .part {
+    fill: none;
+    stroke: var(--hairline-strong);
+    stroke-width: 0.8;
+  }
+  .part--lit {
+    fill: var(--lamp-line);
+    stroke: var(--lamp);
+  }
+  .hundred__text {
+    font-style: italic;
+    color: var(--ink-soft);
+    max-width: 28rem;
+    margin-inline: auto;
+  }
+</style>

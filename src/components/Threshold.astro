@@ -5,7 +5,7 @@
 // the day: one short verse from the research index, changing daily.
 import { parse } from 'yaml';
 import dailyRaw from '../data/daily-verses.yaml?raw';
-import { expandRef, getVerse, refLabel } from '../lib/quran';
+import { expandRef, joinTranslations, refLabel } from '../lib/quran';
 import { t, type Locale } from '../i18n/ui';
 
 interface Props {
@@ -16,9 +16,7 @@ const { lang, links } = Astro.props;
 const refs: string[] = parse(dailyRaw).refs;
 const daily = refs.map((r) => ({
   ref: refLabel(r),
-  text: expandRef(r)
-    .map((v) => getVerse(v, lang).translation)
-    .join(' '),
+  text: joinTranslations(expandRef(r), lang),
 }));
 // Build-time choice, shown without JavaScript. With JavaScript the slot stays
 // hidden until the script has put in the visitor's own day, so nothing swaps.

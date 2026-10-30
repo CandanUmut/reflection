@@ -2,7 +2,7 @@
 // Layer 1 of a sign: the verse. Arabic first and largest, then the
 // transliteration, then the translation. Consecutive verses of one range are
 // set together, each closed by the traditional end-of-verse mark.
-import { expandRef, getVerse, refLabel } from '../lib/quran';
+import { expandRef, getVerse, joinTranslations, refLabel } from '../lib/quran';
 import { t, type Locale } from '../i18n/ui';
 
 interface Props {
@@ -31,7 +31,7 @@ const groups = refs.map((ref) => ({ ref, verses: expandRef(ref).map((r) => getVe
         {verses.map((v) => v.translit).join(' · ')}
       </p>
       <blockquote class="verse__translation">
-        <p>{verses.map((v) => v.translation).join(' ')}</p>
+        <p>{joinTranslations(expandRef(ref), lang)}</p>
       </blockquote>
       <figcaption>
         <span class="ref">{refLabel(ref)}</span>

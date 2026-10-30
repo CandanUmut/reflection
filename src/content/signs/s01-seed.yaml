@@ -1,6 +1,8 @@
 # Source: docs/research/01-batch-1.md, Phase 3b, S1.
 id: S1
-slug: seed
+slugs:
+  tr: tohum
+  en: seed
 order: 1
 theme: plants
 verses: ["6:95", "56:63-64"]

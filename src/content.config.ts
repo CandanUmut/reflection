@@ -9,29 +9,86 @@ const verseRef = z.string().regex(/^\d{1,3}:\d{1,3}(-\d{1,3})?$/);
 // A source label is either one string (a citation, same in both languages) or
 // a {tr, en} pair when it describes the source in words.
 const source = z.object({ label: z.union([z.string(), text]), url: z.url().optional() });
+const slug = z.object({ tr: z.string().regex(/^[a-z0-9-]+$/), en: z.string().regex(/^[a-z0-9-]+$/) });
+const visualization = text.extend({
+  id: z.string(),
+  steps: z.object({ tr: z.array(z.string()), en: z.array(z.string()) }).optional(),
+});
 
 const signs = defineCollection({
   loader: glob({ pattern: '*.yaml', base: './src/content/signs' }),
   schema: z.object({
     id: z.string().regex(/^S\d+$/),
-    slug: z.string(),
+    slugs: slug,
     order: z.number(),
     theme: z.string(),
     verses: z.array(verseRef).min(1),
+    /** Related verses named in the research ("see also"), listed by reference only. */
+    seeAlso: z.array(verseRef).optional(),
     pause: z.object({ ref: verseRef }).optional(),
     title: text,
     summary: text,
+    /** Word notes from the research's verse section (e.g. the root of a key word). */
+    verseNotes: text.optional(),
     tafsir: text,
     howItWorks: text,
     awe: text.optional(),
     reflection: text,
     reflectionVerses: z.array(verseRef).optional(),
     honestNotes: z.array(text),
-    visualizations: z.array(
-      text.extend({ id: z.string(), steps: z.object({ tr: z.array(z.string()), en: z.array(z.string()) }).optional() }),
-    ),
+    visualizations: z.array(visualization),
     sources: z.array(source).min(1),
   }),
 });
 
-export const collections = { signs };
+const questions = defineCollection({
+  loader: glob({ pattern: '*.yaml', base: './src/content/questions' }),
+  schema: z.object({
+    id: z.string().regex(/^Q\d+$/),
+    slugs: slug,
+    order: z.number(),
+    theme: z.string(),
+    /** "high" = the research marks it high-sensitivity. */
+    sensitivity: z.enum(['normal', 'high']),
+    /** Suffering, grief, disasters, vesvese: show the gentle help card. */
+    helpCard: z.union([z.literal(false), z.enum(['general', 'disaster'])]),
+    verses: z.array(verseRef),
+    title: text,
+    summary: text.optional(),
+    steelman: text,
+    whyAsked: text,
+    shortAnswer: text,
+    layers: z.array(
+      text.extend({
+        kind: z.enum(['religious', 'philosophical', 'scientific', 'clinical', 'psychological', 'history']),
+      }),
+    ),
+    honestLimits: text,
+    visualizations: z.array(visualization),
+    sources: z.array(source).min(1),
+  }),
+});
+
+const morals = defineCollection({
+  loader: glob({ pattern: '*.yaml', base: './src/content/morals' }),
+  schema: z.object({
+    id: z.string().regex(/^M\d+$/),
+    slugs: slug,
+    order: z.number(),
+    theme: z.string(),
+    verses: z.array(verseRef).min(1),
+    title: text,
+    summary: text,
+    /** Research section "Key verses and hadith" (M8+), verbatim. */
+    teachings: text.optional(),
+    hadith: text.optional(),
+    scholarship: text.optional(),
+    evidence: text.optional(),
+    stories: text.optional(),
+    gaps: text,
+    visualizations: z.array(visualization),
+    sources: z.array(source).min(1),
+  }),
+});
+
+export const collections = { signs, questions, morals };

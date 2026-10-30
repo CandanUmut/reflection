@@ -1,0 +1,43 @@
+---
+// Every item page: a sign, a moral theme or a question, in either language.
+import { getCollection } from 'astro:content';
+import Base from '../../../layouts/Base.astro';
+import SignBody from '../../../components/SignBody.astro';
+import QuestionBody from '../../../components/QuestionBody.astro';
+import MoralBody from '../../../components/MoralBody.astro';
+import { locales, otherLocale, type Locale } from '../../../i18n/ui';
+import { itemPath, sectionSegment, type Section } from '../../../lib/routes';
+
+export async function getStaticPaths() {
+  const sections: Section[] = ['signs', 'morals', 'questions'];
+  const paths = [];
+  for (const section of sections) {
+    for (const entry of await getCollection(section)) {
+      for (const lang of locales) {
+        paths.push({
+          params: { lang, section: sectionSegment[section][lang], slug: entry.data.slugs[lang] },
+          props: { section, entry },
+        });
+      }
+    }
+  }
+  return paths;
+}
+
+const lang = Astro.params.lang as Locale;
+const { section, entry } = Astro.props;
+const data = entry.data;
+const description = ('summary' in data && data.summary?.[lang]) || ('steelman' in data ? data.steelman[lang] : '');
+---
+
+<Base
+  lang={lang}
+  title={data.title[lang]}
+  description={description}
+  altPath={itemPath(section, data.slugs, otherLocale(lang))}
+  section={section}
+>
+  {entry.collection === 'signs' && <SignBody sign={entry.data} lang={lang} />}
+  {entry.collection === 'questions' && <QuestionBody q={entry.data} lang={lang} />}
+  {entry.collection === 'morals' && <MoralBody m={entry.data} lang={lang} />}
+</Base>

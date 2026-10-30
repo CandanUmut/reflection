@@ -1,0 +1,71 @@
+---
+// A moral theme page: verses → hadith → scholarship → evidence (with its
+// strength) → stories → the honest gap between ideal and practice → sources.
+import type { CollectionEntry } from 'astro:content';
+import VerseBlock from './VerseBlock.astro';
+import HonestNote from './HonestNote.astro';
+import HundredParts from './HundredParts.astro';
+import Divider from './Divider.astro';
+import Sources from './Sources.astro';
+import { md } from '../lib/md';
+import { t, type Locale, type UiKey } from '../i18n/ui';
+
+interface Props {
+  m: CollectionEntry<'morals'>['data'];
+  lang: Locale;
+}
+const { m, lang } = Astro.props;
+const sections = (['teachings', 'hadith', 'scholarship', 'evidence', 'stories'] as const).filter((k) => m[k]);
+const hundred = m.visualizations.find((v) => v.id === 'hundred-parts');
+---
+
+<article class="moral">
+  <header class="moral__head wrap">
+    <p class="label">{m.id}</p>
+    <h1>{m.title[lang]}</h1>
+    <p class="moral__summary">{m.summary[lang]}</p>
+  </header>
+  <section class="wrap" aria-label={t(lang, 'keyVerses')}>
+    <VerseBlock refs={m.verses} lang={lang} size="small" />
+  </section>
+  <Divider />
+  <div class="wrap">
+    {sections.map((k) => (
+      <section class="moral__section" aria-labelledby={`m-${k}`}>
+        <h2 id={`m-${k}`}>{t(lang, k as UiKey)}</h2>
+        <Fragment set:html={md(m[k]?.[lang], lang)} />
+        {k === 'hadith' && hundred && <HundredParts lang={lang} title={hundred[lang]} />}
+      </section>
+    ))}
+    <HonestNote lang={lang} label={t(lang, 'gapsLabel')}>
+      <Fragment set:html={md(m.gaps[lang], lang)} />
+    </HonestNote>
+    <Sources sources={m.sources} lang={lang} />
+  </div>
+</article>
+
+<style>
+  .moral__head {
+    text-align: center;
+    padding-top: var(--space-6);
+    margin-bottom: var(--space-5);
+  }
+  .moral__summary {
+    color: var(--ink-soft);
+    font-style: italic;
+    max-width: 32rem;
+    margin-inline: auto;
+  }
+  .moral__section {
+    margin-bottom: var(--space-5);
+  }
+  .moral__section h2 {
+    font-size: var(--step-1);
+  }
+  .moral__section :global(ul) {
+    padding-left: 1.1em;
+  }
+  .moral__section :global(li) {
+    margin-bottom: var(--space-2);
+  }
+</style>

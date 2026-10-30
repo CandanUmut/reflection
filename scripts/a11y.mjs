@@ -25,7 +25,8 @@ try {
         total += violations.length;
         for (const v of violations) {
           console.log(`✗ ${p} [${palette} ${width}] ${v.id}: ${v.help}`);
-          for (const n of v.nodes.slice(0, 4)) console.log(`    ${n.target.join(' ')} — ${n.failureSummary?.split('\n')[1] ?? ''}`);
+          for (const n of v.nodes.slice(0, 4))
+            console.log(`    ${n.target.join(' ')} — ${n.failureSummary?.split('\n')[1] ?? ''}`);
         }
         await ctx.close();
       }

@@ -1,0 +1,33 @@
+# Source: docs/research/01-batch-1.md, Phase 4, M2.
+# The "99 parts kept for the Hereafter" line is from Q13 in docs/research/02-batch-2.md.
+id: M2
+slugs:
+  tr: rahmet
+  en: mercy
+order: 2
+theme: mercy
+verses: ["21:107", "7:156", "3:159"]
+title:
+  tr: Rahmet ve ihsan
+  en: Mercy and iḥsān
+summary:
+  tr: Rahmet her şeyi kuşatır. Kur'an, Hz. Peygamber'i âlemlere rahmet olarak tanıtır ve kaba, katı bir dilin insanları uzaklaştıracağını söyler.
+  en: Mercy encompasses all things. The Quran presents the Prophet as a mercy to the worlds, and says that harshness would have driven people away.
+hadith:
+  tr: |
+    - Allah rahmeti yüz parça kıldı ve bunun yalnızca bir parçasını yeryüzüne indirdi (Buhârî 6000). Başka bir rivayete göre doksan dokuz parçası âhiret için saklanmıştır (Müslim 2752).
+    - Allah her şeyde ihsanı (güzel davranmayı) emretmiştir (Müslim 1955).
+    - Susuz kalmış bir köpeğe su veren kadın (Buhârî 3467).
+  en: |
+    - God made mercy in one hundred parts and sent down only one of them to the earth (Bukhārī 6000). Another narration says ninety-nine parts are kept for the Hereafter (Muslim 2752).
+    - God has prescribed iḥsān (doing things beautifully and well) in all things (Muslim 1955).
+    - The woman who gave water to a thirsty dog (Bukhārī 3467).
+gaps:
+  tr: Sert vaaz dili, 3:159 ile çelişir. Âyet, Hz. Peygamber kaba ve katı yürekli olsaydı insanların etrafından dağılıp gideceğini söyler.
+  en: Harsh preaching contradicts 3:159. The verse says that had the Prophet been harsh and hard-hearted, people would have scattered from around him.
+visualizations:
+  - id: hundred-parts
+    tr: Rahmetin yüz parçası
+    en: One hundred parts of mercy
+sources:
+  - label: Ṣaḥīḥ al-Bukhārī 6000, 3467; Ṣaḥīḥ Muslim 1955, 2752

@@ -24,5 +24,15 @@ export function getVerse(ref: string, lang: Locale): Verse {
   return { ref, ar: v.ar, translit: v.translit, translation: v[lang] };
 }
 
+/**
+ * Joins the translations of a verse range. Some translators render two verses
+ * as one sentence, and Tanzil then repeats it under both numbers (Elmalılı,
+ * 51:20–21); such a repeat is shown once. The text itself is never changed.
+ */
+export function joinTranslations(refs: string[], lang: Locale): string {
+  const texts = refs.map((r) => getVerse(r, lang).translation);
+  return texts.filter((t, i) => t !== texts[i - 1]).join(' ');
+}
+
 /** Display form of a reference, with an en dash in ranges: 56:63–64. */
 export const refLabel = (ref: string) => ref.replace('-', '–');
