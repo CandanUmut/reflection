@@ -1,0 +1,18 @@
+---
+// The root sends visitors to the Turkish home (Turkish is the default language).
+import { localeUrl } from '../lib/paths';
+const target = localeUrl('tr');
+---
+
+<!doctype html>
+<html lang="tr">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content={`0; url=${target}`} />
+    <link rel="canonical" href={target} />
+    <title>Tefekkür</title>
+  </head>
+  <body>
+    <a href={target}>Tefekkür</a>
+  </body>
+</html>

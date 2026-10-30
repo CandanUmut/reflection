@@ -1,0 +1,103 @@
+---
+// One of the Four Layers (DESIGN.md §4.2). Each voice has its own position,
+// type and accent so the reader always knows who is speaking.
+import type { Locale } from '../i18n/ui';
+import { t } from '../i18n/ui';
+interface Props {
+  kind: 'tafsir' | 'science' | 'reflection';
+  n: 2 | 3 | 4;
+  lang: Locale;
+}
+const { kind, n, lang } = Astro.props;
+const key = { tafsir: 'layerTafsir', science: 'layerScience', reflection: 'layerReflection' } as const;
+const id = `layer-${kind}`;
+---
+
+<section class:list={['layer', `layer--${kind}`]} aria-labelledby={id}>
+  <h2 class="layer__label" id={id}>
+    <span class="layer__n" aria-hidden="true">
+      {n}
+    </span>
+    {t(lang, key[kind])}
+  </h2>
+  <div class="layer__body">
+    <slot />
+  </div>
+</section>
+
+<style>
+  .layer {
+    margin-block: var(--space-5);
+  }
+  .layer__label {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-2);
+    font-family: var(--font-ui);
+    font-size: 0.85rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--ink-soft);
+    margin-bottom: var(--space-3);
+  }
+  .layer__n {
+    font-family: var(--font-mono);
+    font-weight: 400;
+    font-size: 0.75rem;
+    display: inline-grid;
+    place-items: center;
+    width: 1.5rem;
+    height: 1.5rem;
+    border: 1px solid currentColor;
+    border-radius: 50%;
+  }
+  .layer__body :global(ul) {
+    padding-left: 1.1em;
+  }
+  .layer__body :global(li) {
+    margin-bottom: var(--space-2);
+  }
+  .layer__body :global(li::marker) {
+    color: var(--ink-soft);
+  }
+
+  /* 2 · Classical tafsir — the commentator's voice: framed like a gloss. */
+  .layer--tafsir .layer__body {
+    border-block: 1px solid var(--hairline);
+    padding-block: var(--space-3);
+    font-size: 0.97em;
+  }
+
+  /* 3 · How it works — the measured voice: water accent, numbers stand out. */
+  .layer--science .layer__label {
+    color: var(--water);
+  }
+  .layer--science .layer__body {
+    border-top: 1px solid var(--water);
+    padding-top: var(--space-3);
+  }
+  .layer--science .layer__body :global(strong) {
+    font-family: var(--font-ui);
+    font-weight: 600;
+    font-size: 0.95em;
+  }
+
+  /* 4 · Reflection — the quiet voice: display face, centred, lamp. */
+  .layer--reflection {
+    text-align: center;
+    margin-block: var(--space-6);
+  }
+  .layer--reflection .layer__label {
+    justify-content: center;
+    color: var(--lamp);
+  }
+  .layer--reflection .layer__body {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: var(--step-1);
+    line-height: 1.55;
+    max-width: 32rem;
+    margin-inline: auto;
+    font-variation-settings: 'SOFT' 100;
+  }
+</style>

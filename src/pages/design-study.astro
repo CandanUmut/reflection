@@ -1,0 +1,348 @@
+---
+// Phase 0 design study (docs/BUILD_PROMPT.md). One page to judge the direction:
+// palettes, type pairings, a full Sign block, the Threshold, the divider and
+// the first visualization. Notes are in English; samples are in Turkish.
+import '@fontsource/eb-garamond/400.css';
+import '@fontsource/eb-garamond/400-italic.css';
+import '@fontsource-variable/source-serif-4/wght.css';
+import '@fontsource-variable/source-serif-4/wght-italic.css';
+import { getEntry } from 'astro:content';
+import Base from '../layouts/Base.astro';
+import SignBody from '../components/SignBody.astro';
+import Threshold from '../components/Threshold.astro';
+import Divider from '../components/Divider.astro';
+import HonestNote from '../components/HonestNote.astro';
+import { palettes } from '../styles/palettes.mjs';
+import { getVerse } from '../lib/quran';
+import { evidenceTag } from '../lib/md';
+
+const seed = await getEntry('signs', 'seed');
+if (!seed) throw new Error('S1 missing');
+const v695 = getVerse('6:95', 'tr');
+
+const lum = (hex: string) => {
+  const c = [1, 3, 5]
+    .map((i) => parseInt(hex.slice(i, i + 2), 16) / 255)
+    .map((x) => (x <= 0.03928 ? x / 12.92 : ((x + 0.055) / 1.055) ** 2.4));
+  return 0.2126 * c[0] + 0.7152 * c[1] + 0.0722 * c[2];
+};
+const ratio = (a: string, b: string) => {
+  const [x, y] = [lum(a), lum(b)].sort((m, n) => n - m);
+  return ((x + 0.05) / (y + 0.05)).toFixed(1);
+};
+const names = { fajr: 'Fajr · Fecir', day: 'Day · Gündüz', asr: 'ʿAṣr · İkindi', night: 'Night · Gece' } as const;
+const sampleCss = Object.entries(palettes)
+  .map(
+    ([n, p]) =>
+      `.palette-sample[data-p='${n}']{${Object.entries(p)
+        .map(([k, v]) => `--${k}:${v}`)
+        .join(';')}}`,
+  )
+  .join('\n');
+const pairings = [
+  {
+    id: 'A',
+    name: 'Fraunces · Literata · Inter',
+    display: "'Fraunces Variable', 'Literata Variable', serif",
+    text: "'Literata Variable', serif",
+    note: 'The brief’s first choice. Warm, slightly hand-made titles; Literata reads calmly on phones. Fraunces lacks ʿ and ʾ, so those two marks fall back to Literata inside titles — look at the transliteration line in the title row.',
+  },
+  {
+    id: 'B',
+    name: 'EB Garamond · Source Serif 4 · Inter',
+    display: "'EB Garamond', serif",
+    text: "'Source Serif 4 Variable', serif",
+    note: 'The brief’s fallbacks. Full glyph coverage in both faces. More classical and bookish; a little colder on screen, and Garamond is small for its size.',
+  },
+  {
+    id: 'C',
+    name: 'Literata alone · Inter',
+    display: "'Literata Variable', serif",
+    text: "'Literata Variable', serif",
+    note: 'One family for everything, with weight and size doing the work. The quietest option, and the fewest bytes. Loses some of the warmth in titles.',
+  },
+];
+---
+
+<Base lang="en" title="Design study" standalone description="Phase 0 design study for Tefekkür">
+  <style is:global set:html={sampleCss} />
+  <div class="wrap wrap--wide study">
+    <header class="study__head">
+      <p class="label">Phase 0 · Design study</p>
+      <h1>A quiet room where you are invited to look again</h1>
+      <p class="lede">
+        This page shows the proposed direction before anything else is built: the four palettes of the day, three type
+        pairings, one complete Sign (S1, the seed) with all four layers, the Threshold, the self-drawing divider and the
+        first visualization. Everything on it comes from the research documents and the Tanzil texts. Use the moon at
+        the top right to switch palettes.
+      </p>
+    </header>
+
+    <section class="study__section">
+      <h2>1 · Light and time: four palettes</h2>
+      <p class="note">
+        Day and Night start from the brief’s values. Fajr is paler and cooler (first light); ʿAṣr is warmer (low sun on
+        paper). To pass WCAG AA as text, the gold was darkened from <code>#A9823F</code> to <code>#77592A</code> on
+        light paper. The brighter gold survives as <code>--lamp-line</code>, used only for thin decorative lines.
+        Numbers are contrast ratios against the paper (4.5 is the AA minimum for text).
+      </p>
+      <div class="palettes">
+        {Object.entries(palettes).map(([n, p]) => (
+          <div class="palette-sample" data-p={n}>
+            <p class="palette-sample__name">{names[n as keyof typeof names]}</p>
+            <p class="palette-sample__text">
+              Ektiğinizi gördünüz mü? <span class="ink-soft">Have you seen that which you sow?</span>
+            </p>
+            <ul class="chips">
+              {(['ink', 'ink-soft', 'lamp', 'life', 'water', 'clay'] as const).map((k) => (
+                <li>
+                  <span class="chip" style={`background:${p[k]}`}></span>
+                  {k} <span class="ratio">{ratio(p[k], p.paper)}</span>
+                </li>
+              ))}
+            </ul>
+            <p class="palette-sample__tags">
+              <Fragment set:html={evidenceTag('Established', 'tr')} />{' '}
+              <Fragment set:html={evidenceTag('Debated', 'tr')} />
+            </p>
+            <div class="mini-note">
+              <span>Dürüst not</span> Âyet bir "öngörüde" bulunmaz.
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <section class="study__section">
+      <h2>2 · Typography: three pairings</h2>
+      <p class="note">
+        Glyph coverage was tested on the actual font files before choosing. All three serifs cover Turkish. Literata,
+        Source Serif 4 and EB Garamond cover the full transliteration set; <strong>Fraunces is missing ʿ and ʾ</strong>.
+        IBM Plex Sans (the brief’s first choice for labels) is <strong>missing every underdot letter</strong> (ḥ ṣ ḍ ṭ
+        ẓ), so labels use the brief’s fallback, Inter, which covers everything. Plex Mono stays for verse numbers only
+        (digits and a colon). Amiri Quran covers all 69 characters used in the Tanzil Uthmani text.
+      </p>
+      {pairings.map((p) => (
+        <article class="pairing" style={`--font-display:${p.display};--font-text:${p.text}`}>
+          <p class="label">
+            Pairing {p.id} · {p.name}
+          </p>
+          <h3 class="pairing__title">
+            Yarılan tane ve çekirdek · <span lang="ar-Latn">ʿalaqa, muḍgha</span>
+          </h3>
+          <p lang="en">{seed.data.reflection.en}</p>
+          <p lang="tr">
+            Gençlerin şüpheleri çoğunlukla "Allah var mı?" sorusundan değil, "Allah nasıl davranıyor?" sorusundan
+            doğuyor. Öne çıkan konular kötülük, kader, deizm, kadının konumu ve dinin öğretilme biçimi. Çığ, ğ, ı, İ, ö,
+            ş, ü.
+          </p>
+          <p class="translit" lang="ar-Latn">
+            a-fa-lā tatafakkarūn · ā ī ū ḥ ṣ ḍ ṭ ẓ ḏ ṯ ġ ʿ ʾ · {v695.translit}
+          </p>
+          <p class="pairing__ar" lang="ar" dir="rtl">
+            {v695.ar}
+          </p>
+          <p class="pairing__tr" lang="tr">
+            {v695.translation} <span class="ref">6:95</span>
+          </p>
+          <p class="note">{p.note}</p>
+        </article>
+      ))}
+    </section>
+
+    <section class="study__section">
+      <h2>3 · One complete Sign: S1, the seed</h2>
+      <p class="note">
+        The four voices are kept apart by position, type and accent: the verse (centre, largest), classical tafsir (a
+        framed gloss, in the left margin on wide screens), how it works (water accent, measured voice), and reflection
+        (centred, italic, lamp). The Honest Note sits in the right margin on wide screens and right after the science on
+        phones — never behind a click. Below the verse comes the Pause: the verse’s own question stands alone for one
+        breath. Rendered in Turkish (the default language).
+      </p>
+    </section>
+  </div>
+
+  <div lang="tr" class="study__sign">
+    <SignBody sign={seed.data} lang="tr" />
+  </div>
+
+  <div class="wrap wrap--wide study">
+    <section class="study__section">
+      <h2>4 · The Threshold (home), rough form</h2>
+      <p class="note">
+        Hover, focus or touch an arch: it fills slowly with light from below. The verse above changes daily; all 20 come
+        from the research’s index of reflection verses.
+      </p>
+    </section>
+  </div>
+  <div lang="tr">
+    <Threshold lang="tr" links={{ reflect: '#', live: '#', ask: '#' }} />
+  </div>
+
+  <div class="wrap wrap--wide study">
+    <section class="study__section">
+      <h2>5 · The self-drawing divider</h2>
+      <p class="note">
+        Each draws once, slowly, from one compass point when it comes into view. With reduced motion it is simply there.
+      </p>
+      <p class="note">
+        <strong>Recommended (used on the sign page): the eight-fold construction.</strong> A circle, four diameters,
+        then two squares that make the eight-pointed star — the same ۞ mark that appears inside the Quran text above
+        (before 6:95).
+      </p>
+      <Divider variant="octagon" />
+      <p class="note">
+        <strong>The brief’s literal construction:</strong> a circle → six circles → a hexagon through their centres → a
+        six-pointed star through their meeting points. It is classical Islamic geometry, but a gold hexagram is likely
+        to be read by many Turkish visitors as a political symbol rather than as geometry. Umut’s call.
+      </p>
+      <Divider variant="hexagon" />
+    </section>
+    <section class="study__section">
+      <h2>6 · Honest Note, on its own</h2>
+      <div class="measure">
+        <HonestNote lang="en">
+          <p>{seed.data.honestNotes[0].en}</p>
+        </HonestNote>
+        <div lang="tr">
+          <HonestNote lang="tr">
+            <p>{seed.data.honestNotes[0].tr}</p>
+          </HonestNote>
+        </div>
+      </div>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .study__head {
+    padding-top: var(--space-6);
+    max-width: 46rem;
+  }
+  .lede {
+    font-size: var(--step-1);
+    line-height: 1.55;
+    color: var(--ink-soft);
+  }
+  .study__section {
+    margin-top: var(--space-7);
+  }
+  .study__section > h2 {
+    border-bottom: var(--rule);
+    padding-bottom: var(--space-2);
+  }
+  .note {
+    font-family: var(--font-ui);
+    font-size: 0.9rem;
+    line-height: 1.6;
+    color: var(--ink-soft);
+    max-width: 46rem;
+  }
+  code {
+    font-family: var(--font-mono);
+    font-size: 0.85em;
+  }
+  .measure {
+    max-width: var(--measure);
+  }
+
+  .palettes {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(15rem, 1fr));
+    gap: var(--space-3);
+    margin-top: var(--space-4);
+  }
+  .palette-sample {
+    background: var(--paper);
+    color: var(--ink);
+    border: 1px solid var(--hairline-strong);
+    border-radius: var(--radius);
+    padding: var(--space-4);
+  }
+  .palette-sample__name {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    margin-bottom: var(--space-2);
+  }
+  .palette-sample__text {
+    font-size: 0.95rem;
+  }
+  .ink-soft {
+    color: var(--ink-soft);
+    display: block;
+    font-style: italic;
+  }
+  .chips {
+    list-style: none;
+    padding: 0;
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: var(--space-1) var(--space-3);
+  }
+  .chips li {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+  }
+  .chip {
+    width: 0.9rem;
+    height: 0.9rem;
+    border-radius: 50%;
+    border: 1px solid var(--hairline);
+    flex: none;
+  }
+  .ratio {
+    margin-left: auto;
+    font-family: var(--font-mono);
+    color: var(--ink-soft);
+  }
+  .mini-note {
+    border-left: 1px solid var(--clay);
+    padding-left: var(--space-2);
+    font-size: 0.85rem;
+    font-style: italic;
+  }
+  .mini-note span {
+    display: block;
+    font-family: var(--font-ui);
+    font-style: normal;
+    font-weight: 600;
+    font-size: 0.72rem;
+    color: var(--clay);
+  }
+
+  .pairing {
+    padding-block: var(--space-5);
+    border-bottom: var(--rule);
+    max-width: 46rem;
+  }
+  .pairing p {
+    font-family: var(--font-text);
+    max-width: var(--measure);
+  }
+  .pairing p.note,
+  .pairing p.label {
+    font-family: var(--font-ui);
+  }
+  .pairing__title {
+    font-family: var(--font-display);
+    font-size: var(--step-2);
+  }
+  .pairing__ar {
+    font-family: var(--font-arabic) !important;
+    font-size: var(--step-arabic);
+    line-height: 2.2;
+    text-align: right;
+  }
+  .pairing__tr {
+    font-family: var(--font-display) !important;
+    font-size: var(--step-1);
+    line-height: 1.45;
+  }
+  .study__sign {
+    margin-top: var(--space-4);
+    border-block: var(--rule);
+  }
+</style>

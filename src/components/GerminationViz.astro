@@ -1,0 +1,382 @@
+---
+// S1 visualization: a germination time-lapse with the ABA/GA "switch".
+// Explains one thing — how a dormant seed wakes — in five steps taken from the
+// research. Stage visuals are pure CSS transitions; the script only sets the
+// stage. Plays once when in view; pausable; step buttons; reduced motion =
+// no autoplay. The full text equivalent sits right below.
+import { t, type Locale } from '../i18n/ui';
+interface Props {
+  lang: Locale;
+  steps: string[];
+  title: string;
+}
+const { lang, steps, title } = Astro.props;
+const id = 'germ-' + Math.random().toString(36).slice(2, 7);
+---
+
+<figure class="viz" data-germination data-stage="0" aria-labelledby={`${id}-title`}>
+  <figcaption class="viz__title label" id={`${id}-title`}>
+    {title}
+  </figcaption>
+  <svg viewBox="0 0 320 260" role="img" aria-labelledby={`${id}-cap`} focusable="false">
+    <!-- soil -->
+    <rect class="soil" x="0" y="128" width="320" height="132" />
+    <line class="ground" x1="0" y1="128" x2="320" y2="128" />
+    <!-- ABA / GA switch -->
+    <g class="switch" transform="translate(16 18)">
+      <text class="switch__label" x="0" y="9">
+        ABA
+      </text>
+      <rect class="switch__track" x="34" y="2" width="72" height="8" rx="2" />
+      <rect class="switch__bar switch__bar--aba" x="34" y="2" width="72" height="8" rx="2" />
+      <text class="switch__label" x="0" y="29">
+        GA
+      </text>
+      <rect class="switch__track" x="34" y="22" width="72" height="8" rx="2" />
+      <rect class="switch__bar switch__bar--ga" x="34" y="22" width="72" height="8" rx="2" />
+    </g>
+    <!-- water moving toward the seed -->
+    <g class="water">
+      <circle cx="96" cy="176" r="2.6" style="--dx:38px; --dy:-14px" />
+      <circle cx="226" cy="186" r="2.6" style="--dx:-40px; --dy:-20px" />
+      <circle cx="120" cy="222" r="2.6" style="--dx:24px; --dy:-42px" />
+      <circle cx="206" cy="232" r="2.6" style="--dx:-28px; --dy:-48px" />
+      <circle cx="160" cy="246" r="2.6" style="--dx:0px; --dy:-56px" />
+    </g>
+    <!-- root, shoot, first leaves -->
+    <path class="radicle" d="M160 164 C 157 186, 166 206, 159 236" pathLength="1" />
+    <path class="rootlet" d="M161 196 C 170 202, 176 210, 184 214" pathLength="1" />
+    <path class="rootlet" d="M161 214 C 152 220, 146 226, 140 232" pathLength="1" />
+    <path class="shoot" d="M160 140 C 163 118, 155 98, 160 72" pathLength="1" />
+    <path class="leaf leaf--l" d="M160 74 C 146 62, 132 64, 126 70 C 138 78, 150 79, 160 74 Z" />
+    <path class="leaf leaf--r" d="M160 74 C 172 60, 188 60, 194 66 C 184 76, 170 79, 160 74 Z" />
+    <!-- the seed -->
+    <g class="seed">
+      <ellipse cx="160" cy="152" rx="27" ry="13" />
+      <path class="seed__groove" d="M136 152 H184" />
+      <g class="starch">
+        <rect x="145" y="145" width="4" height="4" />
+        <rect x="157" y="155" width="4" height="4" />
+        <rect x="170" y="146" width="4" height="4" />
+        <rect x="149" y="156" width="4" height="4" />
+      </g>
+      <g class="sugar">
+        <circle cx="147" cy="147" r="1.6" />
+        <circle cx="159" cy="157" r="1.6" />
+        <circle cx="172" cy="148" r="1.6" />
+        <circle cx="151" cy="158" r="1.6" />
+        <circle cx="165" cy="149" r="1.6" />
+        <circle cx="176" cy="156" r="1.6" />
+      </g>
+    </g>
+  </svg>
+  <p class="viz__caption" id={`${id}-cap`} aria-live="polite">
+    <span class="viz__step ref" data-step-num>
+      1 / {steps.length}
+    </span>
+    <span data-caption>{steps[0]}</span>
+  </p>
+  <div class="viz__controls">
+    <button class="btn" type="button" data-prev aria-label={t(lang, 'prev')}>
+      ←
+    </button>
+    <button class="btn" type="button" data-play aria-pressed="false">
+      {t(lang, 'play')}
+    </button>
+    <button class="btn" type="button" data-next aria-label={t(lang, 'next')}>
+      →
+    </button>
+  </div>
+  <details class="viz__text">
+    <summary>{t(lang, 'textVersion')}</summary>
+    <ol>
+      {steps.map((s) => (
+        <li>{s}</li>
+      ))}
+    </ol>
+  </details>
+  <script type="application/json" data-steps is:inline set:html={JSON.stringify(steps)} />
+  <script
+    type="application/json"
+    data-labels
+    is:inline
+    set:html={JSON.stringify({ play: t(lang, 'play'), pause: t(lang, 'pause') })}
+  />
+</figure>
+
+<style>
+  .viz {
+    margin: var(--space-5) 0;
+    padding: var(--space-4) 0;
+    border-block: 1px solid var(--hairline);
+  }
+  .viz__title {
+    margin-bottom: var(--space-3);
+  }
+  svg {
+    display: block;
+    width: 100%;
+    max-width: 26rem;
+    height: auto;
+    margin-inline: auto;
+  }
+  .soil {
+    fill: var(--paper-deep);
+  }
+  .ground {
+    stroke: var(--hairline-strong);
+    stroke-width: 1;
+  }
+  .switch__label {
+    font: 500 10px var(--font-ui);
+    fill: var(--ink-soft);
+    letter-spacing: 0.04em;
+  }
+  .switch__track {
+    fill: none;
+    stroke: var(--hairline-strong);
+    stroke-width: 0.75;
+  }
+  .switch__bar {
+    fill: var(--ink-soft);
+    transform-box: fill-box;
+    transform-origin: left;
+    transition: transform 2.4s var(--ease-breath);
+  }
+  .switch__bar--ga {
+    fill: var(--life);
+    transform: scaleX(0.04);
+  }
+  .seed ellipse {
+    fill: var(--paper);
+    stroke: var(--ink-soft);
+    stroke-width: 1.2;
+  }
+  .seed {
+    transform-box: fill-box;
+    transform-origin: center;
+    transition: transform 3s var(--ease-breath);
+  }
+  .seed__groove {
+    stroke: var(--hairline-strong);
+    stroke-width: 1;
+  }
+  .starch rect {
+    fill: var(--ink-soft);
+    opacity: 0.55;
+    transition: opacity 2.4s var(--ease-breath);
+  }
+  .sugar circle {
+    fill: var(--lamp-line);
+    opacity: 0;
+    transition: opacity 2.4s var(--ease-breath);
+  }
+  .water circle {
+    fill: var(--water);
+    opacity: 0;
+    transition:
+      transform 3s var(--ease-breath),
+      opacity 3s var(--ease-breath);
+  }
+  .radicle,
+  .rootlet,
+  .shoot {
+    fill: none;
+    stroke-linecap: round;
+    stroke-dasharray: 1;
+    stroke-dashoffset: 1;
+    opacity: 0;
+    transition:
+      stroke-dashoffset 3s var(--ease-breath),
+      opacity 0.4s;
+  }
+  .radicle {
+    stroke: var(--ink-soft);
+    stroke-width: 2;
+  }
+  .rootlet {
+    stroke: var(--ink-soft);
+    stroke-width: 1;
+    transition-delay: 1.4s;
+  }
+  .shoot {
+    stroke: var(--life);
+    stroke-width: 2.2;
+  }
+  .leaf {
+    fill: var(--life);
+    opacity: 0;
+    transform-box: fill-box;
+    transform-origin: bottom center;
+    transform: scale(0.2);
+    transition:
+      opacity 2s var(--ease-breath) 1.6s,
+      transform 2.4s var(--ease-breath) 1.6s;
+  }
+  .leaf--l {
+    transform-origin: right bottom;
+  }
+  .leaf--r {
+    transform-origin: left bottom;
+  }
+
+  /* Stage 1 · water */
+  [data-stage='1'] .water circle,
+  [data-stage='2'] .water circle {
+    opacity: 0.85;
+  }
+  [data-stage]:not([data-stage='0']) .water circle {
+    transform: translate(var(--dx), var(--dy));
+  }
+  [data-stage='3'] .water circle,
+  [data-stage='4'] .water circle {
+    opacity: 0;
+  }
+  [data-stage]:not([data-stage='0']) .seed {
+    transform: scale(1.08);
+  }
+  [data-stage='1'] .switch__bar--aba {
+    transform: scaleX(0.5);
+  }
+  [data-stage='1'] .switch__bar--ga {
+    transform: scaleX(0.5);
+  }
+  /* Stage 2+ · the switch flips, starch becomes sugar */
+  [data-stage='2'] .switch__bar--aba,
+  [data-stage='3'] .switch__bar--aba,
+  [data-stage='4'] .switch__bar--aba {
+    transform: scaleX(0.08);
+  }
+  [data-stage='2'] .switch__bar--ga,
+  [data-stage='3'] .switch__bar--ga,
+  [data-stage='4'] .switch__bar--ga {
+    transform: scaleX(1);
+  }
+  [data-stage='2'] .starch rect,
+  [data-stage='3'] .starch rect,
+  [data-stage='4'] .starch rect {
+    opacity: 0;
+  }
+  [data-stage='2'] .sugar circle,
+  [data-stage='3'] .sugar circle,
+  [data-stage='4'] .sugar circle {
+    opacity: 1;
+  }
+  /* Stage 3 · root goes down */
+  [data-stage='3'] .radicle,
+  [data-stage='4'] .radicle,
+  [data-stage='3'] .rootlet,
+  [data-stage='4'] .rootlet {
+    stroke-dashoffset: 0;
+    opacity: 1;
+  }
+  /* Stage 4 · shoot rises */
+  [data-stage='4'] .shoot {
+    stroke-dashoffset: 0;
+    opacity: 1;
+  }
+  [data-stage='4'] .leaf {
+    opacity: 1;
+    transform: scale(1);
+  }
+
+  .viz__caption {
+    display: flex;
+    gap: var(--space-3);
+    align-items: baseline;
+    justify-content: center;
+    min-height: 3.4em;
+    margin: var(--space-3) auto 0;
+    max-width: 30rem;
+    text-align: left;
+  }
+  .viz__step {
+    flex: none;
+  }
+  .viz__controls {
+    display: flex;
+    justify-content: center;
+    gap: var(--space-2);
+    margin-top: var(--space-2);
+  }
+  .viz__controls .btn {
+    min-width: 2.75rem;
+    justify-content: center;
+  }
+  .viz__text {
+    margin: var(--space-3) auto 0;
+    max-width: 30rem;
+    font-size: 0.95em;
+  }
+  .viz__text summary {
+    font-family: var(--font-ui);
+    font-size: var(--step--1);
+    color: var(--ink-soft);
+    cursor: pointer;
+    min-height: 2.75rem;
+    display: flex;
+    align-items: center;
+  }
+  .viz__text ol {
+    margin-top: var(--space-2);
+  }
+</style>
+
+<script>
+  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  const STEP_MS = 3400;
+  for (const fig of document.querySelectorAll<HTMLElement>('[data-germination]')) {
+    const steps: string[] = JSON.parse(fig.querySelector('[data-steps]')!.textContent!);
+    const labels = JSON.parse(fig.querySelector('[data-labels]')!.textContent!);
+    const play = fig.querySelector<HTMLButtonElement>('[data-play]')!;
+    const caption = fig.querySelector('[data-caption]')!;
+    const num = fig.querySelector('[data-step-num]')!;
+    let stage = 0;
+    let timer = 0;
+
+    const show = (s: number) => {
+      stage = Math.max(0, Math.min(steps.length - 1, s));
+      fig.dataset.stage = String(stage);
+      caption.textContent = steps[stage];
+      num.textContent = `${stage + 1} / ${steps.length}`;
+    };
+    const stop = () => {
+      clearInterval(timer);
+      timer = 0;
+      play.setAttribute('aria-pressed', 'false');
+      play.textContent = labels.play;
+    };
+    const start = () => {
+      if (stage >= steps.length - 1) show(0);
+      play.setAttribute('aria-pressed', 'true');
+      play.textContent = labels.pause;
+      timer = window.setInterval(() => {
+        if (stage >= steps.length - 1) stop();
+        else show(stage + 1);
+      }, STEP_MS);
+    };
+    play.addEventListener('click', () => (timer ? stop() : start()));
+    fig.querySelector('[data-next]')!.addEventListener('click', () => {
+      stop();
+      show(stage + 1);
+    });
+    fig.querySelector('[data-prev]')!.addEventListener('click', () => {
+      stop();
+      show(stage - 1);
+    });
+
+    // Play once, gently, the first time it is mostly in view.
+    if (!reduce) {
+      const io = new IntersectionObserver(
+        ([e]) => {
+          if (e.isIntersecting) {
+            io.disconnect();
+            start();
+          }
+        },
+        { threshold: 0.7 },
+      );
+      io.observe(fig.querySelector('svg')!);
+    }
+  }
+</script>

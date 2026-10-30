@@ -1,0 +1,108 @@
+---
+// The Pause (DESIGN.md §4.4). The verse's own question stands alone; what
+// follows waits one breath (≈1.5 s) once the question is in view, or until the
+// reader scrolls on or presses "Continue". Without JavaScript, or with reduced
+// motion, nothing waits. Content is never hidden from assistive technology.
+import { getVerse, refLabel } from '../lib/quran';
+import { t, type Locale } from '../i18n/ui';
+interface Props {
+  ref: string;
+  lang: Locale;
+}
+const { ref, lang } = Astro.props;
+const verse = getVerse(ref, lang);
+---
+
+<section class="pause" data-pause aria-label={t(lang, 'pauseLabel')}>
+  <p class="pause__question">{verse.translation}</p>
+  <p class="pause__ref ref">{refLabel(ref)}</p>
+  <button class="pause__skip btn" type="button">
+    {t(lang, 'pauseSkip')}
+  </button>
+</section>
+
+<style>
+  .pause {
+    min-height: 55vh;
+    display: grid;
+    place-content: center;
+    justify-items: center;
+    gap: var(--space-3);
+    text-align: center;
+    padding-block: var(--space-6);
+  }
+  .pause__question {
+    font-family: var(--font-display);
+    font-size: var(--step-2);
+    font-style: italic;
+    line-height: 1.35;
+    max-width: 26rem;
+    margin: 0;
+    font-variation-settings: 'SOFT' 100;
+  }
+  .pause__ref {
+    margin: 0;
+  }
+  .pause__skip {
+    visibility: hidden;
+  }
+  :global(.js) .pause__skip {
+    visibility: visible;
+  }
+  .pause[data-state='released'] .pause__skip {
+    visibility: hidden;
+  }
+  :global([data-after-pause]) {
+    transition: opacity var(--dur-slow) var(--ease-breath);
+  }
+  :global([data-after-pause][data-waiting]) {
+    opacity: 0.18;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .pause__skip {
+      display: none;
+    }
+    :global([data-after-pause][data-waiting]) {
+      opacity: 1;
+    }
+  }
+</style>
+
+<script>
+  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  for (const pause of document.querySelectorAll<HTMLElement>('[data-pause]')) {
+    const after = pause.nextElementSibling as HTMLElement | null;
+    if (!after || !after.hasAttribute('data-after-pause') || reduce) continue;
+    after.setAttribute('data-waiting', '');
+    let timer = 0;
+    const release = () => {
+      clearTimeout(timer);
+      after.removeAttribute('data-waiting');
+      pause.dataset.state = 'released';
+      io.disconnect();
+      removeEventListener('scroll', onScroll);
+    };
+    // Scrolling on (half a screen past the question) is also a way of saying "continue".
+    let start: number | null = null;
+    const onScroll = () => {
+      if (start !== null && Math.abs(scrollY - start) > innerHeight * 0.5) release();
+    };
+    const io = new IntersectionObserver(
+      ([entry]) => {
+        if (entry.isIntersecting) {
+          start ??= scrollY;
+          timer = window.setTimeout(release, 1500);
+        } else clearTimeout(timer);
+      },
+      { threshold: 0.6 },
+    );
+    io.observe(pause);
+    addEventListener('scroll', onScroll, { passive: true });
+    pause.querySelector('button')!.addEventListener('click', () => {
+      release();
+      after.focus({ preventScroll: true });
+      after.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    after.tabIndex = -1;
+  }
+</script>

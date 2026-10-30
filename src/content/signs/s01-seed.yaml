@@ -1,0 +1,88 @@
+# Source: docs/research/01-batch-1.md, Phase 3b, S1.
+id: S1
+slug: seed
+order: 1
+theme: plants
+verses: ["6:95", "56:63-64"]
+pause:
+  ref: "56:63"
+title:
+  tr: Yarılan tane ve çekirdek
+  en: The seed and the date stone split open
+summary:
+  tr: Ölü gibi duran bir çekirdek suyla buluşunca uyanır. İki bin yıl bekleyen bir hurma çekirdeği bile.
+  en: A seed that looks dead wakes when it meets water. Even a date stone that waited two thousand years.
+tafsir:
+  tr: |
+    Râzî ve Kurtubî, ölü gibi görünen şeyden canlının çıkışını vurgular. İbn Kesîr ise insanın muhtaçlığını öne çıkarır. [Scholarly]
+  en: |
+    Al-Rāzī and al-Qurṭubī stress the living emerging from what seems dead. Ibn Kathīr stresses human dependence. [Scholarly]
+howItWorks:
+  tr: |
+    [Established]
+
+    - **Uyku hâli.** Absisik asit (ABA) adlı bitki hormonu tohumu uykuda tutar.
+    - **Uyanış.** Tohum su alınca gibberellin (GA) sinyali başlar. Amilaz enzimleri depolanmış nişastayı şekere çevirir.
+    - **Kök.** Önce kökçük (embriyonik kök) çıkar ve yer çekimine göre aşağı doğru büyür (gravitropizma).
+    - **Filiz.** Ardından sürgün yukarı yükselir.
+  en: |
+    [Established]
+
+    - **Dormancy.** A plant hormone, abscisic acid (ABA), keeps the seed dormant.
+    - **Waking.** Taking up water triggers gibberellin (GA) signalling. Amylase enzymes turn stored starch into sugar.
+    - **Root.** The radicle (the embryonic root) comes out first and grows downward, following gravity (gravitropism).
+    - **Shoot.** Then the shoot rises.
+awe:
+  tr: |
+    - Masada'da bulunan bir hurma çekirdeği 2005'te filizlendi (Sallon, Solowey ve ark., *Science* 320:1464, 2008). Zürih Üniversitesi çekirdeği **1.990 ± 50 yıl** öncesine tarihlendirdi; 2020'deki devam makalesi ondan "1.900 yıllık tohum" diye söz eder. Fidana "Methuselah" adı verildi.
+    - 2020'de altı antik çekirdek daha filizlendirildi (*Science Advances*).
+    - Lut Gölü (Ölü Deniz) çevresinin kuruluğu, serbest radikallerin verdiği hasarı sınırladı.
+    - İkincil kaynaklara göre "Hannah" adlı dişi bir hurma ağacı daha sonra meyve verdi.
+  en: |
+    - A date seed found at Masada sprouted in 2005 (Sallon, Solowey et al., *Science* 320:1464, 2008). The University of Zurich dated it to **1,990 ± 50 years**; the 2020 follow-up paper calls it a 1,900-year-old seed. The palm was named "Methuselah".
+    - Six more ancient seeds were germinated in 2020 (*Science Advances*).
+    - The dryness of the Dead Sea region limited damage from free radicals.
+    - Secondary sources report that a female palm, "Hannah", later bore dates.
+reflection:
+  tr: |
+    İki bin yıl bekleyen ve yine de suya cevap veren bir çekirdek, 6:95'in resmidir. Kur'an'ın diriliş benzetmesini de hatırlatır: ölü toprağı yağmurla dirilten, ölüleri de diriltir (41:39).
+  en: |
+    A stone that waits two thousand years and still answers to water is a picture of 6:95. It also recalls the Quran's analogy for resurrection: the One who revives dead earth with rain will revive the dead (41:39).
+reflectionVerses: ["41:39"]
+honestNotes:
+  - tr: Âyet tohumun uyku hâli hakkında bir "öngörüde" bulunmaz. Çekirdeğin yaşı da yaklaşık bir tarihlendirmedir.
+    en: The verse makes no "prediction" about seed dormancy. The seed's age is also an approximate dating.
+visualizations:
+  - id: germination
+    tr: Filizlenme zaman atlaması — ABA/GA "anahtarı" ile
+    en: Germination time-lapse — with the ABA/GA "switch"
+    steps:
+      tr:
+        - "Uyku hâli: absisik asit (ABA) tohumu uykuda tutar."
+        - "Su: tohum su alınca gibberellin (GA) sinyali başlar."
+        - "Anahtar döner: amilaz enzimleri depolanmış nişastayı şekere çevirir."
+        - "Kök: kökçük çıkar ve yer çekimine göre aşağı doğru büyür."
+        - "Filiz: ardından sürgün yukarı yükselir."
+      en:
+        - "Dormant: abscisic acid (ABA) keeps the seed asleep."
+        - "Water: taking up water triggers gibberellin (GA) signalling."
+        - "The switch turns: amylase enzymes turn stored starch into sugar."
+        - "Root: the radicle comes out and grows downward, following gravity."
+        - "Shoot: then the shoot rises."
+  - id: timeline-2000
+    tr: 2.000 yıllık zaman çizelgesi
+    en: A 2,000-year timeline
+sources:
+  - label: Sallon, Solowey et al., "Germination, Genetics, and Growth of an Ancient Date Seed," Science 320:1464 (2008)
+    url: https://doi.org/10.1126/science.1153600
+  - label:
+      tr: 2020'de filizlendirilen antik hurma çekirdekleri, Science Advances (tam metin PMC'de)
+      en: Ancient date seeds germinated in 2020, Science Advances (full text on PMC)
+    url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7002127
+  - label:
+      tr: National Geographic — 2.000 yıllık "anka" tohumu
+      en: National Geographic — the 2,000-year-old "phoenix" seed
+    url: https://www.nationalgeographic.com/science/article/2000-year-old-phoenix-seed-rises-from-the-ashes
+  - label:
+      tr: Râzî, Kurtubî ve İbn Kesîr'in 6:95 ve 56:63–64 tefsirleri
+      en: Al-Rāzī, al-Qurṭubī and Ibn Kathīr on 6:95 and 56:63–64

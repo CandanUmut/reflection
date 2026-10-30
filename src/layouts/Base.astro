@@ -1,0 +1,151 @@
+---
+import '@fontsource-variable/literata/wght.css';
+import '@fontsource-variable/literata/wght-italic.css';
+import '@fontsource-variable/fraunces/soft.css';
+import '@fontsource-variable/fraunces/soft-italic.css';
+import '@fontsource-variable/inter/wght.css';
+import '@fontsource/ibm-plex-mono/400.css';
+import '@fontsource/amiri-quran/400.css';
+import '../styles/global.css';
+import { palettes } from '../styles/palettes.mjs';
+import { paletteScript } from '../lib/palette-script';
+import { t, otherLocale, type Locale } from '../i18n/ui';
+import { localeUrl, url } from '../lib/paths';
+import PaletteControl from '../components/PaletteControl.astro';
+
+interface Props {
+  lang: Locale;
+  title: string;
+  description?: string;
+  /** Path of this page inside a locale (e.g. "signs/seed/"), for the language switch. */
+  path?: string;
+  /** Pages outside the locale tree (the design study) hide the language switch. */
+  standalone?: boolean;
+}
+const { lang, title, description, path = '', standalone = false } = Astro.props;
+const other = otherLocale(lang);
+const fullTitle = title === t(lang, 'siteName') ? title : `${title} · ${t(lang, 'siteName')}`;
+
+// One source of truth for colors: palettes.mjs → CSS custom properties.
+const vars = (p: Record<string, string>) =>
+  Object.entries(p)
+    .map(([k, v]) => `--${k}:${v}`)
+    .join(';');
+const paletteCss = [
+  `:root{${vars(palettes.day)}}`,
+  `@media (prefers-color-scheme: dark){:root:not([data-palette]){${vars(palettes.night)}}}`,
+  ...Object.entries(palettes).map(([name, p]) => `:root[data-palette='${name}']{${vars(p)}}`),
+].join('\n');
+---
+
+<!doctype html>
+<html lang={lang} dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{fullTitle}</title>
+    {description && <meta name="description" content={description} />}
+    <link rel="icon" href={url('favicon.svg')} type="image/svg+xml" />
+    {!standalone && <link rel="alternate" hreflang={other} href={localeUrl(other, path)} />}
+    <script is:inline set:html={paletteScript} />
+    <style is:global set:html={paletteCss} />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">
+      {t(lang, 'skip')}
+    </a>
+    <header class="site-header">
+      <div class="wrap wrap--wide site-header__inner">
+        <a class="site-name" href={standalone ? url('') : localeUrl(lang)}>
+          <span>{t(lang, 'siteName')}</span>
+          <span class="site-subtitle">{t(lang, 'siteSubtitle')}</span>
+        </a>
+        <div class="site-tools">
+          <slot name="nav" />
+          {!standalone && (
+            <a
+              class="lang-switch"
+              href={localeUrl(other, path)}
+              hreflang={other}
+              lang={other}
+              aria-label={t(lang, 'langSwitchLabel')}
+            >
+              {t(lang, 'langSwitch')}
+            </a>
+          )}
+          <PaletteControl lang={lang} />
+        </div>
+      </div>
+    </header>
+    <main id="main" tabindex="-1">
+      <slot />
+    </main>
+    <footer class="site-footer">
+      <div class="wrap wrap--wide">
+        <p>{t(lang, 'footerTanzil')}</p>
+      </div>
+    </footer>
+  </body>
+</html>
+
+<style>
+  .site-header {
+    border-bottom: var(--rule);
+  }
+  .site-header__inner {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-3);
+    min-height: 4rem;
+  }
+  .site-name {
+    display: flex;
+    align-items: baseline;
+    gap: var(--space-2);
+    flex-wrap: wrap;
+    text-decoration: none;
+    font-family: var(--font-display);
+    font-size: 1.25rem;
+  }
+  .site-subtitle {
+    font-family: var(--font-text);
+    font-style: italic;
+    font-size: 0.85rem;
+    color: var(--ink-soft);
+  }
+  @media (max-width: 30rem) {
+    .site-subtitle {
+      display: none;
+    }
+  }
+  .site-tools {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+  }
+  .lang-switch {
+    font-family: var(--font-ui);
+    font-size: var(--step--1);
+    padding: var(--space-2);
+    text-decoration: none;
+    color: var(--ink-soft);
+    min-height: 2.75rem;
+    display: inline-flex;
+    align-items: center;
+  }
+  .lang-switch:hover {
+    color: var(--ink);
+  }
+  main:focus {
+    outline: none;
+  }
+  .site-footer {
+    margin-top: var(--space-7);
+    padding-block: var(--space-5);
+    border-top: var(--rule);
+    font-family: var(--font-ui);
+    font-size: 0.8rem;
+    color: var(--ink-soft);
+  }
+</style>

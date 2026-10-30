@@ -1,0 +1,130 @@
+---
+// A self-drawing geometric divider (DESIGN.md §3.4). Everything unfolds from
+// one compass point. Two constructions:
+//  - "octagon" (default): a circle, four diameters, then two squares that make
+//    the eight-pointed star — the ۞ mark found in the Quran text itself.
+//  - "hexagon": the brief's literal construction (circle → six circles →
+//    hexagon → six-pointed star). Kept for comparison in the design study:
+//    many Turkish readers would read a gold hexagram as a political symbol.
+// Drawn once when it scrolls into view; shown complete with reduced motion.
+interface Props {
+  variant?: 'octagon' | 'hexagon';
+}
+const { variant = 'octagon' } = Astro.props;
+---
+
+<div class="divider" data-divider aria-hidden="true">
+  <svg viewBox="0 0 200 100" width="200" height="100" focusable="false">
+    <path class="g g--rule" style="--d:5.4s;--len:54.0" d="M0 50 H54" />
+    <path class="g g--rule" style="--d:5.4s;--len:54.0" d="M200 50 H146" />
+    <circle class="dot" cx="100" cy="50" r="1.3" />
+    {variant === 'octagon' ? (
+      <>
+        <circle class="g g--build" style="--d:0.4s;--len:226.2" cx="100" cy="50" r="36" />
+        <path class="g g--build" style="--d:1.5s;--len:72.0" d="M64.00 50.00 L136.00 50.00" />
+        <path class="g g--build" style="--d:1.8s;--len:72.0" d="M100.00 14.00 L100.00 86.00" />
+        <path class="g g--build" style="--d:2.1s;--len:72.0" d="M74.54 24.54 L125.46 75.46" />
+        <path class="g g--build" style="--d:2.4s;--len:72.0" d="M125.46 24.54 L74.54 75.46" />
+        <path
+          class="g g--final"
+          style="--d:3.2s;--len:203.6"
+          d="M136.00 50.00 L100.00 86.00 L64.00 50.00 L100.00 14.00Z"
+        />
+        <path
+          class="g g--final"
+          style="--d:4.0s;--len:203.7"
+          d="M125.46 75.46 L74.54 75.46 L74.54 24.54 L125.46 24.54Z"
+        />
+        <circle class="g g--final" style="--d:4.8s;--len:95.0" cx="100" cy="50" r="15.12" />
+      </>
+    ) : (
+      <>
+        <circle class="g g--build" style="--d:0.4s;--len:125.7" cx="100" cy="50" r="20" />
+        <circle class="g g--build" style="--d:1.5s;--len:125.7" cx="120.00" cy="50.00" r="20" />
+        <circle class="g g--build" style="--d:1.8s;--len:125.7" cx="110.00" cy="67.32" r="20" />
+        <circle class="g g--build" style="--d:2.1s;--len:125.7" cx="90.00" cy="67.32" r="20" />
+        <circle class="g g--build" style="--d:2.4s;--len:125.7" cx="80.00" cy="50.00" r="20" />
+        <circle class="g g--build" style="--d:2.7s;--len:125.7" cx="90.00" cy="32.68" r="20" />
+        <circle class="g g--build" style="--d:3.0s;--len:125.7" cx="110.00" cy="32.68" r="20" />
+        <path
+          class="g g--final"
+          style="--d:3.6s;--len:120.0"
+          d="M120.00 50.00 L110.00 67.32 L90.00 67.32 L80.00 50.00 L90.00 32.68 L110.00 32.68Z"
+        />
+        <path class="g g--final" style="--d:4.5s;--len:180.0" d="M130.00 67.32 L70.00 67.32 L100.00 15.36Z" />
+        <path class="g g--final" style="--d:4.9s;--len:180.0" d="M100.00 84.64 L70.00 32.68 L130.00 32.68Z" />
+      </>
+    )}
+  </svg>
+</div>
+
+<style>
+  .divider {
+    display: flex;
+    justify-content: center;
+    margin-block: var(--space-6);
+  }
+  svg {
+    width: min(15rem, 70vw);
+    height: auto;
+    overflow: visible;
+  }
+  .g {
+    fill: none;
+    stroke-width: 0.6;
+    stroke-dasharray: var(--len) var(--len);
+    stroke-dashoffset: 0;
+  }
+  .g--build {
+    stroke: var(--hairline-strong);
+    stroke-width: 0.45;
+    opacity: 0.8;
+  }
+  .g--final {
+    stroke: var(--lamp-line);
+    stroke-width: 0.85;
+  }
+  .g--rule {
+    stroke: var(--hairline-strong);
+    stroke-width: 0.6;
+  }
+  .dot {
+    fill: var(--lamp);
+  }
+
+  /* With JavaScript, start undrawn and draw on view. */
+  :global(.js) .divider:not(.is-drawn) .g {
+    stroke-dashoffset: var(--len);
+  }
+  :global(.js) .divider:not(.is-drawn) .dot {
+    opacity: 0;
+  }
+  .divider.is-drawn .g {
+    transition: stroke-dashoffset 1.3s var(--ease-breath) var(--d);
+  }
+  .divider.is-drawn .dot {
+    transition: opacity 0.6s var(--ease-breath);
+  }
+  @media (prefers-reduced-motion: reduce) {
+    :global(.js) .divider:not(.is-drawn) .g {
+      stroke-dashoffset: 0;
+    }
+    :global(.js) .divider:not(.is-drawn) .dot {
+      opacity: 1;
+    }
+  }
+</style>
+
+<script>
+  const io = new IntersectionObserver(
+    (entries) => {
+      for (const e of entries)
+        if (e.isIntersecting) {
+          e.target.classList.add('is-drawn');
+          io.unobserve(e.target);
+        }
+    },
+    { threshold: 0.8 },
+  );
+  document.querySelectorAll('[data-divider]').forEach((el) => io.observe(el));
+</script>
