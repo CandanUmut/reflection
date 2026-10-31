@@ -27,16 +27,16 @@ howItWorks:
 
     - **Uyku hâli.** Absisik asit (ABA) adlı bitki hormonu tohumu uykuda tutar.
     - **Uyanış.** Tohum su alınca gibberellin (GA) sinyali başlar. Buğday gibi bir tahıl tanesinde amilaz enzimleri depolanmış nişastayı şekere çevirir.
-    - **Hurma çekirdeği farklıdır.** Besini çoğunlukla galaktomannandır: endosperm hücrelerinin çok sert duvarlarına örülmüş bir şeker zinciri. Çekirdeği bu kadar sert yapan da odur. Kök çıktıktan sonra endo-β-mannanaz enzimi bu duvarları parçalamaya başlar (Gong ve ark., 2005).
     - **Kök.** Önce kökçük (embriyonik kök) çıkar ve yer çekimine göre aşağı doğru büyür (gravitropizma).
+    - **Hurma çekirdeği farklıdır.** Başlıca depo karbonhidratı mannandır (galaktomannan); endosperm hücrelerinin çok sert duvarlarına örülmüştür. Çekirdeği bu kadar sert yapan da odur. Endo-β-mannanaz enzimi ancak kök çıktıktan sonra artar ve bu duvarları parçalamaya başlar (Gong ve ark., 2005).
     - **Filiz.** Ardından sürgün yukarı yükselir.
   en: |
     [Established]
 
     - **Dormancy.** A plant hormone, abscisic acid (ABA), keeps the seed dormant.
     - **Waking.** Taking up water triggers gibberellin (GA) signalling. In a cereal grain such as wheat, amylase enzymes turn stored starch into sugar.
-    - **A date stone is different.** Its food is mostly galactomannan, a sugar chain built into the very hard walls of its endosperm cells; that is what makes the stone so hard. After the root has come out, the enzyme endo-β-mannanase starts to break these walls down (Gong et al., 2005).
     - **Root.** The radicle (the embryonic root) comes out first and grows downward, following gravity (gravitropism).
+    - **A date stone is different.** Its main stored carbohydrate is mannan (galactomannan), laid down in the very hard walls of its endosperm cells; that is what makes the stone so hard. Only after the root has come out does the enzyme endo-β-mannanase rise and start to break these walls down (Gong et al., 2005).
     - **Shoot.** Then the shoot rises.
 awe:
   tr: |
@@ -66,15 +66,15 @@ visualizations:
       tr:
         - "Uyku hâli: absisik asit (ABA) tohumu uykuda tutar."
         - "Su: tohum su alınca gibberellin (GA) sinyali başlar."
-        - "Anahtar döner: enzimler depolanmış besini şekere çevirmeye başlar."
+        - "Anahtar döner: tohum beklemeyi bırakır ve büyümeye yönelir."
         - "Kök: kökçük çıkar ve yer çekimine göre aşağı doğru büyür."
-        - "Filiz: ardından sürgün yukarı yükselir."
+        - "Filiz: enzimler depolanmış besini çözmeye başlar ve sürgün yukarı yükselir."
       en:
         - "Dormant: abscisic acid (ABA) keeps the seed asleep."
         - "Water: taking up water triggers gibberellin (GA) signalling."
-        - "The switch turns: enzymes start turning the stored food into sugar."
+        - "The switch turns: the seed stops waiting and commits to growing."
         - "Root: the radicle comes out and grows downward, following gravity."
-        - "Shoot: then the shoot rises."
+        - "Shoot: enzymes start breaking down the stored food, and the shoot rises."
   - id: timeline-2000
     tr: 2.000 yıllık zaman çizelgesi
     en: A 2,000-year timeline

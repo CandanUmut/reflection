@@ -238,14 +238,14 @@ a:hover {
   max-width: 72rem;
 }
 
-/* Evidence tags: small, calm, never shouting. */
+/* Hadith references. */
 .hadith {
   white-space: normal;
 }
 .hadith__ref {
   font-variant-numeric: tabular-nums;
 }
-/* A hadith's grade, as the scholars named in it gave it (src/data/hadith.json).
+/* A hadith's grade, as the scholars named in the data gave it (src/data/hadith.json).
    Sound grades are quiet; a weak grade is marked with a dashed border, so it
    is never mistaken for a sound one. */
 .grade {
@@ -273,7 +273,12 @@ a:hover {
   border-style: dashed;
   color: var(--lamp);
 }
+/* A Companion's or Successor's saying: not the Prophet's words. */
+.grade--athar {
+  border-style: dotted;
+}
 
+/* Evidence tags: small, calm, never shouting. */
 .tag {
   display: inline-block;
   font-family: var(--font-ui);

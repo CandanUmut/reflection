@@ -6,6 +6,10 @@
 import { readFileSync, readdirSync, existsSync } from 'node:fs';
 
 const arg = process.argv[2];
+if (!arg) {
+  console.error('Usage: node scripts/page-text.mjs <path> | --list ask|live|reflect');
+  process.exit(1);
+}
 if (arg === '--list') {
   const dir = `dist/en/${process.argv[3]}`;
   for (const d of readdirSync(dir, { withFileTypes: true }))

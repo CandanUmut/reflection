@@ -1,1 +1,64 @@
-{}
+{
+ "source": "fawazahmed0/hadith-api@1 (cdn.jsdelivr.net)",
+ "hadith": {
+  "ibnmajah:224": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Very Daif",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Very Daif",
+     "by": "Muhammad Fouad Abd al-Baqi"
+    },
+    {
+     "grade": "Very Daif",
+     "by": "Shuaib Al Arnaut"
+    },
+    {
+     "grade": "Daif",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
+  "ibnmajah:425": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Daif",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Daif",
+     "by": "Muhammad Fouad Abd al-Baqi"
+    },
+    {
+     "grade": "Daif",
+     "by": "Shuaib Al Arnaut"
+    },
+    {
+     "grade": "Daif",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
+  "tirmidhi:1209": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Daif",
+     "by": "Ahmad Muhammad Shakir"
+    },
+    {
+     "grade": "Daif",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Hasan",
+     "by": "Bashar Awad Maarouf"
+    }
+   ]
+  }
+ }
+}

@@ -18,7 +18,7 @@ layers:
   6: |
     Ergenlikte evlilik, geç Antikçağda ve Orta Çağ Avrupa'sında yaygındı. Türk Medeni Kanunu'nun 124. maddesi asgari yaşı 17 (mahkeme izniyle 16) olarak belirler. Erken evliliğin tıbbi riskleri, onu yasaklamak için bir *makâsıd* gerekçesi verir.
   7: |
-    Bu rivayet karşısındaki ahlâkî sarsılma *yerindedir* ve kabul edilmelidir. Konu kişisel bir travmaya dokunuyorsa, nazikçe destek hizmetleri önerilmelidir.
+    Bu rivayet karşısındaki ahlâkî sarsılma *yerindedir* ve burada kabul ediliyor. Konu senin bir travmana dokunuyorsa, bu sayfadaki destek yardımcı olabilir.
 honest: |
   Âişe'nin tam yaşı bilinemez. Rivayet klasik ölçütlere göre güçlüdür. Little'ın tezi ciddidir ama tartışmalıdır. Revizyonist kronolojiler çoğu zaman abartılıdır. Sayı oyunları meseleyi çözmez; sağlam ifade ahlâkî olanıdır.
 visualization: |
@@ -30,3 +30,5 @@ sourceLabels: [null, null, null, 'ICRAA değerlendirmesi', null, 'Kândehlevî, 
 enEdits:
   - from: "Avoid number games; the firm statement is the ethical one."
     to: "Number games do not settle the question; the firm statement is the ethical one."
+  - from: "and it should be acknowledged. If the topic touches personal trauma, gently suggest support services."
+    to: "and it is acknowledged here. If this topic touches a trauma of your own, the support on this page can help."

@@ -23,12 +23,16 @@ const { lang, variant } = Astro.props;
   {variant === 'vesvese' && <p>{t(lang, 'helpVesvese')}</p>}
   {(variant === 'suffering' || variant === 'disaster') && <p>{t(lang, 'helpSuffering')}</p>}
   <ul>
+    {lang === 'en' && variant === 'urgent' && <li>{t(lang, 'helpLocalEmergency')}</li>}
     {lang === 'en' && (
       <li>
-        {t(lang, 'helpWorld')} <a href="https://findahelpline.com/">Find A Helpline</a> {t(lang, 'helpWorldText')}
+        {t(lang, 'helpWorld')}{' '}
+        <a href="https://findahelpline.com/" lang="en">
+          Find A Helpline
+        </a>{' '}
+        {t(lang, 'helpWorldText')}
       </li>
     )}
-    {lang === 'en' && variant === 'urgent' && <li>{t(lang, 'helpLocalEmergency')}</li>}
     {variant === 'urgent' && (
       <li>
         {t(lang, 'helpEmergency')} <a href="tel:112">112</a>
@@ -43,7 +47,11 @@ const { lang, variant } = Astro.props;
     )}
     {lang === 'tr' && (
       <li>
-        {t(lang, 'helpWorld')} <a href="https://findahelpline.com/">Find A Helpline</a> {t(lang, 'helpWorldText')}
+        {t(lang, 'helpWorld')}{' '}
+        <a href="https://findahelpline.com/" lang="en">
+          Find A Helpline
+        </a>{' '}
+        {t(lang, 'helpWorldText')}
       </li>
     )}
     {(lang === 'tr' || variant !== 'urgent') && <li>{t(lang, 'helpLocalEmergency')}</li>}

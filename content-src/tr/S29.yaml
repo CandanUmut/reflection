@@ -28,7 +28,7 @@ awe: |
 reflection: |
   Kur'an iç dünyayı bir âyet olarak gösterir ("kendi nefislerinizde") ve aynı nefeste bir sınır koyar ("size pek az bilgi verilmiştir"). Modern bilim de sınırda hemfikir: beyni haritalayabiliyoruz, ama deneyimin kendisini henüz açıklayamıyoruz.
 honest: |
-  - Zor problemin çözülmemiş olması bir ruhun var olduğunu **kanıtlamaz**. Materyalist filozoflar onun gelecekte çözülebileceğini ya da karışık bir soru olduğunu savunur. Bu adil bir tartışmadır.
+  - Zor problemin çözülmemiş olması bir ruhun var olduğunu **kanıtlamaz**. Materyalist filozoflar onun gelecekte çözülebileceğini ya da karışık bir soru olduğunu savunur. Bu görüş adil bir değerlendirmeyi hak eder.
   - *Rûh*, filozofların kullandığı anlamda "bilinç" ile tam olarak aynı değildir. İslam geleneği *rûh* hakkında birkaç görüş taşır.
   - Bu, imanın da dürüst bilimin de sırrı kabul ettiği açık bir sınırdır.
 visualization: |
@@ -45,7 +45,7 @@ sourceLabels:
 # readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
 enEdits:
   - from: "Present this fairly."
-    to: "This is a fair debate."
+    to: "That view deserves a fair hearing."
   - from: "Do not equate *rūḥ* exactly with \"consciousness\" as philosophers use the word."
     to: "*Rūḥ* is not exactly the same as \"consciousness\" as philosophers use the word."
   - from: "Present this topic as an open frontier where faith and honest science both admit mystery."

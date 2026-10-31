@@ -22,7 +22,7 @@ scholarship: |
 evidence: |
   - Dunedin çalışmasında (doğumdan itibaren izlenen yaklaşık 1.000 çocuk), çocukluktaki öz denetim, zekâ ve sosyal sınıf kontrol edildikten sonra bile yetişkinlikteki sağlığı, serveti ve daha az mahkûmiyeti yordadı (Moffitt ve ark., *PNAS* 2011). [Established, *orta*]
   - Yeni alışkanlıklar zaman alır: bir çalışmada otomatikleşme medyan **66 gün** sürdü; 18 ile 254 gün arasında değişti (Lally ve ark., 2010). [*küçük çalışma*, sık atıf alıyor]
-  - İrade gücünün tükenen bir kas olduğu fikri olan **"ego tükenmesi"**, büyük ön kayıtlı tekrar çalışmalarında **tutmadı** (Hagger ve ark., 2016: etki sıfıra yakın; Vohs ve ark., 2021: çok küçük). İrade bir yakıt deposu değildir. [Established, özgün etkinin abartıldığı]
+  - İrade gücünün tükenen bir kas olduğu fikri olan **"ego tükenmesi"**, büyük ön kayıtlı tekrar çalışmalarında **tutmadı** (Hagger ve ark., 2016: etki sıfıra yakın; Vohs ve ark., 2021: çok küçük). Kanıtlar, iradeyi tükenen bir yakıt deposu gibi düşünmeyi desteklemez. [Established, özgün etkinin abartıldığı]
   - Öz denetim, anlık sürekli çabadan çok durumları ve alışkanlıkları biçimlendirerek daha iyi işler. [*orta*]
 stories: |
   - Hz. Peygamber'in "az ama devamlı" (Buhârî 6464) ilkesine uyan, devamlı küçük uygulamaları (gece namazı, pazartesi ve perşembe orucu).
@@ -30,7 +30,7 @@ stories: |
   - Ömer'in tavsiye ettiği, tasavvuf geleneğindeki günlük nefis muhasebesi (*muhasebe*): "Hesaba çekilmeden önce kendinizi hesaba çekin."
 gaps: |
   - Dinî topluluklar öz disiplini bazen utanç ve korkuyla öğretir; bu da karaktere değil, dinî titizliğe (vesvese) yol açabilir. Bkz. Q8 (vesvese).
-  - Disiplin kolay ya da hızlı olmaz; araştırmalar da gelenek de uzun ve inişli çıkışlı bir yol anlatır.
+  - Disiplinin kolay ya da hızlı olacağı vaat edilemez; araştırmalar da gelenek de uzun ve inişli çıkışlı bir yol anlatır.
   - Ego tükenmesi efsanesi, popüler İslami kişisel gelişim kitaplarında hâlâ görülür.
 enOverrides:
   # "Link to Q8" (author-facing) turned into a reader-facing pointer.
@@ -52,8 +52,8 @@ sourceLabels:
 # readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
 enEdits:
   - from: "Do not teach willpower as a fuel tank."
-    to: "Willpower is not a fuel tank."
+    to: "The evidence does not support picturing willpower as a fuel tank that runs out."
   - from: "Do not promise that discipline will feel easy or quick; the research and the tradition both describe a long, uneven path."
-    to: "Discipline does not become easy or quick; the research and the tradition both describe a long, uneven path."
+    to: "No one can promise that discipline will feel easy or quick; the research and the tradition both describe a long, uneven path."
   - from: "Be careful with the ego-depletion myth, which still appears in popular Islamic self-help material."
     to: "The ego-depletion myth still appears in popular Islamic self-help material."

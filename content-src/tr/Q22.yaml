@@ -18,9 +18,15 @@ layers:
   6: |
     Aktarılan rakamlar yaklaşık 40 ile 900 arasında değişir [Debated].
   7: |
-    Peygamber sevgisi ile ahlâkî huzursuzluk bir arada var olabilir. Olay, hiçbir toplu suçlama ve hiçbir antisemitizm olmadan öğretilmelidir.
+    Peygamber sevgisi ile ahlâkî huzursuzluk bir arada var olabilir. Bu olay hiçbir toplu suçlamayı ya da antisemitizmi haklı çıkarmaz.
 honest: |
   Hiçbir cevap ahlâkî ağırlığı ortadan kaldırmaz. Olayın özü muhtemelen tarihîdir; rakamlar belirsizdir. Bugün Yahudilere karşı asla kullanılmamalıdır.
 visualization: |
   622–627 Medine haritası. Bir "kaynak laboratuvarı". Hz. Peygamber'in savaş kuralları, Cenevre Sözleşmeleri'nin yanında.
 sourceLabels: [null, null, null, null, 'İbn Hişâm, *es-Sîre* (Arapça)', 'TDV, "Kurayza, Benî" (Türkçe)', 'Hamidullah (Fransızca)', 'WikiShia (Fransızca)']
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "The episode must be taught with no collective guilt and no antisemitism."
+    to: "Nothing in this episode supports collective guilt or antisemitism."

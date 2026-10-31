@@ -12,7 +12,7 @@ import HonestNote from './HonestNote.astro';
 import HelpCard from './HelpCard.astro';
 import RangeOfViews from './RangeOfViews.astro';
 import Sources from './Sources.astro';
-import { md, mdInline } from '../lib/md';
+import { md, mdPlainInline } from '../lib/md';
 import { t, type Locale, type UiKey } from '../i18n/ui';
 
 interface Props {
@@ -30,12 +30,14 @@ const sectionLabel: Record<string, UiKey> = {
   reasoning: 'secReasoning',
   objection: 'secObjection',
   heart: 'secHeart',
+  views: 'secViews',
 };
 // Reading time of the full answer, at about 200 words a minute. Above ~700
 // words, everything after the first part waits behind "Read the full answer".
-const fullWords = (q.fullAnswer ?? []).reduce((n, s) => n + s[lang].split(/\s+/).length, 0);
-const minutes = Math.max(1, Math.round(fullWords / 200));
-const folded = fullWords > 700 && (q.fullAnswer?.length ?? 0) > 1;
+// The fold is decided on the English count, so both languages fold alike.
+const words = (l: Locale) => (q.fullAnswer ?? []).reduce((n, s) => n + s[l].split(/\s+/).length, 0);
+const minutes = Math.max(1, Math.round(words(lang) / 200));
+const folded = words('en') > 700 && (q.fullAnswer?.length ?? 0) > 1;
 const layerLabel: Record<string, UiKey> = {
   religious: 'layerReligious',
   philosophical: 'layerPhilosophical',
@@ -118,7 +120,9 @@ const layerLabel: Record<string, UiKey> = {
       <h2 id="followups-title">{t(lang, 'followUps')}</h2>
       {q.followUps.map((f) => (
         <details class="followups__item">
-          <summary set:html={mdInline(f.q[lang], lang)} />
+          <summary>
+            <span set:html={mdPlainInline(f.q[lang], lang)} />
+          </summary>
           <div class="followups__body">
             <Fragment set:html={md(f.a[lang], lang)} />
           </div>
@@ -156,8 +160,8 @@ const layerLabel: Record<string, UiKey> = {
   .full__time {
     font-family: var(--font-ui);
     font-size: 0.8rem;
-    font-weight: 400;
     color: var(--ink-soft);
+    margin: calc(-1 * var(--space-2)) 0 0;
   }
   .full__part {
     margin-top: var(--space-5);
@@ -168,8 +172,16 @@ const layerLabel: Record<string, UiKey> = {
     font-weight: 600;
     margin-bottom: var(--space-2);
   }
+  /* hidden="until-found" keeps the box (content-visibility), so drop its margin. */
+  .full__part[hidden] {
+    margin: 0;
+  }
   .full__more {
     margin-top: var(--space-4);
+  }
+  /* .btn sets display; without JavaScript the button stays hidden. */
+  .full__more[hidden] {
+    display: none;
   }
   .followups {
     margin-block: var(--space-6) var(--space-5);

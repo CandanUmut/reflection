@@ -14,7 +14,7 @@ teachings: |
   - Servet yalnızca zenginler arasında dolaşmamalıdır (59:7).
   - Altın ve gümüşü yığıp Allah yolunda harcamayanlara uyarı (9:34).
   - 9:60'ta sayılan zekât alanları (fakirler, yoksullar, borçlular, yolcular ve diğerleri).
-  - Hadis: Hz. Peygamber faizi yiyene, yedirene, yazana ve şahitlerine lanet etti (Müslim 1598). "Doğru sözlü, güvenilir tüccar peygamberlerle, sıddıklarla ve şehitlerle beraberdir" (Tirmizî 1209; bazılarınca zayıf ile hasen arası sayılır). "[Fiyatları yükseltmek için] mal stoklayan günahkârdır" (Müslim 1605).
+  - Hadis: Hz. Peygamber faizi yiyene, yedirene, yazana ve şahitlerine lanet etti (Müslim 1598). "Doğru sözlü, güvenilir tüccar peygamberlerle, sıddıklarla ve şehitlerle beraberdir" ({hadith:tirmidhi:1209}; muhaddisler ayrışır, verideki üç kişiden ikisi zayıf der; bu yüzden burada delil olarak değil, bilinen bir söz olarak aktarılır). "[Fiyatları yükseltmek için] mal stoklayan günahkârdır" (Müslim 1605).
 scholarship: |
   - **Makâsıd:** *servetin* korunması (*hıfzu'l-mâl*), beş klasik amaçtan biridir (Gazzâlî, Şâtıbî). İbn Âşûr, servetin *dolaşması* (*revâc*), açık ve adil olması (*vuzûh*, *adl*) gerektiğini ekler. Jasser Auda makâsıdı yalnızca korumayı değil, insanın gelişmesini amaçlayan bir sistem olarak okur.
   - **Ahlâk:** Gazzâlî (*İhyâ*, Cimriliğin Kınanması Kitabı) hırsı bir kalp hastalığı, cömertliği onun ilacı olarak ele alır. Râgıb el-İsfahânî serveti iyi kullanılması gereken bir emanet olarak görür.
@@ -48,3 +48,5 @@ sourceLabels:
 enEdits:
   - from: "Do not present Islamic economics as already proven to work better at scale; present its principles and the honest record."
     to: "Islamic economics has not been proven to work better at scale; what can honestly be shown is its principles and its record."
+  - from: "(Tirmidhī 1209; graded weak-to-fair by some)."
+    to: "({hadith:tirmidhi:1209}; the graders disagree, and two of the three named in the data call it weak, so it is quoted here as a well-known saying, not as evidence)."

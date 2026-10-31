@@ -20,7 +20,7 @@ layers:
   6: |
     Bkz. S9 (ince ayar).
   7: |
-    Konya çalıştayındaki öğretmenler, ikiyüzlülüğün ve eskimiş dinî söylemin gençleri uzaklaştırdığını belirtir. Deizm çoğu zaman ahlâkî bir protestodur; bu yüzden cevaplar dürüstlüğe değinmelidir.
+    Konya çalıştayındaki öğretmenler, ikiyüzlülüğün ve eskimiş dinî söylemin gençleri uzaklaştırdığını belirtir. Deizm çoğu zaman ahlâkî bir protestodur; bu yüzden dürüst bir cevap yalnızca argümanlara değil, dürüstlüğe de değinmelidir.
 honest: |
   Argümanlar zorunluluk değil, makuliyet verir.
 visualization: |
@@ -30,3 +30,9 @@ visualization: |
 sourceLabels: [null, null, null, 'Turkish Academic Research Review — gençlik ve deizm üzerine', null, null]
 sourceUrls:
   5: https://plato.stanford.edu/entries/fine-tuning/
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "so answers must address integrity."
+    to: "so an honest answer has to speak to integrity, not only to arguments."

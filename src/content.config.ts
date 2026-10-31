@@ -22,7 +22,7 @@ const visualization = text.extend({
 });
 /** One section of a full answer. `kind` picks its heading; `title` may replace it. */
 const fullAnswerSection = text.extend({
-  kind: z.enum(['quran', 'sunnah', 'scholars', 'fiqh', 'history', 'science', 'reasoning', 'objection', 'heart']),
+  kind: z.enum(['quran', 'sunnah', 'scholars', 'fiqh', 'history', 'science', 'reasoning', 'objection', 'heart', 'views']),
   title: text.optional(),
 });
 

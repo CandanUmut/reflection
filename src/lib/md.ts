@@ -9,6 +9,7 @@ import { marked } from 'marked';
 import { parse } from 'yaml';
 import { t, type Locale } from '../i18n/ui';
 import { itemUrl, type Section } from './routes';
+import { readGrade } from './hadith-grade.mjs';
 
 const LABELS = { Established: 'established', Scholarly: 'scholarly', Debated: 'debated' } as const;
 
@@ -61,9 +62,11 @@ function xrefs(html: string, lang: Locale): string {
 }
 
 // Hadith: the grade always comes from src/data/hadith.json (built from the
-// source data by scripts/hadith-data.mjs), never from the content text.
-type Hadith = { collection: string; number: string; whole: boolean; grades: { grade: string; by: string }[] };
-let hadithData: Record<string, Hadith> | undefined;
+// source data by scripts/hadith-data.mjs) and is read by hadith-grade.mjs,
+// never typed in the content. Fabricated, weak and Companions' sayings each
+// get their own label; graders who disagree are both shown.
+type Grading = { grade: string; by: string };
+let hadithData: Record<string, { whole: boolean; grades: Grading[] }> | undefined;
 const COLLECTION: Record<string, Record<Locale, string>> = {
   bukhari: { en: 'Bukhārī', tr: 'Buhârî' },
   muslim: { en: 'Muslim', tr: 'Müslim' },
@@ -71,20 +74,6 @@ const COLLECTION: Record<string, Record<Locale, string>> = {
   tirmidhi: { en: 'Tirmidhī', tr: 'Tirmizî' },
   nasai: { en: 'Nasāʾī', tr: 'Nesâî' },
   ibnmajah: { en: 'Ibn Mājah', tr: 'İbn Mâce' },
-  malik: { en: 'Muwaṭṭaʾ Mālik', tr: 'Muvatta' },
-  nawawi: { en: 'al-Nawawī, Forty', tr: 'Nevevî, Kırk Hadis' },
-  qudsi: { en: 'Forty Hadith Qudsi', tr: 'Kırk Kudsî Hadis' },
-};
-const GRADE_TR: Record<string, string> = {
-  Sahih: 'Sahih',
-  Hasan: 'Hasen',
-  'Hasan Sahih': 'Hasen sahih',
-  Daif: 'Zayıf',
-  'Very Daif': 'Çok zayıf',
-  'Isnaad Sahih': 'Senedi sahih',
-  'Isnaad Hasan': 'Senedi hasen',
-  'Isnaad Daif': 'Senedi zayıf',
-  Maudu: 'Uydurma',
 };
 const GRADER: Record<string, Record<Locale, string>> = {
   'Al-Albani': { en: 'al-Albānī', tr: 'Elbânî' },
@@ -94,32 +83,33 @@ const GRADER: Record<string, Record<Locale, string>> = {
   'Bashar Awad Maarouf': { en: 'Bashshār ʿAwwād Maʿrūf', tr: 'Beşşâr Avvâd Ma‘rûf' },
   'Muhammad Fouad Abd al-Baqi': { en: 'M. Fuʾād ʿAbd al-Bāqī', tr: 'M. Fuâd Abdülbâkî' },
   'Muhammad Muhyi Al-Din Abdul Hamid': { en: 'M. Muḥyī al-Dīn ʿAbd al-Ḥamīd', tr: 'M. Muhyiddin Abdülhamîd' },
+  'Abu Ghuddah': { en: 'Abū Ghudda', tr: 'Ebû Gudde' },
 };
-const kindOf = (g: string) => (/da'?if|maudu/i.test(g) ? 'daif' : /sahih/i.test(g) ? 'sahih' : 'hasan');
 function hadithRefs(html: string, lang: Locale): string {
-  return html.replace(/\{hadith:([a-z]+):(\d+[a-z]?)\}/g, (_, col: string, num: string) => {
-    hadithData ??= JSON.parse(fs.readFileSync(path.resolve('src/data/hadith.json'), 'utf8'));
+  const out = html.replace(/\{hadith:([a-z]+):(\d+[a-z]?)\}/g, (_, col: string, num: string) => {
+    hadithData ??= JSON.parse(fs.readFileSync(path.resolve('src/data/hadith.json'), 'utf8')).hadith;
     const h = hadithData![`${col}:${num}`];
     if (!h) throw new Error(`Hadith ${col}:${num} is not in src/data/hadith.json — run npm run hadith`);
     const ref = `${COLLECTION[col][lang]} ${num}`;
     let label: string, kind: string;
     if (h.whole) {
-      label = `${t(lang, 'gradeSahih')} (${lang === 'tr' ? 'Sahîh-i ' : 'Ṣaḥīḥ '}${COLLECTION[col][lang]})`;
+      label = readGrade('Sahih')[lang];
       kind = 'sahih';
     } else {
-      // The leading grader is al-Albānī where he graded it; any grader who
-      // reaches a different kind of grade is shown too, so disagreement is visible.
+      // al-Albānī leads where he graded it; any grader who reaches a different
+      // kind of grade is shown too, so disagreement is visible.
       const gs = [...h.grades].sort((a, b) => Number(b.by === 'Al-Albani') - Number(a.by === 'Al-Albani'));
-      const lead = gs[0];
-      const shown = [lead, ...gs.slice(1).filter((g) => kindOf(g.grade) !== kindOf(lead.grade))];
-      const fmt = (g: { grade: string; by: string }) =>
-        `${lang === 'tr' ? (GRADE_TR[g.grade] ?? g.grade) : g.grade.replace('Daif', 'Ḍaʿīf')} — ${GRADER[g.by]?.[lang] ?? g.by}`;
-      label = shown.map(fmt).join('; ');
-      const kinds = new Set(shown.map((g) => kindOf(g.grade)));
+      const read = gs.map((g) => ({ ...readGrade(g.grade), by: GRADER[g.by]?.[lang] ?? g.by }));
+      const shown = [read[0], ...read.slice(1).filter((g) => g.kind !== read[0].kind)];
+      label = shown.map((g) => `${g[lang]} — ${g.by}`).join('; ');
+      const kinds = new Set(shown.map((g) => g.kind));
       kind = kinds.size > 1 ? 'mixed' : [...kinds][0];
     }
     return `<span class="hadith"><span class="hadith__ref">${ref}</span> <span class="grade grade--${kind}">${label}</span></span>`;
   });
+  if (out.includes('{hadith'))
+    throw new Error(`Malformed hadith token near: ${out.slice(out.indexOf('{hadith'), out.indexOf('{hadith') + 40)}`);
+  return out;
 }
 
 export function md(src: string | undefined, lang: Locale): string {
@@ -131,4 +121,10 @@ export function md(src: string | undefined, lang: Locale): string {
 export function mdInline(src: string | undefined, lang: Locale): string {
   if (!src) return '';
   return xrefs(hadithRefs(tags(marked.parseInline(src.trim(), { async: false }) as string, lang), lang), lang);
+}
+
+/** Inline Markdown for text inside a <summary>: no links or badges, which would nest interactive content. */
+export function mdPlainInline(src: string | undefined, lang: Locale): string {
+  if (!src) return '';
+  return tags(marked.parseInline(src.trim(), { async: false }) as string, lang);
 }

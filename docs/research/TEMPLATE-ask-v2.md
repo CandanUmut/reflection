@@ -8,6 +8,8 @@ One file per phase (e.g. `07-ask-deep-I.md`), one section per question. Every cl
 - Fiqh: the **four Sunni schools** (Hanafi, Maliki, Shafi'i, Hanbali), each with a named scholar or work.
 - Hadith are cited as tokens, `{hadith:collection:number}` (sunnah.com numbering; Muslim by Abd al-Baqi). The page adds the grade from the data; never type a grade by hand.
 - Not centred on Türkiye: Türkiye can be one example among others.
+- Honest notes and honest limits never go inside the full answer, which may be folded behind "Read the full answer"; they go under "Honest limits", which is always visible.
+- Write "the Prophet" (Turkish: "Hz. Peygamber"); the ﷺ glyph is not in the site's fonts.
 
 ## Template
 
@@ -39,7 +41,7 @@ One file per phase (e.g. `07-ask-deep-I.md`), one section per question. Every cl
 #### heart — For the heart and mind   (where readers are personally affected)
 <honest, compassionate words and practical next steps>
 
-### Range of views
+#### views — The range of views
 <each view: who holds it, the work, and the reason, in a sentence or two>
 
 ### Questions readers ask next
