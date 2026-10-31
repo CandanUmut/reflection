@@ -1,52 +1,54 @@
 ---
-// The dome medallion (göbek) at the crown of a Sinan dome, as a section
-// divider: an eight-pointed star at the centre, a ring of sixteen lobes, an
-// outer ring of radiating ticks. It blooms outward from its centre, ring by
-// ring, when it comes into view — order unfolding from one point. With
-// reduced motion it is simply there.
-const C = 100;
+// The dome medallion (göbek), painted as the tile-makers would: a hatayi
+// rosette at the heart, eight tulips reaching outward, saz leaves sweeping
+// between them all in one direction, as if the whole flower were turning
+// slowly, inside a scalloped gilded edge. When it comes into view it opens
+// from its heart: the rosette turns open, the tulips rise one after another,
+// the leaves unfurl. With reduced motion it is simply there, in full flower.
+
+const C = 80;
+const petals = Array.from({ length: 8 }, (_, i) => i * 45);
+// The scalloped edge: sixteen shallow lobes bulging outward.
 const lobes = 16;
-const lobeR = 34;
-const lobe = (i: number) => {
-  // Each lobe: an arc bulging outward between two points on the ring.
-  const a1 = (i * 2 * Math.PI) / lobes;
-  const a2 = ((i + 1) * 2 * Math.PI) / lobes;
-  const p = (a: number, rr: number) => `${(C + rr * Math.cos(a)).toFixed(2)} ${(C + rr * Math.sin(a)).toFixed(2)}`;
-  return `M${p(a1, lobeR)} A7.2 7.2 0 0 1 ${p(a2, lobeR)}`;
-};
-const star = Array.from({ length: 16 }, (_, i) => {
-  const a = (i * Math.PI) / 8 - Math.PI / 2;
-  const rr = i % 2 === 0 ? 22 : 22 * (Math.cos(Math.PI / 4) / Math.cos(Math.PI / 8));
-  return `${(C + rr * Math.cos(a)).toFixed(2)} ${(C + rr * Math.sin(a)).toFixed(2)}`;
-});
-const ticks = Array.from({ length: 32 }, (_, i) => {
-  const a = (i * 2 * Math.PI) / 32;
-  const [r1, r2] = i % 2 === 0 ? [50, 60] : [52, 57];
-  return `M${(C + r1 * Math.cos(a)).toFixed(2)} ${(C + r1 * Math.sin(a)).toFixed(2)} L${(C + r2 * Math.cos(a)).toFixed(2)} ${(C + r2 * Math.sin(a)).toFixed(2)}`;
+const edge =
+  Array.from({ length: lobes }, (_, i) => {
+    const a = (i * 2 * Math.PI) / lobes - Math.PI / 2;
+    const b = ((i + 1) * 2 * Math.PI) / lobes - Math.PI / 2;
+    const p = (t: number) => `${(C + 64 * Math.cos(t)).toFixed(2)} ${(C + 64 * Math.sin(t)).toFixed(2)}`;
+    return `${i === 0 ? 'M' + p(a) : ''} A13.6 13.6 0 0 1 ${p(b)}`;
+  }).join(' ') + 'Z';
+const dots = Array.from({ length: lobes }, (_, i) => {
+  const a = ((i + 0.5) * 2 * Math.PI) / lobes - Math.PI / 2;
+  return [C + 66.5 * Math.cos(a), C + 66.5 * Math.sin(a)];
 });
 ---
 
 <div class="medallion" data-medallion aria-hidden="true">
   <span class="medallion__rule"></span>
-  <svg viewBox="30 30 140 140" width="140" height="140" focusable="false">
-    <g class="ring ring--4">
-      <circle cx={C} cy={C} r="64" class="m-line m-gild" />
-      {ticks.map((d) => (
-        <path d={d} class="m-line m-tick" />
+  <svg viewBox="0 0 160 160" width="160" height="160" focusable="false">
+    <g class="m-edge">
+      <path d={edge} class="m-scallop" />
+      <circle cx={C} cy={C} r="55" class="m-ring" />
+      {dots.map(([x, y]) => (
+        <circle cx={x.toFixed(2)} cy={y.toFixed(2)} r="1.5" class="m-dot" />
       ))}
     </g>
-    <g class="ring ring--3">
-      <circle cx={C} cy={C} r="46" class="m-line" />
-      {Array.from({ length: lobes }, (_, i) => (
-        <path d={lobe(i)} class="m-line m-lobe" />
-      ))}
-    </g>
-    <g class="ring ring--2">
-      <circle cx={C} cy={C} r="28" class="m-line m-gild" />
-      <path d={'M' + star.join(' L') + 'Z'} class="m-star" />
-    </g>
-    <g class="ring ring--1">
-      <circle cx={C} cy={C} r="5" class="m-eye" />
+    {petals.map((a, i) => (
+      <g transform={`translate(${C} ${C}) rotate(${a + 22.5}) translate(0 -18)`}>
+        <use
+          href="#fl-leaf-s"
+          class="m-grow m-unfurl"
+          style={`--i:${i}${i % 2 ? ';--leaf-tone:var(--turquoise)' : ''}`}
+        />
+      </g>
+    ))}
+    {petals.map((a, i) => (
+      <g transform={`translate(${C} ${C}) rotate(${a}) translate(0 -18) scale(0.74)`}>
+        <use href="#fl-tulip" class="m-grow" style={`--i:${i}`} />
+      </g>
+    ))}
+    <g transform={`translate(${C} ${C}) scale(1.8)`}>
+      <use href="#fl-rosette" class="m-heart" />
     </g>
   </svg>
   <span class="medallion__rule"></span>
@@ -69,57 +71,72 @@ const ticks = Array.from({ length: 32 }, (_, i) => {
     --dir: left;
   }
   svg {
-    width: clamp(6.5rem, 22vw, 8.75rem);
+    width: clamp(8rem, 30vw, 10rem);
     height: auto;
     overflow: visible;
   }
-  .m-line {
+  .m-scallop {
+    fill: color-mix(in srgb, var(--turquoise) 11%, var(--paper));
+    stroke: var(--lamp-line);
+    stroke-width: 1;
+  }
+  .m-ring {
     fill: none;
     stroke: var(--cobalt);
-    stroke-width: 1;
+    stroke-width: 0.7;
+    opacity: 0.6;
   }
-  .m-gild {
-    stroke: var(--lamp-line);
+  .m-dot {
+    fill: var(--turquoise);
   }
-  .m-tick {
-    stroke: var(--turquoise);
-  }
-  .m-lobe {
-    stroke: var(--cobalt);
-  }
-  .m-star {
-    fill: color-mix(in srgb, var(--cobalt) 14%, transparent);
-    stroke: var(--cobalt);
-    stroke-width: 1;
-  }
-  .m-eye {
-    fill: var(--clay);
-  }
-  .ring {
+  /* Every growing part turns about its own base: the local origin. */
+  .m-grow,
+  .m-heart,
+  .m-edge {
     transform-box: view-box;
-    transform-origin: 100px 100px;
+    transform-origin: 0 0;
   }
-  /* With JavaScript, rings wait folded at the centre and bloom on view. */
-  :global(.js) .medallion:not(.is-open) .ring {
+  .m-edge {
+    transform-origin: 80px 80px;
+  }
+  /* With JavaScript the flower waits closed and opens when seen. */
+  :global(.js) .medallion:not(.is-open) .m-heart {
     opacity: 0;
-    transform: scale(0.4) rotate(-22.5deg);
+    transform: rotate(-90deg) scale(0.2);
   }
-  .medallion.is-open .ring {
+  :global(.js) .medallion:not(.is-open) .m-grow {
+    opacity: 0;
+    transform: scale(0.15);
+  }
+  :global(.js) .medallion:not(.is-open) .m-unfurl {
+    transform: rotate(-50deg) scale(0.15);
+  }
+  :global(.js) .medallion:not(.is-open) .m-edge {
+    opacity: 0;
+    transform: scale(0.92);
+  }
+  .medallion.is-open .m-heart {
     transition:
-      opacity 1.4s var(--ease-breath),
-      transform 2.2s var(--ease-breath);
+      opacity 0.9s var(--ease-breath),
+      transform 1.6s var(--ease-breath);
   }
-  .medallion.is-open .ring--2 {
-    transition-delay: 0.35s;
+  .medallion.is-open .m-grow {
+    transition:
+      opacity 0.8s var(--ease-breath),
+      transform 1.4s var(--ease-breath);
+    transition-delay: calc(0.5s + var(--i) * 0.11s);
   }
-  .medallion.is-open .ring--3 {
-    transition-delay: 0.8s;
+  .medallion.is-open .m-unfurl {
+    transition-delay: calc(0.9s + var(--i) * 0.11s);
   }
-  .medallion.is-open .ring--4 {
-    transition-delay: 1.25s;
+  .medallion.is-open .m-edge {
+    transition:
+      opacity 1.6s var(--ease-breath),
+      transform 2s var(--ease-breath);
+    transition-delay: 1.5s;
   }
   @media (prefers-reduced-motion: reduce) {
-    :global(.js) .medallion:not(.is-open) .ring {
+    :global(.js) .medallion:not(.is-open) :is(.m-heart, .m-grow, .m-unfurl, .m-edge) {
       opacity: 1;
       transform: none;
     }

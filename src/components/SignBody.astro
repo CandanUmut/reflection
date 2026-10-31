@@ -9,7 +9,7 @@ import Pause from './Pause.astro';
 import Layer from './Layer.astro';
 import HonestNote from './HonestNote.astro';
 import Medallion from './motifs/Medallion.astro';
-import KundekariBand from './motifs/KundekariBand.astro';
+import TileBorder from './motifs/TileBorder.astro';
 import GerminationViz from './GerminationViz.astro';
 import BuiltViz from './viz/BuiltViz.astro';
 import Sources from './Sources.astro';
@@ -36,7 +36,7 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
   </header>
 
   <section class="sign__verse wrap" aria-label={t(lang, 'layerVerse')}>
-    <KundekariBand height={18} class="sign__band" />
+    <TileBorder height={36} class="sign__band" />
     <VerseBlock refs={sign.verses} lang={lang} />
     {sign.verseNotes && (
       <div class="sign__verse-notes">
@@ -54,7 +54,7 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
         ))}
       </p>
     )}
-    <KundekariBand height={18} class="sign__band" />
+    <TileBorder height={36} class="sign__band" />
   </section>
 
   {sign.pause && <Pause ref={sign.pause.ref} lang={lang} />}

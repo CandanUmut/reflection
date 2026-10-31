@@ -11,65 +11,203 @@ interface Props {
 }
 const { ref, lang } = Astro.props;
 const verse = getVerse(ref, lang);
+
+// In the window, a tree of life rising from a vase, as on the tile panels of
+// Rüstem Paşa: stems that grow when the question comes into view, then the
+// leaves and flowers open one after another, low to high. `d` orders them.
+const stems = [
+  'M100 250 C98 232 102 214 100 196',
+  'M99 250 C92 236 74 238 66 214',
+  'M101 250 C108 236 126 238 134 214',
+  'M98 251 C84 255 62 258 50 245',
+  'M102 251 C116 255 138 258 150 245',
+];
+const leaf = (x: number, y: number, rot: number, len: number, right: boolean, turq: boolean, d: number) => ({
+  href: right ? '#fl-leaf-r' : '#fl-leaf-l',
+  t: `translate(${x} ${y}) rotate(${rot}) scale(${len / 25})`,
+  style: `--d:${d}${turq ? ';--leaf-tone:var(--turquoise)' : ''}`,
+});
+const leaves = [
+  leaf(95, 251, -112, 24, true, false, 0),
+  leaf(105, 251, 112, 24, false, true, 0),
+  leaf(84, 238, -52, 26, false, true, 1),
+  leaf(116, 238, 52, 26, true, false, 1),
+  leaf(100, 226, -18, 24, false, false, 2),
+  leaf(100, 222, 20, 22, true, true, 2),
+];
+const flowers = [
+  { href: '#fl-bud', t: 'translate(50 245) rotate(-62) scale(0.9)', d: 2 },
+  { href: '#fl-tulip', t: 'translate(150 245) rotate(62) scale(0.48)', d: 2 },
+  { href: '#fl-tulip', t: 'translate(66 214) rotate(-22) scale(0.62)', d: 3 },
+  { href: '#fl-carnation', t: 'translate(134 214) rotate(22) scale(0.82)', d: 3 },
+  { href: '#fl-tulip', t: 'translate(100 196) scale(0.74)', d: 4 },
+];
 ---
 
 <section class="pause" data-pause aria-label={t(lang, 'pauseLabel')}>
-  <svg
-    class="pause__window"
-    viewBox="0 0 200 300"
-    aria-hidden="true"
-    focusable="false"
-    preserveAspectRatio="xMidYMid meet"
-  >
-    <path class="pause__outer" d="M14 298 V120 A112 112 0 0 1 100 6 A112 112 0 0 1 186 120 V298" />
-    <path class="pause__inner" d="M26 298 V122 A100 100 0 0 1 100 20 A100 100 0 0 1 174 122 V298" />
-    <g class="pause__crown" transform="translate(100 62)">
-      <path d="M0 -11 L3 -3 L11 0 L3 3 L0 11 L-3 3 L-11 0 L-3 -3Z" />
-      <path d="M-7.8 -7.8 L0 -4.3 L7.8 -7.8 L4.3 0 L7.8 7.8 L0 4.3 L-7.8 7.8 L-4.3 0Z" />
-    </g>
-  </svg>
-  <p class="pause__question">{verse.translation}</p>
-  <p class="pause__ref ref">{refLabel(ref)}</p>
-  <button class="pause__skip btn" type="button">
-    {t(lang, 'pauseSkip')}
-  </button>
+  <div class="pause__frame">
+    <svg class="pause__head" viewBox="0 0 200 122" aria-hidden="true" focusable="false">
+      <path class="pause__light" d="M26 122 A100 100 0 0 1 100 20 A100 100 0 0 1 174 122Z" />
+      <path class="pause__outer" d="M14 122 V120 A112 112 0 0 1 100 6 A112 112 0 0 1 186 120 V122" />
+      <path class="pause__inner" d="M26 122 A100 100 0 0 1 100 20 A100 100 0 0 1 174 122" />
+      <g class="pause__crown" transform="translate(100 62)">
+        <path d="M0 -11 L3 -3 L11 0 L3 3 L0 11 L-3 3 L-11 0 L-3 -3Z" />
+        <path d="M-7.8 -7.8 L0 -4.3 L7.8 -7.8 L4.3 0 L7.8 7.8 L0 4.3 L-7.8 7.8 L-4.3 0Z" />
+      </g>
+    </svg>
+    <svg class="pause__sides" viewBox="0 0 200 10" preserveAspectRatio="none" aria-hidden="true" focusable="false">
+      <rect class="pause__light" x="26" y="0" width="148" height="10" />
+      <path class="pause__outer" d="M14 0 V10 M186 0 V10" />
+      <path class="pause__inner" d="M26 0 V10 M174 0 V10" />
+    </svg>
+    <div class="pause__body">
+      <p class="pause__question">{verse.translation}</p>
+      <p class="pause__ref ref">{refLabel(ref)}</p>
+      <button class="pause__skip btn" type="button">
+        {t(lang, 'pauseSkip')}
+      </button>
+    </div>
+    <svg class="pause__foot" viewBox="0 160 200 140" aria-hidden="true" focusable="false">
+      <rect class="pause__light" x="26" y="160" width="148" height="138" />
+      <path class="pause__outer" d="M14 160 V298 M186 160 V298" />
+      <path class="pause__inner" d="M26 160 V298 M174 160 V298" />
+      <path class="pause__sill" d="M6 298.5 H194" />
+      <g class="tree">
+        {stems.map((d) => (
+          <path class="tree__stem" d={d} pathLength="1" />
+        ))}
+        {leaves.map((l) => (
+          <g transform={l.t}>
+            <use href={l.href} class="tree__grow" style={l.style} />
+          </g>
+        ))}
+        {flowers.map((f) => (
+          <g transform={f.t}>
+            <use href={f.href} class="tree__grow" style={`--d:${f.d}`} />
+          </g>
+        ))}
+        <g class="tree__vase">
+          <path
+            class="tree__vase-body"
+            d="M90 250 C94 252 95 254 95 258 C95 261 91 263 86 268 C80 274 80 284 88 290 L86 294 L114 294 L112 290 C120 284 120 274 114 268 C109 263 105 261 105 258 C105 254 106 252 110 250 Z"
+          />
+          <path class="tree__vase-band" d="M82.5 276 C94 280.5 106 280.5 117.5 276" />
+          <path class="tree__vase-band tree__vase-band--gold" d="M86 268.5 C95 271 105 271 114 268.5" />
+          <circle class="tree__vase-dot" cx="100" cy="284" r="2.2" />
+        </g>
+      </g>
+    </svg>
+  </div>
 </section>
 
 <style>
   .pause {
-    position: relative;
-    isolation: isolate;
-    min-height: max(60vh, calc(min(21rem, 84vw) * 1.5 + 4rem));
+    min-height: 60vh;
     display: grid;
     place-content: center;
+    padding-block: var(--space-6);
+  }
+  /* A pointed-arch window, as in Sinan's walls: the question stands in its
+     light, and below it a tree of life grows from a vase. The arch head and
+     the foot are drawn; between them the window's sides are plain lines that
+     stretch to fit the question, however long it is. */
+  .pause__frame {
+    position: relative;
+    isolation: isolate;
+    container-type: inline-size;
+    width: min(21rem, 84vw);
+    display: grid;
+  }
+  .pause__head,
+  .pause__foot {
+    display: block;
+    width: 100%;
+    height: auto;
+    overflow: visible;
+  }
+  /* The sides, from the springing of the arch (61% of the width down) to the
+     top of the foot (70% of the width up): straight lines that stretch to fit
+     the question, however long it is. */
+  .pause__sides {
+    position: absolute;
+    z-index: -1;
+    left: 0;
+    width: 100%;
+    top: calc(61cqi - 1px);
+    height: calc(100% - 131cqi + 2px);
+  }
+  .pause__body {
+    display: grid;
     justify-items: center;
     gap: var(--space-3);
     text-align: center;
-    padding-block: var(--space-6);
+    padding-inline: 16cqi;
+    margin-top: -19cqi;
   }
-  /* A pointed-arch window, as in Sinan's walls: the question stands in its light. */
-  .pause__window {
-    position: absolute;
-    left: 50%;
-    top: 50%;
-    width: min(21rem, 84vw);
-    aspect-ratio: 2 / 3;
-    height: auto;
-    transform: translate(-50%, -50%);
-    z-index: -1;
+  /* Opaque mixes, so the three parts meet without a seam. */
+  .pause__light {
+    fill: color-mix(in srgb, var(--lamp-line) 7%, var(--paper));
   }
   .pause__outer {
     fill: none;
-    stroke: var(--cobalt);
+    stroke: color-mix(in srgb, var(--cobalt) 55%, var(--paper));
     stroke-width: 1;
-    opacity: 0.55;
     vector-effect: non-scaling-stroke;
   }
   .pause__inner {
-    fill: color-mix(in srgb, var(--lamp-line) 7%, transparent);
+    fill: none;
     stroke: var(--lamp-line);
     stroke-width: 1;
     vector-effect: non-scaling-stroke;
+  }
+  .pause__sill {
+    stroke: var(--lamp-line);
+    stroke-width: 1.5;
+    vector-effect: non-scaling-stroke;
+  }
+  .tree__stem {
+    fill: none;
+    stroke: var(--cobalt);
+    stroke-width: 1.1;
+    stroke-linecap: round;
+  }
+  .tree__vase-body {
+    fill: var(--cobalt);
+  }
+  .tree__vase-band {
+    fill: none;
+    stroke: var(--turquoise);
+    stroke-width: 2.4;
+  }
+  .tree__vase-band--gold {
+    stroke: var(--lamp-line);
+    stroke-width: 1;
+  }
+  .tree__vase-dot {
+    fill: var(--clay);
+  }
+  .tree__grow {
+    transform-box: view-box;
+    transform-origin: 0 0;
+  }
+  /* With JavaScript the tree waits as bare earth and grows when the question is seen. */
+  :global(.js) .pause:not(.is-grown) .tree__stem {
+    stroke-dasharray: 1;
+    stroke-dashoffset: 1;
+  }
+  :global(.js) .pause:not(.is-grown) .tree__grow {
+    opacity: 0;
+    transform: scale(0.1) rotate(-20deg);
+  }
+  .pause.is-grown .tree__stem {
+    stroke-dasharray: 1;
+    transition: stroke-dashoffset 1.6s var(--ease-breath);
+  }
+  .pause.is-grown .tree__grow {
+    transition:
+      opacity 0.9s var(--ease-breath),
+      transform 1.3s var(--ease-breath);
+    transition-delay: calc(0.5s + var(--d) * 0.32s);
   }
   .pause__crown path {
     fill: none;
@@ -81,8 +219,7 @@ const verse = getVerse(ref, lang);
     font-size: var(--step-2);
     font-style: italic;
     line-height: 1.35;
-    max-width: min(13.5rem, 58vw);
-    margin: var(--space-6) 0 0;
+    margin: 0;
   }
   .pause__ref {
     margin: 0;
@@ -109,6 +246,13 @@ const verse = getVerse(ref, lang);
     :global([data-after-pause][data-waiting]) {
       opacity: 1;
     }
+    :global(.js) .pause:not(.is-grown) .tree__stem {
+      stroke-dashoffset: 0;
+    }
+    :global(.js) .pause:not(.is-grown) .tree__grow {
+      opacity: 1;
+      transform: none;
+    }
   }
 </style>
 
@@ -117,10 +261,14 @@ const verse = getVerse(ref, lang);
   for (const pause of document.querySelectorAll<HTMLElement>('[data-pause]')) {
     // The content that waits is named explicitly: Astro may insert other nodes between them.
     const after = pause.closest('article')?.querySelector<HTMLElement>('[data-after-pause]');
-    if (!after || reduce) continue;
+    if (!after || reduce) {
+      pause.classList.add('is-grown');
+      continue;
+    }
     // Arriving already past the Pause (a link, a restored scroll): nothing waits.
     if (pause.getBoundingClientRect().bottom < 0) {
       pause.dataset.state = 'released';
+      pause.classList.add('is-grown');
       continue;
     }
     // Nothing is dimmed until the question is actually on screen: text further
@@ -143,6 +291,7 @@ const verse = getVerse(ref, lang);
     const io = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
+          pause.classList.add('is-grown');
           if (start === null) after.setAttribute('data-waiting', '');
           start ??= scrollY;
           timer = window.setTimeout(release, 1500);

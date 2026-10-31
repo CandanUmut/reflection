@@ -1,0 +1,147 @@
+---
+// The painted flowers, defined once per page and reused with <use>: the tile
+// border, the medallion and the tree of life all draw from this one set, so
+// a page carries each shape only once. Colours come from the palette tokens;
+// a leaf takes its tone from --leaf-tone on the <use> that places it.
+//
+// The tile border (bordür): a cobalt vine winding between gilded rules,
+// carrying a carnation, a tulip, a hatayi rosette and a carnation in its
+// pockets, each flanked by a pair of saz leaves, with small tendrils curling
+// where the vine crosses itself. The tile repeats only every four flowers.
+import {
+  TULIP,
+  TULIP_LINES,
+  CARNATION,
+  CARNATION_CALYX,
+  CARNATION_LINES,
+  BUD,
+  BUD_SEPALS,
+  saz,
+  rosette,
+} from '../../lib/flora';
+
+const leafR = saz(25, 3.4, 0.3, 0.12);
+const leafL = saz(25, 3.4, -0.3, -0.12);
+const leafS = saz(32, 3.8, 0.16, 0.12);
+const ros = rosette(10);
+const TURQ = '--leaf-tone:var(--turquoise)';
+// A pair of leaves flanking the flower in each pocket, hanging (down) or rising (up).
+const pair = (x: number, y: number, down: boolean, len: number, turqLeft: boolean) => [
+  { href: '#fl-leaf-l', t: `translate(${x - 18} ${y}) rotate(${down ? 205 : -25}) scale(${len / 25})`, turq: turqLeft },
+  { href: '#fl-leaf-r', t: `translate(${x + 18} ${y}) rotate(${down ? 155 : 25}) scale(${len / 25})`, turq: !turqLeft },
+];
+const borderLeaves = [
+  ...pair(40, 13.9, true, 25, false),
+  ...pair(120, 34.1, false, 27, true),
+  ...pair(200, 13.9, true, 23, false),
+  ...pair(280, 34.1, false, 24, false),
+];
+const CURL = 'M0 0 C3 -5 10 -8 14 -5 C17 -2.6 15.6 1.6 12.4 1.2 C10.4 0.9 10.2 -1.6 11.8 -2';
+const curls = [
+  [80, 1, 1],
+  [80, -1, -1],
+  [240, 1, 1],
+  [240, -1, -1],
+  [160, 1, -1],
+  [160, -1, 1],
+  [0, 1, -1],
+  [320, -1, 1],
+];
+---
+
+<svg class="flora-defs" width="0" height="0" aria-hidden="true" focusable="false">
+  <defs>
+    <g id="fl-tulip">
+      <path class="fl-red" d={TULIP} />
+      <path class="fl-line" d={TULIP_LINES} />
+    </g>
+    <g id="fl-carnation">
+      <path class="fl-calyx" d={CARNATION_CALYX} />
+      <path class="fl-red" d={CARNATION} />
+      <path class="fl-line" d={CARNATION_LINES} />
+    </g>
+    <g id="fl-bud">
+      <path class="fl-red" d={BUD} />
+      <path class="fl-leaf" d={BUD_SEPALS} />
+    </g>
+    <g id="fl-leaf-r">
+      <path class="fl-leaf" d={leafR.leaf} />
+      <path class="fl-rib" d={leafR.rib} />
+    </g>
+    <g id="fl-leaf-l">
+      <path class="fl-leaf" d={leafL.leaf} />
+      <path class="fl-rib" d={leafL.rib} />
+    </g>
+    <g id="fl-leaf-s">
+      <path class="fl-leaf" d={leafS.leaf} />
+      <path class="fl-rib" d={leafS.rib} />
+    </g>
+    <g id="fl-rosette">
+      <path class="fl-red" d={ros.inner} />
+      <path class="fl-leaf" style={TURQ} d={ros.outer} />
+      <path class="fl-rib" d={ros.veins} />
+      <circle class="fl-gold" r={ros.heart} />
+    </g>
+    <pattern id="fl-border" width="320" height="48" patternUnits="userSpaceOnUse">
+      <path
+        class="fl-vine"
+        d="M0 24 C26.7 6 53.3 6 80 24 C106.7 42 133.3 42 160 24 C186.7 6 213.3 6 240 24 C266.7 42 293.3 42 320 24"
+      />
+      {curls.map(([x, sx, sy]) => (
+        <path class="fl-vine fl-curl" transform={`translate(${x} 24) scale(${sx} ${sy})`} d={CURL} />
+      ))}
+      {borderLeaves.map((l) => (
+        <use href={l.href} transform={l.t} style={l.turq ? TURQ : undefined} />
+      ))}
+      <use href="#fl-carnation" transform="translate(40 11) rotate(180) scale(0.86)" />
+      <use href="#fl-tulip" transform="translate(120 37) scale(0.72)" />
+      <path class="fl-vine" d="M200 11 C199 16 201 20 200 24" />
+      <use href="#fl-rosette" transform="translate(200 31) scale(0.85)" />
+      <use href="#fl-carnation" transform="translate(280 37) scale(0.95)" />
+    </pattern>
+  </defs>
+</svg>
+
+<style is:global>
+  .flora-defs {
+    position: absolute;
+    width: 0;
+    height: 0;
+    overflow: hidden;
+  }
+  .fl-red {
+    fill: var(--clay);
+    stroke: var(--cobalt);
+    stroke-width: 0.6;
+  }
+  .fl-line {
+    fill: none;
+    stroke: var(--cobalt);
+    stroke-width: 0.45;
+  }
+  .fl-calyx {
+    fill: var(--cobalt);
+  }
+  .fl-leaf {
+    fill: var(--leaf-tone, color-mix(in srgb, var(--life) 80%, var(--turquoise)));
+    stroke: var(--cobalt);
+    stroke-width: 0.45;
+  }
+  .fl-rib {
+    fill: none;
+    stroke: var(--paper);
+    stroke-width: 0.5;
+  }
+  .fl-gold {
+    fill: var(--lamp-line);
+  }
+  .fl-vine {
+    fill: none;
+    stroke: var(--cobalt);
+    stroke-width: 1.2;
+    stroke-linecap: round;
+  }
+  .fl-curl {
+    stroke-width: 0.8;
+  }
+</style>

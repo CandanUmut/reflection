@@ -1,0 +1,32 @@
+---
+// An İznik tile border (bordür) at any height. The painted tile itself is
+// defined once per page in FloraDefs; this draws its gilded rules and lays
+// the tile along the band, scaled to fit between them.
+interface Props {
+  /** Visible height of the border in px. */
+  height?: number;
+  class?: string;
+}
+const { height = 32, class: cls } = Astro.props;
+const k = +((height - 4) / 48).toFixed(4);
+---
+
+<svg class:list={['border', cls]} height={height} aria-hidden="true" focusable="false">
+  <line class="b-rule" x1="0" y1="0.6" x2="100%" y2="0.6" />
+  <g transform={`translate(0 2) scale(${k})`}>
+    <rect width="9600" height="48" fill="url(#fl-border)" />
+  </g>
+  <line class="b-rule" x1="0" y1={height - 0.6} x2="100%" y2={height - 0.6} />
+</svg>
+
+<style>
+  .border {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+  }
+  .b-rule {
+    stroke: var(--lamp-line);
+    stroke-width: 1.2;
+  }
+</style>

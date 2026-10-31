@@ -12,7 +12,8 @@ import { paletteScript } from '../lib/palette-script';
 import { t, otherLocale, type Locale } from '../i18n/ui';
 import { localeUrl, url } from '../lib/paths';
 import PaletteControl from '../components/PaletteControl.astro';
-import KundekariBand from '../components/motifs/KundekariBand.astro';
+import TileBorder from '../components/motifs/TileBorder.astro';
+import FloraDefs from '../components/motifs/FloraDefs.astro';
 import { sectionUrl, type Section } from '../lib/routes';
 
 interface Props {
@@ -99,6 +100,7 @@ const paletteCss = [
     <style is:global set:html={paletteCss} />
   </head>
   <body>
+    <FloraDefs />
     <a class="skip-link" href="#main">
       {t(lang, 'skip')}
     </a>
@@ -139,12 +141,12 @@ const paletteCss = [
         </div>
       </div>
     </header>
-    <KundekariBand height={14} />
+    <TileBorder height={28} />
     <main id="main" tabindex="-1">
       <slot />
     </main>
     <div class="footer-gap"></div>
-    <KundekariBand height={14} />
+    <TileBorder height={28} />
     <footer class="site-footer">
       <div class="wrap wrap--wide">
         <p>
