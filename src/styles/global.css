@@ -303,3 +303,23 @@ button {
   font-size: 0.78em;
   color: var(--ink-soft);
 }
+
+/* Arrival: a page's title and summary rise softly into place, like light
+   reaching a wall. Once, on load; never with reduced motion. */
+@media (prefers-reduced-motion: no-preference) {
+  main h1,
+  .sign__summary,
+  .moral__summary {
+    animation: arrive 1.4s var(--ease-breath) both;
+  }
+  .sign__summary,
+  .moral__summary {
+    animation-delay: 0.25s;
+  }
+}
+@keyframes arrive {
+  from {
+    opacity: 0;
+    transform: translateY(0.6rem);
+  }
+}
