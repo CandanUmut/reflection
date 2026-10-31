@@ -1,6 +1,27 @@
 {
  "source": "fawazahmed0/hadith-api@1 (cdn.jsdelivr.net)",
  "hadith": {
+  "abudawud:2578": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Sahih",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Sahih",
+     "by": "Muhammad Muhyi Al-Din Abdul Hamid"
+    },
+    {
+     "grade": "Sahih",
+     "by": "Shuaib Al Arnaut"
+    },
+    {
+     "grade": "Isnaad Sahih",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
   "abudawud:4811": {
    "whole": false,
    "grades": [
@@ -43,6 +64,14 @@
    "grades": []
   },
   "bukhari:1427": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:2320": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:2370": {
    "whole": true,
    "grades": []
   },
@@ -154,6 +183,10 @@
    "whole": true,
    "grades": []
   },
+  "bukhari:6464": {
+   "whole": true,
+   "grades": []
+  },
   "bukhari:6475": {
    "whole": true,
    "grades": []
@@ -163,6 +196,10 @@
    "grades": []
   },
   "bukhari:6496": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:676": {
    "whole": true,
    "grades": []
   },
@@ -240,6 +277,10 @@
    "whole": true,
    "grades": []
   },
+  "muslim:2328": {
+   "whole": true,
+   "grades": []
+  },
   "muslim:2524": {
    "whole": true,
    "grades": []
@@ -268,6 +309,10 @@
    "whole": true,
    "grades": []
   },
+  "muslim:2699": {
+   "whole": true,
+   "grades": []
+  },
   "muslim:2752": {
    "whole": true,
    "grades": []
@@ -285,6 +330,10 @@
    "grades": []
   },
   "muslim:771": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:91": {
    "whole": true,
    "grades": []
   },
@@ -347,6 +396,27 @@
     }
    ]
   },
+  "tirmidhi:1621": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Sahih",
+     "by": "Ahmad Muhammad Shakir"
+    },
+    {
+     "grade": "Sahih",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Hasan Sahih",
+     "by": "Bashar Awad Maarouf"
+    },
+    {
+     "grade": "Isnaad Hasan",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
   "tirmidhi:1924": {
    "whole": false,
    "grades": [
@@ -385,6 +455,27 @@
     },
     {
      "grade": "Hasan",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
+  "tirmidhi:2647": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Daif",
+     "by": "Ahmad Muhammad Shakir"
+    },
+    {
+     "grade": "Daif",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Hasan",
+     "by": "Bashar Awad Maarouf"
+    },
+    {
+     "grade": "Daif",
      "by": "Zubair Ali Zai"
     }
    ]

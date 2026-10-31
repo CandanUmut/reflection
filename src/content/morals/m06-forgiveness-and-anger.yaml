@@ -38,7 +38,7 @@ visualizations:
 sources:
   - label: Quran 3:134, 24:22, 42:40 (Saheeh International).
   - label: "Hadith (text and grades from the collections' data): Bukhari 3231, 4025, 6114; Muslim 2588."
-  - label: E. L. Worthington et al. / N. G. Wade et al. (2014), meta-analysis of forgiveness interventions (Δ = 0.56), and a 2022 *Child Development* meta-analysis (anger, g = 0.29), as reported in the earlier research.
+  - label: E. L. Worthington et al. / N. G. Wade et al. (2014), meta-analysis of forgiveness interventions (Δ = 0.56), and a 2022 *Child Development* meta-analysis (anger, g = 0.29).
   - &a1
     label: Ṣaḥīḥ al-Bukhārī 6114
   - &a2

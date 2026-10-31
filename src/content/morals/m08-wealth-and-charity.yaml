@@ -82,7 +82,7 @@ visualizations:
 sources:
   - label: Quran 2:261, 9:34, 59:7, 83:1 (Saheeh International).
   - label: "Hadith (text and grades from the collections' data): Bukhari 1417, 1427, 6436; Muslim 1598, 1605, 2588; Tirmidhi 1209, 1315."
-  - label: "Earlier research, `04-morals-M8-M15.md` (M8): maqasid (al-Ghazali, al-Shatibi, Ibn 'Ashur); al-Ghazali on miserliness; Curry et al. (2018); Dunn, Aknin and Norton (2008); waqf and hisba; El-Gamal (2006)."
+  - label: maqasid (al-Ghazali, al-Shatibi, Ibn 'Ashur); al-Ghazali on miserliness; Curry et al. (2018); Dunn, Aknin and Norton (2008); waqf and hisba; El-Gamal (2006).
   - &a1
     label:
       tr: Curry ve ark. — İyilik yapmanın yapan kişinin iyi oluşuna etkileri üzerine sistematik derleme ve meta-analiz, *J. Exp. Soc. Psychol.* 2018

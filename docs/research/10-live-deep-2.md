@@ -9,7 +9,7 @@ Written 2026-10-31. Sources: the Quran (Tanzil; Saheeh International, verbatim),
 ### Sources read
 - Quran 3:134, 24:22, 42:40 (Saheeh International).
 - Hadith (text and grades from the collections' data): Bukhari 3231, 4025, 6114; Muslim 2588.
-- E. L. Worthington et al. / N. G. Wade et al. (2014), meta-analysis of forgiveness interventions (Δ = 0.56), and a 2022 *Child Development* meta-analysis (anger, g = 0.29), as reported in the earlier research.
+- E. L. Worthington et al. / N. G. Wade et al. (2014), meta-analysis of forgiveness interventions (Δ = 0.56), and a 2022 *Child Development* meta-analysis (anger, g = 0.29).
 
 ### In brief
 The Quran praises those "who restrain anger and who pardon the people" (3:134), and it keeps the right to fair redress (42:40). Forgiveness is a gift the wronged may give, never something forced out of them.
@@ -99,7 +99,7 @@ Racism and sectarianism exist in Muslim communities, against the teaching of 49:
 ### Sources read
 - Quran 2:261, 9:34, 59:7, 83:1 (Saheeh International).
 - Hadith (text and grades from the collections' data): Bukhari 1417, 1427, 6436; Muslim 1598, 1605, 2588; Tirmidhi 1209, 1315.
-- Earlier research, `04-morals-M8-M15.md` (M8): maqasid (al-Ghazali, al-Shatibi, Ibn 'Ashur); al-Ghazali on miserliness; Curry et al. (2018); Dunn, Aknin and Norton (2008); waqf and hisba; El-Gamal (2006).
+- maqasid (al-Ghazali, al-Shatibi, Ibn 'Ashur); al-Ghazali on miserliness; Curry et al. (2018); Dunn, Aknin and Norton (2008); waqf and hisba; El-Gamal (2006).
 
 ### In brief
 Wealth is a trust: it must be earned fairly, shared — zakat is the poor's right, not a favour — and kept moving, "so that it will not be a perpetual distribution among the rich from among you" (59:7).
@@ -149,7 +149,7 @@ Much modern "Islamic finance" has been criticised by Muslim economists (for exam
 ### Sources read
 - Quran 4:58, 8:27, 17:34, 23:8, 33:72 (Saheeh International).
 - Hadith (text and grades from the collections' data): Bukhari 33, 6094, 6496; Tirmidhi 1315.
-- Earlier research, `04-morals-M8-M15.md` (M9): Knack and Keefer (1997); Transparency International's Corruption Perceptions Index.
+- Knack and Keefer (1997); Transparency International's Corruption Perceptions Index.
 
 ### In brief
 *Amana* — trust — covers what others leave with you, your word, your office, and the whole responsibility of being human (33:72). The Prophet (pbuh) was known as "the trustworthy" before his prophethood.
@@ -199,7 +199,7 @@ Many Muslim-majority countries score in the lower half of Transparency Internati
 ### Sources read
 - Quran 2:177, 4:36, 93:9, 107:1 (Saheeh International).
 - Hadith (text and grades from the collections' data): Bukhari 5304, 5353, 6014, 6016.
-- Earlier research, `04-morals-M8-M15.md` (M10): al-Qurtubi on 4:36; al-Ghazali on neighbours' rights; Holt-Lunstad, Smith and Layton (2010); the Bucharest Early Intervention Project.
+- al-Qurtubi on 4:36; al-Ghazali on neighbours' rights; Holt-Lunstad, Smith and Layton (2010); the Bucharest Early Intervention Project.
 
 ### In brief
 The Quran describes faith in social terms: denying the Judgment looks like pushing away the orphan (107:1–2). Care reaches out in rings — parents, relatives, orphans, the needy, near and far neighbours, the traveller (4:36).

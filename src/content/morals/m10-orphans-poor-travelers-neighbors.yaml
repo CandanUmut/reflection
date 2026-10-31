@@ -77,7 +77,7 @@ visualizations:
 sources:
   - label: Quran 2:177, 4:36, 93:9, 107:1 (Saheeh International).
   - label: "Hadith (text and grades from the collections' data): Bukhari 5304, 5353, 6014, 6016."
-  - label: "Earlier research, `04-morals-M8-M15.md` (M10): al-Qurtubi on 4:36; al-Ghazali on neighbours' rights; Holt-Lunstad, Smith and Layton (2010); the Bucharest Early Intervention Project."
+  - label: al-Qurtubi on 4:36; al-Ghazali on neighbours' rights; Holt-Lunstad, Smith and Layton (2010); the Bucharest Early Intervention Project.
   - &a1
     label:
       tr: "Holt-Lunstad, Smith ve Layton — Sosyal ilişkiler ve ölüm riski: meta-analitik bir derleme, *PLOS Medicine* 2010"

@@ -74,7 +74,7 @@ visualizations:
 sources:
   - label: Quran 4:58, 8:27, 17:34, 23:8, 33:72 (Saheeh International).
   - label: "Hadith (text and grades from the collections' data): Bukhari 33, 6094, 6496; Tirmidhi 1315."
-  - label: "Earlier research, `04-morals-M8-M15.md` (M9): Knack and Keefer (1997); Transparency International's Corruption Perceptions Index."
+  - label: Knack and Keefer (1997); Transparency International's Corruption Perceptions Index.
   - &a1
     label:
       tr: Uluslararası Şeffaflık Örgütü — Türkiye, Yolsuzluk Algı Endeksi
