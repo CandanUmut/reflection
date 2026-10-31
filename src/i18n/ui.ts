@@ -104,7 +104,10 @@ export const ui = {
     helpEmergency: 'Acil bir durumda:',
     helpClinics: 'Düzenli destek için: Toplum Ruh Sağlığı Merkezleri (TRSM) ve üniversite klinikleri',
     helpAfad: 'Afet sonrası psikososyal destek: AFAD',
-    helpElsewhere: 'Türkiye dışındaysan: bulunduğun ülkenin acil yardım numarası ya da bir doktor',
+    helpWorld: 'Dünyanın her yerinde:',
+    helpWorldText:
+      "175'ten fazla ülkede ücretsiz ve gizli destek hatlarını listeler; intihar düşünceleri, istismar ve aile içi şiddet, yas gibi konularda da.",
+    helpLocalEmergency: 'Türkiye dışında acil bir durumda: bulunduğun ülkenin acil yardım numarası',
     footerTexts:
       'Arapça metin ve mealler (Elmalılı Hamdi Yazır, sadeleştirilmiş baskı; Saheeh International), değiştirilmeden:',
     footerTranslit: 'Kelime kelime okunuş:',
@@ -211,7 +214,10 @@ export const ui = {
     helpEmergency: 'In an emergency in Türkiye:',
     helpClinics: 'For ongoing support in Türkiye: community mental health centres (TRSM) and university clinics',
     helpAfad: 'Psychosocial support after disasters in Türkiye: AFAD',
-    helpElsewhere: 'Elsewhere: your local emergency number, or a doctor',
+    helpWorld: 'Anywhere in the world:',
+    helpWorldText:
+      'lists free, confidential helplines in more than 175 countries, including for suicidal thoughts, abuse and domestic violence, and grief.',
+    helpLocalEmergency: 'In an emergency outside Türkiye: your local emergency number',
     footerTexts:
       'Arabic text and translations (Saheeh International; Elmalılı Hamdi Yazır, simplified edition), unchanged:',
     footerTranslit: 'Word-by-word transliteration:',

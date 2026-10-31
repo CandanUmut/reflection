@@ -4,6 +4,7 @@ Things the site needs that the research docs do not (yet) provide, and places wh
 
 ## Added beyond the research (for transparency)
 - **S1:** the DOI link for Sallon et al. 2008 (`https://doi.org/10.1126/science.1153600`), checked against Crossref. The research cites the paper but gives no link.
+- **Help card, international (Phase 5):** Find A Helpline (https://findahelpline.com/, a public service by ThroughLine): "Free, confidential support from a helpline or hotline near you"; "We partner with verified helplines in 175+ countries"; topics include suicidal thoughts, abuse and domestic violence, and grief and loss (page read 2026-10-31). Added because Umut asked that the site not focus only on Türkiye; the research names only Turkish resources.
 - **Summaries:** each item has a one-line summary for index pages. Where possible it is a sentence taken from the item's own research text.
 
 ## Needs a reviewer
