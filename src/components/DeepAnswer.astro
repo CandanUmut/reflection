@@ -1,0 +1,180 @@
+---
+// The deep answer, shared by Ask, Live and Reflect pages: parts with their
+// headings, folded behind "Read the full answer" when long (hidden="until-found",
+// so find-in-page opens them; without JavaScript everything shows), then the
+// questions readers ask next. A language shows it only when every part exists
+// in that language; pages pass `show` accordingly.
+import { md, mdPlainInline } from '../lib/md';
+import { t, type Locale, type UiKey } from '../i18n/ui';
+
+type Text = { tr?: string; en: string };
+interface Props {
+  lang: Locale;
+  parts: (Text & { kind: string; title?: { tr: string; en: string } })[];
+  followUps?: { q: Text; a: Text }[];
+  /** Heading of the whole block: "The full answer" (Ask) or "Go deeper" (Live, Reflect). */
+  heading?: UiKey;
+}
+const { lang, parts, followUps = [], heading = 'fullAnswer' } = Astro.props;
+const LABEL: Record<string, UiKey> = {
+  quran: 'secQuran',
+  sunnah: 'secSunnah',
+  scholars: 'secScholars',
+  fiqh: 'secFiqh',
+  history: 'secHistory',
+  science: 'secScience',
+  reasoning: 'secReasoning',
+  objection: 'secObjection',
+  heart: 'secHeart',
+  views: 'secViews',
+  meaning: 'secMeaning',
+  practice: 'secPractice',
+  research: 'secResearch',
+  tafsir: 'secTafsir',
+};
+// About 200 words a minute; the fold is decided on the English count, so both languages fold alike.
+const words = (l: Locale) => parts.reduce((n, s) => n + (s[l] ?? '').split(/\s+/).length, 0);
+const minutes = Math.max(1, Math.round(words(lang) / 200));
+const folded = words('en') > 700 && parts.length > 1;
+const asked = followUps.filter((f) => f.q[lang] && f.a[lang]);
+const id = `deep-${heading}`;
+---
+
+<section class="full" aria-labelledby={id} data-full={folded ? '' : undefined}>
+  <h2 id={id}>{t(lang, heading)}</h2>
+  <p class="full__time">
+    {minutes} {t(lang, 'minRead')}
+  </p>
+  {parts.map((part, i) => (
+    <section class="full__part" data-part={i}>
+      <h3>{part.title?.[lang] ?? t(lang, LABEL[part.kind])}</h3>
+      <Fragment set:html={md(part[lang] ?? '', lang)} />
+    </section>
+  ))}
+  {folded && (
+    <button class="full__more btn" type="button" hidden>
+      {t(lang, 'readMore')}
+    </button>
+  )}
+</section>
+
+{asked.length > 0 && (
+  <section class="followups" aria-labelledby={`${id}-asked`}>
+    <h2 id={`${id}-asked`}>{t(lang, 'followUps')}</h2>
+    {asked.map((f) => (
+      <details class="followups__item">
+        <summary>
+          <span set:html={mdPlainInline(f.q[lang] ?? '', lang)} />
+        </summary>
+        <div class="followups__body">
+          <Fragment set:html={md(f.a[lang] ?? '', lang)} />
+        </div>
+      </details>
+    ))}
+  </section>
+)}
+
+<style>
+  .full {
+    margin-block: var(--space-6) var(--space-5);
+  }
+  .full > h2 {
+    font-size: var(--step-1);
+  }
+  .full__time {
+    font-family: var(--font-ui);
+    font-size: 0.8rem;
+    color: var(--ink-soft);
+    margin: calc(-1 * var(--space-2)) 0 0;
+  }
+  .full__part {
+    margin-top: var(--space-5);
+  }
+  .full__part h3 {
+    font-size: var(--step-0);
+    font-family: var(--font-display);
+    font-weight: 600;
+    margin-bottom: var(--space-2);
+  }
+  /* hidden="until-found" keeps the box (content-visibility), so drop its margin. */
+  .full__part[hidden] {
+    margin: 0;
+  }
+  .full__more {
+    margin-top: var(--space-4);
+  }
+  /* .btn sets display; without JavaScript the button stays hidden. */
+  .full__more[hidden] {
+    display: none;
+  }
+  .followups {
+    margin-block: var(--space-6) var(--space-5);
+  }
+  .followups > h2 {
+    font-size: var(--step-1);
+  }
+  .followups__item {
+    border-top: var(--rule);
+  }
+  .followups__item:last-child {
+    border-bottom: var(--rule);
+  }
+  .followups__item summary {
+    font-family: var(--font-text);
+    font-size: var(--step-0);
+    font-style: italic;
+  }
+  .followups__body {
+    padding-bottom: var(--space-3);
+  }
+  .followups summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-3);
+    min-height: 3.25rem;
+    cursor: pointer;
+    list-style: none;
+  }
+  .followups summary::-webkit-details-marker {
+    display: none;
+  }
+  .followups summary::after {
+    content: '+' / '';
+    font-family: var(--font-ui);
+    color: var(--ink-soft);
+    transition: transform var(--dur-ui) var(--ease-breath);
+  }
+  .followups details[open] summary::after {
+    transform: rotate(45deg);
+  }
+</style>
+
+<script>
+  // "Read the full answer": a long answer shows its first part, and the rest
+  // waits behind one button. The hidden parts stay findable with the browser's
+  // find-in-page (hidden="until-found"), which opens them. Without JavaScript
+  // the whole answer is simply shown.
+  for (const full of document.querySelectorAll<HTMLElement>('[data-full]')) {
+    const parts = [...full.querySelectorAll<HTMLElement>('.full__part')].slice(1);
+    const button = full.querySelector<HTMLButtonElement>('.full__more');
+    if (!button || !parts.length) continue;
+    const open = () => {
+      for (const p of parts) p.removeAttribute('hidden');
+      button.remove();
+    };
+    for (const p of parts) {
+      p.setAttribute('hidden', 'until-found');
+      p.addEventListener('beforematch', open);
+    }
+    button.hidden = false;
+    button.addEventListener('click', () => {
+      open();
+      const h = parts[0].querySelector<HTMLElement>('h3');
+      if (h) {
+        h.tabIndex = -1;
+        h.focus();
+      }
+    });
+  }
+</script>

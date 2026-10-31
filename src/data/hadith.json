@@ -1,11 +1,48 @@
 {
  "source": "fawazahmed0/hadith-api@1 (cdn.jsdelivr.net)",
  "hadith": {
+  "abudawud:4811": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Sahih",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Sahih",
+     "by": "Muhammad Muhyi Al-Din Abdul Hamid"
+    },
+    {
+     "grade": "Sahih",
+     "by": "Shuaib Al Arnaut"
+    },
+    {
+     "grade": "Isnaad Sahih",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
+  "bukhari:10": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:1302": {
+   "whole": true,
+   "grades": []
+  },
   "bukhari:1303": {
    "whole": true,
    "grades": []
   },
   "bukhari:1360": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:2444": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:2447": {
    "whole": true,
    "grades": []
   },
@@ -17,11 +54,23 @@
    "whole": true,
    "grades": []
   },
+  "bukhari:3467": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:3475": {
+   "whole": true,
+   "grades": []
+  },
   "bukhari:4392": {
    "whole": true,
    "grades": []
   },
   "bukhari:4772": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:4837": {
    "whole": true,
    "grades": []
   },
@@ -33,7 +82,39 @@
    "whole": true,
    "grades": []
   },
+  "bukhari:5971": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:5985": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:5997": {
+   "whole": true,
+   "grades": []
+  },
   "bukhari:5999": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:6000": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:6013": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:6094": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:6475": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:6478": {
    "whole": true,
    "grades": []
   },
@@ -95,6 +176,10 @@
    "whole": true,
    "grades": []
   },
+  "muslim:1955": {
+   "whole": true,
+   "grades": []
+  },
   "muslim:203": {
    "whole": true,
    "grades": []
@@ -104,6 +189,14 @@
    "grades": []
   },
   "muslim:2582": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:2589": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:2593": {
    "whole": true,
    "grades": []
   },
@@ -119,6 +212,10 @@
    "whole": true,
    "grades": []
   },
+  "muslim:2963": {
+   "whole": true,
+   "grades": []
+  },
   "muslim:2999": {
    "whole": true,
    "grades": []
@@ -130,6 +227,23 @@
   "muslim:976": {
    "whole": true,
    "grades": []
+  },
+  "nasai:3104": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Hasan Sahih",
+     "by": "Abu Ghuddah"
+    },
+    {
+     "grade": "Hasan Sahih",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Isnaad Sahih",
+     "by": "Zubair Ali Zai"
+    }
+   ]
   },
   "tirmidhi:1209": {
    "whole": false,
@@ -178,6 +292,27 @@
     },
     {
      "grade": "Hasan Sahih",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Hasan Sahih",
+     "by": "Bashar Awad Maarouf"
+    },
+    {
+     "grade": "Hasan",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
+  "tirmidhi:3895": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Sahih",
+     "by": "Ahmad Muhammad Shakir"
+    },
+    {
+     "grade": "Sahih",
      "by": "Al-Albani"
     },
     {
