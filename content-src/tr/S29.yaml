@@ -28,9 +28,9 @@ awe: |
 reflection: |
   Kur'an iç dünyayı bir âyet olarak gösterir ("kendi nefislerinizde") ve aynı nefeste bir sınır koyar ("size pek az bilgi verilmiştir"). Modern bilim de sınırda hemfikir: beyni haritalayabiliyoruz, ama deneyimin kendisini henüz açıklayamıyoruz.
 honest: |
-  - Zor problemin çözülmemiş olması bir ruhun var olduğunu **kanıtlamaz**. Materyalist filozoflar onun gelecekte çözülebileceğini ya da karışık bir soru olduğunu savunur. Bunu adilce sunmak gerekir.
-  - *Rûh*u, filozofların kullandığı anlamda "bilinç" ile tam olarak eşitlememek gerekir. İslam geleneği *rûh* hakkında birkaç görüş taşır.
-  - Bu konuyu, imanın da dürüst bilimin de sırrı kabul ettiği açık bir sınır olarak sunmak gerekir.
+  - Zor problemin çözülmemiş olması bir ruhun var olduğunu **kanıtlamaz**. Materyalist filozoflar onun gelecekte çözülebileceğini ya da karışık bir soru olduğunu savunur. Bu adil bir tartışmadır.
+  - *Rûh*, filozofların kullandığı anlamda "bilinç" ile tam olarak aynı değildir. İslam geleneği *rûh* hakkında birkaç görüş taşır.
+  - Bu, imanın da dürüst bilimin de sırrı kabul ettiği açık bir sınırdır.
 visualization: |
   - Bir "harita ve deneyim" kartı: bir yanda ayrıntılı bir beyin etkinliği taraması, öbür yanda hiçbir taramanın gösteremeyeceği "nasıl hissettirdiği" etiketli boş bir çerçeve.
   - 1998'deki Koch–Chalmers iddiasından 2023'teki sonuca ve 2025 *Nature* sonuçlarına bir zaman çizelgesi.
@@ -40,3 +40,13 @@ sourceLabels:
   - 'The Debrief — 25 yıllık akademik iddia sonuçlandı'
   - 'David Chalmers, *The Conscious Mind* (Oxford University Press, 1996)'
   - 'İbn Kayyim, *Kitâbü''r-Rûh*; Gazzâlî, *İhyâ*, "Kalbin Acâibi" (*Acâibü''l-Kalb*)'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Present this fairly."
+    to: "This is a fair debate."
+  - from: "Do not equate *rūḥ* exactly with \"consciousness\" as philosophers use the word."
+    to: "*Rūḥ* is not exactly the same as \"consciousness\" as philosophers use the word."
+  - from: "Present this topic as an open frontier where faith and honest science both admit mystery."
+    to: "This is an open frontier where faith and honest science both admit mystery."

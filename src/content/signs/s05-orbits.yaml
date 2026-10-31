@@ -44,8 +44,8 @@ reflection:
   tr: Âyetler ölçülü, güvenilir bir düzeni (*takdîr*) vurgular; takvimler ve namaz vakitleri bu düzene dayanır.
   en: The verses stress measured, reliable order (*taqdīr*), which underpins calendars and prayer times.
 honestNotes:
-  - tr: Âyet "galaktik yörünge" öngörüsünde bulunmadı; klasik kozmoloji yer merkezliydi. Hadisi gizlememek, nasıl yorumlandığını açıklamak gerekir.
-    en: The verse made no "galactic orbit" prediction; classical cosmology was geocentric. Do not hide the hadith; explain how it has been interpreted.
+  - tr: Âyet "galaktik yörünge" öngörüsünde bulunmadı; klasik kozmoloji yer merkezliydi. Hadis burada gizlenmez; nasıl yorumlandığı açıklanır.
+    en: The verse made no "galactic orbit" prediction; classical cosmology was geocentric. The hadith is not hidden here; how it has been interpreted is explained.
 visualizations:
   - id: ideas
     tr: Bir yörünge ve mevsim simülatörü; bir lazer ölçüm canlandırması.

@@ -48,12 +48,12 @@ evidence:
   tr: |
     - Dunedin çalışmasında (doğumdan itibaren izlenen yaklaşık 1.000 çocuk), çocukluktaki öz denetim, zekâ ve sosyal sınıf kontrol edildikten sonra bile yetişkinlikteki sağlığı, serveti ve daha az mahkûmiyeti yordadı (Moffitt ve ark., *PNAS* 2011). [Established, *orta*]
     - Yeni alışkanlıklar zaman alır: bir çalışmada otomatikleşme medyan **66 gün** sürdü; 18 ile 254 gün arasında değişti (Lally ve ark., 2010). [*küçük çalışma*, sık atıf alıyor]
-    - İrade gücünün tükenen bir kas olduğu fikri olan **"ego tükenmesi"**, büyük ön kayıtlı tekrar çalışmalarında **tutmadı** (Hagger ve ark., 2016: etki sıfıra yakın; Vohs ve ark., 2021: çok küçük). İradeyi bir yakıt deposu gibi öğretmemek gerekir. [Established, özgün etkinin abartıldığı]
+    - İrade gücünün tükenen bir kas olduğu fikri olan **"ego tükenmesi"**, büyük ön kayıtlı tekrar çalışmalarında **tutmadı** (Hagger ve ark., 2016: etki sıfıra yakın; Vohs ve ark., 2021: çok küçük). İrade bir yakıt deposu değildir. [Established, özgün etkinin abartıldığı]
     - Öz denetim, anlık sürekli çabadan çok durumları ve alışkanlıkları biçimlendirerek daha iyi işler. [*orta*]
   en: |-
     - In the Dunedin study (~1,000 children followed from birth), childhood self-control predicted adult health, wealth and lower criminal convictions, even after controlling for intelligence and social class (Moffitt et al., *PNAS* 2011). [Established, *moderate*]
     - New habits take time: in one study, automaticity took a median of **66 days**, ranging from 18 to 254 days (Lally et al., 2010). [*small study*, widely cited]
-    - **"Ego depletion"** — the idea that willpower is a muscle that runs out — **failed** large preregistered replications (Hagger et al., 2016: effect near zero; Vohs et al., 2021: very small). Do not teach willpower as a fuel tank. [Established that the original effect was overstated]
+    - **"Ego depletion"** — the idea that willpower is a muscle that runs out — **failed** large preregistered replications (Hagger et al., 2016: effect near zero; Vohs et al., 2021: very small). Willpower is not a fuel tank. [Established that the original effect was overstated]
     - Self-control works better by shaping situations and habits than by constant effort in the moment. [*moderate*]
 stories:
   tr: |
@@ -67,12 +67,12 @@ stories:
 gaps:
   tr: |
     - Dinî topluluklar öz disiplini bazen utanç ve korkuyla öğretir; bu da karaktere değil, dinî titizliğe (vesvese) yol açabilir. Bkz. Q8 (vesvese).
-    - Disiplinin kolay ya da hızlı hissettireceğini vaat etmemek gerekir; araştırmalar da gelenek de uzun ve inişli çıkışlı bir yol anlatır.
-    - Popüler İslami kişisel gelişim kitaplarında hâlâ görülen ego tükenmesi efsanesine dikkat etmek gerekir.
+    - Disiplin kolay ya da hızlı olmaz; araştırmalar da gelenek de uzun ve inişli çıkışlı bir yol anlatır.
+    - Ego tükenmesi efsanesi, popüler İslami kişisel gelişim kitaplarında hâlâ görülür.
   en: |
     - Religious communities sometimes teach self-discipline through shame and fear, which can feed scrupulosity (vesvese) rather than character. See Q8 (vesvese).
-    - Do not promise that discipline will feel easy or quick; the research and the tradition both describe a long, uneven path.
-    - Be careful with the ego-depletion myth, which still appears in popular Islamic self-help material.
+    - Discipline does not become easy or quick; the research and the tradition both describe a long, uneven path.
+    - The ego-depletion myth still appears in popular Islamic self-help material.
 visualizations:
   - id: ideas
     tr: |

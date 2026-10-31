@@ -31,8 +31,8 @@ reflection: |
   Gördüğümüz gök sabit bir tavan değil; uçsuz bucaksız ve hâlâ büyüyen bir yaratılıştır. "Kuvvetle bina ettik" ve "Onu genişletmekteyiz" ifadeleri, aklımızın zor kavradığı bir ölçek karşısında hayrete davet eder.
 honest: |
   - "Kur'an genişleyen evreni önceden bildirdi" demek abartıdır. Kelime "genişleten" okumasına imkân verir ve bazı modern âlimler bunu tercih eder [Debated]; ama klasik müfessirler onu çoğunlukla kudret, güç ya da cömertlik olarak okudu.
-  - Modern okumayı, âyetin tek anlamı olarak değil, klasik okumaların yanında kozmolojiyle uyuşan ve kelimenin izin verdiği bir anlam olarak sunmak gerekir.
-  - Kozmoloji kesin genişleme hızını hâlâ tartışıyor; bu yüzden "Kur'an rakamla örtüşüyor" gibi kesin iddialardan kaçınmak gerekir.
+  - Modern okuma, kelimenin izin verdiği ve kozmolojiyle uyuşan bir anlamdır; klasik okumaların yanında durur, âyetin tek anlamı değildir.
+  - Kozmoloji kesin genişleme hızını hâlâ tartışıyor; bu yüzden "Kur'an rakamla örtüşüyor" gibi kesin iddialar tutmaz.
 visualization: |
   - Bir "üzümlü ekmek" ya da balon canlandırması: gerilen bir yüzeydeki noktalar (galaksiler); uzaktaki noktalar arasındaki mesafe daha hızlı büyür.
   - *Le-mûsiûn* için klasik okumaları ve modern okumayı yan yana gösteren bir kelime kartı.
@@ -41,3 +41,11 @@ sourceLabels:
   - 'Di Valentino ve ark. — Hassas kozmoloji çağında kozmolojik gerilimler (arXiv 2025)'
   - 'Taberî ve İbn Kesîr''in 51:47 tefsirleri'
   - 'Nidhal Guessoum, *Islam''s Quantum Question* (I.B. Tauris) — âyetlere kozmoloji okumak üzerine'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Present the modern reading as an allowed meaning that harmonizes with cosmology, alongside the classical readings, not as the verse's only meaning."
+    to: "The modern reading is an allowed meaning that harmonizes with cosmology; it stands alongside the classical readings and is not the verse's only meaning."
+  - from: "so avoid precise \"the Quran matches the number\" claims."
+    to: "so precise \"the Quran matches the number\" claims do not hold."

@@ -50,12 +50,12 @@ layers:
     en: "[Established] The sequence was Mw 7.8 (Pazarcık) and Mw 7.5 (Elbistan) on the East Anatolian Fault. Damage correlated strongly with construction quality and code enforcement: the human dimension 30:41 points to."
   - kind: psychological
     tr: |
-      Hayatta kalanlar suçluluk, travma ve Allah'a öfke yaşar; ceza anlatıları utancı derinleştirir. AFAD psikososyal desteğine ve profesyonel travma bakımına yönlendirmek gerekir.
-    en: Survivors face guilt, trauma and anger at God; punishment narratives deepen shame. Link to AFAD psychosocial support and professional trauma care.
+      Hayatta kalanlar suçluluk, travma ve Allah'a öfke yaşar; ceza anlatıları utancı derinleştirir. AFAD psikososyal desteği ve profesyonel travma bakımı yardımcı olabilir.
+    en: Survivors face guilt, trauma and anger at God; punishment narratives deepen shame. AFAD psychosocial support and professional trauma care can help.
 honestLimits:
   tr: |
-    Bazı âyetler belirli kavimlerin (Âd, Semûd) cezalandırılmasını anlatır; âlimler bunları peygamberin uyarısı ve reddi bağlamıyla sınırlar. Bunları inkâr etmeden, neden 2023'ün kurbanlarına uygulanamayacaklarını açıklamak gerekir.
-  en: Some verses describe punishments of specific peoples (ʿĀd, Thamūd); scholars restrict these to prophetic warning and rejection. Don't deny them; explain why they cannot apply to 2023's victims.
+    Bazı âyetler belirli kavimlerin (Âd, Semûd) cezalandırılmasını anlatır; âlimler bunları peygamberin uyarısı ve reddi bağlamıyla sınırlar. Bu âyetler inkâr edilmez; ama bir peygamberin uyarısını alıp onu reddeden kavimleri anlatırlar, bu yüzden 2023'ün kurbanlarına uygulanamazlar.
+  en: Some verses describe punishments of specific peoples (ʿĀd, Thamūd); scholars restrict these to prophetic warning and rejection. These verses are not denied; but they describe peoples who were warned by a prophet and rejected him, so they cannot be applied to the victims of 2023.
 visualizations:
   - id: ideas
     tr: |

@@ -26,14 +26,25 @@ for (const g of ['ask', 'live', 'reflect']) {
   out.push(`| ${g} | ${ps.length} | ${f1(mean(sats))} | ${low.id} (${f1(Math.min(...sats))}) |`);
 }
 out.push('', '## By reader', '', '| Reader | Satisfaction |', '|---|---|');
-for (const r of READERS) out.push(`| ${r} | ${f1(mean(pages.map((p) => p.readers[r]?.satisfaction).filter(Number.isFinite)))} |`);
+for (const r of READERS)
+  out.push(`| ${r} | ${f1(mean(pages.map((p) => p.readers[r]?.satisfaction).filter(Number.isFinite)))} |`);
 out.push('', '## By criterion', '', '| Criterion | Score |', '|---|---|');
 for (const c of CRITERIA)
-  out.push(`| ${c} | ${f1(mean(pages.flatMap((p) => READERS.map((r) => p.readers[r]?.scores?.[c])).filter(Number.isFinite)))} |`);
-out.push('', '## By page', '', `| Page | Words | Satisfaction | ${READERS.join(' | ')} |`, `|---|---|---|${READERS.map(() => '---').join('|')}|`);
+  out.push(
+    `| ${c} | ${f1(mean(pages.flatMap((p) => READERS.map((r) => p.readers[r]?.scores?.[c])).filter(Number.isFinite)))} |`,
+  );
+out.push(
+  '',
+  '## By page',
+  '',
+  `| Page | Words | Satisfaction | ${READERS.join(' | ')} |`,
+  `|---|---|---|${READERS.map(() => '---').join('|')}|`,
+);
 for (const p of pages) {
   const s = READERS.map((r) => p.readers[r]?.satisfaction);
-  out.push(`| ${p.id} | ${p.words ?? '–'} | **${f1(mean(s.filter(Number.isFinite)))}** | ${s.map((x) => x ?? '–').join(' | ')} |`);
+  out.push(
+    `| ${p.id} | ${p.words ?? '–'} | **${f1(mean(s.filter(Number.isFinite)))}** | ${s.map((x) => x ?? '–').join(' | ')} |`,
+  );
 }
 out.push('', '## What readers asked next', '');
 for (const p of pages) {

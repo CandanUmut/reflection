@@ -17,7 +17,7 @@ layers:
   5: |
     Cevaplar: (a) sabitleşmiş karakter: ceza süregiden reddi izler (6:28); (b) suç, kendisine karşı işlenenin yüceliğiyle büyür (modern okurlar için en zayıfı); (c) evrenselci azınlık.
   7: |
-    Cehennem kaygısı dinî titizlikte (vesvese) yaygındır. Ürkütücü imgelerden kaçınmak; adaleti, Allah'ın rahmetinin yüz parça olduğu ve doksan dokuzunun âhiret için saklandığı hadisiyle (Müslim 2752) birlikte vermek gerekir.
+    Cehennem kaygısı dinî titizlikte (vesvese) yaygındır. Kaygılı bir okura ürkütücü imgeler yardımcı olmaz. Adalet rahmetle birlikte düşünülür: hadiste Allah'ın rahmeti yüz parçadır ve doksan dokuzu âhiret için saklanmıştır (Müslim 2752).
 honest: |
   Azınlık görüşü klasiktir ama azınlıkta kalır ve yaygın biçimde kınanmıştır; gizli "gerçek" İslam değildir.
 visualization: |
@@ -73,3 +73,9 @@ rangeOfViews:
       view:
         tr: Ehli için azap (*azâb*) tatlılığa (*azb*) dönüşür. [Debated]
         en: For its people, the torment (*ʿadhāb*) becomes sweetness (*ʿadhb*). [Debated]
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Avoid graphic imagery; pair justice with the hadith that God's mercy has 100 parts, 99 reserved for the Hereafter (Muslim 2752)."
+    to: "For an anxious reader, graphic imagery does not help. Justice is held together with mercy: in the hadith, God's mercy has 100 parts, 99 of them kept for the Hereafter (Muslim 2752)."

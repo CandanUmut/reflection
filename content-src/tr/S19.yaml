@@ -34,7 +34,7 @@ honest: |
   - Yaygın bir iddiaya göre "Kur'an demirin uzaydan geldiğini bildirdi." İki uyarı:
     1. *Enzelnâ* hayvanlar ve elbise için de kullanılır. Klasik âlimler onu "gökten düştü" diye okumadı; dolayısıyla "uzaydan" okuması modern bir tefekkürdür, âyetin açık anlamı değil.
     2. Demir yıldızlarda üretildi; ama helyumdan ağır her element de öyle: sudaki oksijen, bedenimizdeki karbon, yüzüklerdeki altın. Demir, kozmik kökene sahip olmakta özel değildir.
-  - Yıldız içi element sentezini (nükleosentez) gerçekleşmiş bir öngörü olarak değil, tefekkürü zenginleştiren bir hayret konusu olarak sunmak gerekir.
+  - Yıldız içi element sentezi (nükleosentez) gerçekleşmiş bir öngörü değil, tefekkürü zenginleştiren bir hayret konusudur.
 visualization: |
   - "Bir demir atomunun yolculuğu": bir yıldız hafif elementleri kaynaştırır, çekirdeği demirle dolar, çöker ve patlar, toz genç bir Dünya'da toplanır ve demir bir alyuvarda ve çelik bir alette son bulur.
   - Zirvesinde demirin olduğu, yıldızların neden orada durduğunu açıklayan bir bağlanma enerjisi eğrisi.
@@ -42,3 +42,9 @@ sourceLabels:
   - 'Dwek — Yıldızlararası tozun kökenini anlamak için kilit bir element olarak demir (arXiv)'
   - 'Hopp ve ark. — Dünya''daki demir izotoplarının süpernova kökeni, EPSL (arXiv)'
   - 'Taberî ve Râzî''nin 57:25 tefsirleri; *enzelnâ* için 39:6 ve 7:26 ile karşılaştırınız'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Present stellar nucleosynthesis as a wonder that enriches the reflection, not as a fulfilled prediction."
+    to: "Stellar nucleosynthesis is a wonder that enriches the reflection, not a fulfilled prediction."

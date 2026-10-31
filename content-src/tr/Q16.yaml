@@ -20,9 +20,9 @@ layers:
   6: |
     [Established] Deprem dizisi, Doğu Anadolu Fayı üzerinde Mw 7,8 (Pazarcık) ve Mw 7,5 (Elbistan) büyüklüğündeydi. Hasar, yapı kalitesi ve yönetmeliklere uyulmasıyla güçlü biçimde ilişkiliydi: 30:41'in işaret ettiği insan boyutu.
   7: |
-    Hayatta kalanlar suçluluk, travma ve Allah'a öfke yaşar; ceza anlatıları utancı derinleştirir. AFAD psikososyal desteğine ve profesyonel travma bakımına yönlendirmek gerekir.
+    Hayatta kalanlar suçluluk, travma ve Allah'a öfke yaşar; ceza anlatıları utancı derinleştirir. AFAD psikososyal desteği ve profesyonel travma bakımı yardımcı olabilir.
 honest: |
-  Bazı âyetler belirli kavimlerin (Âd, Semûd) cezalandırılmasını anlatır; âlimler bunları peygamberin uyarısı ve reddi bağlamıyla sınırlar. Bunları inkâr etmeden, neden 2023'ün kurbanlarına uygulanamayacaklarını açıklamak gerekir.
+  Bazı âyetler belirli kavimlerin (Âd, Semûd) cezalandırılmasını anlatır; âlimler bunları peygamberin uyarısı ve reddi bağlamıyla sınırlar. Bu âyetler inkâr edilmez; ama bir peygamberin uyarısını alıp onu reddeden kavimleri anlatırlar, bu yüzden 2023'ün kurbanlarına uygulanamazlar.
 visualization: |
   - Kırılma uzunluklarıyla canlandırılmış bir Doğu Anadolu Fayı haritası.
   - "İki sorumluluk" kartı: sünnetullah ve yapı yönetmelikleri, 30:41 ile.
@@ -38,3 +38,11 @@ enOverrides:
   layers:
     5: |
       See Q1 (suffering). Here: a lawful, stable world in which plate tectonics recycles carbon and builds continents entails hazards; building codes are human responsibility. Objection: God could have made a world without lethal quakes. Response: Q1's soul-making and stable-law defences, with honest limits.
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Link to AFAD psychosocial support and professional trauma care."
+    to: "AFAD psychosocial support and professional trauma care can help."
+  - from: "Don't deny them; explain why they cannot apply to 2023's victims."
+    to: "These verses are not denied; but they describe peoples who were warned by a prophet and rejected him, so they cannot be applied to the victims of 2023."

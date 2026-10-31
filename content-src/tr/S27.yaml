@@ -26,7 +26,7 @@ awe: |
 reflection: |
   Girdiler aynı, ürünler çeşit çeşit. Âyet "akıl eden bir toplum için" diye biter: çeşitliliğin tesadüf değil tasarım olduğunu fark etmeye çağırır.
 honest: |
-  Genetik, aynı suyun *nasıl* farklı meyveler verdiğini açıklar. Bu tefekkürü ortadan kaldırmaz, ama Râzî'nin delilinin şeklini değiştirir: bugün soru, neden böylesine zengin ve cömert bir genetik "kütüphane" olduğuna dönüşür. Bunu dürüstçe bu şekliyle sunmak gerekir.
+  Genetik, aynı suyun *nasıl* farklı meyveler verdiğini açıklar. Bu tefekkürü ortadan kaldırmaz, ama Râzî'nin delilinin şeklini değiştirir: bugün soru, neden böylesine zengin ve cömert bir genetik "kütüphane" olduğuna dönüşür. Argümanın bugünkü dürüst şekli budur.
 visualization: |
   - "Tek su, çok meyve": tek bir dere birkaç bitkiyi besler; her biri suyu kendi rengi, tadı ve kokusuyla farklı bir meyveye çevirir.
   - Bir hurma fidanı canlandırması.
@@ -34,3 +34,9 @@ sourceLabels:
   - 'Râzî, *Mefâtîhu''l-Gayb*, 13:4 tefsiri'
   - 'İbn Kesîr''in 13:4 ve 6:99 tefsirleri'
   - 'Meyve tadı ve *terroir* üzerine standart bir bitki genetiği ya da bahçecilik kaynağı'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Present it honestly in that form."
+    to: "That is the honest form of the argument today."

@@ -16,6 +16,8 @@ const html = readFileSync(`dist/${arg.replace(/^\/|\/$/g, '')}/index.html`, 'utf
 let main = html.match(/<main[\s\S]*?<\/main>/)?.[0] ?? html;
 main = main
   .replace(/<(script|style|svg|template)[\s\S]*?<\/\1>/g, '')
+  // Evidence labels are badges on the page: show them as [Label], not as a word.
+  .replace(/<span class="tag tag--[^"]*"[^>]*>([^<]*)<\/span>/g, ' [$1] ')
   .replace(/<[^>]+aria-hidden="true"[^>]*>[\s\S]*?<\/(span|div)>/g, '')
   .replace(/<h([1-4])[^>]*>/g, (_, n) => '\n\n' + '#'.repeat(+n) + ' ')
   .replace(/<\/h[1-4]>/g, '\n')

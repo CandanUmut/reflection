@@ -37,7 +37,7 @@ stories: |
 gaps: |
   - Orta Doğu ve Kuzey Afrika dünyanın su sıkıntısı en yüksek bölgesidir; pek çok Müslüman çoğunluklu ülkede su israfı ve kirliliği ciddi sorunlardır.
   - Gıda israfı, plastik kullanımı ve aşırı tüketim, Ramazan dâhil pek çok yerde yüksektir.
-  - Müslümanların doğal olarak daha iyi çevreci olduğunu iddia etmemek; öğretiyi ve dürüst boşluğu sunmak gerekir.
+  - Müslümanlar doğal olarak daha iyi çevreci değildir; burada gösterilen, öğreti ve onunla uygulama arasındaki dürüst boşluktur.
 visualization: |
   - "Yine de dik": son saat hadisi sakin bir canlandırma olarak — ışık değişirken toprağa bir hurma fidanı yerleştiren bir el.
   - Bir *hima* harita kartı: herkesin paylaştığı korunan bir vadi ve çitle çevrilmiş özel arazi.
@@ -47,3 +47,9 @@ sourceLabels:
   - 'White ve ark. — Doğada haftada en az 120 dakika geçirmek iyi sağlık ve iyi oluşla ilişkilidir, *Scientific Reports* 2019'
   - 'Buhârî 2320, 2370; Müsned, Ahmed 12902'
   - 'Dünya Kaynakları Enstitüsü, Aqueduct su sıkıntısı verileri'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Do not claim Muslims are naturally better environmentalists; present the teaching and the honest gap."
+    to: "Muslims are not naturally better environmentalists; what is shown here is the teaching, and the honest gap between it and practice."

@@ -32,7 +32,7 @@ awe: |
 reflection: |
   Muazzam su ağırlıkları, göremediğimiz kuvvetlerle taşınır, tutulur ve bırakılır. Her adımı (kaldırmak, toplamak, yığmak, bırakmak) âyet tek tek anar. Rüzgâr, biz hiçbir şey yapmadan yediğimiz besinleri tozlaştırarak bizim için çalışır.
 honest: |
-  - Âyet, herkesin gökyüzünde izleyebileceği şeyi anlatır. "Kümülonimbus su döngüsünü önceden bildirdiğini" söylememek gerekir.
+  - Âyet, herkesin gökyüzünde izleyebileceği şeyi anlatır. Âyet "kümülonimbus su döngüsünü önceden bildirmedi".
   - 500 tonluk rakam, tipik 1 km³'lük bir kümülüs için yapılmış bir tahmindir. Gerçek bulutlar çok farklılık gösterir.
   - "Aşılayan rüzgârlar", klasik âlimler tarafından hem bulutlar hem tozlaşma açısından anlaşıldı; yani bu okuma eskidir, modern bir ekleme değildir.
 visualization: |
@@ -42,3 +42,9 @@ sourceLabels:
   - 'USGS Su Bilimi Okulu — "Bir bulut ne kadar ağırdır?" (Kongre Kütüphanesi aracılığıyla)'
   - 'EarthDate (Texas Üniversitesi) — "Kabarık bulutların ağırlığı"'
   - 'İbn Kesîr''in 24:43 ve 15:22, Kurtubî''nin 15:22 tefsirleri'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Do not say it \"predicted the cumulonimbus water cycle\"."
+    to: "It did not \"predict the cumulonimbus water cycle\"."

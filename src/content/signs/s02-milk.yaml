@@ -33,8 +33,8 @@ reflection:
   tr: Âyetteki "arasından" ifadesi, bağırsaktan kana, kandan bezeye giden gerçek yola uyar.
   en: The verse's "between" fits the actual pathway from gut to blood to gland.
 honestNotes:
-  - tr: Âyet bir hücre biyolojisi metni değildir. Onu uygun düşen bir imge olarak sunmak gerekir. Süt ve kan rakamları da yaklaşık değerlerdir.
-    en: It is not a cell-biology text. Present it as a fitting image. The milk and blood figures are also approximations.
+  - tr: Âyet bir hücre biyolojisi metni değildir. Uygun düşen bir imgedir. Süt ve kan rakamları da yaklaşık değerlerdir.
+    en: It is not a cell-biology text. It is a fitting image. The milk and blood figures are also approximations.
 visualizations:
   - id: ideas
     tr: Litre litre kanı sayan bir sayaçla besinlerin yolculuğu canlandırması.

@@ -86,8 +86,12 @@ For every page, in every phase:
 
 **Size.** Phase 5 is medium. Each of Phases 6–11 is large: per page, real research, checking every source, writing in two languages and up to three reader rounds. One phase is roughly one full working session, often more. The whole plan is about seven sessions. Umut decides the pace; after each phase there is a report with before/after scores and screenshots.
 
-## 7. Decisions for Umut before Phase 6
-1. **Length on the page.** Long answers shown in full, or the "full answer" sections folded (open with one tap) under the short answer? (Honest Notes stay always visible either way.)
-2. **Schools of law.** Four Sunni schools only, or also Ja'fari (Shia) where relevant?
-3. **Hadith grading.** Show the grade on the page next to each hadith (e.g. "Sahih — al-Albani")? Recommended.
-4. **Order of phases.** Ask first (as above), or Live / Reflect first?
+## 7. Decided by Umut (2026-10-31)
+
+His words, unchanged: "Long answers can be visible with a read more button if it is too long, please go with the four Sunni schools only, yes show the grade for each hadith and i don't recommend building a thesis on top of a weak hadith, ask first logical step , go ahead"
+
+1. **Length on the page.** Long answers are shown with a "Read more" button when they are too long. (Honest Notes always stay visible.)
+2. **Schools of law.** The four Sunni schools only: Hanafi, Maliki, Shafi'i, Hanbali.
+3. **Hadith grading.** Every hadith on the page shows its grade and who graded it (e.g. "Sahih — al-Albani").
+4. **No thesis on a weak hadith.** A weak (da'if) hadith is never the basis of a claim. It may appear only when the page discusses it as weak (for example, a weak hadith that is widely quoted), labelled as weak.
+5. **Order.** Ask first, as in §6.

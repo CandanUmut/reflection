@@ -31,7 +31,7 @@ awe: |
 reflection: |
   Her ışığın bir görevi var: biri yanar ve hayatı yürütür, öteki zamanı yumuşakça işaretler. İkisi de insanlar sayabilsin, plan yapabilsin ve ibadet edebilsin diye yerleştirilmiştir. Göğün düzeni, gündelik hayatın ritmi olur.
 honest: |
-  Farklı kelimeler bilimle iyi uyuşur ve klasik âlimler nitelik farkını zaten fark etmişti. Ama *nûr* Allah için (24:35) ve vahiy için de kullanılır; dolayısıyla kesin olarak "yansıyan ışık" anlamına gelmez. Pek çok eski yazar da Ay'ın Güneş tarafından aydınlatıldığını biliyordu. Bunu yeni bir bilginin açıklanması olarak değil, bir uyum olarak sunmak gerekir.
+  Farklı kelimeler bilimle iyi uyuşur ve klasik âlimler nitelik farkını zaten fark etmişti. Ama *nûr* Allah için (24:35) ve vahiy için de kullanılır; dolayısıyla kesin olarak "yansıyan ışık" anlamına gelmez. Pek çok eski yazar da Ay'ın Güneş tarafından aydınlatıldığını biliyordu. Bu, yeni bir bilginin açıklanması değil, bir uyumdur.
 visualization: |
   - Kullanıcının Ay'ı hareket ettirip evreleri gördüğü bir Güneş–Dünya–Ay modeli; 29,5 günlük ay ve 354 günlük yıl için sayaçlarla.
   - 33 yıl boyunca "mevsimler içinde Ramazan" çarkı.
@@ -81,3 +81,9 @@ built:
         - Twelve lunar months make about 354 days, about 11 days shorter than the solar year. So Ramadan comes a little earlier each year and moves through all seasons in about 33 years.
         - A Muslim who lives long enough fasts Ramadan in every season of the year.
         - The dot on the wheel starts at no particular year; it only shows the drift. The yearly drift is the difference between the 354-day lunar year and the solar year (about 11 days).
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Present this as a harmony, not a revelation of new knowledge."
+    to: "This is a harmony, not a revelation of new knowledge."

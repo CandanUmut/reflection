@@ -63,13 +63,11 @@ gaps:
   tr: |
     - Orta Doğu ve Kuzey Afrika dünyanın su sıkıntısı en yüksek bölgesidir; pek çok Müslüman çoğunluklu ülkede su israfı ve kirliliği ciddi sorunlardır.
     - Gıda israfı, plastik kullanımı ve aşırı tüketim, Ramazan dâhil pek çok yerde yüksektir.
-    - Müslümanların doğal olarak daha iyi çevreci olduğunu iddia etmemek; öğretiyi ve dürüst boşluğu sunmak gerekir.
+    - Müslümanlar doğal olarak daha iyi çevreci değildir; burada gösterilen, öğreti ve onunla uygulama arasındaki dürüst boşluktur.
   en: |-
-    …gaps.
-
     - The Middle East and North Africa is the most water-stressed region on earth, and water waste and pollution are serious problems in many Muslim-majority countries.
     - Food waste, plastic use and over-consumption are high in many places, including during Ramadan.
-    - Do not claim Muslims are naturally better environmentalists; present the teaching and the honest gap.
+    - Muslims are not naturally better environmentalists; what is shown here is the teaching, and the honest gap between it and practice.
 visualizations:
   - id: ideas
     tr: |

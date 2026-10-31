@@ -30,8 +30,8 @@ awe: |
 reflection: |
   Âyet kozmik dengeyi ve adil ticareti yan yana koyar. Doğada gördüğümüz düzen aynı zamanda ahlâkî bir öğüttür: *dengeyi bozmayın*. Bu, hem insanlara hem yeryüzüne nasıl davrandığımız için geçerlidir.
 honest: |
-  - Doğanın "dengesi" kusursuz bir ahenk değildir. Yok oluşu, rekabeti ve değişimi de içerir. Doğayı hep barışçıl göstermekten kaçınmak gerekir.
-  - Yellowstone kurtlarının hikâyesi sık sık basit bir başarı olarak anlatılır; bilimsel tartışmayı dürüstçe sunmak gerekir.
+  - Doğanın "dengesi" kusursuz bir ahenk değildir. Yok oluşu, rekabeti ve değişimi de içerir. Doğa her zaman barışçıl değildir.
+  - Yellowstone kurtlarının hikâyesi sık sık basit bir başarı olarak anlatılır; bilimsel tartışma gerçektir.
   - 55:7–9'daki *mîzân* öncelikle adaletle ilgilidir; onu ekoloji olarak okumak geçerli bir genişletmedir [Scholarly], tek anlamı değil.
 visualization: |
   - Etkileşimli bir besin ağı: bir kilit türü (deniz samurları) çıkarın ve etkilerin sistemde dalga dalga yayılışını izleyin (deniz kestaneleri çoğalır, yosun kaybolur).
@@ -41,3 +41,11 @@ sourceLabels:
   - 'Colorado Springs Gazette — kurt etkisini sorgulayan CSU çalışması, 2024'
   - 'Estes ve Palmisano, "Sea otters: their role in structuring nearshore communities," *Science* 1974'
   - 'İbn Kesîr ve Kurtubî''nin 55:7–9 ve 15:19 tefsirleri'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Avoid painting nature as always peaceful."
+    to: "Nature is not always peaceful."
+  - from: "present the scientific debate honestly."
+    to: "the scientific debate is real."

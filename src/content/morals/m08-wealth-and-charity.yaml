@@ -69,13 +69,11 @@ gaps:
   tr: |
     - Bugünkü "İslami finansın" büyük kısmı, Müslüman iktisatçılar (ör. Mahmoud El-Gamal) tarafından, farklı ve daha adil bir finans kurmak yerine faizli ürünleri yeni adlarla kopyalamakla ("şeriat arbitrajı") eleştirildi.
     - Zekât toplama pek çok Müslüman çoğunluklu ülkede zayıf ya da gayriresmîdir ve birçoğunda eşitsizlik yüksektir.
-    - İslam iktisadını büyük ölçekte daha iyi işlediği kanıtlanmış gibi sunmamak; ilkelerini ve dürüst sicilini sunmak gerekir.
+    - İslam iktisadının büyük ölçekte daha iyi işlediği kanıtlanmış değildir; dürüstçe gösterilebilecek olan, ilkeleri ve sicilidir.
   en: |-
-    …gaps.
-
     - Much modern "Islamic finance" has been criticized by Muslim economists (e.g., Mahmoud El-Gamal) for copying interest-based products with new names ("sharia arbitrage") rather than building different, fairer finance.
     - Zakat collection is weak or informal in many Muslim-majority countries, and inequality in several is high.
-    - Do not present Islamic economics as already proven to work better at scale; present its principles and the honest record.
+    - Islamic economics has not been proven to work better at scale; what can honestly be shown is its principles and its record.
 visualizations:
   - id: ideas
     tr: |

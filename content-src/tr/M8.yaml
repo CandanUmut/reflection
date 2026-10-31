@@ -32,7 +32,7 @@ stories: |
 gaps: |
   - Bugünkü "İslami finansın" büyük kısmı, Müslüman iktisatçılar (ör. Mahmoud El-Gamal) tarafından, farklı ve daha adil bir finans kurmak yerine faizli ürünleri yeni adlarla kopyalamakla ("şeriat arbitrajı") eleştirildi.
   - Zekât toplama pek çok Müslüman çoğunluklu ülkede zayıf ya da gayriresmîdir ve birçoğunda eşitsizlik yüksektir.
-  - İslam iktisadını büyük ölçekte daha iyi işlediği kanıtlanmış gibi sunmamak; ilkelerini ve dürüst sicilini sunmak gerekir.
+  - İslam iktisadının büyük ölçekte daha iyi işlediği kanıtlanmış değildir; dürüstçe gösterilebilecek olan, ilkeleri ve sicilidir.
 visualization: |
   - "2:261'in tanesi": bir tane yedi başağa, her başak yüz taneye dönüşür; sakin bir sayaçla canlandırılmış.
   - "Servet nereye akar" şeması: zekât ve sadakanın merkezden toplumun kenarlarına akışı (59:7), servetin tepede birikmesiyle karşılaştırmalı.
@@ -42,3 +42,9 @@ sourceLabels:
   - 'İbn Âşûr, *Makâsıdu''ş-Şerîati''l-İslâmiyye*; Jasser Auda, *Maqasid al-Shariah as Philosophy of Islamic Law*'
   - 'Mahmoud El-Gamal, *Islamic Finance: Law, Economics, and Practice* (Cambridge University Press, 2006)'
   - 'TDV İslâm Ansiklopedisi, "Vakıf", "Zekât", "Hisbe"'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Do not present Islamic economics as already proven to work better at scale; present its principles and the honest record."
+    to: "Islamic economics has not been proven to work better at scale; what can honestly be shown is its principles and its record."

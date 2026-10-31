@@ -27,8 +27,8 @@ stories: |
   - Mekke'ye zaferle girerken başını bineğinin üzerinde, neredeyse eyere değecek kadar eğdi.
   - Halife olan Ömer, yabancı bir elçi tarafından bir ağacın altında korumasız uyurken bulundu.
 gaps: |
-  - Dinî kibir — "yalnızca benim grubum haklı", daha az dindar olanları küçük görmek — ölçülmüş verilere göre şüpheyi en çok tetikleyen etkenlerden biridir (Yaqeen: "tek bir doğru yol"). Bunu dürüstçe adlandırmak gerekir.
-  - Tevazu düşük öz değer değildir; Müslim 91'de Hz. Peygamber güzelliği sevmeyi onaylar. Tevazuyu kendinden nefret etmek olarak öğretmekten kaçınmak gerekir.
+  - Dinî kibir — "yalnızca benim grubum haklı", daha az dindar olanları küçük görmek — ölçülmüş verilere göre şüpheyi en çok tetikleyen etkenlerden biridir (Yaqeen: "tek bir doğru yol"). Burada dürüstçe adlandırılır.
+  - Tevazu düşük öz değer değildir; Müslim 91'de Hz. Peygamber güzelliği sevmeyi onaylar. Tevazu, kendinden nefret etmek değildir.
 enOverrides:
   # Author-facing phrasing removed ("The site should name this honestly"); meaning kept.
   gaps: |
@@ -45,3 +45,11 @@ sourceLabels:
   - 'Greater Good Bilim Merkezi — düşünsel tevazu araştırmalarına genel bakış'
   - 'Gazzâlî, *İhyâ*, "Zemmü''l-Kibr ve''l-Ucb"'
   - 'İbn Kesîr''in 31:18–19 ve 25:63 tefsirleri'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "It should be named honestly."
+    to: "It is named here honestly."
+  - from: "Avoid teaching humility as self-hatred."
+    to: "Humility is not self-hatred."

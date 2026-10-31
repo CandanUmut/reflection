@@ -20,7 +20,13 @@ layers:
   7: |
     Bu rivayet karşısındaki ahlâkî sarsılma *yerindedir* ve kabul edilmelidir. Konu kişisel bir travmaya dokunuyorsa, nazikçe destek hizmetleri önerilmelidir.
 honest: |
-  Âişe'nin tam yaşı bilinemez. Rivayet klasik ölçütlere göre güçlüdür. Little'ın tezi ciddidir ama tartışmalıdır. Revizyonist kronolojiler çoğu zaman abartılıdır. Sayı oyunlarından kaçınmak gerekir; sağlam ifade ahlâkî olanıdır.
+  Âişe'nin tam yaşı bilinemez. Rivayet klasik ölçütlere göre güçlüdür. Little'ın tezi ciddidir ama tartışmalıdır. Revizyonist kronolojiler çoğu zaman abartılıdır. Sayı oyunları meseleyi çözmez; sağlam ifade ahlâkî olanıdır.
 visualization: |
   Medine'den Kûfe'ye bir rivayet haritası. Evlilik yaşı normlarının zaman çizelgesi. Bir "üç görüş, tek ahlâk" kartı.
 sourceLabels: [null, null, null, 'ICRAA değerlendirmesi', null, 'Kândehlevî, *Umr-e Âişe* (Urduca)', 'TMK md. 124 (Türkçe)', 'TDV, "Âişe" (Türkçe)', 'Âişe (Vikipedi)']
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Avoid number games; the firm statement is the ethical one."
+    to: "Number games do not settle the question; the firm statement is the ethical one."

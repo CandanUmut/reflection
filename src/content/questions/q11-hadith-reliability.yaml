@@ -49,12 +49,12 @@ layers:
     en: "Memory research: formal recitation cultures transmit with high fidelity; casual anecdote drifts."
   - kind: psychological
     tr: |
-      Kur'ancılık çoğu zaman rahatsız edici metinlerden bir kurtuluştur. Bunu kabul etmek, sonra Sünnet'i koruyan klasik araçları (derecelendirme, bağlam, delil hiyerarşisi) göstermek gerekir.
-    en: Quranism is often relief from troubling texts. Acknowledge that, then show classical tools (grading, context, evidence hierarchy) that keep the Sunna.
+      Kur'ancılık çoğu zaman rahatsız edici metinlerden bir kurtuluştur. Bu rahatlama gerçektir; klasik araçlar (derecelendirme, bağlam, delil hiyerarşisi) ise Sünnet'i koruyan başka bir yol sunar.
+    en: Quranism is often relief from troubling texts. That relief is real; the classical tools (grading, context, the hierarchy of evidence) offer another way, one that keeps the Sunna.
 honestLimits:
   tr: |
     Bazı sahih hadisler ciddi akademisyenlerce tartışılmaktadır; klasik derecelendirme güçlüdür ama yanılmaz değildir. "Buhârî'deki her rivayet kesindir" de, "bütün hadisler uydurmadır" da denmemelidir.
-  en: Some ṣaḥīḥ hadith are contested by serious academics; classical grading is strong, not infallible. Avoid "every Bukhārī report is certain" and "all hadith are fabricated".
+  en: 'Some ṣaḥīḥ hadith are contested by serious academics; classical grading is strong, not infallible. Neither extreme holds: not "every Bukhārī report is certain", and not "all hadith are fabricated".'
 visualizations:
   - id: ideas
     tr: |

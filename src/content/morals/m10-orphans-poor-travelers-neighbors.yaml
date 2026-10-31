@@ -64,13 +64,11 @@ gaps:
   tr: |
     - Modern şehirlerde komşuluk ilişkileri çoğu zaman zayıftır; pek çok kişi komşusunu tanımaz.
     - Müslüman çoğunluklu ülkelerde yetim ve mülteci bakımı, güçlü programlardan ciddi ihmale kadar büyük farklılıklar gösterir.
-    - *Kefâlet*, Batı'daki evlat edinmeden farklıdır (çocuk soyunu korur); bunu basitçe "daha iyi" diye değil, tarafsız biçimde açıklamak gerekir.
+    - *Kefâlet*, Batı'daki evlat edinmeden farklıdır (çocuk soyunu korur); burada basitçe "daha iyi" diye değil, tarafsız biçimde anlatılır.
   en: |-
-    …gaps.
-
     - Neighbor relationships in modern cities are often thin; many people do not know their neighbors.
     - Orphan and refugee care in Muslim-majority countries varies widely, from strong programs to serious neglect.
-    - *Kafāla* differs from Western adoption (the child keeps their lineage); explain this neutrally rather than as simply "better".
+    - *Kafāla* differs from Western adoption (the child keeps their lineage); it is described here neutrally, not as simply "better".
 visualizations:
   - id: ideas
     tr: |
