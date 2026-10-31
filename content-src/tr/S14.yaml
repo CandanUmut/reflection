@@ -35,3 +35,57 @@ sourceLabels:
   - 'İbn Kesîr ve Taberî''nin 25:45–46 tefsirleri'
   - 'David A. King, *In Synchrony with the Heavens* (Brill) — İslam astronomisinde vakit ölçümü üzerine'
   - 'Diyanet İlmihali, namaz vakitleri üzerine'
+built:
+  - id: sundial
+    tr: Güneş saati — çubuk ve gölgesi
+    en: A sundial — a stick and its shadow
+    labels:
+      tr:
+        time: Saat (güneş saati)
+        season: Mevsim
+        summer: Haziran
+        equinox: Ekinoks
+        winter: Aralık
+        place: Yer
+        istanbul: İstanbul (41° K)
+        mecca: Mekke (21,4° K)
+        west: batı
+        east: doğu
+        ratio: Gölge, çubuğun {x} katı uzunluğunda.
+        almostNone: Gölge neredeyse yok; güneş neredeyse tam tepede.
+        long: (Çizimde kısaltıldı.)
+        noon: Güneşin en yüksekte olduğu an (zeval) — günün en kısa gölgesi.
+        below: Güneş ufkun altında; gölge yok.
+        asr: İkindi başladı (çoğunluk görüşü)
+        asrHanafi: İkindi başladı (Hanefî görüşü de)
+      en:
+        time: Time (solar time)
+        season: Season
+        summer: June
+        equinox: Equinox
+        winter: December
+        place: Place
+        istanbul: Istanbul (41° N)
+        mecca: Mecca (21.4° N)
+        west: west
+        east: east
+        ratio: The shadow is {x} times the stick's length.
+        almostNone: Almost no shadow; the sun is nearly overhead.
+        long: (Shortened in the drawing.)
+        noon: Solar noon — the shortest shadow of the day.
+        below: The sun is below the horizon; no shadow.
+        asr: ʿAṣr has begun (majority view)
+        asrHanafi: ʿAṣr has begun (Ḥanafī view too)
+    textVersion:
+      tr: |
+        - Bir gölgenin uzunluğu, cismin boyunun güneşin yükseklik açısının tanjantına bölümüne eşittir.
+        - Gün doğumunda ve batımında gölgeler çok uzar; güneş en yüksekte olduğu anda (zeval) günün en kısa gölgesini verir.
+        - Desen enleme ve mevsime göre değişir, çünkü Dünya'nın ekseni yaklaşık 23,4° eğiktir. Mekke'de yılda iki kez öğle güneşi tam tepeye gelir ve gölge neredeyse kaybolur.
+        - Çoğunluğun görüşüne göre ikindi, gölge cismin boyu artı öğle gölgesi kadar olunca; Hanefî görüşüne göre boyunun iki katı artı öğle gölgesi kadar olunca başlar.
+        - Çizim güneyden bakan bir görünüştür: çizilen gölge, gölgenin doğu–batı bileşenidir; bu yüzden öğle vakti yön değiştirirken yumuşakça kısalıp uzar. Okunan değer gölgenin tam uzunluğudur.
+      en: |
+        - A shadow's length equals the object's height divided by the tangent of the sun's elevation angle.
+        - At sunrise and sunset shadows stretch very long; at solar noon they reach their shortest length of the day.
+        - The pattern changes with latitude and season, because Earth's axis is tilted about 23.4°. Twice a year in Mecca the noon sun stands directly overhead and shadows almost disappear.
+        - In the majority view, ʿAṣr begins when the shadow equals the object's length plus its noon shadow; in the Ḥanafī view, twice the length plus the noon shadow.
+        - The drawing is seen from the south: the drawn shadow is its east–west part, so it shrinks and grows smoothly as it swings through noon. The readout gives the shadow's full length.

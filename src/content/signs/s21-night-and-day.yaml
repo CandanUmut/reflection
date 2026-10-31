@@ -74,6 +74,47 @@ visualizations:
     en: |-
       - A Sun–Earth–Moon model where the user moves the Moon and sees the phases, with counters for the 29.5-day month and 354-day year.
       - A "Ramadan through the seasons" wheel over 33 years.
+  - id: lunar
+    tr: Ayın evreleri ve mevsimler içinde Ramazan
+    en: The moon's phases, and Ramadan through the seasons
+    labels:
+      tr:
+        day: Ayın günü
+        dayN: "{d}. gün"
+        phaseOut: Kamerî ayın {d}. günü.
+        years: Geçen yıl
+        yearN: "{y} yıl"
+        spring: ilkbahar
+        summer: yaz
+        autumn: sonbahar
+        winter: kış
+        readout: "{y} yıl sonra Ramazan yaklaşık {days} gün daha erken başlıyor."
+        back: Yaklaşık 33 yıl sonra Ramazan yine aşağı yukarı aynı mevsimde.
+      en:
+        day: Day of the lunar month
+        dayN: day {d}
+        phaseOut: Day {d} of the lunar month.
+        years: Years passed
+        yearN: "{y} {years}"
+        spring: spring
+        summer: summer
+        autumn: autumn
+        winter: winter
+        readout: After {y} {years}, Ramadan begins about {days} days earlier.
+        back: After about 33 years, Ramadan is back in roughly the same season.
+        year: year
+        yearsWord: years
+    textVersion:
+      tr: |
+        - Ay'ın evreleri her 29,5 günde bir tekrarlanır; hicrî ayların temeli budur.
+        - On iki kamerî ay yaklaşık 354 gün eder, güneş yılından yaklaşık 11 gün kısa. Bu yüzden Ramazan her yıl biraz daha erken gelir ve yaklaşık 33 yılda bütün mevsimleri dolaşır.
+        - Yeterince uzun yaşayan bir Müslüman, yılın her mevsiminde Ramazan orucu tutar.
+        - Çarktaki nokta belirli bir yıldan başlamaz; yalnızca kaymayı gösterir. Yıllık kayma, 354 günlük kamerî yıl ile güneş yılı arasındaki farktan (yaklaşık 11 gün) hesaplanmıştır.
+      en: |
+        - The Moon's phases repeat every 29.5 days, the basis of the Islamic months.
+        - Twelve lunar months make about 354 days, about 11 days shorter than the solar year. So Ramadan comes a little earlier each year and moves through all seasons in about 33 years.
+        - A Muslim who lives long enough fasts Ramadan in every season of the year.
+        - The dot on the wheel starts at no particular year; it only shows the drift. The yearly drift is the difference between the 354-day lunar year and the solar year (about 11 days).
 sources:
   - label:
       tr: NASA Güneş ve Ay bilgi sayfaları (güneş ışıması, ay albedosu)

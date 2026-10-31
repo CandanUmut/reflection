@@ -1,0 +1,179 @@
+---
+// S10 · Birds held in the sky. The 2022 juvenile godwit's nonstop flight,
+// Alaska to Tasmania: about 13,560 km in 11 days and 1 hour. A day counter and
+// a fat ("fuel") gauge that runs down. Route and gauge are schematic (no map
+// data, no measured fat curve) and say so. Alaska sits upper right, Tasmania
+// lower left, as on a Pacific map. Plays only when asked; with reduced motion,
+// Play becomes day-by-day steps.
+import VizFrame from '../VizFrame.astro';
+import { t, type Locale } from '../../i18n/ui';
+interface Props {
+  lang: Locale;
+  title: string;
+  textVersion?: string | undefined;
+  labels: Record<string, string>;
+}
+const { lang, title, textVersion, labels: L } = Astro.props;
+const ROUTE = 'M285 30 C 205 70, 155 120, 115 160 S 55 205, 32 214';
+---
+
+<VizFrame lang={lang} title={title} textVersion={textVersion} kind="godwit">
+  <svg viewBox="0 0 320 240" aria-hidden="true" focusable="false">
+    <rect class="v-fill-soft" x="0" y="0" width="320" height="240" rx="3" />
+    <path class="route" d={ROUTE} />
+    <path class="route-done" d={ROUTE} pathLength="1" />
+    <circle class="end" cx="285" cy="30" r="3" />
+    <circle class="end" cx="32" cy="214" r="3" />
+    <text class="v-text" x="277" y="24" text-anchor="end">
+      {L.alaska}
+    </text>
+    <text class="v-text" x="40" y="234">
+      {L.tasmania}
+    </text>
+    <circle class="bird" r="5" cx="285" cy="30" />
+    <g transform="translate(190 190)">
+      <text class="v-text" x="0" y="-6">
+        {L.fuel}
+      </text>
+      <rect class="gauge" x="0" y="0" width="110" height="10" rx="2" />
+      <rect class="gauge-fill" x="0" y="0" width="110" height="10" rx="2" />
+    </g>
+  </svg>
+  <Fragment slot="controls">
+    <p class="viz__readout" data-readout></p>
+    <label>
+      {L.progress}
+      <input type="range" min="0" max="265" step="1" value="0" data-progress />
+    </label>
+    <div class="viz__row">
+      <button class="btn" type="button" data-prev hidden>
+        ← {L.dayBack}
+      </button>
+      <button class="btn" type="button" data-play>
+        {t(lang, 'play')}
+      </button>
+      <button class="btn" type="button" data-next hidden>
+        {L.dayOn} →
+      </button>
+    </div>
+  </Fragment>
+  <script
+    type="application/json"
+    is:inline
+    data-labels
+    set:html={JSON.stringify({ ...L, play: t(lang, 'play'), pause: t(lang, 'pause') })}
+  />
+</VizFrame>
+
+<style>
+  .route {
+    fill: none;
+    stroke: var(--hairline-strong);
+    stroke-dasharray: 3 4;
+  }
+  .route-done {
+    fill: none;
+    stroke: var(--water);
+    stroke-width: 2;
+    stroke-dasharray: 1;
+  }
+  .end {
+    fill: var(--ink-soft);
+  }
+  .bird {
+    fill: var(--ink);
+  }
+  .gauge {
+    fill: none;
+    stroke: var(--ink-soft);
+  }
+  .gauge-fill {
+    fill: var(--water);
+    transform-box: fill-box;
+    transform-origin: left;
+  }
+</style>
+
+<script>
+  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  for (const fig of document.querySelectorAll<HTMLElement>('[data-viz="godwit"]')) {
+    const L: Record<string, string> = JSON.parse(fig.querySelector('[data-labels]')!.textContent!);
+    const range = fig.querySelector<HTMLInputElement>('[data-progress]')!;
+    const play = fig.querySelector<HTMLButtonElement>('[data-play]')!;
+    const prev = fig.querySelector<HTMLButtonElement>('[data-prev]')!;
+    const next = fig.querySelector<HTMLButtonElement>('[data-next]')!;
+    const route = fig.querySelector<SVGPathElement>('.route')!;
+    const done = fig.querySelector<SVGPathElement>('.route-done')!;
+    const bird = fig.querySelector('.bird')!;
+    const fill = fig.querySelector<SVGRectElement>('.gauge-fill')!;
+    const out = fig.querySelector<HTMLElement>('[data-readout]')!;
+    const total = route.getTotalLength();
+    const lang = document.documentElement.lang;
+    const TOTAL_HOURS = 265; // 11 days and 1 hour
+    const TOTAL_KM = 13560;
+    let hours = 0; // the state lives here; the slider only displays it
+    let raf = 0;
+
+    const text = () => {
+      const h = Math.round(hours);
+      return L.readout
+        .replace('{d}', String(Math.floor(h / 24)))
+        .replace('{h}', String(h % 24))
+        .replace('{km}', Math.round((TOTAL_KM * h) / TOTAL_HOURS).toLocaleString(lang));
+    };
+    const draw = (announce = true) => {
+      const f = hours / TOTAL_HOURS;
+      const pt = route.getPointAtLength(total * f);
+      bird.setAttribute('cx', String(pt.x));
+      bird.setAttribute('cy', String(pt.y));
+      done.style.strokeDashoffset = String(1 - f);
+      fill.style.transform = `scaleX(${1 - f})`;
+      range.value = String(Math.round(hours));
+      const s = text();
+      range.setAttribute('aria-valuetext', s);
+      out.textContent = s;
+      // Announce only when the reader acts, never on every animation frame.
+      out.setAttribute('aria-live', announce ? 'polite' : 'off');
+    };
+    const stop = () => {
+      cancelAnimationFrame(raf);
+      raf = 0;
+      play.textContent = L.play;
+      draw(true);
+    };
+    // One day of the flight per second of real time.
+    const step = (prevTime: number) => (now: number) => {
+      hours = Math.min(TOTAL_HOURS, hours + ((now - prevTime) / 1000) * 24);
+      draw(false);
+      if (hours >= TOTAL_HOURS) stop();
+      else raf = requestAnimationFrame(step(now));
+    };
+    play.addEventListener('click', () => {
+      if (raf) return stop();
+      if (hours >= TOTAL_HOURS) hours = 0;
+      play.textContent = L.pause;
+      raf = requestAnimationFrame(step(performance.now()));
+    });
+    range.addEventListener('input', () => {
+      cancelAnimationFrame(raf);
+      raf = 0;
+      play.textContent = L.play;
+      hours = Number(range.value);
+      draw(true);
+    });
+    if (reduce) {
+      // Reduced motion: no animation, step a day at a time instead.
+      play.hidden = true;
+      prev.hidden = next.hidden = false;
+      prev.addEventListener('click', () => {
+        hours = Math.max(0, hours - 24);
+        draw(true);
+      });
+      next.addEventListener('click', () => {
+        hours = Math.min(TOTAL_HOURS, hours + 24);
+        draw(true);
+      });
+    }
+    draw(false);
+  }
+</script>

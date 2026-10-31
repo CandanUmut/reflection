@@ -38,3 +38,7 @@ Things the site needs that the research docs do not (yet) provide, and places wh
 - **S16:** the source label gives Tibetan crust as 75–85 km; the body says 70–75 km (up to 80).
 - **S3 and S12:** confirm the feminine-verb remarks belong to the classical commentators named.
 - **Author-facing sentences.** Some research notes are written to the site's authors ("Do not say…", "Present this fairly", "Avoid…"). They are kept verbatim (Turkish: "…gerekir"), except where they made no sense to a reader (Q6's "Avoid a lecturing tone" is left out; M9, M11–M15 and Q18 have commented rewrites). Umut to decide whether all of them should be rewritten as plain statements.
+
+## Found in the visualizations (Phase 3)
+- **S14 Ḥanafī ʿAṣr rule.** The sundial uses "twice the object's length plus its noon shadow", the usual fiqh wording; the research says only "twice the object's length". A scholar (or Diyanet's İlmihal) should confirm, and the research should be corrected to match.
+- **Editorial inputs** (not in the research, but needed to draw): Istanbul at 41° N and Mecca at 21.4° N (S14); the lunar drift of about 11 days a year, computed from the research's 354-day lunar year (S21); normal crust drawn at 35 km, inside the research's 30–40 km (S16).

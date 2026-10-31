@@ -42,3 +42,33 @@ sourceLabels:
   - 'Alberta Üniversitesi ders notları — Airy izostazisi ve Tibet kabuğu (75–85 km)'
   - 'MIT OpenCourseWare 12.002 — izostazi dersi'
   - 'İbn Kesîr ve Kurtubî''nin 16:15 ve 78:7 tefsirleri'
+built:
+  - id: mountain
+    tr: Buzdağı gibi dağ — görünmeyen kök
+    en: The iceberg mountain — the hidden root
+    labels:
+      tr:
+        height: Dağın yüksekliği (km)
+        surface: deniz seviyesi
+        crust: kabuk (normal 30–40 km)
+        mantle: manto (daha yoğun)
+        readout: '{h} km yüksekliğinde bir dağ, basit Airy modelinde normal kabuğun altına yaklaşık {r} km inen bir kökle dengelenir.'
+      en:
+        height: Mountain height (km)
+        surface: sea level
+        crust: crust (normal 30–40 km)
+        mantle: mantle (denser)
+        readout: 'In the simple Airy model, a mountain {h} km high is balanced by a root reaching about {r} km below the normal crust.'
+    textVersion:
+      tr: |
+        - İzostaziye göre yerkabuğu, daha yoğun olan manto üzerinde, sudaki bir buzdağı gibi yüzer. Yüksek bir sıradağ, mantoya doğru inen kalın ve daha hafif bir kabuk köküyle dengelenir.
+        - Basit Airy modelinde kök, dağın yüksekliğinin yaklaşık beş katı derine iner. Çizim bu oranı kullanır. Normal kıtasal kabuk 30–40 km kalınlığındadır; burada 35 km olarak çizildi.
+        - Çizim şematiktir: yalnızca dikey ölçek gerçeğe göredir; dağın ve kökün şekli temsilîdir. Airy kuralı tek tek doruklar için değil, geniş sıradağlar için geçerlidir.
+        - Himalayalar ve Tibet'in altında kabuk yaklaşık 70–75 km kalınlığındadır (bazı çalışmalara göre 80 km'ye kadar).
+        - Dürüst not: dağlar depremleri önlemez. Dağları yükselten levha çarpışmaları depremlere de yol açar.
+      en: |
+        - Under isostasy, Earth's crust floats on the denser mantle, a bit like an iceberg in water. A high mountain range is balanced by a thick root of lighter crust pushing down into the mantle.
+        - In the simple Airy model, the root goes about five times deeper than the mountain is tall. The drawing uses that ratio. Normal continental crust is 30–40 km thick; it is drawn here at 35 km.
+        - The drawing is schematic: only the vertical scale is to scale; the shapes of the mountain and its root are illustrative. The Airy rule describes broad ranges, not single peaks.
+        - Under the Himalaya and Tibetan Plateau, the crust is about 70–75 km thick (some studies say up to 80 km).
+        - Honest note: mountains do not prevent earthquakes. The plate collisions that raise mountains also cause quakes.

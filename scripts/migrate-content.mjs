@@ -73,7 +73,8 @@ function build(id, tr) {
   const title =
     typeof tr.title === 'string' ? { tr: tr.title, en: it.heading.replace(/\s*\(HIGH\)\s*$/, '').trim() } : tr.title;
   const base = { id, slugs: tr.slugs, order: Number(id.slice(1)), theme: tr.theme, title };
-  const viz = (n) => [{ id: 'ideas', tr: tr.visualization ?? '', en: it.sections[n].text }];
+  // Research visualization ideas, plus any built visualizations described in the Turkish file.
+  const viz = (n) => [{ id: 'ideas', tr: tr.visualization ?? '', en: it.sections[n].text }, ...(tr.built ?? [])];
 
   if (id[0] === 'S') {
     return {

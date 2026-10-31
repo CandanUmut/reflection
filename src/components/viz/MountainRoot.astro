@@ -1,0 +1,82 @@
+---
+// S16 · Mountains as pegs. Raise the mountain and its root deepens below:
+// in the simple Airy model the root goes about five times deeper than the
+// mountain is tall, into the denser mantle. Normal continental crust is shown
+// at 35 km (the research gives 30–40 km). Vertical scale only; widths are
+// schematic.
+import VizFrame from '../VizFrame.astro';
+import type { Locale } from '../../i18n/ui';
+interface Props {
+  lang: Locale;
+  title: string;
+  textVersion?: string | undefined;
+  labels: Record<string, string>;
+}
+const { lang, title, textVersion, labels: L } = Astro.props;
+// 1 km = 2 px. Sea level at y = 40; crust base (35 km) at y = 110.
+---
+
+<VizFrame lang={lang} title={title} textVersion={textVersion} kind="mountain">
+  <svg viewBox="0 0 320 230" aria-hidden="true" focusable="false">
+    <rect class="mantle" x="0" y="110" width="320" height="120" />
+    <path class="crust" d="" />
+    <line class="v-ground" x1="0" y1="40" x2="320" y2="40" />
+    <text class="v-text" x="6" y="36">
+      {L.surface}
+    </text>
+    <text class="v-text" x="6" y="80">
+      {L.crust}
+    </text>
+    <text class="v-text" x="6" y="222">
+      {L.mantle}
+    </text>
+    <text class="v-text root-label" x="214" y="0"></text>
+  </svg>
+  <Fragment slot="controls">
+    <p class="viz__readout" aria-live="polite" data-readout></p>
+    <label>
+      {L.height}
+      <input type="range" min="0.5" max="8.8" step="0.1" value="4" data-height />
+    </label>
+  </Fragment>
+  <script type="application/json" is:inline data-labels set:html={JSON.stringify(L)} />
+</VizFrame>
+
+<style>
+  .mantle {
+    fill: var(--paper-deep);
+  }
+  .crust {
+    fill: var(--paper);
+    stroke: var(--ink-soft);
+    stroke-width: 1.2;
+  }
+</style>
+
+<script>
+  for (const fig of document.querySelectorAll<HTMLElement>('[data-viz="mountain"]')) {
+    const L: Record<string, string> = JSON.parse(fig.querySelector('[data-labels]')!.textContent!);
+    const range = fig.querySelector<HTMLInputElement>('[data-height]')!;
+    const crust = fig.querySelector('.crust')!;
+    const rootLabel = fig.querySelector('.root-label')!;
+    const out = fig.querySelector('[data-readout]')!;
+    const lang = document.documentElement.lang;
+    const fmt = (x: number) => x.toLocaleString(lang, { maximumFractionDigits: 1 });
+    const KM = 2;
+
+    const draw = () => {
+      const h = Number(range.value);
+      const root = 5 * h;
+      const top = 40 - h * KM;
+      const bottom = 110 + root * KM;
+      // Crust slab with a mountain on top and its mirrored root below.
+      crust.setAttribute('d', `M0 40 H110 L160 ${top} L210 40 H320 V110 H210 L160 ${bottom} L110 110 H0 Z`);
+      rootLabel.setAttribute('y', String(Math.min(bottom, 226)));
+      rootLabel.textContent = root > 0 ? `${fmt(root)} km` : '';
+      out.textContent = L.readout.replace('{h}', fmt(h)).replace('{r}', fmt(root));
+      range.setAttribute('aria-valuetext', out.textContent);
+    };
+    range.addEventListener('input', draw);
+    draw();
+  }
+</script>

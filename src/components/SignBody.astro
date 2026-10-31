@@ -10,6 +10,7 @@ import Layer from './Layer.astro';
 import HonestNote from './HonestNote.astro';
 import Divider from './Divider.astro';
 import GerminationViz from './GerminationViz.astro';
+import BuiltViz from './viz/BuiltViz.astro';
 import Sources from './Sources.astro';
 import { md, mdInline } from '../lib/md';
 import { refLabel } from '../lib/quran';
@@ -76,6 +77,9 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
             </>
           )}
           {viz && viz.steps && <GerminationViz lang={lang} steps={viz.steps[lang]} title={viz[lang]} />}
+          {sign.visualizations.map((v) => (
+            <BuiltViz viz={v} lang={lang} />
+          ))}
         </Layer>
         {notesInline &&
           sign.honestNotes.map((note) => (
