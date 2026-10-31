@@ -38,6 +38,14 @@
    "whole": true,
    "grades": []
   },
+  "bukhari:1417": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:1427": {
+   "whole": true,
+   "grades": []
+  },
   "bukhari:2444": {
    "whole": true,
    "grades": []
@@ -54,11 +62,23 @@
    "whole": true,
    "grades": []
   },
+  "bukhari:3231": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:33": {
+   "whole": true,
+   "grades": []
+  },
   "bukhari:3467": {
    "whole": true,
    "grades": []
   },
   "bukhari:3475": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:4025": {
    "whole": true,
    "grades": []
   },
@@ -71,6 +91,14 @@
    "grades": []
   },
   "bukhari:4837": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:5304": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:5353": {
    "whole": true,
    "grades": []
   },
@@ -106,7 +134,23 @@
    "whole": true,
    "grades": []
   },
+  "bukhari:6014": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:6016": {
+   "whole": true,
+   "grades": []
+  },
   "bukhari:6094": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:6114": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:6436": {
    "whole": true,
    "grades": []
   },
@@ -115,6 +159,10 @@
    "grades": []
   },
   "bukhari:6478": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:6496": {
    "whole": true,
    "grades": []
   },
@@ -172,6 +220,14 @@
    "whole": true,
    "grades": []
   },
+  "muslim:1598": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:1605": {
+   "whole": true,
+   "grades": []
+  },
   "muslim:1676": {
    "whole": true,
    "grades": []
@@ -188,7 +244,15 @@
    "whole": true,
    "grades": []
   },
+  "muslim:2564": {
+   "whole": true,
+   "grades": []
+  },
   "muslim:2582": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:2588": {
    "whole": true,
    "grades": []
   },
@@ -259,6 +323,27 @@
     {
      "grade": "Hasan",
      "by": "Bashar Awad Maarouf"
+    }
+   ]
+  },
+  "tirmidhi:1315": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Sahih",
+     "by": "Ahmad Muhammad Shakir"
+    },
+    {
+     "grade": "Sahih",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Hasan Sahih",
+     "by": "Bashar Awad Maarouf"
+    },
+    {
+     "grade": "Sahih Muslim",
+     "by": "Zubair Ali Zai"
     }
    ]
   },
