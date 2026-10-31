@@ -1,5 +1,7 @@
 # The About page. Every statement describes how this site was made and is
-# checked; nothing here speaks for its author (that section waits for Umut).
+# checked. "How it was made" follows Umut's own answer (2026-10-31): "the
+# research and the code is built with the help of the AI, the idea is mine".
+# He chose not to have a section about himself.
 sections:
   - title:
       tr: Bu site nedir?
@@ -9,6 +11,14 @@ sections:
         Tefekkür, düşünmeye davet eden iki dilli (Türkçe ve İngilizce) bir sitedir. Kur'an'ın işaret ettiği âyetleri (tohum, su, gölge, uyku…), Kur'an'ın ahlâk vizyonunu ve inancın zor sorularına dürüst cevapları bir araya getirir. "Bilimsel mucize" sitesi değildir: Kur'an bir bilim kitabı değildir. Âyetler tefekküre davet olarak sunulur; bilim, araştırmanın verdiği şekliyle ve kaynaklarıyla, ayrı olarak anlatılır.
       en: |
         Tefekkür is a bilingual (Turkish and English) site that invites reflection. It brings together the signs the Quran points to (seed, water, shadow, sleep…), the Quran's moral vision, and honest answers to hard questions of faith. It is not a "scientific miracles" site: the Quran is not a science textbook. Verses are shown as invitations to reflect; science is described separately, as the research gives it, with its sources.
+  - title:
+      tr: Nasıl yapıldı?
+      en: How was it made?
+    body:
+      tr: |
+        Bu sitenin fikri Umut'a aittir. Araştırma ve kod, yapay zekâ yardımıyla (Anthropic'in Claude'u) hazırlandı. Araştırmanın Türkçe metni de, Kur'an mealleri dışında, yapay zekâ yardımıyla çevrildi.
+      en: |
+        The idea for this site is Umut's. The research and the code were built with the help of AI (Claude, by Anthropic). The Turkish text of the research, apart from the Quran translations, was also translated with the help of AI.
   - title:
       tr: İçerik nereden geliyor?
       en: Where does the content come from?
@@ -28,9 +38,9 @@ sections:
       en: Quran text and translations
     body:
       tr: |
-        Arapça metin Tanzil Projesi'nin Osmanî metnidir (CC BY 3.0). Mealler, değiştirilmeden: Türkçe için Elmalılı Hamdi Yazır (Tanzil'deki sadeleştirilmiş baskı), İngilizce için Saheeh International. Kelime kelime okunuş Quran.com verisinden alınmıştır. Yayına açılmadan önce iki mealin yayıncılarından yazılı izin alınması önerilir.
+        Arapça metin Tanzil Projesi'nin Osmanî metnidir (CC BY 3.0). Mealler, değiştirilmeden: Türkçe için Elmalılı Hamdi Yazır (Tanzil'deki sadeleştirilmiş baskı), İngilizce için Saheeh International. Kelime kelime okunuş Quran.com verisinden alınmıştır. İki meal de Tanzil'in koşullarına uygun olarak, ticari olmayan amaçla ve kaynak gösterilerek kullanılır; bu site ücretsizdir ve ticari değildir.
       en: |
-        The Arabic is the Tanzil Project's Uthmani text (CC BY 3.0). Translations, unchanged: Elmalılı Hamdi Yazır for Turkish (the simplified edition on Tanzil) and Saheeh International for English. Word-by-word transliteration comes from Quran.com data. Written permission from both translations' publishers is advised before the site goes public.
+        The Arabic is the Tanzil Project's Uthmani text (CC BY 3.0). Translations, unchanged: Elmalılı Hamdi Yazır for Turkish (the simplified edition on Tanzil) and Saheeh International for English. Word-by-word transliteration comes from Quran.com data. Both are used as Tanzil's terms allow: for non-commercial purposes, with attribution. This site is free and non-commercial.
   - title:
       tr: Nasıl kontrol edildi — ve henüz ne kontrol edilmedi
       en: How it was checked — and what is not checked yet

@@ -16,6 +16,8 @@ export const palettes = {
     life: '#2C6248',
     water: '#155F66',
     clay: '#A3372A',
+    // The Honest Note alone: İznik's manganese aubergine, used by nothing else.
+    honest: '#6B2C63',
     turquoise: '#3E9C97',
     hairline: '#D6D8D6',
     'hairline-strong': '#7C8191',
@@ -32,6 +34,8 @@ export const palettes = {
     life: '#2E6648',
     water: '#176267',
     clay: '#A8392B',
+    // The Honest Note alone: İznik's manganese aubergine, used by nothing else.
+    honest: '#6E2D63',
     turquoise: '#3AA09A',
     hairline: '#DED6C6',
     'hairline-strong': '#857E70',
@@ -48,6 +52,8 @@ export const palettes = {
     life: '#30613F',
     water: '#185D60',
     clay: '#A13426',
+    // The Honest Note alone: İznik's manganese aubergine, used by nothing else.
+    honest: '#692A5E',
     turquoise: '#3A9690',
     hairline: '#E0D0B5',
     'hairline-strong': '#887862',
@@ -64,6 +70,8 @@ export const palettes = {
     life: '#93C8A4',
     water: '#73CCC5',
     clay: '#F1907A',
+    // The Honest Note alone: İznik's manganese aubergine, used by nothing else.
+    honest: '#E2AEE0',
     turquoise: '#5FC0B8',
     hairline: '#28325C',
     'hairline-strong': '#6670A0',
