@@ -1,0 +1,141 @@
+---
+// The dome medallion (göbek) at the crown of a Sinan dome, as a section
+// divider: an eight-pointed star at the centre, a ring of sixteen lobes, an
+// outer ring of radiating ticks. It blooms outward from its centre, ring by
+// ring, when it comes into view — order unfolding from one point. With
+// reduced motion it is simply there.
+const C = 100;
+const lobes = 16;
+const lobeR = 34;
+const lobe = (i: number) => {
+  // Each lobe: an arc bulging outward between two points on the ring.
+  const a1 = (i * 2 * Math.PI) / lobes;
+  const a2 = ((i + 1) * 2 * Math.PI) / lobes;
+  const p = (a: number, rr: number) => `${(C + rr * Math.cos(a)).toFixed(2)} ${(C + rr * Math.sin(a)).toFixed(2)}`;
+  return `M${p(a1, lobeR)} A7.2 7.2 0 0 1 ${p(a2, lobeR)}`;
+};
+const star = Array.from({ length: 16 }, (_, i) => {
+  const a = (i * Math.PI) / 8 - Math.PI / 2;
+  const rr = i % 2 === 0 ? 22 : 22 * (Math.cos(Math.PI / 4) / Math.cos(Math.PI / 8));
+  return `${(C + rr * Math.cos(a)).toFixed(2)} ${(C + rr * Math.sin(a)).toFixed(2)}`;
+});
+const ticks = Array.from({ length: 32 }, (_, i) => {
+  const a = (i * 2 * Math.PI) / 32;
+  const [r1, r2] = i % 2 === 0 ? [50, 60] : [52, 57];
+  return `M${(C + r1 * Math.cos(a)).toFixed(2)} ${(C + r1 * Math.sin(a)).toFixed(2)} L${(C + r2 * Math.cos(a)).toFixed(2)} ${(C + r2 * Math.sin(a)).toFixed(2)}`;
+});
+---
+
+<div class="medallion" data-medallion aria-hidden="true">
+  <span class="medallion__rule"></span>
+  <svg viewBox="30 30 140 140" width="140" height="140" focusable="false">
+    <g class="ring ring--4">
+      <circle cx={C} cy={C} r="64" class="m-line m-gild" />
+      {ticks.map((d) => (
+        <path d={d} class="m-line m-tick" />
+      ))}
+    </g>
+    <g class="ring ring--3">
+      <circle cx={C} cy={C} r="46" class="m-line" />
+      {Array.from({ length: lobes }, (_, i) => (
+        <path d={lobe(i)} class="m-line m-lobe" />
+      ))}
+    </g>
+    <g class="ring ring--2">
+      <circle cx={C} cy={C} r="28" class="m-line m-gild" />
+      <path d={'M' + star.join(' L') + 'Z'} class="m-star" />
+    </g>
+    <g class="ring ring--1">
+      <circle cx={C} cy={C} r="5" class="m-eye" />
+    </g>
+  </svg>
+  <span class="medallion__rule"></span>
+</div>
+
+<style>
+  .medallion {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-3);
+    margin-block: var(--space-6);
+  }
+  .medallion__rule {
+    flex: 0 1 7rem;
+    height: 1px;
+    background: linear-gradient(to var(--dir, right), transparent, var(--lamp-line));
+  }
+  .medallion__rule:last-child {
+    --dir: left;
+  }
+  svg {
+    width: clamp(6.5rem, 22vw, 8.75rem);
+    height: auto;
+    overflow: visible;
+  }
+  .m-line {
+    fill: none;
+    stroke: var(--cobalt);
+    stroke-width: 1;
+  }
+  .m-gild {
+    stroke: var(--lamp-line);
+  }
+  .m-tick {
+    stroke: var(--turquoise);
+  }
+  .m-lobe {
+    stroke: var(--cobalt);
+  }
+  .m-star {
+    fill: color-mix(in srgb, var(--cobalt) 14%, transparent);
+    stroke: var(--cobalt);
+    stroke-width: 1;
+  }
+  .m-eye {
+    fill: var(--clay);
+  }
+  .ring {
+    transform-box: view-box;
+    transform-origin: 100px 100px;
+  }
+  /* With JavaScript, rings wait folded at the centre and bloom on view. */
+  :global(.js) .medallion:not(.is-open) .ring {
+    opacity: 0;
+    transform: scale(0.4) rotate(-22.5deg);
+  }
+  .medallion.is-open .ring {
+    transition:
+      opacity 1.4s var(--ease-breath),
+      transform 2.2s var(--ease-breath);
+  }
+  .medallion.is-open .ring--2 {
+    transition-delay: 0.35s;
+  }
+  .medallion.is-open .ring--3 {
+    transition-delay: 0.8s;
+  }
+  .medallion.is-open .ring--4 {
+    transition-delay: 1.25s;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    :global(.js) .medallion:not(.is-open) .ring {
+      opacity: 1;
+      transform: none;
+    }
+  }
+</style>
+
+<script>
+  const io = new IntersectionObserver(
+    (entries) => {
+      for (const e of entries)
+        if (e.isIntersecting) {
+          e.target.classList.add('is-open');
+          io.unobserve(e.target);
+        }
+    },
+    { threshold: 0.6 },
+  );
+  document.querySelectorAll('[data-medallion]').forEach((el) => io.observe(el));
+</script>

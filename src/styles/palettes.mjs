@@ -1,62 +1,71 @@
-// The four time-of-day palettes (DESIGN.md §3.1–3.2).
-// Day and Night start from the brief's values; accents were darkened (day) or
-// lightened (night) only as far as needed to pass WCAG AA as text.
-// Fajr is cooler and paler (first light); ʿAṣr is warmer (low sun on paper).
+// The four time-of-day palettes (DESIGN.md §3.1), redrawn from Mimar Sinan's
+// interiors: ivory limestone walls, İznik tile cobalt and turquoise, the
+// coral-red of İznik bole and of Süleymaniye's ablaq arches, sage green, and
+// gilding used only as a thin line. Night is the deep indigo of tile grounds.
+// Every text colour passes WCAG AA on paper and paper-deep (scripts/contrast.mjs).
 export const palettes = {
   fajr: {
-    // Brighter gold for thin decorative lines only (arches, dividers); never for text.
-    'lamp-line': '#A08049',
-    paper: '#EEEDEA',
-    'paper-deep': '#E5E3DE',
-    ink: '#1A1B21',
-    'ink-soft': '#52545E',
-    lamp: '#75592B',
-    life: '#46613F',
-    water: '#2B5860',
-    clay: '#814532',
-    hairline: '#D4D2CC',
-    'hairline-strong': '#7E7C76',
+    // First light: cooler stone, blue still in the air.
+    paper: '#F1F1EE',
+    'paper-deep': '#E6E7E4',
+    ink: '#121833',
+    'ink-soft': '#454C66',
+    cobalt: '#1C4592',
+    lamp: '#6E5520',
+    'lamp-line': '#AF8A3E',
+    life: '#2C6248',
+    water: '#155F66',
+    clay: '#A3372A',
+    turquoise: '#3E9C97',
+    hairline: '#D6D8D6',
+    'hairline-strong': '#7C8191',
   },
   day: {
-    // Brighter gold for thin decorative lines only (arches, dividers); never for text.
-    'lamp-line': '#A9823F',
-    paper: '#F3EDE2',
-    'paper-deep': '#EAE2D3',
-    ink: '#1D1A16',
-    'ink-soft': '#5A5248',
-    lamp: '#77592A',
-    life: '#4A6542',
-    water: '#2F5E66',
-    clay: '#8A4B36',
-    hairline: '#D9CFBF',
-    'hairline-strong': '#857A6A',
+    // Full day: warm ivory limestone.
+    paper: '#F7F3EA',
+    'paper-deep': '#EEE7D8',
+    ink: '#141A33',
+    'ink-soft': '#484D63',
+    cobalt: '#1D4A99',
+    lamp: '#735621',
+    'lamp-line': '#B8913A',
+    life: '#2E6648',
+    water: '#176267',
+    clay: '#A8392B',
+    turquoise: '#3AA09A',
+    hairline: '#DED6C6',
+    'hairline-strong': '#857E70',
   },
   asr: {
-    // Brighter gold for thin decorative lines only (arches, dividers); never for text.
-    'lamp-line': '#A57C3A',
-    paper: '#F2E6D2',
-    'paper-deep': '#E9DAC2',
-    ink: '#211911',
-    'ink-soft': '#5C4C3A',
-    lamp: '#735524',
-    life: '#46603E',
-    water: '#2C5960',
-    clay: '#854431',
-    hairline: '#DCCAAE',
-    'hairline-strong': '#86745B',
+    // Late afternoon: low sun warms the stone.
+    paper: '#F6ECDB',
+    'paper-deep': '#EDE0CA',
+    ink: '#1A1A2E',
+    'ink-soft': '#4E4A5A',
+    cobalt: '#1E4790',
+    lamp: '#6F501B',
+    'lamp-line': '#B88A35',
+    life: '#30613F',
+    water: '#185D60',
+    clay: '#A13426',
+    turquoise: '#3A9690',
+    hairline: '#E0D0B5',
+    'hairline-strong': '#887862',
   },
   night: {
-    // Brighter gold for thin decorative lines only (arches, dividers); never for text.
-    'lamp-line': '#D2AE66',
-    paper: '#0E1322',
-    'paper-deep': '#151B2D',
-    ink: '#E9E3D6',
-    'ink-soft': '#A7A092',
-    lamp: '#D2AE66',
-    life: '#8DAA7F',
-    water: '#7FB3B8',
-    clay: '#C98D72',
-    hairline: '#2A3046',
-    'hairline-strong': '#646D8A',
+    // Night: the deep indigo ground of İznik tiles.
+    paper: '#0B1230',
+    'paper-deep': '#121B40',
+    ink: '#EEE8DA',
+    'ink-soft': '#AEB4C8',
+    cobalt: '#97B4F2',
+    lamp: '#E2C070',
+    'lamp-line': '#C9A55C',
+    life: '#93C8A4',
+    water: '#73CCC5',
+    clay: '#F1907A',
+    turquoise: '#5FC0B8',
+    hairline: '#28325C',
+    'hairline-strong': '#6670A0',
   },
 };

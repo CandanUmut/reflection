@@ -13,7 +13,7 @@ const ratio = (a, b) => {
   return (x + 0.05) / (y + 0.05);
 };
 
-const text = ['ink', 'ink-soft', 'lamp', 'life', 'water', 'clay'];
+const text = ['ink', 'ink-soft', 'cobalt', 'lamp', 'life', 'water', 'clay'];
 const nonText = ['hairline-strong'];
 let failed = 0;
 for (const [name, p] of Object.entries(palettes)) {

@@ -1,0 +1,54 @@
+---
+// Kündekari band: the eight-pointed star-and-cross pattern of the carved
+// wooden doors, shutters and minbars in Mimar Sinan's mosques. Stars of two
+// overlapping squares, set so their points touch; the crosses appear in
+// between. Drawn as a fine line in tile cobalt, between two gilded rules.
+interface Props {
+  /** Visible height of the band in px. */
+  height?: number;
+  class?: string;
+}
+const { height = 22, class: cls } = Astro.props;
+const R = 20;
+const r = (R * Math.cos(Math.PI / 4)) / Math.cos(Math.PI / 8);
+const star = Array.from({ length: 16 }, (_, i) => {
+  const a = (i * Math.PI) / 8;
+  const rad = i % 2 === 0 ? R : r;
+  return `${(20 + rad * Math.cos(a)).toFixed(2)} ${(20 + rad * Math.sin(a)).toFixed(2)}`;
+});
+const id = `kundekari-${height}`;
+---
+
+<svg class:list={['band', cls]} height={height} aria-hidden="true" focusable="false" preserveAspectRatio="none">
+  <defs>
+    <pattern id={id} width="40" height="40" patternUnits="userSpaceOnUse" patternTransform={`scale(${height / 40})`}>
+      <path class="band__star" d={'M' + star.join(' L') + 'Z'} />
+      <circle class="band__eye" cx="20" cy="20" r="2.4" />
+    </pattern>
+  </defs>
+  <line class="band__rule" x1="0" y1="0.5" x2="100%" y2="0.5" />
+  <rect x="0" y="1" width="100%" height={height - 2} fill={`url(#${id})`} />
+  <line class="band__rule" x1="0" y1={height - 0.5} x2="100%" y2={height - 0.5} />
+</svg>
+
+<style>
+  .band {
+    display: block;
+    width: 100%;
+    overflow: hidden;
+  }
+  .band__star {
+    fill: none;
+    stroke: var(--cobalt);
+    stroke-width: 1.4;
+    opacity: 0.55;
+  }
+  .band__eye {
+    fill: var(--turquoise);
+    opacity: 0.8;
+  }
+  .band__rule {
+    stroke: var(--lamp-line);
+    stroke-width: 1;
+  }
+</style>

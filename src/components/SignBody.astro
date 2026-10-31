@@ -8,7 +8,8 @@ import VerseBlock from './VerseBlock.astro';
 import Pause from './Pause.astro';
 import Layer from './Layer.astro';
 import HonestNote from './HonestNote.astro';
-import Divider from './Divider.astro';
+import Medallion from './motifs/Medallion.astro';
+import KundekariBand from './motifs/KundekariBand.astro';
 import GerminationViz from './GerminationViz.astro';
 import BuiltViz from './viz/BuiltViz.astro';
 import Sources from './Sources.astro';
@@ -35,6 +36,7 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
   </header>
 
   <section class="sign__verse wrap" aria-label={t(lang, 'layerVerse')}>
+    <KundekariBand height={18} class="sign__band" />
     <VerseBlock refs={sign.verses} lang={lang} />
     {sign.verseNotes && (
       <div class="sign__verse-notes">
@@ -52,6 +54,7 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
         ))}
       </p>
     )}
+    <KundekariBand height={18} class="sign__band" />
   </section>
 
   {sign.pause && <Pause ref={sign.pause.ref} lang={lang} />}
@@ -98,7 +101,7 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
       </div>
     </div>
 
-    <Divider />
+    <Medallion />
 
     <div class="wrap">
       <Layer kind="reflection" n={4} lang={lang}>
@@ -115,6 +118,10 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
 </article>
 
 <style>
+  .sign__verse :global(.sign__band) {
+    max-width: 30rem;
+    margin: var(--space-4) auto;
+  }
   .sign__missing {
     font-family: var(--font-ui);
     font-size: 0.85rem;

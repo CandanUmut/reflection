@@ -7,7 +7,7 @@ import VerseList from './VerseList.astro';
 import HonestNote from './HonestNote.astro';
 import HundredParts from './HundredParts.astro';
 import HelpCard from './HelpCard.astro';
-import Divider from './Divider.astro';
+import Medallion from './motifs/Medallion.astro';
 import Sources from './Sources.astro';
 import { md, mdInline } from '../lib/md';
 import { t, type Locale, type UiKey } from '../i18n/ui';
@@ -31,7 +31,7 @@ const hundred = m.visualizations.find((v) => v.id === 'hundred-parts');
     <VerseBlock refs={m.verses.slice(0, 1)} lang={lang} size="small" />
     {m.verses.length > 1 && <VerseList refs={m.verses.slice(1)} lang={lang} />}
   </section>
-  <Divider />
+  <Medallion />
   <div class="wrap">
     {sections.map((k) => (
       <section class="moral__section" aria-labelledby={`m-${k}`}>

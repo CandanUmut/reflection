@@ -21,10 +21,10 @@ for f in glob.glob(os.path.join(ROOT, 'dist/**/*.html'), recursive=True):
 
 # family, style, weight range, source pattern ({s} = latin | latin-ext)
 FACES = [
-    ('Fraunces Variable', 'normal', '100 900', 'fraunces', '@fontsource-variable/fraunces/files/fraunces-{s}-soft-normal.woff2'),
-    ('Fraunces Variable', 'italic', '100 900', 'fraunces-italic', '@fontsource-variable/fraunces/files/fraunces-{s}-soft-italic.woff2'),
-    ('Literata Variable', 'normal', '200 900', 'literata', '@fontsource-variable/literata/files/literata-{s}-wght-normal.woff2'),
-    ('Literata Variable', 'italic', '200 900', 'literata-italic', '@fontsource-variable/literata/files/literata-{s}-wght-italic.woff2'),
+    ('Cormorant Garamond Variable', 'normal', '300 700', 'cormorant', '@fontsource-variable/cormorant-garamond/files/cormorant-garamond-{s}-wght-normal.woff2'),
+    ('Cormorant Garamond Variable', 'italic', '300 700', 'cormorant-italic', '@fontsource-variable/cormorant-garamond/files/cormorant-garamond-{s}-wght-italic.woff2'),
+    ('Crimson Pro Variable', 'normal', '200 900', 'crimson', '@fontsource-variable/crimson-pro/files/crimson-pro-{s}-wght-normal.woff2'),
+    ('Crimson Pro Variable', 'italic', '200 900', 'crimson-italic', '@fontsource-variable/crimson-pro/files/crimson-pro-{s}-wght-italic.woff2'),
     ('Inter Variable', 'normal', '100 900', 'inter', '@fontsource-variable/inter/files/inter-{s}-wght-normal.woff2'),
     ('IBM Plex Mono', 'normal', '400', 'plex-mono', '@fontsource/ibm-plex-mono/files/ibm-plex-mono-{s}-400-normal.woff2'),
 ]
