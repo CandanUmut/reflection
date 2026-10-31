@@ -6,7 +6,7 @@ import '@fontsource/eb-garamond/400.css';
 import '@fontsource/eb-garamond/400-italic.css';
 import '@fontsource-variable/source-serif-4/wght.css';
 import '@fontsource-variable/source-serif-4/wght-italic.css';
-import { getEntry } from 'astro:content';
+import { getCollection } from 'astro:content';
 import Base from '../layouts/Base.astro';
 import SignBody from '../components/SignBody.astro';
 import Threshold from '../components/Threshold.astro';
@@ -16,7 +16,7 @@ import { palettes } from '../styles/palettes.mjs';
 import { getVerse } from '../lib/quran';
 import { evidenceTag } from '../lib/md';
 
-const seed = await getEntry('signs', 'seed');
+const seed = (await getCollection('signs')).find((e) => e.data.id === 'S1');
 if (!seed) throw new Error('S1 missing');
 const v695 = getVerse('6:95', 'tr');
 const v5663 = { tr: getVerse('56:63', 'tr'), en: getVerse('56:63', 'en') };

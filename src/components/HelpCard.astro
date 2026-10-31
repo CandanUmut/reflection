@@ -1,0 +1,53 @@
+---
+// The gentle help card (DESIGN.md §4.7) for pages on suffering, grief,
+// disasters and vesvese. Quiet, never alarmist. Resources are the ones named
+// in the research (docs/research/02-batch-2.md, Task E): 112, university
+// clinics, AFAD psychosocial support.
+import { t, type Locale } from '../i18n/ui';
+interface Props {
+  lang: Locale;
+  variant: 'vesvese' | 'disaster';
+}
+const { lang, variant } = Astro.props;
+---
+
+<aside class="help" aria-labelledby="help-title">
+  <h2 class="help__title" id="help-title">
+    {t(lang, 'helpTitle')}
+  </h2>
+  {variant === 'vesvese' && <p>{t(lang, 'helpVesvese')}</p>}
+  <ul>
+    <li>{t(lang, 'helpClinics')}</li>
+    {variant === 'disaster' && <li>{t(lang, 'helpAfad')}</li>}
+    <li>{t(lang, 'helpElsewhere')}</li>
+    <li>
+      {t(lang, 'helpEmergency')} <a href="tel:112">112</a>
+    </li>
+  </ul>
+</aside>
+
+<style>
+  .help {
+    margin-block: var(--space-5);
+    padding: var(--space-4);
+    border: 1px solid var(--hairline);
+    border-radius: var(--radius);
+    background: var(--paper-deep);
+  }
+  .help__title {
+    font-size: var(--step-1);
+    margin-bottom: var(--space-2);
+  }
+  .help p {
+    margin-bottom: var(--space-3);
+  }
+  ul {
+    font-family: var(--font-ui);
+    font-size: 0.9rem;
+    margin: 0;
+    padding-left: 1.1em;
+  }
+  li {
+    margin-bottom: var(--space-1);
+  }
+</style>

@@ -1,0 +1,75 @@
+# Source: docs/research/01-batch-1.md, Phase 2, Q8.
+id: Q8
+slugs:
+  tr: vesvese
+  en: intrusive-thoughts
+order: 8
+theme: doubt
+sensitivity: high
+helpCard: vesvese
+verses: ["2:286"]
+title:
+  tr: Şüphe etmek günah mı? Aklıma sürekli küfür gibi düşünceler geliyor.
+  en: Is doubting a sin? I keep having blasphemous thoughts.
+steelman:
+  tr: Allah hakkında istemediğim düşünceler durmadan geliyor. Namazımı ve abdestimi tekrar tekrar kontrol ediyorum. Gerçek bir mümin bu düşünceleri yaşar mı?
+  en: Unchosen thoughts about God keep coming, and I recheck my prayer and ablution. Would a real believer have these thoughts?
+whyAsked:
+  tr: Dinî titizlik takıntısı (vesvese) dindar insanlarda sık görülür ve takvanın arkasına gizlenir.
+  en: Scrupulosity (vesvese) is common in religious people and hides behind piety.
+shortAnswer:
+  tr: |
+    İstenmeyen düşünceler inanç değildir. Allah, eyleme dökülmeyen ve dile getirilmeyen iç seslenmeleri affeder (Buhârî 5269; Müslim 127). Hz. Peygamber, sahâbenin bu düşüncelerden duyduğu rahatsızlığı "sarih iman" diye niteledi (Müslim 132). Sık tekrarlayan kontrol döngüleri, tedavi edilebilen bir durum olan dinî titizlik tipi obsesif-kompulsif bozukluğun (OKB) işareti olabilir. Yardım istemek imanla çelişmez.
+  en: |
+    Unwanted thoughts are not beliefs. God pardons inner whispers that are not acted on or spoken (Bukhārī 5269; Muslim 127). The Prophet called the Companions' distress at such thoughts "clear faith" (Muslim 132). Frequent loops of checking may be scrupulosity OCD, which is treatable, and seeking help is consistent with faith.
+layers:
+  - kind: religious
+    tr: |
+      Fakihler vesveseye yakalanan kişilere şüphelerini önemsememelerini ve ibadetlerini tekrarlamamalarını öğütlemiştir. Bu öğüt, "maruz bırakma ve tepki önleme" (exposure and response prevention) yöntemine paraleldir.
+    en: |
+      Jurists advised people with vesvese to ignore their doubts and not repeat acts, which parallels exposure and response prevention.
+  - kind: philosophical
+    tr: |
+      Araştırma olarak şüphe (Gazzâlî'nin yolu) ile takıntı olarak şüphe aynı şey değildir.
+    en: |
+      Doubt as inquiry (al-Ghazālī) differs from doubt as compulsion.
+  - kind: clinical
+    tr: |
+      - Dinî titizlik (skrupulozite), OKB hastalarının yaklaşık **%5–33**'ünde görülür.
+      - Dinî titizlik yaşayan hastaların yaklaşık **%70**'i, durumun dinî pratiklerini aksattığını bildirir.
+      - Dinî temalı OKB, Orta Doğu örneklemlerinde ortalama yaklaşık **%52**, Türkiye'de yaklaşık **%27** oranında görülür. [Scholarly] Örneklemler farklılık gösterir.
+      - İbn Haldun Üniversitesi'nde İslam'la bütünleştirilmiş bir psikoterapi yöntemi (TIIP) üzerine yürütülen klinik çalışma (NCT07872462) Mart 2026'da tamamlandı; araştırma yazıldığında sonuçları henüz yayımlanmamıştı.
+    en: |
+      - Scrupulosity appears in about **5–33%** of OCD patients.
+      - About **70%** of scrupulosity patients report that it interferes with their religious practice.
+      - Religious-themed OCD averages around **52%** in Middle Eastern samples and about **27%** in Turkey. [Scholarly] Samples vary.
+      - A trial of Traditional Islamically Integrated Psychotherapy (TIIP) at Ibn Haldun University (NCT07872462) was completed in March 2026; when the research was written, its results were not yet available.
+  - kind: psychological
+    tr: |
+      Yaqeen Enstitüsü'ne göre vesvese, OKB'nin dinî bir görünümüdür; bir "Müslüman hastalığı" değildir. Bir klinisyen ile bir imamın birlikte çalışmasını gerektirir.
+    en: |
+      Yaqeen Institute describes waswasa as a religious presentation of OCD, not a "Muslim disease". It needs a clinician and an imam to work together.
+honestLimits:
+  tr: Bir internet sitesi teşhis koyamaz.
+  en: A website cannot diagnose.
+visualizations:
+  - id: thought-vs-belief
+    tr: '"Düşünce mi, inanç mı?" çevrilen kartı'
+    en: A "thought vs. belief" flip card
+  - id: question-or-loop
+    tr: '"Soru mu, döngü mü?" öz-değerlendirmesi, yardım kaynaklarına bağlantıyla'
+    en: A "question or loop?" self-check linked to help resources
+  - id: muslim-132
+    tr: Müslim 132 hadisinin canlandırması
+    en: An animation of the hadith in Muslim 132
+sources:
+  - label: Ṣaḥīḥ Muslim 127, 132; Ṣaḥīḥ al-Bukhārī 5269
+  - label: Yaqeen Institute — "Clinicians, Imams, and the Whisperings of Satan"
+    url: https://yaqeeninstitute.org/read/paper/clinicians-imams-and-the-whisperings-of-satan
+  - label:
+      tr: '"Scrupulosity and Islam: a perspective" (dinî titizlik ve İslam üzerine bir değerlendirme)'
+      en: '"Scrupulosity and Islam: a perspective"'
+  - label: '"From Doubt to Direction" (PMC)'
+    url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12025576/
+  - label: ClinicalTrials.gov — NCT07872462
+    url: https://clinicaltrials.gov/study/NCT07872462

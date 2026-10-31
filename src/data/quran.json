@@ -6,6 +6,18 @@
   "Transliteration: Quran.com word-by-word data (api.quran.com v4)."
  ],
  "verses": {
+  "2:286": {
+   "ar": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَٰفِرِينَ",
+   "translit": "lā yukallifu l-lahu nafsan illā wus'ʿahā lahā mā kasabat waʿalayhā mā ik'tasabat rabbanā lā tuākhidh'nā in nasīnā aw akhṭanā rabbanā walā taḥmil ʿalaynā iṣ'ran kamā ḥamaltahu ʿalā alladhīna min qablinā rabbanā walā tuḥammil'nā mā lā ṭāqata lanā bihi wa-uʿ'fu ʿannā wa-igh'fir lanā wa-ir'ḥamnā anta mawlānā fa-unṣur'nā ʿalā l-qawmi l-kāfirīna",
+   "en": "Allah does not charge a soul except [with that within] its capacity. It will have [the consequence of] what [good] it has gained, and it will bear [the consequence of] what [evil] it has earned. \"Our Lord, do not impose blame upon us if we have forgotten or erred. Our Lord, and lay not upon us a burden like that which You laid upon those before us. Our Lord, and burden us not with that which we have no ability to bear. And pardon us; and forgive us; and have mercy upon us. You are our protector, so give us victory over the disbelieving people.\"",
+   "tr": "Allah hiç kimseye gücünün yeteceğinden başka yük yüklemez. Herkesin kazandığı hayır kendisine, yaptığı kötülüğün zararı yine kendisinedir. Ey Rabbimiz, eğer unuttuk ya da yanıldıysak bizi tutup sorguya çekme! Ey Rabbimiz, bize bizden öncekilere yüklediğin gibi ağır yük yükleme! Ey Rabbimiz, bize gücümüzün yetmeyeceği yükü de yükleme! Bağışla bizi, mağfiret et bizi, rahmet et bize! Sensin bizim Mevlamız, kâfir kavimlere karşı yardım et bize."
+  },
+  "3:159": {
+   "ar": "فَبِمَا رَحْمَةٍ مِّنَ ٱللَّهِ لِنتَ لَهُمْ ۖ وَلَوْ كُنتَ فَظًّا غَلِيظَ ٱلْقَلْبِ لَٱنفَضُّوا۟ مِنْ حَوْلِكَ ۖ فَٱعْفُ عَنْهُمْ وَٱسْتَغْفِرْ لَهُمْ وَشَاوِرْهُمْ فِى ٱلْأَمْرِ ۖ فَإِذَا عَزَمْتَ فَتَوَكَّلْ عَلَى ٱللَّهِ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَوَكِّلِينَ",
+   "translit": "fabimā raḥmatin mina l-lahi linta lahum walaw kunta faẓẓan ghalīẓa l-qalbi la-infaḍḍū min ḥawlika fa-uʿ'fu ʿanhum wa-is'taghfir lahum washāwir'hum fī l-amri fa-idhā ʿazamta fatawakkal ʿalā l-lahi inna l-laha yuḥibbu l-mutawakilīna",
+   "en": "So by mercy from Allah, [O Muhammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you. So pardon them and ask forgiveness for them and consult them in the matter. And when you have decided, then rely upon Allah. Indeed, Allah loves those who rely [upon Him].",
+   "tr": "Sen (o zaman), sırf Allah'ın rahmetiyle onlara karşı yumuşak davrandın. Eğer kaba, katı yürekli olsaydın, onlar senin etrafından dağılıp giderlerdi. Artık onları sen bağışla, onlar için Allah'dan mağfiret dile. (Yapacağın) işlerde onlara da danış, bir kere de azmettin mi, artık Allah'a dayan. Muhakkak ki Allah kendine dayanıp güvenenleri sever."
+  },
   "3:190": {
    "ar": "إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَٰتٍ لِّأُو۟لِى ٱلْأَلْبَٰبِ",
    "translit": "inna fī khalqi l-samāwāti wal-arḍi wa-ikh'tilāfi al-layli wal-nahāri laāyātin li-ulī l-albābi",
@@ -17,6 +29,12 @@
    "translit": "inna l-laha fāliqu l-ḥabi wal-nawā yukh'riju l-ḥaya mina l-mayiti wamukh'riju l-mayiti mina l-ḥayi dhālikumu l-lahu fa-annā tu'fakūna",
    "en": "Indeed, Allah is the cleaver of grain and date seeds. He brings the living out of the dead and brings the dead out of the living. That is Allah; so how are you deluded?",
    "tr": "Şüphesiz ki taneleri ve çekirdekleri yaran Allah'tır. O, ölüden diriyi çıkarır, diriden de ölüyü çıkaran O'dur. İşte Allah budur. O halde nasıl yüz çevirirsiniz?"
+  },
+  "7:156": {
+   "ar": "۞ وَٱكْتُبْ لَنَا فِى هَٰذِهِ ٱلدُّنْيَا حَسَنَةً وَفِى ٱلْـَٔاخِرَةِ إِنَّا هُدْنَآ إِلَيْكَ ۚ قَالَ عَذَابِىٓ أُصِيبُ بِهِۦ مَنْ أَشَآءُ ۖ وَرَحْمَتِى وَسِعَتْ كُلَّ شَىْءٍ ۚ فَسَأَكْتُبُهَا لِلَّذِينَ يَتَّقُونَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَٱلَّذِينَ هُم بِـَٔايَٰتِنَا يُؤْمِنُونَ",
+   "translit": "wa-uk'tub lanā fī hādhihi l-dun'yā ḥasanatan wafī l-ākhirati innā hud'nā ilayka qāla ʿadhābī uṣību bihi man ashāu waraḥmatī wasiʿat kulla shayin fasa-aktubuhā lilladhīna yattaqūna wayu'tūna l-zakata wa-alladhīna hum biāyātinā yu'minūna",
+   "en": "And decree for us in this world [that which is] good and [also] in the Hereafter; indeed, we have turned back to You.\" [Allah] said, \"My punishment - I afflict with it whom I will, but My mercy encompasses all things.\" So I will decree it [especially] for those who fear Me and give zakah and those who believe in Our verses -",
+   "tr": "\"Ve bize hem bu dünyada bir iyilik yaz, hem de ahirette. Biz gerçekten de tevbe edip senin hidayetine döndük.\" Buyurdu ki, azabım var, onu dilediğime isabet ettiririm, rahmetim de vardır, o ise her şeyi kaplamış ve kuşatmıştır. Onu da özellikle korunanlara, zekatını verenlere ve âyetlerimize inananlara mahsus kılacağım."
   },
   "10:5": {
    "ar": "هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ ۚ يُفَصِّلُ ٱلْـَٔايَٰتِ لِقَوْمٍ يَعْلَمُونَ",
@@ -47,6 +65,12 @@
    "translit": "alam yaraw ilā l-ṭayri musakharātin fī jawwi l-samāi mā yum'sikuhunna illā l-lahu inna fī dhālika laāyātin liqawmin yu'minūna",
    "en": "Do they not see the birds controlled in the atmosphere of the sky? None holds them up except Allah. Indeed in that are signs for a people who believe.",
    "tr": "Göğün boşluğunda Allah'ın emrine boyun eğdirilerek uçuşan kuşlara bakmadılar mı? Şüphesiz bunda inanan bir toplum için âyetler (ibretler) vardır."
+  },
+  "21:107": {
+   "ar": "وَمَآ أَرْسَلْنَٰكَ إِلَّا رَحْمَةً لِّلْعَٰلَمِينَ",
+   "translit": "wamā arsalnāka illā raḥmatan lil'ʿālamīna",
+   "en": "And We have not sent you, [O Muhammad], except as a mercy to the worlds.",
+   "tr": "(Ey Muhammed!) biz seni ancak âlemlere rahmet olarak gönderdik."
   },
   "25:45": {
    "ar": "أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ ٱلظِّلَّ وَلَوْ شَآءَ لَجَعَلَهُۥ سَاكِنًا ثُمَّ جَعَلْنَا ٱلشَّمْسَ عَلَيْهِ دَلِيلًا",

@@ -1,0 +1,161 @@
+---
+// A question page as a layered answer (DESIGN.md §4.5): the steelmanned
+// question first, in full and with respect → why it is asked → short answer
+// → depth layers the reader opens by choice → honest limits (always visible)
+// → help card where needed → sources.
+import type { CollectionEntry } from 'astro:content';
+import VerseBlock from './VerseBlock.astro';
+import HonestNote from './HonestNote.astro';
+import HelpCard from './HelpCard.astro';
+import Sources from './Sources.astro';
+import { md } from '../lib/md';
+import { t, type Locale, type UiKey } from '../i18n/ui';
+
+interface Props {
+  q: CollectionEntry<'questions'>['data'];
+  lang: Locale;
+}
+const { q, lang } = Astro.props;
+const layerLabel: Record<string, UiKey> = {
+  religious: 'layerReligious',
+  philosophical: 'layerPhilosophical',
+  scientific: 'layerScientific',
+  clinical: 'layerClinical',
+  psychological: 'layerPsychological',
+  history: 'layerHistory',
+};
+---
+
+<article class="question wrap">
+  <header class="question__head">
+    <p class="label">{q.id}</p>
+    <h1>{q.title[lang]}</h1>
+  </header>
+
+  <section class="steelman" aria-labelledby="steelman-title">
+    <h2 class="label" id="steelman-title">
+      {t(lang, 'steelman')}
+    </h2>
+    <Fragment set:html={md(q.steelman[lang], lang)} />
+  </section>
+
+  <section class="block" aria-labelledby="why-title">
+    <h2 class="label" id="why-title">
+      {t(lang, 'whyAsked')}
+    </h2>
+    <Fragment set:html={md(q.whyAsked[lang], lang)} />
+  </section>
+
+  <section class="short" aria-labelledby="short-title">
+    <h2 id="short-title">{t(lang, 'shortAnswer')}</h2>
+    <Fragment set:html={md(q.shortAnswer[lang], lang)} />
+  </section>
+
+  {q.helpCard && <HelpCard lang={lang} variant={q.helpCard} />}
+
+  <section class="depth" aria-labelledby="depth-title">
+    <h2 class="label" id="depth-title">
+      {t(lang, 'goDeeper')}
+    </h2>
+    {q.layers.map((layer) => (
+      <details class="depth__layer">
+        <summary>{t(lang, layerLabel[layer.kind])}</summary>
+        <div class="depth__body">
+          <Fragment set:html={md(layer[lang], lang)} />
+        </div>
+      </details>
+    ))}
+  </section>
+
+  <HonestNote lang={lang} label={t(lang, 'honestLimits')}>
+    <Fragment set:html={md(q.honestLimits[lang], lang)} />
+  </HonestNote>
+
+  {q.verses.length > 0 && (
+    <section class="verses-ref" aria-labelledby="verses-title">
+      <h2 class="label" id="verses-title">
+        {t(lang, 'keyVerses')}
+      </h2>
+      <VerseBlock refs={q.verses} lang={lang} size="small" />
+    </section>
+  )}
+
+  <Sources sources={q.sources} lang={lang} />
+</article>
+
+<style>
+  .question__head {
+    padding-top: var(--space-6);
+    margin-bottom: var(--space-5);
+  }
+  .question__head h1 {
+    font-size: var(--step-2);
+    line-height: 1.3;
+  }
+  .steelman {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    line-height: 1.5;
+    font-variation-settings: 'SOFT' 100;
+    padding-left: var(--space-4);
+    border-left: 1px solid var(--lamp-line);
+    margin-bottom: var(--space-5);
+  }
+  .steelman h2 {
+    font-size: 0.95rem;
+  }
+  .block {
+    margin-bottom: var(--space-5);
+    color: var(--ink-soft);
+  }
+  .short {
+    margin-bottom: var(--space-5);
+  }
+  .short h2 {
+    font-size: var(--step-1);
+  }
+  .depth {
+    margin-block: var(--space-6) var(--space-5);
+  }
+  .depth__layer {
+    border-top: var(--rule);
+  }
+  .depth__layer:last-child {
+    border-bottom: var(--rule);
+  }
+  summary {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: var(--space-3);
+    min-height: 3.25rem;
+    cursor: pointer;
+    list-style: none;
+    font-family: var(--font-display);
+    font-size: var(--step-0);
+  }
+  summary::-webkit-details-marker {
+    display: none;
+  }
+  summary::after {
+    content: '+' / '';
+    font-family: var(--font-ui);
+    color: var(--ink-soft);
+    transition: transform var(--dur-ui) var(--ease-breath);
+  }
+  details[open] summary::after {
+    transform: rotate(45deg);
+  }
+  .depth__body {
+    padding-bottom: var(--space-4);
+  }
+  .depth__body :global(ul) {
+    padding-left: 1.1em;
+  }
+  .depth__body :global(li) {
+    margin-bottom: var(--space-2);
+  }
+  .verses-ref {
+    margin-top: var(--space-6);
+  }
+</style>

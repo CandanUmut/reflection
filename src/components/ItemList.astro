@@ -1,0 +1,60 @@
+---
+// A calm list of items in a section: id, title, one line of summary.
+interface Props {
+  items: { id: string; href: string; title: string; summary?: string | undefined }[];
+}
+const { items } = Astro.props;
+---
+
+<ol class="items">
+  {items.map((i) => (
+    <li>
+      <a href={i.href}>
+        <span class="ref">{i.id}</span>
+        <span class="items__title">{i.title}</span>
+        {i.summary && <span class="items__summary">{i.summary}</span>}
+      </a>
+    </li>
+  ))}
+</ol>
+
+<style>
+  .items {
+    list-style: none;
+    padding: 0;
+    margin: var(--space-5) 0;
+  }
+  li {
+    border-top: var(--rule);
+  }
+  li:last-child {
+    border-bottom: var(--rule);
+  }
+  a {
+    display: grid;
+    grid-template-columns: 3rem 1fr;
+    column-gap: var(--space-3);
+    padding-block: var(--space-4);
+    text-decoration: none;
+  }
+  .ref {
+    padding-top: 0.35em;
+  }
+  .items__title {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    line-height: 1.3;
+  }
+  .items__summary {
+    grid-column: 2;
+    color: var(--ink-soft);
+    font-size: 0.95rem;
+    margin-top: var(--space-1);
+  }
+  a:hover .items__title {
+    text-decoration: underline;
+    text-decoration-color: var(--lamp);
+    text-decoration-thickness: 1px;
+    text-underline-offset: 0.2em;
+  }
+</style>
