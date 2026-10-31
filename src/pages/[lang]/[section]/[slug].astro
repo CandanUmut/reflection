@@ -5,7 +5,8 @@ import Base from '../../../layouts/Base.astro';
 import SignBody from '../../../components/SignBody.astro';
 import QuestionBody from '../../../components/QuestionBody.astro';
 import MoralBody from '../../../components/MoralBody.astro';
-import { locales, otherLocale, type Locale } from '../../../i18n/ui';
+import { t, locales, otherLocale, type Locale } from '../../../i18n/ui';
+import { clip } from '../../../lib/text';
 import { itemPath, sectionSegment, type Section } from '../../../lib/routes';
 
 export async function getStaticPaths() {
@@ -27,14 +28,19 @@ export async function getStaticPaths() {
 const lang = Astro.params.lang as Locale;
 const { section, entry } = Astro.props;
 const data = entry.data;
-const rawDescription = ('summary' in data && data.summary?.[lang]) || ('steelman' in data ? data.steelman[lang] : '');
+// A question's description is its doubt; shown alone in a search result or a
+// share card it would read as the site's own claim, so it says what it is.
+const summary = 'summary' in data ? data.summary?.[lang] : undefined;
+const rawDescription = summary || ('steelman' in data ? `${t(lang, 'steelman')}: ${data.steelman[lang]}` : '');
 // Meta descriptions are plain text: drop Markdown marks and evidence brackets.
-const description = rawDescription
-  .replace(/[*_]/g, '')
-  .replace(/\[[^\]]*\]/g, '')
-  .replace(/\s+/g, ' ')
-  .trim()
-  .slice(0, 300);
+const description = clip(
+  rawDescription
+    .replace(/[*_]/g, '')
+    .replace(/\[[^\]]*\]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim(),
+  300,
+);
 ---
 
 <Base

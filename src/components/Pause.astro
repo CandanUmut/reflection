@@ -277,6 +277,7 @@ const flowers = [
     let timer = 0;
     let start: number | null = null;
     const release = () => {
+      pause.classList.add('is-grown');
       clearTimeout(timer);
       after.removeAttribute('data-waiting');
       pause.dataset.state = 'released';
@@ -288,16 +289,23 @@ const flowers = [
       if (start !== null && Math.abs(scrollY - start) > innerHeight * 0.5) release();
       else if (pause.getBoundingClientRect().bottom < 0) release();
     };
+    // The tree grows as soon as any of the window shows. The wait starts once
+    // the question is in view: 60% of the Pause, or 60% of the screen when the
+    // Pause is taller than that (a phone held sideways, large text).
     const io = new IntersectionObserver(
       ([entry]) => {
-        if (entry.isIntersecting) {
-          pause.classList.add('is-grown');
+        if (entry.isIntersecting) pause.classList.add('is-grown');
+        const seen = entry.intersectionRatio >= 0.6 || entry.intersectionRect.height >= innerHeight * 0.6;
+        if (seen && !timer) {
           if (start === null) after.setAttribute('data-waiting', '');
           start ??= scrollY;
           timer = window.setTimeout(release, 1500);
-        } else clearTimeout(timer);
+        } else if (!seen && timer) {
+          clearTimeout(timer);
+          timer = 0;
+        }
       },
-      { threshold: 0.6 },
+      { threshold: [0, 0.2, 0.4, 0.6, 0.8, 1] },
     );
     io.observe(pause);
     addEventListener('scroll', onScroll, { passive: true });

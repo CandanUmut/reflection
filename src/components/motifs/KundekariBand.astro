@@ -19,7 +19,7 @@ const star = Array.from({ length: 16 }, (_, i) => {
 const id = `kundekari-${height}`;
 ---
 
-<svg class:list={['band', cls]} height={height} aria-hidden="true" focusable="false" preserveAspectRatio="none">
+<svg class:list={['band', cls]} height={height} aria-hidden="true" focusable="false">
   <defs>
     <pattern id={id} width="40" height="40" patternUnits="userSpaceOnUse" patternTransform={`scale(${height / 40})`}>
       <path class="band__star" d={'M' + star.join(' L') + 'Z'} />

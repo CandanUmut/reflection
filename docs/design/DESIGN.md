@@ -169,3 +169,15 @@ A single soft ambient layer (wind, distant water) on the Threshold, off by defau
 3. **Recitation audio** — include or not, and from which licensed source.
 4. **Public or private repository**, and whether to use GitHub Pages or another host.
 5. **Content review**: who reviews theology (a scholar) and science (a domain expert) before launch.
+6. **Visual redesign (2026-10-31).** After seeing Phases 0–3, Umut asked for a different look. His words, unchanged:
+   - "the UI needs to look much better and unique , the coloring, animations and the fonts can be better , also add some motifs like on some interior mosque they have nice motifs like the Mimar sinan designs please make it look very nice and well thought out"
+   - After seeing the first version (branch `design-sinan`): "I liked it much more than the before but i think it can be a bit better, like the ornaments they look so mechanical, let's add some emotions and art into the pages please"
+   - **What changed, and which parts of this brief it replaces** (until Umut confirms or changes them):
+     - §3.2 palette → İznik tile colours: cobalt, turquoise, coral red (`--clay`), sage, gold on warm paper; four time-of-day versions in `src/styles/palettes.mjs`, all pairs AA.
+     - §3.3 type → Cormorant Garamond (display), Crimson Pro (text), Inter (labels), IBM Plex Mono (references); Amiri Quran unchanged.
+     - §3.4 ornament → hand-drawn İznik flowers (tulip, carnation, saz leaf, hatayi rosette) from `src/lib/flora.ts`: a tile border (header, footer, verse frame), a flower medallion that opens from its centre (replacing the self-drawing geometric divider), a tree of life that grows in the Pause window. Geometry remains in the arcade cornice and the arch doors.
+     - §4.1 Threshold → an arcade of red-and-ivory (ablaq) arches, each with a hanging lamp that breathes twice on arrival and then rests.
+   - **Tensions with this brief, waiting for Umut's decision:**
+     - §3.2 kept clay red for the Honest Note alone; the flowers and arches now use it too, so the Honest Note's colour stands out less.
+     - §2 lists "mosque-silhouette" clichés; Umut asked for mosque-interior motifs. The hanging lamps and arcade sit between the two.
+     - §3.4 said "once per page at most" for ornament; pages now carry several borders plus a medallion or Pause window.

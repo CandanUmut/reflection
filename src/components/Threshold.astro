@@ -363,29 +363,26 @@ const STAR =
   .arch:focus-visible .lamp__glow {
     transform: scale(1.25);
   }
+  /* On arrival each lamp breathes twice (under five seconds) and then rests;
+     the flame stirs only while its arch is hovered or focused. Nothing moves
+     on its own for longer than five seconds (WCAG 2.2.2). */
   @media (prefers-reduced-motion: no-preference) {
     .lamp__glow {
-      animation: lamp-breathe 5.3s ease-in-out infinite;
-      animation-delay: calc(var(--arch) * -1.7s);
+      animation: lamp-breathe 2.3s ease-in-out 2;
+      animation-delay: calc(var(--arch) * 0.15s);
     }
-    .lamp__flame {
-      animation: lamp-flicker 3.1s ease-in-out infinite;
-      animation-delay: calc(var(--arch) * -1.1s);
+    .arch:hover .lamp__flame,
+    .arch:focus-visible .lamp__flame {
+      animation: lamp-flicker 4.6s ease-in-out infinite;
     }
   }
   @keyframes lamp-breathe {
     0%,
     100% {
-      opacity: 0.78;
-    }
-    23% {
-      opacity: 0.95;
-    }
-    41% {
-      opacity: 0.84;
-    }
-    67% {
       opacity: 1;
+    }
+    50% {
+      opacity: 0.72;
     }
   }
   @keyframes lamp-flicker {
@@ -393,14 +390,11 @@ const STAR =
     100% {
       transform: scale(1, 1);
     }
-    30% {
-      transform: scale(0.94, 1.07) skewX(-2deg);
+    35% {
+      transform: scale(0.96, 1.05);
     }
-    55% {
-      transform: scale(1.03, 0.95);
-    }
-    80% {
-      transform: scale(0.97, 1.04) skewX(2deg);
+    70% {
+      transform: scale(1.02, 0.97);
     }
   }
   .arch__label {
@@ -432,7 +426,8 @@ const STAR =
 <script>
   // Build the arches once, when they first come into view.
   const arches = document.querySelector('.arches');
-  if (arches) {
+  if (arches && !('IntersectionObserver' in window)) arches.classList.add('is-built');
+  else if (arches) {
     const io = new IntersectionObserver(
       ([e]) => {
         if (e.isIntersecting) {

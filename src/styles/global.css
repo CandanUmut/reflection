@@ -307,7 +307,7 @@ button {
 /* Arrival: a page's title and summary rise softly into place, like light
    reaching a wall. Once, on load; never with reduced motion. */
 @media (prefers-reduced-motion: no-preference) {
-  main h1,
+  main h1:not(.visually-hidden),
   .sign__summary,
   .moral__summary {
     animation: arrive 1.4s var(--ease-breath) both;

@@ -70,6 +70,7 @@ const paletteCss = [
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{fullTitle}</title>
     {description && <meta name="description" content={description} />}
+    {standalone && <meta name="robots" content="noindex" />}
     <link rel="icon" href={url('favicon.svg')} type="image/svg+xml" />
     {/* Preload only what paints the largest text first: the Arabic verse on item
         pages, the italic verse of the day on the home page. */}
@@ -93,7 +94,7 @@ const paletteCss = [
     <meta property="og:title" content={fullTitle} />
     {description && <meta property="og:description" content={description} />}
     <meta property="og:locale" content={lang === 'tr' ? 'tr_TR' : 'en_US'} />
-    <meta property="og:image" content={abs(url('og.png'))} />
+    <meta property="og:image" content={abs(url(`og-${lang}.png`))} />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="theme-color" content={palettes.day.paper} />
     <script is:inline set:html={paletteScript} />
