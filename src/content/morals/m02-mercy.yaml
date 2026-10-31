@@ -39,8 +39,8 @@ sources:
   - label: Quran 3:159, 7:156, 21:107 (Saheeh International).
   - label: Ibn Kathir, *Tafsir* (abridged English, Quran.com), on 3:159.
   - label: "Hadith (text and grades from the collections' data): Bukhari 3467, 5997, 6000, 6013; Muslim 1955, 2593, 2752; Tirmidhi 1924."
-  - label: Earlier research, `01-batch-1.md` (M2).
-  - label: Ṣaḥīḥ al-Bukhārī 6000, 3467; Ṣaḥīḥ Muslim 1955, 2752
+  - &a1
+    label: Ṣaḥīḥ al-Bukhārī 6000, 3467; Ṣaḥīḥ Muslim 1955, 2752
 fullAnswer:
   - kind: quran
     en: |-
@@ -75,3 +75,5 @@ followUps:
       en: What is *ihsan*?
     a:
       en: Doing things beautifully and well; the hadith applies it "to everything" {hadith:muslim:1955}.
+legacySources:
+  - *a1

@@ -41,9 +41,10 @@ visualizations:
 sources:
   - label: Quran 2:153, 14:7, 39:10 (Saheeh International).
   - label: "Hadith (text and grades from the collections' data): Bukhari 1302, 4837; Muslim 2963, 2999; Abu Dawud 4811."
-  - label: "Earlier research, `01-batch-1.md` (M5): al-Ghazali; Cregg & Cheavens (2021); the 2023 meta-analysis of gratitude interventions."
-  - label: Ṣaḥīḥ Muslim 2999; Ṣaḥīḥ al-Bukhārī 4837
-  - label: Cregg & Cheavens 2021 (Semantic Scholar)
+  - &a1
+    label: Ṣaḥīḥ Muslim 2999; Ṣaḥīḥ al-Bukhārī 4837
+  - &a2
+    label: Cregg & Cheavens 2021 (Semantic Scholar)
     url: https://www.semanticscholar.org/paper/Gratitude-Interventions:-Effective-Self-help-A-of-Cregg-Cheavens/cc4f096cc8138711920eabf30d9311929d2df577
 fullAnswer:
   - kind: quran
@@ -83,3 +84,6 @@ followUps:
       en: Do gratitude exercises work?
     a:
       en: A little, on average (see "What research shows").
+legacySources:
+  - *a1
+  - *a2

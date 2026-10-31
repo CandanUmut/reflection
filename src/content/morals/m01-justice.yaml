@@ -38,10 +38,12 @@ sources:
   - label: Quran 4:135, 5:8, 16:90 (Saheeh International).
   - label: Ibn Kathir, *Tafsir* (abridged English, Quran.com), on 4:135.
   - label: "Hadith (text and grades from the collections' data): Bukhari 2444, 2447, 3475."
-  - label: "Earlier research, `01-batch-1.md` (M1): al-Shatibi's *maqasid*; Ibn al-Qayyim; procedural-justice research; Arab Barometer."
-  - label: Ṣaḥīḥ al-Bukhārī 3475
-  - label: Al-Shāṭibī, al-Muwāfaqāt
-  - label: Arab Barometer — Is the Arab world really becoming less religious?
+  - &a1
+    label: Ṣaḥīḥ al-Bukhārī 3475
+  - &a2
+    label: Al-Shāṭibī, al-Muwāfaqāt
+  - &a3
+    label: Arab Barometer — Is the Arab world really becoming less religious?
     url: https://www.arabbarometer.org/media-news/is-the-arab-world-really-becoming-less-religious/
 fullAnswer:
   - kind: quran
@@ -79,3 +81,7 @@ followUps:
       en: Is justice only for Muslims?
     a:
       en: "No: 5:8 asks for justice even toward a people you hate."
+legacySources:
+  - *a1
+  - *a2
+  - *a3

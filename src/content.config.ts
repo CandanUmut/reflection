@@ -137,6 +137,8 @@ const morals = defineCollection({
     /** Phase 6 onward: the deep page, in parts (CONTENT_PLAN.md §4); English first. */
     fullAnswer: z.array(fullAnswerSection).optional(),
     followUps: z.array(z.object({ q: textEnFirst, a: textEnFirst })).optional(),
+    /** The page's sources before its deep version (kept by scripts/migrate-v2.mjs). */
+    legacySources: z.array(source).optional(),
     visualizations: z.array(visualization),
     sources: z.array(source).min(1),
   }),

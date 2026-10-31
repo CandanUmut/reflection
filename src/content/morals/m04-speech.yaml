@@ -33,9 +33,10 @@ sources:
   - label: Quran 49:11–12 (Saheeh International).
   - label: Ibn Kathir, *Tafsir* (abridged English, Quran.com), on 49:12.
   - label: "Hadith (text and grades from the collections' data): Bukhari 10, 6094, 6475, 6478; Muslim 2589."
-  - label: 'Earlier research, `01-batch-1.md` (M4): al-Ghazali on the "calamities of the tongue".'
-  - label: Ṣaḥīḥ al-Bukhārī 6018
-  - label: Al-Ghazālī, Āfāt al-lisān (Iḥyāʾ)
+  - &a1
+    label: Ṣaḥīḥ al-Bukhārī 6018
+  - &a2
+    label: Al-Ghazālī, Āfāt al-lisān (Iḥyāʾ)
 fullAnswer:
   - kind: quran
     en: |-
@@ -72,3 +73,6 @@ followUps:
       en: Does this apply to online comments?
     a:
       en: The verses speak of ridicule, nicknames and backbiting without limiting the medium (49:11–12).
+legacySources:
+  - *a1
+  - *a2

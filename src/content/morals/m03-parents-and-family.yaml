@@ -39,8 +39,8 @@ sources:
   - label: Quran 17:23–24, 31:14–15 (Saheeh International).
   - label: Ibn Kathir, *Tafsir* (abridged English, Quran.com), on 17:23.
   - label: "Hadith (text and grades from the collections' data): Bukhari 2620, 5971, 5985; Nasai 3104; Tirmidhi 3895."
-  - label: "Earlier research, `01-batch-1.md` (M3): maqasid and lineage; family cohesion research."
-  - label: Ṣaḥīḥ al-Bukhārī 5971
+  - &a1
+    label: Ṣaḥīḥ al-Bukhārī 5971
 fullAnswer:
   - kind: quran
     en: |-
@@ -79,3 +79,5 @@ followUps:
       en: Is family loyalty more important than fairness?
     a:
       en: 'No: justice is owed "even if it be against … parents and relatives" (4:135; see the page on justice).'
+legacySources:
+  - *a1
