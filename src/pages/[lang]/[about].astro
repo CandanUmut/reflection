@@ -1,0 +1,54 @@
+---
+// About: what the site is, where its content comes from, the translations,
+// and how it was checked — including what has not been checked yet.
+import { parse } from 'yaml';
+import raw from '../../data/about.yaml?raw';
+import Base from '../../layouts/Base.astro';
+import { md } from '../../lib/md';
+import { t, locales, otherLocale, type Locale } from '../../i18n/ui';
+
+export const getStaticPaths = () =>
+  locales.map((lang) => ({ params: { lang, about: lang === 'tr' ? 'hakkinda' : 'about' } }));
+const lang = Astro.params.lang as Locale;
+const slug = { tr: 'hakkinda', en: 'about' } as const;
+interface Section {
+  title: { tr: string; en: string };
+  body: { tr: string; en: string };
+}
+const sections: Section[] = parse(raw).sections;
+---
+
+<Base
+  lang={lang}
+  title={t(lang, 'about')}
+  description={sections[0].body[lang].slice(0, 200)}
+  altPath={`${slug[otherLocale(lang)]}/`}
+>
+  <div class="wrap about">
+    <h1>{t(lang, 'about')}</h1>
+    {sections.map((s) => (
+      <section>
+        <h2>{s.title[lang]}</h2>
+        <Fragment set:html={md(s.body[lang], lang)} />
+      </section>
+    ))}
+  </div>
+</Base>
+
+<style>
+  .about {
+    padding-top: var(--space-6);
+  }
+  section {
+    margin-top: var(--space-5);
+  }
+  h2 {
+    font-size: var(--step-1);
+  }
+  .about :global(ul) {
+    padding-left: 1.1em;
+  }
+  .about :global(li) {
+    margin-bottom: var(--space-2);
+  }
+</style>

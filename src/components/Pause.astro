@@ -79,7 +79,8 @@ const verse = getVerse(ref, lang);
       pause.dataset.state = 'released';
       continue;
     }
-    after.setAttribute('data-waiting', '');
+    // Nothing is dimmed until the question is actually on screen: text further
+    // down the page stays at full contrast for anyone who has not reached it.
     after.tabIndex = -1;
     let timer = 0;
     let start: number | null = null;
@@ -98,6 +99,7 @@ const verse = getVerse(ref, lang);
     const io = new IntersectionObserver(
       ([entry]) => {
         if (entry.isIntersecting) {
+          if (start === null) after.setAttribute('data-waiting', '');
           start ??= scrollY;
           timer = window.setTimeout(release, 1500);
         } else clearTimeout(timer);
