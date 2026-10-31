@@ -5,6 +5,26 @@
    "whole": true,
    "grades": []
   },
+  "bukhari:1360": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:2620": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:3017": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:4392": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:4772": {
+   "whole": true,
+   "grades": []
+  },
   "bukhari:5641": {
    "whole": true,
    "grades": []
@@ -14,6 +34,14 @@
    "grades": []
   },
   "bukhari:5999": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:6878": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:6922": {
    "whole": true,
    "grades": []
   },
@@ -59,6 +87,22 @@
     }
    ]
   },
+  "muslim:153": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:1676": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:203": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:2524": {
+   "whole": true,
+   "grades": []
+  },
   "muslim:2582": {
    "whole": true,
    "grades": []
@@ -80,6 +124,10 @@
    "grades": []
   },
   "muslim:771": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:976": {
    "whole": true,
    "grades": []
   },

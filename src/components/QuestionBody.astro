@@ -35,7 +35,11 @@ const sectionLabel: Record<string, UiKey> = {
 // Reading time of the full answer, at about 200 words a minute. Above ~700
 // words, everything after the first part waits behind "Read the full answer".
 // The fold is decided on the English count, so both languages fold alike.
-const words = (l: Locale) => (q.fullAnswer ?? []).reduce((n, s) => n + s[l].split(/\s+/).length, 0);
+// A language shows the deep answer only when every part exists in it; until
+// then it keeps the previous layers and range of views.
+const deep = !!q.fullAnswer?.length && q.fullAnswer.every((p) => p[lang]);
+const followUps = (q.followUps ?? []).filter((f) => f.q[lang] && f.a[lang]);
+const words = (l: Locale) => (q.fullAnswer ?? []).reduce((n, s) => n + (s[l] ?? '').split(/\s+/).length, 0);
 const minutes = Math.max(1, Math.round(words(lang) / 200));
 const folded = words('en') > 700 && (q.fullAnswer?.length ?? 0) > 1;
 const layerLabel: Record<string, UiKey> = {
@@ -75,7 +79,7 @@ const layerLabel: Record<string, UiKey> = {
 
   {q.helpCard && q.helpCard !== 'general' && <HelpCard lang={lang} variant={q.helpCard} />}
 
-  {q.fullAnswer && (
+  {deep && q.fullAnswer && (
     <section class="full" aria-labelledby="full-title" data-full={folded ? '' : undefined}>
       <h2 id="full-title">{t(lang, 'fullAnswer')}</h2>
       <p class="full__time">
@@ -84,7 +88,7 @@ const layerLabel: Record<string, UiKey> = {
       {q.fullAnswer.map((part, i) => (
         <section class="full__part" data-part={i}>
           <h3>{part.title?.[lang] ?? t(lang, sectionLabel[part.kind])}</h3>
-          <Fragment set:html={md(part[lang], lang)} />
+          <Fragment set:html={md(part[lang] ?? '', lang)} />
         </section>
       ))}
       {folded && (
@@ -95,7 +99,7 @@ const layerLabel: Record<string, UiKey> = {
     </section>
   )}
 
-  {q.layers.length > 0 && (
+  {!deep && q.layers.length > 0 && (
     <section class="depth" aria-labelledby="depth-title">
       <h2 class="label" id="depth-title">
         {t(lang, 'goDeeper')}
@@ -111,18 +115,18 @@ const layerLabel: Record<string, UiKey> = {
     </section>
   )}
 
-  {q.rangeOfViews && <RangeOfViews lang={lang} range={q.rangeOfViews} />}
+  {!deep && q.rangeOfViews && <RangeOfViews lang={lang} range={q.rangeOfViews} />}
 
-  {q.followUps && q.followUps.length > 0 && (
+  {followUps.length > 0 && (
     <section class="followups" aria-labelledby="followups-title">
       <h2 id="followups-title">{t(lang, 'followUps')}</h2>
-      {q.followUps.map((f) => (
+      {followUps.map((f) => (
         <details class="followups__item">
           <summary>
-            <span set:html={mdPlainInline(f.q[lang], lang)} />
+            <span set:html={mdPlainInline(f.q[lang] ?? '', lang)} />
           </summary>
           <div class="followups__body">
-            <Fragment set:html={md(f.a[lang], lang)} />
+            <Fragment set:html={md(f.a[lang] ?? '', lang)} />
           </div>
         </details>
       ))}

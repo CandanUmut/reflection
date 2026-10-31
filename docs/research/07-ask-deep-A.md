@@ -40,7 +40,7 @@ All four Sunni schools held that an adult, sane man who leaves Islam and refuses
 
 **Limit:** Jurists held that the Sunna can add rulings the Quran does not state. Alalwani records that al-Shafiʿi read 2:217, 8:39, 9:5 and 39:65 together in support of the death penalty.
 
-#### sunnah — What the Prophet taught
+#### sunnah — What the Prophet (pbuh) taught
 **Two authentic hadith carry the legal weight.** The first is narrated by ʿIkrima. ʿAli had burnt some people, and Ibn ʿAbbas said: "Had I been in his place I would not have burnt them… No doubt, I would have killed them, for the Prophet said, 'If somebody (a Muslim) discards his religion, kill him'" ({hadith:bukhari:3017}; parallel {hadith:bukhari:6922}, where the people are called *zanādiqa*, hidden heretics). Both are sahih by inclusion in al-Bukhari. The second is the "three cases" hadith from Ibn Masʿud (ra): a Muslim's blood "cannot be shed except in three cases: In Qisas for murder, a married person who commits illegal sexual intercourse and the one who reverts from Islam (apostate) and leaves the Muslims" ({hadith:bukhari:6878}; {hadith:muslim:1676}). In Arabic the third case is *al-tārik li-l-jamāʿa*, "abandoning the community".
 
 **Did the Prophet (pbuh) ever execute anyone only for leaving Islam?** Alalwani: "never in his entire life did the Prophet put an apostate to death". He argues that reported killings were "due to the individuals' participation in war crimes or murder, not due to their apostasy" (ch. 3). The men of ʿUrayna, for example, killed a herdsman and stole camels. Two further points support this. Many people who left after the Night Journey were not harmed. And the Treaty of Hudaybiyya let anyone who left the Muslim camp return to Quraysh "freely without reprisal".
@@ -49,7 +49,7 @@ All four Sunni schools held that an adult, sane man who leaves Islam and refuses
 
 #### scholars — How scholars have understood it
 **The "treason" reading is a reading of context, not of the words, and should be judged that way.** The skeptic is right that the hadith says "changes his religion." The reformist case rests on three arguments:
-- **The Prophet's practice:** no recorded execution for belief alone.
+- **The Prophet's (pbuh) practice:** no recorded execution for belief alone.
 - **The companion hadith:** it joins leaving the religion to abandoning the *jamāʿa*, and in seventh-century Arabia the religious community was also the political and military one.
 - **The Medinan setting:** Alalwani links the hadith to a "serious security situation" (33:60–62). He concludes: "if the hadith… is sound, he will have had this serious security situation in mind" (ch. 4). He also argues that later jurists absorbed Byzantine and Persian allegiance laws and "confused apostasy in the political sense with apostasy in the sense of a change in personal beliefs" (ch. 5).
 
@@ -215,7 +215,7 @@ There are two different cases. The first is the person the message never reached
 
 **What does "Islam" mean in 3:85?** Ibn Kathir uses both senses. He describes Islam as "the religion that He sent His Books and Messengers with, which is the worship of Allah Alone", and he adds that "after Allah sent Muhammad, whoever meets Allah following a path other than Muhammad's, it will not be accepted of him." **Limit:** al-Tabari on 2:62 was not read (see Gaps).
 
-#### sunnah — What the Prophet taught
+#### sunnah — What the Prophet (pbuh) taught
 **Muslim 153.** Abu Hurayra (ra): "By Him in Whose hand is the life of Muhammad, he who amongst the community of Jews or Christians hears about me, but does not affirm his belief in that with which I have been sent and dies in this state (of disbelief), he shall be but one of the denizens of Hell-Fire" ({hadith:muslim:153}). It is sahih by its inclusion in Sahih Muslim.
 
 **Why "hears of me" is read as hearing accurately, and who says so.** Scholars disagree on how much hearing counts.
@@ -303,7 +303,7 @@ Islam forbids asking God's forgiveness for someone who died a non-Muslim (9:113)
 ### The full answer
 
 #### heart — For the heart and mind
-**Your love is not a sin; the Prophet (pbuh) wept at his mother's grave.** Abu Hurayra (ra): "The Messenger of Allah visited the grave of his mother and he wept, and moved others around him to tears, and said: I sought permission from my Lord to beg forgiveness for her but it was not granted to me, and I sought permission to visit her grave and it was granted to me so visit the graves, for that makes you mindful of death" ({hadith:muslim:976}). The visit, the tears and the remembering were all permitted. Grief for a non-Muslim parent is part of the Prophet's own life.
+**Your love is not a sin; the Prophet (pbuh) wept at his mother's grave.** Abu Hurayra (ra): "The Messenger of Allah visited the grave of his mother and he wept, and moved others around him to tears, and said: I sought permission from my Lord to beg forgiveness for her but it was not granted to me, and I sought permission to visit her grave and it was granted to me so visit the graves, for that makes you mindful of death" ({hadith:muslim:976}). The visit, the tears and the remembering were all permitted. Grief for a non-Muslim parent is part of the Prophet's (pbuh) own life.
 
 **Leave the judgement with God.** You are not asked to know where they are. You are asked to be faithful to God and good to them.
 
@@ -312,12 +312,12 @@ Islam forbids asking God's forgiveness for someone who died a non-Muslim (9:113)
 
 **Kindness to non-Muslim parents is commanded.** Verse 31:15: "do not obey them but accompany them in [this] world with appropriate kindness." Verse 60:8: "Allah does not forbid you from those who do not fight you because of religion and do not expel you from your homes – from being righteous toward them and acting justly toward them."
 
-#### sunnah — What the Prophet taught
+#### sunnah — What the Prophet (pbuh) taught
 **Asmaʾ bint Abi Bakr (ra) and her mother:** "My mother came to me… and she was a pagan… shall I keep good relations with her?' The Prophet said, 'Yes, keep good relation with her'" ({hadith:bukhari:2620}).
 
 **Praying for guidance.** When the tribe of Daws refused Islam, the Prophet (pbuh) prayed: "O Allah, guide the tribe of Daws and bring them to me" ({hadith:bukhari:4392}; {hadith:muslim:2524}).
 
-**The Prophet's father.** Anas (ra) reports that a man asked where his father was. The Prophet (pbuh) said, "in the Fire," then called him back: "Verily my father and your father are in the Fire" ({hadith:muslim:203}).
+**The Prophet's (pbuh) father.** Anas (ra) reports that a man asked where his father was. The Prophet (pbuh) said, "in the Fire," then called him back: "Verily my father and your father are in the Fire" ({hadith:muslim:203}).
 
 **How scholars read Muslim 203 and 976.** Mulla ʿAli al-Qari and Ibrahim al-Halabi read them literally. Al-Suyuti (d. 1505) argued in *Masalik al-Hunafaʾ*: "The Prophet's parents died before he was sent as Prophet and there is no punishment for them, since 'We never punish until We send a messenger' (17:15). Our Ashʿari Imams… agree… that one who dies while daʿwa has not reached him, dies saved." **Limit:** his view requires setting aside the plain sense of two sahih hadiths. Many scholars rejected it, and some reports he used are judged fabricated.
 
@@ -337,7 +337,7 @@ Islam forbids asking God's forgiveness for someone who died a non-Muslim (9:113)
 #### views — The range of views
 - **Strict:** those who clearly heard and rejected are lost, and funeral attendance is discouraged (Malik; some modern Hanafi fatwas).
 - **Mainstream:** no prayer for forgiveness, but kindness, funerals (Shafiʿi, Hanbali), grave visits and grief are all allowed. The individual's fate is left to God.
-- **Wider hope:** al-Suyuti on the Prophet's parents; al-Ghazali's hope for the Christians of his time.
+- **Wider hope:** al-Suyuti on the Prophet's (pbuh) parents; al-Ghazali's hope for the Christians of his time.
 
 ### Questions readers ask next
 **May I pray for my living non-Muslim mother?** Yes: for her guidance and her wellbeing.

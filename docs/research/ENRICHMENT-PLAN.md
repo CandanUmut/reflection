@@ -4,7 +4,7 @@ Umut's request (2026-10-31): the content across the site is too short and not sa
 
 ## Done
 - Q1 — model answer (`07-ask-deep-I.md`)
-- Batch A: Q7, Q13, Q14, Q31 (`07-ask-deep-A.md`, not yet source-checked)
+- Batch A: Q7, Q13, Q14, Q31 (`07-ask-deep-A.md`) — on the site in English (2026-10-31). Checked automatically: all 12 hadith (number, grade; none weak), all 35 Quran quotations (verbatim, `scripts/check-quotes.mjs`). Not yet checked one by one: scholars' quotations and figures. Turkish: previous page until `content-src/tr-v2/Q<n>.yaml` exists (`prompts/TRANSLATE-TR.md`).
 
 ## Runs (one deep-research run each; output file in `docs/research/`)
 
@@ -29,9 +29,9 @@ Depth needs about 4 questions per run for Ask (2,500–4,000 words each), and ab
 
 Each run's prompt includes the reader critic's "missing" items and follow-up questions for its pages (`docs/reader-scores/round-1-ask-baseline/`, `round-0/`), so the research answers what real readers asked.
 
-## After each run
+## After each run (efficient version, 2026-10-31)
 1. Save the report verbatim as the output file above.
-2. Run the `source-checker` agent on it. Nothing reaches the site until every Quran quote, hadith (number, text, grade), tafsir quote and figure is checked.
+2. Automatic checks, no AI: `node scripts/check-quotes.mjs` (Quran verbatim), `npm run hadith` (every hadith resolves, with grade; a missing or ungraded one stops the build), `node scripts/hadith-audit.mjs` (no weak hadith carrying a claim). A source-checker run only on a sample, or when the automatic checks show problems.
 3. Turn it into the page (English and Turkish), per `WRITING-BRIEF.md`.
 4. Run `reader-critic` on the new page and record the score.
 

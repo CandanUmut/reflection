@@ -21,8 +21,21 @@ const visualization = text.extend({
   steps: z.object({ tr: z.array(z.string()), en: z.array(z.string()) }).optional(),
 });
 /** One section of a full answer. `kind` picks its heading; `title` may replace it. */
-const fullAnswerSection = text.extend({
-  kind: z.enum(['quran', 'sunnah', 'scholars', 'fiqh', 'history', 'science', 'reasoning', 'objection', 'heart', 'views']),
+// v2 parts may be English-only while their Turkish is being written.
+const textEnFirst = z.object({ tr: z.string().min(1).optional(), en: z.string().min(1) });
+const fullAnswerSection = textEnFirst.extend({
+  kind: z.enum([
+    'quran',
+    'sunnah',
+    'scholars',
+    'fiqh',
+    'history',
+    'science',
+    'reasoning',
+    'objection',
+    'heart',
+    'views',
+  ]),
   title: text.optional(),
 });
 
@@ -82,7 +95,7 @@ const questions = defineCollection({
     /** Phase 6 onward: the full answer, in sections the reader can follow (CONTENT_PLAN.md §4). */
     fullAnswer: z.array(fullAnswerSection).optional(),
     /** Follow-up questions readers asked (reader critic), each answered from the research. */
-    followUps: z.array(z.object({ q: text, a: text })).optional(),
+    followUps: z.array(z.object({ q: textEnFirst, a: textEnFirst })).optional(),
     /** Positions named in the research, set along one line (DESIGN.md §4.6). */
     rangeOfViews: z
       .object({
