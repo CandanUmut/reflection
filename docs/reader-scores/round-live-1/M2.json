@@ -1,0 +1,116 @@
+{
+  "id": "M2",
+  "path": "en/live/mercy/",
+  "group": "live",
+  "words": 870,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "How does 'My mercy encompasses all things' fit with eternal punishment, and with the second half of 7:156 that limits it to 'those who fear Me'?",
+        "Was the Prophet (pbuh) merciful to his enemies too? What examples show it?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 7,
+        "fairness": 4,
+        "clarity": 8,
+        "honesty": 5
+      },
+      "satisfaction": 6,
+      "why": "Warm and well sourced, but 7:156 is quoted in full, including 'My punishment - I afflict with it whom I will', and the obvious tension is never addressed."
+    },
+    "outsider": {
+      "followUps": [
+        "What do 'iḥsān', 'Ar-Rahman' and 'zakah' mean, and why is iḥsān in the title but only defined in a one-line answer at the end?",
+        "How does this mercy fit with harsh punishments and war in Islamic law?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 4,
+        "clarity": 7,
+        "honesty": 5
+      },
+      "satisfaction": 5,
+      "why": "The animal and child stories make mercy vivid, but iḥsān, half the title, gets one line, and the harder side of the tradition is not mentioned."
+    },
+    "student": {
+      "followUps": [
+        "Where are the scholars? What did al-Ghazali, Ibn al-Qayyim or others say about rahma and iḥsān, and what is the full Hadith Jibril definition of iḥsān?",
+        "How do the fuqaha apply Muslim 1955 (iḥsān in slaughter) in the schools' rules of dhabh?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 8,
+        "fairness": 5,
+        "clarity": 7,
+        "honesty": 6
+      },
+      "satisfaction": 6,
+      "why": "Eight graded hadith and Ibn Kathir with Qatada and al-Hasan al-Basri are strong evidence, but there is no scholars section at all and iḥsān is barely developed."
+    },
+    "scientist": {
+      "followUps": [
+        "Is there research on compassion or kindness (e.g. compassion training, prosocial behaviour) that relates to this teaching?",
+        "Is 'mercy is learned' a claim about psychology, and if so what supports it?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 6,
+        "clarity": 8,
+        "honesty": 6
+      },
+      "satisfaction": 5,
+      "why": "Nothing scientific is overclaimed, but nothing scientific is offered either, and 'Mercy is learned' sounds like a behavioural claim without support."
+    },
+    "hurting": {
+      "followUps": [
+        "I was raised with harshness; how exactly do I start practising a softer heart?",
+        "If I have been harsh to my own children, is there mercy for me?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 6,
+        "clarity": 8,
+        "honesty": 6
+      },
+      "satisfaction": 6,
+      "why": "'If you were raised with harshness, you can still ask for, and practise, a softer heart' is gentle and hopeful, but the section is two sentences."
+    },
+    "skeptic": {
+      "followUps": [
+        "Why quote 7:156 in full and skip the tension between universal mercy and limited, severe punishment?",
+        "The page infers 'Mercy is learned' from 3:159, which says the gentleness was 'by mercy from Allah' (a gift); isn't that a stretch?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 3,
+        "clarity": 7,
+        "honesty": 5
+      },
+      "satisfaction": 4,
+      "why": "The selection is entirely positive, and the only critique admitted is about Muslims' behaviour, not about the texts on punishment."
+    }
+  },
+  "missing": [
+    "Address the tension in 7:156 between 'mercy encompasses all things' and punishment / the limiting clause",
+    "Develop iḥsān (it is in the title): Hadith Jibril definition and what it asks in practice",
+    "Add a scholars section with named works",
+    "Give concrete steps for the hurting reader and for parents"
+  ],
+  "strengths": [
+    "Rich, well-graded hadith set (mercy in a hundred parts, the dog, kissing al-Hasan)",
+    "3:159 read carefully: mercy paired with pardon, prayer and consultation",
+    "'Does mercy mean never being firm?' answered well",
+    "Practical and gentle daily-life advice"
+  ]
+}

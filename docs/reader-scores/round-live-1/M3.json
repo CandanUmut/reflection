@@ -1,0 +1,116 @@
+{
+  "id": "M3",
+  "path": "en/live/parents-and-family/",
+  "group": "live",
+  "words": 1004,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "Where is the line between 'kindness' and accepting control, e.g. a parent choosing my career or spouse?",
+        "What do parents owe their children in Islam, not only children to parents?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 7,
+        "fairness": 5,
+        "clarity": 8,
+        "honesty": 6
+      },
+      "satisfaction": 6,
+      "why": "Obedience 'not in wrongdoing' (31:15) is clear and useful, but everyday conflicts like marriage and career choices are not covered."
+    },
+    "outsider": {
+      "followUps": [
+        "What do husbands and wives owe each other in Islam, beyond 'the best to his wives'?",
+        "What do '(ra)', '(pbuh)' and 'kith and kin' mean?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 5,
+        "clarity": 7,
+        "honesty": 6
+      },
+      "satisfaction": 5,
+      "why": "Parents are covered well, but 'family' is in the title and spouses, children and siblings get one hadith between them."
+    },
+    "student": {
+      "followUps": [
+        "What do the fuqaha say about the limits of obedience to parents (e.g. travel, marriage, leaving a permissible job), and where do the schools differ?",
+        "What is the context of Nasa'i 3104, and how does it relate to the hadith on asking parents' permission for jihad?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 8,
+        "fairness": 5,
+        "clarity": 7,
+        "honesty": 6
+      },
+      "satisfaction": 6,
+      "why": "Good Quran and hadith with grades, including the Hasan sahih note on Nasa'i 3104, but there is no scholars section and no fiqh of birr al-walidayn."
+    },
+    "scientist": {
+      "followUps": [
+        "Which studies show 'family cohesion is associated with adolescent wellbeing', and how large is the effect?",
+        "Is there research on caring for ageing parents and caregiver wellbeing?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 4,
+        "fairness": 7,
+        "clarity": 8,
+        "honesty": 8
+      },
+      "satisfaction": 5,
+      "why": "The research line is honest ('a link, not that cohesion causes wellbeing') but names no study and gives no numbers."
+    },
+    "hurting": {
+      "followUps": [
+        "My parent was abusive; does Islam still require me to visit or speak to them, and how much contact is enough?",
+        "Where do I find 'safe help' as a Muslim, and will my community see this as disobedience?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 7,
+        "clarity": 8,
+        "honesty": 7
+      },
+      "satisfaction": 6,
+      "why": "'If a parent is abusive, protecting yourself is not disobedience to God' is exactly the right message, but it is three sentences with no practical guidance."
+    },
+    "skeptic": {
+      "followUps": [
+        "Why quote 'best to his wives' but not 4:34 or the hadith on wives' obedience, which critics actually raise?",
+        "How do classical rulings on guardianship (wali) and family honour fit with the page's claim that 'family honour' control 'is not what these verses command'?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 3,
+        "clarity": 7,
+        "honesty": 5
+      },
+      "satisfaction": 4,
+      "why": "The page names honour-based control, which is good, but answers it only by selecting kind texts and skips the ones critics cite."
+    }
+  },
+  "missing": [
+    "Cover spouses, children and siblings, not only parents: mutual rights and duties",
+    "Practical, specific guidance for those with abusive or controlling parents",
+    "Fiqh limits of obedience to parents, with schools and named scholars",
+    "Name the family-cohesion studies and give numbers"
+  ],
+  "strengths": [
+    "Clear separation of kindness and obedience in wrong (31:15)",
+    "Strong, graded hadith (mother three times, Asma' and her non-Muslim mother)",
+    "Brave, kind line on abusive parents",
+    "Honest correlational caveat on the research"
+  ]
+}

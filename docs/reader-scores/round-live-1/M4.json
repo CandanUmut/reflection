@@ -1,0 +1,116 @@
+{
+  "id": "M4",
+  "path": "en/live/ethics-of-speech/",
+  "group": "live",
+  "words": 846,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "When am I allowed to speak about someone's wrongdoing, e.g. warning about an abuser or a dishonest business partner?",
+        "Does 'your brother' in 49:12 include non-Muslims, so that backbiting about them is also forbidden?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 7,
+        "fairness": 6,
+        "clarity": 8,
+        "honesty": 7
+      },
+      "satisfaction": 6,
+      "why": "The 'three questions before you speak or post' are very usable, but the page admits it does not set out the exceptions, which is the main practical question."
+    },
+    "outsider": {
+      "followUps": [
+        "Are there times Islam allows lying, for example to make peace, and how is that squared with 'truthfulness leads to righteousness'?",
+        "How does this relate to free speech and to blasphemy laws?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 5,
+        "clarity": 8,
+        "honesty": 6
+      },
+      "satisfaction": 6,
+      "why": "Clear and relatable, especially the online-speech point, though it stays within a narrow set of rules on personal speech."
+    },
+    "student": {
+      "followUps": [
+        "What are the six exceptions to ghiba listed by al-Nawawi in Riyad al-Salihin or al-Adhkar, with their evidence?",
+        "Which of al-Ghazali's 'calamities of the tongue' are there, and which edition or chapter of the Ihya'?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 8,
+        "fairness": 6,
+        "clarity": 7,
+        "honesty": 8
+      },
+      "satisfaction": 6,
+      "why": "Good use of Ibn Kathir, 'Umar's saying and five graded hadith, but the exceptions are acknowledged as missing and al-Ghazali is cited from 'earlier research for this page'."
+    },
+    "scientist": {
+      "followUps": [
+        "Is there research on gossip, online harassment or the effects of verbal abuse that supports 'harm by words is taken seriously'?",
+        "Does pausing before posting reduce harmful online speech in studies?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 6,
+        "clarity": 8,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "Nothing overclaimed, but no research at all on a topic with a lot of good evidence."
+    },
+    "hurting": {
+      "followUps": [
+        "I am the one being talked about; what should I do, and can I respond?",
+        "How do I repair things after I have backbitten someone who has since found out?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 6,
+        "clarity": 8,
+        "honesty": 7
+      },
+      "satisfaction": 6,
+      "why": "'Your hurt is real' and the repair steps ('apologise, correct the record') are kind and concrete, but brief."
+    },
+    "skeptic": {
+      "followUps": [
+        "The Sources list 'Ṣaḥīḥ al-Bukhārī 6018', which is never cited on the page; which hadith is it, and why is it listed?",
+        "How do these ethics fit with classical rulings on insulting the Prophet or apostates' speech?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 4,
+        "clarity": 7,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "The page is honest about its limits ('do not set out those exceptions in detail') and names online abuse in religious language, but it avoids the hardest speech issues."
+    }
+  },
+  "missing": [
+    "Set out the classical exceptions to backbiting (warning of harm, seeking justice, etc.) with a named source",
+    "Explain the narrow cases where lying is permitted and how scholars treat them",
+    "Give al-Ghazali's list properly from the Ihya' instead of 'earlier research for this page'",
+    "Fix the Sources list: Bukhari 6018 is listed but not used; remove '01-batch-1.md (M4)'"
+  ],
+  "strengths": [
+    "Three-question test before speaking or posting is memorable and practical",
+    "Clear definition of backbiting vs slander (Muslim 2589)",
+    "Online speech explicitly included",
+    "Honest admission of what the page does not cover"
+  ]
+}

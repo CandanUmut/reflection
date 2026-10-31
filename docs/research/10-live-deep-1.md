@@ -10,7 +10,6 @@ Written 2026-10-31 for the Live section. Sources: the Quran (Tanzil; Saheeh Inte
 - Quran 4:135, 5:8, 16:90 (Saheeh International).
 - Ibn Kathir, *Tafsir* (abridged English, Quran.com), on 4:135.
 - Hadith (text and grades from the collections' data): Bukhari 2444, 2447, 3475.
-- Earlier research, `01-batch-1.md` (M1): al-Shatibi's *maqasid*; Ibn al-Qayyim; procedural-justice research; Arab Barometer.
 
 ### In brief
 Justice in the Quran is not only for others: it is "even if it be against yourselves or parents and relatives" (4:135), and even toward people you dislike (5:8). The Prophet (pbuh) refused to spare even the powerful from the law.
@@ -32,7 +31,7 @@ Justice in the Quran is not only for others: it is "even if it be against yourse
 **No exemption for the powerful.** When a woman of a noble tribe stole and people sought to have her spared, the Prophet (pbuh) refused, warning that earlier nations were ruined because they punished the weak and let the noble go, and said he would apply the law even to his own daughter Fatima {hadith:bukhari:3475}.
 
 #### scholars — How scholars have understood it
-**Justice is the aim of the law.** In the earlier research for this page, two classical voices stand out. Al-Shatibi (d. 1388) described the law as serving its objectives (*maqasid*), such as protecting life, mind, faith, family and property. Ibn al-Qayyim (d. 1350) went further: wherever justice is found, God's law is there. Both mean that a ruling which produces injustice has missed its own purpose.
+**Justice is the aim of the law.** Two classical voices stand out. Al-Shatibi (d. 1388) described the law as serving its objectives (*maqasid*), such as protecting life, mind, faith, family and property. Ibn al-Qayyim (d. 1350) went further: wherever justice is found, God's law is there. Both mean that a ruling which produces injustice has missed its own purpose.
 
 #### practice — In daily life
 **Be fair where it costs you.** Tell the truth in a dispute even when it hurts your side (4:135). Give a fair review to someone you dislike (5:8). When a friend wrongs someone, "help" him by stopping him {hadith:bukhari:2444}. At work and at home, apply the same rule to the people you like and the people you don't.
@@ -61,7 +60,6 @@ Muslim societies do not always live this teaching: surveys such as the Arab Baro
 - Quran 3:159, 7:156, 21:107 (Saheeh International).
 - Ibn Kathir, *Tafsir* (abridged English, Quran.com), on 3:159.
 - Hadith (text and grades from the collections' data): Bukhari 3467, 5997, 6000, 6013; Muslim 1955, 2593, 2752; Tirmidhi 1924.
-- Earlier research, `01-batch-1.md` (M2).
 
 ### In brief
 God's "mercy encompasses all things" (7:156), and the Prophet (pbuh) was sent "as a mercy to the worlds" (21:107). Mercy in Islam is not softness alone: it is care that reaches people, animals, and even the way a task is done.
@@ -108,7 +106,6 @@ Harsh preaching and cold religious authority contradict 3:159, which says harshn
 - Quran 17:23–24, 31:14–15 (Saheeh International).
 - Ibn Kathir, *Tafsir* (abridged English, Quran.com), on 17:23.
 - Hadith (text and grades from the collections' data): Bukhari 2620, 5971, 5985; Nasai 3104; Tirmidhi 3895.
-- Earlier research, `01-batch-1.md` (M3): maqasid and lineage; family cohesion research.
 
 ### In brief
 Kindness to parents comes right after worshipping God in the Quran (17:23). It is owed even to parents of another faith, but obedience stops where they command wrong (31:15). And the best person is "the best to his wives" {hadith:tirmidhi:3895}.
@@ -160,7 +157,6 @@ Kindness to parents comes right after worshipping God in the Quran (17:23). It i
 - Quran 49:11–12 (Saheeh International).
 - Ibn Kathir, *Tafsir* (abridged English, Quran.com), on 49:12.
 - Hadith (text and grades from the collections' data): Bukhari 10, 6094, 6475, 6478; Muslim 2589.
-- Earlier research, `01-batch-1.md` (M4): al-Ghazali on the "calamities of the tongue".
 
 ### In brief
 The Quran forbids mocking, insulting nicknames, suspicion, spying and backbiting (49:11–12). The Prophet (pbuh) gave a simple rule: "talk what is good or keep quiet" {hadith:bukhari:6475}.
@@ -184,7 +180,7 @@ The Quran forbids mocking, insulting nicknames, suspicion, spying and backbiting
 **Safety from your tongue.** "A Muslim is the one who avoids harming Muslims with his tongue and hands" {hadith:bukhari:10}.
 
 #### scholars — How scholars have understood it
-**A whole book on the tongue.** Al-Ghazali (d. 1111) gave a book of his *Ihya'* to the "calamities of the tongue", listing about twenty, from lying and backbiting to excessive joking and needless argument (earlier research for this page).
+**A whole book on the tongue.** Al-Ghazali (d. 1111) gave a book of his *Ihya'* to the "calamities of the tongue", listing about twenty, from lying and backbiting to excessive joking and needless argument.
 
 #### practice — In daily life
 **Before you speak or post.** Three questions: Is it true {hadith:bukhari:6094}? Would the person dislike it if it were said in their absence {hadith:muslim:2589}? Is it good, or is silence better {hadith:bukhari:6475}? Online speech counts as speech: a post can be backbiting, mockery (49:11) or spying (49:12).
@@ -209,7 +205,6 @@ Online, doubters and minorities are often abused in religious language. That con
 ### Sources read
 - Quran 2:153, 14:7, 39:10 (Saheeh International).
 - Hadith (text and grades from the collections' data): Bukhari 1302, 4837; Muslim 2963, 2999; Abu Dawud 4811.
-- Earlier research, `01-batch-1.md` (M5): al-Ghazali; Cregg & Cheavens (2021); the 2023 meta-analysis of gratitude interventions.
 
 ### In brief
 "If you are grateful, I will surely increase you" (14:7); "Allah is with the patient" (2:153). The Prophet (pbuh) described the believer as grateful in ease and patient in hardship, and good in both {hadith:muslim:2999}.
@@ -233,7 +228,7 @@ Online, doubters and minorities are often abused in religious language. That con
 **Patience at the first blow.** "The real patience is at the first stroke of a calamity" {hadith:bukhari:1302}.
 
 #### scholars — How scholars have understood it
-**Faith in two halves.** Al-Ghazali described faith as half patience and half gratitude (earlier research for this page).
+**Faith in two halves.** Al-Ghazali described faith as half patience and half gratitude.
 
 #### practice — In daily life
 **A short daily habit.** Name three specific gifts each day; thank one person by name {hadith:abudawud:4811}. When a loss comes, give yourself the first moment to turn to God (2:156; {hadith:bukhari:1302}), and then seek help — patience is not doing nothing.
