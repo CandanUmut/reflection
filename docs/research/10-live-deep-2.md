@@ -12,7 +12,7 @@ Written 2026-10-31. Sources: the Quran (Tanzil; Saheeh International, verbatim),
 - E. L. Worthington et al. / N. G. Wade et al. (2014), meta-analysis of forgiveness interventions (Δ = 0.56), and a 2022 *Child Development* meta-analysis (anger, g = 0.29), as reported in the earlier research.
 
 ### In brief
-The Quran praises "those who restrain anger and who pardon the people" (3:134), and it keeps the right to fair redress (42:40). Forgiveness is a gift the wronged may give, never something forced out of them.
+The Quran praises those "who restrain anger and who pardon the people" (3:134), and it keeps the right to fair redress (42:40). Forgiveness is a gift the wronged may give, never something forced out of them.
 
 ### Go deeper
 
@@ -159,7 +159,7 @@ Much modern "Islamic finance" has been criticised by Muslim economists (for exam
 #### quran — What the Quran says
 **Return trusts, judge justly.** "Indeed, Allah commands you to render trusts to whom they are due and when you judge between people to judge with justice" (4:58).
 
-**Do not betray.** "Do not betray Allah and the Messenger or betray your trusts while you know [the consequence]" (8:27). Believers are those "who are to their trusts and their promises attentive" (23:8), and "the promise will be asked about" (17:34).
+**Do not betray.** "Do not betray Allah and the Messenger or betray your trusts while you know [the consequence]" (8:27). Believers are those "who are to their trusts and their promises attentive" (23:8), and "fulfill [every] commitment. Indeed, the commitment is ever [that about which one will be] questioned" (17:34).
 
 **The trust humans carried.** God offered the trust to the heavens, the earth and the mountains, and they declined; the human being took it on (33:72). Commentators read it broadly: property, secrets, office, one's own body and abilities.
 
