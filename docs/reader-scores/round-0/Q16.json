@@ -1,0 +1,127 @@
+{
+  "id": "Q16",
+  "path": "en/ask/earthquakes/",
+  "group": "ask",
+  "words": 699,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "The page asks 'If God could stop it, how is He just?' and then says 'See Q1 (suffering)'. What is the actual answer, here, in a few paragraphs?",
+        "42:30 says disaster strikes 'for what your hands have earned'. How is that verse read so that it does not blame the people who died?",
+        "If everything is 'kader', how can contractors be guilty? How do qadar and human responsibility fit together?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 6,
+        "clarity": 4,
+        "honesty": 6
+      },
+      "satisfaction": 5,
+      "why": "The martyrdom hadith and Görmez's words give a real handle, but the hardest part of the question (God's justice) is sent to another page and the qadar-vs-blame tension is never explained."
+    },
+    "outsider": {
+      "followUps": [
+        "What is Diyanet, and who are the DİYK and Mehmet Görmez? Why does their view matter?",
+        "What do 'kader', 'musibet', 'âyet' and 'sunnatullāh' mean in plain words?",
+        "Do most Muslims worldwide hold this view, or is it a Turkish official position?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 5,
+        "clarity": 3,
+        "honesty": 6
+      },
+      "satisfaction": 4,
+      "why": "I get the gist that mainstream scholars reject 'punishment' framing, but the page reads like notes full of unexplained Turkish and Arabic terms ('DİYK', 'musibet', 'kader planı')."
+    },
+    "student": {
+      "followUps": [
+        "How did the classical mufassirun read 42:30 and 30:41, and who limited the punishment verses to peoples who rejected a prophet? Name the scholars and works.",
+        "What is the grading of Tirmidhī 2517 ('tie your camel')?",
+        "What exactly did al-Suyūṭī argue in Kashf al-Ṣalṣala, and what does Nursi say about musibet, with the Lem'a number?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 7,
+        "fairness": 6,
+        "clarity": 5,
+        "honesty": 6
+      },
+      "satisfaction": 5,
+      "why": "Good hadith numbers and a named classical work, but each is a single line; the key scholarly move ('scholars restrict these to prophetic warning') names no scholar."
+    },
+    "scientist": {
+      "followUps": [
+        "What is the evidence that 'damage correlated strongly with construction quality and code enforcement'? Which reports, which numbers (e.g. share of collapsed buildings built before/after the 1999 or 2018 codes)?",
+        "How does plate tectonics 'recycle carbon and build continents', and why would a world without it be uninhabitable?",
+        "Is the page saying 30:41 refers to building codes? 'The human dimension 30:41 points to' reads like reading modern engineering into the verse."
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 3,
+        "evidence": 4,
+        "fairness": 6,
+        "clarity": 5,
+        "honesty": 6
+      },
+      "satisfaction": 4,
+      "why": "Magnitudes and the fault are right, but the main scientific claim (construction quality) has no figures or named study, and the carbon-cycle point is one unexplained clause."
+    },
+    "hurting": {
+      "followUps": [
+        "I survived and my family did not. Is it wrong that I am angry at God? What does the faith say to that?",
+        "Are my children who died really counted as martyrs? Which hadith says so, in full?",
+        "The page says survivors 'face guilt, trauma and anger at God' - what actually helps, beyond a phone number?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 6,
+        "clarity": 4,
+        "honesty": 6
+      },
+      "satisfaction": 5,
+      "why": "The clear 'not punishment' and 'martyrs' message is real comfort and support contacts are there, but survivor guilt and anger get one line and the tone is clipped and clinical."
+    },
+    "skeptic": {
+      "followUps": [
+        "The page says of the ʿĀd and Thamūd verses: 'Don't deny them; explain why they cannot apply to 2023's victims.' Where is that explanation? It reads like an instruction to the writer, not an answer.",
+        "Al-Suyūṭī read earthquakes as warnings; Görmez says that was 'limited natural knowledge'. Is that not just retrofitting old theology to modern science?",
+        "64:11 says no disaster strikes except by God's permission. How does 'natural law' avoid the problem that God permitted 53,537 deaths?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 3,
+        "evidence": 5,
+        "fairness": 5,
+        "clarity": 4,
+        "honesty": 5
+      },
+      "satisfaction": 4,
+      "why": "It names the right objections and admits the punishment verses exist, but then skips the answer and leaves writer instructions on the page."
+    }
+  },
+  "missing": [
+    "An actual answer to 'If God could stop it, how is He just?' on this page, not only 'See Q1'",
+    "Explain 42:30 (listed but never discussed) and why the ʿĀd/Thamūd punishment verses do not apply to 2023's victims, naming the scholars who say so",
+    "Explain how qadar fits with blaming contractors (human responsibility within God's decree)",
+    "Remove the writer-instruction lines left on the page: 'Don't deny them; explain why they cannot apply to 2023's victims.' and 'Link to AFAD psychosocial support and professional trauma care.'",
+    "Back the construction-quality claim with a named report and numbers",
+    "Explain terms (Diyanet, DİYK, kader, musibet, sunnatullāh) and turn the notes into prose",
+    "More for survivors: guilt, anger at God, grief, in compassionate prose"
+  ],
+  "strengths": [
+    "Concrete figures with source (53,537 dead, 107,213 injured, AFAD 2024)",
+    "Martyrdom hadith with collection numbers (Bukhārī 2829; Muslim 1914; Bukhārī 5734)",
+    "Görmez quotes, including the 'innocent children' point",
+    "Support section with Türkiye contacts",
+    "Honest limits admitting that some verses describe punishments of specific peoples",
+    "Strong statement of the question, including the children and the 'kader planı' framing"
+  ]
+}

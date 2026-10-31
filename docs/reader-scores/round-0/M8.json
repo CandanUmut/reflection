@@ -1,0 +1,127 @@
+{
+  "id": "M8",
+  "path": "en/live/wealth-and-charity/",
+  "group": "live",
+  "words": 965,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "Is my bank account or mortgage ribā? What do the different scholarly positions on modern interest actually say?",
+        "How much zakat do I owe and on what - what are the rate and the threshold (niṣāb)?",
+        "If Islamic finance is mostly 'interest with new names', what should an ordinary Muslim do?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 7,
+        "fairness": 7,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 6,
+      "why": "Strong principles and an honest note on Islamic finance, but the practical question everyone has - interest and how zakat works - gets 'scholars ... debate how it applies to modern bank interest' and nothing more."
+    },
+    "outsider": {
+      "followUps": [
+        "How does zakat work in practice: who pays, how much, to whom, and who collects it?",
+        "What is a waqf, and how big a role did it really play? 'Ottoman foundations ran a large share of public services' - how large?",
+        "What are maqāṣid, and why does it matter that wealth 'must circulate'?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 6,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 6,
+      "why": "I learn the moral vision and some history, but key mechanics (zakat rate, what counts as ribā) are missing and the page is bullets rather than explanation."
+    },
+    "student": {
+      "followUps": [
+        "What are the positions on bank interest - e.g. the majority view and the minority that distinguishes interest from ribā - with named scholars and fiqh councils?",
+        "What is the grading of Tirmidhī 3675 (Abū Bakr and ʿUmar at Tabūk), and what is the source for ʿUthmān and the well of Rūma?",
+        "What do the schools say about iḥtikār (hoarding) and which goods it covers?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 7,
+        "fairness": 6,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 6,
+      "why": "Hadith with numbers and one grading, al-Ghazālī's Iḥyāʾ book named, Ibn ʿĀshūr and Auda - real ilm, but each in one line, and the ribā debate is not laid out."
+    },
+    "scientist": {
+      "followUps": [
+        "How large is d ≈ 0.28 in everyday terms, and how much of the kindness literature survives preregistered replications?",
+        "Wilkinson & Pickett is labelled 'Debated (in size and causality)' - who disputes it and on what grounds? It is also missing from the source list.",
+        "Is there any evidence on whether zakat or waqf systems reduced poverty or inequality, with numbers?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 7,
+        "fairness": 7,
+        "clarity": 6,
+        "honesty": 8
+      },
+      "satisfaction": 6,
+      "why": "Effect sizes and honest labels ('Established (small)', 'Debated') are exactly right, but the inequality claim is unsourced in the list and there is no evidence on Islamic institutions themselves."
+    },
+    "hurting": {
+      "followUps": [
+        "I am in debt and struggling. What does Islam say I am owed, and what should creditors do (2:280)?",
+        "Can I receive zakat, and how do I ask without shame?",
+        "I gave to charity and then needed the money myself - did I do wrong?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 6,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "The 'right of the poor, not a favor' line and 2:280's mercy to debtors are meaningful, but the page speaks to givers and barely to the person in need."
+    },
+    "skeptic": {
+      "followUps": [
+        "The page itself admits zakat collection 'is weak or informal' and inequality is high in Muslim-majority countries - why, if the principles are so clear?",
+        "Historically, did waqfs and the ḥisba office actually prevent exploitation, or were they captured by elites? What does the research say?",
+        "Who are the critics beyond El-Gamal, and is any Islamic-finance product genuinely different?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 7,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "The 'gap between ideal and practice' section is a real strength, but it is one-sided historically (waqf presented only positively) and it contains the broken placeholder '…gaps.' and a writer instruction."
+    }
+  },
+  "missing": [
+    "Remove leaked writer text: '…gaps.' and 'Do not present Islamic economics as already proven to work better at scale; present its principles and the honest record.'",
+    "How zakat works in practice: rate, threshold, which wealth, who collects",
+    "Lay out the scholarly positions on modern bank interest with names and councils",
+    "Something for the person in need or in debt, not only for givers",
+    "Grading for Tirmidhī 3675; a source for ʿUthmān and the well of Rūma; Wilkinson & Pickett in the source list",
+    "Numbers or studies for the waqf/Ottoman claim, and a balanced view of its record",
+    "More prose, fewer bullet fragments"
+  ],
+  "strengths": [
+    "Hadith with collection numbers and an honest grading note on Tirmidhī 1209",
+    "Named scholars and works (al-Ghazālī's Iḥyāʾ book, Ibn ʿĀshūr, Auda, al-Rāghib al-Iṣfahānī)",
+    "Research with effect sizes and honest evidence labels",
+    "The 'gap between ideal and practice' section and the El-Gamal critique of 'sharia arbitrage'",
+    "Concrete history: waqf, ḥisba, Tabūk",
+    "'Zakat is a right of the poor over wealth, not a favor' framing"
+  ]
+}

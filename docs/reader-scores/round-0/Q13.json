@@ -1,0 +1,83 @@
+{
+  "id": "Q13",
+  "path": "en/ask/eternal-hell/",
+  "group": "ask",
+  "words": 661,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "What about my non-Muslim friends who never really heard Islam presented fairly? Are they among those who 'knowingly and persistently reject God'?",
+        "How does 'a fixed inner state' answer the proportion problem? Please explain the argument in full, not in one line.",
+        "Does the Arabic word for 'forever' (khulud, abadan) always mean endless?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 7, "clarity": 5, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "I learn something real: the majority view is tied to persistent knowing rejection, and serious classical scholars dissented. But the main reply, '(a) fixed character: punishment tracks enduring rejection (6:28)', is a single line."
+    },
+    "outsider": {
+      "followUps": [
+        "Who are the Ashʿarīs, Māturīdīs and Atharīs, and what is 'Fanāʾ al-nār'?",
+        "Do most Muslims believe all non-Muslims go to Hell forever, or only some? Who decides who is 'truly culpable'?",
+        "Why was the minority view 'widely condemned'?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 7, "clarity": 4, "honesty": 8 },
+      "satisfaction": 5,
+      "why": "The range of views is fair and clearly ordered, but school names and Arabic titles are never explained, and the 'Psychological' line 'Avoid graphic imagery' reads like an instruction to the writer, not something meant for me."
+    },
+    "student": {
+      "followUps": [
+        "What did al-Ghazali say in Fayṣal al-Tafriqa about people the message did not reach properly, and what did other scholars say about 'ahl al-fatra'?",
+        "What exactly did al-Subkī argue against Ibn Taymiyya, and what did Ibn al-Qayyim finally conclude in Ḥādī al-Arwāḥ and Shifāʾ al-ʿAlīl?",
+        "How did the classical commentators read the exception 'except what your Lord should will' in 11:107?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 7, "fairness": 7, "clarity": 5, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "The sources are strong (Hoover, Khalil, Ibn al-Qayyim) and the Ibn Taymiyya point is carefully hedged ('never states categorically that it ends'), but the tafsir of 11:107 and the question of who counts as a culpable unbeliever are not covered."
+    },
+    "scientist": {
+      "followUps": [
+        "Set out the proportionality argument formally: what makes punishment 'just', and which premise does each response reject?",
+        "What evidence is there on Hell-anxiety and scrupulosity, and how common is it?",
+        "Why is response (b) 'weakest for modern readers'? Please explain."
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 7, "clarity": 5, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "The three responses are labelled clearly and ranked honestly, but each one is a single clause, and the scrupulosity claim has no source."
+    },
+    "hurting": {
+      "followUps": [
+        "My parent (or friend) died outside Islam. What can I hope for them, honestly?",
+        "I have scrupulosity and fear Hell constantly. What should I actually do, and where can I get help?",
+        "Is the 99-parts-of-mercy hadith authentic, and what does it mean for the people I love?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 6, "fairness": 6, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "'God alone knows who is truly culpable' and the mercy hadith help, but 'love for non-Muslim friends' is named as a reason people ask and is never answered, and there is no support box although the page itself mentions Hell-anxiety."
+    },
+    "skeptic": {
+      "followUps": [
+        "Why should knowing rejection made in one finite life fix a person's character for eternity? Isn't 6:28 assumed rather than argued?",
+        "The verses on eternity in 4:169 and 72:23 seem plain. How do the minority scholars actually read 'abadan'?",
+        "What happens to sincere people who examined Islam and were not convinced? Are they 'knowing rejecters'?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 6, "clarity": 5, "honesty": 8 },
+      "satisfaction": 5,
+      "why": "It honestly avoids pretending the minority view is 'the hidden real Islam', but the hardest case, the sincere non-believer, is waved past with 'God alone knows', and the fixed-character reply is asserted, not defended."
+    }
+  },
+  "missing": [
+    "A real answer about non-Muslims: who counts as 'knowingly' rejecting, al-Ghazali's categories, ahl al-fatra (people the message never properly reached), and the sincere seeker who was not convinced",
+    "The fixed-character and dignity arguments developed in prose, with the strongest objection to each",
+    "How the minority scholars read 'abadan' and the exception in 11:107, and what al-Subkī replied",
+    "Terms explained: Ashʿarī, Māturīdī, Atharī, fanāʾ al-nār, universalism",
+    "A support box and pastoral guidance for scrupulosity and grief over loved ones",
+    "Remove the writer-facing lines ('Avoid graphic imagery', 'Views are those named in the research') and the repeated list of views"
+  ],
+  "strengths": [
+    "A fair range of views with named classical scholars on both sides and a clear spectrum",
+    "Careful handling of Ibn Taymiyya ('never states categorically that it ends'), citing Hoover",
+    "Honest limit: the minority view 'is not the hidden \"real\" Islam'",
+    "Key verses quoted in full, including the exception in 11:106-108",
+    "Strong academic sources (Hoover, Khalil)"
+  ]
+}

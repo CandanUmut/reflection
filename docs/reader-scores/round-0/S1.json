@@ -1,0 +1,121 @@
+{
+  "id": "S1",
+  "path": "en/reflect/seed/",
+  "group": "reflect",
+  "words": 528,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "The 'How it works' section explains germination without God; what does it add to say God is 'the cleaver of grain'?",
+        "What does 'brings the dead out of the living' mean - what is the classical example?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 6,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 6,
+      "why": "A clear, honest page with a striking real example; the link between mechanism and the verse's claim is asserted rather than reflected on at any length."
+    },
+    "outsider": {
+      "followUps": [
+        "What is tafsir, and who are al-Rāzī, al-Qurṭubī and Ibn Kathīr?",
+        "Why is a date seed specifically meaningful in the Quran's world?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 6,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 6,
+      "why": "Easy to follow and the Methuselah story is memorable, but scholars are named without saying who they are or what they actually wrote."
+    },
+    "student": {
+      "followUps": [
+        "What exactly do al-Rāzī and al-Qurṭubī say on 'fāliq al-ḥabbi wa-l-nawā' - what does 'fāliq' mean, and which works (Mafātīḥ al-Ghayb, al-Jāmiʿ li-Aḥkām al-Qurʾān)?",
+        "What examples do the mufassirun give for 'the living from the dead' (e.g. plant from seed, chick from egg)?",
+        "How do the mufassirun connect 56:63-64 to tawakkul and human effort?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 6,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "The tafsir layer is three one-clause summaries ('Ibn Kathīr stresses human dependence') with no quotes or works."
+    },
+    "scientist": {
+      "followUps": [
+        "Date seeds store their reserves mainly as hemicellulose (mannans) in a hard endosperm, not starch; is 'Amylase enzymes turn stored starch into sugar' right for a date stone, or is it the cereal model?",
+        "How did dryness 'limit damage from free radicals' - what is the mechanism and the evidence?",
+        "How long do seeds normally stay viable, and how exceptional is ~2,000 years compared with other records (e.g. the Silene seeds)?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 7,
+        "fairness": 7,
+        "clarity": 6,
+        "honesty": 8
+      },
+      "satisfaction": 6,
+      "why": "Good sourcing (Science 320:1464, dating ±50 years, 2020 follow-up) and a careful honest note, but the mechanism is generic and likely the wrong storage model for a date seed."
+    },
+    "hurting": {
+      "followUps": [
+        "I am grieving. Is the resurrection analogy in 41:39 meant as comfort, and what do scholars say about it?",
+        "Does 'the dead out of the living' mean death is also part of God's plan for those I love?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 6,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 6,
+      "why": "The image of a stone that 'waits two thousand years and still answers to water' and 41:39 offer quiet hope, but the reflection is two sentences."
+    },
+    "skeptic": {
+      "followUps": [
+        "Is 'Hannah later bore dates' confirmed in a peer-reviewed source, or only in 'secondary sources'?",
+        "Is the verse doing any more than describing what every farmer could see?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 7,
+        "clarity": 6,
+        "honesty": 8
+      },
+      "satisfaction": 6,
+      "why": "The page avoids overclaiming ('The verse makes no \"prediction\" about seed dormancy') and hedges the Hannah claim, which earns trust; little to object to but little depth."
+    }
+  },
+  "missing": [
+    "Correct or qualify the mechanism for a date seed (mannan/hemicellulose endosperm vs the cereal starch-amylase model)",
+    "A fuller tafsir layer: what 'fāliq' means, what each scholar says, in which work",
+    "Context on seed longevity: typical viability and other records",
+    "A longer reflection connecting the mechanism to the verse and to 41:39",
+    "Fix the UI fragment '56:63 Continue' and the repeated verse line in the page text",
+    "Explain who the named scholars are"
+  ],
+  "strengths": [
+    "The Methuselah date seed with a precise citation and honest dating range (1,990 ± 50 years; 2020 paper says 1,900)",
+    "The four layers are clearly separate (verse, tafsir, science, reflection)",
+    "Honest note: no 'prediction', approximate dating",
+    "Hedged wording on 'Hannah' ('Secondary sources report')",
+    "Clear, simple step-by-step germination text version"
+  ]
+}

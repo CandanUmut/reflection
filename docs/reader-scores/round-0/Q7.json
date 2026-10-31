@@ -1,0 +1,83 @@
+{
+  "id": "Q7",
+  "path": "en/ask/apostasy/",
+  "group": "ask",
+  "words": 561,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "Is the hadith 'whoever changes his religion, kill him' authentic, and how do the reformist scholars deal with it if it is in Bukhari?",
+        "If I stop believing, am I in danger, legally or in my family? What does the law in Türkiye and in other Muslim countries say today?",
+        "What do the four Sunni schools actually say, and did any classical scholar reject the death penalty for apostasy alone?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 5, "fairness": 5, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "It answers yes-and-no clearly ('Classical jurists did prescribe execution… Many modern scholars… argue the penalty targeted treason'), but it never explains how the reformists handle the Bukhari hadith, which is the one thing that frightened me."
+    },
+    "outsider": {
+      "followUps": [
+        "What is the Arabic term for apostasy, and what counted as apostasy in classical law (just changing belief, or also speech and actions)?",
+        "Why would 'being a combatant' explain why women were imprisoned and not executed? Please spell out the argument.",
+        "Which countries punish apostasy by law today?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 5, "fairness": 5, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "I understand the two sides in outline, and the Pew figure is a useful reality check, but key steps are left out ('which suggests the penalty was linked to being a combatant'), and the topic's own name (ridda) never appears."
+    },
+    "student": {
+      "followUps": [
+        "What are the main hadith on apostasy (Bukhari 3017, and the 'three cases' hadith), their chains and gradings, and how do classical scholars read them?",
+        "What positions did the madhhabs hold: waiting period, repentance (istitaba), the rulings for men and women, and was there an ijma claim?",
+        "What does Dalgın's argument actually say, and how did the classical scholars use the ridda wars and the Companions' practice?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 5, "fairness": 5, "clarity": 5, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "Only one hadith is named, the schools are reduced to one Hanafi point, and 'Sufyan al-Thawri is reported to have opposed' gives no source, so there is little ilm here."
+    },
+    "scientist": {
+      "followUps": [
+        "What does the Pew data show beyond Egypt: which countries are highest and lowest, and does support differ between people who favour sharia as state law and those who don't?",
+        "How many countries have apostasy laws today, and how often are they actually enforced?",
+        "Is there data on what happens to people who leave Islam (social, family, legal)?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 6, "fairness": 5, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "The Pew figures are concrete and correctly cited (88% Egypt, 28% median across 37 countries), but they are the only data on the page, and the legal and enforcement picture is missing."
+    },
+    "hurting": {
+      "followUps": [
+        "My family member left Islam (or I did). What should I actually do to stay safe, and how should a family respond?",
+        "Does 2:217 mean my loved one is going to Hell forever?",
+        "Is there a Muslim scholar I can point my family to who says they must not harm me?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 5, "fairness": 5, "clarity": 5, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The page notes that 'Doubters fear for their safety' but never speaks to that fear; 2:217 ('companions of the Fire… abide therein eternally') is quoted in full with no word of care, and the support box is generic."
+    },
+    "skeptic": {
+      "followUps": [
+        "How can the page call the reformist view 'widely held today' when its own Pew figure is 88% in Egypt? Widely held by whom?",
+        "Why leave out the 'three cases' hadith, the ridda wars and Ali's executions, which classical jurists relied on?",
+        "If the penalty was really about treason, why did classical law also apply it to blasphemy and to private unbelief that later came to light?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 4, "fairness": 4, "clarity": 5, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "The steelman rests on a single hadith and leaves out the strongest classical evidence, and 'Debated (but widely held today)' overclaims, though the honest limit ('an argument, not the uniform historical view') partly saves it."
+    }
+  },
+  "missing": [
+    "The full classical case: the main hadith with gradings, the ridda wars, the Companions' practice, the madhhab positions (istitaba, men vs women) and the ijma claim",
+    "How reformist scholars actually read the Bukhari hadith (context of war, treason, a hadith reported by one chain only), set out step by step",
+    "The present-day legal picture: which countries have apostasy laws, how they are enforced, and the law in Türkiye",
+    "Pastoral guidance for people who have left, or whose family member has, including safety",
+    "A precise statement of who holds the reformist view, replacing the vague 'widely held today'",
+    "Named sources for the al-Thawri report and the Hanafi ruling; Diyanet Haber is a weak source"
+  ],
+  "strengths": [
+    "A clear, honest 'both' answer: the Quran gives no worldly penalty, and classical jurists did prescribe execution",
+    "2:217 and 2:256 quoted in full, so readers can see for themselves that no worldly penalty is given",
+    "The Pew data and 'The gap between ideal and attitudes must be acknowledged'",
+    "Honest limit: 'The reformist reading is an argument, not the uniform historical view'",
+    "The Hanafi rule on female apostates is a concrete, interesting piece of evidence"
+  ]
+}

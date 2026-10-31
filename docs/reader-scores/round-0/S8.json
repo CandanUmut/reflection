@@ -1,0 +1,117 @@
+{
+  "id": "S8",
+  "path": "en/reflect/pairs-and-diversity/",
+  "group": "reflect",
+  "words": 233,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "The page says 'Not all life reproduces sexually.' Does that contradict 'of all things We created two mates'? How do scholars read it?",
+        "What does 'zawjayn' mean - male and female, or opposites in general?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 2,
+        "fairness": 4,
+        "clarity": 4,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "The obvious objection is raised in five words and then left alone."
+    },
+    "outsider": {
+      "followUps": [
+        "Why does diversity of languages and colours count as a 'sign' in Islamic thought?",
+        "How do Muslims understand 49:13 in relation to racism and tribalism?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 2,
+        "fairness": 4,
+        "clarity": 5,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "Readable but bare: the science section is four unconnected one-line facts."
+    },
+    "student": {
+      "followUps": [
+        "Which mufassirun read 'pairs' as 'complementary opposites' (night/day, land/sea…), and in which works?",
+        "How does the Prophet's Farewell Sermon (no Arab superior to a non-Arab) relate to 30:22 and 49:13, and what are its sources and grading?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 2,
+        "fairness": 3,
+        "clarity": 4,
+        "honesty": 5
+      },
+      "satisfaction": 2,
+      "why": "'Pairs are read broadly as complementary opposites' is the entire tafsir layer, with no scholar named."
+    },
+    "scientist": {
+      "followUps": [
+        "How does skin colour track UV exposure - melanin, folate and vitamin D trade-offs (e.g. Jablonski & Chaplin)?",
+        "Where does the ~7,000 figure come from and how many languages are endangered?",
+        "Why are charge pairs and antimatter listed at all if the page then says the verse made no prediction?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 3,
+        "fairness": 5,
+        "clarity": 5,
+        "honesty": 6
+      },
+      "satisfaction": 3,
+      "why": "Facts are correct but there are no mechanisms, numbers or sources beyond 'Ethnologue'."
+    },
+    "hurting": {
+      "followUps": [
+        "I face racism, sometimes from Muslims. What does this verse say to me, and to them?",
+        "Is my language or skin colour of lower worth in God's sight?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 2,
+        "fairness": 4,
+        "clarity": 5,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "49:13's 'the most noble of you ... is the most righteous' is there, but the page never speaks to someone who has been treated as lesser."
+    },
+    "skeptic": {
+      "followUps": [
+        "Isn't 'pairs' a vague word that can be fitted to anything after the fact? How is that avoided here?",
+        "Asexual organisms are mentioned - where is the honest discussion of that tension?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 2,
+        "fairness": 4,
+        "clarity": 5,
+        "honesty": 6
+      },
+      "satisfaction": 3,
+      "why": "The honest note avoids the antimatter claim, which is good, but the tension it raises is not addressed and the page is too thin to judge."
+    }
+  },
+  "missing": [
+    "Explain what 'zawjayn' means and how classical scholars read 51:49, with names and works",
+    "Address the tension with asexual reproduction honestly instead of listing it",
+    "Mechanisms and sources for the science (skin colour and UV, language counts)",
+    "A real reflection on diversity and racism, beyond repeating the intro line",
+    "Prose instead of one-line facts; the page is about 230 words"
+  ],
+  "strengths": [
+    "Honest note against an 'antimatter prediction'",
+    "Good verse pairing (51:49, 30:22, 49:13)",
+    "'That you may know one another' as a clear purpose for diversity"
+  ]
+}

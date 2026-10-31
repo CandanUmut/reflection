@@ -1,0 +1,126 @@
+{
+  "id": "Q25",
+  "path": "en/ask/homosexuality/",
+  "group": "ask",
+  "words": 620,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "Why would a just God create someone with desires they can never act on in any lawful way, for their whole life?",
+        "Which texts, besides the story of Lot, is the prohibition based on, and how strong are they?",
+        "What does Kugle actually argue, and what exactly does Vaid say he gets wrong?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 3,
+        "evidence": 4,
+        "fairness": 5,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 4,
+      "why": "The page honestly says the celibacy objection 'has no fully satisfying answer', but the answer it gives is one sentence (2:286) and the debate is reduced to two names."
+    },
+    "outsider": {
+      "followUps": [
+        "What do Muslims believe a gay Muslim should actually do with their life - marry, stay single, keep it private?",
+        "What is a 'ḥadd penalty' and what do the different schools say about punishment?",
+        "Who counts as 'mainstream' and who are the 'revisionists' - are there Muslim communities that accept same-sex relationships?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 3,
+        "evidence": 4,
+        "fairness": 5,
+        "clarity": 4,
+        "honesty": 6
+      },
+      "satisfaction": 4,
+      "why": "The core position is clear (attraction vs acts) but terms like 'ḥadd' are unexplained and the page is a few short sentences per section."
+    },
+    "student": {
+      "followUps": [
+        "What are the positions of the four schools on the act and on punishment, and what did Abū Ḥanīfa argue versus his students and the other imams?",
+        "Which hadith are used (e.g. on punishment), in which collections, and how are they graded?",
+        "What does Ibn Ḥazm say in Ṭawq al-Ḥamāma and in al-Muḥallā, and what does El-Rouayheb (2005) show about pre-modern attitudes?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 4,
+        "clarity": 5,
+        "honesty": 6
+      },
+      "satisfaction": 3,
+      "why": "Sources like Ibn Ḥazm, El-Rouayheb and K. Ali are listed but never used in the text; no hadith, no school positions beyond one line on Abū Ḥanīfa."
+    },
+    "scientist": {
+      "followUps": [
+        "What did Ganna et al. 2019 actually find - how much variation do genes explain, and what does 'no single gene' imply?",
+        "What is the evidence that conversion therapy is harmful (which reviews, which professional bodies)?",
+        "How does the page's 'orientation is not chosen' square with the science it cites?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 3,
+        "evidence": 5,
+        "fairness": 6,
+        "clarity": 6,
+        "honesty": 6
+      },
+      "satisfaction": 4,
+      "why": "One correct study citation and one unsourced claim ('Conversion therapy is harmful') make up the whole scientific perspective."
+    },
+    "hurting": {
+      "followUps": [
+        "I am gay and Muslim. Can I still be a good Muslim, pray, belong to a mosque?",
+        "My family rejected me. What does Islam say they owe me, and where can I find support that is not just an emergency number?",
+        "Is there anything hopeful here for a lifetime, not just 'God tests people differently'?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 3,
+        "evidence": 3,
+        "fairness": 6,
+        "clarity": 4,
+        "honesty": 7
+      },
+      "satisfaction": 4,
+      "why": "It says 'feelings are not sins' and that family rejection is wrong, which matters, but 'Psychological and social perspective' is only 'Safety comes first: 112 in Türkiye, or a crisis line' - cold and thin for the person most hurt by this topic."
+    },
+    "skeptic": {
+      "followUps": [
+        "Why is the death penalty in some schools and in some modern states not mentioned at all?",
+        "Kugle's reading is dismissed by citing one critic; where is the full revisionist case and the reply on the merits?",
+        "If the celibacy burden 'has no fully satisfying answer', why does the page still present the position as just?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 3,
+        "clarity": 5,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "Skips the hardest parts (punishments, hadith, modern criminal laws), and the minority view is named and then rebutted by citation, not argued."
+    }
+  },
+  "missing": [
+    "Address the hadith and the classical punishments by school, including that some prescribe death, and what scholars say today",
+    "A real section on the lifelong-celibacy objection: the strongest form and the best Muslim responses, with names",
+    "Lay out Kugle's argument and Vaid's response in a few sentences each; use the listed Ibn Ḥazm, El-Rouayheb and K. Ali sources in the text",
+    "Pastoral guidance for gay Muslims and their families, and non-emergency support (counselling, support groups)",
+    "State what Ganna et al. found in numbers; source the conversion-therapy claim",
+    "Fix the run-in 'Ibn Ḥazm Debated.' (badge text merged into the sentence)",
+    "Explain terms such as ḥadd"
+  ],
+  "strengths": [
+    "The clear distinction between attraction and acts ('feelings are not sins')",
+    "Strong statements that mockery, violence and family rejection are wrong, and that the Lot story must never be used to dehumanise anyone",
+    "Honest admission that the celibacy objection 'has no fully satisfying answer'",
+    "Names both the classical reading and the revisionist minority",
+    "Accurate gene citation (Ganna et al., Science 2019)"
+  ]
+}

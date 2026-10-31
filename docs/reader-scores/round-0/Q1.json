@@ -1,0 +1,83 @@
+{
+  "id": "Q1",
+  "path": "en/ask/suffering/",
+  "group": "ask",
+  "words": 480,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "What exactly are the 'logical' and 'evidential' problems, and why do philosophers say the logical one is answered? Who showed that, and how?",
+        "What is the actual Islamic reply to a child dying of cancer? What does 'a real test' mean for a baby who cannot be tested?",
+        "What did al-Ghazali mean by 'nothing more wonderful than what is', and why is it marked 'Debated'?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 5, "fairness": 6, "clarity": 3, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The page states the objection fairly and admits the evidential problem 'remains serious', but every reply is a one-line bullet ('Defences: free will, soul-making, natural regularity and sceptical theism'), so I leave with the same question."
+    },
+    "outsider": {
+      "followUps": [
+        "What do 'soul-making' and 'sceptical theism' mean, and which of these defences do Muslims actually use?",
+        "Who are the Ash'aris and Maturidis, and how does their disagreement change the answer?",
+        "What happens in the Khidr story (18:60-82), and why does it matter here?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 5, "clarity": 3, "honesty": 7 },
+      "satisfaction": 3,
+      "why": "It is a list of names and labels (Ash'aris, Maturidis, Ibn Taymiyya, Nursi, 'Debated', 'Scholarly') with no explanation, so I cannot tell what Muslims actually believe or why."
+    },
+    "student": {
+      "followUps": [
+        "What exactly did Ibn Taymiyya and Said Nursi argue, and in which works? Please quote them, not just give one-line summaries.",
+        "What does Muslim 2582 on animal recompense say, and how did scholars understand it?",
+        "What were the Ash'ari and Maturidi positions on God's wisdom (hikma) and justice, and where did they disagree?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 6, "fairness": 6, "clarity": 4, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The references are good (Muslim 2999, Bukhari 1303, Ormsby, Jackson), but each scholar gets half a sentence, and the al-Ghazali controversy is only hinted at with a 'Debated' tag."
+    },
+    "scientist": {
+      "followUps": [
+        "What is the evidence that plate tectonics stabilises long-term climate through the carbon cycle? Please give a source.",
+        "How much animal suffering does deep time actually involve, and does 'animal recompense' respond to it in any testable or coherent way?",
+        "What does the research on positive and negative religious coping show? Who studied it, and how big are the effects?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 6, "clarity": 4, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The plate-tectonics point is labelled correctly ('Established… the theodicy use is Debated'), but it is a single unsourced sentence, and the coping research has no study or numbers."
+    },
+    "hurting": {
+      "followUps": [
+        "Is it allowed to be angry at God while grieving? What does the tradition say about that?",
+        "Is my loss a punishment? How do I tell 'a test' from 'being punished'?",
+        "What did the Prophet say and do when his son Ibrahim died?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 5, "fairness": 5, "clarity": 4, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "'Grief needs presence before argument' and 'No theodicy explains individual cases' are kind and true, and the support box helps, but most of the page is a cold list of philosophical labels rather than words a grieving person can hold."
+    },
+    "skeptic": {
+      "followUps": [
+        "Who says the logical problem is 'widely regarded' as answered? Please give the source (Plantinga?) and the critics' reply.",
+        "How does Islam answer gratuitous suffering (Rowe's fawn), as opposed to suffering that builds character?",
+        "Why does a test need animal pain across hundreds of millions of years before humans existed?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 6, "clarity": 4, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "It admits the responses 'reduce the problem but do not dissolve it', which is honest, but the strongest objection gets one line and no developed reply, so the steelman is never actually engaged."
+    }
+  },
+  "missing": [
+    "Prose explanations of the logical vs evidential problem and of each defence (free will, soul-making, natural regularity, sceptical theism), with how Muslim thinkers use them",
+    "A developed reply to the strongest objection: the amount of suffering, gratuitous suffering, child suffering and animal suffering",
+    "The actual arguments of al-Ghazali (and why his 'best of all possible worlds' line is debated), Ibn Taymiyya and Nursi, with works named",
+    "A pastoral section for the grieving: lament is allowed, a test is not a punishment, the Prophet's tears for Ibrahim told as a story",
+    "Sources for the science and psychology claims (carbon cycle, religious coping studies)",
+    "Terms explained: Ash'ari, Maturidi, hikma, sceptical theism; drop the dangling 'Debated'/'Scholarly' tags or explain them"
+  ],
+  "strengths": [
+    "The objection is stated fairly at the top, with children's cancer and animal pain named",
+    "Honest admission that the evidential problem 'remains serious' and that 'No theodicy explains individual cases'",
+    "Support box and 'Grief needs presence before argument'",
+    "Precise hadith references (Muslim 2999, Bukhari 1303, Muslim 2582) and solid academic sources (Ormsby, Sherman Jackson)",
+    "The science claim is labelled with its confidence, not used as proof"
+  ]
+}

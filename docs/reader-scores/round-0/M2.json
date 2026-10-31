@@ -1,0 +1,82 @@
+{
+  "id": "M2",
+  "path": "en/live/mercy/",
+  "group": "live",
+  "words": 386,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "7:156 itself says 'My punishment - I afflict with it whom I will'. How does mercy that 'encompasses all things' fit with punishment?",
+        "What does iḥsān mean in everyday life? What would I actually do differently?",
+        "Why is so much Muslim preaching harsh if 3:159 forbids it?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 6, "fairness": 4, "clarity": 5, "honesty": 5 },
+      "satisfaction": 4,
+      "why": "The verses and hadith are real and well cited, but the page is a short collection of quotes with no explanation or practical guidance, and it skips the tension that its own verse (7:156) raises."
+    },
+    "outsider": {
+      "followUps": [
+        "What do the Arabic words for mercy (raḥma, al-Raḥmān, al-Raḥīm) mean, and how central are they to Islam?",
+        "What is the story of the woman and the thirsty dog?",
+        "How does mercy in Islam compare with grace or compassion in other traditions?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 5, "fairness": 4, "clarity": 5, "honesty": 5 },
+      "satisfaction": 4,
+      "why": "The definition of iḥsān ('doing things beautifully and well') is clear, but the dog hadith is only a reference ('The woman who gave water to a thirsty dog (Bukhārī 3467)') with the story left out, and the hundred-parts hadith is said twice."
+    },
+    "student": {
+      "followUps": [
+        "Where is the Jibrīl hadith defining iḥsān ('worship God as if you see Him', Muslim 8), and how does it relate to iḥsān 'in all things' (Muslim 1955)?",
+        "What did the scholars say about the conditional part of 7:156 ('I will decree it [especially] for those who fear Me')?",
+        "Which other hadith teach mercy to people and animals (e.g. 'the merciful are shown mercy'), with collection and grading?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 6, "fairness": 5, "clarity": 5, "honesty": 5 },
+      "satisfaction": 4,
+      "why": "The four hadith references are precise, but there is no tafsir, no scholar, and not even the best-known definition of iḥsān."
+    },
+    "scientist": {
+      "followUps": [
+        "Is there research on practising compassion or kindness (wellbeing, behaviour) that relates to this ideal?",
+        "What does 'mercy in one hundred parts' mean? Is it read literally or as a figure of speech?",
+        "What concrete practices does the tradition prescribe for building mercy?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 5, "fairness": 5, "clarity": 6, "honesty": 5 },
+      "satisfaction": 4,
+      "why": "It is short and readable, but there is nothing to grasp beyond the quotes: no mechanism, no practice, no way to see what living this looks like."
+    },
+    "hurting": {
+      "followUps": [
+        "I feel I have sinned too much for mercy. What does the tradition say to someone like me?",
+        "The woman who watered the dog: wasn't she forgiven despite her past? Please tell the whole story.",
+        "How do I show mercy to someone who hurt me without excusing the harm?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 5, "fairness": 5, "clarity": 6, "honesty": 5 },
+      "satisfaction": 5,
+      "why": "The message itself is comforting ('My mercy encompasses all things', ninety-nine parts kept for the Hereafter), but the most hopeful story, a sinner forgiven for watering a dog, is cut down to a citation."
+    },
+    "skeptic": {
+      "followUps": [
+        "The intro quotes only the mercy half of 7:156. Why leave out 'My punishment - I afflict with it whom I will' and the conditions that follow?",
+        "How does 'mercy to the worlds' fit with the Prophet's wars and the harsh punishments in Islamic law?",
+        "'Harsh preaching contradicts 3:159' is one line. Where is the honest look at the gap between this ideal and Muslim practice?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 5, "fairness": 3, "clarity": 5, "honesty": 4 },
+      "satisfaction": 3,
+      "why": "It is one-sided: the opening summarises 7:156 as pure mercy, leaving out the punishment and conditions in the same verse, and 'the gap between ideal and practice' gets one sentence."
+    }
+  },
+  "missing": [
+    "An explanation of what mercy and iḥsān mean (raḥma and its root, al-Raḥmān/al-Raḥīm, the Jibrīl hadith on iḥsān) and what they look like in daily life",
+    "Honest treatment of the tension between mercy and punishment, starting with 7:156 itself",
+    "The dog hadith told as a story, including that the woman was a sinner who was forgiven",
+    "Practical guidance and examples of iḥsān toward people, animals and work",
+    "A real 'gap between ideal and practice' section, plus tafsir or named scholars",
+    "Remove the repeated hundred-parts block"
+  ],
+  "strengths": [
+    "Precise, verifiable references (Bukhārī 6000, 3467; Muslim 1955, 2752)",
+    "Verses quoted in full with Arabic, transliteration and attribution",
+    "iḥsān defined in plain words",
+    "3:159 used well to point out that harsh preaching goes against the Quran"
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "Q36",
+  "path": "en/ask/is-exclusivism-arrogant/",
+  "group": "ask",
+  "words": 264,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "If Islam is the only true religion, are my non-Muslim friends going to Hell? What do 2:62, 3:85 and scholars like al-Ghazālī say?",
+        "Why should I trust my upbringing over the billions raised in other faiths with equal certainty?",
+        "What is Plantinga's argument, in plain words?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 3,
+        "fairness": 3,
+        "clarity": 3,
+        "honesty": 4
+      },
+      "satisfaction": 3,
+      "why": "The one good point ('Every view excludes others') is stated in a sentence, and the real worry behind the question - the fate of others and the accident of birth - is not touched."
+    },
+    "outsider": {
+      "followUps": [
+        "What does Islam actually teach about people of other religions, now and in the afterlife?",
+        "What do 109:6, 10:99 and 49:13 say, and why are they relevant? The page lists only the numbers in its explanation.",
+        "Who are Hick and Plantinga, and what are 'pluralism' and 'exclusivism'?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 3,
+        "fairness": 3,
+        "clarity": 3,
+        "honesty": 4
+      },
+      "satisfaction": 3,
+      "why": "Reads like an outline: 'Billions of people disagree.' as the strongest case and 'A pluralist culture.' as the reason people ask."
+    },
+    "student": {
+      "followUps": [
+        "What are the classical positions on the salvation of non-Muslims (al-Ghazālī's Fayṣal al-Tafriqa, Ibn Taymiyya, Ibn ʿArabī), and what does Khalil (2012) survey?",
+        "How do mufassirun reconcile 2:62 / 5:69 with 3:85?",
+        "Which hadith bear on this (e.g. those who never received the message), with grading?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 2,
+        "fairness": 3,
+        "clarity": 3,
+        "honesty": 4
+      },
+      "satisfaction": 2,
+      "why": "Khalil and Nasr are in the source list but not in the text; there is no tafsir, hadith or scholar position at all."
+    },
+    "scientist": {
+      "followUps": [
+        "What did Leary et al. find about intellectual humility - what measure, what effect?",
+        "What study shows 'Humble confidence improves relations between groups'?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 2,
+        "fairness": 4,
+        "clarity": 4,
+        "honesty": 4
+      },
+      "satisfaction": 3,
+      "why": "The 'Scientific perspective' is the single line 'Research on intellectual humility (Leary et al.)' with no finding stated."
+    },
+    "hurting": {
+      "followUps": [
+        "My mother is not Muslim. Does this mean she is lost?",
+        "How do I hold my faith without looking down on people I love?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 2,
+        "fairness": 3,
+        "clarity": 4,
+        "honesty": 4
+      },
+      "satisfaction": 2,
+      "why": "For someone with a loved one outside the faith, the page offers no word on what happens to them and no warmth."
+    },
+    "skeptic": {
+      "followUps": [
+        "Hick's pluralism 'is itself contested' - so is exclusivism; why is only one side dismissed in three words?",
+        "The 'every view excludes' move answers 'arrogance' but not 'why think yours is the true one'. Where is that addressed?",
+        "'Exclusivism has sometimes been arrogant' - what examples, and what does that say about the doctrine?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 2,
+        "fairness": 3,
+        "clarity": 4,
+        "honesty": 4
+      },
+      "satisfaction": 3,
+      "why": "A real philosophical point exists, but the steelman is one sentence, the opposing view is waved away, and the honest-limits line is a token."
+    }
+  },
+  "missing": [
+    "The actual strongest objection (accident of birth, billions equally sincere, eternal consequences) in full",
+    "What Islam teaches about the salvation of non-Muslims, with verses (2:62, 3:85, 17:15), tafsir, and classical positions (e.g. al-Ghazālī), and where scholars differ",
+    "Explain Plantinga's argument and Hick's pluralism fairly, a paragraph each",
+    "State what the intellectual-humility research found, with a source",
+    "Explain why the three cited verses are relevant instead of listing numbers",
+    "Replace internal reference 'See also M11 (humility)' with a readable link",
+    "Turn the notes into prose; the page is about 260 words for a hard question"
+  ],
+  "strengths": [
+    "The core argument that 'Every view excludes others, including \"all religions are equal\"'",
+    "The distinction that arrogance concerns how a belief is held, not whether it is held",
+    "Good verse choices (109:6, 10:99, 49:13)"
+  ]
+}
