@@ -77,12 +77,10 @@ const layerLabel: Record<string, UiKey> = {
 
   {q.fullAnswer && (
     <section class="full" aria-labelledby="full-title" data-full={folded ? '' : undefined}>
-      <h2 id="full-title">
-        {t(lang, 'fullAnswer')}
-        <span class="full__time">
-          · {minutes} {t(lang, 'minRead')}
-        </span>
-      </h2>
+      <h2 id="full-title">{t(lang, 'fullAnswer')}</h2>
+      <p class="full__time">
+        {minutes} {t(lang, 'minRead')}
+      </p>
       {q.fullAnswer.map((part, i) => (
         <section class="full__part" data-part={i}>
           <h3>{part.title?.[lang] ?? t(lang, sectionLabel[part.kind])}</h3>

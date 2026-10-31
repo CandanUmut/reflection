@@ -1,0 +1,108 @@
+# Q1 — Turkish of the deep answer in docs/research/07-ask-deep-I.md.
+# Âyetler Elmalılı Hamdi Yazır meali (Tanzil, sadeleştirilmiş baskı), değiştirilmeden.
+# Hadis metinlerinin Türkçesi, hadis verisindeki Arapça ve İngilizce metinden yapılmış çeviridir.
+verses: ["67:2", "21:35", "2:155-157", "14:42", "18:79", "18:80-82", "42:30", "6:38", "94:5-6"]
+helpCard: suffering
+steelman: |
+  Allah her şeye gücü yetiyorsa acıyı önleyebilir. Mutlak iyiyse önlemek ister. Oysa acı her yerdedir ve çoğu, kimsenin görebildiği bir amaca hizmet etmiyor gibidir: kanserden ölen bir çocuk; bir orman yangınına yakalanıp yavaş ve korkunç biçimde ölen bir yavru geyik (filozof William Rowe'un örneği); milyonlarca yıl süren hayvan acısı; bir dakikada binlerce insanı öldüren bir deprem. Bir cinayeti kolayca önleyebilecekken önlemeyen iyi bir insan yanlış yapmış olur — öyleyse Allah neden önlemiyor? Argüman en güçlü bugünkü hâliyle, Allah ile acının mantıken bir arada olamayacağını söylemez. Bu kadar çok acının, ve bu türden acının, iyi ve her şeye gücü yeten bir Allah'ın varlığını olasılık dışı kıldığını söyler.
+whyAsked: |
+  Filozoflar bunu Allah'a imana karşı ciddi olabilecek bir argüman olarak ele alır. Ama çoğu insana bir argüman olarak gelmez. Bir hastane yatağının başında, bir mezarın yanında ya da bir afetin ardından haberlerde gelir.
+shortAnswer: |
+  İslam acının gerçek olduğunu ya da acıttığını inkâr etmez: Hz. Peygamber küçük oğlu öldüğünde ağladı. Kur'an bu hayatı zorlukta da bollukta da bir imtihan olarak anlatır (67:2; 21:35) ve hesabın ölümle kapanmadığını bildirir: zalimlere süre verilir, unutulmazlar (14:42); adalet ölümden sonra, hayvanlar arasında bile tamamlanır. Müslüman âlimler acı için gerçek ama kısmi sebepler gösterir: günahları siler; bolluk şükrü sınadığı gibi acı da sabrı sınar; ve acı çeken birinin başkalarından daha kötü olduğunun işareti asla değildir. Allah'ın hikmetinin çoğu bizden gizlidir; Mûsâ ile Hızır kıssası bunu gösterir (18:65–82). Bu sebepler "Allah ile acı bir arada olamaz" iddiasına cevap verir; her bir olayı tek tek açıklamaz. Geri kalan için Kur'an, Hz. Peygamber'in bir anneden daha merhametli diye anlattığı Allah'a güvenmeye çağırır — ve acıyı yalnızca açıklamaya değil, hafifletmeye de çağırır.
+fullAnswer:
+  - kind: heart
+    text: |
+      **Yas tutuyorsan.** Gözyaşı imanın eksikliği değildir. Küçük oğlu İbrahim can verirken Hz. Peygamber ağladı ve şöyle dedi: "Göz yaş döker, kalp hüzünlenir; ama Rabbimizin razı olacağından başka bir şey söylemeyiz. Ey İbrahim! Senin ayrılığınla gerçekten hüzünlüyüz" {hadith:bukhari:1303}. Peygamberler gibi kederini Allah'a ham sözlerle götürebilirsin: Yâkub, "Ben hüznümü, kederimi ancak Allah'a şikayet ederim" dedi (12:86); Eyyûb, "Başıma bir bela geldi, (sana sığındım), sen merhametlilerin en merhametlisisin" diye seslendi (21:83). "Biz Allah'a aidiz ve sonunda O'na döneceğiz" (2:156) cümlesi iyi hissetmeni şart koşmaz; üzerinde durabileceğin bir zemindir.
+
+      **"Bu bir ceza mı?"** Bunu belirli bir kişi hakkında kimse bilemez. Kendisine en ağır imtihana kimin uğradığı sorulunca Hz. Peygamber şöyle dedi: "Peygamberler, sonra onlara en yakın olanlar, sonra onlara en yakın olanlar" {hadith:tirmidhi:2398}. Acıyı bir hüküm olarak değil, günahları silen bir şey olarak anlattı (aşağıya bakınız). Araştırmalar da aynı yönü gösteriyor: acısını merhametli bir imtihan olarak okuyan ve dinî destek arayan insanlar daha iyi baş etme eğiliminde, Allah'ın kendisini cezalandırdığını hissedenler ise daha kötü (Pargament, Koenig ve Perez, 2000); 49 çalışmada bu örüntü genel olarak doğrulandı (Ano ve Vasconcelles, 2005). Bu çalışmalar bir sebep değil bir ilişki gösterir — ve insanların baş etmesine yardım eden bir şey, tek başına bir inancın doğru olduğunun kanıtı değildir.
+
+      **Biri sana zarar verdiyse.** Bir insanın sebep olduğu acı o insanın yanlışıdır; Allah'ın senin hakkındaki hükmü değildir. "Ey Peygamber! Sakın zalimlerin yaptıklarından Allah'ın gâfil olduğunu sanma! Ancak Allah, onların cezalarını, gözlerin dışa fırlayacağı güne erteler" (14:42). Önce senin güvenliğin gelir; bu sayfadaki destek yardımcı olabilir.
+
+      **Acıyı hafifletmek cevabın parçasıdır.** "Merhamet edenlere Rahmân merhamet eder. Yeryüzündekilere merhamet edin ki gökte olan da size merhamet etsin" {hadith:tirmidhi:1924}. Birinin yanında oturmak, yemek götürmek, tedavi masrafını karşılamak ve cenazeden sonra da yanında kalmak küçük şeyler değildir.
+  - kind: quran
+    text: |
+      **Hayat, zorlukta da bollukta da bir imtihandır.** Allah "hanginizin daha güzel iş yapacağınızı denemek için ölümü ve hayatı yarattı" (67:2). "Sizi bir imtihan olarak kötülük ve iyilikle deneyeceğiz. Hepiniz de sonunda bize döndürüleceksiniz" (21:35). İbn Kesîr ikinci âyeti şöyle açıklar: Allah insanları "bazen zorluklarla, bazen kolaylıkla" dener; kimin şükredip kimin nankörlük edeceğini, kimin sabredip kimin ümitsizliğe düşeceğini görmek için. İmtihan yalnızca acı değildir: servet ve rahatlık da bir imtihandır.
+
+      **Kayıp beklenen bir şeydir ve bir cümleyle karşılanır.** "Çaresiz biz sizi biraz korku, biraz açlık, biraz da mallardan, canlardan ve ürünlerden eksiltme ile imtihan edeceğiz. Müjdele o sabredenleri! Onlar başlarına bir musibet geldiği zaman: 'Biz Allah'a aidiz ve sonunda O'na döneceğiz.' derler" (2:155–156). Allah onlara "Rablerinden, mağfiretler ve rahmet" vaat eder (2:157). "Allah hiç kimseye gücünün yeteceğinden başka yük yüklemez" (2:286) ve "zorlukla beraber bir kolaylık vardır" — iki kez söylenir (94:5–6).
+
+      **Bazı sebepler gizlidir.** Kehf sûresinde (18:65–82) bir peygamber olan Mûsâ, Hızır ile yolculuk eder; Kur'an onu "kullarımızdan bir kul" diye anlatır, "biz ona katımızdan bir rahmet vermiş ve tarafımızdan bir ilim öğretmiştik" (18:65). Hızır bir gemiyi kusurlu kılar, bir çocuğu öldürür ve kendilerine yemek vermeyen bir şehirde bir duvarı onarır. Mûsâ her seferinde itiraz eder. Sonra sebepler gösterilir. Gemi yoksullara aitti ve ilerilerinde "her sağlam gemiye zorla el koyan bir hükümdar vardı" (18:79); kusur gemiyi kurtardı. Duvarın altında iki yetimin hazinesi vardı (18:82). Hızır şöyle bitirir: "Ve ben bunların hiçbirini kendiliğimden yapmadım" (18:82).
+
+      **En zor kısım: çocuk.** Hızır şöyle der: "Oğlana gelince, onun anababası mümin kimselerdi. Çocuğun onları azgınlık ve inkâra sürüklemesinden korktuk. İstedik ki Rabbleri onun yerine kendilerine ondan temizlikçe daha hayırlı ve daha çok merhamet eden birini versin" (18:80–81). Hz. Peygamber o çocuğun "yaratılışı gereği kâfir olduğunu ve yaşasaydı anne babasını azgınlığa ve inkâra sürükleyeceğini" söyledi {hadith:muslim:2662}. İbn Kesîr'in aktardığı erken dönem müfessiri Katâde, anne babanın "o doğduğunda sevindiğini, öldürüldüğünde ise üzüldüğünü" söyler. Bu, kıssanın okunması en zor kısmıdır ve gizlenmemelidir. İki şey onun kötüye kullanılmasını önler. Kimseye izin vermez: Kur'an "haklı bir sebep olmadıkça, Allah'ın öldürülmesini haram kıldığı canı öldürmeyin" der (17:33) ve Hızır kendi başına değil, Allah'ın emriyle hareket etti. Dersi ise hiçbir insanın sahip olmadığı bir bilgiyle, bir hayatın neye dönüşeceğinin bilgisiyle ilgilidir. Olayların ortasında duran Mûsâ sebeplerini göremedi; kıssanın anlattığı budur.
+
+      **Zor âyet: "kendi ellerinizle kazandıklarınız yüzünden".** "Başınıza gelen herhangi bir musibet kendi ellerinizle kazandıklarınız yüzündendir. Bununla beraber Allah yine de çoğunu affeder" (42:30). İbn Kesîr âyeti açıkça okur: musibetler günahlar yüzündendir ve Allah çoğunu affeder. Kurtubî, âlimlerin çoğuna göre âyetin müminlerle ilgili olduğunu, kâfirin cezasının ise âhirete ertelendiğini; azınlığın âyeti kâfirlere hitap olarak okuduğunu aktarır. Çocuklar hakkında iki görüş kaydeder. Kimine göre âyet yetişkinler için ceza demektir, çocuklar içinse acı bir mükâfattır (*mesûbe*). Kimine göre yetişkinler için kendi başlarına gelen bir cezadır, bir çocuğun acısı ise anne babası için bir cezadır. Kurtubî ayrıca erken dönemden şu sözü aktarır: "Eziyet saatleri, günah saatlerini götürür" (Sâbit el-Bünânî). Âyet acıdan genel olarak söz eder; kimseye, acı çeken belirli bir kişiyi yargılama hakkı vermez, çünkü Hz. Peygamber en ağır imtihana uğrayanların peygamberler olduğunu söyledi.
+
+      **Hayvanlar unutulmaz.** "Yeryüzünde yürüyen hiçbir hayvan ve iki kanadıyla uçan hiçbir kuş yoktur ki, sizin gibi birer ümmet olmasınlar… sonra hepsi Rablerinin huzurunda toplanırlar" (6:38).
+  - kind: sunnah
+    text: |
+      **İmtihan, Allah'ın hoşnutsuzluğunun işareti değildir.** "Allah kime hayır dilerse, onu musibetlerle dener" {hadith:bukhari:5645}. Bu söz, zorluğun Allah'ın yüz çevirdiği anlamına geldiğinden korkan birine söylenir; acıyı kendi başına iyi kılmaz.
+
+      **Acı boşa gitmez.** "Müslümanın başına gelen hiçbir yorgunluk, hastalık, keder, hüzün, eziyet ve sıkıntı yoktur ki — kendisine batan bir diken bile — Allah onunla günahlarından bir kısmını silmesin" {hadith:bukhari:5641}. "Müminin işi ne şaşılacak iştir; her işi onun için hayırdır": bollukta şükreder, darlıkta sabreder ve ikisi de onun için hayırdır {hadith:muslim:2999}.
+
+      **Allah'ın rahmeti bir anneninkinden büyüktür.** Esirler arasında kaybettiği bebeğini bulup bağrına basan bir kadını gören Hz. Peygamber, bu kadının çocuğunu ateşe atıp atmayacağını sordu ve şöyle dedi: "Allah kullarına, bu kadının çocuğuna olduğundan daha merhametlidir" {hadith:bukhari:5999}. Allah rahmeti yüz parça yaptı; bir parçasını yeryüzüne indirdi — bir hayvanın yavrusuna basmamak için ayağını kaldırması o parçadandır — doksan dokuzunu ise kıyamet günü için sakladı {hadith:muslim:2752}.
+
+      **Adalet hayvanlara bile ulaşır.** "Kıyamet günü haklar mutlaka sahiplerine verilecektir; boynuzsuz koyunun boynuzlu koyundan hakkı bile alınacaktır" {hadith:muslim:2582}.
+
+      **Öteki hayatın ölçüsü.** Cennet ehlinden olup dünyada en sıkıntılı hayatı yaşamış kişi, cennete bir kez daldırılır ve kendisine hiç sıkıntı görüp görmediği sorulur. "Hayır, Allah'a yemin olsun ki ey Rabbim, hiç sıkıntı görmedim, hiç darlık çekmedim" der {hadith:muslim:2807}.
+
+      **Kötülük Allah'a nispet edilmez.** Hz. Peygamber namazın başındaki duasında şöyle derdi: "Hayrın hepsi Senin elindedir, şer ise Sana değildir" (*ve'ş-şerru leyse ileyk*) {hadith:muslim:771}. Bir İngilizce çeviri bu sözü "kötülükle Sana yaklaşılmaz" diye anlar; âlimler onu birden fazla şekilde açıkladı.
+  - kind: scholars
+    text: |
+      **Burada kimler aktarılıyor.** İslam düşüncesi tarihçisi Eric Ormsby bu tartışmanın temel incelemesini yazdı (*Theodicy in Islamic Thought*, Princeton, 1984). Aşağıdakilerin çoğu onun anlatımından ve âlimlerin kendi sözlerindendir.
+
+      **Kelam mezhepleri Allah'ın sebepleri konusunda ayrıştı.** İslam'ın kelam mezhepleri farklı cevaplar verdi. **Mutezile**, Allah'ın kulları için en iyi olanı yapmakla yükümlü olduğunu savundu (*el-aslah*, "en uygun olan"); Sünnî kelamcıların çoğu Allah'a herhangi bir yükümlülük yüklenmesini reddetti. Pek çok **Eş'arî**, Ormsby'nin deyişiyle Allah'ın "egemen hesap vermezliğine" bağlı kaldı: O'nun fiilleri bizim denetleyebileceğimiz sebeplerle açıklanmaz ve onları akılla gerekçelendirme girişimleri şüpheyle karşılandı. **Mâtürîdî** (ö. 944) Allah'ın hikmetini her şeyi yerli yerine koymak diye tanımladı. Gazzâlî'den iki yüzyıl sonra Hanbelî âlim **İbn Teymiyye** (ö. 1328), Eş'arîleri "hikmetsiz irade, merhametsiz, sevgisiz ve rızasız dileme" kabul etmekle eleştirdi.
+
+      **Gazzâlî (ö. 1111): Daha mükemmeli mümkün değil.** Gazzâlî *İhyâ*'da, tevekkül bahsinde, Allah'ın taksim ettiği her şeyin — "rızık, ömür, lezzet ve elem" — "zulümden hiçbir şey taşımayan saf adalet" olduğunu ve "mümkünler arasında bundan daha güzel, daha mükemmel ve daha tam bir şey bulunmadığını" yazdı. Gerekçeleri kısmen karşıtlıkla ilgilidir — "Gece olmasaydı gündüzün değeri bilinmezdi. Hastalık olmasaydı sağlıklı olan sağlığın tadını bilmezdi" — kısmen de bedelle: bir hayatı kurtarmak için kangren olmuş bir eli kesmek zulüm değil adalettir. Konuyu "geniş ve derin bir deniz" diye anar; "nice beceriksiz topluluk" onda boğulur. Ormsby, bu pasajın bir ispat değil, tevekküle bir teşvik olduğunu belirtir: 18. yüzyıl şârihi Zebîdî, amacın insanın "başına gelen bir kötülük yüzünden ümitsizliğe düşmemesi" olduğunu açıklar. Cümle yüzyıllarca şiddetle tartışıldı, çünkü eleştirmenler onun Allah'ın kudretini sınırladığını düşündü.
+
+      **İbnü'l-Kayyim (ö. 1350): Kötülük bazı yaratılmışlardadır, Allah'ın fiilinde değil.** İbnü'l-Kayyim *Şifâü'l-Alîl*'de (21. bab), Hz. Peygamber'in "şer Sana değildir" sözünü şerh eder. Allah'ın "hayrın da şerrin de yaratıcısı olduğunu; şerrin O'nun yarattığı bazı şeylerde olduğunu, O'nun yaratmasında ve fiilinde olmadığını; O'nun yaratmasının, fiilinin, kazasının ve kaderinin tamamen hayır olduğunu" yazar. Zulmün "bir şeyi ait olmadığı yere koymak" olduğunu açıklar; Allah bunu asla yapmaz; dolayısıyla O'nun koyduğu her şey yerli yerindedir ve O'na nispetle şer değildir.
+  - kind: reasoning
+    title:
+      tr: Filozoflar bu konuyu nasıl tartışır
+      en: How philosophers argue about it
+    text: |
+      **Problemin iki hâli.** *Mantıksal* hâl (J. L. Mackie, 1955), Allah ile kötülüğün mantıken bağdaşmadığını iddia eder. Alvin Plantinga'nın çalışmaları bu hâle odaklandı. Cevap yollarından biri özgür irade yaklaşımıdır: iyi bir Allah'ın kötülüğe izin vermek için bir sebebi olabiliyorsa — örneğin varlıklara kötüye kullanabilecekleri gerçek bir özgürlük vermek — Allah ile kötülük çelişmez. *Delile dayalı* hâl (William Rowe, 1979'dan itibaren) daha mütevazı bir şey söyler: yangındaki yavru geyik gibi bazı gerçek kötülükler Allah'ın varlığını olasılık dışı kılar.
+
+      **Başlıca cevaplar.** Tooley dört tür "teodise" (Allah'ın kötülüğe neden izin verdiğine dair açıklama) sayar: zorluk içinde karakterin olgunlaşması (John Hick'in "ruhun olgunlaşması"); genel olarak özgür irade; özel olarak başkalarına gerçek zarar verme özgürlüğü; ve eylemi mümkün kılan ama zaman zaman zarar veren istikrarlı tabiat kanunlarıyla işleyen bir dünya. Kur'an'ın hayatı bir imtihan olarak anlatması (67:2; 21:35) bunların ilkine yakındır.
+
+      **İnananlar bile sebeplerin kısmi olduğunu söyler.** Richard Swinburne gibi bazı filozoflar eksiksiz bir teodisenin verilebileceğini düşünür. Başkaları çok daha az umutludur — Plantinga da dâhil; o, "Allah'ın kötülüğe neden izin verdiğini açıklama girişimlerinin çoğu bana cılız, sığ ve nihayetinde hafif geliyor" diye yazdı (1985). Bu, İslam'ın sınırlara yaptığı vurguyla örtüşür: Mûsâ Hızır'ın sebeplerini göremedi; Gazzâlî meseleye derin bir deniz dedi.
+  - kind: objection
+    title:
+      tr: En güçlü itirazlar ve cevapları
+      en: The strongest objections, and the replies
+    text: |
+      **"Bir cinayeti önleyebilecek iyi bir insan önlerdi."** Tooley: özgür irade değerlidir, ama bu "hiçbir zaman müdahale edilmemesi gerektiği sonucunu doğurmaz"; neredeyse herkes, önleyebileceği büyük bir kötülüğü önlememeyi ciddi bir yanlış sayar. *Cevap.* Bu karşılaştırma Allah'ı, gücü suçla birlikte sona eren bir seyirci gibi düşünür. Kur'an'da öyle değildir: "Sakın zalimlerin yaptıklarından Allah'ın gâfil olduğunu sanma! Ancak Allah, onların cezalarını … erteler" (14:42) ve her haksızlığın, boynuzsuz koyununki dâhil, hesabı sorulur {hadith:muslim:2582}. Allah her haksızlığı başlarken durdursaydı insanın seçimi gerçek olmaktan çıkar, Kur'an'ın imtihan dediği hayat (67:2) imtihan olmazdı. *Sınırı.* Bu cevap âhirete dayanır. Âhiretten şüphe eden bir okur Tooley'nin itirazını hâlâ ayakta bulacaktır.
+
+      **"Depremler ve hayvan acısı kimsenin seçiminden gelmez."** Özgür irade bunları açıklamaz. Tabiat kanunları cevabı, her türlü etkili eylem için düzenli kanunların gerektiğini ve düzenli kanunların zaman zaman zarar verdiğini söyler. Tooley buna, nadir mucizelerin eylemi imkânsız kılmayacağı ve birçok büyük kötülüğün kimse fark etmeden önlenebileceği cevabını verir. *Cevap.* Kur'an "canlardan ve ürünlerden eksiltme"yi imtihanlar arasında sayar (2:155); hayvanların da "toplan"acağını (6:38) ve haklarının sorulacağını bildirir. Depremler için ayrıca afetlerin ceza olup olmadığı sorusuna bakınız. *Sınırı.* Bu, İslam'da da başka yerde de her teodisenin en zayıf noktasıdır; dürüst cevap kısmidir.
+
+      **"Allah'ın sebepleri gizliyse O'na nasıl iyi diyebilirsiniz?"** *Cevap.* Müslümanlar Allah'a boş bir güvenle iyi demez: görülebilene işaret eder — yaratılıştaki rahmete, bir hayvanın yavrusuna basmamak için ayağını kaldırmasını sağlayan o yüzde bir parçaya {hadith:muslim:2752}. Sonra gerisine, Mûsâ'nın yapmak zorunda kaldığı gibi güvenir. Mezheplerin ayrıştığı yer tam da burasıdır: katı Eş'arî görüş Allah'ın egemenliğini vurgular; Mâtürîdî ve İbn Teymiyye Allah'ın hikmetle iş gördüğünü vurgular. *Sınırı.* Görülebileni aşan güven yine de güvendir.
+  - kind: views
+    text: |
+      - **Mutezile** — Allah kulları için en iyi olanı yapmakla yükümlüdür (*el-aslah*, "en uygun olan") (Ormsby).
+      - **Eş'arîler** — Allah'ın fiilleri, insanların denetleyebileceği sebeplerle açıklanmaz ("egemen hesap vermezlik", Ormsby).
+      - **Mâtürîdî** — Allah'ın hikmeti her şeyi yerli yerine koymaktır (Ormsby).
+      - **Gazzâlî** — bu düzen mümkünlerin en iyisidir; doğru karşılık tevekküldür (*İhyâ*; Ormsby).
+      - **İbn Teymiyye** — Allah hikmetle iş görür; Eş'arîler "hikmetsiz irade" kabul eder (Ormsby).
+      - **İbnü'l-Kayyim** — şer bazı yaratılmışlardadır, asla Allah'ın fiilinde değil (*Şifâü'l-Alîl*, 21. bab).
+      - **Felsefî eleştirmenler (Tooley; Rowe)** — acının miktarı ve türü Allah'ın varlığını olasılık dışı kılar.
+followUps:
+  - q: '"Mantıksal" problem ile "delile dayalı" problem arasındaki fark nedir?'
+    a: |
+      Mantıksal problem, Allah ile kötülüğün bir arada var olamayacağını söyler; delile dayalı problem ise gördüğümüz kötülüklerin Allah'ın varlığını olasılık dışı kıldığını söyler. "Filozoflar bu konuyu nasıl tartışır" bölümüne bakınız.
+  - q: Bebekler ve hayvanlar imtihan edilemiyorsa neden acı çekiyor?
+    a: |
+      Gelenek onların aynı şekilde imtihan edildiğini söylemez. Kurtubî, çocuklar için acının bir mükâfat olduğu görüşünü kaydeder. Hayvanlar için Hz. Peygamber, haklarının aralarında bile yerine getirileceğini söyledi; Kur'an da onların "toplan"acağını söyler (6:38). Bu, şimdiki her olayın açıklaması değil, sonrası hakkında bir vaattir.
+  - q: Bir kayıptan sonra Allah'a öfkelenmek zayıf iman mıdır?
+    a: |
+      Peygamberler acılarını Allah'a dile getirdi (12:86; 21:83); Hz. Peygamber ağladı ve "kalp hüzünlenir" dedi. Geleneğin sakındırdığı şey Allah'tan yüz çevirmektir; O'nun huzurunda acı duymak değil.
+  - q: Gazzâlî gerçekten bunun mümkün dünyaların en iyisi olduğunu mu söyledi? Kimler karşı çıktı?
+    a: |
+      Evet: *İhyâ*'da, tevekkül bahsinde (Ormsby, 1. bölüm). Yüzyıllar boyunca eleştirmenler bunun Allah'ın daha iyisini yaratma kudretini sınırlıyor gibi göründüğünü ve Mutezile'nin "en uygun olan" görüşünü andırdığını söyledi; savunucuları ise pasajın Allah'ı sınırlamak değil, tevekküle davet olduğunu söyledi.
+  - q: Allah ne yaparsa tanımı gereği iyiyse, "iyi" sıradan anlamını yitirmez mi?
+    a: |
+      Ormsby, Hanbelîler de dâhil başka mezheplerin Eş'arîleri Allah'ın hikmetini ihmal etmekle eleştirdiğini aktarır; İbn Teymiyye onların "hikmetsiz irade" kabul ettiğini söyledi. Mâtürîdî ve İbn Teymiyye'ye göre Allah hikmetle iş görür; böylece "iyi", göremediğimiz yerde bile sebeplere bağlı kalır.
+honestLimits: |
+  Hiçbir teodise belirli bir çocuğun neden acı çektiğini açıklamaz. İslam'ın cevabı gerçek ama kısmi sebepler verir; geri kalanı için güvene ve âhirete dayanır; âhireti kabul etmeyen bir okur en güçlü itirazları hâlâ ayakta bulacaktır. Gazzâlî'nin "mümkün dünyaların en iyisi" görüşü yüzyıllarca tartışıldı. Baş etme çalışmaları sebep değil, ilişki gösterir.
+sourceLabels:
+  - "Kur'an: 2:155–157, 2:286, 6:38, 12:86, 14:42, 17:33, 18:65–82, 21:35, 21:83, 42:30, 67:2, 94:5–6 (Tanzil; Elmalılı Hamdi Yazır ve Saheeh International)."
+  - "İbn Kesîr, *Tefsir* (İngilizce kısaltılmış, Quran.com): 2:155, 2:216, 18:79, 18:80, 18:82, 21:35, 42:30, 6:38."
+  - "Kurtubî, *el-Câmi' li-Ahkâmi'l-Kur'ân* (Arapça, Quran.com): 42:30 — âyetin kimi ilgilendirdiği; yetişkinler ve çocuklar hakkındaki görüşler; Sâbit el-Bünânî'nin sözü."
+  - "Hadisler (metin ve derece hadis koleksiyonlarının verisinden): Buhârî 1303, 5641, 5645, 5999; Müslim 771, 2582, 2662, 2752, 2807, 2999; Tirmizî 1924, 2398."

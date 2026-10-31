@@ -1,6 +1,22 @@
 {
  "source": "fawazahmed0/hadith-api@1 (cdn.jsdelivr.net)",
  "hadith": {
+  "bukhari:1303": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:5641": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:5645": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:5999": {
+   "whole": true,
+   "grades": []
+  },
   "ibnmajah:224": {
    "whole": false,
    "grades": [
@@ -43,6 +59,30 @@
     }
    ]
   },
+  "muslim:2582": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:2662": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:2752": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:2807": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:2999": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:771": {
+   "whole": true,
+   "grades": []
+  },
   "tirmidhi:1209": {
    "whole": false,
    "grades": [
@@ -57,6 +97,48 @@
     {
      "grade": "Hasan",
      "by": "Bashar Awad Maarouf"
+    }
+   ]
+  },
+  "tirmidhi:1924": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Sahih",
+     "by": "Ahmad Muhammad Shakir"
+    },
+    {
+     "grade": "Sahih",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Hasan Sahih",
+     "by": "Bashar Awad Maarouf"
+    },
+    {
+     "grade": "Isnaad Hasan",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
+  "tirmidhi:2398": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Hasan Sahih",
+     "by": "Ahmad Muhammad Shakir"
+    },
+    {
+     "grade": "Hasan Sahih",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Hasan Sahih",
+     "by": "Bashar Awad Maarouf"
+    },
+    {
+     "grade": "Hasan",
+     "by": "Zubair Ali Zai"
     }
    ]
   }
