@@ -95,3 +95,8 @@ His words, unchanged: "Long answers can be visible with a read more button if it
 3. **Hadith grading.** Every hadith on the page shows its grade and who graded it (e.g. "Sahih — al-Albani").
 4. **No thesis on a weak hadith.** A weak (da'if) hadith is never the basis of a claim. It may appear only when the page discusses it as weak (for example, a weak hadith that is widely quoted), labelled as weak.
 5. **Order.** Ask first, as in §6.
+
+Later the same day, after reading the Q1 pilot (his words): "while mentioning Prophets please add either pbuh or sav or as, for hadiths if they mention narrator add ra, Style looks okay, Gate 7.5 + should be fine, if you can't just let me know , i think you should move on and do as much as you can"
+
+6. **Honorifics.** "(pbuh)" / "(s.a.v.)" for the Prophet, "(pbuh)" / "(a.s.)" for other prophets, "(ra)" / "(r.a.)" for Companion narrators — outside quotations (TEMPLATE-ask-v2.md). Pages that are not yet rewritten get them when they are.
+7. **Gate.** A page is done at an average of **7.5 or more** (no reader below 6); if it cannot get there, say so.
