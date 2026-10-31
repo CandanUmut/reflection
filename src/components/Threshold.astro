@@ -1,0 +1,197 @@
+---
+// The Threshold (DESIGN.md §4.1): three arches drawn in thin line —
+// Reflect · Live · Ask. Hovering, focusing or touching an arch fills it slowly
+// with light from below, like dawn in a doorway. Above them, the invitation of
+// the day: one short verse from the research index, changing daily.
+import { parse } from 'yaml';
+import dailyRaw from '../data/daily-verses.yaml?raw';
+import { expandRef, getVerse, refLabel } from '../lib/quran';
+import { t, type Locale } from '../i18n/ui';
+
+interface Props {
+  lang: Locale;
+  links: { reflect: string; live: string; ask: string };
+}
+const { lang, links } = Astro.props;
+const refs: string[] = parse(dailyRaw).refs;
+const daily = refs.map((r) => ({
+  ref: refLabel(r),
+  text: expandRef(r)
+    .map((v) => getVerse(v, lang).translation)
+    .join(' '),
+}));
+// Build-time choice, shown without JavaScript. With JavaScript the slot stays
+// hidden until the script has put in the visitor's own day, so nothing swaps.
+const dayIndex = Math.floor(Date.now() / 86400000) % daily.length;
+const arches = [
+  { key: 'reflect', href: links.reflect, label: t(lang, 'reflect'), hint: t(lang, 'reflectHint') },
+  { key: 'live', href: links.live, label: t(lang, 'live'), hint: t(lang, 'liveHint') },
+  { key: 'ask', href: links.ask, label: t(lang, 'ask'), hint: t(lang, 'askHint') },
+] as const;
+const ARCH = 'M8 210 V96 A104 104 0 0 1 70 10 A104 104 0 0 1 132 96 V210';
+---
+
+<section class="threshold">
+  <figure class="invitation" data-invitation>
+    <figcaption class="label">{t(lang, 'invitation')}</figcaption>
+    <blockquote>
+      <p data-invitation-text>{daily[dayIndex].text}</p>
+    </blockquote>
+    <p class="invitation__ref ref" data-invitation-ref>
+      {daily[dayIndex].ref}
+    </p>
+    <p class="invitation__credit">{t(lang, 'translationBy')}</p>
+    <script type="application/json" is:inline set:html={JSON.stringify(daily)} />
+  </figure>
+  <nav class="arches" aria-label={t(lang, 'siteName')}>
+    {arches.map((a, i) => (
+      <a class="arch" href={a.href}>
+        <svg viewBox="0 0 140 214" aria-hidden="true" focusable="false">
+          <defs>
+            <clipPath id={`arch-clip-${i}`}>
+              <path d={ARCH + ' Z'} />
+            </clipPath>
+            <linearGradient id={`arch-light-${i}`} x1="0" y1="1" x2="0" y2="0">
+              <stop offset="0" class="light-stop light-stop--low" />
+              <stop offset="1" class="light-stop light-stop--high" />
+            </linearGradient>
+          </defs>
+          <rect
+            class="arch__light"
+            x="0"
+            y="0"
+            width="140"
+            height="214"
+            fill={`url(#arch-light-${i})`}
+            clip-path={`url(#arch-clip-${i})`}
+          />
+          <path class="arch__line" d={ARCH} />
+          <line class="arch__sill" x1="0" y1="210" x2="140" y2="210" />
+        </svg>
+        <span class="arch__label">{a.label}</span>
+        <span class="arch__hint">{a.hint}</span>
+      </a>
+    ))}
+  </nav>
+</section>
+
+<style>
+  .threshold {
+    padding-block: var(--space-6) var(--space-5);
+    padding-inline: var(--space-3);
+    text-align: center;
+  }
+  .invitation {
+    margin: 0 auto var(--space-6);
+    max-width: 34rem;
+  }
+  .invitation blockquote {
+    margin: var(--space-2) 0;
+  }
+  .invitation blockquote p {
+    font-family: var(--font-display);
+    font-style: italic;
+    font-size: var(--step-1);
+    line-height: 1.45;
+    margin: 0;
+    font-variation-settings: 'SOFT' 100;
+  }
+  .invitation__ref {
+    margin: var(--space-2) 0 0;
+  }
+  .invitation__credit {
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    color: var(--ink-soft);
+    margin: var(--space-1) 0 0;
+  }
+  :global(.js) .invitation:not([data-ready]) blockquote,
+  :global(.js) .invitation:not([data-ready]) .invitation__ref {
+    visibility: hidden;
+  }
+  .arches {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: clamp(0.75rem, 3vw, 3rem);
+    max-width: 46rem;
+    margin-inline: auto;
+  }
+  .arch {
+    display: grid;
+    justify-items: center;
+    align-content: start;
+    gap: var(--space-2);
+    text-decoration: none;
+    border-radius: var(--radius);
+    padding-block: var(--space-2);
+  }
+  .arch svg {
+    width: 100%;
+    max-width: 10rem;
+    height: auto;
+    overflow: visible;
+  }
+  .arch__line {
+    fill: none;
+    stroke: var(--lamp-line);
+    stroke-width: 1.1;
+    vector-effect: non-scaling-stroke;
+  }
+  .arch__sill {
+    stroke: var(--hairline-strong);
+    stroke-width: 1;
+    vector-effect: non-scaling-stroke;
+  }
+  .light-stop--low {
+    stop-color: var(--lamp-line);
+    stop-opacity: 0.2;
+  }
+  .light-stop--high {
+    stop-color: var(--lamp-line);
+    stop-opacity: 0;
+  }
+  .arch__light {
+    transform-box: view-box;
+    transform-origin: 50% 100%;
+    transform: scaleY(0);
+    transition: transform 2.6s var(--ease-breath);
+  }
+  .arch:hover .arch__light,
+  .arch:focus-visible .arch__light,
+  .arch:active .arch__light {
+    transform: scaleY(1);
+  }
+  .arch__label {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    line-height: 1.2;
+  }
+  .arch__hint {
+    font-size: 0.85rem;
+    line-height: 1.45;
+    color: var(--ink-soft);
+    max-width: 13rem;
+  }
+  @media (max-width: 30rem) {
+    .arch__hint {
+      font-size: 0.78rem;
+    }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .arch__light {
+      transition: none;
+    }
+  }
+</style>
+
+<script>
+  for (const fig of document.querySelectorAll<HTMLElement>('[data-invitation]')) {
+    const list: { ref: string; text: string }[] = JSON.parse(fig.querySelector('script')!.textContent!);
+    const now = new Date();
+    const localDay = Math.floor((now.getTime() - now.getTimezoneOffset() * 60000) / 86400000);
+    const today = list[localDay % list.length];
+    fig.querySelector('[data-invitation-text]')!.textContent = today.text;
+    fig.querySelector('[data-invitation-ref]')!.textContent = today.ref;
+    fig.dataset.ready = '';
+  }
+</script>

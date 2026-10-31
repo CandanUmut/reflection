@@ -1,0 +1,136 @@
+{
+ "notice": [
+  "Arabic: Tanzil Quran Text (Uthmani, v1.1), Copyright (C) 2007-2026 Tanzil Project, CC BY 3.0, verbatim. https://tanzil.net",
+  "English: Saheeh International, via Tanzil Project (en.sahih), verbatim.",
+  "Turkish: Elmalılı Hamdi Yazır, via Tanzil Project (tr.yazir), verbatim.",
+  "Transliteration: Quran.com word-by-word data (api.quran.com v4)."
+ ],
+ "verses": {
+  "3:190": {
+   "ar": "إِنَّ فِى خَلْقِ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفِ ٱلَّيْلِ وَٱلنَّهَارِ لَـَٔايَٰتٍ لِّأُو۟لِى ٱلْأَلْبَٰبِ",
+   "translit": "inna fī khalqi l-samāwāti wal-arḍi wa-ikh'tilāfi al-layli wal-nahāri laāyātin li-ulī l-albābi",
+   "en": "Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding.",
+   "tr": "Göklerin ve yerin yaratılışında, gece ile gündüzün birbiri ardınca gelip gidişinde selim akıl sahipleri için gerçekten açık, ibretli deliller vardır."
+  },
+  "6:95": {
+   "ar": "۞ إِنَّ ٱللَّهَ فَالِقُ ٱلْحَبِّ وَٱلنَّوَىٰ ۖ يُخْرِجُ ٱلْحَىَّ مِنَ ٱلْمَيِّتِ وَمُخْرِجُ ٱلْمَيِّتِ مِنَ ٱلْحَىِّ ۚ ذَٰلِكُمُ ٱللَّهُ ۖ فَأَنَّىٰ تُؤْفَكُونَ",
+   "translit": "inna l-laha fāliqu l-ḥabi wal-nawā yukh'riju l-ḥaya mina l-mayiti wamukh'riju l-mayiti mina l-ḥayi dhālikumu l-lahu fa-annā tu'fakūna",
+   "en": "Indeed, Allah is the cleaver of grain and date seeds. He brings the living out of the dead and brings the dead out of the living. That is Allah; so how are you deluded?",
+   "tr": "Şüphesiz ki taneleri ve çekirdekleri yaran Allah'tır. O, ölüden diriyi çıkarır, diriden de ölüyü çıkaran O'dur. İşte Allah budur. O halde nasıl yüz çevirirsiniz?"
+  },
+  "10:5": {
+   "ar": "هُوَ ٱلَّذِى جَعَلَ ٱلشَّمْسَ ضِيَآءً وَٱلْقَمَرَ نُورًا وَقَدَّرَهُۥ مَنَازِلَ لِتَعْلَمُوا۟ عَدَدَ ٱلسِّنِينَ وَٱلْحِسَابَ ۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلْحَقِّ ۚ يُفَصِّلُ ٱلْـَٔايَٰتِ لِقَوْمٍ يَعْلَمُونَ",
+   "translit": "huwa alladhī jaʿala l-shamsa ḍiyāan wal-qamara nūran waqaddarahu manāzila litaʿlamū ʿadada l-sinīna wal-ḥisāba mā khalaqa l-lahu dhālika illā bil-ḥaqi yufaṣṣilu l-āyāti liqawmin yaʿlamūna",
+   "en": "It is He who made the sun a shining light and the moon a derived light and determined for it phases - that you may know the number of years and account [of time]. Allah has not created this except in truth. He details the signs for a people who know",
+   "tr": "O Allah'dır ki, senelerin sayısını ve hesabını bilesiniz diye güneşi bir ışık, ayı da bir nur yaptı. Ve aya menziller tayin etti. Allah bunu hak olarak yarattı. O, bilecek olan bir kavim için âyetlerini ayrıntılı olarak açıklar."
+  },
+  "13:3": {
+   "ar": "وَهُوَ ٱلَّذِى مَدَّ ٱلْأَرْضَ وَجَعَلَ فِيهَا رَوَٰسِىَ وَأَنْهَٰرًا ۖ وَمِن كُلِّ ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوْجَيْنِ ٱثْنَيْنِ ۖ يُغْشِى ٱلَّيْلَ ٱلنَّهَارَ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+   "translit": "wahuwa alladhī madda l-arḍa wajaʿala fīhā rawāsiya wa-anhāran wamin kulli l-thamarāti jaʿala fīhā zawjayni ith'nayni yugh'shī al-layla l-nahāra inna fī dhālika laāyātin liqawmin yatafakkarūna",
+   "en": "And it is He who spread the earth and placed therein firmly set mountains and rivers; and from all of the fruits He made therein two mates; He causes the night to cover the day. Indeed in that are signs for a people who give thought.",
+   "tr": "Yeryüzünü enine boyuna yayıp döşeyen, onda oturaklı dağlar ve ırmaklar meydana getiren ve yeryüzünde meyvelerin hepsinden iki çift yapan O'dur. Sürekli olarak gece ile gündüzü birbirine dolamaktadır. Düşünecek olan bir kavim için bunda muhakkak ki, ibretler vardır."
+  },
+  "16:68": {
+   "ar": "وَأَوْحَىٰ رَبُّكَ إِلَى ٱلنَّحْلِ أَنِ ٱتَّخِذِى مِنَ ٱلْجِبَالِ بُيُوتًا وَمِنَ ٱلشَّجَرِ وَمِمَّا يَعْرِشُونَ",
+   "translit": "wa-awḥā rabbuka ilā l-naḥli ani ittakhidhī mina l-jibāli buyūtan wamina l-shajari wamimmā yaʿrishūna",
+   "en": "And your Lord inspired to the bee, \"Take for yourself among the mountains, houses, and among the trees and [in] that which they construct.",
+   "tr": "Senin Rabbin bal arısına şöyle vahyetti: Dağlardan, ağaçlardan ve insanların kuracakları kovanlardan kendine evler edin."
+  },
+  "16:69": {
+   "ar": "ثُمَّ كُلِى مِن كُلِّ ٱلثَّمَرَٰتِ فَٱسْلُكِى سُبُلَ رَبِّكِ ذُلُلًا ۚ يَخْرُجُ مِنۢ بُطُونِهَا شَرَابٌ مُّخْتَلِفٌ أَلْوَٰنُهُۥ فِيهِ شِفَآءٌ لِّلنَّاسِ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَةً لِّقَوْمٍ يَتَفَكَّرُونَ",
+   "translit": "thumma kulī min kulli l-thamarāti fa-us'lukī subula rabbiki dhululan yakhruju min buṭūnihā sharābun mukh'talifun alwānuhu fīhi shifāon lilnnāsi inna fī dhālika laāyatan liqawmin yatafakkarūna",
+   "en": "Then eat from all the fruits and follow the ways of your Lord laid down [for you].\" There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought.",
+   "tr": "Sonra meyvaların hepsinden ye de, Rabbinin (sana) kolay kıldığı yollara gir, diye ilham etti. Onların karınlarından renkleri çeşitli bir bal çıkar ki, onda insanlar için şifâ vardır. Şüphesiz ki bunda düşünen bir millet için, büyük bir ibret vardır."
+  },
+  "16:79": {
+   "ar": "أَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ مُسَخَّرَٰتٍ فِى جَوِّ ٱلسَّمَآءِ مَا يُمْسِكُهُنَّ إِلَّا ٱللَّهُ ۗ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّقَوْمٍ يُؤْمِنُونَ",
+   "translit": "alam yaraw ilā l-ṭayri musakharātin fī jawwi l-samāi mā yum'sikuhunna illā l-lahu inna fī dhālika laāyātin liqawmin yu'minūna",
+   "en": "Do they not see the birds controlled in the atmosphere of the sky? None holds them up except Allah. Indeed in that are signs for a people who believe.",
+   "tr": "Göğün boşluğunda Allah'ın emrine boyun eğdirilerek uçuşan kuşlara bakmadılar mı? Şüphesiz bunda inanan bir toplum için âyetler (ibretler) vardır."
+  },
+  "25:45": {
+   "ar": "أَلَمْ تَرَ إِلَىٰ رَبِّكَ كَيْفَ مَدَّ ٱلظِّلَّ وَلَوْ شَآءَ لَجَعَلَهُۥ سَاكِنًا ثُمَّ جَعَلْنَا ٱلشَّمْسَ عَلَيْهِ دَلِيلًا",
+   "translit": "alam tara ilā rabbika kayfa madda l-ẓila walaw shāa lajaʿalahu sākinan thumma jaʿalnā l-shamsa ʿalayhi dalīlan",
+   "en": "Have you not considered your Lord - how He extends the shadow, and if He willed, He could have made it stationary? Then We made the sun for it an indication.",
+   "tr": "Rabbinin gölgeyi nasıl uzatmakta olduğunu görmedin mi? Dileseydi onu elbet hareketsiz de kılardı. Sonra biz güneşi, ona (gölgeye) delil kılmışızdır."
+  },
+  "30:21": {
+   "ar": "وَمِنْ ءَايَٰتِهِۦٓ أَنْ خَلَقَ لَكُم مِّنْ أَنفُسِكُمْ أَزْوَٰجًا لِّتَسْكُنُوٓا۟ إِلَيْهَا وَجَعَلَ بَيْنَكُم مَّوَدَّةً وَرَحْمَةً ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+   "translit": "wamin āyātihi an khalaqa lakum min anfusikum azwājan litaskunū ilayhā wajaʿala baynakum mawaddatan waraḥmatan inna fī dhālika laāyātin liqawmin yatafakkarūna",
+   "en": "And of His signs is that He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy. Indeed in that are signs for a people who give thought.",
+   "tr": "Yine O'nun âyetlerindendir ki, sizin için nefislerinizden kendilerine ısınırsınız diye eşler yaratmış, aranıza bir sevgi ve merhamet koymuştur. Şüphesiz ki bunda düşünecek bir kavim için nice ibretler vardır."
+  },
+  "30:22": {
+   "ar": "وَمِنْ ءَايَٰتِهِۦ خَلْقُ ٱلسَّمَٰوَٰتِ وَٱلْأَرْضِ وَٱخْتِلَٰفُ أَلْسِنَتِكُمْ وَأَلْوَٰنِكُمْ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّلْعَٰلِمِينَ",
+   "translit": "wamin āyātihi khalqu l-samāwāti wal-arḍi wa-ikh'tilāfu alsinatikum wa-alwānikum inna fī dhālika laāyātin lil'ʿālimīna",
+   "en": "And of His signs is the creation of the heavens and the earth and the diversity of your languages and your colors. Indeed in that are signs for those of knowledge.",
+   "tr": "Yine göklerin ve yerin yaratılışı ile dillerinizin ve renklerinizin farklı oluşu da O'nun âyetlerindendir. Şüphesiz ki bunda bilenler için nice ibretler vardır."
+  },
+  "39:42": {
+   "ar": "ٱللَّهُ يَتَوَفَّى ٱلْأَنفُسَ حِينَ مَوْتِهَا وَٱلَّتِى لَمْ تَمُتْ فِى مَنَامِهَا ۖ فَيُمْسِكُ ٱلَّتِى قَضَىٰ عَلَيْهَا ٱلْمَوْتَ وَيُرْسِلُ ٱلْأُخْرَىٰٓ إِلَىٰٓ أَجَلٍ مُّسَمًّى ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+   "translit": "al-lahu yatawaffā l-anfusa ḥīna mawtihā wa-allatī lam tamut fī manāmihā fayum'siku allatī qaḍā ʿalayhā l-mawta wayur'silu l-ukh'rā ilā ajalin musamman inna fī dhālika laāyātin liqawmin yatafakkarūna",
+   "en": "Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep. Then He keeps those for which He has decreed death and releases the others for a specified term. Indeed in that are signs for a people who give thought.",
+   "tr": "Allah, o canları öldükleri zaman, ölmeyenleri de uyuduklarında alır. Sonra haklarında ölüm hükmü verdiklerini alıkor, diğerlerini de takdir edilmiş bir süreye kadar salıverir. Şüphesiz ki bunda düşünecek bir kavim için nice ibretler vardır."
+  },
+  "41:39": {
+   "ar": "وَمِنْ ءَايَٰتِهِۦٓ أَنَّكَ تَرَى ٱلْأَرْضَ خَٰشِعَةً فَإِذَآ أَنزَلْنَا عَلَيْهَا ٱلْمَآءَ ٱهْتَزَّتْ وَرَبَتْ ۚ إِنَّ ٱلَّذِىٓ أَحْيَاهَا لَمُحْىِ ٱلْمَوْتَىٰٓ ۚ إِنَّهُۥ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+   "translit": "wamin āyātihi annaka tarā l-arḍa khāshiʿatan fa-idhā anzalnā ʿalayhā l-māa ih'tazzat warabat inna alladhī aḥyāhā lamuḥ'yī l-mawtā innahu ʿalā kulli shayin qadīrun",
+   "en": "And of His signs is that you see the earth stilled, but when We send down upon it rain, it quivers and grows. Indeed, He who has given it life is the Giver of Life to the dead. Indeed, He is over all things competent.",
+   "tr": "Senin yeryüzünü boynu bükük, kupkuru görmen de Allah'ın kudretinin delillerindendir. Biz onun üzerine suyu indirdiğimiz zaman titreşir ve kabarır. Şüphesiz ki ona hayat veren Allah mutlaka ölüleri de diriltir. Doğrusu O'nun her şeye gücü yeter."
+  },
+  "45:13": {
+   "ar": "وَسَخَّرَ لَكُم مَّا فِى ٱلسَّمَٰوَٰتِ وَمَا فِى ٱلْأَرْضِ جَمِيعًا مِّنْهُ ۚ إِنَّ فِى ذَٰلِكَ لَـَٔايَٰتٍ لِّقَوْمٍ يَتَفَكَّرُونَ",
+   "translit": "wasakhara lakum mā fī l-samāwāti wamā fī l-arḍi jamīʿan min'hu inna fī dhālika laāyātin liqawmin yatafakkarūna",
+   "en": "And He has subjected to you whatever is in the heavens and whatever is on the earth - all from Him. Indeed in that are signs for a people who give thought.",
+   "tr": "O, göklerde ve yerde bulunan herşeyi kendinden bir lütuf olarak sizin hizmetinize vermiştir. Şüphesiz bunda düşünen topluluklar için ibret ve deliller vardır."
+  },
+  "51:20": {
+   "ar": "وَفِى ٱلْأَرْضِ ءَايَٰتٌ لِّلْمُوقِنِينَ",
+   "translit": "wafī l-arḍi āyātun lil'mūqinīna",
+   "en": "And on the earth are signs for the certain [in faith]",
+   "tr": "Kesin olarak inananlar için, yeryüzünde ve kendi nefislerinde nice ibretler vardır. Hiç görmüyor musunuz?"
+  },
+  "51:21": {
+   "ar": "وَفِىٓ أَنفُسِكُمْ ۚ أَفَلَا تُبْصِرُونَ",
+   "translit": "wafī anfusikum afalā tub'ṣirūna",
+   "en": "And in yourselves. Then will you not see?",
+   "tr": "Kesin olarak inananlar için, yeryüzünde ve kendi nefislerinde nice ibretler vardır. Hiç görmüyor musunuz?"
+  },
+  "56:63": {
+   "ar": "أَفَرَءَيْتُم مَّا تَحْرُثُونَ",
+   "translit": "afara-aytum mā taḥruthūna",
+   "en": "And have you seen that [seed] which you sow?",
+   "tr": "Ektiğinizi gördünüz mü?"
+  },
+  "56:64": {
+   "ar": "ءَأَنتُمْ تَزْرَعُونَهُۥٓ أَمْ نَحْنُ ٱلزَّٰرِعُونَ",
+   "translit": "a-antum tazraʿūnahu am naḥnu l-zāriʿūna",
+   "en": "Is it you who makes it grow, or are We the grower?",
+   "tr": "Onu siz mi bitiriyorsunuz, yoksa bitiren biz miyiz?"
+  },
+  "56:68": {
+   "ar": "أَفَرَءَيْتُمُ ٱلْمَآءَ ٱلَّذِى تَشْرَبُونَ",
+   "translit": "afara-aytumu l-māa alladhī tashrabūna",
+   "en": "And have you seen the water that you drink?",
+   "tr": "İçtiğiniz suya baktınız mı?"
+  },
+  "56:71": {
+   "ar": "أَفَرَءَيْتُمُ ٱلنَّارَ ٱلَّتِى تُورُونَ",
+   "translit": "afara-aytumu l-nāra allatī tūrūna",
+   "en": "And have you seen the fire that you ignite?",
+   "tr": "Yaktığınız ateşi gördünüz mü?"
+  },
+  "67:19": {
+   "ar": "أَوَلَمْ يَرَوْا۟ إِلَى ٱلطَّيْرِ فَوْقَهُمْ صَٰٓفَّٰتٍ وَيَقْبِضْنَ ۚ مَا يُمْسِكُهُنَّ إِلَّا ٱلرَّحْمَٰنُ ۚ إِنَّهُۥ بِكُلِّ شَىْءٍۭ بَصِيرٌ",
+   "translit": "awalam yaraw ilā l-ṭayri fawqahum ṣāffātin wayaqbiḍ'na mā yum'sikuhunna illā l-raḥmānu innahu bikulli shayin baṣīrun",
+   "en": "Do they not see the birds above them with wings outspread and [sometimes] folded in? None holds them [aloft] except the Most Merciful. Indeed He is, of all things, Seeing.",
+   "tr": "Üstlerinde kanatlarını açıp yumarak uçan kuşları görmüyorlar mı? Onları Rahmân'dan başkası tutmuyor. Doğrusu O, her şeyi görmektedir."
+  },
+  "88:17": {
+   "ar": "أَفَلَا يَنظُرُونَ إِلَى ٱلْإِبِلِ كَيْفَ خُلِقَتْ",
+   "translit": "afalā yanẓurūna ilā l-ibili kayfa khuliqat",
+   "en": "Then do they not look at the camels - how they are created?",
+   "tr": "Bakmıyorlar mı o develere, nasıl yaratılmış?"
+  }
+ }
+}

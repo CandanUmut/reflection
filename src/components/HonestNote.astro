@@ -1,0 +1,42 @@
+---
+// The Honest Note (DESIGN.md §4.3): a scholar's margin note in clay.
+// Always visible, never behind a click.
+import { t, type Locale } from '../i18n/ui';
+interface Props {
+  lang: Locale;
+}
+const { lang } = Astro.props;
+---
+
+<aside class="honest-note">
+  <p class="honest-note__label">{t(lang, 'honestNote')}</p>
+  <div class="honest-note__body">
+    <slot />
+  </div>
+</aside>
+
+<style>
+  .honest-note {
+    border-left: 1px solid var(--clay);
+    padding: var(--space-1) 0 var(--space-1) var(--space-3);
+    margin: var(--space-4) 0;
+    color: var(--ink);
+  }
+  .honest-note__label {
+    font-family: var(--font-ui);
+    font-size: 0.8rem;
+    font-weight: 600;
+    letter-spacing: 0.04em;
+    color: var(--clay);
+    margin: 0 0 var(--space-1);
+  }
+  .honest-note__body {
+    font-family: var(--font-text);
+    font-style: italic;
+    font-size: 0.95em;
+    line-height: 1.6;
+  }
+  .honest-note__body :global(p:last-child) {
+    margin-bottom: 0;
+  }
+</style>

@@ -1,0 +1,200 @@
+---
+// The sun/moon control (DESIGN.md §3.1). Its icon is the real current moon
+// phase, computed in the browser. Choices: automatic, or one of four palettes.
+import { t, type Locale } from '../i18n/ui';
+import { palettes } from '../styles/palettes.mjs';
+interface Props {
+  lang: Locale;
+}
+const { lang } = Astro.props;
+// Swatch colours come from the palettes themselves, so they cannot drift.
+const { fajr, day, asr, night } = palettes;
+const swatch: Record<string, string> = {
+  auto: `conic-gradient(${fajr.paper} 0 25%, ${day.paper} 0 50%, ${asr.paper} 0 75%, ${night.paper} 0)`,
+  fajr: fajr.paper,
+  day: day.paper,
+  asr: asr.paper,
+  night: night.paper,
+};
+const options = [
+  ['auto', t(lang, 'paletteAuto')],
+  ['fajr', t(lang, 'paletteFajr')],
+  ['day', t(lang, 'paletteDay')],
+  ['asr', t(lang, 'paletteAsr')],
+  ['night', t(lang, 'paletteNight')],
+] as const;
+---
+
+<div class="palette-control" data-palette-control>
+  <button class="palette-toggle" type="button" aria-expanded="false" aria-controls="palette-menu">
+    <svg class="moon" viewBox="0 0 24 24" width="22" height="22" aria-hidden="true">
+      <circle cx="12" cy="12" r="8.5" class="moon-dark" />
+      <path class="moon-lit" d="" />
+      <circle cx="12" cy="12" r="8.5" class="moon-rim" />
+    </svg>
+    <span class="visually-hidden">{t(lang, 'paletteLabel')}</span>
+  </button>
+  <div class="palette-menu" id="palette-menu" hidden>
+    <fieldset>
+      <legend class="label">{t(lang, 'paletteLabel')}</legend>
+      {options.map(([value, label]) => (
+        <label class="palette-option">
+          <input type="radio" name="palette" value={value} />
+          <span class="swatch" style={`background:${swatch[value]}`} aria-hidden="true"></span>
+          <span>{label}</span>
+        </label>
+      ))}
+    </fieldset>
+    <p class="moon-note">{t(lang, 'moonNote')}</p>
+  </div>
+</div>
+
+<style>
+  .palette-control {
+    position: relative;
+  }
+  .palette-toggle {
+    display: grid;
+    place-items: center;
+    width: 2.75rem;
+    height: 2.75rem;
+    background: none;
+    border: 1px solid transparent;
+    border-radius: 50%;
+    cursor: pointer;
+    color: var(--ink-soft);
+    transition: border-color var(--dur-ui) var(--ease-breath);
+  }
+  .palette-toggle:hover,
+  .palette-toggle[aria-expanded='true'] {
+    border-color: var(--hairline-strong);
+  }
+  .moon-dark {
+    fill: var(--paper-deep);
+  }
+  .moon-lit {
+    fill: var(--lamp-line);
+  }
+  .moon-rim {
+    fill: none;
+    stroke: var(--ink-soft);
+    stroke-width: 1;
+  }
+  .palette-menu {
+    position: absolute;
+    right: 0;
+    top: calc(100% + var(--space-2));
+    z-index: 50;
+    width: min(17rem, calc(100vw - 2rem));
+    padding: var(--space-3);
+    background: var(--paper);
+    border: 1px solid var(--hairline-strong);
+    border-radius: var(--radius);
+    font-family: var(--font-ui);
+    font-size: var(--step--1);
+  }
+  fieldset {
+    border: 0;
+    margin: 0;
+    padding: 0;
+  }
+  legend {
+    padding: 0;
+    margin-bottom: var(--space-2);
+  }
+  .palette-option {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    min-height: 2.5rem;
+    cursor: pointer;
+  }
+  .palette-option input {
+    accent-color: var(--lamp);
+    margin: 0;
+  }
+  .swatch {
+    width: 1rem;
+    height: 1rem;
+    border-radius: 50%;
+    border: 1px solid var(--hairline-strong);
+  }
+  .moon-note {
+    margin: var(--space-2) 0 0;
+    color: var(--ink-soft);
+    font-size: 0.8rem;
+    line-height: 1.5;
+  }
+</style>
+
+<script>
+  type Choice = 'auto' | 'fajr' | 'day' | 'asr' | 'night';
+  const KEY = 'tefekkur-palette';
+  const root = document.documentElement;
+  const picker = (window as unknown as { tefekkurPalette: { pick: () => string } }).tefekkurPalette;
+
+  // Moon phase from a known new moon (2000-01-06 18:14 UTC) and the mean synodic month.
+  function moonPath(): string {
+    const synodic = 29.530588853;
+    const age = ((Date.now() - Date.UTC(2000, 0, 6, 18, 14)) / 86400000) % synodic;
+    const p = age / synodic; // 0 new → 0.5 full → 1 new
+    const r = 8.5,
+      c = 12;
+    const rx = r * Math.abs(Math.cos(2 * Math.PI * p));
+    const waxing = p < 0.5;
+    const gibbous = p > 0.25 && p < 0.75;
+    // Lit limb: right side while waxing, left while waning (northern view).
+    const limbSweep = waxing ? 1 : 0;
+    const termSweep = gibbous === waxing ? 1 : 0;
+    return `M${c} ${c - r} A${r} ${r} 0 0 ${limbSweep} ${c} ${c + r} A${rx} ${r} 0 0 ${termSweep} ${c} ${c - r}Z`;
+  }
+
+  function apply(choice: Choice) {
+    root.dataset.paletteChoice = choice;
+    root.dataset.palette = choice === 'auto' ? picker.pick() : choice;
+    try {
+      localStorage.setItem(KEY, choice);
+    } catch {
+      /* storage may be blocked; the choice still applies now */
+    }
+  }
+
+  for (const el of document.querySelectorAll<HTMLElement>('[data-palette-control]')) {
+    const toggle = el.querySelector<HTMLButtonElement>('.palette-toggle')!;
+    const menu = el.querySelector<HTMLElement>('.palette-menu')!;
+    el.querySelector('.moon-lit')!.setAttribute('d', moonPath());
+    const current = (root.dataset.paletteChoice ?? 'auto') as Choice;
+    const radio = el.querySelector<HTMLInputElement>(`input[value="${current}"]`);
+    if (radio) radio.checked = true;
+
+    const close = (focus = false) => {
+      menu.hidden = true;
+      toggle.setAttribute('aria-expanded', 'false');
+      if (focus) toggle.focus();
+    };
+    toggle.addEventListener('click', () => {
+      const open = menu.hidden;
+      menu.hidden = !open;
+      toggle.setAttribute('aria-expanded', String(open));
+      if (open) el.querySelector<HTMLInputElement>('input:checked')?.focus();
+    });
+    el.addEventListener('change', (e) => apply((e.target as HTMLInputElement).value as Choice));
+    el.addEventListener('keydown', (e) => {
+      if (e.key === 'Escape' && !menu.hidden) close(true);
+    });
+    document.addEventListener('click', (e) => {
+      if (!el.contains(e.target as Node)) close();
+    });
+    el.addEventListener('focusout', (e) => {
+      if (!el.contains(e.relatedTarget as Node | null)) close();
+    });
+  }
+
+  // In automatic mode, let the paper follow the sun while the page stays open.
+  setInterval(
+    () => {
+      if (root.dataset.paletteChoice === 'auto') root.dataset.palette = picker.pick();
+    },
+    5 * 60 * 1000,
+  );
+</script>

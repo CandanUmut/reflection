@@ -38,7 +38,7 @@ Do not invent religious or scientific content. Everything shown on the site must
 - Doubts are shown in their strongest form, first, with respect.
 - Pages on suffering, grief, disasters and vesvese include the gentle help card.
 - Quotes from sources: under 15 words; otherwise paraphrase. Keep all source links.
-- Quran translation text: **do not ship any translation until Umut decides the licensing question** (`DESIGN.md` §9). Use clearly marked placeholders until then.
+- Quran translation text: **decided** — Saheeh International (English) and Elmalılı Hamdi Yazır (Turkish), verbatim from Tanzil, with attribution (`DESIGN.md` §9). No placeholders.
 
 ---
 
@@ -67,7 +67,7 @@ Umut wants to **see real results early** and decide the next step himself. At th
 Build one standalone page, `/design-study`, that shows:
 - The palette in all four time-of-day variants (Fajr, Day, ʿAṣr, Night).
 - Two or three typography pairings, each rendering: a title, a paragraph, Turkish sample text, a transliteration line (ā ī ū ḥ ṣ ḍ ṭ ẓ ʿ ʾ), and an Arabic verse (6:95).
-- One complete **Sign block** for S1 (the seed): verse, four layers, an Honest Note, evidence tags — with placeholder translation text.
+- One complete **Sign block** for S1 (the seed): verse, four layers, an Honest Note, evidence tags — with the real translations (placeholders were dropped after the translation decision).
 - The **Threshold** (three arches) in rough form.
 - One **self-drawing geometric divider**.
 - One tiny visualization: the seed germination time-lapse (simple version).

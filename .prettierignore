@@ -1,0 +1,6 @@
+dist/
+.astro/
+node_modules/
+docs/
+src/data/quran.json
+package-lock.json

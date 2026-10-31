@@ -1,0 +1,123 @@
+---
+// The body of a Sign page: the Four Layers kept apart (DESIGN.md §4.2).
+// 1 verse · (pause) · 2 classical tafsir · 3 how it works (+ awe, honest notes)
+// · 4 reflection · sources. On wide screens tafsir and honest notes sit in
+// the margins, like commentary around a manuscript's central text.
+import type { CollectionEntry } from 'astro:content';
+import VerseBlock from './VerseBlock.astro';
+import Pause from './Pause.astro';
+import Layer from './Layer.astro';
+import HonestNote from './HonestNote.astro';
+import Divider from './Divider.astro';
+import GerminationViz from './GerminationViz.astro';
+import Sources from './Sources.astro';
+import { md } from '../lib/md';
+import { t, type Locale } from '../i18n/ui';
+
+interface Props {
+  sign: CollectionEntry<'signs'>['data'];
+  lang: Locale;
+}
+const { sign, lang } = Astro.props;
+const viz = sign.visualizations.find((v) => v.id === 'germination');
+---
+
+<article class="sign">
+  <header class="sign__head wrap">
+    <p class="label">{sign.id}</p>
+    <h1>{sign.title[lang]}</h1>
+    <p class="sign__summary">{sign.summary[lang]}</p>
+  </header>
+
+  <section class="sign__verse wrap" aria-label={t(lang, 'layerVerse')}>
+    <VerseBlock refs={sign.verses} lang={lang} />
+  </section>
+
+  {sign.pause && <Pause ref={sign.pause.ref} lang={lang} />}
+
+  <div class="sign__layers" data-after-pause>
+    <div class="sign__grid">
+      <div class="sign__tafsir">
+        <Layer kind="tafsir" n={2} lang={lang}>
+          <Fragment set:html={md(sign.tafsir[lang], lang)} />
+        </Layer>
+      </div>
+      <div class="sign__science">
+        <Layer kind="science" n={3} lang={lang}>
+          <Fragment set:html={md(sign.howItWorks[lang], lang)} />
+          {sign.awe && (
+            <>
+              <h3 class="sign__sub">{t(lang, 'awe')}</h3>
+              <Fragment set:html={md(sign.awe[lang], lang)} />
+            </>
+          )}
+          {viz && viz.steps && <GerminationViz lang={lang} steps={viz.steps[lang]} title={viz[lang]} />}
+        </Layer>
+      </div>
+      <div class="sign__notes">
+        {sign.honestNotes.map((note) => (
+          <HonestNote lang={lang}>
+            <Fragment set:html={md(note[lang], lang)} />
+          </HonestNote>
+        ))}
+      </div>
+    </div>
+
+    <Divider />
+
+    <div class="wrap">
+      <Layer kind="reflection" n={4} lang={lang}>
+        <Fragment set:html={md(sign.reflection[lang], lang)} />
+      </Layer>
+      {sign.reflectionVerses && <VerseBlock refs={sign.reflectionVerses} lang={lang} size="small" />}
+      <Sources sources={sign.sources} lang={lang} />
+    </div>
+  </div>
+</article>
+
+<style>
+  .sign__head {
+    text-align: center;
+    padding-top: var(--space-6);
+    margin-bottom: var(--space-5);
+  }
+  .sign__summary {
+    color: var(--ink-soft);
+    font-style: italic;
+    max-width: 30rem;
+    margin-inline: auto;
+  }
+  .sign__sub {
+    font-size: var(--step-0);
+    font-family: var(--font-display);
+    margin-top: var(--space-4);
+  }
+  .sign__grid {
+    max-width: calc(var(--measure) + 2 * var(--space-4));
+    margin-inline: auto;
+    padding-inline: var(--space-4);
+  }
+  @media (max-width: 30rem) {
+    .sign__grid {
+      padding-inline: var(--space-3);
+    }
+  }
+  @media (min-width: 72rem) {
+    .sign__grid {
+      max-width: 76rem;
+      display: grid;
+      grid-template-columns: 15rem minmax(0, var(--measure)) 15rem;
+      column-gap: var(--space-6);
+      justify-content: center;
+      align-items: start;
+    }
+    .sign__tafsir {
+      position: sticky;
+      top: var(--space-4);
+      font-size: 0.92em;
+    }
+    .sign__notes {
+      padding-top: calc(var(--space-5) + 2.6rem);
+    }
+  }
+</style>

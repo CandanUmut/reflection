@@ -1,0 +1,93 @@
+---
+// Layer 1 of a sign: the verse. Arabic first and largest, then the
+// transliteration, then the translation. Consecutive verses of one range are
+// set together, each closed by the traditional end-of-verse mark.
+import { expandRef, getVerse, refLabel } from '../lib/quran';
+import { t, type Locale } from '../i18n/ui';
+
+interface Props {
+  refs: string[];
+  lang: Locale;
+  size?: 'large' | 'small';
+}
+const { refs, lang, size = 'large' } = Astro.props;
+const arabicDigits = (n: string) => n.replace(/\d/g, (d) => '٠١٢٣٤٥٦٧٨٩'[Number(d)]);
+const groups = refs.map((ref) => ({ ref, verses: expandRef(ref).map((r) => getVerse(r, lang)) }));
+---
+
+<div class:list={['verses', `verses--${size}`]}>
+  {groups.map(({ ref, verses }) => (
+    <figure class="verse">
+      <p class="verse__ar" lang="ar" dir="rtl">
+        {verses.map((v) => (
+          <>
+            {v.ar}
+            <span class="verse__end">{'۝' + arabicDigits(v.ref.split(':')[1])}</span>{' '}
+          </>
+        ))}
+      </p>
+      <p class="verse__translit translit" lang="ar-Latn">
+        <span class="visually-hidden">{t(lang, 'transliteration')}: </span>
+        {verses.map((v) => v.translit).join(' · ')}
+      </p>
+      <blockquote class="verse__translation">
+        <p>{verses.map((v) => v.translation).join(' ')}</p>
+      </blockquote>
+      <figcaption>
+        <span class="ref">{refLabel(ref)}</span>
+      </figcaption>
+    </figure>
+  ))}
+  <p class="verse__credit">{t(lang, 'translationBy')}</p>
+</div>
+
+<style>
+  .verses {
+    text-align: center;
+  }
+  .verse {
+    margin: 0 0 var(--space-6);
+  }
+  .verse:last-of-type {
+    margin-bottom: var(--space-4);
+  }
+  .verse__ar {
+    font-size: var(--step-arabic);
+    line-height: 2.2;
+    margin: 0 auto var(--space-3);
+    max-width: 40rem;
+    color: var(--ink);
+  }
+  .verses--small .verse__ar {
+    font-size: var(--step-2);
+  }
+  .verse__end {
+    color: var(--lamp);
+    padding-inline: 0.15em;
+  }
+  .verse__translit {
+    max-width: 34rem;
+    margin: 0 auto var(--space-3);
+    line-height: 1.6;
+  }
+  .verse__translation {
+    margin: 0 auto var(--space-2);
+    max-width: 32rem;
+  }
+  .verse__translation p {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    line-height: 1.45;
+    margin: 0;
+    font-variation-settings: 'SOFT' 100;
+  }
+  .verses--small .verse__translation p {
+    font-size: var(--step-0);
+  }
+  .verse__credit {
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    color: var(--ink-soft);
+    margin: 0;
+  }
+</style>
