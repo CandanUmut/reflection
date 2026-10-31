@@ -1,0 +1,86 @@
+{
+  "id": "Q1",
+  "path": "en/ask/suffering/",
+  "group": "ask",
+  "words": 4447,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "The reply to the bystander objection says 'If God stopped every wrong as it began, human choice would no longer be real' — but the objection is about stopping some heinous wrongs, not every one. Why does God not step in even sometimes, for the worst cases?",
+        "Millions of years of animal pain happened before any human existed to be tested. What purpose does that pain serve, beyond 'they will be gathered' later?",
+        "If God already knew the boy in 18:80 would become a disbeliever, why create him at all — and how does that fit with every child being born on the natural disposition (fitra)?"
+      ],
+      "scores": { "answers": 8, "depth": 8, "evidence": 9, "fairness": 9, "clarity": 8, "honesty": 9 },
+      "satisfaction": 8,
+      "why": "The strongest version is stated in full (Rowe's fawn, the bystander comparison) and each reply ends with an honest 'Limit', so I leave with something I can hold — but the reply to 'why not intervene sometimes' still answers 'why not always'."
+    },
+    "outsider": {
+      "followUps": [
+        "What exactly is a 'hadith', who collected Bukhari and Muslim, and why do Muslims trust them? The grading is explained but the word itself is not.",
+        "Who is al-Khidr — a prophet, an angel, a saint? The page says only 'a servant'.",
+        "How does this Islamic answer compare with Christian or Jewish answers to the same problem — is any of it distinctive?"
+      ],
+      "scores": { "answers": 8, "depth": 8, "evidence": 9, "fairness": 9, "clarity": 8, "honesty": 9 },
+      "satisfaction": 8,
+      "why": "I came away understanding what Muslims believe about suffering and why, with the schools' disagreement and outside philosophy shown fairly; only a few insider terms (hadith, Sura, al-Khidr, the Ihya') go unexplained."
+    },
+    "student": {
+      "followUps": [
+        "The Ash'ari position comes only through Ormsby and its critics ('will without wisdom'). What did an Ash'ari scholar himself say in reply — al-Ash'ari, al-Juwayni or al-Razi — in which work?",
+        "Ibn Taymiyya and al-Maturidi are cited second-hand from Ormsby p. 47. Which of their own works (e.g. al-Maturidi's Kitab al-Tawhid) contain these positions?",
+        "How did the scholars reconcile Muslim 2662 ('a non-believer by his very nature') with the hadith that every child is born on the fitra?"
+      ],
+      "scores": { "answers": 8, "depth": 8, "evidence": 9, "fairness": 7, "clarity": 8, "honesty": 9 },
+      "satisfaction": 8,
+      "why": "Twelve hadith with collection, number and grade (two graders for Tirmidhi), Ibn Kathir and al-Qurtubi with their differing views, and al-Ghazali and Ibn al-Qayyim in their own words — real 'ilm; the Ash'ari side is described mostly by its opponents."
+    },
+    "scientist": {
+      "followUps": [
+        "What does biology say pain is for — e.g. people born unable to feel pain die young — and does that bear on the 'stable natural laws' reply?",
+        "How large were the effects in the coping studies? 'Across 49 studies, the pattern generally held' gives no effect size or measure of uncertainty.",
+        "On earthquakes: is there a scientific case that plate tectonics is needed for a life-bearing planet, as the natural-law reply implies? The page sends this to another question."
+      ],
+      "scores": { "answers": 7, "depth": 6, "evidence": 7, "fairness": 9, "clarity": 8, "honesty": 10 },
+      "satisfaction": 7,
+      "why": "The little science here is described correctly and carefully ('a link, not a cause', 'not, by itself, evidence that a belief is true') and no verse is made to predict anything, but natural evil and animal pain get no science at all."
+    },
+    "hurting": {
+      "followUps": [
+        "I lost my child. Al-Qurtubi records that 'a child's suffering is a punishment for the child's parents' — is that what the tradition thinks of me, and do most scholars hold it?",
+        "Someone abused me. 'Your safety comes first' is good — but am I required to forgive them, and what does the tradition say about my anger at them?",
+        "Is it all right if 'Indeed we belong to Allah' feels empty right now? What do I actually do on the bad days?"
+      ],
+      "scores": { "answers": 8, "depth": 8, "evidence": 9, "fairness": 8, "clarity": 9, "honesty": 9 },
+      "satisfaction": 8,
+      "why": "The page opens with the Prophet's tears, says plainly 'No one can know that about a particular person', and puts helplines first, which feels warm and true; the al-Qurtubi view about parents and the story of the boy are caveated but may still sting a grieving parent."
+    },
+    "skeptic": {
+      "followUps": [
+        "'They point to what can be seen — the mercy in creation' — but parasitic wasps and predation are visible too. Why count only the mercy as evidence about God's character?",
+        "The short answer says suffering 'is never a sign that the sufferer is worse than others', yet Ibn Kathir reads 42:30 'plainly: disasters come because of sins'. Which is the tradition's position, and is the short answer smoothing over that tension?",
+        "Eternal Hell is the largest suffering in Islam's own picture. How does this answer apply to it?"
+      ],
+      "scores": { "answers": 8, "depth": 8, "evidence": 9, "fairness": 8, "clarity": 8, "honesty": 9 },
+      "satisfaction": 7,
+      "why": "The steelman is real (Rowe, Tooley quoted against the replies, Plantinga's 'tepid, shallow' admission) and the 'Limit' lines concede the hereafter dependence; but the 'mercy in creation' reply weighs only the favourable evidence, and Hell is not mentioned."
+    }
+  },
+  "missing": [
+    "A direct reply to Tooley's narrower point: why God does not intervene in some heinous cases (the page answers why He does not stop 'every wrong').",
+    "More on animal pain over deep time (before humans) and natural evil, including what biology says about the function of pain; the page itself calls this 'the weakest point'.",
+    "The Ash'ari position in an Ash'ari's own words, and primary works for al-Maturidi and Ibn Taymiyya, not only via Ormsby and the Ash'aris' critics.",
+    "How scholars reconcile Muslim 2662 ('a non-believer by his very nature') with the fitra hadith.",
+    "The tension between 42:30 read 'plainly' (disasters come from sins) and the short answer's 'never a sign that the sufferer is worse than others' — say how the tradition holds both.",
+    "A sentence or link on how the answer applies to eternal Hell, the obvious next question.",
+    "Define 'hadith' and say who al-Khidr is, for outsiders."
+  ],
+  "strengths": [
+    "'The question, at its strongest' states the evidential argument in full, with Rowe's fawn and the bystander analogy.",
+    "Each objection gets 'Reply' then 'Limit'; the honest limits section says plainly that 'a reader who does not accept the hereafter will find the strongest objections still standing'.",
+    "The pastoral section comes first: the Prophet's tears (Bukhari 1303), the prophets' complaints (12:86, 21:83), 'No one can know that about a particular person', and support helplines.",
+    "Hadith carry collection, number and grade, with named graders where they differ; a grading key is given.",
+    "The hard story of the boy in 18:80–81 is shown, not hidden, with clear guardrails ('it gives no one else permission'; 'this story is not about your child').",
+    "Coping research is framed correctly: 'a link, not a cause' and not evidence a belief is true.",
+    "Range of scholarly views (Mu'tazila, Ash'aris, al-Maturidi, al-Ghazali, Ibn Taymiyya, Ibn al-Qayyim) plus philosophers (Mackie, Plantinga, Rowe, Hick, Swinburne, Tooley)."
+  ]
+}
