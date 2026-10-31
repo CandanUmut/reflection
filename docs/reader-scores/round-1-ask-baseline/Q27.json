@@ -1,0 +1,83 @@
+{
+  "id": "Q27",
+  "path": "en/ask/why-muhammad/",
+  "group": "ask",
+  "words": 407,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "The page asks 'liar, deluded, or truthful?' but only argues against 'liar'. What about someone who sincerely believed he received revelation but was mistaken?",
+        "Which predictions were fulfilled besides the Byzantine one, and which ones are 'overstated'?",
+        "What exactly is the challenge of 2:23, and why has no one met it?"
+      ],
+      "scores": { "answers": 6, "depth": 4, "evidence": 6, "fairness": 4, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "The cumulative-case outline and the Abu Sufyan report give something to hold on to, but each strand is one line, and the 'deluded' option of the trilemma is raised and then left unanswered."
+    },
+    "outsider": {
+      "followUps": [
+        "Which non-Muslim sources from the 630s-660s mention him, and what do they say?",
+        "Is it established that Muhammad could not read or write? What does the Quran mean by 'ummi'?",
+        "What did his followers' 'transformation' look like, concretely?"
+      ],
+      "scores": { "answers": 6, "depth": 4, "evidence": 5, "fairness": 5, "clarity": 5, "honesty": 6 },
+      "satisfaction": 5,
+      "why": "The bullet list is clear and al-Amin is explained, but 'Nursi's 19. Mektup' and 'Mutahhari's Nubuwwat' mean nothing to an outsider, and claims like 'a Quran from a man who did not write' are presented as settled."
+    },
+    "student": {
+      "followUps": [
+        "Give the full Heraclius narration (Bukhari 7) and the questions Heraclius asked, since it is itself a cumulative argument.",
+        "What are the classical categories of proof of prophethood (dala'il al-nubuwwa): the Quran's inimitability (i'jaz), character, fulfilled reports? What did Ibn Taymiyya argue in al-Jawab al-sahih?",
+        "How did the mufassirun read 30:2-4, including the alternative reading (ghalabat... sayughlabun)?"
+      ],
+      "scores": { "answers": 6, "depth": 4, "evidence": 6, "fairness": 5, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "Good specific references (Bukhari 7, 10:16, 2:23, 30:2-4) but no quotation or explanation of the scholars named, and the classical dala'il al-nubuwwa tradition is only gestured at."
+    },
+    "scientist": {
+      "followUps": [
+        "How was the Birmingham manuscript dated (radiocarbon), what is the confidence level, and what does a range that starts before his mission tell us?",
+        "Which 'scientific miracles' are weak, and why?",
+        "How do historians weigh the reliability of early Muslim sources written 150+ years later?"
+      ],
+      "scores": { "answers": 6, "depth": 4, "evidence": 5, "fairness": 5, "clarity": 5, "honesty": 8 },
+      "satisfaction": 5,
+      "why": "Admitting that 'scientific miracles' are weak is a welcome honesty, and the 568-645 CE date is concrete, but the method and meaning of the dating are not explained."
+    },
+    "hurting": {
+      "followUps": [
+        "My family will be devastated if I stop believing this. Is doubting the Prophet a sin I will be punished for?",
+        "Which stories from his life does the page mean when it says stories persuade more than syllogisms? Tell me one.",
+        "Is it all right to believe on a 'strong rope' and not on certainty?"
+      ],
+      "scores": { "answers": 6, "depth": 4, "evidence": 5, "fairness": 5, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "It is calm and not preachy, but it says 'Stories from his life persuade more than syllogisms do' and then tells none."
+    },
+    "skeptic": {
+      "followUps": [
+        "Why is the sincerely-mistaken option not addressed, when it is the explanation most historians would choose?",
+        "The 30:2-4 prophecy has a known reading-variant problem and dating questions; why is it presented as a clean prediction?",
+        "Where are the counter-considerations, such as the later political power, wars and marriages that critics raise against 'a simple life'?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 5, "fairness": 3, "clarity": 5, "honesty": 6 },
+      "satisfaction": 3,
+      "why": "The steelman ('his own followers wrote the sources') is answered only by an unnamed 'non-Muslim sources mention him'; the trilemma ignores delusion; and evidence against the case is not weighed at all."
+    }
+  },
+  "missing": [
+    "Answer the 'sincere but mistaken' option of the trilemma, not only 'liar'",
+    "Name the early non-Muslim sources and say what they confirm and what they do not",
+    "Explain the claim that he did not write (meaning of ummi, scholarly debate) instead of asserting it",
+    "Tell one or two concrete stories from his life, since the page says stories persuade",
+    "Explain the Byzantine prediction properly, including the reading variant and dating",
+    "Say which prophecies are overstated, with examples",
+    "Weigh the main counter-arguments critics raise about his life and later power"
+  ],
+  "strengths": [
+    "Clear cumulative-case structure ('together the strands make a strong rope')",
+    "Specific, checkable evidence: Bukhari 7 (Abu Sufyan before Heraclius), Birmingham manuscript 568-645 CE",
+    "Honest limits: 'Some prophecies are overstated, and \"scientific miracles\" are weak'",
+    "Uses 10:16 well: a lifetime among his people before the mission"
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "id": "Q23",
+  "path": "en/ask/polygyny/",
+  "group": "ask",
+  "words": 555,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "Why may men have up to four wives but women only one husband? Is there any answer beyond 'it protects widows'?",
+        "If 4:129 says full justice is impossible, why did the majority not conclude polygyny is effectively forbidden?",
+        "Why did the Prophet have more than four wives if the limit is four?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 6,
+        "clarity": 6,
+        "honesty": 8
+      },
+      "satisfaction": 5,
+      "why": "It is honest that both 'the Quran bans it' and 'the Quran encourages it' distort, but the asymmetry, the heart of the doubt, gets only 'Critics point to the asymmetry' and a partial contract-clause reply."
+    },
+    "outsider": {
+      "followUps": [
+        "How common is polygyny in Muslim-majority countries, and is it really rare in practice?",
+        "What is 'imam nikahı' and what happens to women in those marriages in Türkiye?",
+        "What does 'ijtihād' mean in practice: who decides, and how did Tunisia justify its ban?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 7,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 6,
+      "why": "The Pew figures and the country examples (Tunisia, Türkiye, Indonesia) help me understand practice, but imam nikahı is raised in 'why people ask it' and then dropped."
+    },
+    "student": {
+      "followUps": [
+        "What did the classical mufassirūn (al-Ṭabarī, al-Qurṭubī) say on 4:3 and the orphan context, and on 4:129?",
+        "What is the grading of Abū Dāwūd 2133 and the full context of Bukhārī 5230 (Fāṭima and ʿAlī)?",
+        "Which schools other than the Ḥanbalī allow a monogamy condition in the contract, and with what effect?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 7,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 6,
+      "why": "A useful spread of positions (majority, ʿAbduh–Riḍā, Mawdūdī, Tunisia, Indonesia, Ibn Taymiyya), but hadith come without gradings and the classical tafsīr is not named."
+    },
+    "scientist": {
+      "followUps": [
+        "What does research show about the wellbeing of co-wives and children in polygynous families?",
+        "Does polygyny actually protect widows or correct a sex imbalance, in the data?",
+        "Where does polygyny occur most (by country), from the Pew data?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 6,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "The Pew figure (about 2%, under 0.5% in most countries) is precise and sourced, but the question itself says 'harm to co-wives is documented' and no evidence on harm is given."
+    },
+    "hurting": {
+      "followUps": [
+        "My husband wants a second wife, or married one secretly through imam nikahı: what are my rights, Islamically and legally in Türkiye?",
+        "Can I divorce him for this, and how?",
+        "Does God see my pain as valid, or am I resisting His law?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 3,
+        "evidence": 5,
+        "fairness": 6,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 4,
+      "why": "'Women should know their rights: divorce for harm (ḍarar) and access to counselling' is the whole practical help; for a woman facing this, it names her rights without telling her what they are or how to use them."
+    },
+    "skeptic": {
+      "followUps": [
+        "How many wives did the Prophet have at once, and how do classical scholars explain the exception (33:50)?",
+        "4:3 also says 'or those your right hand possess': does that not allow unlimited concubines alongside four wives?",
+        "If the majority reads 4:129 as about love only, is the 'exception, not an ideal' view really a modern minority?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 5,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 4,
+      "why": "It omits the Prophet's own marriages and passes over 'or those your right hand possesses' in the very verse it quotes, and 'Many scholars read this as an exception' blurs that the classical majority did not."
+    }
+  },
+  "missing": [
+    "A real treatment of the asymmetry (why men and not women), with the classical arguments and the critique",
+    "The Prophet's own marriages and the 33:50 exception",
+    "Imam nikahı in Türkiye: what it is, the legal risk for women, and practical rights",
+    "Concrete rights for women: monogamy clause, divorce for harm, how to use them, across schools",
+    "Classical tafsīr of 4:3 and 4:129, named; hadith gradings for Abū Dāwūd 2133 and Bukhārī 5230",
+    "Evidence on wellbeing in polygynous families, to match 'harm to co-wives is documented'",
+    "Address 'or those your right hand possesses' in 4:3"
+  ],
+  "strengths": [
+    "Clear short answer that shows the tension between 4:3 and 4:129",
+    "Honest limit: both 'bans it' and 'encourages it' distort the text",
+    "Range of legal positions and modern state practice (Tunisia, Türkiye, Indonesia)",
+    "Sourced numbers (Pew 2020, about 2%)",
+    "Ḥanbalī monogamy condition as a practical option"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "Q20",
+  "path": "en/ask/aishas-age/",
+  "group": "ask",
+  "words": 597,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "If the report is authentic, how can the Prophet be a model for all time and still have done this? What do scholars actually say about that, beyond 'it was normal then'?",
+        "Which is more likely: nine, or late teens? Where does the evidence really point, and why?",
+        "If classical jurists allowed marriage at puberty, on what Islamic basis is it wrong today, and could it become allowed again?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 7,
+        "clarity": 5,
+        "honesty": 8
+      },
+      "satisfaction": 5,
+      "why": "It is honest that the report is 'strong by classical standards' and that 'number games do not settle the question', but the core worry (did the model for all time endorse this?) gets only 'this site does not endorse child marriage today', which is a position, not an answer."
+    },
+    "outsider": {
+      "followUps": [
+        "What do 'Bukhārī', 'Muslim', 'hadith' and an isnād chain like 'Hishām ← ʿUrwa ← Aisha' mean, and why does one narrator matter so much?",
+        "What were the 'proto-Šīʿī polemics' that Little thinks the report answered?",
+        "How do mainstream Muslims today, not just this site, actually handle this report?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 7,
+        "clarity": 4,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "I learn there is a serious scholarly debate, but terms like 'ṭāqa', 'siyāsa sharʿiyya' and the narrator chain are dropped in with little explanation, and the page reads like condensed notes."
+    },
+    "student": {
+      "followUps": [
+        "What is the exact wording of Bukhārī 5133–5134 and Muslim 1422, and are there versions not through Hishām (for example, the narrations ICRAA counts)?",
+        "Which classical jurists set the ṭāqa (physical readiness) condition, in which works, and how did the four schools differ on a guardian marrying off a minor (ijbār)?",
+        "What exactly are Kāndhlawī's arguments from Asmāʾ's age and Badr/Uḥud, and how have hadith scholars answered them?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 7,
+        "fairness": 8,
+        "clarity": 6,
+        "honesty": 8
+      },
+      "satisfaction": 6,
+      "why": "The citations (Bukhārī 5133–34, Muslim 1422, Little 2022, ICRAA 2024) are real anchors and both sides are named, but the jurists are unnamed, the schools are not distinguished, and the revisionist case is one sentence."
+    },
+    "scientist": {
+      "followUps": [
+        "What does the medical evidence say about pregnancy and childbirth risks for girls under 15 or 18, in numbers?",
+        "How does Little's isnād-cum-matn method work, and how reliable is dating a report to Kufa 754–765 CE?",
+        "What is actually known about average age at puberty and marriage in 7th-century Arabia?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 3,
+        "evidence": 5,
+        "fairness": 7,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 4,
+      "why": "'The medical risks of early marriage give a maqāṣid reason to prohibit it' is asserted with no figures or source, and the dating method behind Little's claim is not explained."
+    },
+    "hurting": {
+      "followUps": [
+        "I was married young, or abused as a child: does my religion side with what happened to me?",
+        "Where can I get help that understands both faith and trauma, outside Türkiye too?",
+        "Is it allowed for me to feel angry about this report and still be Muslim?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 3,
+        "evidence": 4,
+        "fairness": 6,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 4,
+      "why": "'Moral shock at this report is right' helps, but the next line, 'If the topic touches personal trauma, gently suggest support services', is written as an instruction to someone else, which feels cold to the person it is about."
+    },
+    "skeptic": {
+      "followUps": [
+        "If the firm statement is 'the ethical one', on what Islamic authority does the site overrule what the classical schools allowed, and why should anyone accept that override?",
+        "Which modern states or scholars still use this report against minimum-age laws, and how many child marriages occur in Muslim-majority countries today?",
+        "Why should Little's single-narrator argument not also cast doubt on other Bukhārī hadith the site relies on?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 7,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "The page puts Little and ICRAA side by side fairly and calls revisionist chronologies 'often overstated', but it raises 'Some legal systems cite the report against minimum-age laws' and never returns to it, and the ethical override is asserted, not argued."
+    }
+  },
+  "missing": [
+    "A real answer to 'if he is the model for all time, did he endorse it?': how scholars separate the Prophet's acts in his era from binding norms, argued, not just stated",
+    "Classical fiqh in detail: the four schools on marrying minors (ijbār, ṭāqa), named jurists and works",
+    "Medical evidence on early marriage and pregnancy, with numbers and a source",
+    "Plain explanation of hadith terms, the isnād chain, and Little's method, for non-specialists",
+    "A compassionate, directly addressed section for readers with personal trauma (replace the writer-instruction 'gently suggest support services')",
+    "Why 4:6 ('until they reach marriageable age ... sound judgement') is the key verse and how it is used in the argument"
+  ],
+  "strengths": [
+    "States the traditional report and its sources plainly; does not hide it",
+    "Little (2022) and the ICRAA reply set side by side with quotes",
+    "Honest limits: 'Aisha's exact age cannot be known', 'Revisionist chronologies are often overstated'",
+    "Clear ethical line against child marriage today, tied to Turkish law (Art. 124) and the maqāṣid"
+  ]
+}

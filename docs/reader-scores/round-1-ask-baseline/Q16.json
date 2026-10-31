@@ -1,0 +1,84 @@
+{
+  "id": "Q16",
+  "path": "en/ask/earthquakes/",
+  "group": "ask",
+  "words": 716,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "If 64:11 says no disaster strikes except by God's permission, and 42:30 says what strikes you is from what your hands earned, how is it not punishment?",
+        "If it is kader, how can contractors be blamed? How do decree and human responsibility fit together?",
+        "Why did God permit it to hit children at all? The page just says 'See Q1'."
+      ],
+      "scores": { "answers": 7, "depth": 5, "evidence": 7, "fairness": 6, "clarity": 6, "honesty": 7 },
+      "satisfaction": 6,
+      "why": "The martyrdom hadith and Görmez's statements answer 'is it punishment?' clearly, but the 'If God could stop it, how is He just?' part is sent elsewhere ('See Q1')."
+    },
+    "outsider": {
+      "followUps": [
+        "What are Diyanet, AFAD, kader and musibet?",
+        "What do ordinary Turkish Muslims actually believe about the 2023 quake, beyond officials?",
+        "What does 'martyr' mean in Islam if the person did not die fighting?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 6, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "Concrete and current, but Turkish institutions and terms are used as if the reader already knows them."
+    },
+    "student": {
+      "followUps": [
+        "What do the classical mufassirūn say on 42:30 and 30:41, and is 42:30 addressed to believers generally?",
+        "Which scholars restrict the punishments of ʿĀd and Thamūd to peoples who rejected a prophet, and where?",
+        "What does al-Suyūṭī actually argue in Kashf al-Ṣalṣala, and what does Nursi say in Lem'alar (which Lem'a)?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 7, "fairness": 6, "clarity": 6, "honesty": 6 },
+      "satisfaction": 6,
+      "why": "Good hadith citations (Bukhārī 2829; Muslim 1914; Bukhārī 5734), but 42:30 and 64:11 are listed and never explained, and 'scholars restrict these' names no scholar."
+    },
+    "scientist": {
+      "followUps": [
+        "What is the evidence that damage tracked construction quality: how many buildings collapsed, what share were built before the 1999/2018 codes or under zoning amnesties?",
+        "Source for the casualty and magnitude figures (USGS, AFAD, Kandilli) and how the two shocks relate?",
+        "Why link building codes to 30:41, which speaks of corruption in land and sea?"
+      ],
+      "scores": { "answers": 6, "depth": 4, "evidence": 5, "fairness": 7, "clarity": 6, "honesty": 6 },
+      "satisfaction": 5,
+      "why": "Magnitudes and fault are right, but 'Damage correlated strongly with construction quality' has no numbers or source, and tying it to 'the human dimension 30:41 points to' stretches the verse."
+    },
+    "hurting": {
+      "followUps": [
+        "I lost my family in Hatay. Were they being punished? Was it because of our sins?",
+        "Is it wrong that I feel guilty for surviving, or angry at God?",
+        "Where exactly can I get help, with a phone number or link?"
+      ],
+      "scores": { "answers": 7, "depth": 5, "evidence": 6, "fairness": 6, "clarity": 6, "honesty": 7 },
+      "satisfaction": 6,
+      "why": "'The Prophet called believers dying under collapsed buildings martyrs, the opposite of punishment' is exactly what a survivor needs, and the support box names AFAD, but the psychological section is two lines."
+    },
+    "skeptic": {
+      "followUps": [
+        "If the whole justice question is outsourced to Q1, what does this page add beyond 'not punishment'?",
+        "Isn't 'Görmez attributes this to limited natural knowledge' just dropping the classical view because it is now embarrassing?",
+        "Why did senior figures frame it as 'kader planı', and how widespread is the punishment reading among Turkish preachers?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 6, "fairness": 5, "clarity": 6, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "The objection 'God could have made a world without lethal quakes' gets a one-sentence pointer ('Response: Q1's soul-making and stable-law defences, with honest limits') instead of an answer."
+    }
+  },
+  "missing": [
+    "A real treatment of the justice question on this page (why permit it, children), not only 'See Q1'",
+    "Explanation of 42:30 and 64:11 alongside the 'not punishment' reading, so verses that seem to say the opposite are faced",
+    "Kader versus human responsibility (why contractors can be blamed) in plain words",
+    "Numbers and a source for the construction-quality claim; drop or soften the link to 30:41",
+    "Named scholars for restricting ʿĀd/Thamūd to rejected-prophet cases; what al-Suyūṭī and Nursi actually say",
+    "Plain explanation of Diyanet, AFAD, kader, musibet, sunnatullāh"
+  ],
+  "strengths": [
+    "Concrete, sourced casualty figures and a named, dated event",
+    "The collapsed-building martyrdom hadith with references",
+    "Görmez's quoted words, including 'because there are innocent children'",
+    "Careful wording: 'Media reported Diyanet's ruling as saying...'",
+    "Honest limits that admit punishment verses exist and say why they do not apply",
+    "Support box with AFAD psychosocial support"
+  ]
+}

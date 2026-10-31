@@ -1,0 +1,59 @@
+{
+  "id": "Q11",
+  "path": "en/ask/hadith-reliability/",
+  "group": "ask",
+  "words": 723,
+  "readers": {
+    "doubter": {
+      "followUps": ["So is the Aisha marital-age hadith authentic or not, and what should I believe?", "How did the testing system actually work: who judged narrators, and by what rules?", "What do I do with a ṣaḥīḥ hadith that seems morally wrong?"],
+      "scores": { "answers": 7, "depth": 6, "evidence": 7, "fairness": 8, "clarity": 5, "honesty": 9 },
+      "satisfaction": 7,
+      "why": "Rare candour ('Some ṣaḥīḥ hadith are contested by serious academics; classical grading is strong, not infallible'), but dense, and morally troubling hadith get only 'grading, context'."
+    },
+    "outsider": {
+      "followUps": ["What is a hadith, and how is it different from the Quran?", "What are Bukhārī and Muslim, and why are they trusted so much?", "What is the Sunna?"],
+      "scores": { "answers": 6, "depth": 6, "evidence": 6, "fairness": 7, "clarity": 4, "honesty": 8 },
+      "satisfaction": 5,
+      "why": "The page never defines hadith, Sunna, isnād or matn, so an outsider follows the debate but not its basics."
+    },
+    "student": {
+      "followUps": ["What are the grading terms (ṣaḥīḥ, ḥasan, ḍaʿīf, mutawātir, āḥād) and the canonical collections?", "Which content signs of fabrication does Ibn al-Qayyim list in al-Manār al-Munīf? Give examples.", "How do Ḥanafīs weigh āḥād reports against principles? One worked case."],
+      "scores": { "answers": 7, "depth": 6, "evidence": 7, "fairness": 7, "clarity": 6, "honesty": 8 },
+      "satisfaction": 7,
+      "why": "Schools (Ḥanafī, Māturīdī, Atharī, Shiʿi) and named works are a real gain, but grading terms and a worked example are missing."
+    },
+    "scientist": {
+      "followUps": ["Which memory studies show high-fidelity transmission in recitation cultures?", "Was hadith transmission 'formal recitation' or closer to 'casual anecdote'? The page does not say.", "Has anyone estimated error or fabrication rates?"],
+      "scores": { "answers": 6, "depth": 4, "evidence": 3, "fairness": 7, "clarity": 6, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "The science is one unsourced sentence and leaves open the key question of which category hadith fall into."
+    },
+    "hurting": {
+      "followUps": ["Quranism was a relief from hadith that hurt me; am I outside Islam?", "Show me how the classical tools actually handle one troubling hadith."],
+      "scores": { "answers": 6, "depth": 5, "evidence": 5, "fairness": 7, "clarity": 6, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "'That relief is real' is respectful, but the promised 'another way' is never shown on an actual example."
+    },
+    "skeptic": {
+      "followUps": ["What did Schacht and Juynboll actually argue (the common link, isnāds growing backwards), and how exactly does Motzki's ICMA answer them?", "Doesn't 'how to pray depends on practice' support mass-transmitted practice, not the written hadith corpus?", "What is the al-Zuhrī transmission Little is said to have missed, and how strong is it?"],
+      "scores": { "answers": 7, "depth": 6, "evidence": 7, "fairness": 8, "clarity": 5, "honesty": 8 },
+      "satisfaction": 7,
+      "why": "The steelman is real (Little's thesis is named and its counter given), but Schacht's case is only a name and 'rejected thousands of reports' is vague."
+    }
+  },
+  "missing": [
+    "Define hadith, Sunna, isnād, matn and the grading terms for newcomers",
+    "Explain the Schacht/Juynboll argument before answering it",
+    "One worked example of grading, and one of handling a morally troubling hadith",
+    "Separate the 'practice' argument from the reliability of the hadith corpus",
+    "Sources for the memory research and which category hadith transmission fits",
+    "Turn the dense notes into flowing prose"
+  ],
+  "strengths": [
+    "The steelman names a real, recent case (Little's Oxford thesis) and gives both sides",
+    "'Neither extreme holds' is a clear, honest position",
+    "Range of schools, including Shiʿi grading",
+    "Turkish context (Kuran İslamı, DergiPark, Turkish faculties' matn criticism)",
+    "Admits classical grading is 'strong, not infallible'"
+  ]
+}

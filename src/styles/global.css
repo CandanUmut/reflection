@@ -239,6 +239,41 @@ a:hover {
 }
 
 /* Evidence tags: small, calm, never shouting. */
+.hadith {
+  white-space: normal;
+}
+.hadith__ref {
+  font-variant-numeric: tabular-nums;
+}
+/* A hadith's grade, as the scholars named in it gave it (src/data/hadith.json).
+   Sound grades are quiet; a weak grade is marked with a dashed border, so it
+   is never mistaken for a sound one. */
+.grade {
+  display: inline;
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.02em;
+  line-height: 1.5;
+  padding: 0 0.45em;
+  border: 1px solid var(--hairline-strong);
+  border-radius: var(--radius);
+  color: var(--ink-soft);
+  vertical-align: 0.1em;
+  box-decoration-break: clone;
+}
+.grade--sahih {
+  color: var(--life);
+}
+.grade--hasan {
+  color: var(--water);
+}
+.grade--daif,
+.grade--mixed {
+  border-style: dashed;
+  color: var(--lamp);
+}
+
 .tag {
   display: inline-block;
   font-family: var(--font-ui);

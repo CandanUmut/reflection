@@ -1,0 +1,84 @@
+{
+  "id": "Q1",
+  "path": "en/ask/suffering/",
+  "group": "ask",
+  "words": 480,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "What are the 'partial reasons' actually? How does free will or soul-making explain a child's cancer or an earthquake that kills thousands?",
+        "If the evidential problem 'remains serious', why should I keep trusting rather than conclude God is not good?",
+        "What does 'animal recompense (Muslim 2582)' mean, and how does it help with hundreds of millions of years of animal pain?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 5, "fairness": 6, "clarity": 4, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The objection is stated fairly and the page admits “The 'evidential' problem remains serious”, but the reasons are only named (“free will, soul-making, natural regularity and sceptical theism”), never explained, so the doubter leaves with the same question."
+    },
+    "outsider": {
+      "followUps": [
+        "What is the difference between the 'logical' and the 'evidential' problem, and who answered the logical one?",
+        "Who are the Ash'aris and Maturidis, and why does their difference matter here?",
+        "What does it mean to Muslims that life is a 'test': tested for what, and judged how?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 5, "clarity": 3, "honesty": 7 },
+      "satisfaction": 3,
+      "why": "Reads like research notes: 'theodicy', 'sceptical theism', 'Ash'aris', 'ḥikma' and 'TRSM' are not explained, and lines such as “Turkish teachers rank it first” and “Konya workshop declaration” mean nothing to a visitor."
+    },
+    "student": {
+      "followUps": [
+        "Where in the Iḥyā' does al-Ghazali say there is 'nothing more wonderful than what is', and who disputed it and why is it marked Debated?",
+        "What exactly does Muslim 2582 say, and how is it graded?",
+        "In which works do Ibn Taymiyya and Nursi make the arguments attributed to them, and how do they argue them?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 6, "fairness": 5, "clarity": 4, "honesty": 6 },
+      "satisfaction": 5,
+      "why": "Verse and hadith numbers and named scholars are a real start, but each scholar gets one line with no work cited, no hadith grading, and no explanation of why the Ghazali line is contested."
+    },
+    "scientist": {
+      "followUps": [
+        "Which studies show that positive religious coping predicts better outcomes than negative coping, and how large is the effect?",
+        "How exactly does plate tectonics stabilize long-term climate, over what timescale, and does that require earthquakes at today's rate and locations?",
+        "How does the page deal with animal suffering across deep time, before any humans existed?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 5, "clarity": 5, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "Good that the theodicy use of plate tectonics is flagged as Debated, but the tectonics and coping claims come with no mechanism, no numbers and no study named."
+    },
+    "hurting": {
+      "followUps": [
+        "Is it a sign of weak faith that I am angry at God after my loss?",
+        "What does Islam say about the person I lost and about whether my pain is seen?",
+        "What does 'solidarity now' look like in practice: what can my community or I actually do?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 5, "clarity": 4, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The support box, “grief is legitimate”, the Prophet weeping for Ibrahim and “Grief needs presence before argument” are right, but the page then gives exactly the opposite: bullet-point arguments, opening with “It is the strongest atheist argument”, and no words that speak to a grieving person."
+    },
+    "skeptic": {
+      "followUps": [
+        "If the Ash'ari view grounds justice in God's sovereignty, has 'good' lost its ordinary meaning, and how does the page answer that?",
+        "Why would infants and animals, who cannot be 'tested', suffer?",
+        "Which philosophers 'widely regard' the logical problem as answered (Plantinga?), and what do critics reply?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 6, "clarity": 4, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "The steelman is decent and the page concedes the responses “reduce the problem but do not dissolve it”, but “Philosophers widely regard the 'logical' problem as answered” is asserted with no source, and the obvious problems of the 'test' answer (infants, animals, voluntarism) are skipped."
+    }
+  },
+  "missing": [
+    "Prose explanation of each defence (free will, soul-making, natural regularity, sceptical theism) and how far it actually goes with concrete cases",
+    "Plain-language explanation of the logical vs evidential problem, with who argued what",
+    "A gentle section that speaks directly to a grieving reader before any argument",
+    "Explanation of the Ash'ari/Maturidi difference and of the debated Ghazali line, with works cited",
+    "Hadith gradings and what Muslim 2582 says; how 'test' applies to infants and animals",
+    "Sources for the religious-coping research and the plate-tectonics/climate mechanism",
+    "Remove internal notes visitors cannot understand ('Turkish teachers rank it first', 'Konya workshop declaration')"
+  ],
+  "strengths": [
+    "Strong, fair statement of the question including animal pain across deep time",
+    "Honest concessions: evidential problem remains serious; responses reduce but do not dissolve it; no theodicy explains individual cases",
+    "Prophet weeping for Ibrahim (Bukhari 1303) and grief being legitimate",
+    "Support box with concrete Türkiye resources",
+    "Theodicy use of plate tectonics labelled as Debated, separate from the established geophysics"
+  ]
+}

@@ -1,8 +1,10 @@
 ---
 // A question page as a layered answer (DESIGN.md §4.5): the steelmanned
 // question first, in full and with respect → why it is asked → short answer
-// → depth layers the reader opens by choice → honest limits (always visible)
-// → help card where needed → sources.
+// → the full answer (Quran, Sunnah, scholars, fiqh, history or science, the
+// strongest objection), folded behind "Read the full answer" when long →
+// depth layers the reader opens by choice → range of views → questions readers
+// ask next → honest limits (always visible) → help card where needed → sources.
 import type { CollectionEntry } from 'astro:content';
 import VerseBlock from './VerseBlock.astro';
 import VerseList from './VerseList.astro';
@@ -10,7 +12,7 @@ import HonestNote from './HonestNote.astro';
 import HelpCard from './HelpCard.astro';
 import RangeOfViews from './RangeOfViews.astro';
 import Sources from './Sources.astro';
-import { md } from '../lib/md';
+import { md, mdInline } from '../lib/md';
 import { t, type Locale, type UiKey } from '../i18n/ui';
 
 interface Props {
@@ -18,6 +20,22 @@ interface Props {
   lang: Locale;
 }
 const { q, lang } = Astro.props;
+const sectionLabel: Record<string, UiKey> = {
+  quran: 'secQuran',
+  sunnah: 'secSunnah',
+  scholars: 'secScholars',
+  fiqh: 'secFiqh',
+  history: 'secHistory',
+  science: 'secScience',
+  reasoning: 'secReasoning',
+  objection: 'secObjection',
+  heart: 'secHeart',
+};
+// Reading time of the full answer, at about 200 words a minute. Above ~700
+// words, everything after the first part waits behind "Read the full answer".
+const fullWords = (q.fullAnswer ?? []).reduce((n, s) => n + s[lang].split(/\s+/).length, 0);
+const minutes = Math.max(1, Math.round(fullWords / 200));
+const folded = fullWords > 700 && (q.fullAnswer?.length ?? 0) > 1;
 const layerLabel: Record<string, UiKey> = {
   religious: 'layerReligious',
   philosophical: 'layerPhilosophical',
@@ -55,21 +73,59 @@ const layerLabel: Record<string, UiKey> = {
 
   {q.helpCard && q.helpCard !== 'general' && <HelpCard lang={lang} variant={q.helpCard} />}
 
-  <section class="depth" aria-labelledby="depth-title">
-    <h2 class="label" id="depth-title">
-      {t(lang, 'goDeeper')}
-    </h2>
-    {q.layers.map((layer) => (
-      <details class="depth__layer">
-        <summary>{t(lang, layerLabel[layer.kind])}</summary>
-        <div class="depth__body">
-          <Fragment set:html={md(layer[lang], lang)} />
-        </div>
-      </details>
-    ))}
-  </section>
+  {q.fullAnswer && (
+    <section class="full" aria-labelledby="full-title" data-full={folded ? '' : undefined}>
+      <h2 id="full-title">
+        {t(lang, 'fullAnswer')}
+        <span class="full__time">
+          · {minutes} {t(lang, 'minRead')}
+        </span>
+      </h2>
+      {q.fullAnswer.map((part, i) => (
+        <section class="full__part" data-part={i}>
+          <h3>{part.title?.[lang] ?? t(lang, sectionLabel[part.kind])}</h3>
+          <Fragment set:html={md(part[lang], lang)} />
+        </section>
+      ))}
+      {folded && (
+        <button class="full__more btn" type="button" hidden>
+          {t(lang, 'readMore')}
+        </button>
+      )}
+    </section>
+  )}
+
+  {q.layers.length > 0 && (
+    <section class="depth" aria-labelledby="depth-title">
+      <h2 class="label" id="depth-title">
+        {t(lang, 'goDeeper')}
+      </h2>
+      {q.layers.map((layer) => (
+        <details class="depth__layer">
+          <summary>{t(lang, layerLabel[layer.kind])}</summary>
+          <div class="depth__body">
+            <Fragment set:html={md(layer[lang], lang)} />
+          </div>
+        </details>
+      ))}
+    </section>
+  )}
 
   {q.rangeOfViews && <RangeOfViews lang={lang} range={q.rangeOfViews} />}
+
+  {q.followUps && q.followUps.length > 0 && (
+    <section class="followups" aria-labelledby="followups-title">
+      <h2 id="followups-title">{t(lang, 'followUps')}</h2>
+      {q.followUps.map((f) => (
+        <details class="followups__item">
+          <summary set:html={mdInline(f.q[lang], lang)} />
+          <div class="followups__body">
+            <Fragment set:html={md(f.a[lang], lang)} />
+          </div>
+        </details>
+      ))}
+    </section>
+  )}
 
   <HonestNote lang={lang} label={t(lang, 'honestLimits')}>
     <Fragment set:html={md(q.honestLimits[lang], lang)} />
@@ -91,6 +147,50 @@ const layerLabel: Record<string, UiKey> = {
 </article>
 
 <style>
+  .full {
+    margin-block: var(--space-6) var(--space-5);
+  }
+  .full > h2 {
+    font-size: var(--step-1);
+  }
+  .full__time {
+    font-family: var(--font-ui);
+    font-size: 0.8rem;
+    font-weight: 400;
+    color: var(--ink-soft);
+  }
+  .full__part {
+    margin-top: var(--space-5);
+  }
+  .full__part h3 {
+    font-size: var(--step-0);
+    font-family: var(--font-display);
+    font-weight: 600;
+    margin-bottom: var(--space-2);
+  }
+  .full__more {
+    margin-top: var(--space-4);
+  }
+  .followups {
+    margin-block: var(--space-6) var(--space-5);
+  }
+  .followups > h2 {
+    font-size: var(--step-1);
+  }
+  .followups__item {
+    border-top: var(--rule);
+  }
+  .followups__item:last-child {
+    border-bottom: var(--rule);
+  }
+  .followups__item summary {
+    font-family: var(--font-text);
+    font-size: var(--step-0);
+    font-style: italic;
+  }
+  .followups__body {
+    padding-bottom: var(--space-3);
+  }
   .question__head {
     padding-top: var(--space-6);
     margin-bottom: var(--space-5);
@@ -165,3 +265,32 @@ const layerLabel: Record<string, UiKey> = {
     margin-top: var(--space-6);
   }
 </style>
+
+<script>
+  // "Read the full answer": a long answer shows its first part, and the rest
+  // waits behind one button. The hidden parts stay findable with the browser's
+  // find-in-page (hidden="until-found"), which opens them. Without JavaScript
+  // the whole answer is simply shown.
+  for (const full of document.querySelectorAll<HTMLElement>('[data-full]')) {
+    const parts = [...full.querySelectorAll<HTMLElement>('.full__part')].slice(1);
+    const button = full.querySelector<HTMLButtonElement>('.full__more');
+    if (!button || !parts.length) continue;
+    const open = () => {
+      for (const p of parts) p.removeAttribute('hidden');
+      button.remove();
+    };
+    for (const p of parts) {
+      p.setAttribute('hidden', 'until-found');
+      p.addEventListener('beforematch', open);
+    }
+    button.hidden = false;
+    button.addEventListener('click', () => {
+      open();
+      const h = parts[0].querySelector<HTMLElement>('h3');
+      if (h) {
+        h.tabIndex = -1;
+        h.focus();
+      }
+    });
+  }
+</script>

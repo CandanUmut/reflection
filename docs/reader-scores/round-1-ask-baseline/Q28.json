@@ -1,0 +1,81 @@
+{
+  "id": "Q28",
+  "path": "en/ask/why-islam/",
+  "group": "ask",
+  "words": 349,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "Christians also say their scripture is preserved and their prophet historical. What actually makes Islam's case stronger?",
+        "What do 2:62 and 3:85 say, and how do scholars read them differently?",
+        "The page says 'apply the same criteria'. What happens when you do?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 3, "fairness": 4, "clarity": 4, "honesty": 5 },
+      "satisfaction": 3,
+      "why": "It asserts three strengths (monotheism, preservation, traceable prophet) and then tells the reader to compare faiths without doing any comparison, so the doubter leaves with the same question."
+    },
+    "outsider": {
+      "followUps": [
+        "What does Islam say about Jesus, Moses and the earlier scriptures, concretely?",
+        "What does 'continuation of all the earlier prophets' mean in practice?",
+        "Does Islam teach that sincere followers of other religions can be saved?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 3, "fairness": 4, "clarity": 4, "honesty": 5 },
+      "satisfaction": 3,
+      "why": "The respectful tone helps, but verses are given as bare numbers ('2:285; 5:48; 2:62...; 29:46; 3:85') and the outsider is never told what most of them say."
+    },
+    "student": {
+      "followUps": [
+        "Quote 5:48, 2:62 and 3:85 and lay out the classical readings (abrogation of 2:62 by 3:85 versus non-abrogation; Tabari, Ibn Kathir, others).",
+        "What exactly do Nasr and Winter argue about din al-fitra, and in which works?",
+        "What are the classical arguments for Islam over Christianity and Judaism (e.g. Ibn Taymiyya's al-Jawab al-sahih, Ibn Hazm)?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 3, "fairness": 4, "clarity": 4, "honesty": 5 },
+      "satisfaction": 3,
+      "why": "'2:62 (read differently by different scholars)' flags the key debate and then says nothing about it."
+    },
+    "scientist": {
+      "followUps": [
+        "What is the evidence behind 'The Quran's transmission is well documented'? Manuscripts, dates, variants?",
+        "What would count as evidence for one religion over another, and how is it weighed here?",
+        "What are 'the same criteria', listed explicitly?"
+      ],
+      "scores": { "answers": 3, "depth": 2, "evidence": 2, "fairness": 4, "clarity": 4, "honesty": 4 },
+      "satisfaction": 3,
+      "why": "The single historical claim ('The Quran's transmission is well documented') has no source, no data and no caveat."
+    },
+    "hurting": {
+      "followUps": [
+        "My closest friend is Christian. Does Islam say she is wrong, or lost?",
+        "How do I hold conviction and respect together in practice?",
+        "Where do I go for the question of whether my friend will be saved?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 3, "fairness": 5, "clarity": 4, "honesty": 5 },
+      "satisfaction": 4,
+      "why": "'Conviction can coexist with respect' and 29:46 are kind and useful, but the reader gets no help with the friendship that prompted the question."
+    },
+    "skeptic": {
+      "followUps": [
+        "'Well-preserved scripture': what about the Sana'a palimpsest, the variant readings (qira'at), and the Uthmanic standardisation?",
+        "Every tradition claims to be the continuation of what came before; why is Islam's claim more than its own self-description?",
+        "Why does the page tell the reader to apply the same criteria to Islam's weaknesses and then name none?"
+      ],
+      "scores": { "answers": 3, "depth": 2, "evidence": 2, "fairness": 3, "clarity": 4, "honesty": 4 },
+      "satisfaction": 2,
+      "why": "It overclaims ('well-preserved scripture', 'transmission is well documented') with no evidence and no caveat, and it recommends even-handed comparison without doing any, which a skeptic will read as evasion."
+    }
+  },
+  "missing": [
+    "An actual comparison: what Islam claims versus Christianity, Judaism and non-Abrahamic faiths, and why",
+    "Evidence and caveats for the preservation claim (manuscripts, radiocarbon dating, Sana'a, qira'at)",
+    "Quote and explain 2:62, 3:85 and 5:48 and the scholarly readings of them",
+    "Name Islam's weak points and apply 'the same criteria' to them, as the page itself recommends",
+    "What Nasr, Winter, Khalil and Sachedina actually argue",
+    "Every section is one line; the page needs prose, not notes"
+  ],
+  "strengths": [
+    "Respectful framing: 'Conviction can coexist with respect' and 29:46",
+    "Honest limit 'The case is strong, but it does not compel' is the right register",
+    "Flags that 2:62 is read differently, so the debate is at least acknowledged"
+  ]
+}

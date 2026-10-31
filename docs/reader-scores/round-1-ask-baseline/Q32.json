@@ -1,0 +1,125 @@
+{
+  "id": "Q32",
+  "path": "en/ask/is-deism-stable/",
+  "group": "ask",
+  "words": 465,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "Why would a good Creator not stay silent? The page just says He 'would hardly stay silent'. What is the actual argument?",
+        "Even if God speaks, why think He spoke through Muhammad and not through another tradition, or not at all?",
+        "If my deism is partly a reaction to how religious people behave, does that make my objection wrong?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 3,
+        "clarity": 4,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "The short answer ('A good Creator would hardly stay silent') is the right idea, but it is asserted in one sentence and never argued, so the doubter leaves with the same question."
+    },
+    "outsider": {
+      "followUps": [
+        "What exactly is deism, and how is it different from what Muslims believe about God?",
+        "What are luṭf and ḥikma, and which Muslim thinkers argued from them that God must send prophets?",
+        "Why was there a national debate about deism in Türkiye in 2018?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 3,
+        "clarity": 3,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "Deism is never defined, the Turkish context assumes the reader already knows it, and 'See also Q3' is an internal code a visitor cannot follow."
+    },
+    "student": {
+      "followUps": [
+        "Which kalām scholars argued from God's grace (luṭf) and wisdom (ḥikma) that prophecy is necessary, and in which works?",
+        "How did classical mufassirūn read 6:91 ('they did not appraise Allah with true appraisal')?",
+        "How did Ashʿarī and Muʿtazilī theologians differ on whether sending prophets is required of God?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 3,
+        "clarity": 4,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "The verses are well chosen and quoted in full, but the theology is only named ('the classical ideas of God's grace (luṭf) and wisdom (ḥikma)') with no scholar, work or explanation."
+    },
+    "scientist": {
+      "followUps": [
+        "How did the TİDA/Nişancı survey define 'actual deism' versus 'feel close to the label', and what was the sample?",
+        "What does KONDA 2025 show? It is in the sources but no figure from it appears on the page.",
+        "What is the evidence that English and French deism 'faded within a few generations'?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 5,
+        "fairness": 4,
+        "clarity": 5,
+        "honesty": 6
+      },
+      "satisfaction": 3,
+      "why": "The survey numbers (under 2% actual deism, 11% of 18–24-year-olds close to the label) are useful, but the method is unexplained and the historical claim is unsourced."
+    },
+    "hurting": {
+      "followUps": [
+        "My brother/child has become a deist. How should I talk with them without pushing them away?",
+        "If I am a deist myself, am I still in some relationship with God, or am I lost?",
+        "What does 'A deist pause deserves patience' mean in practice?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 3,
+        "fairness": 3,
+        "clarity": 5,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "'A deist pause deserves patience' and 'Some people remain deists for life' are kind and honest, but 'Much Turkish \"deism\" is a protest against religious people' can feel like the reader's thinking is being explained away."
+    },
+    "skeptic": {
+      "followUps": [
+        "What about divine hiddenness (Schellenberg): if a loving God would communicate, why is that communication so ambiguous and so contested?",
+        "Why is the fading of English and French deism evidence that the position is unstable rather than evidence of social pressure or changing fashions?",
+        "Why should the reader move from 'God communicates' to Islam in particular?"
+      ],
+      "scores": {
+        "answers": 2,
+        "depth": 1,
+        "evidence": 3,
+        "fairness": 2,
+        "clarity": 4,
+        "honesty": 4
+      },
+      "satisfaction": 2,
+      "why": "The steelman is one sentence of self-description, not an argument; the reply is two slogans; and calling deism a 'resting place, not a destination' assumes the conclusion."
+    }
+  },
+  "missing": [
+    "A real steelman of deism: why a thinking person concludes a Creator exists but revelation does not (contradictions between religions, moral problems in scripture, hiddenness).",
+    "The actual argument from God's goodness and wisdom to revelation, with the scholars who made it (named works), and the Ashʿarī/Muʿtazilī difference on it.",
+    "A definition of deism and a short history (English/French deism, why it faded) with sources.",
+    "Engagement with divine hiddenness and with the step from 'God speaks' to Islam.",
+    "The KONDA 2025 finding listed in sources; the method behind the 2% / 11% figures.",
+    "Gentle guidance for family members of deists; replace internal codes ('See also Q3') with linked titles.",
+    "No evidence labels ([Established]/[Scholarly]/[Debated]) appear anywhere on the page."
+  ],
+  "strengths": [
+    "Concrete Turkish context with dates and numbers (Konya workshop, 4 March 2018; under 2% vs 11%).",
+    "The honest limit 'Some people remain deists for life.'",
+    "'A deist pause deserves patience' — a non-hostile tone toward the reader.",
+    "Apt verses: 6:91 directly addresses 'Allah did not reveal to a human being anything'."
+  ]
+}

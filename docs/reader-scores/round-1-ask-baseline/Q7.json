@@ -1,0 +1,83 @@
+{
+  "id": "Q7",
+  "path": "en/ask/apostasy/",
+  "group": "ask",
+  "words": 561,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "How do the 'treason, not belief' scholars read 'whoever changes his religion, kill him'? What is their argument about this hadith?",
+        "In which countries is apostasy punishable today, and what is the situation in Türkiye?",
+        "Did the Prophet ever have anyone executed only for leaving Islam?"
+      ],
+      "scores": { "answers": 6, "depth": 3, "evidence": 5, "fairness": 6, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "It answers directly and admits “Classical jurists did prescribe execution”, but never explains how the reformist view deals with the hadith it quotes, and it says nothing about the reader's actual safety."
+    },
+    "outsider": {
+      "followUps": [
+        "Who are the Hanafis, and what is Diyanet?",
+        "What do the 2:217 and 5:54 verses say about apostasy?",
+        "What is the law on apostasy in Muslim countries today?"
+      ],
+      "scores": { "answers": 6, "depth": 3, "evidence": 5, "fairness": 6, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "Clear about both the classical rule and the modern argument, with useful Pew numbers, but terms like 'Hanafis' and 'Diyanet Haber' are unexplained."
+    },
+    "student": {
+      "followUps": [
+        "What did each of the four schools rule, including the waiting period for repentance (istitāba)?",
+        "What other hadith are used (for example the one listing three cases where blood may be shed), and how strong is the treason reading of them?",
+        "Which classical scholars besides Sufyan al-Thawri questioned execution, and where is that reported?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 5, "fairness": 5, "clarity": 4, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "Bukhari 3017, the Hanafi ruling on women and Dalgın are good, but there are no school positions, no chain or wording discussion of the hadith, and al-Thawri is only “reported”."
+    },
+    "scientist": {
+      "followUps": [
+        "How have these Pew attitudes changed over time, and how do they vary by age or education?",
+        "What were the sample sizes and question wording?",
+        "Is there data on how often apostasy laws are enforced today?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 6, "fairness": 6, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "The Pew figures (88% in Egypt, 28% median across 37 countries) are specific and fairly framed, but that is the only data on the page."
+    },
+    "hurting": {
+      "followUps": [
+        "I am doubting or have left. Am I in danger, and what should I do to stay safe?",
+        "How should my family treat me under this reformist view?",
+        "Will God punish me for doubting, even if no one else does?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 3, "fairness": 5, "clarity": 4, "honesty": 6 },
+      "satisfaction": 3,
+      "why": "The page says “Doubters fear for their safety” and then offers only a general mental-health box (“These topics can weigh on people”), with no practical safety guidance and no word for families."
+    },
+    "skeptic": {
+      "followUps": [
+        "The hadith says 'changes his religion', not 'betrays the state'. What justifies reading it as treason?",
+        "'Widely held today' by whom, when Pew shows majorities for death in some countries and apostasy laws still exist?",
+        "Is not executing women really evidence that the penalty was about combat?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 5, "clarity": 4, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "Honest that “The reformist reading is an argument, not the uniform historical view”, but “[Debated] (but widely held today)” is unclear, the treason inference from the Hanafi ruling on women is weak, and current apostasy laws are skipped."
+    }
+  },
+  "missing": [
+    "The reformist argument about the hadith's wording and context, set against the classical reading",
+    "The four schools' positions, istitāba, and the other hadith used",
+    "Current apostasy and blasphemy laws in Muslim-majority countries, and the situation in Türkiye",
+    "Practical safety guidance for doubters and guidance for families",
+    "Clarify who holds the view 'widely held today'",
+    "Explain Hanafi, Diyanet and other terms for outsiders"
+  ],
+  "strengths": [
+    "Direct: admits classical jurists prescribed execution and quotes the hadith used",
+    "Quran verses on apostasy with no worldly penalty, and 2:256",
+    "Specific, fairly framed Pew data that admits the gap between ideal and attitudes",
+    "Honest limit: the reformist reading is not the uniform historical view",
+    "Named Turkish scholarship (Dalgın, İSAM)"
+  ]
+}

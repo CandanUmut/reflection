@@ -20,6 +20,11 @@ const visualization = text.extend({
   labels: z.object({ tr: z.record(z.string(), z.string()), en: z.record(z.string(), z.string()) }).optional(),
   steps: z.object({ tr: z.array(z.string()), en: z.array(z.string()) }).optional(),
 });
+/** One section of a full answer. `kind` picks its heading; `title` may replace it. */
+const fullAnswerSection = text.extend({
+  kind: z.enum(['quran', 'sunnah', 'scholars', 'fiqh', 'history', 'science', 'reasoning', 'objection', 'heart']),
+  title: text.optional(),
+});
 
 const signs = defineCollection({
   loader: glob({ pattern: '*.yaml', base: './src/content/signs' }),
@@ -67,11 +72,17 @@ const questions = defineCollection({
     steelman: text,
     whyAsked: text,
     shortAnswer: text,
-    layers: z.array(
-      text.extend({
-        kind: z.enum(['religious', 'philosophical', 'scientific', 'clinical', 'psychological', 'history']),
-      }),
-    ),
+    layers: z
+      .array(
+        text.extend({
+          kind: z.enum(['religious', 'philosophical', 'scientific', 'clinical', 'psychological', 'history']),
+        }),
+      )
+      .default([]),
+    /** Phase 6 onward: the full answer, in sections the reader can follow (CONTENT_PLAN.md §4). */
+    fullAnswer: z.array(fullAnswerSection).optional(),
+    /** Follow-up questions readers asked (reader critic), each answered from the research. */
+    followUps: z.array(z.object({ q: text, a: text })).optional(),
     /** Positions named in the research, set along one line (DESIGN.md §4.6). */
     rangeOfViews: z
       .object({

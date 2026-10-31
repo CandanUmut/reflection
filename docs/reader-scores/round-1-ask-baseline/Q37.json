@@ -1,0 +1,123 @@
+{
+  "id": "Q37",
+  "path": "en/ask/spiritual-not-religious/",
+  "group": "ask",
+  "words": 197,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "Why can't faith in the heart be enough? The page says practice 'sustains it' but doesn't show why.",
+        "What is the minimum practice Islam asks of me, and what does 'start small' mean in concrete steps?",
+        "What if mosques and religious communities are where I was hurt?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 3,
+        "clarity": 5,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "'As body and soul go together' is a metaphor, not an argument, and the reader is left without concrete guidance."
+    },
+    "outsider": {
+      "followUps": [
+        "What is the hadith of Jibrīl, and what does it say about islām, īmān and iḥsān?",
+        "Who was al-Qushayrī, and what did he say about inner and outer religion?",
+        "How do Muslims see Sufism, which many outsiders think of as 'spiritual Islam'?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 3,
+        "clarity": 3,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "The religious section is a list of references ('103:3; the hadith of Jibrīl (Muslim 8); al-Qushayrī') that an outsider cannot unpack."
+    },
+    "student": {
+      "followUps": [
+        "What exactly does the hadith of Jibrīl (Muslim 8) teach, and how did scholars use it to link belief and practice?",
+        "Which work of al-Qushayrī (the Risāla?) and which passage?",
+        "How do the schools of theology differ on whether deeds are part of īmān (Ashʿarī/Māturīdī vs Ḥanbalī)?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 5,
+        "fairness": 3,
+        "clarity": 4,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "The right sources are named, but none is explained, and the classic debate on whether deeds are part of faith, which is exactly this question, is missing."
+    },
+    "scientist": {
+      "followUps": [
+        "Over what years did KONDA's figure rise from 31% to 34%, and with what sample?",
+        "What does research show about wellbeing or community among 'spiritual but not religious' people compared with practising believers?",
+        "What did Heelas & Woodhead actually find in their study?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 6,
+        "fairness": 4,
+        "clarity": 5,
+        "honesty": 6
+      },
+      "satisfaction": 3,
+      "why": "The Pew figure is precise (27%, up 8 points, 5,002 adults, 2017), but KONDA has no years and 'Individualised religion lacks community' is a one-line summary of a whole study."
+    },
+    "hurting": {
+      "followUps": [
+        "I was hurt by religious people and now keep my faith private. Is that wrong?",
+        "Can I be close to God without going to a mosque right now?",
+        "How do I 'start small' when even prayer feels heavy?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 3,
+        "fairness": 4,
+        "clarity": 5,
+        "honesty": 5
+      },
+      "satisfaction": 4,
+      "why": "'An in-between stage can be healthy' and 'Start small' are kind, but the page does not acknowledge why many people step away from institutions."
+    },
+    "skeptic": {
+      "followUps": [
+        "Why should private spirituality be seen as a stage rather than a legitimate end point?",
+        "Isn't the case for community just as well met by non-religious communities?",
+        "Why is the page so sure practice is needed when it gives no evidence that it is?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 2,
+        "clarity": 5,
+        "honesty": 4
+      },
+      "satisfaction": 3,
+      "why": "The objection 'Why not keep faith personal?' is answered with a metaphor and a citation list; the reasons people choose this path are never put at full strength."
+    }
+  },
+  "missing": [
+    "A real argument for why practice sustains faith, in prose, with the hadith of Jibrīl and 103:1–3 explained.",
+    "The classical debate on whether deeds are part of īmān, with the schools' positions.",
+    "The steelman: why people step away from institutions (hurt, hypocrisy, rigidity).",
+    "Concrete 'start small' steps.",
+    "KONDA years and sample; an accurate summary of Heelas & Woodhead; research on wellbeing.",
+    "No evidence labels appear on the page."
+  ],
+  "strengths": [
+    "Precise Pew figure with sample and year.",
+    "Honest limit about KONDA's broad 'believer' category.",
+    "Gentle tone: 'An in-between stage can be healthy', 'Start small'."
+  ]
+}

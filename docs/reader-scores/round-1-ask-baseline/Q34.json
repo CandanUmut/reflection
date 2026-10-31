@@ -1,0 +1,124 @@
+{
+  "id": "Q34",
+  "path": "en/ask/consciousness/",
+  "group": "ask",
+  "words": 203,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "Brain damage, anaesthesia and drugs change who we are. Doesn't that show the mind is just the brain?",
+        "Does Islam require a soul separate from the body, or could a Muslim accept that the mind comes from the brain?",
+        "If AI one day seems conscious, what would that mean for the soul?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 5,
+        "fairness": 3,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 4,
+      "why": "The hard problem is correctly named and the honest limit is good, but the strongest point of the objection (mind depends closely on brain) is never faced."
+    },
+    "outsider": {
+      "followUps": [
+        "What exactly is the 'hard problem', in plain words, and why is it hard?",
+        "What do Muslims mean by rūḥ (spirit) and nafs (self), and are they the same thing?",
+        "What does amr ('command') mean in 17:85?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 5,
+        "fairness": 4,
+        "clarity": 4,
+        "honesty": 7
+      },
+      "satisfaction": 4,
+      "why": "Terms like physicalism, amr and 'the hard problem' are named but barely explained, and 'See also sign S29' is an internal code."
+    },
+    "student": {
+      "followUps": [
+        "What was the occasion of revelation of 17:85, and did classical mufassirūn (al-Ṭabarī, Ibn Kathīr) read rūḥ there as the human soul, Jibrīl or the Quran?",
+        "What does Ibn al-Qayyim argue in Kitāb al-Rūḥ? It is listed in the sources but not used.",
+        "How did kalām scholars differ on whether the soul is a subtle body or something immaterial?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 3,
+        "clarity": 5,
+        "honesty": 6
+      },
+      "satisfaction": 3,
+      "why": "The only tafsir given is Ṭabāṭabāʾī's, a Shiʿi exegete, with no Sunni reading and no explanation that rūḥ in 17:85 is read in several ways."
+    },
+    "scientist": {
+      "followUps": [
+        "Which theories (global workspace, integrated information, higher-order) are meant by 'several theories exist', and what do they predict?",
+        "What does the evidence on neural correlates of consciousness currently show?",
+        "Who was surveyed in PhilPapers 2020, and how many respondents answered the mind question?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 5,
+        "fairness": 4,
+        "clarity": 5,
+        "honesty": 8
+      },
+      "satisfaction": 4,
+      "why": "The PhilPapers figures (51.93% physicalism, 32.08% non-physicalism) and the honest limit are good, but the science section names no theory and no evidence."
+    },
+    "hurting": {
+      "followUps": [
+        "My parent has dementia. Where is 'they' now, and are they still there?",
+        "What happens to the soul at death, according to Islam?",
+        "Can I hope to meet the real person again?"
+      ],
+      "scores": {
+        "answers": 2,
+        "depth": 1,
+        "evidence": 3,
+        "fairness": 4,
+        "clarity": 5,
+        "honesty": 6
+      },
+      "satisfaction": 3,
+      "why": "The page is entirely abstract; nothing speaks to someone watching a loved one's mind fade, though 'Believers and sceptics can share the mystery' is gentle."
+    },
+    "skeptic": {
+      "followUps": [
+        "Why is the hard problem evidence for a soul rather than a gap in current knowledge, given the history of 'vital spirit' being replaced by biology?",
+        "How does a non-physical soul interact with the brain (the interaction problem)?",
+        "Why rely on a minority philosophical position when 52% of philosophers favour physicalism?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 3,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 3,
+      "why": "The page fairly admits 'The hard problem does not prove that a soul exists', but the steelman is one line and the interaction problem and mind-brain dependence are missing."
+    }
+  },
+  "missing": [
+    "The full objection: evidence of mind-brain dependence (lesions, anaesthesia, split-brain) and the 'soul of the gaps' worry.",
+    "A plain explanation of the hard problem and the main scientific theories, named, with their status.",
+    "Classical Sunni tafsir of 17:85 (occasion of revelation; rūḥ read as soul, Jibrīl or the Quran), Ibn al-Qayyim's Kitāb al-Rūḥ, and the kalām debate on the soul.",
+    "The interaction problem for dualism, and how Muslim thinkers respond.",
+    "Something for readers facing dementia or death in the family.",
+    "Replace 'See also sign S29' with a linked title; no evidence labels appear on the page."
+  ],
+  "strengths": [
+    "Correct naming of the hard problem with the source (Chalmers 1995).",
+    "Precise survey numbers (PhilPapers 2020).",
+    "Honest limit: 'The hard problem does not prove that a soul exists.'",
+    "17:85 is apt and its humility ('mankind have not been given of knowledge except a little') fits the topic."
+  ]
+}

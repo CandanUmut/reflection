@@ -1,0 +1,125 @@
+{
+  "id": "Q25",
+  "path": "en/ask/homosexuality/",
+  "group": "ask",
+  "words": 621,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "If orientation is not chosen, why would God make someone gay and then forbid them love and marriage for life? Is there an answer beyond 'God tests people differently'?",
+        "What do the other verses (26:165–166, 27:54–58, 4:16) and the hadith say, and how strong are they?",
+        "Is the 'revisionist minority' worth taking seriously, and what is their full argument?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 6,
+        "clarity": 6,
+        "honesty": 8
+      },
+      "satisfaction": 5,
+      "why": "It admits the celibacy objection 'has no fully satisfying answer', which is honest, but answers it with one line (2:286) and gives only one Quran passage for the mainstream position."
+    },
+    "outsider": {
+      "followUps": [
+        "What exactly do Islamic law and Muslim-majority countries impose as punishment, and is that actually applied?",
+        "What does 'ḥadd' mean, and what did schools other than Abū Ḥanīfa's hold?",
+        "How do gay Muslims live their faith in practice?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 5,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "The tone is humane ('Every person has God-given dignity'), but I learn only Abū Ḥanīfa's lenient view on punishment and nothing on the other schools or current law in Muslim countries."
+    },
+    "student": {
+      "followUps": [
+        "What did the Mālikī, Shāfiʿī and Ḥanbalī schools rule on penalty, and on which hadith (Abū Dāwūd 4462, Tirmidhī 1456) and with what gradings?",
+        "What does Ibn Ḥazm actually say, and why do Kugle and Vaid disagree about him?",
+        "How did classical scholars distinguish inclination (mayl) from acts, with named works (El-Rouayheb is listed but not used)?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 5,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 4,
+      "why": "It cites 7:80–84 and Abū Ḥanīfa and names Kugle and Vaid, but the other schools, the hadith, and the classical attraction/act distinction are absent, and three listed sources (K. Ali 2016, Ibn Ḥazm, El-Rouayheb) are never used in the text."
+    },
+    "scientist": {
+      "followUps": [
+        "What did Ganna et al. (2019) find about heritability (roughly 8–25%) and what does 'no single gay gene' mean for whether orientation is chosen?",
+        "What is the evidence that conversion therapy is harmful (which studies, which bodies)?",
+        "What do studies show about suicide risk among LGBT youth in religious families?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 6,
+        "clarity": 6,
+        "honesty": 6
+      },
+      "satisfaction": 4,
+      "why": "Ganna et al. is a real, sized study (~500,000), but 'There is no single \"gay gene\"' alone can mislead readers into thinking orientation is not biological at all, and 'Conversion therapy is harmful' is unsourced."
+    },
+    "hurting": {
+      "followUps": [
+        "I am gay and Muslim: can I still pray, go to the mosque, and be part of the community?",
+        "What is a realistic life for me (celibacy, marriage to the opposite sex, something else), and what do scholars advise?",
+        "Where can I find support that will not reject me, outside the emergency number?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 3,
+        "evidence": 4,
+        "fairness": 6,
+        "clarity": 6,
+        "honesty": 8
+      },
+      "satisfaction": 4,
+      "why": "'Feelings are not sins' and 'Mockery, violence and family rejection are wrong' matter, and the support box comes early, but the only further help is 'Safety comes first: 112 in Türkiye, or a crisis line'; there is nothing on how to live as a Muslim with this."
+    },
+    "skeptic": {
+      "followUps": [
+        "Why mention only Abū Ḥanīfa's view that there is no fixed ḥadd, when the other schools prescribed death or severe penalties, and several states execute today?",
+        "What are the hadith on killing 'the doer and the one done to', and their gradings?",
+        "Kecia Ali (2016) and El-Rouayheb (2005) are listed: what do they argue, and why are they absent from the text?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 4,
+        "evidence": 4,
+        "fairness": 4,
+        "clarity": 6,
+        "honesty": 6
+      },
+      "satisfaction": 4,
+      "why": "Citing only the most lenient classical view on punishment, while saying 'the mainstream position is clear', is selective; the harsher majority positions and modern state penalties go unmentioned."
+    }
+  },
+  "missing": [
+    "The full range of classical positions on penalty (all four schools), the relevant hadith with gradings, and current state laws",
+    "A practical, compassionate section for gay Muslims: worship, community, marriage, celibacy, where to get support",
+    "Ganna et al. explained properly (heritability estimates, many genes, environment), and a source for conversion therapy harm",
+    "Other Quran passages on Lot's people and how classical tafsīr read them",
+    "The revisionist argument (Kugle) and Vaid's reply in enough detail to evaluate",
+    "Use the listed sources (K. Ali 2016, Ibn Ḥazm, El-Rouayheb 2005) in the text, especially the classical distinction between desire and act"
+  ],
+  "strengths": [
+    "Separates attraction from acts and says 'feelings are not sins'",
+    "Firm against mockery, violence, family rejection; 'must never be used to dehumanise anyone'",
+    "Support box placed before the deeper material",
+    "Honestly admits the celibacy objection 'has no fully satisfying answer'",
+    "Names both Kugle and his critic Vaid"
+  ]
+}

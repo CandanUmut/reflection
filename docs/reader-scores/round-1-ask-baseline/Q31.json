@@ -1,0 +1,83 @@
+{
+  "id": "Q31",
+  "path": "en/ask/non-muslim-loved-ones/",
+  "group": "ask",
+  "words": 284,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "My grandmother knew about Islam through me. Does the 'never heard the message clearly' excuse apply to her?",
+        "Which classical scholars excused people, and on what conditions?",
+        "Why does 9:113 forbid asking forgiveness for some of the dead, and does it apply to my grandmother?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 5, "fairness": 5, "clarity": 5, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "'Many classical scholars excused people who never heard the message clearly' is the key claim and it is not explained; the kind grandmother of the question probably did hear, so the doubter's real case is untouched."
+    },
+    "outsider": {
+      "followUps": [
+        "What is the mainstream Muslim view: are non-Muslims saved or not?",
+        "What does al-Ghazali's Faysal actually say about who is excused?",
+        "What is 'Q14'? The page says 'See also Q14' with no title."
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 5, "clarity": 4, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The outsider cannot tell what the range of Muslim views is, and 'See also Q14' is an internal code, not a link a visitor understands."
+    },
+    "student": {
+      "followUps": [
+        "Lay out al-Ghazali's three categories in Faysal al-tafriqa (never heard; heard a distorted account; heard the true message and rejected it).",
+        "What is the position on ahl al-fatra and the 'testing on the Day of Judgement' hadiths, and what does Ibn al-Qayyim say in Hadi al-arwah / Tariq al-hijratayn?",
+        "Give the full text of Muslim 976, including that the Prophet was not permitted to ask forgiveness for his mother, and the scholars' readings of it."
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 5, "fairness": 5, "clarity": 5, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "The right sources are cited (17:15, 9:113, Muslim 976, Faysal), but the content of each is left out, and Muslim 976 is summarised as 'wept at his mother's grave' without saying what the hadith says about forgiveness."
+    },
+    "scientist": {
+      "followUps": [
+        "'Mixed-faith families are increasing': by how much, where, according to which data?",
+        "What does grief research say about religious beliefs and grief outcomes?",
+        "Why is there a scientific section at all if there is nothing to say?"
+      ],
+      "scores": { "answers": 3, "depth": 2, "evidence": 2, "fairness": 5, "clarity": 5, "honesty": 5 },
+      "satisfaction": 3,
+      "why": "The science section is one unsourced sentence ('Mixed-faith families are increasing') and the psychology one is three words ('Grief counselling helps')."
+    },
+    "hurting": {
+      "followUps": [
+        "Can I pray for my grandmother? The page mentions 9:113 restricting forgiveness and leaves me frightened.",
+        "Can I give charity in her name, or ask God to have mercy on her?",
+        "What should I hold on to when I miss her?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 5, "clarity": 5, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "'Only God knows hearts... You may grieve, hope and remember them' is gentle and true, but 9:113 is dropped in without explanation, which can wound more than comfort, and the practical question (may I pray for her?) is not answered."
+    },
+    "skeptic": {
+      "followUps": [
+        "What is the mainstream classical position on non-Muslims who heard the message and declined? The page skips it.",
+        "Isn't the 'never heard clearly' excuse a minority view stretched to sound like the norm?",
+        "How does this fit with 3:85 and the hadith about the Prophet's own parents?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 4, "clarity": 5, "honesty": 6 },
+      "satisfaction": 3,
+      "why": "The page deserves credit for citing 9:113 and Muslim 976, but it does not say plainly what the majority view is for people who heard and did not accept, so the hardest part is softened by omission."
+    }
+  },
+  "missing": [
+    "State plainly the range of classical views, including the strict majority position for those who heard and rejected",
+    "Explain al-Ghazali's categories in Faysal and who counts as 'not having heard clearly'",
+    "Explain 9:113 and Muslim 976 fully (including the forgiveness prohibition) and how scholars apply them",
+    "Answer the practical questions: may I pray for them, give charity in their name, ask for mercy?",
+    "Explain ahl al-fatra and the 'tested on the Day of Judgement' view (Ibn al-Qayyim)",
+    "Replace 'See also Q14' with a real titled link",
+    "Remove or fill the one-line science and psychology sections"
+  ],
+  "strengths": [
+    "Gentle, true opening: 'Only God knows hearts... You may grieve, hope and remember them'",
+    "Does not hide the hard texts: 9:113 and the Prophet at his mother's grave are cited",
+    "Honest limits: 'Scholars differ on how these texts apply, and no one knows anyone's final state'",
+    "Support box present for grieving readers"
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "Q35",
+  "path": "en/ask/why-fast/",
+  "group": "ask",
+  "words": 230,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "'Why would God care when I eat?' still stands. Does God need my fasting, or is it purely for me?",
+        "How do I tell which rules have clear purposes and which are 'pure devotion'?",
+        "If a rule has no reason I can see, why is following it not just blind obedience?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 3,
+        "evidence": 6,
+        "fairness": 4,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 4,
+      "why": "The idea of taʿabbudī acts and 'practice shapes character' points in the right direction, but each is one sentence and the 'so many rules' part of the title is barely touched."
+    },
+    "outsider": {
+      "followUps": [
+        "What does Ramadan fasting actually involve (dawn to sunset, no food, drink or sex), and who must do it?",
+        "What is taqwā?",
+        "Who is exempt, and what do they do instead?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 3,
+        "evidence": 6,
+        "fairness": 4,
+        "clarity": 4,
+        "honesty": 7
+      },
+      "satisfaction": 4,
+      "why": "taʿabbudī is glossed but taqwā is not, and the page never says what the fast actually is."
+    },
+    "student": {
+      "followUps": [
+        "Where does al-Shāṭibī state this (al-Muwāfaqāt? which volume), and how does it fit his maqāṣid theory?",
+        "What are the exemptions in 2:184–185 and how do the schools of law treat making up days and fidya?",
+        "What other hadith explain the purpose of fasting (e.g. 'fasting is a shield'), with collection and grading?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 3,
+        "evidence": 6,
+        "fairness": 4,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 4,
+      "why": "Bukhārī 1903 and 2:183 are good, but al-Shāṭibī is cited without a work, and the legal detail a student expects is absent."
+    },
+    "scientist": {
+      "followUps": [
+        "Which benefits did the 2025 umbrella review find, how large were they, and how strong was the evidence?",
+        "What are the risks (dehydration, kidney stones, hypoglycaemia in diabetics, 18–20-hour fasts at high latitudes)?",
+        "What do Glazier et al. (2018) show? They are in the sources but not on the page."
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 4,
+        "evidence": 7,
+        "fairness": 5,
+        "clarity": 5,
+        "honesty": 8
+      },
+      "satisfaction": 5,
+      "why": "The weight numbers (1.24 kg, shrinking to 0.27 kg within 2–6 weeks) are concrete and honest, but 'found benefits' is vague and risks are missing."
+    },
+    "hurting": {
+      "followUps": [
+        "I have an eating disorder (or diabetes). Am I sinning if I don't fast, and what should I do instead?",
+        "What if fasting triggers my illness but my family pressures me to fast?",
+        "Can I still take part in Ramadan in other ways?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 5,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 4,
+      "why": "'The exemptions are a mercy' is kind and the medical advice is sound, but the page does not say what the exemptions are or how to use them."
+    },
+    "skeptic": {
+      "followUps": [
+        "Is 'some rules are pure devotion' a way to protect any rule from criticism?",
+        "Self-mastery and empathy can be built without religious fasting. What does fasting add, and is there evidence for the empathy claim?",
+        "Where are the downsides of Ramadan fasting (health risks, productivity, pressure on non-fasters)?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 3,
+        "evidence": 5,
+        "fairness": 3,
+        "clarity": 5,
+        "honesty": 6
+      },
+      "satisfaction": 3,
+      "why": "'Fasting builds self-mastery and empathy' is unsourced, and taʿabbudī is presented without facing the objection that it shields rules from reason."
+    }
+  },
+  "missing": [
+    "A real answer to 'why would God care?' (God's independence, worship as for our benefit, 'Allah has no need' in Bukhārī 1903) developed in prose.",
+    "The 'so many rules' half of the question: maqāṣid, how scholars divide rules into reasoned and devotional, with al-Shāṭibī's work named.",
+    "What the fast is, and the exemptions in 2:184–185 with the schools' rulings on qaḍāʾ and fidya.",
+    "The size of the benefits in the umbrella review, plus health risks.",
+    "Evidence (or an honest note) for the self-mastery and empathy claims.",
+    "No evidence labels appear on the page."
+  ],
+  "strengths": [
+    "Honest limit: 'Health is not the \"reason\" for fasting.'",
+    "Concrete, honestly reported weight data (loss shrinks from 1.24 kg to 0.27 kg).",
+    "Bukhārī 1903 shows fasting is about moral conduct, not just hunger.",
+    "Medical advice for people with eating disorders or diabetes."
+  ]
+}

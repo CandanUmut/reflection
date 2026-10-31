@@ -1,0 +1,82 @@
+{
+  "id": "Q3",
+  "path": "en/ask/deism/",
+  "group": "ask",
+  "words": 358,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "What is the 'historical evidence for prophethood'? What would show that Muhammad really received revelation?",
+        "If religious people are hypocritical, why should I trust that God is involved through them?",
+        "What is 'S9', and where are the science arguments?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 4, "fairness": 5, "clarity": 4, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "The short answer sketches a real argument (God's character, prophethood, fiṭra), but each strand is asserted, not shown, and the science section is only “See S9.”"
+    },
+    "outsider": {
+      "followUps": [
+        "What exactly is deism, and how is it different from atheism and from Islam?",
+        "What does 'inayet' mean and why does Nursi think nature shows personal intent?",
+        "What does 'S9' refer to?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 3, "fairness": 5, "clarity": 3, "honesty": 5 },
+      "satisfaction": 3,
+      "why": "Too compressed to follow: “See S9” and “Konya teachers note…” assume knowledge the visitor does not have, and the arguments are one-line bullets."
+    },
+    "student": {
+      "followUps": [
+        "What did al-Ghazali conclude in al-Munqidh about how certainty came back to him?",
+        "What is Nursi's argument in Tabiat Risalesi, step by step?",
+        "How did the kalam tradition argue for the need for prophethood?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 5, "fairness": 4, "clarity": 4, "honesty": 5 },
+      "satisfaction": 4,
+      "why": "Verses (20:50, 87:2–3, 30:30, 6:158) are apt, but al-Ghazali and Nursi are only mentioned, not what they argued."
+    },
+    "scientist": {
+      "followUps": [
+        "What are the fine-tuning numbers, and how does the page answer multiverse and anthropic replies?",
+        "Why does design 'suggest intention' rather than other explanations?",
+        "What is in S9, and why is it not on this page?"
+      ],
+      "scores": { "answers": 3, "depth": 1, "evidence": 2, "fairness": 4, "clarity": 4, "honesty": 5 },
+      "satisfaction": 3,
+      "why": "The scientific perspective is literally “See S9.”, and “Design and fine-tuning suggest intention” is stated with no data and no counter-arguments."
+    },
+    "hurting": {
+      "followUps": [
+        "I left practice because of hypocrisy I saw in religious people. How does the page answer that?",
+        "Can I trust God while not trusting religious institutions?",
+        "What does 'answers must address integrity' look like in practice?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 3, "fairness": 5, "clarity": 4, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "The page sees the hurt (“Deism is often a moral protest, so answers must address integrity”) and then does not address it."
+    },
+    "skeptic": {
+      "followUps": [
+        "How does 'hiddenness preserves the test' answer Schellenberg's actual point about non-resistant non-believers?",
+        "How does the page answer the rival-revelations objection it names?",
+        "Why is a Creator 'unlikely to be indifferent'? Where is the argument?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 3, "fairness": 4, "clarity": 4, "honesty": 5 },
+      "satisfaction": 3,
+      "why": "Objections are listed but not engaged: the rival-revelations objection gets no reply, and the hiddenness reply ignores the strongest form of the argument."
+    }
+  },
+  "missing": [
+    "The actual case for prophethood, laid out and weighed",
+    "A real reply to rival revelations and to Schellenberg's non-resistant non-believer argument",
+    "A science section on this page (fine-tuning with numbers and counter-arguments) instead of 'See S9'",
+    "What al-Ghazali's Munqidh and Nursi's Tabiat Risalesi actually argue",
+    "A section that addresses the moral protest (hypocrisy, institutions) the page itself identifies",
+    "A clear definition of deism and how it differs from Islamic theism"
+  ],
+  "strengths": [
+    "Fair statement of the deist position as 'the rational minimum'",
+    "Short answer has a real line of argument (God's character, prophethood, fiṭra)",
+    "Honest limit: 'Arguments give plausibility, not compulsion'",
+    "Recognises deism as often a moral protest"
+  ]
+}

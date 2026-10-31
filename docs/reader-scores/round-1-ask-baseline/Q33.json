@@ -1,0 +1,123 @@
+{
+  "id": "Q33",
+  "path": "en/ask/miracles-and-natural-laws/",
+  "group": "ask",
+  "words": 180,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "Hume's argument is more than one sentence. What exactly does he say, and where exactly does he 'assume what he needs to prove'?",
+        "Which miracles does Islam actually claim, and how strong is the evidence for them?",
+        "If God works through regular habits, why would He ever break them?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 5,
+        "fairness": 3,
+        "clarity": 4,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "'Hume assumes what he needs to prove' is a big claim given in five words with no explanation, so the doubter has nothing to hold on to."
+    },
+    "outsider": {
+      "followUps": [
+        "What are occasionalism and 'secondary causality', in plain words?",
+        "What is the Tahāfut, and why do al-Ghazālī and Ibn Rushd matter to Muslims today?",
+        "What miracles does the Quran describe, and do Muslims see the Quran itself as the main miracle?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 5,
+        "fairness": 3,
+        "clarity": 3,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "Technical terms (occasionalism, secondary causality, Tahāfut, ʿāda) are used without explanation, and al-Ghazālī's famous example (cotton and fire) is not given."
+    },
+    "student": {
+      "followUps": [
+        "Which Quranic verses frame miracles as āyāt (signs), and what about the verses where miracle requests are refused (e.g. 17:90–93, 6:109)?",
+        "How did the Māturīdī and later Ashʿarī scholars position themselves between al-Ghazālī and Ibn Rushd?",
+        "What does the scholarly tradition say about the Prophet's miracles in hadith, and how are those reports graded?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 3,
+        "evidence": 5,
+        "fairness": 5,
+        "clarity": 4,
+        "honesty": 6
+      },
+      "satisfaction": 4,
+      "why": "The 17th discussion of the Tahāfut, Griffel's reading and Ibn Rushd's reply are real scholarship fairly presented, but there is not a single Quranic verse on a page about miracles."
+    },
+    "scientist": {
+      "followUps": [
+        "Would a miracle break conservation laws such as conservation of energy? How does the page's view handle that?",
+        "'Laws describe regularities; they do not compel' is Hume's own regularity view. How does that answer necessitarian views of laws?",
+        "What do Cartwright and Mumford actually argue, and in which works?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 4,
+        "clarity": 4,
+        "honesty": 6
+      },
+      "satisfaction": 3,
+      "why": "The 'Scientific perspective' is philosophy of science in one sentence ('Cartwright and Mumford treat laws as idealisations'), with no mechanism, no science and no works named."
+    },
+    "hurting": {
+      "followUps": [
+        "I prayed for a miracle (a healing) and it did not come. What does this view say to me?",
+        "If miracles are rare signs, does God still act in my life?",
+        "What does 'Faith that rests only on miracles is fragile' mean for someone whose faith did rest on one?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 4,
+        "clarity": 4,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "The page is purely theoretical; the one personal line ('Faith that rests only on miracles is fragile') is a warning, not help."
+    },
+    "skeptic": {
+      "followUps": [
+        "Where is the strongest form of Hume's case (uniform experience, the poor record of miracle testimony, competing miracles in rival religions)?",
+        "What about contemporary defenders and critics (Earman, Swinburne, McGrew) instead of a one-line dismissal?",
+        "If accepting miracles depends on prior belief in God, how can miracles serve as evidence for God?"
+      ],
+      "scores": {
+        "answers": 3,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 2,
+        "clarity": 4,
+        "honesty": 5
+      },
+      "satisfaction": 2,
+      "why": "Hume is reduced to one sentence and dismissed in another; the page's own honest limit ('Accepting miracles depends on prior belief in God') raises the circularity worry and then leaves it."
+    }
+  },
+  "missing": [
+    "Hume's argument at full strength (Enquiry §10: uniform experience, quality of testimony, competing miracles) and a real answer to it, with modern discussion.",
+    "Quranic verses: miracles as āyāt, refused requests for miracles, the Quran as the central sign.",
+    "Al-Ghazālī's cotton-and-fire example and a plain-language explanation of occasionalism.",
+    "What the science actually says about laws and whether a miracle conflicts with them (conservation laws).",
+    "A Key verses section; explanations of terms; at least one paragraph of prose per section.",
+    "No evidence labels ([Established]/[Scholarly]/[Debated]) appear anywhere on the page."
+  ],
+  "strengths": [
+    "Precise citation of the 17th discussion of the Tahāfut and of Griffel's reading.",
+    "Ibn Rushd's reply ('denying causes destroys knowledge') is included, so the Muslim debate is shown as a debate.",
+    "Honest limit: 'Accepting miracles depends on prior belief in God.'"
+  ]
+}

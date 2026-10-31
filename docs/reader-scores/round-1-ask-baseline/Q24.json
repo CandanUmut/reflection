@@ -1,0 +1,125 @@
+{
+  "id": "Q24",
+  "path": "en/ask/hijab-and-coercion/",
+  "group": "ask",
+  "words": 624,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "If 2:256 was revealed about conversion, does it really apply to how Muslims enforce rules on other Muslims? Do classical scholars agree?",
+        "Why should I accept that covering is obligatory: what exactly do 24:31 and 33:59 say, and how does 'khimār' get to 'hair'?",
+        "What should I do if my family pressures me?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 7,
+        "clarity": 7,
+        "honesty": 8
+      },
+      "satisfaction": 6,
+      "why": "The three-question frame ('What does God require? Who may enforce it? What does not covering mean?') is genuinely clarifying, but the move from 2:256 to 'no enforcement' is asserted, not argued."
+    },
+    "outsider": {
+      "followUps": [
+        "What exactly does Islam require women to cover, and how does that differ between schools?",
+        "Why did Türkiye ban the headscarf, and what happened to women under the ban?",
+        "What is the 'khimār', and what is the minority argument in full?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 7,
+        "clarity": 7,
+        "honesty": 7
+      },
+      "satisfaction": 6,
+      "why": "I come away understanding the majority view, the minority view and the anti-coercion line, though Türkiye's ban, raised twice, is never explained and France gets no date."
+    },
+    "student": {
+      "followUps": [
+        "What do the four schools and the Jaʿfarīs say about the face and hands (ʿawra), and where do they differ?",
+        "What do al-Qurṭubī and other classical mufassirūn say on 24:31 and 33:59, and why is 33:59 not quoted on the page?",
+        "Where did Karaman write that no jurist permitted uncovering the head, and what are Atay's and Shaḥrūr's actual arguments?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 7,
+        "clarity": 7,
+        "honesty": 8
+      },
+      "satisfaction": 6,
+      "why": "Named authorities (Apaydın, Karaman, Atay, Shaḥrūr) and the schools' agreement are useful, but the differences that matter to a student (face, hands, context of 33:59) are missing."
+    },
+    "scientist": {
+      "followUps": [
+        "What is the evidence that 'coercion in either direction breeds resentment and loss of faith'? Any surveys from Iran or Türkiye?",
+        "How many women in Türkiye or Iran cover, and how did that change after the bans or mandates?",
+        "What is the historical evidence that 'veiling predates Islam' (which societies, which sources)?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 4,
+        "fairness": 6,
+        "clarity": 7,
+        "honesty": 6
+      },
+      "satisfaction": 4,
+      "why": "Dates for Iran (7 March 1979, April 1983) are precise, but the main social claim, 'Coercion in either direction breeds resentment and loss of faith', has no source at all."
+    },
+    "hurting": {
+      "followUps": [
+        "My parents force me to wear it, or I lost my job or university place under the ban: what can I do, and where can I get support?",
+        "If I take it off, am I still a good Muslim?",
+        "Does God value my covering if I do it under pressure?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 3,
+        "evidence": 5,
+        "fairness": 7,
+        "clarity": 7,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "'A sin, not unbelief' and 'Forced covering loses its value as worship' speak to me, but the psychological section is one sentence and offers no guidance for a woman under pressure from either side."
+    },
+    "skeptic": {
+      "followUps": [
+        "Historically, Islamic states (Ottoman, Safavid, Saudi) did enforce dress codes; how does the 'no enforcement' line square with that classical practice and with ḥisba?",
+        "Is 'Forced covering loses its value as worship' a classical position or a modern one? Who held it?",
+        "Leila Ahmed is in the sources: what does she argue about the meaning and history of the veil?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 6,
+        "clarity": 7,
+        "honesty": 6
+      },
+      "satisfaction": 5,
+      "why": "It is candid that the minority is a minority ('Presenting the minority view as equally weighted is misleading'), but it presents 2:256 as settling enforcement without mentioning that classical law did support enforcement, so the site's firm line looks modern without saying so."
+    }
+  },
+  "missing": [
+    "The argument that 2:256 applies to enforcement among Muslims, with who holds it, and the classical counter-position (ḥisba, historical enforcement)",
+    "Quote and explain 33:59 and the word 'khimār', and the schools' differences on face and hands",
+    "The minority argument (Atay, Shaḥrūr) in enough detail to understand it",
+    "Türkiye's ban explained (what, when, effects on women), France's 2004 law",
+    "Source for 'coercion breeds resentment and loss of faith', or soften it",
+    "Practical guidance and support for women under family or state pressure"
+  ],
+  "strengths": [
+    "The three-question frame separating requirement, enforcement and status is clear and useful",
+    "Opposes coercion in both directions (Iran mandates and Turkish/French bans)",
+    "Honest about weight of views: 'Presenting the minority view as equally weighted is misleading'",
+    "'A sin, not unbelief' gives a hurting reader real ground",
+    "Precise dates for Iran's mandates and Türkiye's lifting of the ban"
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "Q5",
+  "path": "en/ask/evolution/",
+  "group": "ask",
+  "words": 270,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "What exactly does each of the four positions say?",
+        "If humans evolved, how do I read the verses saying Adam was made from clay?",
+        "Do I have to believe Adam had no parents to be a Muslim?"
+      ],
+      "scores": { "answers": 6, "depth": 3, "evidence": 5, "fairness": 6, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "It is useful to learn that “The real dispute is narrow”, but the four positions are only named, never explained, and the clay verses in the question are not discussed."
+    },
+    "outsider": {
+      "followUps": [
+        "What do 'human exceptionalism' and 'Adamic exceptionalism' mean?",
+        "What is 'Ash'ari occasionalism'?",
+        "What do most Muslims and Muslim institutions actually believe about evolution?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 4, "fairness": 6, "clarity": 4, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "The main ideas (occasionalism, hermeneutics, the exceptionalism positions) are not explained, and “Institutional positions remain cautious” does not say which institutions or what they say."
+    },
+    "student": {
+      "followUps": [
+        "What is al-Ghazali's rule for when a verse may be read non-literally, and how does Malik apply it?",
+        "What do the other Adam verses (clay, dust, sounding clay) say, and how does each position read them?",
+        "Which institutions are 'cautious' (Diyanet?), and what have they said?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 5, "fairness": 5, "clarity": 4, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "Malik and Jalajel are good names, but only one verse (3:59) is given, al-Ghazali's hermeneutic is not explained, and no classical or institutional positions are set out."
+    },
+    "scientist": {
+      "followUps": [
+        "What is the evidence for common descent (fossils, genomics, shared pseudogenes)?",
+        "What do population genetics say about minimum ancestral population size, and does a genealogical Adam fit?",
+        "When would Adam have lived on the Adamic-exceptionalism view?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 2, "fairness": 6, "clarity": 5, "honesty": 6 },
+      "satisfaction": 3,
+      "why": "The scientific perspective is one line (“Common descent is [Established].”), and the population-genetics objection is mentioned without any numbers."
+    },
+    "hurting": {
+      "followUps": [
+        "My biology class made me feel I must choose between science and faith. Do I?",
+        "What do I say to family members who think accepting evolution is unbelief?",
+        "Is it safe for my faith to hold Adamic exceptionalism?"
+      ],
+      "scores": { "answers": 5, "depth": 2, "evidence": 3, "fairness": 5, "clarity": 5, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "“Learning that these options exist often brings relief” is kind and true, but the page is too short to give that relief itself."
+    },
+    "skeptic": {
+      "followUps": [
+        "Why is the 'no exceptions' view judged scripturally incompatible, and by what standard?",
+        "How does Adamic exceptionalism handle humans who were not descended from Adam? Isn't that ad hoc?",
+        "How does guided creation fit with random mutation and natural selection, beyond saying 'unguided is metaphysics'?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 3, "fairness": 5, "clarity": 4, "honesty": 6 },
+      "satisfaction": 3,
+      "why": "Critics are dismissed in three words (“Critics call this ad hoc”), and the page never explains why the fourth position fails or how humans not descended from Adam fit."
+    }
+  },
+  "missing": [
+    "A plain explanation of each of Malik's four positions and how each reads the Adam verses",
+    "The other Quran verses on Adam's creation, not only 3:59",
+    "Real science: the evidence for common descent and the population-genetics numbers",
+    "Al-Ghazali's interpretive rule explained, and how Malik applies it",
+    "Which institutions are cautious and what they have said",
+    "A fair account of critiques of Adamic exceptionalism and why 'no exceptions' is judged incompatible"
+  ],
+  "strengths": [
+    "Names a serious, current academic source (Malik, Routledge 2021) and Jalajel",
+    "Narrows the dispute honestly to whether Adam had ancestors",
+    "Clear separation of 'unguided' metaphysics from biology",
+    "Admits the population-genetics objection and its 'ad hoc' critique",
+    "Caution against reading Darwin into Ibn Khaldun"
+  ]
+}

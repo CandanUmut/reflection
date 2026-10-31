@@ -1,0 +1,123 @@
+{
+  "id": "Q36",
+  "path": "en/ask/is-exclusivism-arrogant/",
+  "group": "ask",
+  "words": 264,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "Most people keep the religion they were born into. If I was born Muslim by chance, how can I claim mine is the true one?",
+        "Does Islam teach that all non-Muslims go to Hell? That is what makes exclusivism feel arrogant.",
+        "What does 'humble confidence' look like when I talk with friends of other faiths?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 3,
+        "clarity": 5,
+        "honesty": 5
+      },
+      "satisfaction": 4,
+      "why": "'Arrogance concerns how a belief is held, not whether it is held' is a real insight, but the steelman is three words ('Billions of people disagree') and the fate of non-Muslims is never mentioned."
+    },
+    "outsider": {
+      "followUps": [
+        "What do 'exclusivism' and 'pluralism' mean here, and what are Plantinga's and Hick's positions?",
+        "What does Islam actually say about Jews, Christians and others (e.g. 2:62, 3:85)?",
+        "How do Muslims reconcile 109:6 'For you is your religion' with calling others to Islam?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 3,
+        "clarity": 4,
+        "honesty": 5
+      },
+      "satisfaction": 4,
+      "why": "The verses are well chosen, but key terms are unexplained and 'See also M11 (humility)' is an internal code."
+    },
+    "student": {
+      "followUps": [
+        "What are the main scholarly positions on the salvation of non-Muslims (al-Ghazālī's Fayṣal al-tafriqa, Ibn Taymiyya, Rashīd Riḍā), as in Khalil (2012), which is listed but not summarised?",
+        "How did classical mufassirūn read 2:62 and 5:69 alongside 3:85?",
+        "What do 10:99 and 49:13 mean in their context, according to tafsir?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 5,
+        "fairness": 3,
+        "clarity": 5,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "Three verses are quoted, but they appear only as numbers ('109:6; 10:99; 49:13') in the explanation with no tafsir, and Khalil and Nasr sit unused in the sources."
+    },
+    "scientist": {
+      "followUps": [
+        "What did Leary et al. actually find about intellectual humility, and how strong was the effect?",
+        "What is the evidence that 'humble confidence improves relations between groups'?",
+        "What does research show about how religious belief is passed on within families and regions?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 3,
+        "fairness": 4,
+        "clarity": 5,
+        "honesty": 5
+      },
+      "satisfaction": 3,
+      "why": "'Research on intellectual humility (Leary et al.)' states no finding, and the social claim has no source at all."
+    },
+    "hurting": {
+      "followUps": [
+        "My mother is a Christian (or my friend is an atheist). Will God punish them forever?",
+        "How can I love people of other faiths without feeling I am betraying my own?",
+        "What about people who never heard a fair account of Islam?"
+      ],
+      "scores": {
+        "answers": 2,
+        "depth": 1,
+        "evidence": 3,
+        "fairness": 3,
+        "clarity": 5,
+        "honesty": 3
+      },
+      "satisfaction": 2,
+      "why": "For the reader whose loved one is outside the faith, the real question is salvation, and the page avoids it completely."
+    },
+    "skeptic": {
+      "followUps": [
+        "Isn't 'every view excludes others' a tu quoque that doesn't address religious luck (where you are born decides what you believe)?",
+        "How do Quranic verses threatening disbelievers with Hell fit the claim that Islamic exclusivism is held humbly?",
+        "What are the strongest replies to Plantinga, and is Hick's pluralism really self-defeating?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 2,
+        "evidence": 4,
+        "fairness": 2,
+        "clarity": 5,
+        "honesty": 4
+      },
+      "satisfaction": 3,
+      "why": "The page answers a weak form of the objection; religious luck and the link between exclusivism and Hell are skipped, and 'Exclusivism has sometimes been arrogant' is the only concession."
+    }
+  },
+  "missing": [
+    "A real steelman: religious luck (birthplace decides belief), and exclusivism combined with eternal punishment.",
+    "Islamic views on the salvation of non-Muslims (2:62, 5:69, 3:85; al-Ghazālī's Fayṣal al-tafriqa; Khalil 2012), shown as a range of positions.",
+    "Explanation of Plantinga's argument and Hick's pluralism and the critiques of each.",
+    "The actual findings of intellectual-humility research, with sources for the social claim.",
+    "Something for readers with loved ones of other faiths.",
+    "Replace 'See also M11' with a linked title; no evidence labels appear on the page."
+  ],
+  "strengths": [
+    "The central point: 'Every view excludes others, including \"all religions are equal.\" Arrogance concerns how a belief is held, not whether it is held.'",
+    "Well-chosen verses on non-compulsion and human diversity (109:6, 10:99, 49:13).",
+    "Honest limit: 'Exclusivism has sometimes been arrogant.'"
+  ]
+}

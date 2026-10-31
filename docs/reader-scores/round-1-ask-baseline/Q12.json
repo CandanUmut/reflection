@@ -1,0 +1,60 @@
+{
+  "id": "Q12",
+  "path": "en/ask/scientific-miracles/",
+  "group": "ask",
+  "words": 421,
+  "readers": {
+    "doubter": {
+      "followUps": ["Which of the popular claims (embryology, Big Bang, speed of light) hold up, and which do not?", "If I drop these claims, what reason is left to believe the Quran is from God?", "Which verses 'harmonize with science'? Give examples."],
+      "scores": { "answers": 7, "depth": 5, "evidence": 6, "fairness": 6, "clarity": 6, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "The stance is clear and honest, but none of the three claims in the strongest question is examined here; the page sends readers to S4, S5 and S7."
+    },
+    "outsider": {
+      "followUps": ["What is tafsir, and why does classical tafsir matter here?", "What does it mean that classical i'jāz was 'mainly literary'?"],
+      "scores": { "answers": 7, "depth": 5, "evidence": 6, "fairness": 7, "clarity": 5, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "Understandable overall, but tafsir, i'jāz and āyāt are used without explanation."
+    },
+    "student": {
+      "followUps": ["What exactly does al-Shāṭibī say in al-Muwāfaqāt about the first audience?", "What did al-Ghazālī claim in Jawāhir al-Qurʾān, and how 'open' was al-Rāzī?", "What were Shaltūt's and al-Khūlī's arguments?"],
+      "scores": { "answers": 7, "depth": 6, "evidence": 7, "fairness": 7, "clarity": 5, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "Good names on both sides, classical and modern, but each is a name in a list with no argument stated."
+    },
+    "scientist": {
+      "followUps": ["Take one claim (for example the Big Bang reading) and show the Arabic word range, the classical reading and the science side by side.", "What does 'harmonize' mean in practice, and how is it different from post-hoc fitting?"],
+      "scores": { "answers": 6, "depth": 4, "evidence": 4, "fairness": 7, "clarity": 6, "honesty": 8 },
+      "satisfaction": 5,
+      "why": "The 'Scientific perspective' section is one line of links; 'many verses harmonize with science' is asserted without one example."
+    },
+    "hurting": {
+      "followUps": ["I shared these videos and now feel misled and foolish; how should I think about my faith now?"],
+      "scores": { "answers": 6, "depth": 4, "evidence": 5, "fairness": 6, "clarity": 6, "honesty": 8 },
+      "satisfaction": 5,
+      "why": "'Miracle-based faith is brittle' is true but speaks about such readers rather than to them; no path forward is offered."
+    },
+    "skeptic": {
+      "followUps": ["'Many verses harmonize with science': which ones? Is that itself an overclaim?", "Where is 'Yaqeen's finding that science ranks low among triggers' sourced? It is not in the source list.", "How are verses that seem to clash with science handled?"],
+      "scores": { "answers": 6, "depth": 4, "evidence": 5, "fairness": 6, "clarity": 6, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "Honest that the stance is 'not consensus', but it keeps a vague 'harmonize' claim and cites a Yaqeen finding with no source."
+    }
+  },
+  "missing": [
+    "One worked example on the page (word range, classical tafsir, science)",
+    "A short assessment of the popular claims named in the question (embryology, Big Bang, speed of light)",
+    "Examples behind 'many verses harmonize with science', or soften the claim",
+    "Source the Yaqeen finding",
+    "How apparent conflicts with science are handled",
+    "Explain tafsir and i'jāz; state the critics' arguments, not just their names",
+    "A word for readers whose faith was shaken when a claim collapsed"
+  ],
+  "strengths": [
+    "Clear stance: verses as signs (āyāt), not hidden science lectures",
+    "Names supporters and critics, classical and modern",
+    "Guessoum and Ibn Rushd's 'compatibility, not prediction'",
+    "Notes classical i'jāz was mainly literary",
+    "Honest: 'a scholarly position, not consensus'"
+  ]
+}

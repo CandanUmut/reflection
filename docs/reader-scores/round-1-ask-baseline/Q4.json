@@ -1,0 +1,84 @@
+{
+  "id": "Q4",
+  "path": "en/ask/quran-preservation/",
+  "group": "ask",
+  "words": 278,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "What did the burned codices contain, and why did Uthman burn them?",
+        "What do the 'documented variant readings' actually look like? Give one real example.",
+        "What does the Ṣan'ā' palimpsest show?"
+      ],
+      "scores": { "answers": 6, "depth": 4, "evidence": 7, "fairness": 6, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "The Birmingham dating is real evidence, and correcting the overclaim helps, but the burning of codices raised in the objection is never addressed and no variant is shown."
+    },
+    "outsider": {
+      "followUps": [
+        "What is a 'consonantal text', and what are 'qirā'āt'?",
+        "How did oral transmission work, and why do Muslims trust it?",
+        "What do 'BP', 'OxA-29418' and 'Hijazi script' mean?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 5, "fairness": 5, "clarity": 3, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "The facts are there, but key terms (consonantal text, qirā'āt, Hijazi script, Quranist) and the raw “1461±21 BP (OxA-29418)” are never explained."
+    },
+    "student": {
+      "followUps": [
+        "What is the difference between the seven aḥruf and the canonical qirā'āt?",
+        "What do the reports say Ibn Mas'ud's codex differed in?",
+        "Who was on Zayd ibn Thabit's committee, and what rules did they follow?"
+      ],
+      "scores": { "answers": 6, "depth": 4, "evidence": 6, "fairness": 5, "clarity": 4, "honesty": 6 },
+      "satisfaction": 5,
+      "why": "Bukhari 4986/4987 and the qirā'āt note are useful, but aḥruf vs qirā'āt, the committee and the Ibn Mas'ud differences are only touched on."
+    },
+    "scientist": {
+      "followUps": [
+        "The range 568–645 CE starts before the traditional start of revelation (610). How should that be read?",
+        "Which other early manuscripts have radiocarbon dates, and what are they?",
+        "What does 1461±21 BP mean, and which calibration curve gives 568–645 CE?"
+      ],
+      "scores": { "answers": 6, "depth": 4, "evidence": 7, "fairness": 6, "clarity": 5, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "Lab number, 95.4% range and the skin-versus-ink caveat are exactly right, but it is one manuscript, the BP figure is unexplained, and the pre-610 part of the range is not discussed."
+    },
+    "hurting": {
+      "followUps": [
+        "If early codices differed, can I still trust the Quran I recite?",
+        "How should I respond to the online polemics that unsettled me?",
+        "What does it mean in practice to separate preservation, authorship and interpretation?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 5, "fairness": 6, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "Calm and honest, and the advice to separate three questions helps, but it is too terse to really settle an anxious reader."
+    },
+    "skeptic": {
+      "followUps": [
+        "How does the page deal with reports of verses lost or abrogated in recitation (for example the stoning verse)?",
+        "What does the Ṣan'ā' lower text differ in, and does it count against 'preserved'?",
+        "Is 'differ slightly' backed up? What are the Ibn Mas'ud examples?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 6, "fairness": 5, "clarity": 4, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "Credit for “'Not one letter differs in any manuscript' overstates the case” and Small vs Donner, but the Ṣan'ā' palimpsest appears only in sources, missing-verse reports are skipped, and “differ slightly” has no examples."
+    }
+  },
+  "missing": [
+    "An answer to the burning of rival codices raised in the question",
+    "At least one concrete example of a variant reading and of an Ibn Mas'ud difference",
+    "What the Ṣan'ā' palimpsest shows, in the text, not just in sources",
+    "Plain explanations of consonantal text, qirā'āt vs aḥruf, Hijazi script, and the BP figure",
+    "Discussion of the pre-610 part of the radiocarbon range and other dated manuscripts",
+    "How the page handles reports of lost or abrogated verses",
+    "How oral transmission worked and why it is trusted"
+  ],
+  "strengths": [
+    "Precise radiocarbon evidence with lab number, probability and the skin-vs-ink caveat",
+    "Openly corrects the 'not one letter differs' overclaim",
+    "Shows scholarly disagreement (Small vs Donner) with a Debated label",
+    "Bukhari 4986/4987 for the Abu Bakr and Uthman collections",
+    "Advice to separate preservation, authorship and interpretation"
+  ]
+}
