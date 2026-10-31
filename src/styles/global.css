@@ -1,4 +1,4 @@
-/* Literata and Fraunces set ʿ and ʾ half an em wide, which opens a gap
+/* Some faces set ʿ and ʾ half an em wide, which opens a gap
    inside transliterated words ("tazraʿ ūnahu"). These two glyphs come from
    Source Serif 4 instead: a 1 KB subset, used only for U+02BE–02BF. */
 @font-face {
@@ -22,18 +22,18 @@
    everything else from the tokens below. See docs/design/DESIGN.md §3. */
 
 :root {
-  --font-display: 'Ayn Hamza', 'Fraunces Variable', 'Literata Variable', Georgia, serif;
-  --font-text: 'Ayn Hamza', 'Literata Variable', Georgia, 'Times New Roman', serif;
+  --font-display: 'Ayn Hamza', 'Cormorant Garamond Variable', 'Cormorant Garamond', Georgia, serif;
+  --font-text: 'Ayn Hamza', 'Crimson Pro Variable', 'Crimson Pro', Georgia, 'Times New Roman', serif;
   --font-ui: 'Inter Variable', system-ui, -apple-system, 'Segoe UI', sans-serif;
   --font-mono: 'IBM Plex Mono', ui-monospace, Menlo, monospace;
   --font-arabic: 'Amiri Quran', 'Amiri', 'Noto Naskh Arabic', serif;
 
-  --measure: 36rem; /* ≈ 65 characters of Literata at the body size */
+  --measure: 36rem; /* ≈ 65 characters of Crimson Pro at the body size */
   --step--1: 0.875rem;
-  --step-0: clamp(1.0625rem, 1rem + 0.25vw, 1.1875rem);
-  --step-1: clamp(1.25rem, 1.15rem + 0.5vw, 1.5rem);
-  --step-2: clamp(1.5rem, 1.3rem + 1vw, 2rem);
-  --step-3: clamp(1.9rem, 1.5rem + 2vw, 2.9rem);
+  --step-0: clamp(1.1875rem, 1.12rem + 0.3vw, 1.3125rem);
+  --step-1: clamp(1.45rem, 1.3rem + 0.7vw, 1.8rem);
+  --step-2: clamp(1.85rem, 1.55rem + 1.4vw, 2.6rem);
+  --step-3: clamp(2.4rem, 1.8rem + 3vw, 4rem);
   --step-arabic: clamp(1.75rem, 1.4rem + 1.6vw, 2.6rem);
 
   --space-1: 0.25rem;
@@ -81,7 +81,7 @@ body {
   color: var(--ink);
   font-family: var(--font-text);
   font-size: var(--step-0);
-  line-height: 1.65;
+  line-height: 1.6;
   font-optical-sizing: auto;
   text-rendering: optimizeLegibility;
   transition:
@@ -114,12 +114,11 @@ h2,
 h3,
 h4 {
   font-family: var(--font-display);
-  font-weight: 420;
+  font-weight: 500;
   line-height: 1.2;
   letter-spacing: -0.005em;
   text-wrap: balance;
   margin: 0 0 var(--space-3);
-  font-variation-settings: 'SOFT' 60;
 }
 h1 {
   font-size: var(--step-3);
@@ -303,4 +302,24 @@ button {
   font-family: var(--font-ui);
   font-size: 0.78em;
   color: var(--ink-soft);
+}
+
+/* Arrival: a page's title and summary rise softly into place, like light
+   reaching a wall. Once, on load; never with reduced motion. */
+@media (prefers-reduced-motion: no-preference) {
+  main h1:not(.visually-hidden),
+  .sign__summary,
+  .moral__summary {
+    animation: arrive 1.4s var(--ease-breath) both;
+  }
+  .sign__summary,
+  .moral__summary {
+    animation-delay: 0.25s;
+  }
+}
+@keyframes arrive {
+  from {
+    opacity: 0;
+    transform: translateY(0.6rem);
+  }
 }

@@ -1,0 +1,158 @@
+---
+// The dome medallion (göbek), painted as the tile-makers would: a hatayi
+// rosette at the heart, eight tulips reaching outward, saz leaves sweeping
+// between them all in one direction, as if the whole flower were turning
+// slowly, inside a scalloped gilded edge. When it comes into view it opens
+// from its heart: the rosette turns open, the tulips rise one after another,
+// the leaves unfurl. With reduced motion it is simply there, in full flower.
+
+const C = 80;
+const petals = Array.from({ length: 8 }, (_, i) => i * 45);
+// The scalloped edge: sixteen shallow lobes bulging outward.
+const lobes = 16;
+const edge =
+  Array.from({ length: lobes }, (_, i) => {
+    const a = (i * 2 * Math.PI) / lobes - Math.PI / 2;
+    const b = ((i + 1) * 2 * Math.PI) / lobes - Math.PI / 2;
+    const p = (t: number) => `${(C + 64 * Math.cos(t)).toFixed(2)} ${(C + 64 * Math.sin(t)).toFixed(2)}`;
+    return `${i === 0 ? 'M' + p(a) : ''} A13.6 13.6 0 0 1 ${p(b)}`;
+  }).join(' ') + 'Z';
+const dots = Array.from({ length: lobes }, (_, i) => {
+  const a = ((i + 0.5) * 2 * Math.PI) / lobes - Math.PI / 2;
+  return [C + 66.5 * Math.cos(a), C + 66.5 * Math.sin(a)];
+});
+---
+
+<div class="medallion" data-medallion aria-hidden="true">
+  <span class="medallion__rule"></span>
+  <svg viewBox="0 0 160 160" width="160" height="160" focusable="false">
+    <g class="m-edge">
+      <path d={edge} class="m-scallop" />
+      <circle cx={C} cy={C} r="55" class="m-ring" />
+      {dots.map(([x, y]) => (
+        <circle cx={x.toFixed(2)} cy={y.toFixed(2)} r="1.5" class="m-dot" />
+      ))}
+    </g>
+    {petals.map((a, i) => (
+      <g transform={`translate(${C} ${C}) rotate(${a + 22.5}) translate(0 -18)`}>
+        <use
+          href="#fl-leaf-s"
+          class="m-grow m-unfurl"
+          style={`--i:${i}${i % 2 ? ';--leaf-tone:var(--turquoise)' : ''}`}
+        />
+      </g>
+    ))}
+    {petals.map((a, i) => (
+      <g transform={`translate(${C} ${C}) rotate(${a}) translate(0 -18) scale(0.74)`}>
+        <use href="#fl-tulip" class="m-grow" style={`--i:${i}`} />
+      </g>
+    ))}
+    <g transform={`translate(${C} ${C}) scale(1.8)`}>
+      <use href="#fl-rosette" class="m-heart" />
+    </g>
+  </svg>
+  <span class="medallion__rule"></span>
+</div>
+
+<style>
+  .medallion {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: var(--space-3);
+    margin-block: var(--space-6);
+  }
+  .medallion__rule {
+    flex: 0 1 7rem;
+    height: 1px;
+    background: linear-gradient(to var(--dir, right), transparent, var(--lamp-line));
+  }
+  .medallion__rule:last-child {
+    --dir: left;
+  }
+  svg {
+    width: clamp(8rem, 30vw, 10rem);
+    height: auto;
+    overflow: visible;
+  }
+  .m-scallop {
+    fill: color-mix(in srgb, var(--turquoise) 11%, var(--paper));
+    stroke: var(--lamp-line);
+    stroke-width: 1;
+  }
+  .m-ring {
+    fill: none;
+    stroke: var(--cobalt);
+    stroke-width: 0.7;
+    opacity: 0.6;
+  }
+  .m-dot {
+    fill: var(--turquoise);
+  }
+  /* Every growing part turns about its own base: the local origin. */
+  .m-grow,
+  .m-heart,
+  .m-edge {
+    transform-box: view-box;
+    transform-origin: 0 0;
+  }
+  .m-edge {
+    transform-origin: 80px 80px;
+  }
+  /* With JavaScript the flower waits closed and opens when seen. */
+  :global(.js) .medallion:not(.is-open) .m-heart {
+    opacity: 0;
+    transform: rotate(-90deg) scale(0.2);
+  }
+  :global(.js) .medallion:not(.is-open) .m-grow {
+    opacity: 0;
+    transform: scale(0.15);
+  }
+  :global(.js) .medallion:not(.is-open) .m-unfurl {
+    transform: rotate(-50deg) scale(0.15);
+  }
+  :global(.js) .medallion:not(.is-open) .m-edge {
+    opacity: 0;
+    transform: scale(0.92);
+  }
+  .medallion.is-open .m-heart {
+    transition:
+      opacity 0.9s var(--ease-breath),
+      transform 1.6s var(--ease-breath);
+  }
+  .medallion.is-open .m-grow {
+    transition:
+      opacity 0.8s var(--ease-breath),
+      transform 1.4s var(--ease-breath);
+    transition-delay: calc(0.5s + var(--i) * 0.11s);
+  }
+  .medallion.is-open .m-unfurl {
+    transition-delay: calc(0.9s + var(--i) * 0.11s);
+  }
+  .medallion.is-open .m-edge {
+    transition:
+      opacity 1.6s var(--ease-breath),
+      transform 2s var(--ease-breath);
+    transition-delay: 1.5s;
+  }
+  @media (prefers-reduced-motion: reduce) {
+    :global(.js) .medallion:not(.is-open) :is(.m-heart, .m-grow, .m-unfurl, .m-edge) {
+      opacity: 1;
+      transform: none;
+    }
+  }
+</style>
+
+<script>
+  const io = new IntersectionObserver(
+    (entries) => {
+      for (const e of entries)
+        if (e.isIntersecting) {
+          e.target.classList.add('is-open');
+          io.unobserve(e.target);
+        }
+    },
+    { threshold: 0.6 },
+  );
+  document.querySelectorAll('[data-medallion]').forEach((el) => io.observe(el));
+</script>

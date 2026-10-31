@@ -23,9 +23,12 @@ const { lang, label, important = false } = Astro.props;
 </aside>
 
 <style>
+  /* The Honest Note has a colour of its own, used nowhere else on the site,
+     and a faint wash of it, so it stands apart from every ornament. */
   .honest-note {
-    border-left: 1px solid var(--clay);
-    padding: var(--space-1) 0 var(--space-1) var(--space-3);
+    border-left: 2px solid var(--honest);
+    background: color-mix(in srgb, var(--honest) 5%, var(--paper));
+    padding: var(--space-2) var(--space-3);
     margin: var(--space-4) 0;
     color: var(--ink);
   }
@@ -34,7 +37,7 @@ const { lang, label, important = false } = Astro.props;
     font-size: 0.8rem;
     font-weight: 600;
     letter-spacing: 0.04em;
-    color: var(--clay);
+    color: var(--honest);
     margin: 0 0 var(--space-1);
   }
   .honest-note__body {
@@ -47,6 +50,6 @@ const { lang, label, important = false } = Astro.props;
     margin-bottom: 0;
   }
   .honest-note--important {
-    border-left-width: 3px;
+    border-left-width: 4px;
   }
 </style>

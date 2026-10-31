@@ -5,8 +5,10 @@ Latin-1, Latin Extended-A (Turkish, long vowels), the transliteration letters
 with dots and lines below, ʿ ʾ, common punctuation, and every character found
 in the built pages. Run after `npx astro build`:
     python3 scripts/subset-fonts.py
+Variable faces are also cut to the weights the CSS uses (400-600), which
+roughly halves what each one carries for its weight axis.
 Outputs are committed, so the site build itself never needs Python."""
-import glob, html, os, re, subprocess, sys
+import glob, html, os, re, subprocess, sys, tempfile
 from fontTools.ttLib import TTFont
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -21,11 +23,11 @@ for f in glob.glob(os.path.join(ROOT, 'dist/**/*.html'), recursive=True):
 
 # family, style, weight range, source pattern ({s} = latin | latin-ext)
 FACES = [
-    ('Fraunces Variable', 'normal', '100 900', 'fraunces', '@fontsource-variable/fraunces/files/fraunces-{s}-soft-normal.woff2'),
-    ('Fraunces Variable', 'italic', '100 900', 'fraunces-italic', '@fontsource-variable/fraunces/files/fraunces-{s}-soft-italic.woff2'),
-    ('Literata Variable', 'normal', '200 900', 'literata', '@fontsource-variable/literata/files/literata-{s}-wght-normal.woff2'),
-    ('Literata Variable', 'italic', '200 900', 'literata-italic', '@fontsource-variable/literata/files/literata-{s}-wght-italic.woff2'),
-    ('Inter Variable', 'normal', '100 900', 'inter', '@fontsource-variable/inter/files/inter-{s}-wght-normal.woff2'),
+    ('Cormorant Garamond Variable', 'normal', '400 600', 'cormorant', '@fontsource-variable/cormorant-garamond/files/cormorant-garamond-{s}-wght-normal.woff2'),
+    ('Cormorant Garamond Variable', 'italic', '400 600', 'cormorant-italic', '@fontsource-variable/cormorant-garamond/files/cormorant-garamond-{s}-wght-italic.woff2'),
+    ('Crimson Pro Variable', 'normal', '400 600', 'crimson', '@fontsource-variable/crimson-pro/files/crimson-pro-{s}-wght-normal.woff2'),
+    ('Crimson Pro Variable', 'italic', '400 600', 'crimson-italic', '@fontsource-variable/crimson-pro/files/crimson-pro-{s}-wght-italic.woff2'),
+    ('Inter Variable', 'normal', '400 600', 'inter', '@fontsource-variable/inter/files/inter-{s}-wght-normal.woff2'),
     ('IBM Plex Mono', 'normal', '400', 'plex-mono', '@fontsource/ibm-plex-mono/files/ibm-plex-mono-{s}-400-normal.woff2'),
 ]
 
@@ -48,6 +50,12 @@ for family, style, weight, name, pat in FACES:
         if half == 'b':
             need -= claimed_a  # a code point belongs to one half only
         out = f'{name}-{half}.woff2'
+        if ' ' in weight:  # variable: keep only the weight range the site uses
+            lo, hi = weight.split()
+            tmp = os.path.join(tempfile.gettempdir(), f'{name}-{half}.ttf')
+            subprocess.run([sys.executable, '-m', 'fontTools.varLib.instancer', src, f'wght={lo}:{hi}',
+                            '-q', '-o', tmp], check=True)
+            src = tmp
         subprocess.run([sys.executable, '-m', 'fontTools.subset', src, '--unicodes=' + ranges(need),
                         '--flavor=woff2', '--layout-features=*', '--output-file=' + os.path.join(OUT, out)], check=True)
         if half == 'a':

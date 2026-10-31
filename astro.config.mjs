@@ -12,6 +12,6 @@ export default defineConfig({
     locales: ['tr', 'en'],
     routing: { prefixDefaultLocale: true, redirectToDefaultLocale: false },
   },
-  // Inline the small per-page stylesheets (~11 KB) so nothing blocks first paint.
+  // Inline the per-page stylesheets (about 40 KB, 10 KB gzipped) so nothing blocks first paint.
   build: { format: 'directory', inlineStylesheets: 'always' },
 });

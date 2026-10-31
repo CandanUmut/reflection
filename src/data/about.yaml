@@ -1,45 +1,55 @@
 # The About page. Every statement describes how this site was made and is
-# checked; nothing here speaks for its author (that section waits for Umut).
+# checked. "How it was made" follows Umut's own answer (2026-10-31): "the
+# research and the code is built with the help of the AI, the idea is mine".
+# He chose not to have a section about himself.
 sections:
   - title:
       tr: Bu site nedir?
       en: What is this site?
     body:
       tr: |
-        Tefekkür, düşünmeye davet eden iki dilli (Türkçe ve İngilizce) bir sitedir. Kur'an'ın işaret ettiği âyetleri (tohum, su, gölge, uyku…), Kur'an'ın ahlâk vizyonunu ve inancın zor sorularına dürüst cevapları bir araya getirir. "Bilimsel mucize" sitesi değildir: Kur'an bir bilim kitabı değildir. Âyetler tefekküre davet olarak sunulur; bilim doğru ve ayrı olarak anlatılır.
+        Tefekkür, düşünmeye davet eden iki dilli (Türkçe ve İngilizce) bir sitedir. Kur'an'ın işaret ettiği âyetleri (tohum, su, gölge, uyku…), Kur'an'ın ahlâk vizyonunu ve inancın zor sorularına dürüst cevapları bir araya getirir. "Bilimsel mucize" sitesi değildir: Kur'an bir bilim kitabı değildir. Âyetler tefekküre davet olarak sunulur; bilim, araştırmanın verdiği şekliyle ve kaynaklarıyla, ayrı olarak anlatılır.
       en: |
-        Tefekkür is a bilingual (Turkish and English) site that invites reflection. It brings together the signs the Quran points to (seed, water, shadow, sleep…), the Quran's moral vision, and honest answers to hard questions of faith. It is not a "scientific miracles" site: the Quran is not a science textbook. Verses are shown as invitations to reflect; science is described accurately and separately.
+        Tefekkür is a bilingual (Turkish and English) site that invites reflection. It brings together the signs the Quran points to (seed, water, shadow, sleep…), the Quran's moral vision, and honest answers to hard questions of faith. It is not a "scientific miracles" site: the Quran is not a science textbook. Verses are shown as invitations to reflect; science is described separately, as the research gives it, with its sources.
+  - title:
+      tr: Nasıl yapıldı?
+      en: How was it made?
+    body:
+      tr: |
+        Bu sitenin fikri Umut'a aittir. Araştırma ve kod, yapay zekâ yardımıyla (Anthropic'in Claude'u) hazırlandı. Araştırmanın Türkçe metni de, Kur'an mealleri dışında, yapay zekâ yardımıyla çevrildi.
+      en: |
+        The idea for this site is Umut's. The research and the code were built with the help of AI (Claude, by Anthropic). The Turkish text of the research, apart from the Quran translations, was also translated with the help of AI.
   - title:
       tr: İçerik nereden geliyor?
       en: Where does the content come from?
     body:
       tr: |
-        - Sitedeki bütün içerik, bu projenin araştırma belgelerinden gelir (beş araştırma grubu: soru kataloğu, derin cevaplar, tefekkür âyetleri, ahlâk temaları). Araştırmada olmayan hiçbir şey eklenmez; eksikler ayrı bir listede tutulur.
-        - İngilizce metin araştırmanın kendisidir; bir betik onu kelimesi kelimesine sayfalara aktarır. Türkçe metin bu metnin çevirisidir.
-        - Her iddia, araştırmanın etiketini taşır: **Yerleşik bilgi** (bilimsel ya da tarihî uzlaşı), **Ana akım yorum** (âlimlerin yaygın yorumu), **Tartışmalı** (tartışmalı ya da azınlık görüşü).
-        - Popüler bir iddianın abarttığı her yerde bir **Dürüst not** vardır; bu notlar hiçbir zaman bir tıklamanın arkasına saklanmaz.
+        - Sitedeki bütün içerik, bu projenin araştırma belgelerinden gelir (beş araştırma belgesi; konuları: soru kataloğu, derin cevaplar, tefekkür âyetleri, ahlâk temaları). Araştırmanın iddialarına hiçbir şey eklenmez; sitenin yapımı için gereken birkaç küçük ekleme (örneğin çizimlerdeki enlemler) ve eksikler ayrı bir listede açıkça tutulur.
+        - İngilizce metnin çoğunu bir betik araştırmadan kelimesi kelimesine sayfalara aktarır; 20 sayfa elle aktarıldı ve araştırmada sitenin yapımcılarına yazılmış birkaç satır okurlar için yeniden ifade edildi (her değişiklik kayıtlıdır). Türkçe metin bu metnin çevirisidir; henüz Türkçe bilen bir âlim tarafından incelenmedi.
+        - Araştırma bir iddiayı etiketlediğinde sayfa o etiketi korur: **Yerleşik bilgi** (bilimsel ya da tarihî uzlaşı), **Ana akım yorum** (âlimlerin yaygın yorumu), **Tartışmalı** (tartışmalı ya da azınlık görüşü).
+        - Araştırmadaki her **Dürüst not** kendi sayfasında gösterilir; hiçbir zaman bir tıklamanın arkasına saklanmaz.
       en: |
-        - All content on the site comes from this project's research documents (five research batches: a catalogue of questions, deep answers, signs for reflection, moral themes). Nothing outside the research is added; gaps are kept in a separate list.
-        - The English text is the research itself; a script copies it word for word into the pages. The Turkish text is its translation.
-        - Every claim carries the research's label: **Established** (scientific or historical consensus), **Scholarly** (mainstream scholarly interpretation), **Debated** (contested or minority view).
-        - Wherever a popular claim overstates, there is an **Honest note**, never hidden behind a click.
+        - All content on the site comes from this project's research documents (five research documents, covering a catalogue of questions, deep answers, signs for reflection and moral themes). Nothing is added to the research's claims; the few small additions needed to build the site (such as the latitudes in the drawings) and the gaps are listed openly in a separate list.
+        - Most of the English text is copied word for word from the research by a script; 20 pages were moved by hand, and a few lines the research addressed to the site's makers were reworded for readers (each change is logged). The Turkish text is its translation and has not yet been reviewed by a Turkish-speaking scholar.
+        - Where the research labels a claim, the page keeps the label: **Established** (scientific or historical consensus), **Scholarly** (mainstream scholarly interpretation), **Debated** (contested or minority view).
+        - Every **Honest note** in the research is shown on its page, never hidden behind a click.
   - title:
       tr: Kur'an metni ve mealler
       en: Quran text and translations
     body:
       tr: |
-        Arapça metin Tanzil Projesi'nin Osmanî metnidir (CC BY 3.0). Mealler, değiştirilmeden: Türkçe için Elmalılı Hamdi Yazır (Tanzil'deki sadeleştirilmiş baskı), İngilizce için Saheeh International. Kelime kelime okunuş Quran.com verisinden alınmıştır. Yayına açılmadan önce iki mealin yayıncılarından yazılı izin alınması önerilir.
+        Arapça metin Tanzil Projesi'nin Osmanî metnidir (CC BY 3.0). Mealler, değiştirilmeden: Türkçe için Elmalılı Hamdi Yazır (Tanzil'deki sadeleştirilmiş baskı), İngilizce için Saheeh International. Kelime kelime okunuş Quran.com verisinden alınmıştır. İki meal de Tanzil'in koşullarına uygun olarak, ticari olmayan amaçla ve kaynak gösterilerek kullanılır; bu site ücretsizdir ve ticari değildir.
       en: |
-        The Arabic is the Tanzil Project's Uthmani text (CC BY 3.0). Translations, unchanged: Elmalılı Hamdi Yazır for Turkish (the simplified edition on Tanzil) and Saheeh International for English. Word-by-word transliteration comes from Quran.com data. Written permission from both translations' publishers is advised before the site goes public.
+        The Arabic is the Tanzil Project's Uthmani text (CC BY 3.0). Translations, unchanged: Elmalılı Hamdi Yazır for Turkish (the simplified edition on Tanzil) and Saheeh International for English. Word-by-word transliteration comes from Quran.com data. Both are used as Tanzil's terms allow: for non-commercial purposes, with attribution. This site is free and non-commercial.
   - title:
       tr: Nasıl kontrol edildi — ve henüz ne kontrol edilmedi
       en: How it was checked — and what is not checked yet
     body:
       tr: |
-        - Her yapım aşamasının sonunda iki bağımsız inceleme yapıldı: biri kod, tasarım ve erişilebilirlik için; biri içeriğin araştırmaya sadakati, dürüst notlar ve hassas konular için. Bulunan bütün zorunlu düzeltmeler yapıldı.
+        - Her yapım aşamasının sonunda iki otomatik yapay zekâ inceleme turu yapıldı (insan incelemesi değil): biri kod, tasarım ve erişilebilirlik için; biri içeriğin araştırmaya sadakati, dürüst notlar ve hassas konular için. Bulunan bütün zorunlu düzeltmeler yapıldı.
         - Araştırmanın kendisi, bazı bölümlerin uzman incelemesinden geçmesi gereken "sağlam bir ilk taslak" olduğunu söyler. Teolojik içerik henüz bir ilahiyatçı, bilimsel içerik bir alan uzmanı, hassas sayfalar da bir klinisyen tarafından incelenmedi. Bu yapılmadan site kesinleşmiş sayılmamalıdır.
-        - Erişilebilirlik: dört günün ışığı renk düzeninin hepsinde WCAG 2.2 AA hedeflenir ve otomatik olarak sınanır.
+        - Erişilebilirlik: dört günün ışığı renk düzeninin hepsinde WCAG 2.2 AA hedeflenir ve otomatik araçlarla denetlenir.
       en: |
-        - At the end of each build phase two independent reviews were run: one for code, design and accessibility; one for faithfulness to the research, honest notes and sensitive topics. Every must-fix they found was fixed.
+        - At the end of each build phase two automated AI review passes were run (not human reviews): one for code, design and accessibility; one for faithfulness to the research, honest notes and sensitive topics. Every must-fix they found was fixed.
         - The research itself says parts of it are "a solid first draft" for expert review. The theological content has not yet been reviewed by a theologian, the science by domain experts, or the sensitive pages by a clinician. Until then the site should not be treated as final.
-        - Accessibility: WCAG 2.2 AA is the target in all four time-of-day palettes, and it is tested automatically.
+        - Accessibility: WCAG 2.2 AA is the target in all four time-of-day palettes, and it is checked with automated tools.

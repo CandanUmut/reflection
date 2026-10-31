@@ -44,7 +44,11 @@ const sec = (it, n) => {
   // Words written after the label in the heading ("[Scholarly]. There are two main readings") belong to the text.
   const after = s.name.split(/\]\.\s*/)[1];
   // "How it works — and where it stops": the words after the dash are part of what the section says.
-  const dash = s.name.replace(/\s*\[.*$/, '').split(/\s+—\s+/)[1];
+  // "Honest note — important" is not such words: the flag shows it in the note's label.
+  const dash = s.name
+    .replace(/\s*\[.*$/, '')
+    .split(/\s+—\s+/)[1]
+    ?.replace(/^important\.?$/i, '');
   return tags + (after ? `${after}.\n\n` : '') + (dash && !after ? `…${dash}.\n\n` : '') + s.text;
 };
 const notApplicable = (t) => /^not (applicable|central)\.?$/i.test(t.trim());
