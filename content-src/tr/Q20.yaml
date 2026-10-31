@@ -1,0 +1,26 @@
+slugs: { tr: aisenin-yasi, en: aishas-age }
+theme: ethics
+title: Hz. Âişe'nin evlilik yaşı
+sensitivity: high
+helpCard: general
+verses: ["4:6"]
+steelman: |
+  Buhârî ve Müslim, altı yaşında nikâhı ve dokuz yaşında zifafı rivayet eder. Peygamber bütün zamanlar için bir örnekse, bugün çocuk istismarı dediğimiz şeyi onaylamış mı oldu? Bazı hukuk sistemleri bu rivayeti asgari yaş kanunlarına karşı delil olarak kullanır.
+whyAsked: |
+  İnternetteki başlıca polemiklerden biridir ve pek çok genç onunla ilk kez düşmanca videolarda karşılaşır.
+shortAnswer: |
+  Geleneksel rivayet en saygın hadis derlemelerinde yer alır. Bazı âlimler Âişe'nin daha büyük olduğunu savunur; 2022 tarihli bir Oxford tezi de rivayetin kendisinin sonradan ortaya çıktığını savunur; başkaları ikisini de reddeder. Tarih ne olursa olsun, bu site bugün çocuk yaşta evliliği onaylamaz. Bu, Türk hukukuna ve *makâsıd*a (zararı önlemek dâhil şeriatın amaçlarına) aykırıdır.
+layers:
+  4: |
+    Buhârî 5133–5134 ve Müslim 1422 rivayeti, çoğunlukla Hişâm b. Urve ← Urve ← Âişe yoluyla taşır. Klasik fakihler zifafı bedensel hazırlığa (*tâkat*) bağladı. Sonraki hukuk düzenlemeleri, *siyâset-i şer'iyye* (şeriat çerçevesinde yönetim) kapsamında devletin asgari yaşı belirlemesine izin verdi. Revizyonist kronolojiler (Urduca Kândehlevî ve bazı Türk ilahiyatçılar) Esmâ'nın yaşını ve Âişe'nin Bedir ve Uhud'da bulunmasını kullanarak onun ergenlik çağının sonlarında, yani yirmi yaşına yakın olduğunu savunur. Bunlar belirsiz rivayetlere dayanır [Debated].
+  5: |
+    Joshua Little (Oxford doktorası, 2022) bütün rivayetleri MS 754–765 arasında Kûfe'deki Hişâm'a dayandırır. Rivayetin "muhtemelen proto-Şiî polemiklere bir cevap olarak" ortaya çıktığını ve "gerçek bir tarihî hafıza"dan yoksun olduğunu söyler. ICRAA ("The Age of Aisha," 2024) buna katılmaz; en az üç kişinin Urve'den Hişâm'ı desteklediğini ve Urve dışında bir düzine râvinin aynı şeyi Âişe'den aktardığını belirtir.
+  6: |
+    Ergenlikte evlilik, geç Antikçağda ve Orta Çağ Avrupa'sında yaygındı. Türk Medeni Kanunu'nun 124. maddesi asgari yaşı 17 (mahkeme izniyle 16) olarak belirler. Erken evliliğin tıbbi riskleri, onu yasaklamak için bir *makâsıd* gerekçesi verir.
+  7: |
+    Bu rivayet karşısındaki ahlâkî sarsılma *yerindedir* ve kabul edilmelidir. Konu kişisel bir travmaya dokunuyorsa, nazikçe destek hizmetleri önerilmelidir.
+honest: |
+  Âişe'nin tam yaşı bilinemez. Rivayet klasik ölçütlere göre güçlüdür. Little'ın tezi ciddidir ama tartışmalıdır. Revizyonist kronolojiler çoğu zaman abartılıdır. Sayı oyunlarından kaçınmak gerekir; sağlam ifade ahlâkî olanıdır.
+visualization: |
+  Medine'den Kûfe'ye bir rivayet haritası. Evlilik yaşı normlarının zaman çizelgesi. Bir "üç görüş, tek ahlâk" kartı.
+sourceLabels: [null, null, null, 'ICRAA değerlendirmesi', null, 'Kândehlevî, *Umr-e Âişe* (Urduca)', 'TMK md. 124 (Türkçe)', 'TDV, "Âişe" (Türkçe)', 'Âişe (Vikipedi)']

@@ -1,0 +1,116 @@
+# Glossary (DESIGN.md §7). Every gloss is a definition the research itself
+# gives; `from` names the item where it appears. Nothing here is new content.
+# Block style throughout: commas inside a flow map would cut a gloss short.
+terms:
+  - term:
+      tr: tefekkür
+      en: tefekkür (tafakkur)
+    gloss:
+      tr: Düşünmek; derinlemesine üzerine eğilmek.
+      en: Reflection.
+    from: 00-research-brief
+  - term:
+      tr: âyet
+      en: āya (pl. āyāt)
+    gloss:
+      tr: İşaret. Kur'an'ın, tefekküre davet eden doğadaki şeylere verdiği ad; aynı zamanda Kur'an'ın bir cümlesi.
+      en: Sign. The Quran's name for things in nature that invite reflection; also a verse of the Quran.
+    from: Q12
+  - term:
+      tr: kader
+      en: qadar
+    gloss:
+      tr: İlahi takdir. Gelenek ona bir sır (*sır*) der.
+      en: Divine decree. The tradition calls it a mystery (*sirr*).
+    from: Q2
+  - term:
+      tr: cüz'î irade
+      en: cüz'î irade (partial will)
+    gloss:
+      tr: İnsanın gerçek ama küçük seçme gücü; Nursî'ye göre küçük ama belirleyici.
+      en: The human being's real but small power of choice; for Nursi, small but decisive.
+    from: Q2
+  - term:
+      tr: kesb
+      en: kasb
+    gloss:
+      tr: Eş'arîlere göre fiilleri Allah yaratır, insan onları "kesbeder" (edinir).
+      en: For Ashʿarīs, God creates acts and humans "acquire" them.
+    from: Q2
+  - term:
+      tr: vesvese
+      en: waswasa (vesvese)
+    gloss:
+      tr: İstenmeyen, zorlayıcı şüpheler ya da iç fısıltılar. Sık ve sıkıntılı döngüler hâlinde geliyorsa, tedavi edilebilen bir OKB türü olan dinî titizlik olabilir (bkz. Q8).
+      en: Unwanted, intrusive doubts or inner whispers. When they come in frequent, distressing loops, they may be scrupulosity, a treatable form of OCD (see Q8).
+    from: Q8
+  - term:
+      tr: haşyet
+      en: khashya
+    gloss:
+      tr: Bilgiyle gelen derin saygı; 35:28'de "bilgi sahibi olanların" karşılığı.
+      en: Reverence that comes with knowledge; the response of "those with knowledge" in 35:28.
+    from: S33
+  - term:
+      tr: fıtrat
+      en: fiṭra
+    gloss:
+      tr: Doğuştan gelen yatkınlık; Allah'a doğal bir açıklık (30:30).
+      en: The innate disposition; a natural openness to God (30:30).
+    from: Q26
+  - term:
+      tr: makâsıd
+      en: maqāṣid
+    gloss:
+      tr: Şeriatın amaçları; zararı önlemek dâhil.
+      en: The Sharia's purposes, including preventing harm.
+    from: Q20
+  - term:
+      tr: taabbüdî
+      en: taʿabbudī
+    gloss:
+      tr: Saf kulluk ibadetleri; her şekli açıklanmamış olanlar.
+      en: Acts of pure devotion, not every form of which is explained.
+    from: Q35
+  - term:
+      tr: ihsan
+      en: iḥsān
+    gloss:
+      tr: Her şeyde emredilmiştir (Müslim 1955).
+      en: Prescribed in all things (Muslim 1955).
+    from: M2
+  - term:
+      tr: tevekkül
+      en: tawakkul
+    gloss:
+      tr: Allah'a güvenmek. "Deveni bağla ve tevekkül et" (Tirmizî 2517).
+      en: Trust in God. "Tie your camel and trust" (Tirmidhī 2517).
+    from: Q16
+  - term:
+      tr: tekfir
+      en: takfīr
+    gloss:
+      tr: Diğer Müslümanları kâfir ilan etmek; Amman Mesajı (2005) bunu yasakladı.
+      en: Declaring other Muslims unbelievers; the Amman Message (2005) forbade it.
+    from: Q19
+  - term:
+      tr: içtihat
+      en: ijtihād
+    gloss:
+      tr: Bağımsız hukukî akıl yürütme.
+      en: Independent legal reasoning.
+    from: Q23
+  - term:
+      tr: emanet
+      en: amāna
+    gloss:
+      tr: Bırakılan mal, sırlar, kamu görevi, kişinin kendi bedeni ve yetenekleri ve insan olmanın bütün ahlâkî sorumluluğu (33:72).
+      en: Property left with you, secrets, public office, one's own body and abilities, and the whole moral responsibility of being human (33:72).
+    from: M9
+  - term:
+      tr: hikmet
+      en: ḥikma
+    gloss:
+      tr: Mâtürîdîlere göre aklın kısmen kavrayabileceği ilahi hikmet.
+      en: For Māturīdīs, divine wisdom that reason can partly grasp.
+    from: Q1

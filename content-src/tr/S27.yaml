@@ -1,0 +1,36 @@
+slugs: { tr: tek-suyla-sulanan-bahceler, en: gardens-watered-by-one-water }
+theme: plants
+title:
+  tr: Tek bir suyla sulanan bahçeler ve meyveler
+  en: Gardens and fruits watered by one water
+summary:
+  tr: Girdiler aynı, ürünler çeşit çeşit. Âyet, çeşitliliğin tesadüf değil tasarım olduğunu fark etmeye çağırır.
+  en: Sameness of inputs, diversity of outputs. The verse asks us to notice that variety is designed, not accidental.
+verses: ["13:4"]
+seeAlso: ["13:3", "6:99", "6:141"]
+tafsir: |
+  [Scholarly]
+
+  - *Sinvân* ("tek kökten"), ortak bir kökten büyüyen hurmaları anlatır; bu, hurma ağacının bir özelliğidir.
+  - Râzî bu âyeti **seçen bir Yaratıcı** için temel bir delil olarak kullanır: aynı toprak, aynı su ve aynı güneş farklı tatlar, renkler ve kokular verir; o hâlde fark yalnızca bu sebeplerden gelemez.
+  - İbn Kesîr tat, renk ve fayda çeşitliliğini vurgular.
+howItWorks: |
+  [Established]
+
+  - Aynı su ve toprak farklı meyveler verir, çünkü her bitki kendi **genetik programını** (DNA) taşır. Genler, bitkinin hangi şekerleri, asitleri, pigmentleri ve kokuları üreteceğini belirler.
+  - Toprak türü, mineraller, mikroplar ve güneş ışığı da tadı değiştirir. Bağcılar buna *terroir* der.
+  - Hurma ağaçları çoğu zaman ana ağacın dibinden fidanlar (yavrular) verir. Çiftçiler iyi bir çeşidi aynen çoğaltmak için bunları diker.
+awe: |
+  - Bir su molekülü her yerde aynıdır; yine de asma onu tatlı üzüme, limon ağacı ekşi limona, biber acılığa çevirir.
+  - Hurma fidanları genetik kopyalardır; ünlü çeşitler yüzyıllardır bu sayede korunmuştur.
+reflection: |
+  Girdiler aynı, ürünler çeşit çeşit. Âyet "akıl eden bir toplum için" diye biter: çeşitliliğin tesadüf değil tasarım olduğunu fark etmeye çağırır.
+honest: |
+  Genetik, aynı suyun *nasıl* farklı meyveler verdiğini açıklar. Bu tefekkürü ortadan kaldırmaz, ama Râzî'nin delilinin şeklini değiştirir: bugün soru, neden böylesine zengin ve cömert bir genetik "kütüphane" olduğuna dönüşür. Bunu dürüstçe bu şekliyle sunmak gerekir.
+visualization: |
+  - "Tek su, çok meyve": tek bir dere birkaç bitkiyi besler; her biri suyu kendi rengi, tadı ve kokusuyla farklı bir meyveye çevirir.
+  - Bir hurma fidanı canlandırması.
+sourceLabels:
+  - 'Râzî, *Mefâtîhu''l-Gayb*, 13:4 tefsiri'
+  - 'İbn Kesîr''in 13:4 ve 6:99 tefsirleri'
+  - 'Meyve tadı ve *terroir* üzerine standart bir bitki genetiği ya da bahçecilik kaynağı'

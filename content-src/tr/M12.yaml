@@ -1,0 +1,49 @@
+slugs: { tr: yeryuzune-ozen, en: care-for-the-earth }
+theme: earth
+title:
+  tr: Yeryüzüne özen, ölçülülük ve yeryüzünde bozgunculuktan sakınmak
+  en: Care for the earth, moderation, and avoiding corruption on earth
+summary:
+  tr: '"Kıyamet kopmak üzereyken birinizin elinde bir hurma fidanı varsa, onu diksin."'
+  en: '"If the Hour is about to come and one of you has a palm shoot in his hand, let him plant it."'
+verses: ["7:31", "30:41", "6:141", "55:7-9", "2:205", "2:30"]
+teachings: |
+  - "Yiyin, için, fakat israf etmeyin; O israf edenleri sevmez" (7:31; ayrıca 6:141).
+  - "İnsanların kendi elleriyle yaptıkları yüzünden karada ve denizde bozulma ortaya çıktı" (30:41).
+  - "Dengeyi bozmayın" (55:8).
+  - Yeryüzünde *halife* (ardıl, emanetçi) olarak insan (2:30).
+  - Güç kazandıklarında "bozgunculuk çıkaran, ekinleri ve hayvanları helak edenler" (2:205).
+  - Hadis: "Kıyamet kopmak üzereyken birinizin elinde bir hurma fidanı varsa, onu diksin" (Müsned, Ahmed 12902; el-Edebü'l-Müfred 479). "Bir Müslüman bir ağaç diker ya da ekin eker de ondan bir kuş, bir insan ya da bir hayvan yerse, bu onun için sadakadır" (Buhârî 2320). Akan bir nehir kenarında bile suyu israf etmek üzerine olan hadis (İbn Mâce 425) — **bu hadisin senedi zayıftır**.
+enOverrides:
+  # Author-facing instruction ("use it only with that label") dropped; the weak-chain label is kept.
+  teachings: |
+    - "Eat and drink, but do not waste; He does not love the wasteful" (7:31; also 6:141).
+    - "Corruption has appeared on land and sea because of what people's hands have earned" (30:41).
+    - "Do not transgress the balance" (55:8).
+    - The human as *khalīfa* (successor, steward) on earth (2:30).
+    - Those who, when they gain power, "spread corruption, destroying crops and livestock" (2:205).
+    - Hadith: "If the Hour is about to come and one of you has a palm shoot in his hand, let him plant it" (Musnad Aḥmad 12902; al-Adab al-Mufrad 479). "Any Muslim who plants a tree or sows a crop, and a bird, a person or an animal eats from it, it is charity for him" (Bukhārī 2320). On wasting water even at a flowing river (Ibn Mājah 425) — **this hadith's chain is weak**.
+scholarship: |
+  - *Hilâfet*, pek çok modern âlim tarafından emanetçilik olarak okunur: yeryüzü tüketilecek bir mülk değil, bir emanettir (*emanet*). Klasik tefsir *halife*yi daha çok nesillerin birbirini izlemesi ya da adaletle yönetmek olarak okudu; ekolojik okuma modern bir genişletmedir [Scholarly].
+  - Hz. Peygamber, Medine yakınındaki Nakî' gibi otlak için korunan alanlar (*hima*) belirledi (Buhârî 2370: "Hima ancak Allah'ın ve Resûlü'nündür"); güçlülerin özel, kapalı korularına son verdi.
+  - Çağdaş düşünürler: S.H. Nasr (*Man and Nature*, 1968) ekolojik krizin manevî kökleri üzerine; **Küresel İklim Değişikliğine Dair İslami Deklarasyon** (İstanbul, 2015).
+evidence: |
+  - Doğada vakit geçirmek, daha iyi ruh hâli ve daha düşük stresle ilişkilidir (derleme kanıtları; ör. White ve ark., 2019'da haftada yaklaşık 120 dakikalık eşik). [*orta*, ilişkisel]
+  - Dinin çevreci davranışa etkisi çalışmalar arasında **karışıktır**; değerlerin eyleme dönüşmesi için açıkça öğretilmesi gerekir. [*karışık*]
+stories: |
+  - Ebû Bekir'in ordulara talimatları arasında meyve ağaçlarını kesmemek ve yiyecek dışında hayvan öldürmemek vardı (Mâlik, *Muvatta*).
+  - Osmanlı vakıfları leyleklerin ve göçmen kuşların bakımını ve cami duvarlarına yapılan "kuş köşkleri"ni finanse etti.
+  - Geleneksel *hima* sistemleri, Orta Doğu'nun bazı bölgelerinde topluluk temelli koruma olarak yeniden canlandırılıyor.
+gaps: |
+  - Orta Doğu ve Kuzey Afrika dünyanın su sıkıntısı en yüksek bölgesidir; pek çok Müslüman çoğunluklu ülkede su israfı ve kirliliği ciddi sorunlardır.
+  - Gıda israfı, plastik kullanımı ve aşırı tüketim, Ramazan dâhil pek çok yerde yüksektir.
+  - Müslümanların doğal olarak daha iyi çevreci olduğunu iddia etmemek; öğretiyi ve dürüst boşluğu sunmak gerekir.
+visualization: |
+  - "Yine de dik": son saat hadisi sakin bir canlandırma olarak — ışık değişirken toprağa bir hurma fidanı yerleştiren bir el.
+  - Bir *hima* harita kartı: herkesin paylaştığı korunan bir vadi ve çitle çevrilmiş özel arazi.
+sourceLabels:
+  - 'S.H. Nasr, *Man and Nature: The Spiritual Crisis of Modern Man* (1968)'
+  - 'Küresel İklim Değişikliğine Dair İslami Deklarasyon (İstanbul, 2015)'
+  - 'White ve ark. — Doğada haftada en az 120 dakika geçirmek iyi sağlık ve iyi oluşla ilişkilidir, *Scientific Reports* 2019'
+  - 'Buhârî 2320, 2370; Müsned, Ahmed 12902'
+  - 'Dünya Kaynakları Enstitüsü, Aqueduct su sıkıntısı verileri'

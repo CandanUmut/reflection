@@ -1,0 +1,26 @@
+slugs: { tr: imani-yeniden-insa, en: rebuilding-faith }
+theme: doubt
+title: Bir şüphe krizinden sonra imanımı nasıl yeniden inşa ederim?
+sensitivity: high
+helpCard: suffering
+verses: ["2:260"]
+steelman: |
+  Kesinliğim gitti. Rol yapmadan nasıl geri dönerim?
+whyAsked: |
+  ABD'deki bir örneklemde yetişkinlerin %45,4'ü şüpheyle ilgili mücadeleler bildirdi (Exline ve ark.).
+shortAnswer: |
+  Eski kesinliğine bir anda geri dönmen gerekmiyor. Gazzâlî iki kriz yaşadı ve daha derinleşerek geri döndü. Dürüst ol, bir rehber bul, küçük pratiklere geri dön, iyi insanlarla ol ve gerekirse terapi al.
+layers:
+  4: |
+    Gazzâlî'nin ilk krizi, "Allah'ın göğse attığı bir nur" ile sona erdi (*Munkız*). İbrahim "kalbim mutmain olsun diye" sordu (2:260). Şüpheden duyulan sıkıntı "sarih imandır" (Müslim 132).
+  5: |
+    İman, belirsizlik altında güvendir.
+  6: |
+    RSS'de (Dinî ve Manevî Mücadeleler ölçeği) şüphe alt ölçeği biraz *daha az* depresyonu yordadı (Exline ve ark. 2014). Bir meta-analiz (Bockrath ve ark. 2022) manevî mücadeleleri sonraki sıkıntıyla ilişkilendirir.
+  7: |
+    Umutsuzluk ya da dinî OKB için yardım iste: 112 ya da bir Toplum Ruh Sağlığı Merkezi (TRSM).
+honest: |
+  Herkes geri dönmez ve buna saygı duyulmalıdır.
+visualization: |
+  Gazzâlî'nin yolculuğunun haritası. Bir adım takipçisi. Bir yardım kartı.
+sourceLabels: ['Gazzâlî, *el-Munkız*', null, null, null, null, 'APA — manevî mücadeleler', 'Templeton — manevî mücadele raporu']

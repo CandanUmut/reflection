@@ -1,0 +1,28 @@
+slugs: { tr: kabul-olmayan-dua, en: unanswered-prayer }
+theme: suffering
+title: Dualar neden kabul olmuyor?
+helpCard: suffering
+verses: ["40:60", "2:186", "12:86"]
+steelman: |
+  "Bana dua edin, size icabet edeyim" (40:60). Annemin iyileşmesi için dua ettim ve o öldü. Ya vaat yanlış, ya Allah umursamıyor, ya da kimse dinlemiyor.
+whyAsked: |
+  Kişisel travma; Yaqeen, bir yakının ölümünü tetikleyiciler arasında sayar ve travmayı belki de en yaygın yol olarak görür.
+shortAnswer: |
+  Hz. Peygamber hiçbir samimi duanın boşa gitmediğini öğretti: Allah ya onu çabucak verir, ya karşılığını âhiret için saklar, ya da ona denk bir kötülüğü uzaklaştırır. Sahâbe daha çok dua edeceklerini söylediğinde, Allah'ın daha da fazlasını verdiğini söyledi. "İcabet", "her zaman istendiği gibi vermek" değil, "karşılık vermek" demektir. Bu, yası silmeden duayı bir otomat değil, bir ilişki olarak yeniden çerçeveler.
+layers:
+  4: |
+    Âyetler: 2:186; 40:60; 2:216. Hadis: Müsned, Ahmed 11133 (Ebû Saîd el-Hudrî), Arnaût tarafından ceyyid sayılmış, Tirmizî 3573 ve el-Edebü'l-Müfred 710'da da rivayet edilmiştir; Buhârî ve Müslim: "acele etmediği sürece" icabet olunur. Klasik: İbn Kayyim (*ed-Dâ' ve'd-Devâ'*) duayı kaderin içindeki bir sebep olarak görür; İbn Atâullah (*Hikem*): gecikme ümitsizlik sebebi değildir, Allah dilediği gibi karşılık verir.
+  5: |
+    İtiraz: "üç sonuç" yanlışlanamaz. Cevap: bu, hikmet sahibi bir Allah'a inanıldığında tutarlı olan, ilahi hikmete dair teolojik bir iddiadır. Dilekte bulunan dua yine de bağımlılığı ve ilişkiyi ifade eder.
+  6: |
+    [Established] STEP çalışması (Benson ve ark., American Heart Journal 2006; 6 ABD hastanesinde 1.802 bypass hastası), şefaat duası edilen hastalarda %52 (315/604), dua edilmeyenlerde %51 (304/597) ve kendileri için dua edildiği söylenen hastalarda %59 komplikasyon buldu; yani ölçülebilir bir fayda görülmedi. İslam teolojisi duanın bir ilaç gibi işleyeceğini öngörmez.
+  7: |
+    Yas içinde Allah'a öfke, dinî başa çıkma araştırmalarında yaygındır. Kur'an Yakub'un yakarışını korur: "Ben derdimi ve hüznümü yalnız Allah'a arz ediyorum" (12:86). Yakarışı iman olarak kabul etmek gerekir.
+honest: |
+  Üç sonuç hadisi teselli verir ama sınanamaz; onu güvenilecek bir vaat olarak sunmak gerekir.
+visualization: |
+  - Üç dallı bir dua yolu: verildi, saklandı, kötülük uzaklaştırıldı.
+  - Yakub'un yakarışı kartı.
+  - Bir günlük sorusu: "Allah, hiç görmediğin hangi şeyi senden uzaklaştırdı?"
+sourceUrls:
+  0: https://hadeethenc.com/en/browse/hadith/5100

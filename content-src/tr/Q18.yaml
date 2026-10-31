@@ -1,0 +1,46 @@
+slugs: { tr: dindarlarin-davranislari, en: religious-hypocrisy }
+theme: hypocrisy
+title: '"Dindarlar böyle davranıyorsa, neden inanayım?"'
+sensitivity: high
+helpCard: general
+verses: ["2:44", "61:2-3"]
+steelman: |
+  Bir inanç insanları gerçekten dönüştürüyorsa, kamusal yüzü daha iyi görünmeliydi. Yalan söyleyen vaizler, örtbas edilen istismarlar ve oy kazanmak için kullanılan din, onun bir güç aracı olduğunu düşündürüyor.
+whyAsked: |
+  Bu, Yaqeen verilerindeki en büyük tetikleyicidir. Türkiye'de gençler şunları gördü:
+  - dinin rakip siyasi ve cemaat aktörlerince kullanılması;
+  - dinî yurtlardaki istismar vakaları;
+  - devletin dinî bir yapılanmaya bağladığı 2016 darbe girişimi.
+
+  Diyanet'in kendi aylık dergisi (Kasım 2018) gençlerin *din istismarından* nasıl korunacağını sordu. Bu, mantıktan değil ihanetten doğan bir şüphedir.
+shortAnswer: |
+  Kur'an müminler arasında ikiyüzlülük olacağını bekler ve onu hiçbir eleştirmenin yapmadığı kadar sert kınar. Dinin kötüye kullanılması, Kur'an'ın insan doğasına dair anlatımını doğrular; sigara içen bir doktor tıbbı çürütmez. Öfken meşrudur. Mesajı kaynağına ve en iyi örneklerine göre değerlendir; imanının yozlaşmış insanların elinde kalmasına izin verme.
+layers:
+  4: |
+    - "İnsanlara iyiliği emredip kendinizi unutuyor musunuz?" (2:44); ayrıca 61:2–3, Mâûn sûresi ve münafıklar hakkında Münâfikûn sûresi.
+    - Münafığın alametleri yalan söylemek, sözünden dönmek ve emanete ihanet etmektir (Buhârî 33; Müslim 59).
+    - "Din nasihattir", yöneticilere nasihat dâhil (Müslim 55).
+    - Gazzâlî "dünya âlimlerine" saldırdı. Nursî "şeytandan ve siyasetten" Allah'a sığındı.
+  5: |
+    İtiraz *ad hominem*dir: mesajı taşıyıcılarına göre yargılar. Veriler karışıktır. Dinî pratik daha fazla bağışı yordar, ama yalnızca dinî bir etiket pek az şeyi yordar. Bu, Kur'an'ın *islâm* (dışa dönük teslimiyet) ile *îmân/ihsân* (iman ve güzellik) arasındaki ayrımına uyar. Adil bir karşı nokta "gerçek İskoç yoktur" sorunudur: kötü aktörlerin hiç gerçek mümin olmadığını söylemek çok kolaydır. Topluluklar kendi başarısızlıklarını sahiplenmelidir.
+  6: |
+    Norris ve Inglehart gençler arasındaki daha hızlı dinden kopuşu din ile devletin iç içe geçmesine bağlar. KONDA'nın Türkiye eğilimi bu örüntüye uyar, ama sebebi kanıtlayamaz.
+  7: |
+    Dindarların verdiği yara, "kişilerarası" manevî mücadele olarak ortaya çıkar (Exline ve ark. 2014). İstismar mağdurları için önce güvenlik ve travma terapisi gelir. İstismarcı bir gruptan ayrılmak Allah'tan ayrılmak değildir.
+honest: |
+  Türkiye'deki topluluklar da, başkaları gibi, zaman zaman istismarcıları korudu ve inancı siyasi olarak kullandı. "Bu gerçek İslam değil" demek yetmez. Bu site:
+  - istismarı hem günah hem suç olarak adlandırır;
+  - klinik yardıma ve 112 acil hattına yönlendirir;
+  - parti siyasetinden uzak durur;
+  - *hangi taraftan* gelirse gelsin kötüye kullanımı eleştirir.
+enOverrides:
+  # "The site should:" (author-facing) restated as what this site does.
+  honest: |
+    Turkish communities, like others, have sometimes shielded abusers and used faith politically. "That's not real Islam" is not enough. This site:
+    - names abuse as both sin and crime;
+    - points to clinical help and the 112 emergency line;
+    - avoids party politics;
+    - criticises misuse by *any* side.
+visualization: |
+  Bir "ayna ve pencere" kartı. İkiyüzlülük âyetlerinden bir kaydırıcı. Mesajı, taşıyıcıyı ve kötüye kullanımı ayıran bir ayırıcı.
+sourceLabels: [null, 'Diyanet Aylık Dergi, Kasım 2018 (Türkçe)', 'Gazzâlî, *İhyâ* (Arapça)', 'Nursî, *Mektubat* (Türkçe)', null, 'H.H. Behr, "Keine Angst vor Kritik" (Almanca, 2014)']

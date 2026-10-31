@@ -1,0 +1,41 @@
+slugs: { tr: gece-ve-gunduz, en: night-and-day }
+theme: cosmos
+title:
+  tr: Gece ve gündüz; kandil olarak güneş, nur olarak ay
+  en: Night and day; the sun as a lamp, the moon as a light
+summary:
+  tr: Her ışığın bir görevi var. Biri yanar ve hayatı yürütür, öteki zamanı yumuşakça işaretler.
+  en: Each light has its role. One burns and drives life, the other gently marks time.
+verses: ["10:5", "25:61", "78:13"]
+seeAlso: ["71:16"]
+verseNotes:
+  tr: "Güneş için *ziyâ* (parıltı) ve *sirâc* (kandil), ay için *nûr* (ışık) kelimeleri kullanılır. 78:13: *sirâcen vehhâcâ*, \"parıl parıl yanan bir kandil\"."
+  en: "The sun is called *ḍiyāʾ* (radiance) and *sirāj* (lamp), the moon *nūr* (light). 78:13: *sirājan wahhājā*, \"a blazing lamp\"."
+tafsir: |
+  [Scholarly]
+
+  - Müfessirler farklı kelimelere dikkat çeker: güneş *ziyâ* ya da *sirâc*tır (parıltı, yanan bir kandil), ay ise *nûr*dur (yumuşak ışık).
+  - Râzî ve Zemahşerî *ziyâ*yı ısı ve güç taşıyan ışık, *nûr*u daha sakin bir ışık olarak ele alır.
+  - İkisi de vakit ölçümüne bağlanır: ay aylar ve yıllar için, güneş günler ve namaz vakitleri için.
+howItWorks: |
+  [Established]
+
+  - Güneş bir yıldızdır. Çekirdeğinde füzyon hidrojeni helyuma çevirir ve muazzam bir enerji açığa çıkarır; yani kendi ışığını üreten gerçek bir kandildir.
+  - Ay ışık üretmez. Güneş ışığını yansıtır, üstelik kendisine ulaşanın yalnızca yaklaşık %12'sini; yüzeyi aslında karanlıktır.
+  - Güneş ışığı Dünya'ya yaklaşık 8 dakika 20 saniyede ulaşır.
+  - Ay'ın evreleri her 29,5 günde bir tekrarlanır; hicrî ayların temeli budur. On iki kamerî ay yaklaşık 354 gün eder; bu yüzden Ramazan yaklaşık 33 yılda bütün mevsimleri dolaşır.
+awe: |
+  - Güneş her saniye kütlesinin yaklaşık 4 milyon tonunu enerjiye dönüştürür.
+  - Dolunay parlak görünür, ama yüzeyi aşınmış asfalt kadar karanlıktır. Yalnızca siyah bir gökyüzünün önünde tam güneş ışığı altında durduğu için parlar.
+  - Yeterince uzun yaşayan bir Müslüman, yılın her mevsiminde Ramazan orucu tutar.
+reflection: |
+  Her ışığın bir görevi var: biri yanar ve hayatı yürütür, öteki zamanı yumuşakça işaretler. İkisi de insanlar sayabilsin, plan yapabilsin ve ibadet edebilsin diye yerleştirilmiştir. Göğün düzeni, gündelik hayatın ritmi olur.
+honest: |
+  Farklı kelimeler bilimle iyi uyuşur ve klasik âlimler nitelik farkını zaten fark etmişti. Ama *nûr* Allah için (24:35) ve vahiy için de kullanılır; dolayısıyla kesin olarak "yansıyan ışık" anlamına gelmez. Pek çok eski yazar da Ay'ın Güneş tarafından aydınlatıldığını biliyordu. Bunu yeni bir bilginin açıklanması olarak değil, bir uyum olarak sunmak gerekir.
+visualization: |
+  - Kullanıcının Ay'ı hareket ettirip evreleri gördüğü bir Güneş–Dünya–Ay modeli; 29,5 günlük ay ve 354 günlük yıl için sayaçlarla.
+  - 33 yıl boyunca "mevsimler içinde Ramazan" çarkı.
+sourceLabels:
+  - 'NASA Güneş ve Ay bilgi sayfaları (güneş ışıması, ay albedosu)'
+  - 'Râzî ve Zemahşerî''nin 10:5 ve 25:61 tefsirleri'
+  - 'Diyanet, hicrî takvim üzerine'

@@ -1,0 +1,41 @@
+slugs: { tr: korunmus-tavan, en: protected-roof }
+theme: cosmos
+title:
+  tr: Korunmuş tavan
+  en: The protected roof
+summary:
+  tr: Nadiren fark ettiğimiz koruma katmanlarının altında yaşıyoruz. Koruma o kadar süreklidir ki onu unuturuz.
+  en: We live under layers of protection we rarely notice. The protection is so constant that we forget it.
+verses: ["21:32", "2:22"]
+seeAlso: ["15:16-18"]
+verseNotes:
+  tr: "21:32: *ve cealne's-semâe sakfen mahfûzâ*, \"göğü korunmuş bir tavan yaptık\". 2:22'de gök bir *binâ* (bina, kubbe) olarak anılır; 15:16–18 göğün kayan yıldızlarla korunmasından söz eder."
+  en: "21:32: *wa jaʿalnā al-samāʾa saqfan maḥfūẓā*, \"We made the sky a protected roof\". In 2:22 the sky is a canopy (*bināʾ*); 15:16–18 speaks of the sky guarded by shooting stars."
+tafsir: |
+  [Scholarly]
+
+  - Müfessirler "korunmuş" kelimesini, yeryüzüne düşmekten korunmuş (22:65) ve göklere kulak veren şeytanlardan korunmuş (15:17–18, 37:6–10) olarak okur.
+  - Vurgu Allah'ın inayeti ve düzenidir: bizim için inşa edilmiş ve korunan bir tavan.
+howItWorks: |
+  [Established]
+
+  - **Atmosfer** soluyacak hava verir, Dünya'yı sıvı suya yetecek kadar sıcak tutar ve gelen göktaşı parçacıklarının çoğunu "kayan yıldız" olarak yakar. Her gün tonlarca uzay tozu ve kayası atmosfere düşer; neredeyse hepsi yanıp gider.
+  - Stratosferdeki **ozon tabakası** zararlı morötesi ışığın çoğunu emer (UV-C'nin tamamını ve UV-B'nin çoğunu).
+  - Dünya'nın manyetik alanı olan **manyetosfer**, Güneş'ten gelen yüklü parçacık akımı olan güneş rüzgârının çoğunu saptırır. Kutuplara yakın yerlerde bazı parçacıklar içeri sızar; orada kutup ışıklarını (aurora) görürüz.
+  - Manyetik alanı olmayan bir gezegen atmosferini yavaş yavaş kaybedebilir. Mars'ın başına muhtemelen bu geldi.
+awe: |
+  - Her açık gecenin "kayan yıldızları", tepemizde onlarca kilometre yukarıda yanan uzay enkazıdır.
+  - Kutup ışıkları, başka türlü göremeyeceğimiz bir kalkanın görünür delilidir.
+  - Manyetik alanının çoğunu kaybetmiş olan Mars'ın atmosferi bugün Dünya'nınkinin yaklaşık %1'i kadar yoğundur.
+reflection: |
+  Nadiren fark ettiğimiz koruma katmanlarının altında yaşıyoruz: hava, ozon, manyetik bir kalkan. Âyet yumuşak bir sitemle biter: "Onlar ise göğün âyetlerinden yüz çevirirler." Koruma o kadar süreklidir ki onu unuturuz.
+honest: |
+  - Âyet korunmuş bir tavandan söz eder; klasik âlimler korumayı esas olarak göğün tutulması ve şeytanlardan korunması olarak anladı. Ozon ve manyetosfer, imgeye iyi uyan modern tefekkürlerdir.
+  - Âyetin "ozon tabakasını anlattığını" iddia etmemek gerekir. Bilimi, "korunmuş tavan"ın bugün ne anlama gelebileceğini görmenin bir yolu olarak sunmak gerekir.
+visualization: |
+  - Katmanlı bir "kalkan" canlandırması: bir göktaşı atmosferde yanar, UV ışınları ozon tarafından emilir, güneş rüzgârı parçacıkları manyetik alanın etrafından kıvrılır, kutuplarda bir aurora parlar.
+  - Bir karşılaştırma kartı: manyetik kalkanlı ve kalkansız Dünya ile Mars.
+sourceLabels:
+  - 'NASA StarChild — Göktaşları'
+  - 'NASA ve NOAA''nın ozon tabakası ve manyetosfer üzerine genel bakışları'
+  - 'İbn Kesîr ve Kurtubî''nin 21:32 tefsirleri'

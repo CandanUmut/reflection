@@ -1,0 +1,31 @@
+slugs: { tr: namaz-ve-kuruluk, en: prayer-and-dryness }
+theme: worship
+title: Neden günde beş vakit namaz, ve neden hiçbir şey hissetmiyorum?
+verses: ["20:14", "23:1-2"]
+steelman: |
+  Yabancı bir dilde, belirli beş namaz mekanik hissettirebilir. Hiçbir şey hissetmiyorsam, bu boş bir ritüel, hatta ikiyüzlülük değil mi?
+whyAsked: |
+  Ritüelin akıl dışı görülmesi; manevî kuruluk ve suçluluk; anlamı öğretilmeden bir görev olarak öğretilen namaz. TİDA'ya göre Türkiye'de 25 yaş altındakilerin yalnızca yaklaşık beşte biri namaz kılıyor.
+shortAnswer: |
+  Hiçbir şey hissetmemek yaygındır ve bin yıldır tartışılır; namazın boş olduğunu kanıtlamaz. Namaz önce, duyguyla ya da duygusuz, Allah'a dönmenin bir ritmidir (20:14). Kalp huzuru (*huşû*), kelimeleri anlamakla, yavaşlamakla ve sabırla büyür. Kuraklık dönemlerinde ritmi sürdürmek ikiyüzlülük değil, vefadır.
+layers:
+  4: |
+    - *Âyetler:* 20:14; 29:45; 23:1–2; 107:4–5.
+    - *Beş vakit:* sayı Mi'rac hadisinden gelir (Buhârî 349; Müslim 162); Kur'an vakitlere işaret eder (11:114; 17:78; 30:17–18). Bazı Türk Kur'ancılar üç vakit savunur [Debated].
+    - *Klasik:* Gazzâlî (*Esrârü's-Salât*) altı iç anlam sayar: huzur, anlama, tazim, heybet, ümit, hayâ; kalp huzuru olmadan kılınan namaz fıkhî borcu yerine getirir ama manevî olarak zayıftır. İbn Kayyim namaz kılanların beş derecesini anlatır.
+    - *Tasavvuf:* Kuşeyrî'nin kabz ve bast anlatımı, kuru dönemleri olağan sayar.
+  5: |
+    Alışkanlık teorisi (Aristoteles; Miskeveyh): erdemler, hissedilmeden önce tekrarlanan davranışlarla oluşur. İtiraz: duygusuz ritüel sahicilikten yoksundur. Cevap: sahicilik, evlilikte olduğu gibi uzun soluklu bağlılıktır.
+  6: |
+    [Debated] Yapılandırılmış ritüel belirsizlik altında kaygıyı azaltabilir; Müslüman namazı üzerine çalışmalar küçük örneklemlerde fizyolojik değişiklikler gösterir.
+  7: |
+    "Hiçbir şey hissetmemek" her şeyi kapsıyorsa (yemek, arkadaşlar), bir ruh sağlığı kontrolü önerilmelidir. Abdesti tekrarlamak ya da namazın geçersiz olmasından korkmak klasik vesvesedir; klasik kural, bitirdikten sonraki aşırı şüpheyi dikkate almamaktır.
+honest: |
+  Beş sayısı, açık bir Kur'an sayısına değil, hadise ve uygulamaya dayanır. Hiçbir teknik duyguyu garanti etmez.
+visualization: |
+  - Kullanıcının şehri için gerçek güneş açılarını izleyen beş vakitlik bir gün halkası.
+  - Kelime kelime Fâtiha.
+  - Kışın köklerini koruyan bir "kurak mevsimler" ağacı.
+sourceLabels: ['Kur''an 20:14, 23:1–2', null, null, null, null, null, null, 'Diyanet İlmihali']
+sourceUrls:
+  6: https://andcenter.org/tr/sosyoloji/sayilarla-turkiyede-inanc-ve-dindarlik/

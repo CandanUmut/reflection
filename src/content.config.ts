@@ -32,12 +32,15 @@ const signs = defineCollection({
     summary: text,
     /** Word notes from the research's verse section (e.g. the root of a key word). */
     verseNotes: text.optional(),
-    tafsir: text,
+    /** Optional: a few early research items (e.g. S6) give no classical tafsir; logged in CONTENT_GAPS. */
+    tafsir: text.optional(),
     howItWorks: text,
     awe: text.optional(),
-    reflection: text,
+    /** Optional: S3, S7 and S9 have no reflection in the research; logged in CONTENT_GAPS. */
+    reflection: text.optional(),
     reflectionVerses: z.array(verseRef).optional(),
-    honestNotes: z.array(text),
+    /** `important`: the research marks the note "Honest note — important". */
+    honestNotes: z.array(text.extend({ important: z.boolean().optional() })),
     visualizations: z.array(visualization),
     sources: z.array(source).min(1),
   }),
@@ -53,7 +56,7 @@ const questions = defineCollection({
     /** "high" = the research marks it high-sensitivity. */
     sensitivity: z.enum(['normal', 'high']),
     /** Suffering, grief, disasters, vesvese: show the gentle help card. */
-    helpCard: z.union([z.literal(false), z.enum(['vesvese', 'disaster'])]),
+    helpCard: z.union([z.literal(false), z.enum(['general', 'vesvese', 'suffering', 'disaster', 'urgent'])]),
     verses: z.array(verseRef),
     title: text,
     summary: text.optional(),
@@ -65,6 +68,15 @@ const questions = defineCollection({
         kind: z.enum(['religious', 'philosophical', 'scientific', 'clinical', 'psychological', 'history']),
       }),
     ),
+    /** Positions named in the research, set along one line (DESIGN.md §4.6). */
+    rangeOfViews: z
+      .object({
+        title: text,
+        from: text,
+        to: text,
+        views: z.array(z.object({ who: z.union([z.string(), text]), view: text })).min(2),
+      })
+      .optional(),
     honestLimits: text,
     visualizations: z.array(visualization),
     sources: z.array(source).min(1),
@@ -81,6 +93,8 @@ const morals = defineCollection({
     verses: z.array(verseRef).min(1),
     title: text,
     summary: text,
+    /** M13 (marriage) names domestic violence: show the help card. */
+    helpCard: z.enum(['urgent']).optional(),
     /** Research section "Key verses and hadith" (M8+), verbatim. */
     teachings: text.optional(),
     hadith: text.optional(),

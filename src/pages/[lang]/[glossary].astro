@@ -1,0 +1,60 @@
+---
+// The glossary (DESIGN.md §7): established terms with the research's own glosses.
+import { parse } from 'yaml';
+import raw from '../../data/glossary.yaml?raw';
+import Base from '../../layouts/Base.astro';
+import { mdInline } from '../../lib/md';
+import { t, locales, otherLocale, type Locale } from '../../i18n/ui';
+
+export const getStaticPaths = () =>
+  locales.map((lang) => ({ params: { lang, glossary: lang === 'tr' ? 'sozluk' : 'glossary' } }));
+const slug = { tr: 'sozluk', en: 'glossary' } as const;
+const lang = Astro.params.lang as Locale;
+interface Term {
+  term: { tr: string; en: string };
+  gloss: { tr: string; en: string };
+  from: string;
+}
+const terms: Term[] = parse(raw).terms;
+const sorted = [...terms].sort((a, b) => a.term[lang].localeCompare(b.term[lang], lang));
+---
+
+<Base
+  lang={lang}
+  title={t(lang, 'glossary')}
+  description={t(lang, 'glossaryIntro')}
+  altPath={`${slug[otherLocale(lang)]}/`}
+>
+  <div class="wrap glossary">
+    <h1>{t(lang, 'glossary')}</h1>
+    <p class="intro">{t(lang, 'glossaryIntro')}</p>
+    <dl>
+      {sorted.map((g) => (
+        <div class="entry">
+          <dt>{g.term[lang]}</dt>
+          <dd set:html={mdInline(g.gloss[lang], lang)} />
+        </div>
+      ))}
+    </dl>
+  </div>
+</Base>
+
+<style>
+  .glossary {
+    padding-top: var(--space-6);
+  }
+  .intro {
+    color: var(--ink-soft);
+  }
+  .entry {
+    padding-block: var(--space-3);
+    border-top: var(--rule);
+  }
+  dt {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+  }
+  dd {
+    margin: var(--space-1) 0 0;
+  }
+</style>

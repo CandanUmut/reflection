@@ -1,0 +1,85 @@
+slugs: { tr: baska-dinlerdeki-iyiler, en: salvation-of-others }
+theme: salvation
+title: Başka dinlerden iyi insanlar kurtulacak mı? Hiç duymamış olanlar ne olacak?
+verses: ["17:15", "2:62", "3:85"]
+steelman: |
+  Milyarlarca insan, hiçbir seçimleri olmadan başka dinlerde doğuyor. Pek çoğu iyi ve samimi. Onları bir doğum tesadüfü yüzünden mahkûm etmek adaletsiz görünüyor.
+whyAsked: |
+  Dostluklar, karma aileler, göç. ABD'de İslam'dan ayrılanların çoğunun dinsiz olduğuna dair Pew verileri, çoğulculuk baskısının gerçek olduğunu düşündürür.
+shortAnswer: |
+  Allah bir elçi göndermedikçe azap etmez (17:15). Ana akım âlimlere göre mesajı hiç almamış ya da çarpıtılmış bir hâlini almış olanlar, reddedenler gibi sorumlu tutulmaz. Gazzâlî, kendi döneminin Bizans Hristiyanlarının ve Türklerinin çoğunun muhtemelen Allah'ın rahmetine dâhil olacağını yazdı. Kimin "gerçekten duyduğunu" yalnızca Allah bilir; Müslümanlardan bireyler hakkında hüküm vermeleri istenmez.
+layers:
+  4: |
+    - *Âyetler:* 17:15; 2:62 ve 5:69; 3:85; 4:165.
+    - *Hadis:* Müslim 153 (benden "haberdar olup" reddederek ölen ateştendir); âlimler bunu doğru biçimde duymak olarak okur; fetret ehlinin Kıyamet günü imtihan edileceğine dair hadis (Ahmed).
+    - *Gazzâlî, Faysalü't-Tefrika:* (1) Peygamber'in adını hiç duymamış: mazur; (2) adını, gerçek karakterinin tersiyle duymuş: ilki gibi mazur; (3) doğru duymuş ve araştırmış: araştırırken ölürse iyi hâldedir. Yalnızca doğru duyup bile bile reddedenler sorumludur.
+    - *İbn Teymiyye ve İbn Kayyim:* fetret ehli âhirette imtihan edilir.
+    - *Şiî (Farsça):* Murtazâ Mutahhari (*Adl-e İlâhî*), câhil-i kâsır (kusuru olmayan, mazur cahil) ile câhil-i mukassır (kusurlu cahil) arasında ayrım yapar; kusuru olmayan gayrimüslimler çoğunluktadır ve cezalandırılmayacaktır; Allah'a samimiyetle inananlar mükâfat görür. Berkeley Enstitüsü'nün bir çalışmasına göre Humeynî'nin yazıları da benzerdir.
+    - *Modern Sünnî:* Reşîd Rızâ: çarpıtılmış bir sunum, gerçekten "duymak" sayılmaz. Yaqeen'in makalesi istisnalarıyla dışlayıcılığı, ahlâkî teizmi (2:62) ve Perennialism'i (Nasr, Schuon) ortaya koyar.
+  5: |
+    İslam'ın kurtuluş anlayışı doğuma değil, *ulaşma ve karşılık vermeye* dayanır (2:286). Gerilim sürer: 3:85 ve Müslim 153 dışlayıcı bir ağırlık taşır; kapsayıcı okumalar "gerçekten duymaya" bağlıdır. Perennialism [Debated] fakihlerin çoğunca reddedilir.
+  7: |
+    Gayrimüslim aile üyeleri için duyulan keder gerçektir; sahte kesinlik olmadan ümide yer açmak gerekir.
+honest: |
+  Hiçbir büyük Sünnî mezhep bütün dinlerin eşit derecede geçerli yollar olduğunu öğretmez. Kapsayıcı görüşler, Allah'ın her kişinin mesaja ulaşma imkânını ve samimiyetini bilmesine dayanır.
+visualization: |
+  - Gazzâlî'nin "üç kapı" şeması.
+  - Çarpıtma sisi katmanlı bir "Kim gerçekten duydu?" haritası.
+  - Kaydırıcı: Mutahhari, Gazzâlî, Rızâ, Nasr.
+sourceLabels: [null, null, 'Mutahhari, *Adl-e İlâhî* (Farsça; İngilizcesi "Divine Justice", al-Islam.org)', null, 'Yaqeen — Gayrimüslimlerin akıbeti', null, null]
+sourceUrls:
+  3: https://www.bliis.org/wp-content/uploads/2018/08/Taymaz-Tabrizi_Khumayni%CC%84-and-the-Salvation-of-Non-Muslims-in-Ima%CC%84mi%CC%84-Soteriology.pdf
+  4: https://yaqeeninstitute.org/read/paper/the-fate-of-non-muslims-perspectives-on-salvation-outside-of-islam
+rangeOfViews:
+  title:
+    tr: "Görüşlerin yelpazesi"
+    en: "The range of views"
+  from:
+    tr: "Dar"
+    en: "Narrower"
+  to:
+    tr: "Geniş"
+    en: "Wider"
+  views:
+    - who:
+        tr: "İstisnalarıyla dışlayıcılık"
+        en: "Exclusivism with exceptions"
+      view:
+        tr: Mesajı almamış olanlar reddeden sayılmaz (17:15).
+        en: Those the message never reached are not counted as rejecters (17:15).
+    - who:
+        tr: "İbn Teymiyye ve İbn Kayyim"
+        en: "Ibn Taymiyya and Ibn al-Qayyim"
+      view:
+        tr: Fetret ehli âhirette imtihan edilir.
+        en: People of fatra are tested in the Hereafter.
+    - who:
+        tr: "Gazzâlî"
+        en: "al-Ghazālī"
+      view:
+        tr: Yalnızca doğru duyup bile bile reddedenler sorumludur.
+        en: Only those who heard accurately and deliberately rejected are culpable.
+    - who:
+        tr: "Reşîd Rızâ"
+        en: "Rashīd Riḍā"
+      view:
+        tr: "Çarpıtılmış bir sunum, gerçekten duymak sayılmaz."
+        en: "A distorted presentation does not count as truly hearing."
+    - who:
+        tr: "Mutahhari"
+        en: "Muṭahharī"
+      view:
+        tr: Kusuru olmayan cahiller çoğunluktadır ve cezalandırılmaz; Allah'a samimiyetle inananlar mükâfat görür.
+        en: The inculpably ignorant are the majority and will not be punished; sincere believers in God are rewarded.
+    - who:
+        tr: "Ahlâkî teizm (2:62)"
+        en: "Moral theism (2:62)"
+      view:
+        tr: "Yaqeen'in makalesinde sayılan görüşlerden biri; 2:62'ye dayanır."
+        en: "One of the positions set out in Yaqeen's paper; it rests on 2:62."
+    - who:
+        tr: "Perennializm (Nasr, Schuon)"
+        en: "Perennialism (Nasr, Schuon)"
+      view:
+        tr: Fakihlerin çoğunca reddedilir. [Debated]
+        en: Rejected by most jurists. [Debated]

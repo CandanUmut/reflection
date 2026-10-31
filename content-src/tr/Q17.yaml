@@ -1,0 +1,35 @@
+slugs: { tr: allahi-kim-yaratti, en: who-created-god }
+theme: god
+title: Allah'ı kim yarattı?
+verses: ["112:1-4", "52:35"]
+steelman: |
+  Her şeyin bir sebebi varsa, Allah'ın da olmalı. Allah'ın yoksa, neden evrenin sebepsiz şey olduğunu söylemeyelim? Dawkins ekler: bir tasarımcı, tasarladığı şeyden daha karmaşık olurdu.
+whyAsked: |
+  Bu, düşünce karşısında imanın korkup korkmadığının bir sınavı olarak geri dönen bir çocukluk sorusudur. Hz. Peygamber "Rabbini kim yarattı?" fısıltısını önceden haber verdi ve Allah'a sığınmayı tavsiye etti (Buhârî 3276; Müslim 134). Bu, felsefe yasağı değil, vesvese (zorlayıcı, takıntılı şüpheler) için bir rehberliktir.
+shortAnswer: |
+  Argüman her şeyin bir sebebi olduğunu söylemez. *Başlayan* ya da *var olmayabilecek* olan her şeyin bir sebebe ihtiyaç duyduğunu söyler. Zorunlu, başlangıcı olmayan bir varlık yaratılmış olamaz. Onu kimin yarattığını sormak, bir dairenin köşelerini kimin çizdiğini sormak gibidir. Asıl tartışma, böyle bir varlığın var olup olmadığıdır.
+layers:
+  4: |
+    Allah *es-Samed*dir, her şeyin kendisine muhtaç olduğu (112). 52:35 mantıksal seçenekleri ortaya koyar.
+    - **Kelâmdaki hudûs delili:** başlayan her şeyin bir sebebi vardır (Eş'arî, Mâtürîdî, Gazzâlî).
+    - **İbn Sînâ'nın *burhânü's-sıddîkîn*'i** (*İşârât*, 4. nemt): sonsuz bir mümkünler zinciri bile zorunlu bir temele (*vâcibü'l-vücûd*) muhtaçtır.
+    - **Sonraki cevaplar:** Gazzâlî ve İbn Rüşd bazı kısımlarını eleştirdi; Molla Sadrâ ve Tabâtabâî onu yeniden işledi.
+  5: |
+    Başlıca itirazlar ve cevaplar:
+    - *Neden zorunlu bir evren olmasın?* Fiziksel sabitleri mümkün görünür ve zorunlu bir varlık basit olmalıdır.
+    - *Hume ve Kant:* argüman Allah'ın bir tanımından değil, varoluş olgusundan yola çıkar.
+    - *Bileşim safsatası:* iddia parçalar ve bütünler hakkında değil, bağımlılık hakkındadır.
+    - *Dawkins:* klasik teizm Allah'ın karmaşık değil, basit olduğunu kabul eder.
+
+    Filozofların %18,93'ü teizme, %66,95'i ateizme meyleder (PhilPapers 2020, N=1.770). Argümanlar saygındır, kesin değildir.
+  6: |
+    Büyük Patlama ve Borde–Guth–Vilenkin teoremi başlangıcı olan bir evrene uyar. Kuantum kütle çekimi modelleri bunu açık bırakır [Debated]. Kozmoloji bir "kanıt" değildir.
+  7: |
+    Soruyu ciddiye almak güven inşa eder. Düşünce zorlayıcı biçimde tekrar tekrar geliyorsa, onu vesvese olarak ele almak gerekir.
+honest: |
+  Geriye sonsuz gitme itirazı tutmaz. Ama zorunlu bir varlıktan şahsî, bir ve Kur'an'ın Allah'ı olan bir Tanrı'ya ulaşmak ek adımlar gerektirir. İbn Sînâ'nın ilahi sıfatları türetmesi en zayıf halkadır.
+visualization: |
+  - Yalnızca kendiliğinden ışıyan bir kaynakla yanan bir kandiller zinciri.
+  - İmkânsız, mümkün ve zorunlu şeyler için bir ayırıcı.
+  - Bir "dairenin köşeleri" kartı.
+sourceLabels: ['İbn Sînâ, *el-İşârât* (Arapça)', 'Gazzâlî, *el-İktisâd* (Arapça)', null, 'TDV, "Vâcibü''l-vücûd" (Türkçe)', 'Tabâtabâî, *Usûl-e felsefe* (Farsça)', null, null]

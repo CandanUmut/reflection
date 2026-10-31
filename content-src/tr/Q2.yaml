@@ -1,0 +1,29 @@
+slugs: { tr: kader-ve-ozgurluk, en: destiny-and-free-will }
+theme: destiny
+title: Her şey yazılmışsa, nasıl özgürüm?
+verses: ["2:286", "18:29", "81:29"]
+steelman: |
+  Allah her fiili ezelden takdir ettiyse, başka türlü davranamazdım. O zaman ceza adaletsiz, çaba anlamsız görünür.
+whyAsked: |
+  Cehennemlik "yazılmış" olma korkusu, felç olma hâli, suçluluk. Kader, Türkiye'de başlıca kırılma noktalarından biridir.
+shortAnswer: |
+  Bilmek, sebep olmak değildir. İslam hem takdiri hem gerçek seçimi (kesb, cüz'î irade) kabul eder ve insanları yalnızca güçleri ölçüsünde sorumlu tutar (2:286). "Öyleyse niçin amel edelim?" diye sorulduğunda Hz. Peygamber şöyle cevap verdi: amel edin, herkes ne için yaratıldıysa ona kolaylaştırılır (Buhârî 4949).
+layers:
+  4: |
+    - Kur'an: 18:29 ("dileyen iman etsin"); 81:29 ("Allah dilemedikçe siz dileyemezsiniz").
+    - Eş'arîler: fiilleri Allah yaratır, insanlar onları "kesbeder". Mâtürîdîler seçime daha güçlü bir rol verir; Elmalılı gibi Türk kelâmcıların tercih ettiği görüş budur. [Scholarly]
+    - Nursî: cüz'î irade küçüktür ama belirleyicidir.
+  5: |
+    - Cevaplar: zamanın dışındaki bilgi, uyumculuk (compatibilizm) ve Frankfurt örnekleri.
+    - En güçlü itiraz: Allah'ın fiilleri yalnızca bilmesi değil, yaratması. Müslüman kelâmcıların kendileri de kesbi kapalı bir kavram olarak nitelendirdi. [Debated]
+  6: |
+    Libet deneyleri özgür irade meselesini çözmez. [Scholarly]
+  7: |
+    Kaderci okumalar depresyonu ve dinî titizliği (vesvese) besleyebilir.
+honest: |
+  Gelenek kadere bir sır (*sır*) der.
+visualization: |
+  - Bir "harita ve araba sürmek" canlandırması.
+  - Üç mezhebi karşılaştıran bir kart.
+  - Bir kontrol çemberi.
+sourceLabels: [null, null, 'Nursî, Yirmi Altıncı Söz', 'TDV İslâm Ansiklopedisi, "Kader" ve "Kesb"', null]

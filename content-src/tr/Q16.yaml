@@ -1,0 +1,40 @@
+slugs: { tr: deprem-ceza-mi, en: earthquakes }
+theme: suffering
+title: Depremler ve afetler ceza mı? (Türkiye, Şubat 2023)
+helpCard: disaster
+verses: ["30:41", "2:155-156", "64:11"]
+steelman: |
+  6 Şubat 2023'te depremler Türkiye'de 53.537 kişiyi öldürdü ve 107.213 kişiyi yaraladı (İçişleri Bakanı Ali Yerlikaya, AFAD basın toplantısı, Şubat 2024); aralarında sayısız çocuk vardı. Bu bir cezaysa, çocukların suçu neydi? "Kader"se, neden müteahhitler suçlanıyor? Allah durdurabilecekken, nasıl adil?
+whyAsked: |
+  Kaybın büyüklüğü ve ölümlerin kamuoyunda "kader planı" olarak çerçevelenmesi (Cumhurbaşkanı Erdoğan); bu, teolojik itirazlara yol açtı. Deprem 2023 aramalarına damga vurdu ve "İstanbul Depremi" 2025'in en çok yükselen ikinci aramasıydı.
+shortAnswer: |
+  Ana akım ilim, her afetin kurbanlarını cezalandırdığını öğretmez. Hz. Peygamber, çöken binaların altında ölen müminlere şehit dedi; bu, cezanın tam tersidir. Depremler Allah'ın yaratılışa koyduğu doğal yasaları (sünnetullah) izler ve insanlar nasıl inşa ettiklerinden sorumludur. 2023'ten sonra Diyanet'in ilmî kurulu ve eski bir Diyanet İşleri Başkanı kaderci ve yalnızca ceza odaklı okumaları reddetti.
+layers:
+  4: |
+    - *Âyetler:* 30:41; 2:155–156; 42:30; 64:11.
+    - *Hadis:* şehitler arasında yıkılan bina altında ölen de vardır (Buhârî 2829; Müslim 1914); veba, müminler için rahmet ve şehitliktir (Buhârî 5734); "deveni bağla ve tevekkül et" (Tirmizî 2517).
+    - *Türkiye 2023:* eski Diyanet İşleri Başkanı Mehmet Görmez, her afeti yalnızca ilahi ceza olarak görmenin, salt mekanik açıklama kadar "sığ, yanlış ve eksik" olduğunu söyledi; depremlere pek çok hikmeti olan "âyet" dedi ve ceza çerçevesinin ilahi adaleti sorgulattığı konusunda uyardı, "çünkü masum çocuklar var". Medya, Diyanet'in kararının kaderci bir çerçevenin "inancımızla bağdaşmadığını" söylediğini aktardı.
+    - *Klasik:* eski literatür depremleri bazen uyarı olarak okudu (Süyûtî, *Keşfü's-Salsale*); Görmez bunu sınırlı doğa bilgisine bağlar. Nursî'nin teodisesi musibeti arınma ve şehitlik olarak ele alır.
+  5: |
+    Bkz. Q1 (acı ve kötülük). Burada: levha tektoniğinin karbonu geri dönüştürdüğü ve kıtaları inşa ettiği, kanunlara bağlı, istikrarlı bir dünya tehlikeleri de beraberinde getirir; yapı yönetmelikleri insanın sorumluluğudur. İtiraz: Allah ölümcül depremleri olmayan bir dünya yaratabilirdi. Cevap: dürüst sınırlarıyla, Q1'deki ruhun olgunlaşması ve istikrarlı yasalar savunmaları.
+  6: |
+    [Established] Deprem dizisi, Doğu Anadolu Fayı üzerinde Mw 7,8 (Pazarcık) ve Mw 7,5 (Elbistan) büyüklüğündeydi. Hasar, yapı kalitesi ve yönetmeliklere uyulmasıyla güçlü biçimde ilişkiliydi: 30:41'in işaret ettiği insan boyutu.
+  7: |
+    Hayatta kalanlar suçluluk, travma ve Allah'a öfke yaşar; ceza anlatıları utancı derinleştirir. AFAD psikososyal desteğine ve profesyonel travma bakımına yönlendirmek gerekir.
+honest: |
+  Bazı âyetler belirli kavimlerin (Âd, Semûd) cezalandırılmasını anlatır; âlimler bunları peygamberin uyarısı ve reddi bağlamıyla sınırlar. Bunları inkâr etmeden, neden 2023'ün kurbanlarına uygulanamayacaklarını açıklamak gerekir.
+visualization: |
+  - Kırılma uzunluklarıyla canlandırılmış bir Doğu Anadolu Fayı haritası.
+  - "İki sorumluluk" kartı: sünnetullah ve yapı yönetmelikleri, 30:41 ile.
+  - Şehitlik hadisiyle bir anma kartı.
+sourceLabels: ['Mehmet Görmez''in 2023 açıklamaları (Habertürk)', 'Diyanet DİYK kararı, aktarıldığı şekliyle (Cumhuriyet, 2023)', null, null, null, 'AFAD ve Kandilli raporları']
+extraSources:
+  - label:
+      tr: sol — Eski Diyanet İşleri Başkanı Görmez, afetler üzerine
+      en: sol — Görmez on disasters
+    url: https://haber.sol.org.tr/haber/eski-diyanet-isleri-baskani-her-afeti-ilahi-ceza-olarak-goren-teolojik-anlayis-sig-ve
+enOverrides:
+  # "Batch 1's suffering entry" (author-facing) pointed at the page it means: Q1.
+  layers:
+    5: |
+      See Q1 (suffering). Here: a lawful, stable world in which plate tectonics recycles carbon and builds continents entails hazards; building codes are human responsibility. Objection: God could have made a world without lethal quakes. Response: Q1's soul-making and stable-law defences, with honest limits.

@@ -1,0 +1,44 @@
+slugs: { tr: servet-ve-sadaka, en: wealth-and-charity }
+theme: wealth
+title:
+  tr: Servet, sadaka, adil ticaret ve sömürü yasağı
+  en: Wealth, charity, fair trade, and the ban on exploitation
+summary:
+  tr: Zekât fakirin servetteki hakkıdır, bir lütuf değil. Servet yalnızca zenginler arasında dolaşmamalı.
+  en: Zakat is a right of the poor over wealth, not a favor. Wealth should not circulate only among the rich.
+verses: ["2:261", "83:1-3", "59:7", "9:34"]
+teachings: |
+  - Sadaka, yedi başak bitiren ve her başakta yüz tane bulunan bir tane gibi çoğalır (2:261). Sadaka başa kakmakla ve incitmekle boşa çıkarılmamalıdır (2:262–264).
+  - Faiz (*ribâ*) haramdır; ticaret helaldir; vazgeçenin geçmişi kendisinindir. Darda kalan borçluya süre tanınmalı, borcu bağışlamak daha hayırlıdır (2:275–280).
+  - "Ölçüde ve tartıda hile yapanların vay hâline" (83:1–3).
+  - Servet yalnızca zenginler arasında dolaşmamalıdır (59:7).
+  - Altın ve gümüşü yığıp Allah yolunda harcamayanlara uyarı (9:34).
+  - 9:60'ta sayılan zekât alanları (fakirler, yoksullar, borçlular, yolcular ve diğerleri).
+  - Hadis: Hz. Peygamber faizi yiyene, yedirene, yazana ve şahitlerine lanet etti (Müslim 1598). "Doğru sözlü, güvenilir tüccar peygamberlerle, sıddıklarla ve şehitlerle beraberdir" (Tirmizî 1209; bazılarınca zayıf ile hasen arası sayılır). "[Fiyatları yükseltmek için] mal stoklayan günahkârdır" (Müslim 1605).
+scholarship: |
+  - **Makâsıd:** *servetin* korunması (*hıfzu'l-mâl*), beş klasik amaçtan biridir (Gazzâlî, Şâtıbî). İbn Âşûr, servetin *dolaşması* (*revâc*), açık ve adil olması (*vuzûh*, *adl*) gerektiğini ekler. Jasser Auda makâsıdı yalnızca korumayı değil, insanın gelişmesini amaçlayan bir sistem olarak okur.
+  - **Ahlâk:** Gazzâlî (*İhyâ*, Cimriliğin Kınanması Kitabı) hırsı bir kalp hastalığı, cömertliği onun ilacı olarak ele alır. Râgıb el-İsfahânî serveti iyi kullanılması gereken bir emanet olarak görür.
+  - Zekât, fakirin servet üzerindeki bir hakkıdır (*hak*), bir lütuf değil (70:24–25).
+  - *Ribâ* konusunda âlimler yasakta hemfikirdir, ama bunun modern banka faizine ve enflasyona nasıl uygulanacağını tartışır [Debated, ayrıntılarda].
+evidence: |
+  - İyilik ve cömertlik davranışları verenin iyi oluşunu artırır. 27 deneyin meta-analizi (Curry ve ark., 2018) küçük-orta düzeyde bir etki buldu (d ≈ 0,28). [Established, *küçük*]
+  - "Toplum yararına harcama" çalışmaları (başkaları için para harcamak, insanları kendileri için harcamaktan daha mutlu eder; Dunn ve ark., 2008) çoğunlukla tekrarlandı, ama etkiler ilk bildirilenden küçük. [Established, *küçük*]
+  - Yüksek eşitsizlik, ülkeler arasında daha düşük toplumsal güven ve daha kötü sağlık sonuçlarıyla ilişkilidir (Wilkinson ve Pickett). [Debated, büyüklüğü ve nedenselliği; *orta*]
+stories: |
+  - Tebük seferinde Ebû Bekir bütün servetini, Ömer yarısını verdi (Tirmizî 3675).
+  - Osman, Medine'deki Rûme kuyusunu satın alıp herkesin ücretsiz kullanımına açtı.
+  - **Vakıf**: İslam tarihi boyunca vakıflar hastaneleri, okulları, çeşmeleri, aşevlerini (*imaret*) ve hatta sokak hayvanlarının ve göçmen kuşların bakımını finanse etti. Osmanlı vakıfları yüzyıllarca kamu hizmetlerinin büyük bir kısmını yürüttü.
+  - **Hisbe** kurumu (çarşı denetçisi, *muhtesib*) çarşılarda tartıları, ölçüleri ve hileyi denetledi.
+gaps: |
+  - Bugünkü "İslami finansın" büyük kısmı, Müslüman iktisatçılar (ör. Mahmoud El-Gamal) tarafından, farklı ve daha adil bir finans kurmak yerine faizli ürünleri yeni adlarla kopyalamakla ("şeriat arbitrajı") eleştirildi.
+  - Zekât toplama pek çok Müslüman çoğunluklu ülkede zayıf ya da gayriresmîdir ve birçoğunda eşitsizlik yüksektir.
+  - İslam iktisadını büyük ölçekte daha iyi işlediği kanıtlanmış gibi sunmamak; ilkelerini ve dürüst sicilini sunmak gerekir.
+visualization: |
+  - "2:261'in tanesi": bir tane yedi başağa, her başak yüz taneye dönüşür; sakin bir sayaçla canlandırılmış.
+  - "Servet nereye akar" şeması: zekât ve sadakanın merkezden toplumun kenarlarına akışı (59:7), servetin tepede birikmesiyle karşılaştırmalı.
+sourceLabels:
+  - 'Curry ve ark. — İyilik yapmanın yapan kişinin iyi oluşuna etkileri üzerine sistematik derleme ve meta-analiz, *J. Exp. Soc. Psychol.* 2018'
+  - 'Dunn, Aknin ve Norton — Başkalarına para harcamak mutluluğu artırır, *Science* 2008'
+  - 'İbn Âşûr, *Makâsıdu''ş-Şerîati''l-İslâmiyye*; Jasser Auda, *Maqasid al-Shariah as Philosophy of Islamic Law*'
+  - 'Mahmoud El-Gamal, *Islamic Finance: Law, Economics, and Practice* (Cambridge University Press, 2006)'
+  - 'TDV İslâm Ansiklopedisi, "Vakıf", "Zekât", "Hisbe"'

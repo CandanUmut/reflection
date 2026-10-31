@@ -1,0 +1,38 @@
+slugs: { tr: kotuluk-ve-aci, en: suffering }
+theme: evil
+title: Allah her şeye gücü yeten ve iyiyse, neden acı var?
+helpCard: suffering
+verses: ["67:2", "94:5-6"]
+steelman: |
+  Her şeye gücü yeten bir Allah acıyı önleyebilir; iyi bir Allah da önlemek ister. Oysa acı muazzamdır ve çoğu zaman anlamsız görünür: çocuk kanserleri, derin zaman boyunca hayvanların acısı, depremler.
+whyAsked: |
+  - Ateizmin en güçlü argümanıdır.
+  - Çoğu zaman yas yoluyla gelir.
+  - Türk öğretmenler onu ilk sırada sayar; Allah'ın "sessizliği" olarak dile getirilir.
+shortAnswer: |
+  İslam hayatı gerçek bir imtihan olarak görür (67:2; 21:35); bu imtihanda yas meşrudur ve nihai adalet ölümden sonradır. Filozofların çoğu "mantıksal" problemi cevaplanmış sayar. "Delile dayalı" problem ise ciddi olmaya devam eder. Dürüst bir cevap kısmi sebepler verir, geri kalanı için güvene davet eder ve şimdi dayanışmaya çağırır.
+layers:
+  4: |
+    - Kur'an: zorlukla beraber kolaylık (94:5–6); Hızır'ın gizli hikmeti (18:60–82); Eyüp'ün övülen sabrı (38:41–44); her şeyi kuşatan rahmet (7:156).
+    - Hadis: müminin bütün işi hayırdır; ya şükür ya sabır (Müslim 2999). Hz. Peygamber oğlu İbrahim için ağladı (Buhârî 1303).
+    - Gazzâlî "olandan daha mükemmeli yoktur" görüşündeydi. [Debated]
+    - Eş'arîler Allah'ın adaletini O'nun egemenliğine dayandırır; Mâtürîdîler aklın kısmen kavrayabileceği hikmeti (*hikmet*) vurgular. [Scholarly]
+    - İbn Teymiyye: kötülük Allah tarafından hiçbir zaman saf kötülük değildir.
+    - Said Nursî: kötülüğü yaratmak kötü değildir, onu seçmek kötüdür.
+  5: |
+    - Savunmalar: özgür irade, ruhun olgunlaşması, doğal düzenlilik ve şüpheci teizm.
+    - En güçlü itiraz: hayvanlar dâhil acının miktarı ve dağılımı.
+    - Cevaplar: hayvanlar için karşılık (Müslim 2582), âhiret ve bilginin sınırları. Bunlar problemi küçültür ama ortadan kaldırmaz.
+  6: |
+    Levha tektoniği depremlere yol açar, ama aynı zamanda karbonu geri dönüştürür ve uzun vadede iklimi dengelemeye yardım eder. [Established] jeofizik; teodise için kullanılması ise [Debated]
+  7: |
+    Olumlu dinî başa çıkma (Allah'ı bir ortak görmek), olumsuz başa çıkmadan (cezalandırıldığını hissetmek) daha iyi sonuçları yordar. Yas, argümandan önce yanında olmayı ister.
+honest: |
+  Hiçbir teodise tek tek olayları açıklamaz.
+visualization: |
+  - Tek bir olaydan bütün bir hayata uzanan "iki mercek" yakınlaştırması.
+  - Üç panelli bir Hızır kıssası.
+  - Tehlikeyi ve hayatı birlikte gösteren bir levha tektoniği küresi.
+sourceLabels: [null, null, null, null, 'Konya çalıştayı sonuç bildirgesi', 'Stanford Felsefe Ansiklopedisi''nin kötülük maddeleri']
+sourceUrls:
+  4: https://iktibasdergisi.com/2018/04/03/genclik-ve-inanc-calistayi-sonuc-bildirgesi/

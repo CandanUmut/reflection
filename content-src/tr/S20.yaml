@@ -1,0 +1,44 @@
+slugs: { tr: karinca, en: the-ant }
+theme: animals
+title:
+  tr: Karınca
+  en: The ant
+summary:
+  tr: Hikâyedeki en küçük varlık topluluğunu korur; en güçlü kral şükürle cevap verir.
+  en: The smallest creature in the story shows care for its community; the most powerful king answers with gratitude.
+verses: ["27:18-19"]
+verseNotes:
+  tr: Sûre, *en-Neml* ("Karıncalar") adını taşır.
+  en: The surah is named *al-Naml*, "The Ants".
+tafsir: |
+  [Scholarly]
+
+  - Kurtubî, İbn Kesîr ve Râzî karıncanın konuşmasını, Allah'ın Süleyman'a anlamayı nasip ettiği gerçek bir iletişim olarak ele alır.
+  - Karıncanın bütün topluluğu uyardığını ve orduyu bile mazur gördüğünü ("farkına varmadan") vurgularlar; bu, tehlike anında adaleti gösterir.
+  - Süleyman gururla değil şükürle cevap verir: bir karıncayı duyma mucizesi onu duaya götürür.
+howItWorks: |
+  [Established]
+
+  - Karıncalar esas olarak feromon denen kimyasallarla iletişim kurar. Çoğu türün görmesi zayıftır, bazıları neredeyse kördür.
+  - Tehlike sezen bir karınca bir alarm feromonu salabilir. Yakındaki karıncalar onu antenleriyle algılar ve sırayla onlar da salar; alarm zincirleme bir tepki gibi yayılır.
+  - Türe ve miktara bağlı olarak tepki, saldırı ya da panik ve tahliyedir. Panikte işçiler larvaları ve pupaları kapıp götürür.
+  - 2025'te *Cell* dergisinde yayımlanan bir çalışmada Rockefeller Üniversitesi araştırmacıları karınca beyinlerini görüntüledi ve alarm feromonuna tepki veren küçük, özel bir merkez buldu.
+awe: |
+  - Bir deneyde, bir rahatsızlık bütün koloniyi saniyeler içinde harekete geçirdi. İşçiler larvaları güvenli yere taşıdı, sonra bütün koloniyi yeni bir yuvaya taşıdı.
+  - Klasik bir çalışmada, yaklaşık 5–19 cm içindeki karıncalar alarm feromonu salındıktan sonraki 30 saniye içinde uyarıldı.
+  - Bir koloni, merkezî bir komutanı olmadan neredeyse tek bir organizma gibi davranır.
+reflection: |
+  Hikâyedeki en küçük varlık, topluluğuna özen, kendisine zarar verebilecek olanlara karşı adalet ve zamanında bir uyarı gösterir. En güçlü kral ise şükürle cevap verir. Güç de küçüklük de Allah'ın lütfu altındadır.
+honest: |
+  - Âyet, bir peygamberin mucizesini, bir karıncayı anlamasını anlatır. Feromonları tarif etmez.
+  - Bazı yazılar dişil fiilin "Kur'an'ın işçi karıncaların dişi olduğunu bildiğini kanıtladığını" söyler. Arapçada *neml* kelimesi normalde dişil uyum alır; bu yüzden bunu en fazla güzel bir tesadüf olarak görmek gerekir, kanıt olarak değil. (İşçi karıncalar gerçekten de dişidir.)
+  - Karıncalar "kelimelerle konuşmaz"; sinyalleri kimyasal, dokunsal ve bazen sesle ilgilidir.
+visualization: |
+  - Bir alarm dalgası canlandırması: bir karınca kırmızı bir "koku bulutu" salar, komşuları kırmızıya döner ve aktarır, larvalar taşınır.
+  - Süleyman'ın şükür duasıyla biten, 27:18–19 için bir hikâye kartı.
+sourceLabels:
+  - 'Hölldobler ve Wilson — "Alarm iletişimi" (*The Ants* kitabından AntWiki alıntısı)'
+  - 'PBS NOVA — Karıncaların avcılara tepkisi, süper organizma yetenekleri'
+  - 'Courthouse News — Rockefeller Üniversitesi''nin *Cell* çalışması, 2025'
+  - 'Sasaki ve ark. — bağlama bağlı alarm sinyali, *J. Exp. Biol.* 2014'
+  - 'İbn Kesîr ve Kurtubî''nin 27:18–19 tefsirleri'

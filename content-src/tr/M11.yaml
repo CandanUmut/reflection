@@ -1,0 +1,47 @@
+slugs: { tr: tevazu, en: humility }
+theme: humility
+title:
+  tr: Tevazu ve kibirden sakınmak
+  en: Humility and avoiding arrogance
+summary:
+  tr: Kibir güzel giyinmek değildir; hakkı reddetmek ve insanları küçük görmektir (Müslim 91).
+  en: Arrogance is not caring about appearance; it is rejecting the truth and looking down on people (Muslim 91).
+verses: ["31:18-19", "25:63", "17:37", "49:13", "28:83"]
+teachings: |
+  - "İnsanlardan kibirle yüz çevirme, yeryüzünde böbürlenerek yürüme… Yürüyüşünde ölçülü ol, sesini alçalt" (31:18–19, Lokmân'ın oğluna öğüdü).
+  - "Rahmân'ın kulları, yeryüzünde vakarla yürüyen kimselerdir; cahiller onlara laf attığında 'Selam' derler" (25:63).
+  - "Yeryüzünde böbürlenerek yürüme; sen ne yeri yarabilirsin ne de boyca dağlara erişebilirsin" (17:37).
+  - "Allah katında en değerliniz, O'na karşı en saygılı olanınızdır" (49:13).
+  - Hadis: "Kalbinde zerre kadar kibir bulunan cennete girmez." Bir adam güzel elbise istemeyi sordu. Hz. Peygamber: "Allah güzeldir, güzeli sever. Kibir, **hakkı reddetmek ve insanları küçük görmektir**" (Müslim 91).
+scholarship: |
+  - Müslim 91'deki tanım önemlidir: kibir (*kibr*) görünüşe özen göstermek değil, hakikati reddetmek ve başkalarını hor görmektir. Bu, tevazuyu doğrudan **düşünsel dürüstlüğe** bağlar.
+  - İblis'in reddi — "Ben ondan hayırlıyım" (7:12) — ilk kibir eylemi olarak okunur.
+  - Gazzâlî (*İhyâ*, "Zemmü'l-Kibr") kibrin kaynaklarını sayar: ilim, ibadet, soy, güzellik, servet, güç, taraftar — ve ilim ve takva yoluyla gelen kibrin en tehlikelisi olduğunu belirtir.
+  - Tasavvuf ahlâkı tevazuyu (*tevâzu*) bütün öteki erdemlerin zemini sayar.
+evidence: |
+  - **Düşünsel tevazu** — kişinin inançlarının yanlış olabileceğini kabul etmesi — karşıt görüşlere daha açık olmak, daha az kutuplaşma ve daha iyi öğrenmeyle ilişkilidir (derleme: Porter ve ark., 2022). [*orta*, çoğunlukla ilişkisel]
+  - Narsisizm, daha kötü ilişkiler ve eleştiri sonrası saldırganlıkla ilişkilidir. [Established]
+  - Örgüt çalışmalarında alçakgönüllü olarak değerlendirilen liderler, daha bağlı ekiplerle ilişkilidir. [*küçük–orta*, karışık]
+stories: |
+  - Hz. Peygamber kendi sandaletini ve elbisesini kendisi onarır, ev işlerine yardım ederdi (Buhârî 676).
+  - Mekke'ye zaferle girerken başını bineğinin üzerinde, neredeyse eyere değecek kadar eğdi.
+  - Halife olan Ömer, yabancı bir elçi tarafından bir ağacın altında korumasız uyurken bulundu.
+gaps: |
+  - Dinî kibir — "yalnızca benim grubum haklı", daha az dindar olanları küçük görmek — ölçülmüş verilere göre şüpheyi en çok tetikleyen etkenlerden biridir (Yaqeen: "tek bir doğru yol"). Bunu dürüstçe adlandırmak gerekir.
+  - Tevazu düşük öz değer değildir; Müslim 91'de Hz. Peygamber güzelliği sevmeyi onaylar. Tevazuyu kendinden nefret etmek olarak öğretmekten kaçınmak gerekir.
+enOverrides:
+  # Author-facing phrasing removed ("The site should name this honestly"); meaning kept.
+  gaps: |
+    - Religious arrogance — "my group alone is right", looking down on the less observant — is one of the top measured triggers of doubt (Yaqeen: "only one right way"). It should be named honestly.
+    - Humility is not low self-worth; in Muslim 91, the Prophet affirms loving beauty. Avoid teaching humility as self-hatred.
+visualization: |
+  - "Vakarla yürü" (25:63): yeryüzüne zarar vermeyen ayak izleri, yanında onu çatlatan ağır izler (17:37).
+  - Müslim 91 için iki parçalı bir kart: kibrin *ne olmadığı* (güzel elbise) / *ne olduğu* (hakkı reddetmek, insanları küçük görmek).
+extraSources:
+  - label: Chouhoud, "What Causes Muslims to Doubt Islam?" (Yaqeen, 2018)
+    url: https://yaqeeninstitute.org/read/paper/what-causes-muslims-to-doubt-islam-a-quantitative-analysis
+sourceLabels:
+  - 'Porter ve ark. — Düşünsel tevazunun yordayıcıları ve sonuçları, *Nature Reviews Psychology* 2022 (PMC)'
+  - 'Greater Good Bilim Merkezi — düşünsel tevazu araştırmalarına genel bakış'
+  - 'Gazzâlî, *İhyâ*, "Zemmü''l-Kibr ve''l-Ucb"'
+  - 'İbn Kesîr''in 31:18–19 ve 25:63 tefsirleri'

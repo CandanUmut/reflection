@@ -1,0 +1,26 @@
+slugs: { tr: neden-oruc, en: why-fast }
+theme: worship
+title: Neden oruç? Neden bu kadar çok kural?
+verses: ["2:183"]
+steelman: |
+  Allah ne zaman yemek yediğimi neden önemsesin?
+whyAsked: |
+  Kurallar amaçsız hissettirebilir.
+shortAnswer: |
+  Bazı kuralların açık amaçları vardır; bazıları ise saf kulluk ibadetleridir (*taabbüdî*). Oruç nefse hâkimiyeti ve empatiyi geliştirir. Sağlığa etkileri mütevazıdır.
+layers:
+  4: |
+    "Takvaya eresiniz diye" (2:183). Yalan sözü durdurmayan bir orucun değeri yoktur (Buhârî 1903). Şâtıbî: ibadetlerde asıl olan teabbüddür.
+  5: |
+    Pratik karakteri şekillendirir.
+  6: |
+    11 meta-analizin bir şemsiye derlemesi ([*Nutrition Reviews* 2025](https://academic.oup.com/nutritionreviews/article-abstract/83/2/e711/7604369)) faydalar buldu. Kilo, Ramazan sonunda 1,24 kg azalır, ama kayıp 2–6 hafta içinde 0,27 kg'a iner (*Nutrients* 2019).
+  7: |
+    Yeme bozukluğu ya da diyabeti olanlar tıbbi tavsiye almalıdır; muafiyetler bir rahmettir.
+honest: |
+  Sağlık orucun "sebebi" değildir.
+visualization: |
+  Kurallar ve amaçları haritası. Bir infografik. Orucun üç mertebesi.
+sourceUrls:
+  0: https://academic.oup.com/nutritionreviews/article-abstract/83/2/e711/7604369
+sourceLabels: [null, null, null, 'Şâtıbî (Arapça)', 'Diyanet, "Oruç" (Türkçe)']

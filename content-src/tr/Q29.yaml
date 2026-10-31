@@ -1,0 +1,24 @@
+slugs: { tr: neden-yaratti, en: why-create }
+theme: meaning
+title: Kendine yeterli bir Allah neden yaratsın?
+verses: ["51:56"]
+steelman: |
+  Allah hiçbir şeye muhtaç değilse, yaratmak keyfî görünür ve "bana ibadet etsinler diye" (51:56) övgüye ihtiyaç gibi geliyor.
+whyAsked: |
+  Anlam krizleri.
+shortAnswer: |
+  Allah ihtiyaçtan değil, cömertlik ve hikmetten yaratır. 51:56'daki *ibadet*, Allah'ı tanımak olarak okunur; bu da bizim gelişip serpilmemizdir.
+layers:
+  4: |
+    Mücâhid 51:56'yı "beni tanısınlar diye" okudu. İbn Teymiyye'ye göre "Gizli bir hazineydim" sözünün senedi yoktur [Debated]. Eş'arîler Allah'ın amaçlar için iş yaptığını reddeder; Mâtürîdîler ve İbn Kayyim Allah'ın hikmetle (*hikmet*) iş yaptığını kabul eder.
+  5: |
+    İyilik doğası gereği kendini paylaşır.
+  6: |
+    Anlam duygusu iyi oluşu yordar (Steger; Frankl).
+  7: |
+    Anlam soruları umutsuzlukla birlikte geliyorsa, profesyonel destek alınmalıdır.
+honest: |
+  Bir miktar sır kalır.
+visualization: |
+  Işık saçan bir kaynak. Bir 51:56 kartı. Bir tefekkür alıştırması.
+sourceLabels: ['İbn Kayyim, *Şifâü''l-alîl* (Arapça)', 'Tabâtabâî, *el-Mîzân* (Farsça)', 'Elmalılı (Türkçe)', null]

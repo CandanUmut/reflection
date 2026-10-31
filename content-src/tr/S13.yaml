@@ -1,0 +1,41 @@
+slugs: { tr: uyku, en: sleep }
+theme: human
+title:
+  tr: Bir âyet olarak uyku ve uykuda "alınan" ruhlar
+  en: Sleep as a sign, and souls "taken" in sleep
+summary:
+  tr: Her gece kontrolü bırakırız, her sabah bize geri verilir. Farelerde, uyku sırasında beyin hücreleri, beynin kendini yıkayabilmesi için yer açar.
+  en: Each night we let go of control, and each morning it is given back. In mice, during sleep, the brain's cells physically make room so it can rinse itself.
+verses: ["30:23", "78:9", "39:42"]
+seeAlso: ["6:60"]
+verseNotes:
+  tr: 78:9'daki *subāt* kelimesi "kesmek, ara vermek" anlamına gelen bir kökten gelir.
+  en: In 78:9, *subāt* comes from a root meaning to cut off or pause.
+tafsir: |
+  [Scholarly]
+
+  Râzî ve Kurtubî uykuyu "küçük ölüm" (*el-mevtetü's-suğrâ*) ve her gün tekrarlanan bir diriliş provası olarak anlatır. İbn Kesîr 39:42'yi Hz. Peygamber'in yatarken okuduğu duayla ilişkilendirir: "Senin adınla ölür ve dirilirim" (Buhârî 6312). Müfessirler, ölümde tamamen alınan ruh ile uykudaki kısmi "alınma"yı birbirinden ayırır: uykuda insandan bir şey çekilir, ama hayat devam eder.
+howItWorks: |
+  [Established]
+
+  - Bir gecelik uyku; hafif NREM, derin yavaş dalga uykusu ve REM evrelerinden oluşan, her biri yaklaşık 90 dakikalık döngülerle ilerler.
+  - Beynin alışılmış bir lenf sistemi yoktur. Bunun yerine beyin-omurilik sıvısı beynin içinden akar ve atıkları yıkar. Buna glimfatik sistem denir.
+  - Farelerde, doğal uyku ya da anestezi sırasında beyin hücreleri arasındaki boşluk yaklaşık %60 büyüdü. Bu, çok daha fazla sıvı alışverişine ve Alzheimer hastalığıyla bağlantılı bir protein olan beta-amiloidin daha hızlı temizlenmesine imkân verdi (Xie ve ark., *Science* 342:373, 2013).
+  - Uyku hafızayı da pekiştirir. Vücut saati (sirkadiyen ritim) esas olarak göze ulaşan ışıkla ayarlanır.
+awe: |
+  - Uyku sırasında beyin hücreleri, beynin kendini yıkayabilmesi için fiziksel olarak yer açar.
+  - Fare çalışmasında, hayvanlar uyanıkken beyne doğru beyin-omurilik sıvısı akışı belirgin biçimde baskılandı.
+  - İnsan her gece kontrolünü, farkındalığını ve kendini savunma gücünü tamamen bırakır; çoğu sabah hepsi ona geri verilir.
+reflection: |
+  Uyku, her gün seçmeden yaptığımız bir teslimiyettir. Her gece kontrolü bırakırız, her sabah bize geri verilir. Kur'an bunu bir bağımlılık âyetine, ölümün ve dönüşün bir resmine çevirir.
+honest: |
+  - Glimfatik bulgular esas olarak farelerden gelir. İnsanlardaki kanıtlar artıyor, ama etkinin insanda ne kadar büyük olduğu hâlâ araştırılıyor.
+  - Âyet, bir âyet ve bir "alınma" olarak uykudan söz eder; beynin temizlenmesini anlatmaz. Kur'an'ın "glimfatik sistemi önceden bildirdiğini" söylememek gerekir.
+visualization: |
+  - İkiye bölünmüş bir beyin kesiti: uyanık (hücreler sıkışık, akış az) ve uykuda (boşluklar genişler, mavi sıvı içinden akar).
+  - Uyku döngülerini gösteren bir gece zaman çizelgesi; uykuya dalışta ve uyanışta yumuşak bir "alındı / geri verildi" canlandırması.
+sourceLabels:
+  - null
+  - 'NIH basın duyurusu, 2013'
+  - 'Frontiers in Neurology''de Xie ve ark. üzerine yorum'
+  - 'İbn Kesîr ve Kurtubî''nin 39:42 tefsirleri; Buhârî 6312'

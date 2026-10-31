@@ -1,0 +1,52 @@
+slugs: { tr: emanet, en: trust-and-honesty }
+theme: honesty
+title:
+  tr: 'Emanet: güven, doğruluk, sözü tutmak'
+  en: 'Amāna: trust, honesty, keeping promises'
+summary:
+  tr: Peygamberliğinden önce Hz. Muhammed *el-Emîn*, "güvenilir" diye bilinirdi. Bugünkü kamu hayatıyla arasındaki mesafe, gençlerin şüphe sebeplerinden biri.
+  en: Before prophethood, Muhammad was known as *al-Amīn*, "the trustworthy". The gap with today's public life is one of the reasons young people give for doubt.
+verses: ["4:58", "23:8", "17:34", "8:27", "33:72"]
+teachings: |
+  - "Allah size emanetleri ehline vermenizi ve hükmettiğinizde adaletle hükmetmenizi emreder" (4:58).
+  - Müminler "emanetlerine ve sözlerine riayet edenlerdir" (23:8).
+  - "Verdiğiniz sözü yerine getirin; söz verdiğiniz şeyden sorumlu tutulacaksınız" (17:34).
+  - "Allah'a ve Peygamber'e ihanet etmeyin, bile bile emanetlerinize de ihanet etmeyin" (8:27).
+  - Göklere, yere ve dağlara sunulan, onların kabul etmediği ve insanın yüklendiği emanet (33:72).
+  - Hadis: "Münafığın alameti üçtür: konuşunca yalan söyler, söz verince sözünden döner, kendisine güvenilince ihanet eder" (Buhârî 33; Müslim 59). Peygamberliğinden önce Muhammed *el-Emîn*, "güvenilir" diye bilinirdi.
+scholarship: |
+  - Müfessirler *emanet*i geniş okur: size bırakılan mal, sırlar, kamu görevi, kişinin kendi bedeni ve yetenekleri ve insan olmanın bütün ahlâkî sorumluluğu (33:72).
+  - Gazzâlî yalanı "dil âfetleri" arasında sayar ve yalnızca dar istisnalara izin verir (insanları barıştırmak, savaş, eşler arası — ki bunlar da tartışmalıdır).
+  - Makâsıd çerçevesinde doğruluk her amacı korur: güven olmadan hiçbir sözleşme, mahkeme ya da topluluk işlemez.
+evidence: |
+  - Genel güven düzeyi yüksek ülkeler ve bölgeler, daha iyi ekonomik büyüme ve kurumlara sahip olma eğilimindedir (Knack ve Keefer, 1997 ve sonraki çalışmalar). [Established, *ilişkisel*]
+  - Yolsuzluk büyümeye, kamu hizmetlerine ve kurumlara güvene zarar verir. [Established]
+enOverrides:
+  # Research line omitted: the Kelly & Wang (2012) lying experiment, which the research
+  # itself marks "weak evidence; do not feature it".
+  evidence: |
+    - Countries and regions with higher generalized trust tend to have better economic growth and institutions (Knack & Keefer, 1997, and later work). [Established, *correlational*]
+    - Corruption harms growth, public services and trust in institutions. [Established]
+  # Author-facing phrasing removed ("see Batch 2…", "The site should say this openly"); meaning kept.
+  gaps: |
+    - Many Muslim-majority countries score in the lower half of Transparency International's Corruption Perceptions Index. Türkiye scored **31 out of 100** in the 2025 index (182 countries and territories).
+    - The gap between *al-Amīn* and today's public life is one of the main reasons young people give for doubt, according to Yaqeen's survey of 630 US Muslims on what triggers doubt (Chouhoud, 2018).
+stories: |
+  - Hz. Peygamber Medine'ye hicret ederken, Mekkelilerin — muhalifleri de dâhil — kendisine emanet bıraktığı değerli eşyaları iade etmesi için Ali'yi geride bıraktı.
+  - Kureyş, peygamberliğinden önce, Kâbe'nin yeniden inşasında Hacerülesved'i yerine koyması için ona güvendi.
+  - Ömer'in valileri denetlenirdi; görev öncesi ve sonrası servetlerini karşılaştırırdı.
+gaps: |
+  - Pek çok Müslüman çoğunluklu ülke, Uluslararası Şeffaflık Örgütü'nün Yolsuzluk Algı Endeksi'nde alt yarıda yer alıyor. Türkiye 2025 endeksinde **100 üzerinden 31** puan aldı (182 ülke ve bölge).
+  - *El-Emîn* ile bugünkü kamu hayatı arasındaki mesafe, Yaqeen'in ABD'deki 630 Müslümanla yaptığı ankete (Chouhoud, 2018) göre gençlerin şüphe için gösterdiği başlıca sebeplerden biridir.
+visualization: |
+  - "Emanetin ağırlığı": 33:72'nin sahnesi — gökler, yer ve dağlar kabul etmiyor, tek bir insan figürü öne çıkıyor — ince çizgiyle.
+  - Bir "söz defteri" kartı: münafığın üç alameti (yalan, tutulmayan söz, ihanet edilen emanet) üç olumlu günlük alışkanlığa dönüşür.
+extraSources:
+  - label: Chouhoud, "What Causes Muslims to Doubt Islam?" (Yaqeen, 2018)
+    url: https://yaqeeninstitute.org/read/paper/what-causes-muslims-to-doubt-islam-a-quantitative-analysis
+sourceLabels:
+  - 'Uluslararası Şeffaflık Örgütü — Türkiye, Yolsuzluk Algı Endeksi'
+  - 'Yolsuzluk Algı Endeksi 2025 — Türkiye özeti'
+  - 'Knack ve Keefer, "Does Social Capital Have an Economic Payoff?" *Quarterly Journal of Economics* 1997'
+  - 'Gazzâlî, *İhyâ*, "Âfâtü''l-Lisân"'
+  - 'İbn Kesîr ve Kurtubî''nin 4:58 ve 33:72 tefsirleri'

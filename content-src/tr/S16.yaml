@@ -1,0 +1,44 @@
+slugs: { tr: daglar, en: mountains }
+theme: earth
+title:
+  tr: Kazık olarak dağlar
+  en: Mountains as pegs
+summary:
+  tr: Bir dağın büyük kısmı yerin altında gizlidir. Âyetin asıl vurgusu, ayağımızın bastığı yerin bize sağlam bir yurt kılınmasıdır.
+  en: Most of a mountain is hidden underground. The deeper point of the verse is that the ground under our feet was made a stable home for us.
+verses: ["78:6-7", "16:15", "79:32"]
+seeAlso: ["21:31", "31:10"]
+verseNotes:
+  tr: "*Evtâd* çadır kazıklarıdır. 16:15'te dağlar için *revâsî* (sabit, sağlam) kelimesi ve \"sizi sarsmasın diye\" (*en temîde*) ifadesi geçer."
+  en: "*Awtād* are tent pegs. In 16:15 the mountains are *rawāsiya* (firm), cast \"lest it sway with you\" (*an tamīda*)."
+tafsir: |
+  [Scholarly]
+
+  - Klasik müfessirler (Taberî, Kurtubî, İbn Kesîr) kendi dünya tasavvurları içinde çalıştı. Bazı rivayetler yeryüzünün önce hareket ettiğini ya da eğildiğini, ta ki Allah onu dağlarla sabitleyene kadar, anlatır.
+  - *Evtâd* çadır kazıklarıdır. İmge, bir örtüyü sabit tutan bir şeydir.
+  - Asıl vurgu, Allah'ın yeryüzünü sağlam ve yaşanabilir bir yer kılmasındaki inayetidir (78:6'da *mihâd*: beşik ya da döşek).
+howItWorks: |
+  [Established]
+
+  - Dağların gerçekten derin "kökleri" vardır. İzostaziye göre yerkabuğu, daha yoğun olan manto üzerinde, sudaki bir buzdağı gibi yüzer. Yüksek bir sıradağ, mantoya doğru inen kalın ve daha hafif bir kabuk köküyle dengelenir.
+  - Himalayalar ve Tibet Platosu'nun altında kabuk yaklaşık 70–75 km kalınlığındadır (bazı çalışmalara göre 80 km'ye kadar); bu, 30–40 km olan normal kıtasal kalınlığın kabaca iki katıdır.
+  - Basit Airy modelinde kök, dağın yüksekliğinin yaklaşık beş katı derine iner.
+  - Sıradağlar levha çarpışmalarıyla oluşur. Himalayalar, Hindistan Asya'ya doğru ilerledikçe oluştu ve hâlâ oluşuyor.
+awe: |
+  - Bir dağın büyük kısmı yerin altında gizlidir. Everest'in görünen 8,8 km'si, altına gömülü kabuğun yanında küçük kalır.
+  - George Airy, dağların yakınındaki çekül iplerinin beklenenden daha az çekilmesini açıklamak için 1855'te bu kökleri önerdi. Bir asır sonra sismik araştırmalar onları doğruladı.
+reflection: |
+  "Kazık" imgesi, insanların göremediği bir gerçeğe uyar: dağlar yüzeyin çok altına demirlenmiştir. Âyetin daha derin vurgusu ise ayağımızın bastığı yerin bize sağlam bir yurt kılınmasıdır.
+honest: |
+  - Yaygın bir iddiaya göre "dağlar yeryüzünü sabitler ve depremleri önler." Bu doğru değildir. Himalayalar, Zagros ve Anadolu gibi dağ oluşum bölgeleri, dünyanın en çok deprem olan yerleri arasındadır; çünkü dağları yükselten levha çarpışmaları depremlere de yol açar. Âyeti, dağların depremleri durdurduğunu söylüyormuş gibi sunmamak gerekir.
+  - Doğru olan şudur: dağların derin kökleri vardır (izostazi) ve jeolojik zaman içinde kabuk bir dengeye oturur.
+  - Âyetteki *sizi sarsmasın diye* ifadesi, yeryüzünün bir yurt olarak genel sağlamlığı şeklinde okunabilir. Bu bir [Scholarly] tefekkürdür, sismoloji iddiası değildir.
+  - Press ve Siever'in *Earth* adlı ders kitabının "Kur'an'ı doğruladığı" yönündeki, sıkça yanlış aktarılan iddiadan kaçınmak gerekir. Yazarları böyle bir iddiada bulunmadı.
+visualization: |
+  - Kaydırıcılı bir "buzdağı dağ" kesiti: dağın yüksekliğini artırın ve altındaki kökün derinleştiğini izleyin.
+  - Hindistan'ın Asya ile buluşmasını gösteren bir levha çarpışması canlandırması: hem dağ oluşumunu hem deprem bölgelerini gösterir, dürüst notu görünür kılar.
+sourceLabels:
+  - 'Vikipedi, "İzostazi" (kaynaklarıyla)'
+  - 'Alberta Üniversitesi ders notları — Airy izostazisi ve Tibet kabuğu (75–85 km)'
+  - 'MIT OpenCourseWare 12.002 — izostazi dersi'
+  - 'İbn Kesîr ve Kurtubî''nin 16:15 ve 78:7 tefsirleri'

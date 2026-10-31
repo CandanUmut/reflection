@@ -1,0 +1,29 @@
+slugs: { tr: basortusu-ve-zorlama, en: hijab-and-coercion }
+theme: women
+title: Başörtüsü ve zorlama
+sensitivity: high
+helpCard: general
+verses: ["2:256", "24:31"]
+steelman: |
+  Bazı devletler kadınları örtünmeye zorluyor (İran). Diğerleri yasakladı (2010–13'e kadar Türkiye, okullarda Fransa). Bazı aileler kızlarına baskı yapıyor. Bütün bunların içinde kadının kendi vicdanı nerede?
+whyAsked: |
+  Türkiye'deki yasaklar ve aile baskısı, her iki taraftaki kadınları da yaraladı.
+shortAnswer: |
+  "Dinde zorlama yoktur" (2:256). Zorla örtünme ibadet olarak değerini kaybeder ve yasaklar vicdanı çiğner. Sünnî ve Şiî âlimlerin büyük çoğunluğu saçı örtmenin farz olduğunu kabul eder; modern bir azınlık katılmaz. Kadınlar iki görüşü de duymayı ve özgürce seçmeyi hak eder.
+layers:
+  4: |
+    Âyetler 24:31 ve 33:59'dur. Dört Sünnî mezhep ve Ca'ferî mezhep örtünmeyi farz sayar. H. Yunus Apaydın (TDV, "Tesettür"), modern döneme kadar bundan şüphe edilmediğini belirtir. Hayrettin Karaman, hiçbir fakihin başı açmaya izin vermediğini söyler. Bir azınlık (Hüseyin Atay, Şahrûr) *hımâr*ın yalnızca "bir örtü" anlamına geldiğini savunur [Debated].
+  5: |
+    Üç ayrı soru:
+    - Allah ne istiyor? Çoğunluk görüşü güçlüdür.
+    - Onu kim uygulatabilir? 2:256 geçerlidir.
+    - Örtünmemek ne anlama gelir? Bir günah, küfür değil.
+  6: |
+    Örtünme İslam'dan önce de vardı. İran, Humeynî'nin 7 Mart 1979 tarihli fermanıyla iş yerlerinde başörtüsünü zorunlu kıldı ve Nisan 1983'te bütün kadınlar için kanun hâline getirdi. Türkiye yasaklarını 2010–2013'te kaldırdı.
+  7: |
+    Her iki yöndeki zorlama da kırgınlık ve iman kaybı doğurur.
+honest: |
+  Azınlık görüşünü eşit ağırlıkta sunmak yanıltıcıdır. Sitenin kesin çizgisi zorlamaya karşıdır.
+visualization: |
+  Hüküm, uygulama ve imanın kesiştiği bir Venn şeması. Yasakların zaman çizelgesi. Bir "iki kadın, iki baskı" kartı.
+sourceLabels: ['Apaydın, TDV "Tesettür" (Türkçe)', 'Karaman, Yeni Şafak (Türkçe)', 'Kurtubî''nin 24:31 tefsiri (Arapça)', 'Mevdûdî, *Purdah* (Urduca)', null]

@@ -1,0 +1,26 @@
+slugs: { tr: savaslar-ve-benu-kurayza, en: banu-qurayza }
+theme: ethics
+title: Hz. Peygamber'in savaşları ve Benî Kurayza
+sensitivity: high
+helpCard: general
+verses: ["22:39-40", "2:190", "33:26"]
+steelman: |
+  "Âlemlere rahmet" (21:107) olan biri pek çok sefere komuta etti. Hendek Savaşı'ndan (627) sonra kaynaklar, Kurayza kabilesinin bütün yetişkin erkeklerinin (400–900) idam edildiğini, kadınların ve çocukların köleleştirildiğini aktarır.
+whyAsked: |
+  Polemikçiler onu belirleyici sayar ve Yahudi–Müslüman ilişkilerine önem veren Müslümanlar rahatsızlık duyar.
+shortAnswer: |
+  Kaynaklara göre Kurayza, Medine'nin varlığını tehdit eden bir kuşatma sırasında bir savunma antlaşmasını bozdu. Eski müttefikleri Sa'd b. Muâz'ın hakemliğine teslim oldular; onun hükmü dönemin savaş normlarına uyuyordu (bkz. Tesniye 20). Rakamlar tartışmalıdır. Anlatı kabul edilse bile ahlâkî ağırlığı büyüktür ve bu kabul edilmelidir.
+layers:
+  4: |
+    Savaşmaya meşru müdafaa için (22:39–40), haddi aşmadan (2:190) izin verilir. Kadınları ve çocukları öldürmek yasaktır (Buhârî 3015; Müslim 1744). Kur'an 33:26'da olaya değinir. Sa'd'ın hükmü Buhârî 4121'dedir; rakamlar İbn İshak'tan gelir. Fakihler bunu bozulan bir antlaşma (*nakzu'l-ahd*) üzerine hakemlik olarak ele aldı.
+  5: |
+    W.N. Arafat (*JRAS* 1976), 600–900 rakamının doğru olamayacağını savundu. Geç kaynakları ve Masada'nın olası bir yankısını gösterdi. M.J. Kister (*JSAI* 1986) ona madde madde cevap verdi ve tarihçilerin çoğu olayın özünde Kister'i izler. Toplu idam modern insancıl hukuku ihlal eder. Savunucular, şehrin varlığını tehdit eden bir kuşatma sırasındaki ihaneti gösterir. Eleştirmenler, bağlamın açıkladığını ama haklı çıkarmadığını söyler.
+  6: |
+    Aktarılan rakamlar yaklaşık 40 ile 900 arasında değişir [Debated].
+  7: |
+    Peygamber sevgisi ile ahlâkî huzursuzluk bir arada var olabilir. Olay, hiçbir toplu suçlama ve hiçbir antisemitizm olmadan öğretilmelidir.
+honest: |
+  Hiçbir cevap ahlâkî ağırlığı ortadan kaldırmaz. Olayın özü muhtemelen tarihîdir; rakamlar belirsizdir. Bugün Yahudilere karşı asla kullanılmamalıdır.
+visualization: |
+  622–627 Medine haritası. Bir "kaynak laboratuvarı". Hz. Peygamber'in savaş kuralları, Cenevre Sözleşmeleri'nin yanında.
+sourceLabels: [null, null, null, null, 'İbn Hişâm, *es-Sîre* (Arapça)', 'TDV, "Kurayza, Benî" (Türkçe)', 'Hamidullah (Fransızca)', 'WikiShia (Fransızca)']

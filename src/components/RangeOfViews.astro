@@ -1,0 +1,81 @@
+---
+// Range of views (DESIGN.md §4.6): the scholarly positions the research names,
+// set along one vertical line (readable at any width) so the tradition's breadth is visible without the site
+// choosing for the reader. The order is for reading, not a measurement.
+import { mdInline } from '../lib/md';
+import { t, type Locale } from '../i18n/ui';
+
+interface Props {
+  lang: Locale;
+  range: {
+    title: { tr: string; en: string };
+    from: { tr: string; en: string };
+    to: { tr: string; en: string };
+    views: { who: string | { tr: string; en: string }; view: { tr: string; en: string } }[];
+  };
+}
+const { lang, range } = Astro.props;
+---
+
+<figure class="range">
+  <figcaption class="label">{range.title[lang]}</figcaption>
+  <p class="range__end">{range.from[lang]}</p>
+  <ol class="range__views">
+    {range.views.map((v) => (
+      <li>
+        <span class="range__who" set:html={mdInline(typeof v.who === 'string' ? v.who : v.who[lang], lang)} />
+        <span class="range__view" set:html={mdInline(v.view[lang], lang)} />
+      </li>
+    ))}
+  </ol>
+  <p class="range__end">{range.to[lang]}</p>
+  <p class="range__note">{t(lang, 'rangeNote')}</p>
+</figure>
+
+<style>
+  .range {
+    margin: var(--space-5) 0;
+  }
+  .range__end {
+    font-family: var(--font-ui);
+    font-size: 0.8rem;
+    color: var(--ink-soft);
+    margin: var(--space-3) 0 var(--space-2);
+  }
+  .range__views {
+    list-style: none;
+    margin: var(--space-2) 0 0;
+    padding: 0 0 0 var(--space-4);
+    border-left: 1px solid var(--lamp-line);
+  }
+  .range__views li {
+    position: relative;
+    padding: 0 0 var(--space-4);
+  }
+  .range__views li::before {
+    content: '';
+    position: absolute;
+    left: calc(-1 * var(--space-4) - 4px);
+    top: 0.5em;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
+    background: var(--paper);
+    border: 1px solid var(--lamp);
+  }
+  .range__who {
+    display: block;
+    font-family: var(--font-display);
+    font-size: var(--step-0);
+  }
+  .range__view {
+    display: block;
+    font-size: 0.92em;
+    color: var(--ink-soft);
+  }
+  .range__note {
+    font-family: var(--font-ui);
+    font-size: 0.78rem;
+    color: var(--ink-soft);
+  }
+</style>

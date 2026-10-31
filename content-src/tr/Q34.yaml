@@ -1,0 +1,24 @@
+slugs: { tr: bilinc, en: consciousness }
+theme: science
+title: 'Bilinç: madde zihni açıklayabilir mi?'
+verses: ["17:85"]
+steelman: |
+  Sinirbilim her yıl daha fazlasını açıklıyor ve "ruh" yalnızca bir yer tutucu olabilir.
+whyAsked: |
+  Sinirbilim ve yapay zekâ.
+shortAnswer: |
+  Neden herhangi bir deneyimin var olduğu, çözülmemiş "zor problem"dir (Chalmers 1995). Kur'an ruhun "Rabbimin emrinden" olduğunu söyler (17:85). Ayrıca bkz. S29.
+layers:
+  4: |
+    Tabâtabâî (*el-Mîzân* 13. cilt) *emr*i Allah'ın doğrudan yaratıcı emri olarak okur.
+  5: |
+    PhilPapers 2020: %51,93 fizikalizm, %32,08 fizikalizm dışı görüşler.
+  6: |
+    Birkaç kuram var, ama hiçbiri bir çözüm olarak kabul görmüyor.
+  7: |
+    Müminler ve şüpheciler sırrı paylaşabilir.
+honest: |
+  Zor problem bir ruhun var olduğunu kanıtlamaz.
+visualization: |
+  "Kırmızıyı kim görüyor?" Bir çubuk grafik. Hat.
+sourceLabels: [null, null, '*el-Mîzân* 13 (WikiFeqh)', 'İbn Kayyim, *Kitâbü''r-Rûh*', null]

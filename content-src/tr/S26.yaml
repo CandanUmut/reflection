@@ -1,0 +1,42 @@
+slugs: { tr: derin-denizde-karanlik, en: darkness-in-the-deep-sea }
+theme: seas
+title:
+  tr: Derin denizde karanlık
+  en: Darkness in the deep sea
+summary:
+  tr: Bir temsil. Üst üste binen karanlıklar ve son cümle, ışığın bir ikram olduğunu söyler.
+  en: A parable. Darkness stacked on darkness, and a last line saying that light is a gift.
+verses: ["24:40"]
+seeAlso: ["24:39"]
+verseNotes:
+  tr: "*Lüccî*: derin, engin deniz."
+  en: "*Lujjī*: a deep, vast sea."
+tafsir: |
+  [Scholarly]
+
+  - Bu âyet bir **temsildir**. Seraba dair temsilin (24:39) ardından gelir ve hidayetten yoksun olanın iç hâlini anlatır.
+  - Müfessirler (Taberî, İbn Kesîr, Kurtubî) karanlık katmanlarını kalbin katmanlarına eşler: inancın, sözlerin, amellerin karanlığı, biri ötekinin üstünde.
+  - *Lüccî* derin, engin bir deniz demektir.
+howItWorks: |
+  [Established]
+
+  - Güneş ışığı deniz suyunda hızla söner. Kırmızı ışık çoğunlukla ilk birkaç metrede emilir; mavi ışık en derine iner.
+  - **Işıklı bölge** yaklaşık 200 m'ye kadar uzanır. Onun altında, yalnızca loş ışığın olduğu **alacakaranlık bölgesi** yaklaşık 1.000 m'ye kadar iner. Yaklaşık 1.000 m'nin altında hiç güneş ışığı yoktur.
+  - **İç dalgalar**, yüzeyin çok altında, yoğunlukları farklı su katmanları arasındaki sınırlar boyunca ilerler. Bazıları onlarca metreden 100 m'nin üzerine kadar yüksektir, ama yukarıdan görünmezler.
+  - İç dalgalar ilk kez 1900'lerin başında bilimsel olarak incelendi (Nansen ve Ekman'ın tarif ettiği "ölü su" etkisi).
+awe: |
+  - Okyanusun hacimce büyük kısmı tam bir karanlık içindedir.
+  - Denizin içinde, görünen yüzey dalgalarının altında, denizcilerin göremediği dev dalgalar hareket eder.
+reflection: |
+  Temsil, ışıksız bir ruhu anlatmak için üst üste binmiş karanlıkların fiziksel bir resmini kullanır. Anahtar son cümledir: ışık bir ikramdır ve "Allah kime nur vermemişse, onun hiç nuru yoktur."
+honest: |
+  - Yaygın bir iddiaya göre âyet "iç dalgaları bildirdi." Âyet açıkça hidayet hakkında bir temsildir ve klasik âlimler "dalga üstüne dalga" ifadesini üst üste binen yüzey dalgaları ve manevî karanlık olarak okudu. İç dalgaları en fazla ilginç bir modern tefekkür olarak sunmak gerekir.
+  - Denize açılan ya da dalan insanlar derin suyun karardığını biliyordu; yani derin denizdeki karanlık bilinmeyen bir bilgi değildi.
+  - Odak, temsilin anlamında kalmalıdır.
+visualization: |
+  - Bir "iniş" kaydırması: kullanıcı okyanusta aşağı inerken renkler sırayla kaybolur (önce kırmızı, sonra yeşil, sonra mavi), 1.000 m'de tam karanlığa kadar. Bir el belirir ve gözden kaybolur.
+  - Fiziksel katmanları temsilin manevî katmanlarına eşleyen bir karanlık katmanları kartı.
+sourceLabels:
+  - 'NOAA Okyanus Servisi — Işık okyanusta ne kadar ilerler?'
+  - 'LibreTexts Oşinografi — Okyanusta ışık'
+  - 'Taberî, İbn Kesîr ve Kurtubî''nin 24:39–40 tefsirleri'
