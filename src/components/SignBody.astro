@@ -9,6 +9,7 @@ import Pause from './Pause.astro';
 import Layer from './Layer.astro';
 import HonestNote from './HonestNote.astro';
 import Medallion from './motifs/Medallion.astro';
+import DeepAnswer from './DeepAnswer.astro';
 import TileBorder from './motifs/TileBorder.astro';
 import GerminationViz from './GerminationViz.astro';
 import BuiltViz from './viz/BuiltViz.astro';
@@ -112,6 +113,7 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
         )}
       </Layer>
       {sign.reflectionVerses && <VerseBlock refs={sign.reflectionVerses} lang={lang} size="small" />}
+      {sign.followUps && <DeepAnswer lang={lang} parts={[]} followUps={sign.followUps} />}
       <Sources sources={sign.sources} lang={lang} />
     </div>
   </div>

@@ -67,6 +67,10 @@ const signs = defineCollection({
     reflectionVerses: z.array(verseRef).optional(),
     /** `important`: the research marks the note "Honest note — important". */
     honestNotes: z.array(text.extend({ important: z.boolean().optional() })),
+    /** Questions readers ask next (English first). */
+    followUps: z.array(z.object({ q: textEnFirst, a: textEnFirst })).optional(),
+    /** The page's sources before its deepened version (kept by scripts/migrate-v2.mjs). */
+    legacySources: z.array(source).optional(),
     visualizations: z.array(visualization),
     sources: z.array(source).min(1),
   }),

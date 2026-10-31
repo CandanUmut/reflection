@@ -17,7 +17,7 @@ const research = fs
 // One "## Q<n> — title" section → its "### Heading" blocks.
 function section(id) {
   for (const { file, text } of research) {
-    const m = text.match(new RegExp(`^## ${id} — .*$([\\s\\S]*?)(?=^## [QM]\\d+ — |^---\\s*$|(?![\\s\\S]))`, 'm'));
+    const m = text.match(new RegExp(`^## ${id} — .*$([\\s\\S]*?)(?=^## [QMS]\\d+ — |^---\\s*$|(?![\\s\\S]))`, 'm'));
     if (m) {
       const blocks = {};
       for (const b of m[1].split(/^### /m).slice(1)) {
@@ -60,13 +60,13 @@ const sources = (src) =>
       return url ? { label, url } : { label };
     });
 
-const dirs = { Q: 'questions', M: 'morals' };
+const dirs = { Q: 'questions', M: 'morals', S: 'signs' };
 // Every question with a v2 research section; Turkish from content-src/tr-v2
 // when it exists. Without it the page is English-only v2: the Turkish page
 // keeps its previous text (layers, range of views) until the Turkish is added.
 const trDir = path.join(root, 'content-src/tr-v2');
 const ids = new Set(fs.existsSync(trDir) ? fs.readdirSync(trDir).map((f) => f.replace(/\.yaml$/, '')) : []);
-for (const { text } of research) for (const m of text.matchAll(/^## ([QM]\d+) — /gm)) ids.add(m[1]);
+for (const { text } of research) for (const m of text.matchAll(/^## ([QMS]\d+) — /gm)) ids.add(m[1]);
 for (const id of [...ids].sort((a, b) => a.localeCompare(b) || a.slice(1) - b.slice(1))) {
   const file = `${id}.yaml`;
   const tr = fs.existsSync(path.join(trDir, file)) ? parse(fs.readFileSync(path.join(trDir, file), 'utf8')) : null;
@@ -77,6 +77,30 @@ for (const id of [...ids].sort((a, b) => a.localeCompare(b) || a.slice(1) - b.sl
   const name = fs.readdirSync(dir).find((f) => f.startsWith(id.toLowerCase().replace(/^([sqm])(\d)$/, '$10$2') + '-'));
   const item = parse(fs.readFileSync(path.join(dir, name), 'utf8'));
 
+  if (id[0] === 'S') {
+    // Reflect: the four layers stay separate. A deepened layer replaces only its
+    // English text; Turkish keeps the previous page until it is added.
+    const dir = path.join(root, 'src/content/signs');
+    const name = fs.readdirSync(dir).find((f) => f.startsWith(id.toLowerCase().replace(/^s(\d)$/, 's0$1') + '-'));
+    const item = parse(fs.readFileSync(path.join(dir, name), 'utf8'));
+    const src = sources(need(blocks, 'Sources read', id));
+    const seen = new Set(src.map((x) => x.label));
+    const layer = (key, heading) => (blocks[heading] ? { [key]: { tr: item[key]?.tr ?? blocks[heading], en: blocks[heading] } } : {});
+    const out = {
+      ...item,
+      ...layer('tafsir', 'Classical tafsir'),
+      ...layer('howItWorks', 'How it works'),
+      ...layer('reflection', 'The reflection'),
+      followUps: followUps(need(blocks, 'Questions readers ask next', id)).map((f) => ({ q: { en: f.q }, a: { en: f.a } })),
+      legacySources: item.legacySources ?? item.sources,
+      sources: [...src, ...(item.legacySources ?? item.sources).filter((x) => !seen.has(typeof x.label === 'string' ? x.label : x.label.en))],
+    };
+    const header = `# ${id}: layers deepened by scripts/migrate-v2.mjs from docs/research/${found.file} (English); the rest as before.\n`;
+    const prev = fs.readFileSync(path.join(dir, name), 'utf8').split('\n').filter((l) => l.startsWith('#') && !l.includes('migrate-v2')).join('\n');
+    fs.writeFileSync(path.join(dir, name), (prev ? prev + '\n' : '') + header + stringify(out, { lineWidth: 0 }));
+    console.log('wrote', `signs/${name}`, '(deepened, English only)');
+    continue;
+  }
   if (id[0] === 'M') {
     // Live: "In brief" → summary, "Go deeper" → the deep parts, "Honest limits"
     // → the honest-gap note. English first; Turkish keeps the previous page.

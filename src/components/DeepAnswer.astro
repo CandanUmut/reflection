@@ -40,23 +40,27 @@ const asked = followUps.filter((f) => f.q[lang] && f.a[lang]);
 const id = `deep-${heading}`;
 ---
 
-<section class="full" aria-labelledby={id} data-full={folded ? '' : undefined}>
-  <h2 id={id}>{t(lang, heading)}</h2>
-  <p class="full__time">
-    {minutes} {t(lang, 'minRead')}
-  </p>
-  {parts.map((part, i) => (
-    <section class="full__part" data-part={i}>
-      <h3>{part.title?.[lang] ?? t(lang, LABEL[part.kind])}</h3>
-      <Fragment set:html={md(part[lang] ?? '', lang)} />
+{
+  parts.length > 0 && (
+    <section class="full" aria-labelledby={id} data-full={folded ? '' : undefined}>
+      <h2 id={id}>{t(lang, heading)}</h2>
+      <p class="full__time">
+        {minutes} {t(lang, 'minRead')}
+      </p>
+      {parts.map((part, i) => (
+        <section class="full__part" data-part={i}>
+          <h3>{part.title?.[lang] ?? t(lang, LABEL[part.kind])}</h3>
+          <Fragment set:html={md(part[lang] ?? '', lang)} />
+        </section>
+      ))}
+      {folded && (
+        <button class="full__more btn" type="button" hidden>
+          {t(lang, 'readMore')}
+        </button>
+      )}
     </section>
-  ))}
-  {folded && (
-    <button class="full__more btn" type="button" hidden>
-      {t(lang, 'readMore')}
-    </button>
-  )}
-</section>
+  )
+}
 
 {asked.length > 0 && (
   <section class="followups" aria-labelledby={`${id}-asked`}>
