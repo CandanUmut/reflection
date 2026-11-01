@@ -153,6 +153,7 @@ const paletteCss = [
           {!standalone && (
             <a
               class="lang-switch"
+              data-lang={other}
               href={localeUrl(other, altPath)}
               hreflang={other}
               lang={other}
@@ -165,6 +166,12 @@ const paletteCss = [
         </div>
       </div>
     </header>
+    {!standalone && (
+      <script
+        is:inline
+        set:html={`document.querySelector('.lang-switch')?.addEventListener('click',function(e){try{localStorage.setItem('tefekkur-lang',e.currentTarget.dataset.lang)}catch(_){}});`}
+      />
+    )}
     <TileBorder height={28} />
     <main id="main" tabindex="-1">
       <slot />

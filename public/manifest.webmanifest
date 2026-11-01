@@ -1,24 +1,50 @@
 {
-  "name": "Tefekkür — Düşünenler için âyetler",
+  "name": "Tefekkür",
   "short_name": "Tefekkür",
   "description": "Âyetler, ahlak ve zor sorular üzerine tefekkür. Reflection on the signs, the moral vision and the hard questions of faith.",
-  "lang": "tr",
   "dir": "ltr",
   "id": "/reflection/",
-  "start_url": "/reflection/tr/",
+  "start_url": "/reflection/",
   "scope": "/reflection/",
   "display": "standalone",
   "background_color": "#F7F3EA",
   "theme_color": "#F7F3EA",
   "icons": [
-    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icons/maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
   ],
   "shortcuts": [
-    { "name": "Tefekkür et", "url": "/reflection/tr/tefekkur/" },
-    { "name": "Yaşa", "url": "/reflection/tr/yasam/" },
-    { "name": "Sor", "url": "/reflection/tr/sor/" },
-    { "name": "Bahçem", "url": "/reflection/tr/bahce/" }
+    {
+      "name": "Tefekkür et · Reflect",
+      "url": "/reflection/?go=signs"
+    },
+    {
+      "name": "Yaşa · Live",
+      "url": "/reflection/?go=morals"
+    },
+    {
+      "name": "Sor · Ask",
+      "url": "/reflection/?go=questions"
+    },
+    {
+      "name": "Bahçem · My garden",
+      "url": "/reflection/?go=garden"
+    }
   ]
 }

@@ -1,18 +1,54 @@
 ---
-// The root sends visitors to the Turkish home (Turkish is the default language).
+// The root, and the app's start page: sends the reader to their language.
+// 1. The language they chose with the language link (remembered in this browser).
+// 2. Otherwise the device's language: Turkish if it prefers Turkish, English for
+//    every other language.
+// ?go=signs|morals|questions|garden opens that section instead of the home page
+// (the installed app's shortcuts use it). Without JavaScript: links to both.
 import { localeUrl } from '../lib/paths';
-const target = localeUrl('tr');
+import { sectionSegment } from '../lib/routes';
+
+const targets = {
+  tr: { home: localeUrl('tr'), garden: localeUrl('tr', 'bahce/') },
+  en: { home: localeUrl('en'), garden: localeUrl('en', 'garden/') },
+};
+const sections = Object.fromEntries(
+  Object.entries(sectionSegment).map(([k, seg]) => [
+    k,
+    { tr: localeUrl('tr', seg.tr + '/'), en: localeUrl('en', seg.en + '/') },
+  ]),
+);
+const script = `(function(){
+var lang;
+try { lang = localStorage.getItem('tefekkur-lang'); } catch (e) {}
+if (lang !== 'tr' && lang !== 'en') {
+  var prefs = navigator.languages && navigator.languages.length ? navigator.languages : [navigator.language || ''];
+  lang = String(prefs[0] || '').toLowerCase().indexOf('tr') === 0 ? 'tr' : 'en';
+}
+var T = ${JSON.stringify(targets)}, S = ${JSON.stringify(sections)};
+var go = new URLSearchParams(location.search).get('go');
+location.replace(go === 'garden' ? T[lang].garden : S[go] ? S[go][lang] : T[lang].home);
+})();`;
 ---
 
 <!doctype html>
-<html lang="tr">
+<html lang="en">
   <head>
     <meta charset="utf-8" />
-    <meta http-equiv="refresh" content={`0; url=${target}`} />
-    <link rel="canonical" href={target} />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Tefekkür</title>
+    <link rel="manifest" href={`${import.meta.env.BASE_URL.replace(/\/?$/, '/')}manifest.webmanifest`} />
+    <script is:inline set:html={script} />
   </head>
-  <body>
-    <a href={target}>Tefekkür</a>
+  <body style="font-family: Georgia, serif; text-align: center; padding: 3rem 1rem">
+    <p>
+      <a href={targets.tr.home} hreflang="tr" lang="tr">
+        Türkçe
+      </a>{' '}
+      ·{' '}
+      <a href={targets.en.home} hreflang="en">
+        English
+      </a>
+    </p>
   </body>
 </html>
