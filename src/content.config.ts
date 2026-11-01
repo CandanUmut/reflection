@@ -59,11 +59,11 @@ const signs = defineCollection({
     /** Word notes from the research's verse section (e.g. the root of a key word). */
     verseNotes: text.optional(),
     /** Optional: a few early research items (e.g. S6) give no classical tafsir; logged in CONTENT_GAPS. */
-    tafsir: text.optional(),
+    tafsir: textEnFirst.optional(),
     howItWorks: text,
     awe: text.optional(),
-    /** Optional: S3, S7 and S9 have no reflection in the research; logged in CONTENT_GAPS. */
-    reflection: text.optional(),
+    /** English first: S3, S7 and S9 had no reflection; the deepened one is English until translated. */
+    reflection: textEnFirst.optional(),
     reflectionVerses: z.array(verseRef).optional(),
     /** `important`: the research marks the note "Honest note — important". */
     honestNotes: z.array(text.extend({ important: z.boolean().optional() })),

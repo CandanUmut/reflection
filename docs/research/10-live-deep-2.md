@@ -97,8 +97,10 @@ Racism and sectarianism exist in Muslim communities, against the teaching of 49:
 ## M8 — Wealth and charity
 
 ### Sources read
-- Quran 2:261, 9:34, 59:7, 83:1 (Saheeh International).
-- Hadith (text and grades from the collections' data): Bukhari 1417, 1427, 6436; Muslim 1598, 1605, 2588; Tirmidhi 1209, 1315.
+- Quran 2:261, 2:280, 9:34, 9:60, 59:7, 70:24–25, 83:1 (Saheeh International).
+- Ibn Kathir, *Tafsir* (abridged English, Quran.com), on 59:7 and 9:34.
+- Hadith (text and grades from the collections' data): Bukhari 1417, 1427, 1454, 2397, 6436; Muslim 1563, 1598, 1605, 2588; Tirmidhi 1209, 1315.
+- International Islamic Fiqh Academy (OIC), Resolution 10 (10/2), 1985, on bank interest; Al-Azhar Islamic Research Academy, statement of 2002 on fixed bank returns.
 - maqasid (al-Ghazali, al-Shatibi, Ibn 'Ashur); al-Ghazali on miserliness; Curry et al. (2018); Dunn, Aknin and Norton (2008); waqf and hisba; El-Gamal (2006).
 
 ### In brief
@@ -111,7 +113,9 @@ Wealth is a trust: it must be earned fairly, shared — zakat is the poor's righ
 
 **Fair trade.** "Woe to those who give less [than due]" (83:1).
 
-**Wealth must circulate.** Distribution is ordered "so that it will not be a perpetual distribution among the rich from among you" (59:7). "Those who hoard gold and silver and spend it not in the way of Allah — give them tidings of a painful punishment" (9:34).
+**Wealth must circulate.** Distribution is ordered "so that it will not be a perpetual distribution among the rich from among you" (59:7). In its context, this verse is about *fay'*: property that came to the Muslims without fighting, as with the Banu al-Nadir, which the Prophet (pbuh) spent on the poor and on public causes. Ibn Kathir explains the aim: "so that the wealth does not remain among the wealthy, who would spend it as they wish and desire and give none of it to the poor." Scholars draw a general principle from it: wealth should not circulate only among the rich.
+
+**Hoarding.** "Those who hoard gold and silver and spend it not in the way of Allah — give them tidings of a painful punishment" (9:34). The verse begins by criticising religious leaders who take people's wealth unjustly; its warning then covers anyone who hoards and does not pay what is due on their wealth.
 
 #### sunnah — What the Prophet taught
 **Giving does not shrink wealth.** "Charity does not decrease wealth" {hadith:muslim:2588}. "Save yourself from Hell-fire even by giving half a date-fruit in charity" {hadith:bukhari:1417}. "The upper hand is better than the lower hand", and giving starts with one's dependants {hadith:bukhari:1427}.
@@ -120,8 +124,11 @@ Wealth is a trust: it must be earned fairly, shared — zakat is the poor's righ
 
 **Honest trade.** Finding wet grain hidden under dry in a market pile, the Prophet (pbuh) said: "Whoever cheats is not one of us" {hadith:tirmidhi:1315}. Hoarding goods to raise prices is a sin {hadith:muslim:1605}, and the one who consumes usury (*riba*), pays it, records it or witnesses it is cursed {hadith:muslim:1598}. The often-quoted "honest, trustworthy merchant is with the prophets…" ({hadith:tirmidhi:1209}) is graded weak by most graders, so it is not used here as evidence.
 
+#### fiqh — Zakat in brief
+**Who pays, how much, to whom.** Zakat is due once a year on savings above a minimum amount (*nisab*). On silver, the written instructions Abu Bakr (ra) sent with Anas (ra) say: "For silver the Zakat is one-fortieth of the lot (i.e. 2.5%), and if its value is less than two-hundred Dirhams, Zakat is not required" {hadith:bukhari:1454}. Today the *nisab* is usually worked out from the value of gold or silver, and the four schools differ in some details (for example on jewellery). The Quran names the eight groups who receive it: "the poor and for the needy and for those employed to collect [zakah] and for bringing hearts together [for Islam] and for freeing captives [or slaves] and for those in debt and for the cause of Allah and for the [stranded] traveler" (9:60).
+
 #### scholars — How scholars have understood it
-**Wealth is one of the law's aims.** Protecting wealth (*hifz al-mal*) is one of the five classical objectives (*maqasid*) of the law in al-Ghazali and al-Shatibi; the modern scholar Ibn 'Ashur adds that wealth must circulate and be handled clearly and fairly. Al-Ghazali, in the *Ihya'*, treats greed as a disease of the heart and generosity as its cure. On *riba*, scholars agree on the ban but debate how it applies to modern bank interest. [Debated in its details]
+**Wealth is one of the law's aims.** Protecting wealth (*hifz al-mal*) is one of the five classical objectives (*maqasid*) of the law in al-Ghazali and al-Shatibi; the modern scholar Ibn 'Ashur adds that wealth must circulate and be handled clearly and fairly. Al-Ghazali, in the *Ihya'*, treats greed as a disease of the heart and generosity as its cure. On *riba*, scholars agree on the ban but debate how it applies to modern bank interest. Most scholars and fiqh councils hold that bank interest is *riba*: the International Islamic Fiqh Academy of the OIC ruled in 1985 (Resolution 10) that any fixed increase on a loan is forbidden *riba*. A minority view, given by Al-Azhar's Islamic Research Academy in 2002, held fixed returns from bank investment to be permissible, treating the bank as an investment agent rather than a lender. [Debated in its details]
 
 #### history — History
 **Endowments built cities.** Across Islamic history, endowments (*waqf*) funded hospitals, schools, fountains and soup kitchens, and the market inspector (*muhtasib*) checked weights and fraud.
@@ -132,10 +139,15 @@ Wealth is a trust: it must be earned fairly, shared — zakat is the poor's righ
 #### practice — In daily life
 **Simple steps.** Give regularly, even a little {hadith:bukhari:1417}. Pay zakat as a right, not a favour. Never hide defects in what you sell {hadith:tirmidhi:1315}. Before buying more, remember the third valley {hadith:bukhari:6436}.
 
-### Questions readers ask next
-**Is all bank interest *riba*?** Scholars agree *riba* is forbidden but differ on modern interest. [Debated]
+#### heart — If you are the one in need
+**No shame in receiving.** The Quran calls what the poor receive "a known right" (70:24) "for the petitioner and the deprived" (70:25). Zakat is the poor's share by God's order, not a favour from the rich, and "those in debt" are one of its eight groups (9:60).
 
-**What is zakat?** An obligatory annual share of savings given to the groups the Quran names (9:60), a right of the poor.
+**If you are in debt.** The Quran tells lenders: "if someone is in hardship, then [let there be] postponement until [a time of] ease" (2:280). The Prophet (pbuh) said that whoever wants God to save him from the torments of the Day of Resurrection "should give respite to the insolvent or remit (his debt)" {hadith:muslim:1563}. He himself often prayed for protection "from being in debt", because debt pushes a person to break promises {hadith:bukhari:2397}. Need and debt are hardships to be eased, not a mark against you.
+
+### Questions readers ask next
+**Is all bank interest *riba*?** Most fiqh councils, including the International Islamic Fiqh Academy (1985), say yes; a minority, including Al-Azhar's Islamic Research Academy (2002), allowed fixed returns on bank investment. [Debated]
+
+**What is zakat?** An obligatory yearly 2.5% of savings above the *nisab*, given to the eight groups the Quran names (9:60); see the section on the law above.
 
 **Does charity really not decrease wealth?** The hadith says so {hadith:muslim:2588}; scholars understand it as blessing and reward, not as an accounting promise.
 

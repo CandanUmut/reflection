@@ -85,9 +85,13 @@ for (const id of [...ids].sort((a, b) => a.localeCompare(b) || a.slice(1) - b.sl
     const item = parse(fs.readFileSync(path.join(dir, name), 'utf8'));
     const src = sources(need(blocks, 'Sources read', id));
     const seen = new Set(src.map((x) => x.label));
-    const layer = (key, heading) => (blocks[heading] ? { [key]: { tr: item[key]?.tr ?? blocks[heading], en: blocks[heading] } } : {});
+    // Turkish keeps the previous text; a layer that had none stays English-only (tr omitted).
+    const layer = (key, heading) =>
+      blocks[heading] ? { [key]: { ...(item[key]?.tr && item[key].tr !== item[key].en ? { tr: item[key].tr } : {}), en: blocks[heading] } } : {};
     const out = {
       ...item,
+      ...layer('summary', 'In brief'),
+      ...layer('verseNotes', 'Verse note'),
       ...layer('tafsir', 'Classical tafsir'),
       ...layer('howItWorks', 'How it works'),
       ...layer('reflection', 'The reflection'),
