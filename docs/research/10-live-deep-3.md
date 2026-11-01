@@ -54,7 +54,8 @@ Religious arrogance — "only my group is right", looking down on the less obser
 
 ### Sources read
 - Quran 7:31, 30:41, 55:8 (Saheeh International).
-- Hadith (text and grades from the collections' data): Bukhari 2320, 2370; Ibn Majah 425.
+- Ibn Kathir, *Tafsir* (abridged English, Quran.com), on 30:41.
+- Hadith (text and grades from the collections' data): Bukhari 2320, 2370, 2466, 3318; Ibn Majah 425. Musnad Ahmad 12902 and al-Bukhari, *al-Adab al-Mufrad* 479 (graded sahih by al-Albani).
 - stewardship readings; S. H. Nasr (1968); the Islamic Declaration on Global Climate Change (2015); White et al. (2019); World Resources Institute water-stress data.
 
 ### In brief
@@ -67,12 +68,16 @@ Religious arrogance — "only my group is right", looking down on the less obser
 
 **Corruption has consequences.** "Corruption has appeared throughout the land and sea by [reason of] what the hands of people have earned so He may let them taste part of [the consequence of] what they have done that perhaps they will return" (30:41).
 
+Classical commentators read the "corruption" (*fasad*) mainly as the result of sin. Ibn Kathir reports Mujahid's reading — "Evil on land means the killing of the son of Adam, and evil on the sea means piracy" — and another, that "the shortfall in the crops and fruits is because of sins". He quotes Abu al-'Aliya: "Whoever disobeys Allah in the earth has corrupted it, because the good condition of the earth and the heavens depends on obedience to Allah." Applying the verse to pollution is a modern extension, in line with its words "what the hands of people have earned".
+
 **Keep the balance.** "That you not transgress within the balance" (55:8).
 
 #### sunnah — What the Prophet taught
 **Planting is charity.** "There is none amongst the Muslims who plants a tree or sows seeds, and then a bird, or a person or an animal eats from it, but is regarded as a charitable gift for him" {hadith:bukhari:2320}.
 
 **Protected land.** "No Hima except for Allah and His Apostle": the Prophet (pbuh) made the place called al-Naqi' a protected pasture (*hima*), ending private reserves kept by the powerful {hadith:bukhari:2370}.
+
+**Animals.** A man who climbed down a well to bring water in his shoe to a thirsty dog was forgiven by God; asked whether there is reward in serving animals, the Prophet (pbuh) said: "Yes, there is a reward for serving any animate (living being)" {hadith:bukhari:2466}. A woman "entered the (Hell) Fire because of a cat which she had tied, neither giving it food nor setting it free" {hadith:bukhari:3318}.
 
 **Water.** A hadith about not wasting water even at a flowing river is often quoted ({hadith:ibnmajah:425}); its chain is weak, so it is not used here as evidence. 7:31 makes the same point.
 
@@ -85,8 +90,13 @@ Religious arrogance — "only my group is right", looking down on the less obser
 #### practice — In daily life
 **Concrete steps.** Waste less food, especially in Ramadan; use water carefully, even at the mosque; plant something {hadith:bukhari:2320}; support protected green spaces, the modern *hima*.
 
+#### heart — If the news makes you anxious
+**Plant it anyway.** The Prophet (pbuh) said: "If the Hour is about to come and one of you has a palm shoot in his hand, let him plant it" (Musnad Ahmad 12902; *al-Adab al-Mufrad* 479, graded sahih by al-Albani). Even at the end of the world, the small good act still counts. You are not asked to save the whole planet alone; you are asked not to waste (7:31), to plant {hadith:bukhari:2320} and to keep the balance (55:8) where you are. The same verse that names corruption ends with hope: "that perhaps they will return" (30:41).
+
 ### Questions readers ask next
 **Does the Quran talk about climate change?** No; it speaks of excess (7:31), corruption on land and sea (30:41) and balance (55:8), which believers apply to today's problems.
+
+**Doesn't religion teach "dominion" over nature?** The historian Lynn White (1967) argued that the Bible's "dominion" encouraged exploiting nature. The Quran says the earth was subjected to people (22:65), but it also forbids excess (7:31) and corruption (30:41), and the hadith reward care even for a dog {hadith:bukhari:2466}. Use is allowed; abuse is not.
 
 **Is "khalifa" really about the environment?** That is a modern reading; classical commentators mostly read it otherwise (see above).
 
@@ -150,8 +160,8 @@ Domestic violence is a serious problem in many societies, Muslim-majority ones i
 ## M14 — Knowledge
 
 ### Sources read
-- Quran 20:114, 39:9, 96:1 (Saheeh International).
-- Hadith (text and grades from the collections' data): Muslim 2699; Ibn Majah 224; Tirmidhi 2647.
+- Quran 2:286, 20:114, 39:9, 96:1 (Saheeh International).
+- Hadith (text and grades from the collections' data): Muslim 2699; Ibn Majah 224; Tirmidhi 2647; Bukhari 4937.
 - al-Ghazali's Book of Knowledge; Ibn Rushd's *Fasl al-Maqal*; Gruber et al., *Neuron* (2014); Akram Nadwi, *al-Muhaddithat*.
 
 ### In brief
@@ -182,6 +192,9 @@ The first word revealed was "Recite" (96:1), and the Prophet (pbuh) was told to 
 
 #### practice — In daily life
 **A daily habit.** Learn one thing a day, in faith and in the world; ask "My Lord, increase me in knowledge" (20:114); read the sources, not only summaries.
+
+#### heart — If learning is hard for you
+**Effort counts double.** The Prophet (pbuh) said that the one who masters the Quran is with the noble angels, "and such a person exerts himself to learn the Qur'an by heart, and recites it with great difficulty, will have a double reward" {hadith:bukhari:4937}. Struggling to learn is not a sign that you are not meant to; the effort itself is rewarded. "Allah does not charge a soul except [with that within] its capacity" (2:286). Start where you are, ask "My Lord, increase me in knowledge" (20:114), and take the next small step.
 
 ### Questions readers ask next
 **Is secular knowledge religiously valuable?** Al-Ghazali counted fields like medicine as communal duties (*fard kifaya*).

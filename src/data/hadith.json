@@ -67,6 +67,10 @@
    "whole": true,
    "grades": []
   },
+  "bukhari:1454": {
+   "whole": true,
+   "grades": []
+  },
   "bukhari:2320": {
    "whole": true,
    "grades": []
@@ -75,11 +79,19 @@
    "whole": true,
    "grades": []
   },
+  "bukhari:2397": {
+   "whole": true,
+   "grades": []
+  },
   "bukhari:2444": {
    "whole": true,
    "grades": []
   },
   "bukhari:2447": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:2466": {
    "whole": true,
    "grades": []
   },
@@ -96,6 +108,10 @@
    "grades": []
   },
   "bukhari:33": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:3318": {
    "whole": true,
    "grades": []
   },
@@ -120,6 +136,10 @@
    "grades": []
   },
   "bukhari:4837": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:4937": {
    "whole": true,
    "grades": []
   },
@@ -254,6 +274,10 @@
    ]
   },
   "muslim:153": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:1563": {
    "whole": true,
    "grades": []
   },
