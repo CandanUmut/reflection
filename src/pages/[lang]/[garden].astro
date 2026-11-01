@@ -1,0 +1,394 @@
+---
+// The reader's garden: every page they mark "read and reflected" is a flower,
+// one bed per section, with gentle quests below. Built static; the browser
+// fills it in from localStorage (src/lib/progress.ts). Nothing leaves the device.
+import { getCollection } from 'astro:content';
+import Base from '../../layouts/Base.astro';
+import { t, locales, otherLocale, type Locale, type UiKey } from '../../i18n/ui';
+import { itemUrl, type Section } from '../../lib/routes';
+import { flowerOf, quests, type QuestItem } from '../../lib/quests';
+
+export const getStaticPaths = () =>
+  locales.map((lang) => ({ params: { lang, garden: lang === 'tr' ? 'bahce' : 'garden' } }));
+const slug = { tr: 'bahce', en: 'garden' } as const;
+const lang = Astro.params.lang as Locale;
+
+const sections: { key: Section; label: UiKey }[] = [
+  { key: 'signs', label: 'sectionSigns' },
+  { key: 'morals', label: 'sectionMorals' },
+  { key: 'questions', label: 'sectionQuestions' },
+];
+const beds = await Promise.all(
+  sections.map(async ({ key, label }) => ({
+    key,
+    label,
+    items: (await getCollection(key))
+      .sort((a, b) => a.data.order - b.data.order)
+      .map(({ data }) => ({
+        id: data.id,
+        title: data.title[lang],
+        href: itemUrl(key, data.slugs, lang),
+        theme: 'theme' in data ? (data.theme as string | undefined) : undefined,
+      })),
+  })),
+);
+const questItems: QuestItem[] = beds.flatMap((b) => b.items.map((i) => ({ id: i.id, section: b.key, theme: i.theme })));
+const total = questItems.length;
+// The flowers lean a little, each its own way, so a bed never looks like a ruler drew it.
+const lean = (id: string) => ((id.charCodeAt(1) * 7 + Number(id.slice(1)) * 13) % 13) - 6;
+---
+
+<Base
+  lang={lang}
+  title={t(lang, 'garden')}
+  description={t(lang, 'gardenIntro')}
+  altPath={`${slug[otherLocale(lang)]}/`}
+>
+  <div class="wrap garden" data-garden>
+    <h1>{t(lang, 'garden')}</h1>
+    <p class="garden__intro">{t(lang, 'gardenIntro')}</p>
+    <noscript>
+      <p class="garden__intro">{t(lang, 'gardenNoJs')}</p>
+    </noscript>
+    <p class="garden__total" aria-live="polite">
+      {lang === 'tr' ? (
+        <>
+          {total} sayfadan <strong data-total-count>0</strong> sayfa okundu
+        </>
+      ) : (
+        <>
+          <strong data-total-count>0</strong> of {total} pages read
+        </>
+      )}
+    </p>
+
+    {beds.map((bed) => (
+      <section class="bed" aria-labelledby={`bed-${bed.key}`} data-bed={bed.key}>
+        <h2 id={`bed-${bed.key}`}>
+          {t(lang, bed.label)}
+          <span class="bed__count">
+            <span data-bed-count>0</span> / {bed.items.length}
+          </span>
+        </h2>
+        <div class="bed__bar" aria-hidden="true">
+          <span data-bed-bar></span>
+        </div>
+        <ul class="bed__plots">
+          {bed.items.map((i) => (
+            <li class="plot" data-id={i.id}>
+              <a href={i.href} title={i.title}>
+                <svg viewBox="-18 -46 36 50" aria-hidden="true" focusable="false">
+                  <path class="plot__soil" d="M-14 2 C-6 0 6 0 14 2" />
+                  <g class="plot__bud">
+                    <use href="#fl-bud" transform="scale(0.55)" />
+                  </g>
+                  <g class="plot__flower" transform={`rotate(${lean(i.id)})`}>
+                    <use href="#fl-leaf-l" transform="translate(-1.5 0) rotate(-38) scale(0.5)" />
+                    <use href="#fl-leaf-r" transform="translate(1.5 0) rotate(38) scale(0.5)" />
+                    <use
+                      href={`#fl-${flowerOf[bed.key]}`}
+                      transform={
+                        flowerOf[bed.key] === 'rosette' ? 'translate(0 -22) scale(1.05)' : 'translate(0 -6) scale(0.78)'
+                      }
+                    />
+                  </g>
+                </svg>
+                <span class="plot__id">{i.id}</span>
+                <span class="visually-hidden">
+                  {i.title} — <span class="plot__state-done">{t(lang, 'gardenRead')}</span>
+                  <span class="plot__state-not">{t(lang, 'gardenNotYet')}</span>
+                </span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    ))}
+
+    <section class="quests" aria-labelledby="quests-h">
+      <h2 id="quests-h">{t(lang, 'quests')}</h2>
+      <p class="garden__intro">{t(lang, 'questsIntro')}</p>
+      <ul class="quests__list">
+        {quests.map((q) => (
+          <li class="quest" data-quest={q.id}>
+            <span class="quest__mark" aria-hidden="true">
+              <svg viewBox="-12 -24 24 26">
+                <use href="#fl-bud" class="quest__bud" transform="scale(0.9) translate(0 -2)" />
+                <use href="#fl-tulip" class="quest__flower" transform="scale(0.5) translate(0 -2)" />
+              </svg>
+            </span>
+            <span class="quest__body">
+              <span class="quest__title">{q.title[lang]}</span>
+              <span class="quest__text">{q.text[lang]}</span>
+            </span>
+            <span class="quest__progress">
+              <span data-quest-count>0</span>
+              <span class="visually-hidden quest__done-label">{t(lang, 'questDone')}</span>
+            </span>
+          </li>
+        ))}
+      </ul>
+    </section>
+
+    <section class="keep" aria-labelledby="keep-h">
+      <h2 id="keep-h">{t(lang, 'gardenKeep')}</h2>
+      <p>{t(lang, 'gardenKeepText')}</p>
+      <div class="keep__actions">
+        <button class="btn" type="button" data-export>
+          {t(lang, 'gardenExport')}
+        </button>
+        <label class="btn keep__import">
+          {t(lang, 'gardenImport')}
+          <input type="file" accept="application/json,.json" data-import class="visually-hidden" />
+        </label>
+        <button class="btn keep__reset" type="button" data-reset data-confirm={t(lang, 'gardenResetConfirm')}>
+          {t(lang, 'gardenReset')}
+        </button>
+      </div>
+      <p class="keep__status" aria-live="polite" data-keep-status></p>
+    </section>
+  </div>
+  <script
+    type="application/json"
+    id="garden-data"
+    set:html={JSON.stringify({
+      items: questItems,
+      imported: t(lang, 'gardenImported'),
+      importFail: t(lang, 'gardenImportFail'),
+    })}
+  />
+</Base>
+
+<script>
+  import { load, exportJson, importJson, reset, CHANGE } from '../../lib/progress';
+  import { quests, type QuestItem } from '../../lib/quests';
+
+  const root = document.querySelector<HTMLElement>('[data-garden]');
+  const data = JSON.parse(document.getElementById('garden-data')!.textContent!) as {
+    items: QuestItem[];
+    imported: string;
+    importFail: string;
+  };
+  const ids = new Set(data.items.map((i) => i.id));
+
+  function render() {
+    if (!root) return;
+    const done = load();
+    let total = 0;
+    for (const plot of root.querySelectorAll<HTMLElement>('.plot')) {
+      const on = Boolean(done[plot.dataset.id!]);
+      plot.classList.toggle('is-done', on);
+      if (on) total++;
+    }
+    root.querySelector('[data-total-count]')!.textContent = String(total);
+    for (const bed of root.querySelectorAll<HTMLElement>('[data-bed]')) {
+      const plots = bed.querySelectorAll('.plot');
+      const n = bed.querySelectorAll('.plot.is-done').length;
+      bed.querySelector('[data-bed-count]')!.textContent = String(n);
+      bed.querySelector<HTMLElement>('[data-bed-bar]')!.style.width = `${(100 * n) / plots.length}%`;
+    }
+    for (const q of quests) {
+      const li = root.querySelector<HTMLElement>(`[data-quest="${q.id}"]`)!;
+      const { count, goal } = q.measure(done, data.items);
+      li.classList.toggle('is-done', goal > 0 && count >= goal);
+      li.querySelector('[data-quest-count]')!.textContent = `${count} / ${goal}`;
+    }
+  }
+
+  const status = root?.querySelector<HTMLElement>('[data-keep-status]');
+  root?.querySelector('[data-export]')?.addEventListener('click', () => {
+    const blob = new Blob([exportJson()], { type: 'application/json' });
+    const a = Object.assign(document.createElement('a'), {
+      href: URL.createObjectURL(blob),
+      download: 'tefekkur-garden.json',
+    });
+    a.click();
+    URL.revokeObjectURL(a.href);
+  });
+  root?.querySelector<HTMLInputElement>('[data-import]')?.addEventListener('change', async (e) => {
+    const input = e.target as HTMLInputElement;
+    const file = input.files?.[0];
+    if (!file || !status) return;
+    try {
+      status.textContent = `${importJson(await file.text(), ids)} ${data.imported}`;
+    } catch {
+      status.textContent = data.importFail;
+    }
+    input.value = '';
+  });
+  root?.querySelector<HTMLButtonElement>('[data-reset]')?.addEventListener('click', (e) => {
+    if (confirm((e.currentTarget as HTMLElement).dataset.confirm)) reset();
+  });
+
+  window.addEventListener(CHANGE, render);
+  window.addEventListener('storage', render);
+  render();
+</script>
+
+<style>
+  .garden__intro {
+    color: var(--ink-soft);
+  }
+  .garden__total {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+  }
+  .bed {
+    margin-top: var(--space-5);
+  }
+  .bed h2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: var(--space-3);
+  }
+  .bed__count {
+    font-family: var(--font-ui);
+    font-size: var(--step--1);
+    color: var(--ink-soft);
+    font-weight: 400;
+  }
+  .bed__bar {
+    height: 3px;
+    background: var(--hairline);
+    border-radius: 2px;
+    overflow: hidden;
+  }
+  .bed__bar span {
+    display: block;
+    height: 100%;
+    width: 0;
+    background: var(--life);
+    transition: width var(--dur-slow) var(--ease-breath);
+  }
+  .bed__plots {
+    list-style: none;
+    padding: var(--space-3) 0 0;
+    margin: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(3.4rem, 1fr));
+    gap: var(--space-2) var(--space-1);
+  }
+  .plot a {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-decoration: none;
+    padding: var(--space-1) 0;
+    border-radius: var(--radius);
+  }
+  .plot svg {
+    width: 2.6rem;
+    height: auto;
+    overflow: visible;
+  }
+  .plot__soil {
+    fill: none;
+    stroke: var(--lamp-line);
+    stroke-width: 1;
+    stroke-linecap: round;
+  }
+  .plot__bud {
+    opacity: 0.6;
+  }
+  .plot__flower,
+  .plot.is-done .plot__bud,
+  .plot__state-done,
+  .plot.is-done .plot__state-not {
+    display: none;
+  }
+  .plot.is-done .plot__flower,
+  .plot.is-done .plot__state-done {
+    display: inline;
+  }
+  .plot__id {
+    font-family: var(--font-mono);
+    font-size: 0.7rem;
+    color: var(--ink-soft);
+  }
+  .plot a:hover .plot__id,
+  .plot a:focus-visible .plot__id {
+    color: var(--ink);
+    text-decoration: underline;
+  }
+
+  .quests {
+    margin-top: var(--space-6);
+  }
+  .quests__list {
+    list-style: none;
+    padding: 0;
+    margin: var(--space-3) 0 0;
+  }
+  .quest {
+    display: grid;
+    grid-template-columns: 2rem 1fr auto;
+    gap: var(--space-3);
+    align-items: center;
+    padding-block: var(--space-3);
+    border-top: var(--rule);
+  }
+  .quest:last-child {
+    border-bottom: var(--rule);
+  }
+  .quest__mark svg {
+    width: 1.6rem;
+    height: auto;
+    overflow: visible;
+  }
+  .quest__bud {
+    opacity: 0.6;
+  }
+  .quest__flower,
+  .quest.is-done .quest__bud {
+    display: none;
+  }
+  .quest.is-done .quest__flower {
+    display: inline;
+  }
+  .quest__body {
+    display: flex;
+    flex-direction: column;
+  }
+  .quest__title {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    line-height: 1.3;
+  }
+  .quest__text {
+    color: var(--ink-soft);
+    font-size: 0.95rem;
+  }
+  .quest__progress {
+    font-family: var(--font-ui);
+    font-size: var(--step--1);
+    color: var(--ink-soft);
+    white-space: nowrap;
+  }
+  .quest.is-done .quest__progress {
+    color: var(--life);
+  }
+  .quest:not(.is-done) .quest__done-label {
+    display: none;
+  }
+
+  .keep {
+    margin-top: var(--space-6);
+  }
+  .keep__actions {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+  .keep__import:focus-within {
+    outline: 2px solid var(--cobalt);
+    outline-offset: 2px;
+  }
+  .keep__reset {
+    color: var(--clay);
+  }
+  .keep__status {
+    min-height: 1.5em;
+    color: var(--ink-soft);
+  }
+</style>

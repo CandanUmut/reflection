@@ -2,23 +2,52 @@
 // A calm list of items in a section: id, title, one line of summary.
 interface Props {
   items: { id: string; href: string; title: string; summary?: string | undefined }[];
+  /** Screen-reader word for a page the reader has finished ("read"). */
+  readLabel: string;
+  /** This section's flower in the reader's garden. */
+  flower: 'tulip' | 'carnation' | 'rosette';
 }
-const { items } = Astro.props;
+const { items, readLabel, flower } = Astro.props;
+const flowerT = flower === 'rosette' ? 'translate(0 -20) scale(1.2)' : 'translate(0 -4) scale(0.8)';
 ---
 
 <ol class="items">
   {items.map((i) => (
-    <li>
+    <li data-item-id={i.id}>
       <a href={i.href}>
         <span class="ref">{i.id}</span>
-        <span class="items__title">{i.title}</span>
+        <span class="items__title">
+          {i.title}
+          <span class="items__done" hidden>
+            <svg class="items__flower" viewBox="-12 -40 24 42" aria-hidden="true" focusable="false">
+              <use href={`#fl-${flower}`} transform={flowerT} />
+            </svg>
+            <span class="visually-hidden">{readLabel}</span>
+          </span>
+        </span>
         {i.summary && <span class="items__summary" set:html={i.summary} />}
       </a>
     </li>
   ))}
 </ol>
 
+<script>
+  // Pages the reader has finished get a small flower beside their title.
+  import { load } from '../lib/progress';
+  const done = load();
+  for (const li of document.querySelectorAll<HTMLElement>('[data-item-id]')) {
+    li.querySelector<HTMLElement>('.items__done')!.hidden = !done[li.dataset.itemId!];
+  }
+</script>
+
 <style>
+  .items__flower {
+    width: 0.8em;
+    height: auto;
+    margin-left: 0.3em;
+    vertical-align: -0.05em;
+    overflow: visible;
+  }
   .items {
     list-style: none;
     padding: 0;

@@ -129,6 +129,20 @@ const paletteCss = [
         <div class="site-tools">
           {!standalone && (
             <a
+              class="garden-link"
+              href={localeUrl(lang, lang === 'tr' ? 'bahce/' : 'garden/')}
+              title={t(lang, 'garden')}
+            >
+              <svg viewBox="-12 -40 24 42" aria-hidden="true" focusable="false">
+                <use href="#fl-leaf-l" transform="translate(-1 0) rotate(-38) scale(0.5)" />
+                <use href="#fl-leaf-r" transform="translate(1 0) rotate(38) scale(0.5)" />
+                <use href="#fl-tulip" transform="translate(0 -4) scale(0.8)" />
+              </svg>
+              <span class="visually-hidden">{t(lang, 'garden')}</span>
+            </a>
+          )}
+          {!standalone && (
+            <a
               class="lang-switch"
               href={localeUrl(other, altPath)}
               hreflang={other}
@@ -157,7 +171,8 @@ const paletteCss = [
         {!standalone && (
           <p>
             <a href={localeUrl(lang, lang === 'tr' ? 'sozluk/' : 'glossary/')}>{t(lang, 'glossary')}</a> ·{' '}
-            <a href={localeUrl(lang, lang === 'tr' ? 'hakkinda/' : 'about/')}>{t(lang, 'about')}</a>
+            <a href={localeUrl(lang, lang === 'tr' ? 'hakkinda/' : 'about/')}>{t(lang, 'about')}</a> ·{' '}
+            <a href={localeUrl(lang, lang === 'tr' ? 'bahce/' : 'garden/')}>{t(lang, 'garden')}</a>
           </p>
         )}
       </div>
@@ -168,6 +183,19 @@ const paletteCss = [
 <style>
   .site-header {
     background: var(--paper);
+  }
+  .garden-link {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    min-width: 2.75rem;
+    min-height: 2.75rem;
+    border-radius: var(--radius);
+  }
+  .garden-link svg {
+    width: 1.3rem;
+    height: auto;
+    overflow: visible;
   }
   .site-mark {
     width: 1.6rem;

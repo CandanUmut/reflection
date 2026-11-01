@@ -1,0 +1,145 @@
+---
+// The end of every item page: "I've read and reflected on this". Pressing it
+// plants this page's flower in the reader's garden (a tulip for Reflect, a
+// carnation for Live, a rosette for Ask). Progress stays in this browser only.
+// Without JavaScript or storage the card stays hidden: nothing to promise.
+import { t, type Locale } from '../i18n/ui';
+import { localeUrl } from '../lib/paths';
+import { flowerOf } from '../lib/quests';
+import type { Section } from '../lib/routes';
+
+interface Props {
+  id: string;
+  section: Section;
+  lang: Locale;
+}
+const { id, section, lang } = Astro.props;
+const flower = flowerOf[section];
+const doneText = t(
+  lang,
+  flower === 'tulip' ? 'plantedTulip' : flower === 'carnation' ? 'plantedCarnation' : 'plantedRosette',
+);
+---
+
+<section class="complete wrap" data-complete data-id={id} aria-labelledby={`complete-${id}`} hidden>
+  <svg class="complete__plot" viewBox="-30 -50 60 56" aria-hidden="true" focusable="false">
+    <path class="complete__soil" d="M-26 2 C-12 -1.5 12 -1.5 26 2" />
+    <g class="complete__bud">
+      <use href="#fl-bud" transform="scale(0.8)" />
+    </g>
+    <g class="complete__flower">
+      <use href="#fl-leaf-l" transform="translate(-2 0) rotate(-35) scale(0.7)" />
+      <use href="#fl-leaf-r" transform="translate(2 0) rotate(35) scale(0.7)" />
+      <use
+        href={`#fl-${flower}`}
+        transform={flower === 'rosette' ? 'translate(0 -24) scale(1.3)' : 'translate(0 -6) scale(0.95)'}
+      />
+    </g>
+  </svg>
+  <h2 class="complete__prompt" id={`complete-${id}`}>
+    {t(lang, 'completePrompt')}
+  </h2>
+  <button class="btn complete__btn" type="button" aria-pressed="false">
+    {t(lang, 'completeButton')}
+  </button>
+  <p class="complete__status" aria-live="polite">
+    <span class="complete__done-text" hidden>
+      {doneText}
+    </span>
+    <span class="complete__fail" hidden>
+      {t(lang, 'progressNoStorage')}
+    </span>
+  </p>
+  <p class="complete__link">
+    <a href={localeUrl(lang, lang === 'tr' ? 'bahce/' : 'garden/')}>{t(lang, 'gardenLink')}</a>
+  </p>
+</section>
+
+<script>
+  import { load, setDone, CHANGE } from '../lib/progress';
+  for (const card of document.querySelectorAll<HTMLElement>('[data-complete]')) {
+    const id = card.dataset.id!;
+    const btn = card.querySelector<HTMLButtonElement>('.complete__btn')!;
+    const doneText = card.querySelector<HTMLElement>('.complete__done-text')!;
+    const fail = card.querySelector<HTMLElement>('.complete__fail')!;
+    const show = (animate: boolean) => {
+      const done = Boolean(load()[id]);
+      btn.setAttribute('aria-pressed', String(done));
+      card.classList.toggle('is-done', done);
+      card.classList.toggle('is-growing', done && animate);
+      doneText.hidden = !done;
+    };
+    btn.addEventListener('click', () => {
+      const ok = setDone(id, btn.getAttribute('aria-pressed') !== 'true');
+      fail.hidden = ok;
+      show(true);
+    });
+    window.addEventListener(CHANGE, () => show(false));
+    window.addEventListener('storage', () => show(false));
+    show(false);
+    card.hidden = false;
+  }
+</script>
+
+<style>
+  .complete {
+    margin-top: var(--space-6);
+    padding-block: var(--space-5);
+    border-top: var(--rule);
+    text-align: center;
+  }
+  .complete__plot {
+    width: 5.5rem;
+    height: auto;
+    overflow: visible;
+  }
+  .complete__soil {
+    fill: none;
+    stroke: var(--lamp-line);
+    stroke-width: 1.2;
+    stroke-linecap: round;
+  }
+  .complete__flower {
+    display: none;
+  }
+  .is-done .complete__bud {
+    display: none;
+  }
+  .is-done .complete__flower {
+    display: inline;
+    transform-origin: 0 0;
+  }
+  .is-growing .complete__flower {
+    animation: complete-grow var(--dur-slow) var(--ease-breath) both;
+  }
+  @keyframes complete-grow {
+    from {
+      transform: scale(0.2);
+      opacity: 0;
+    }
+    to {
+      transform: scale(1);
+      opacity: 1;
+    }
+  }
+  .complete__prompt {
+    font-family: var(--font-display);
+    font-size: var(--step-1);
+    font-weight: 400;
+    margin: var(--space-3) 0;
+  }
+  .complete__btn[aria-pressed='true']::before {
+    content: '✓';
+  }
+  .complete__status {
+    min-height: 1.5em;
+    margin: var(--space-3) 0 0;
+    color: var(--ink-soft);
+    font-style: italic;
+  }
+  .complete__link {
+    margin: var(--space-2) 0 0;
+    font-family: var(--font-ui);
+    font-size: var(--step--1);
+  }
+</style>
