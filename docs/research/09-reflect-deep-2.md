@@ -12,6 +12,9 @@ Written 2026-10-31. As in part 1: the four layers stay separate; the classical t
 ### Classical tafsir
 **Everything measured.** On 25:2, which says God "has created each thing and determined it with [precise] determination", Ibn Kathir explains that "everything apart from Him is created and subject to Him". On "Indeed, all things We created with predestination" (54:49) — the word is *qadar* — he links the two verses and 87:1–3: God "measured out" everything. The background of the modern fine-tuning discussion is the *kalam* argument from particularisation (*takhsis*), used by al-Ghazali and al-Razi: if things could have been otherwise, something chose that they be as they are.
 
+### The reflection
+"And has created each thing and determined it with [precise] determination" (25:2). Physicists note that some constants of nature sit in narrow ranges that permit life, and they argue hard about what that means: a multiverse, a selection effect, or design. This page does not claim the science proves God; the debate is shown in the honest notes. The reflection is simpler: the world is ordered and measurable, and its order can be read. For a believer, that readability is itself a sign to think about.
+
 ### Questions readers ask next
 **Did classical scholars know about physical constants?** No; they spoke of God measuring everything (25:2; 54:49). The physics is modern and kept in "How it works", with its debates.
 
@@ -26,6 +29,9 @@ Written 2026-10-31. As in part 1: the four layers stay separate; the classical t
 
 ### Classical tafsir
 **Held up, with the means He gave.** On 16:79, Ibn Kathir asks the reader to "look at the birds held (flying) in the sky, between heaven and earth": "it is He Who gave them the strength to do that, subjecting the air to carry them and support them". On 67:19 he describes the two ways of flight: "sometimes they spread their wings out in the wind (gliding) and other times they gather and spread (flapping) the wings". Al-Razi makes the same point: a heavy body held in the air points to a Sustainer who creates the means — wings and air. The tafsir does not deny the means; it looks through them.
+
+### The reflection
+"None holds them [aloft] except the Most Merciful" (67:19). Ibn Kathir does not deny the means: God holds the bird up by "subjecting the air to carry them". A five-month-old godwit flew about 13,560 km nonstop over an ocean it had never crossed. It was held up by laws it did not make and guided by senses it did not design. The verse invites a double look: see the physics clearly, and then see through it to the care behind it.
 
 ### Questions readers ask next
 **Does "None holds them up except Allah" (16:79) deny aerodynamics?** No: Ibn Kathir himself says God holds them up by "subjecting the air to carry them". The physics of flight is in "How it works".
@@ -42,6 +48,9 @@ Written 2026-10-31. As in part 1: the four layers stay separate; the classical t
 ### Classical tafsir
 **Strong, yet led by a child.** Ibn Kathir: the camel "is an amazing creation, and the way it has been fashioned is strange. For it is extremely powerful and strong, yet gentle, carrying heavy loads. It allows itself to be guided by a weak rider. It is eaten, benefit is derived from its hair, and its milk is drunk." Al-Zamakhshari and al-Qurtubi also stress its endurance and usefulness. The verse asks the first listeners, desert people, to look closely at the animal they knew best.
 
+### The reflection
+The verse asks desert people to look at the animal they knew best: "Then do they not look at the camels - how they are created?" (88:17). It is the most ordinary thing in their world. Its body handles heat and thirst that would kill most mammals, yet, as Ibn Kathir says, it "allows itself to be guided by a weak rider". The lesson reaches beyond camels: look closely at the ordinary things you stopped seeing long ago.
+
 ### Questions readers ask next
 **Why does the Quran point to the camel?** For its first listeners it was the most familiar and useful animal; Ibn Kathir lists its strength, gentleness and uses.
 
@@ -56,6 +65,9 @@ Written 2026-10-31. As in part 1: the four layers stay separate; the classical t
 
 ### Classical tafsir
 **A parable about false protectors.** Ibn Kathir: this is how God "described the idolators in their reverence of gods besides Him… they were like the house of a spider, which is so weak and frail", like "a person who holds on to a spider's web, who does not gain any benefit from that". Al-Razi and al-Qurtubi read the frailty as failure to shelter from heat, cold, wind or predators. Some note the feminine verb (*ittakhadhat*), matching that the female spider builds the web.
+
+### The reflection
+Spider silk is, strand for strand, one of the toughest materials known, and yet "the weakest of homes is the home of the spider" (29:41). Both are true. The point is not that silk is weak, but that something impressively made can still give no real shelter. Ibn Kathir reads it as relying on gods besides God. The same holds for anything we lean on in God's place: money, status, people, cleverness. They may be impressive and still not hold us up when the storm comes.
 
 ### Questions readers ask next
 **Isn't spider silk very strong?** Yes, strand for strand; the verse speaks of the "house" as shelter, and the parable is about relying on what cannot protect you. The science is in "How it works".

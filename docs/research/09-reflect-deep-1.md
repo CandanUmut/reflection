@@ -27,6 +27,9 @@ Written 2026-10-31. Each sign's four layers stay separate; this file deepens the
 ### Classical tafsir
 **Pure from between the impure.** Ibn Kathir explains that cattle — "camels, cows and sheep" — are "a lesson", "a sign and an evidence of the wisdom, power, mercy and kindness of the Creator". On "from between excretions and blood, pure milk", he notes that it is "free of blood" and of what surrounds it. Al-Qurtubi makes the same point: pure milk coming out from among impurities.
 
+### The reflection
+Milk comes out "between excretion and blood" (16:66), and yet it is pure and good to drink. The verse calls this "a lesson". In the body, nutrients pass from gut to blood to the udder, where cells make something new out of what they receive. Something clean and nourishing comes from among things we would never drink. A reader can take the lesson inward too: good can come out of a mixed and messy life, if it passes through the right process.
+
 ### Questions readers ask next
 **Does the verse describe milk production scientifically?** No. It is an image of purity coming from between impurities; the physiology is described separately, with its limits, in "How it works" and the honest notes.
 
@@ -41,6 +44,9 @@ Written 2026-10-31. Each sign's four layers stay separate; this file deepens the
 
 ### Classical tafsir
 **Inspiration as guidance.** Ibn Kathir: "What is meant by inspiration here is guidance." The bee is guided to make its home "in the mountains, in trees and in structures erected by man", and its home is "a solid structure, with its hexagonal shapes and interlocking forms". Each bee goes out to the fruits and "comes back to its hive without swerving". Al-Razi reads the bee's inspiration (*wahy*) as instinct. The verbs addressed to the bee are feminine, and worker bees are female.
+
+### The reflection
+A single bee makes about a twelfth of a teaspoon of honey in its whole life, and a pound of honey needs millions of flower visits. No bee sees the jar. Ibn Kathir says the bee's "inspiration" is guidance: it goes out and "comes back to its hive without swerving". The verse ends: "Indeed in that is a sign for a people who give thought" (16:69). Small, faithful work, done by many and guided well, becomes "a drink, varying in colors, in which there is healing for people" (16:69). Most good in the world is made this way.
 
 ### Questions readers ask next
 **Does "inspiration" mean the bee receives revelation like a prophet?** No: Ibn Kathir explains it as guidance, and al-Razi as instinct.
@@ -57,6 +63,9 @@ Written 2026-10-31. Each sign's four layers stay separate; this file deepens the
 ### Classical tafsir
 **From clay, then from a drop.** Ibn Kathir explains 23:12: God "initially created man from an extract of *Tin*" — that is Adam (pbuh), created "from sounding clay of altered black smooth mud" — and then human beings from a drop (*nutfa*), in stages. Ibn Jarir al-Tabari is quoted: "Adam was called *Tin* because he was created from it." Classical commentators read *'alaqa* as a clot of blood and linked the stages to forty-day phases (Bukhari 3208), using the stages above all as evidence of God's power to resurrect.
 
+### The reflection
+The verses walk through stages, from clay to drop to clinging clot to bones covered with flesh, and then say: "then We developed him into another creation" (23:14). Something new appears that the earlier stages do not explain: a person. The classical commentators used the stages above all as an argument for the resurrection: the One who made you once, step by step, can make you again (22:5). The verse closes with praise, not a lecture: "So blessed is Allah, the best of creators" (23:14).
+
 ### Questions readers ask next
 **Is "clay" about Adam or about every human?** Ibn Kathir reads the extract of clay as Adam's creation, and the later stages as every human's.
 
@@ -66,11 +75,17 @@ Written 2026-10-31. Each sign's four layers stay separate; this file deepens the
 
 ## S5 — Sun and moon, each in an orbit
 
+### In brief
+Night, day, sun and moon keep a measured order: "each, in an orbit, is swimming" (36:40). That order makes calendars and prayer times possible.
+
 ### Sources read
 - Ibn Kathir, *Tafsir* (abridged English, Quran.com), on 36:37–38.
 
 ### Classical tafsir
 **Two views of "its fixed course".** Ibn Kathir reports two views on "the sun runs on its fixed course for a term". The first is that it refers to a place "beneath the Throne"; he describes the Throne as "a dome supported by legs or pillars" and says it is "not a sphere as many astronomers claim" — the cosmology of his time. The second is that it runs until an appointed term, the end of the world. He cites the hadith of the sun prostrating beneath the Throne (Bukhari 3199, 4802) and the reading of Ibn Mas'ud and Ibn 'Abbas that the sun has "no resting place". Later scholars read the prostration as obedience. [Scholarly]
+
+### The reflection
+Night, day, sun and moon keep their order: "each, in an orbit, is swimming" (36:40). The verses call this "the determination of the Exalted in Might, the Knowing" (36:38). That order is what makes calendars, prayer times and fasting possible: Muslims time the month by the moon's phases and the prayers by the sun. The classical commentators did not share our astronomy, and this page does not pretend they did. What they saw, and what still holds, is that the sky is reliable, and that a reliable sky is a gift people did not arrange.
 
 ### Questions readers ask next
 **Did classical scholars think the sun goes around the earth?** Classical cosmology was geocentric, and Ibn Kathir's comments reflect it; this page does not claim the verse described modern astronomy (see the honest notes).
@@ -87,6 +102,9 @@ Written 2026-10-31. Each sign's four layers stay separate; this file deepens the
 ### Classical tafsir
 **Water and every living thing.** Ibn Kathir explains "And We have made from water every living thing. Will they not then believe": people "see with their own eyes how creation develops step by step. All of that is proof of the existence of the Creator Who is in control of all things". For him the verse is an argument from what anyone can see: rain, growth and life depend on water.
 
+### The reflection
+"And have you seen the water that you drink?" (56:68). The next verses ask who brought it down from the clouds, and add: "If We willed, We could make it bitter, so why are you not grateful?" (56:70). Evaporation leaves salt behind, so rain falls fresh: every glass is the product of a planetary distillation that no human made or runs. Water also freezes from the top, which keeps lakes alive under the ice. The verse turns a daily habit into a question of gratitude.
+
 ### Questions readers ask next
 **Does the verse mean all life is made of water?** Classical scholars read it as life depending on and arising from water; the biology of water in living things is in "How it works".
 
@@ -101,6 +119,9 @@ Written 2026-10-31. Each sign's four layers stay separate; this file deepens the
 
 ### Classical tafsir
 **Fresh and salt, kept apart.** Ibn Kathir: "The two seas are the fresh and salty waters, the former coming from running rivers." On "between them is a barrier which none of them can transgress", he says God "has placed a barrier of land between these two types of waters", and he quotes Ibn Zayd: God "prevents them from meeting by the dividing barrier He placed between them". Al-Tabari also understood fresh and salt waters kept distinct by God's power.
+
+### The reflection
+The verses describe two waters, "one fresh and sweet and one salty and bitter", with "a barrier and prohibiting partition" between them (25:53). Ibn Kathir understood the barrier as land between rivers and sea. Modern science shows that water masses do mix, slowly, at boundaries; the popular claim that "they never mix" is wrong, and this page says so. What remains is the picture the verse offers: different things placed side by side, each keeping its own nature, within an order not of their own making.
 
 ### Questions readers ask next
 **Did classical scholars mean an invisible barrier in the sea?** Ibn Kathir explains the barrier as land between fresh and salt water; modern estuary science is described separately.
@@ -118,6 +139,9 @@ Written 2026-10-31. Each sign's four layers stay separate; this file deepens the
 **Everything in pairs.** On "And of everything We have created pairs", Ibn Kathir explains: "all the created are in pairs, the heaven and earth, night and day, sun and moon, land and sea, light and darkness, faith and disbelief, death and life, misery and happiness, Paradise and Fire, in addition to the animals and plants" — "that you may remember" that the Creator is One. Pairs, in his reading, are complementary opposites across all of creation, not only male and female.
 
 **Languages and colours.** On 30:22, Ibn Kathir lists the languages he knew — Arabic, the Tatars, Georgians, Romans, Franks, Berbers, Ethiopians, Indians, Persians, Slavs, Armenians, Kurds and others — and adds: "Only Allah knows the variety of languages spoken among the sons of Adam." The difference of colours, he says, refers to people's appearance: no two, from Adam to the Hour, are alike.
+
+### The reflection
+Ibn Kathir reads "pairs" across all of creation: night and day, land and sea, life and death. Opposites that complete each other. Then 30:22 points to the variety of languages and colours as a sign, and 49:13 gives that variety a purpose: "that you may know one another". The same verse adds who is most noble: "the most righteous of you" (49:13), not the best-born or the best-coloured. Diversity is not a problem to be fixed; it is a way to meet and learn.
 
 ### Questions readers ask next
 **Does "pairs" mean everything has male and female?** Ibn Kathir reads it far more widely: opposites that complete each other, from night and day to life and death.

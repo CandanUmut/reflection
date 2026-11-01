@@ -64,10 +64,10 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
     <div class="sign__grid">
       <div class="sign__tafsir">
         <Layer kind="tafsir" n={2} lang={lang}>
-          {sign.tafsir ? (
-            <Fragment set:html={md(sign.tafsir[lang], lang)} />
+          {sign.tafsir?.[lang] ? (
+            <Fragment set:html={md(sign.tafsir[lang]!, lang)} />
           ) : (
-            <p class="sign__missing">{t(lang, 'noTafsir')}</p>
+            <p class="sign__missing">{t(lang, sign.tafsir ? 'trPending' : 'noTafsir')}</p>
           )}
         </Layer>
       </div>
@@ -106,10 +106,10 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
 
     <div class="wrap">
       <Layer kind="reflection" n={4} lang={lang}>
-        {sign.reflection ? (
-          <Fragment set:html={md(sign.reflection[lang], lang)} />
+        {sign.reflection?.[lang] ? (
+          <Fragment set:html={md(sign.reflection[lang]!, lang)} />
         ) : (
-          <p class="sign__missing">{t(lang, 'noReflection')}</p>
+          <p class="sign__missing">{t(lang, sign.reflection ? 'trPending' : 'noReflection')}</p>
         )}
       </Layer>
       {sign.reflectionVerses && <VerseBlock refs={sign.reflectionVerses} lang={lang} size="small" />}

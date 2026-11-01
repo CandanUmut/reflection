@@ -64,6 +64,8 @@ Written 2026-10-31. As in parts 1 and 2: the four layers stay separate; the clas
 
 **What is the lesson of the story?** Fairness even in danger (the ant excuses the army) and gratitude in power (Solomon's prayer).
 
+
+**Is the talking ant meant literally?** The classical commentators took it literally, as a real communication Solomon (pbuh) was given to understand; the Quran presents it as a special gift to him, not as ordinary ant behaviour.
 ---
 
 ## S21 — Night and day; the sun as a lamp, the moon as a light
@@ -156,6 +158,8 @@ Written 2026-10-31. As in parts 1 and 2: the four layers stay separate; the clas
 
 **Why two parables (24:39–40)?** Both describe the one without guidance: the mirage, then the darkness. Ibn Kathir reads the darkness as the heart that "merely follows" without knowing.
 
+
+**Is it God's fault if someone is in darkness?** The verse says light is a gift: "he to whom Allah has not granted light - for him there is no light" (24:40). Ibn Kathir ends his comment with a prayer — "We ask Allah the Almighty to put light in our hearts" — so the response he models is to ask for light. The Quran also promises: "And those who strive for Us - We will surely guide them to Our ways" (29:69). The wider question of God's will and human choice is on the Ask page "If everything is written, how am I free?"
 ---
 
 ## S27 — Gardens and fruits watered by one water
