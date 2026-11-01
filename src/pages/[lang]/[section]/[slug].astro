@@ -5,6 +5,7 @@ import Base from '../../../layouts/Base.astro';
 import SignBody from '../../../components/SignBody.astro';
 import QuestionBody from '../../../components/QuestionBody.astro';
 import MoralBody from '../../../components/MoralBody.astro';
+import CompleteCard from '../../../components/CompleteCard.astro';
 import { t, locales, otherLocale, type Locale } from '../../../i18n/ui';
 import { clip } from '../../../lib/text';
 import { itemPath, sectionSegment, type Section } from '../../../lib/routes';
@@ -54,4 +55,5 @@ const description = clip(
   {entry.collection === 'signs' && <SignBody sign={entry.data} lang={lang} />}
   {entry.collection === 'questions' && <QuestionBody q={entry.data} lang={lang} />}
   {entry.collection === 'morals' && <MoralBody m={entry.data} lang={lang} />}
+  <CompleteCard id={data.id} section={section} lang={lang} />
 </Base>

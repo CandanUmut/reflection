@@ -6,6 +6,7 @@ import ItemList from '../../../components/ItemList.astro';
 import { mdInline } from '../../../lib/md';
 import { t, locales, otherLocale, type Locale, type UiKey } from '../../../i18n/ui';
 import { itemUrl, sectionPath, sectionSegment, type Section } from '../../../lib/routes';
+import { flowerOf } from '../../../lib/quests';
 
 export function getStaticPaths() {
   return locales.flatMap((lang) =>
@@ -41,7 +42,7 @@ const items = entries.map(({ data }) => ({
   <div class="wrap section">
     <h1>{t(lang, meta[section].title)}</h1>
     <p class="intro">{t(lang, meta[section].intro)}</p>
-    <ItemList items={items} />
+    <ItemList items={items} readLabel={t(lang, 'gardenRead')} flower={flowerOf[section]} />
   </div>
 </Base>
 
