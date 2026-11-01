@@ -61,3 +61,4 @@ A bilingual (Turkish / English) website that invites reflection (*tefekkür*): t
 - Rewrote a feature that already worked, based on a test that did not match my real setup (a small canvas and a slow, software-only renderer). Called it an improvement because of a number, when it looked worse.
 - Suggested keyboard shortcuts, even though I paint on a tablet.
 - Wrote my preferences for me without asking. Anything that speaks for me must come from my own answers.
+- Made the installed app always open in Turkish, ignoring the device's language and the reader's own choice. Defaults that affect every user (language, start page) need the same thought as anything else.
