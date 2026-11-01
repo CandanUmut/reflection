@@ -30,7 +30,7 @@ reflection: |
   Uyku, her gün seçmeden yaptığımız bir teslimiyettir. Her gece kontrolü bırakırız, her sabah bize geri verilir. Kur'an bunu bir bağımlılık âyetine, ölümün ve dönüşün bir resmine çevirir.
 honest: |
   - Glimfatik bulgular esas olarak farelerden gelir. İnsanlardaki kanıtlar artıyor, ama etkinin insanda ne kadar büyük olduğu hâlâ araştırılıyor.
-  - Âyet, bir âyet ve bir "alınma" olarak uykudan söz eder; beynin temizlenmesini anlatmaz. Kur'an'ın "glimfatik sistemi önceden bildirdiğini" söylememek gerekir.
+  - Âyet, bir âyet ve bir "alınma" olarak uykudan söz eder; beynin temizlenmesini anlatmaz. Kur'an'ın "glimfatik sistemi önceden bildirdiği" söylenemez.
 visualization: |
   - İkiye bölünmüş bir beyin kesiti: uyanık (hücreler sıkışık, akış az) ve uykuda (boşluklar genişler, mavi sıvı içinden akar).
   - Uyku döngülerini gösteren bir gece zaman çizelgesi; uykuya dalışta ve uyanışta yumuşak bir "alındı / geri verildi" canlandırması.
@@ -39,3 +39,9 @@ sourceLabels:
   - 'NIH basın duyurusu, 2013'
   - 'Frontiers in Neurology''de Xie ve ark. üzerine yorum'
   - 'İbn Kesîr ve Kurtubî''nin 39:42 tefsirleri; Buhârî 6312'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Do not say the Quran \"predicted the glymphatic system\"."
+    to: "The Quran did not \"predict the glymphatic system\"."

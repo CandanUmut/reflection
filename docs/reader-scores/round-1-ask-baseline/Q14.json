@@ -1,0 +1,81 @@
+{
+  "id": "Q14",
+  "path": "en/ask/salvation-of-others/",
+  "group": "ask",
+  "words": 761,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "What about my kind Christian friend who HAS heard of Islam, understood it, and still sincerely does not believe? The page mostly answers 'those who never heard'.",
+        "What exactly does Muslim 153 say, word for word, and why do scholars read 'hears of me' as 'hears accurately'?",
+        "How do 2:62 and 3:85 fit together? Did some scholars say 3:85 cancels 2:62?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 6, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "The never-heard case is handled well (17:15, al-Ghazālī's three groups), but the harder half of the title, sincere people who heard and were not convinced, is left to 'known only to God'."
+    },
+    "outsider": {
+      "followUps": [
+        "What is 'fatra', and what does 'tested in the Hereafter' actually mean?",
+        "Do Muslims today mostly believe I can be saved as a non-Muslim, or not? What is the majority view in plain words?",
+        "What does 'Islam' in 3:85 mean: the religion of Muhammad, or submission to God in general?"
+      ],
+      "scores": { "answers": 5, "depth": 5, "evidence": 5, "fairness": 6, "clarity": 4, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "Terms like 'fatra', 'soteriology', 'jāhil qāṣir' and 'Perennialism' are used without plain explanation, and the page reads as a list of names more than an explanation."
+    },
+    "student": {
+      "followUps": [
+        "Which hadith in Musnad Aḥmad describes the people of fatra being tested, what is its number, and how is it graded?",
+        "Where do Ibn Taymiyya and Ibn al-Qayyim say this (e.g. Ṭarīq al-Hijratayn), and what is the position of the Ash'arī and Māturīdī schools on those the message never reached?",
+        "What did the classical mufassirūn say about 2:62 (including the report that it was abrogated by 3:85)?"
+      ],
+      "scores": { "answers": 6, "depth": 6, "evidence": 6, "fairness": 7, "clarity": 5, "honesty": 7 },
+      "satisfaction": 6,
+      "why": "Good spread of named scholars, Sunni and Shiʿi, and al-Ghazālī's Fayṣal is summarised accurately enough to use, but hadith texts and gradings are missing and the Māturīdī/Ashʿarī split on 'reason alone' is absent."
+    },
+    "scientist": {
+      "followUps": [
+        "Which Pew survey says most US ex-Muslims become non-religious, and how does that show 'pluralism pressures'?",
+        "Is there any data on how many Muslims hold exclusivist versus inclusive views?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 4, "fairness": 6, "clarity": 5, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "The only empirical claim, 'Pew data that most US ex-Muslims become non-religious suggests pluralism pressures are real', is unsourced and does not follow."
+    },
+    "hurting": {
+      "followUps": [
+        "My father died a Christian after hearing about Islam. Can I hope for him, and may I pray for him?",
+        "How do I hold this hope without feeling I am betraying my faith?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 5, "fairness": 6, "clarity": 5, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The grieving reader gets one line, 'Grief for non-Muslim family is real; allow hope without false certainty', which reads like a note to the writer, not words spoken to them."
+    },
+    "skeptic": {
+      "followUps": [
+        "If 'true hearing' is the condition, who decides it was true? Isn't that an escape hatch that makes the doctrine say anything?",
+        "Why not show the strongest exclusivist positions (e.g. scholars who held 2:62 abrogated, or that all who heard of the Prophet and did not follow are in the Fire) at full strength?",
+        "Muslim 153 and 3:85 are plain. Why should a reader accept the inclusive readings as more than modern discomfort?"
+      ],
+      "scores": { "answers": 5, "depth": 5, "evidence": 5, "fairness": 5, "clarity": 5, "honesty": 6 },
+      "satisfaction": 5,
+      "why": "It admits 'Tension remains: 3:85 and Muslim 153 carry exclusivist weight', which is honest, but never states the exclusivist case with its own scholars and arguments."
+    }
+  },
+  "missing": [
+    "A direct answer for sincere people who heard the message accurately and still did not believe",
+    "The exclusivist view stated at full strength with named scholars, and the 2:62 / 3:85 abrogation debate",
+    "Full text, number and grading of Muslim 153 and the Aḥmad fatra hadith; works and page refs for Ibn Taymiyya and Ibn al-Qayyim",
+    "Plain-language explanation of fatra, 'tested in the Hereafter', jāhil qāṣir / muqaṣṣir, Perennialism",
+    "A real paragraph for the grieving reader (hope, praying for non-Muslim family), not a one-line note",
+    "A source for the Pew claim, or remove it; full citation for 'Khalil (2012)'"
+  ],
+  "strengths": [
+    "17:15 as the opening principle and al-Ghazālī's three-group classification from Fayṣal al-Tafriqa",
+    "Includes Shiʿi (Muṭahharī) as well as Sunni views",
+    "Honest limits: 'No major Sunni school teaches all religions are equally valid paths'",
+    "'Muslims are not asked to pronounce on individuals' is a clear, useful line",
+    "The range-of-views scale"
+  ]
+}

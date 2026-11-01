@@ -29,7 +29,7 @@ awe: |
 reflection: |
   *Er-Rahmân* sûresi konuşmayı, insanın yaratılışının hemen ardından, rahmetin ilk ikramları arasında sayar. Dil düşünmemizi, dua etmemizi, öğretmemizi ve sevmemizi sağlar; onunla birlikte söylediklerimizin sorumluluğu gelir.
 honest: |
-  - Dilin nasıl evrimleştiği bilim insanları arasında hâlâ tartışmalıdır. Tek bir kuramı kesinleşmiş gibi sunmamak gerekir.
+  - Dilin nasıl evrimleştiği bilim insanları arasında hâlâ tartışmalıdır. Hiçbir kuram kesinleşmiş değildir.
   - Âyet, yalnızca konuşulan seslerden daha geniş olan *beyân*dan, açık ifadeden söz eder (yazıyı ve işaret dilini de içerir).
 visualization: |
   - Bir kelimeyi oluşturmak için dilin, dudakların, gırtlağın ve nefesin birlikte çalıştığını gösteren yandan bir baş çizimi.
@@ -38,3 +38,9 @@ sourceLabels:
   - 'Patricia Kuhl''ün bebeklerde ses algısı araştırmaları (Washington Üniversitesi, I-LABS)'
   - 'Ethnologue, yaşayan dillerin sayısı üzerine'
   - 'Râzî ve İbn Kesîr''in 55:3–4 ve 90:8–10 tefsirleri'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Do not present a single theory as settled."
+    to: "No single theory is settled."

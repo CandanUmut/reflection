@@ -29,7 +29,7 @@ stories: |
 gaps: |
   - Modern şehirlerde komşuluk ilişkileri çoğu zaman zayıftır; pek çok kişi komşusunu tanımaz.
   - Müslüman çoğunluklu ülkelerde yetim ve mülteci bakımı, güçlü programlardan ciddi ihmale kadar büyük farklılıklar gösterir.
-  - *Kefâlet*, Batı'daki evlat edinmeden farklıdır (çocuk soyunu korur); bunu basitçe "daha iyi" diye değil, tarafsız biçimde açıklamak gerekir.
+  - *Kefâlet*, Batı'daki evlat edinmeden farklıdır (çocuk soyunu korur); burada basitçe "daha iyi" diye değil, tarafsız biçimde anlatılır.
 visualization: |
   - **Haklar çemberi** (Birinci Grup'tan): benlik → anne baba → akrabalar → yakın komşu → uzak komşu → yolcu → insanlık şeklinde iç içe halkalar, her biri kendi âyetiyle aydınlanır.
   - Birleştirilmiş iki parmak (Buhârî 5304), sakin bir çizgi resim olarak.
@@ -38,3 +38,9 @@ sourceLabels:
   - 'Nelson, Fox ve Zeanah, *Romania''s Abandoned Children* (Harvard University Press, 2014)'
   - 'Kurtubî''nin 4:36 tefsiri; Gazzâlî, *İhyâ*, "Âdâbü''s-Suhbe"'
   - 'TDV İslâm Ansiklopedisi, "Komşu", "Yetim"'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "explain this neutrally rather than as simply \"better\"."
+    to: "it is described here neutrally, not as simply \"better\"."

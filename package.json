@@ -11,7 +11,8 @@
     "lint": "eslint .",
     "format": "prettier --write .",
     "contrast": "node scripts/contrast.mjs",
-    "quran": "node scripts/quran-data.mjs"
+    "quran": "node scripts/quran-data.mjs",
+    "hadith": "node scripts/hadith-data.mjs"
   },
   "dependencies": {
     "@fontsource-variable/cormorant-garamond": "^5.3.0",

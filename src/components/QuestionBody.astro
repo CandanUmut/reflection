@@ -1,8 +1,10 @@
 ---
 // A question page as a layered answer (DESIGN.md §4.5): the steelmanned
 // question first, in full and with respect → why it is asked → short answer
-// → depth layers the reader opens by choice → honest limits (always visible)
-// → help card where needed → sources.
+// → the full answer (Quran, Sunnah, scholars, fiqh, history or science, the
+// strongest objection), folded behind "Read the full answer" when long →
+// depth layers the reader opens by choice → range of views → questions readers
+// ask next → honest limits (always visible) → help card where needed → sources.
 import type { CollectionEntry } from 'astro:content';
 import VerseBlock from './VerseBlock.astro';
 import VerseList from './VerseList.astro';
@@ -11,6 +13,7 @@ import HelpCard from './HelpCard.astro';
 import RangeOfViews from './RangeOfViews.astro';
 import Sources from './Sources.astro';
 import { md } from '../lib/md';
+import DeepAnswer from './DeepAnswer.astro';
 import { t, type Locale, type UiKey } from '../i18n/ui';
 
 interface Props {
@@ -18,6 +21,9 @@ interface Props {
   lang: Locale;
 }
 const { q, lang } = Astro.props;
+// A language shows the deep answer only when every part exists in it; until
+// then it keeps the previous layers and range of views.
+const deep = !!q.fullAnswer?.length && q.fullAnswer.every((p) => p[lang]);
 const layerLabel: Record<string, UiKey> = {
   religious: 'layerReligious',
   philosophical: 'layerPhilosophical',
@@ -55,21 +61,25 @@ const layerLabel: Record<string, UiKey> = {
 
   {q.helpCard && q.helpCard !== 'general' && <HelpCard lang={lang} variant={q.helpCard} />}
 
-  <section class="depth" aria-labelledby="depth-title">
-    <h2 class="label" id="depth-title">
-      {t(lang, 'goDeeper')}
-    </h2>
-    {q.layers.map((layer) => (
-      <details class="depth__layer">
-        <summary>{t(lang, layerLabel[layer.kind])}</summary>
-        <div class="depth__body">
-          <Fragment set:html={md(layer[lang], lang)} />
-        </div>
-      </details>
-    ))}
-  </section>
+  {deep && q.fullAnswer && <DeepAnswer lang={lang} parts={q.fullAnswer} followUps={q.followUps} />}
 
-  {q.rangeOfViews && <RangeOfViews lang={lang} range={q.rangeOfViews} />}
+  {!deep && q.layers.length > 0 && (
+    <section class="depth" aria-labelledby="depth-title">
+      <h2 class="label" id="depth-title">
+        {t(lang, 'goDeeper')}
+      </h2>
+      {q.layers.map((layer) => (
+        <details class="depth__layer">
+          <summary>{t(lang, layerLabel[layer.kind])}</summary>
+          <div class="depth__body">
+            <Fragment set:html={md(layer[lang], lang)} />
+          </div>
+        </details>
+      ))}
+    </section>
+  )}
+
+  {!deep && q.rangeOfViews && <RangeOfViews lang={lang} range={q.rangeOfViews} />}
 
   <HonestNote lang={lang} label={t(lang, 'honestLimits')}>
     <Fragment set:html={md(q.honestLimits[lang], lang)} />

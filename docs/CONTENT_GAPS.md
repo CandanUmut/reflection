@@ -4,6 +4,7 @@ Things the site needs that the research docs do not (yet) provide, and places wh
 
 ## Added beyond the research (for transparency)
 - **S1:** the DOI link for Sallon et al. 2008 (`https://doi.org/10.1126/science.1153600`), checked against Crossref. The research cites the paper but gives no link.
+- **Help card, international (Phase 5):** Find A Helpline (https://findahelpline.com/, a public service by ThroughLine): "Free, confidential support from a helpline or hotline near you"; "We partner with verified helplines in 175+ countries"; topics include suicidal thoughts, abuse and domestic violence, and grief and loss (page read 2026-10-31). Added because Umut asked that the site not focus only on Türkiye; the research names only Turkish resources.
 - **Summaries:** each item has a one-line summary for index pages. Where possible it is a sentence taken from the item's own research text.
 
 ## Needs a reviewer
@@ -42,3 +43,7 @@ Things the site needs that the research docs do not (yet) provide, and places wh
 ## Found in the visualizations (Phase 3)
 - **S14 Ḥanafī ʿAṣr rule.** The sundial uses "twice the object's length plus its noon shadow", the usual fiqh wording; the research says only "twice the object's length". A scholar (or Diyanet's İlmihal) should confirm, and the research should be corrected to match.
 - **Editorial inputs** (not in the research, but needed to draw): Istanbul at 41° N and Mecca at 21.4° N (S14); the lunar drift of about 11 days a year, computed from the research's 354-day lunar year (S21); normal crust drawn at 35 km, inside the research's 30–40 km (S16).
+
+## Phase 6
+
+- **Q1, natural evil and animal pain:** the page answers suffering from nature and animal pain over deep time only from the Quran and hadith (2:155; 6:38; Muslim 2582) and the philosophical natural-law argument (Tooley, SEP). No source was read on the science of animal pain, predation and evolution in relation to theodicy, so the page does not discuss it. Readers (the scientist) ask for it.

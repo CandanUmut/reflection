@@ -1,0 +1,124 @@
+{
+  "id": "Q38",
+  "path": "en/ask/rebuilding-faith/",
+  "group": "ask",
+  "words": 402,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "What does al-Ghazālī's path out of doubt look like in practice for me, beyond 'a light God cast into the breast'?",
+        "How do I find a guide I can trust who won't shame my questions?",
+        "What if I go back to prayer and it feels empty?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 5,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "'You don't need your old certainty back all at once' and the concrete steps are genuinely useful, but each step is one phrase and the reader wants to know how to do them."
+    },
+    "outsider": {
+      "followUps": [
+        "What were al-Ghazālī's two crises, and what is the Munqidh?",
+        "What is 'religious OCD', and how does it relate to doubt?",
+        "Do Muslims see doubt as sinful?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 3,
+        "evidence": 5,
+        "fairness": 5,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "The page shows that doubt is not condemned (Muslim 132, Abraham in 2:260), which is a real lesson, but al-Ghazālī's story is not told."
+    },
+    "student": {
+      "followUps": [
+        "What exactly is the context of Muslim 132 (whispers that are 'clear faith'), and what did scholars like al-Nawawī say about it?",
+        "What were al-Ghazālī's two crises, in his own words from the Munqidh?",
+        "What do classical scholars say about treating waswasa (intrusive thoughts)?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 5,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "Muslim 132, 2:260 and the Munqidh quote are well chosen and referenced, but there is no commentary from scholars and no development."
+    },
+    "scientist": {
+      "followUps": [
+        "Why did the doubt subscale predict slightly less depression? That is surprising and unexplained.",
+        "How large was the Exline sample and how was 'doubt-related struggle' measured?",
+        "What effect size did Bockrath et al. (2022) find?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 3,
+        "evidence": 6,
+        "fairness": 5,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 4,
+      "why": "Real studies are cited, but the counterintuitive finding ('slightly less depression') is left unexplained and no effect sizes are given."
+    },
+    "hurting": {
+      "followUps": [
+        "I'm not in Türkiye. Where do I get help? The support box only lists Turkish services.",
+        "How do I tell my family I'm struggling without them panicking?",
+        "Is it all right to take a break from practice while I heal?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 3,
+        "evidence": 5,
+        "fairness": 5,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "The compassion is real and the support box is valuable, but on an English page the help is almost all Türkiye-specific and 'get therapy if needed' is not developed."
+    },
+    "skeptic": {
+      "followUps": [
+        "Why does the page assume the goal is to return to faith rather than follow the evidence wherever it leads?",
+        "What about the content of the doubts? The page treats doubt as a psychological state, not as possibly correct reasoning.",
+        "Isn't 'a light God cast into the breast' an admission that al-Ghazālī's return was not reasoned?"
+      ],
+      "scores": {
+        "answers": 4,
+        "depth": 3,
+        "evidence": 5,
+        "fairness": 4,
+        "clarity": 6,
+        "honesty": 6
+      },
+      "satisfaction": 4,
+      "why": "'Not everyone returns, and that should be respected' is fair, but the page never engages with whether the doubts are right."
+    }
+  },
+  "missing": [
+    "Concrete guidance for each step (honesty, finding a guide, small practices, company, therapy), in prose.",
+    "Al-Ghazālī's two crises told as a story with quotes from the Munqidh.",
+    "Scholarly commentary on Muslim 132 and on waswasa.",
+    "International support resources beyond Türkiye.",
+    "An explanation of the 'slightly less depression' finding and effect sizes; use of the listed sources Tedeschi & Calhoun, Behr, APA and Templeton.",
+    "No evidence labels appear on the page."
+  ],
+  "strengths": [
+    "Compassionate opening: 'You don't need your old certainty back all at once.'",
+    "Support box with emergency number.",
+    "Apt sources showing doubt is not condemned: 2:260 and Muslim 132.",
+    "Honest limit: 'Not everyone returns, and that should be respected.'"
+  ]
+}

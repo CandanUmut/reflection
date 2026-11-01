@@ -1,0 +1,82 @@
+{
+  "id": "Q18",
+  "path": "en/ask/religious-hypocrisy/",
+  "group": "ask",
+  "words": 606,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "How do I tell the message apart from the people, in practice, when the people are the ones teaching me the message?",
+        "Who are the 'best examples' I should look at? Name some.",
+        "If religious practice really changes people, where is the evidence?"
+      ],
+      "scores": { "answers": 7, "depth": 5, "evidence": 6, "fairness": 7, "clarity": 7, "honesty": 7 },
+      "satisfaction": 6,
+      "why": "'Your anger is legitimate' and 'don't let corrupt people own your faith' speak to the doubter directly, but 'judge the message by its source and its best examples' is left without examples or method."
+    },
+    "outsider": {
+      "followUps": [
+        "What is Diyanet, and which 'religious network' is behind the 2016 coup attempt?",
+        "Is hypocrisy a bigger problem in Muslim communities than in others, or the same?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 5, "fairness": 7, "clarity": 6, "honesty": 7 },
+      "satisfaction": 6,
+      "why": "Fair and self-critical, and terms like islām/īmān/iḥsān and din istismarı are explained, but Turkish context (Diyanet, the coup network) assumes knowledge."
+    },
+    "student": {
+      "followUps": [
+        "Where in the Iḥyāʾ does al-Ghazālī attack the 'scholars of this world' (Kitāb al-ʿIlm?), and what does he say?",
+        "What does Sūra 63 say about the hypocrites, and how did the Prophet treat known hypocrites in Medina?",
+        "What do the jurists say about obeying or advising corrupt rulers and scholars?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 7, "fairness": 6, "clarity": 6, "honesty": 6 },
+      "satisfaction": 5,
+      "why": "Hadith are well cited (Bukhārī 33; Muslim 59; Muslim 55), but al-Ghazālī and Nursi are one-line mentions and Sūra 63 is only pointed to."
+    },
+    "scientist": {
+      "followUps": [
+        "Which studies show 'religious practice predicts more giving, but a religious label alone predicts little'?",
+        "Which Norris & Inglehart work, and what do KONDA's Turkish numbers actually show, year by year?",
+        "What share of Yaqeen's respondents named this trigger?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 4, "fairness": 6, "clarity": 6, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "Every empirical claim is unsourced or unquantified ('The data are mixed', 'KONDA's Turkish trend fits this pattern'), though the page rightly says it 'cannot prove the cause'."
+    },
+    "hurting": {
+      "followUps": [
+        "I was abused in a religious dormitory. How do I report it, and to whom, besides 112?",
+        "Does God hold me responsible for losing trust in religion after what was done to me?",
+        "How do I go back to prayer when it reminds me of my abuser?"
+      ],
+      "scores": { "answers": 7, "depth": 5, "evidence": 6, "fairness": 7, "clarity": 7, "honesty": 7 },
+      "satisfaction": 6,
+      "why": "'Leaving an abusive group is not leaving God' and 'safety and trauma therapy come first' are true and kind, but there is no concrete reporting route for abuse and the spiritual side of recovery is not addressed."
+    },
+    "skeptic": {
+      "followUps": [
+        "'Misuse of religion confirms its account of human nature' means bad behaviour can never count against Islam. Isn't that unfalsifiable?",
+        "The doctor-who-smokes analogy works because medicine has trials. What is the equivalent evidence that the message works?",
+        "The strongest version is about institutions and power, not individual hypocrites. Where is that answered?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 5, "fairness": 6, "clarity": 6, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "It admits the 'no true Scotsman' problem and that communities 'have sometimes shielded abusers', which is honest, but the core reply is a heads-I-win move and the analogy assumes what is in question."
+    }
+  },
+  "missing": [
+    "Sources and numbers for the social-science claims (giving, Norris & Inglehart, KONDA, Yaqeen percentages)",
+    "An answer to the institutional/power version of the objection, and to the 'unfalsifiable' worry about 'misuse confirms the Quran'",
+    "Concrete examples of what 'best examples' means and how to separate message from messengers",
+    "What al-Ghazālī, Nursi and Sūra 63 actually say, with locations",
+    "A concrete abuse-reporting route and words on spiritual recovery after religious abuse",
+    "The 'Honest limits' list reads as site policy; make it answer the reader"
+  ],
+  "strengths": [
+    "Names real Turkish betrayals (dormitory abuse, political use) without party politics",
+    "'Your anger is legitimate' and 'Leaving an abusive group is not leaving God'",
+    "Admits the 'no true Scotsman' problem and that '\"That's not real Islam\" is not enough'",
+    "The islām / īmān / iḥsān distinction tied to the data",
+    "Well-cited hadith on hypocrisy and sincere counsel"
+  ]
+}

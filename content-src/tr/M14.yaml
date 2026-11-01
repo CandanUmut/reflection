@@ -13,7 +13,7 @@ teachings: |
   - "Hiç bilenlerle bilmeyenler bir olur mu?" (39:9).
   - "Allah sizden iman edenlerin ve kendilerine ilim verilenlerin derecelerini yükseltir" (58:11).
   - "Kulları içinden Allah'tan ancak âlimler gerçekten saygıyla korkar" (35:28) — bağlamın doğa ve renkler olduğuna dikkat (S33).
-  - Hadis: "Kim ilim talebi için bir yola girerse, Allah ona cennete giden bir yolu kolaylaştırır" (Müslim 2699). "İlim talep etmek her Müslümana farzdır" (İbn Mâce 224; senedi tartışmalı, bazılarınca birden çok yolla *hasen* sayılır).
+  - Hadis: "Kim ilim talebi için bir yola girerse, Allah ona cennete giden bir yolu kolaylaştırır" (Müslim 2699). "İlim talep etmek her Müslümana farzdır" sözü yaygın olarak aktarılır, ama {hadith:ibnmajah:224} rivayetinin senedi zayıf sayılır; bu yüzden burada delil olarak kullanılmaz.
 scholarship: |
   - Gazzâlî *İhyâ*'yı İlim Kitabı ile açar; farz-ı ayn olan ilmi (herkesin imanı ve gündelik hayatı için muhtaç olduğu bilgi) farz-ı kifâye olandan (tıp, matematik, zanaatlar — topluluğun sahip olması gereken bilimler) ayırır.
   - İbn Rüşd (*Faslü'l-Makâl*), doğayı akılla incelemenin Kur'an'ın tefekküre davetleriyle emredildiğini savundu.
@@ -28,9 +28,9 @@ stories: |
   - Hârizmî (cebir), İbnü'l-Heysem (optik ve deneysel yöntem) ve İbn Sînâ (tıp) gibi âlimler.
   - Kadın âlimler: Akram Nadwi binlerce kadın hadis râvisini belgeledi (*el-Muhaddisât*).
 gaps: |
-  - Araştırma üretimi, okuryazarlık ve eğitim kalitesi Müslüman çoğunluklu ülkeler arasında büyük farklılıklar gösterir; bazıları 96:1–5'in uyandıracağı beklentinin çok altındadır. Güncel UNESCO verileri henüz eklenmedi.
+  - Araştırma üretimi, okuryazarlık ve eğitim kalitesi Müslüman çoğunluklu ülkeler arasında büyük farklılıklar gösterir; bazıları 96:1–5'in uyandıracağı beklentinin çok altındadır. Güncel Güncel UNESCO verileri henüz burada yer almıyor.
   - "İspanya bir yılda, Arap dünyasının bin yılda çevirdiği kadar kitap çevirir" şeklinde yaygın olarak paylaşılan iddia (ilk Arap İnsani Gelişme Raporu haberlerinden) **itiraz görmüştür**; burada tekrarlanmıyor.
-  - Bugün hiçbir şeyin değişmesi gerekmediğini ima eden "altın çağ" nostaljisinden kaçınmak gerekir.
+  - "Altın çağ" nostaljisi, bugün hiçbir şeyin değişmesi gerekmediğini yanlış biçimde ima edebilir.
 enOverrides:
   # Author-facing notes ("Exact current data to be added…", "do not repeat it") rephrased; the data gap is logged in CONTENT_GAPS.
   gaps: |
@@ -44,4 +44,16 @@ sourceLabels:
   - 'Gruber, Gelman ve Ranganath — Merak hâlleri, dopaminerjik devre üzerinden hipokampusa bağlı öğrenmeyi düzenler, *Neuron* 2014'
   - 'Gazzâlî, *İhyâ*, "Kitâbü''l-İlm"; İbn Rüşd, *Faslü''l-Makâl*'
   - 'Akram Nadwi, *al-Muḥaddithāt: The Women Scholars in Islam*'
-  - 'UNESCO İstatistik Enstitüsü; UNESCO Bilim Raporu (güncel veriler için başvurulacak)'
+  - 'UNESCO İstatistik Enstitüsü; UNESCO Bilim Raporu (araştırmada adı geçer; veriler henüz eklenmedi)'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Avoid \"golden age\" nostalgia that implies nothing needs to change today."
+    to: "\"Golden age\" nostalgia can wrongly imply that nothing needs to change today."
+  - from: "\" (Ibn Mājah 224; chain debated, graded *ḥasan* by some through multiple routes)."
+    to: "\" is widely quoted, but its chain in {hadith:ibnmajah:224} is graded weak, so it is not used here as evidence."
+  - from: "Current UNESCO figures are still to be added."
+    to: "Current UNESCO figures are not yet included here."
+  - from: "UNESCO Institute for Statistics; UNESCO Science Report (to be consulted for current data)"
+    to: "UNESCO Institute for Statistics; UNESCO Science Report (named in the research; figures not yet added)"

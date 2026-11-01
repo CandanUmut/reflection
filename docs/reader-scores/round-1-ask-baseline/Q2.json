@@ -1,0 +1,84 @@
+{
+  "id": "Q2",
+  "path": "en/ask/destiny-and-free-will/",
+  "group": "ask",
+  "words": 536,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "If God creates my acts, in what sense are they mine? What does kasb (acquisition) actually mean?",
+        "Can I be 'written' for Hell no matter what I do?",
+        "What does Bukhari 4949 say in full, and how do scholars read 'eased toward what they were created for'?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 5, "fairness": 6, "clarity": 4, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The short answer rests on “Knowing something is not causing it”, but the page itself says the strongest objection is “God creating acts, not merely knowing them”, and that objection is named, not answered."
+    },
+    "outsider": {
+      "followUps": [
+        "What is 'kasb' or 'acquisition' in plain words, and what is 'cüz'î irade'?",
+        "Do Muslims believe in fatalism ('it is written') or not?",
+        "What are 'Frankfurt cases' and 'compatibilism'?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 5, "clarity": 3, "honesty": 6 },
+      "satisfaction": 3,
+      "why": "Dense with unexplained terms (kasb, cüz'î irade, Ash'aris, Maturidis, qadar, sirr, Frankfurt cases, Libet) and internal notes like “Kader is a top Turkish fracture point”."
+    },
+    "student": {
+      "followUps": [
+        "Where are the Mu'tazila and the Jabriyya in this map, and why did Sunni theology reject them?",
+        "Which Muslim theologians called kasb obscure, and in what words?",
+        "What exactly do Elmalılı and al-Maturidi say about human choice, and where?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 6, "fairness": 5, "clarity": 4, "honesty": 6 },
+      "satisfaction": 5,
+      "why": "Good references (18:29, 81:29, 2:286, Bukhari 4949, Kitāb al-Tawḥīd, TDV entries), but the classical map lacks the Mu'tazila and Jabriyya, and each school's view gets one line."
+    },
+    "scientist": {
+      "followUps": [
+        "What did Libet find, and which later work reinterprets the readiness potential?",
+        "How does the page relate divine decree to physical determinism or indeterminism, if at all?",
+        "What does current neuroscience say about decision-making and responsibility?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 3, "fairness": 5, "clarity": 5, "honesty": 6 },
+      "satisfaction": 3,
+      "why": "The whole scientific perspective is one sentence (“The Libet experiments do not settle free will.”) with no explanation of what Libet found or why it does not settle it."
+    },
+    "hurting": {
+      "followUps": [
+        "I keep fearing I am written for Hell. What would a scholar actually say to me?",
+        "Is this fear itself a sign of anything about my faith?",
+        "Where can I get help if this thinking is paralysing me?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 5, "clarity": 4, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "The page names the fear and notes “Fatalistic readings can feed depression and scrupulosity”, then offers no direct reassurance and, unlike other pages, no support box."
+    },
+    "skeptic": {
+      "followUps": [
+        "If the final answer is 'mystery (sirr)', how are accountability and eternal punishment just?",
+        "How does the page reconcile 81:29 ('you do not will unless God wills') with 18:29?",
+        "Does compatibilism really fit a God who creates every act, not just foreknows it?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 6, "clarity": 4, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "Credit for admitting “Muslim theologians themselves have called kasb obscure”, but the short answer answers foreknowledge, not creation of acts, and ends in “mystery”, which reads as a dodge."
+    }
+  },
+  "missing": [
+    "A prose answer to the creation-of-acts objection, not only the foreknowledge one",
+    "Plain explanation of kasb / cüz'î irade with an everyday example",
+    "The full classical map: Mu'tazila, Jabriyya, Ash'ari, Maturidi, with why each holds its view",
+    "Direct, compassionate words for someone afraid of being 'written' for Hell, plus a support box",
+    "What Libet found and why later work does not take it to settle free will",
+    "How 81:29 and 18:29 are read together; full text and context of Bukhari 4949",
+    "Explanation of compatibilism and Frankfurt cases for non-specialists"
+  ],
+  "strengths": [
+    "Clear, strong statement of the objection",
+    "Honest: names the creation-of-acts objection and admits kasb has been called obscure",
+    "Bukhari 4949 ('act, each is eased') is a powerful, well-chosen answer",
+    "2:286 on capacity used well",
+    "Maturidi/Ash'ari difference flagged with Turkish context"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "id": "Q15",
+  "path": "en/ask/unanswered-prayer/",
+  "group": "ask",
+  "words": 582,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "If any outcome counts as an answer (granted, stored, or harm averted), how is that different from no answer at all?",
+        "Does 'Call on Me, I will respond' (40:60) mean granting at all? What does the Arabic istajāba mean?",
+        "Are there conditions that block du'a (e.g. the hadith about unlawful food and clothing)?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 7, "fairness": 5, "clarity": 6, "honesty": 6 },
+      "satisfaction": 5,
+      "why": "The three-outcomes hadith is a real answer with a good citation, but the page's reply to 'unfalsifiable' is only that it is 'coherent given belief in a wise God', which does not help someone whose belief is the thing shaking."
+    },
+    "outsider": {
+      "followUps": [
+        "How is du'a different from the five daily prayers (salah)?",
+        "What does 'graded jayyid by al-Arnaʾūṭ' mean and why should I trust it?",
+        "What do Muslims actually do when a prayer seems unanswered?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 6, "clarity": 5, "honesty": 6 },
+      "satisfaction": 5,
+      "why": "The core idea ('respond', not 'always grant') comes through, but grading terms and names are not explained and much of the page reads as notes."
+    },
+    "student": {
+      "followUps": [
+        "What is the full text of the 'not hasty' hadith (Bukhārī 6340, Muslim 2735), and what did scholars say counts as haste?",
+        "What does Ibn al-Qayyim actually argue in al-Dāʾ wa-l-Dawāʾ about du'a as a cause within the decree, and what about the hadith 'nothing turns back the decree except du'a'?",
+        "What are the manners and conditions of du'a and the obstacles to it (Muslim 1015 on unlawful income)?"
+      ],
+      "scores": { "answers": 7, "depth": 6, "evidence": 8, "fairness": 6, "clarity": 6, "honesty": 7 },
+      "satisfaction": 6,
+      "why": "Hadith citations are excellent ('Musnad Aḥmad 11133 ... graded jayyid by al-Arnaʾūṭ, related in Tirmidhī 3573'), but Ibn al-Qayyim and Ibn ʿAṭāʾillāh are named, not explained."
+    },
+    "scientist": {
+      "followUps": [
+        "Beyond STEP, what do systematic reviews (e.g. Cochrane on intercessory prayer) conclude?",
+        "Why did the group told they were prayed for do worse (59%), and is that difference significant?",
+        "What does 'Islamic theology does not predict du'a works like a drug' rest on? Which scholar says so?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 7, "fairness": 6, "clarity": 6, "honesty": 7 },
+      "satisfaction": 6,
+      "why": "STEP is reported correctly with real numbers and a null result is stated plainly, which earns trust; the theological follow-up line is asserted without a source."
+    },
+    "hurting": {
+      "followUps": [
+        "I prayed for my mother and she died. Was my prayer wasted, or was I not good enough?",
+        "Is it a sin to be angry at God right now?",
+        "Is there a du'a or practice for grief the Prophet himself used?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 5, "fairness": 5, "clarity": 5, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "The page raises the dead mother in its opening but never speaks to that person again; 'Validate lament as faith' and 'present it as a promise to trust' read like instructions to a writer, not comfort to a reader, though the support box and Jacob's lament (12:86) help."
+    },
+    "skeptic": {
+      "followUps": [
+        "40:60 reads as a plain promise. Isn't the three-outcomes hadith a later rescue of a failed promise?",
+        "If prayer has no measurable effect (STEP), what exactly is the claim that it 'works' in any sense?",
+        "Why answer 'unfalsifiable' with 'coherent', which concedes the point?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 6, "fairness": 4, "clarity": 6, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "The objection is named in one sentence and answered in two; 'coherent given belief in a wise God' assumes what is in question."
+    }
+  },
+  "missing": [
+    "A real philosophical section: why a promise that cannot be tested is still meaningful, at full strength against the 'unfalsifiable' objection",
+    "A direct, warm paragraph to the person whose loved one died despite their prayers (not wasted, not their fault, anger allowed)",
+    "Explanation of Ibn al-Qayyim's 'du'a as a cause within the decree' and Ibn ʿAṭāʾillāh's point, in plain words",
+    "Conditions, manners and obstacles of du'a with hadith (e.g. Muslim 1015), and the meaning of istajāba",
+    "Wider evidence on intercessory prayer (systematic reviews), and a source for the 'not like a drug' claim",
+    "Turn note-style lines ('Validate lament as faith') into prose addressed to the reader"
+  ],
+  "strengths": [
+    "The three-outcomes hadith with full citation and grading",
+    "'Relationship, not vending machine' framing",
+    "Honest reporting of the STEP trial, including the null result",
+    "Jacob's lament (12:86) to show grief and complaint to God are within faith",
+    "Honest limits: 'cannot be tested'",
+    "Support box"
+  ]
+}

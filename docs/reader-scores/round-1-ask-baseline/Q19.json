@@ -1,0 +1,82 @@
+{
+  "id": "Q19",
+  "path": "en/ask/sects/",
+  "group": "ask",
+  "words": 714,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "If the core is so clear, why did Sunnis and Shiʿis fight over it for centuries? Is imamate not a core belief?",
+        "Which group is the 'jamāʿa' in the 73-sects hadith, and does it mean me?",
+        "What are the 'two slogans' that 'both overstate their case'?"
+      ],
+      "scores": { "answers": 7, "depth": 6, "evidence": 8, "fairness": 6, "clarity": 6, "honesty": 7 },
+      "satisfaction": 6,
+      "why": "The shared core, the qaṭʿī/ẓannī distinction and the Amman Message give a solid answer, but 'Both slogans overstate their case' is unclear and core disputes like imamate are not faced."
+    },
+    "outsider": {
+      "followUps": [
+        "What do Sunnis and Shiʿis actually disagree about, beyond 'leadership after 632'?",
+        "Who are the Alevis, and are they counted among the eight schools?",
+        "What are the Ibāḍīs, and why were Ahmadis excluded?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 7, "fairness": 6, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "Well sourced, but the groups being discussed are never actually described, so an outsider still cannot say how Sunni, Shiʿi, Alevi and Ibāḍī differ."
+    },
+    "student": {
+      "followUps": [
+        "Which are the eight schools the Amman Message named, and did it also recognise Ashʿarī/Māturīdī theology, Sufism and Salafi thought?",
+        "Where does Ibn Taymiyya say the 72 are not unbelievers (Majmūʿ al-Fatāwā volume)?",
+        "How do Shiʿi scholars read the 73-sects hadith?"
+      ],
+      "scores": { "answers": 7, "depth": 6, "evidence": 8, "fairness": 7, "clarity": 6, "honesty": 8 },
+      "satisfaction": 7,
+      "why": "The best-evidenced page in this set: gradings for Abū Dāwūd 4596–97, the chainless 'disagreement is a mercy' report with who said so, Shaltūt 1959, Bukhārī 7352."
+    },
+    "scientist": {
+      "followUps": [
+        "Which studies link black-and-white religious thinking to anxiety and intolerance, and how large are the effects?",
+        "Which study shows intellectual humility predicts better intergroup relations?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 4, "fairness": 6, "clarity": 6, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "The psychology section states two findings with no source, no effect size and no population."
+    },
+    "hurting": {
+      "followUps": [
+        "My family calls my Alevi (or Shiʿi) relatives unbelievers. What do I say to them?",
+        "I was raised Ahmadi; does this page mean I am outside Islam?",
+        "I left a cemaat that said only they were saved. How do I stop feeling I am going to Hell?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 6, "fairness": 5, "clarity": 6, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "The ban on takfīr is reassuring, but people hurt by sectarian exclusion get no direct words, and Ahmadis get only a parenthesis ('e.g., Ahmadis')."
+    },
+    "skeptic": {
+      "followUps": [
+        "The Amman Message was a Jordanian state initiative; has it changed takfīr in practice (ISIS, anti-Shiʿi violence)?",
+        "Recognising a school as 'valid' is not the same as saying its followers are saved. Which is claimed?",
+        "Doesn't the existence of deep disputes over core matters still count against 'God's message is clear'?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 7, "fairness": 6, "clarity": 6, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "It admits that 'Not every difference is harmless' and that Amman excluded some groups, but leans on Amman without saying what it did and did not change, and the clarity objection is only partly met."
+    }
+  },
+  "missing": [
+    "What the main groups actually believe and differ on (Sunni, Shiʿi, Alevi, Ibāḍī, Ahmadi), especially Alevis in Türkiye",
+    "Face core-level disputes (imamate, prophethood after Muhammad) against the 'shared core' claim",
+    "Full list of the eight Amman schools, and what it said on theology, Sufism and Salafism; its limits and effect in practice",
+    "Explain 'Both slogans overstate their case' (which slogans?)",
+    "Sources and effect sizes for the psychology claims",
+    "Words for readers hurt by sectarian exclusion; replace 'Wikipedia' as a source"
+  ],
+  "strengths": [
+    "Precise hadith gradings for the 73-sects reports and an honest note that 'Ikhtilāf ummatī raḥma' has no known chain",
+    "Amman Message with dates, numbers and Sunni and Shiʿi endorsers",
+    "qaṭʿī / ẓannī distinction: 'certainty for the core, humility elsewhere'",
+    "Ibn Taymiyya on the 72 not being unbelievers, and al-Baghdādī forcing sects into 73",
+    "Honest limits naming the exclusion of Ahmadis"
+  ]
+}

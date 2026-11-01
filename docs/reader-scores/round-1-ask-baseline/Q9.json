@@ -1,0 +1,59 @@
+{
+  "id": "Q9",
+  "path": "en/ask/why-worship/",
+  "group": "ask",
+  "words": 508,
+  "readers": {
+    "doubter": {
+      "followUps": ["If worship is only for my benefit, why is not worshipping punished, instead of just being a missed benefit?", "Why does the Quran call God 'the Praiseworthy' and fill itself with praise if He does not want praise?", "What does 'neglect is self-harm' mean in concrete terms?"],
+      "scores": { "answers": 8, "depth": 6, "evidence": 7, "fairness": 7, "clarity": 5, "honesty": 7 },
+      "satisfaction": 6,
+      "why": "35:15, 51:57 and the medicine analogy meet the question head-on, but the punishment objection, the part that unsettles most, gets two clipped lines: 'consequences follow the soul's state (79:40–41); neglect is self-harm.'"
+    },
+    "outsider": {
+      "followUps": ["What does 'worship' (ʿibāda) cover in Islam: only ritual prayer, or all of life?", "What are Ashʿarīs, Māturīdīs, kalam and a ḥadīth qudsī?", "What does 'taʿabbudī' mean?"],
+      "scores": { "answers": 7, "depth": 6, "evidence": 6, "fairness": 6, "clarity": 4, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "The short answer is clear, but the deeper section reads as notes full of unexplained terms (ghinā, kalam, ḥikma, taʿabbudī, vesvese)."
+    },
+    "student": {
+      "followUps": ["Where exactly in al-Ṭabarī is the 'to know Me' gloss on 51:56, through which chain, and is it Ibn ʿAbbās or Mujāhid?", "What does al-Rāzī argue on 51:56 in Mafātīḥ al-Ghayb, and how does it square with the Ashʿarī denial of purpose in God's acts?", "Which Word (Söz) of Nursi's Sözler, and where does Tim Winter make this point?"],
+      "scores": { "answers": 8, "depth": 7, "evidence": 7, "fairness": 7, "clarity": 5, "honesty": 7 },
+      "satisfaction": 7,
+      "why": "A good spread of named sources (Muslim 2577, al-Ṭabarī, al-Rāzī, al-Ghazālī, the Ashʿarī/Māturīdī split, Nursi), though each gets one line and no exact location."
+    },
+    "scientist": {
+      "followUps": ["Which studies or meta-analyses show 'small-to-moderate wellbeing associations', with what effect sizes?", "Are these about gratitude exercises in general or about religious worship specifically?"],
+      "scores": { "answers": 7, "depth": 5, "evidence": 4, "fairness": 7, "clarity": 6, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "The framing is honest ('not proof of theology', '\"Science proves prayer heals\" overstates correlational data') but no study is named."
+    },
+    "hurting": {
+      "followUps": ["I was taught to worship out of fear; how do I actually start relating to God differently?", "What should I do when fear that my prayers are invalid takes over?"],
+      "scores": { "answers": 7, "depth": 5, "evidence": 6, "fairness": 6, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "'Reframe as relationship' is an instruction in three words, not help; the mercy hadith (Bukhārī 7404) is the warmest point and is buried in a 'Residue' note."
+    },
+    "skeptic": {
+      "followUps": ["The medicine analogy breaks if the 'patient' faces eternal punishment for refusing: answer that directly.", "Why would a self-sufficient God create beings 'to worship Me' at all? Doesn't 51:56 give God a purpose?", "If Ashʿarīs deny that God acts for purposes, how can 'worship serves the worshipper' be the explanation?"],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 5, "clarity": 5, "honesty": 6 },
+      "satisfaction": 5,
+      "why": "The insecure-human comparison is answered by a real distinction, but the coercion objection is closed with 'Residue: wrath language can feel personal', which understates it."
+    }
+  },
+  "missing": [
+    "A full answer to 'why is it obligatory, with eternal consequences, if it is only for our benefit?'",
+    "Explain what ʿibāda covers (all of life, not only ritual)",
+    "Address 'why create at all?' and the tension between the Ashʿarī view and 'for our benefit'",
+    "Turn the notes into prose and explain terms (ghinā, kalam, ḥikma, taʿabbudī, ḥadīth qudsī)",
+    "Name the studies behind the wellbeing claim",
+    "Practical help for readers raised on fear-based worship"
+  ],
+  "strengths": [
+    "Pairing 51:56 with 51:57 and 35:15 answers the question from the Quran itself",
+    "Muslim 2577 (ḥadīth qudsī) is a strong, sourced point",
+    "Ashʿarī vs Māturīdī positions shown, with what they agree on",
+    "Honest science framing with a [Debated] badge and 'overstates correlational data'",
+    "Admits some acts are taʿabbudī and not explained"
+  ]
+}

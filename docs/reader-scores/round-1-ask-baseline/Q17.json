@@ -1,0 +1,83 @@
+{
+  "id": "Q17",
+  "path": "en/ask/who-created-god/",
+  "group": "ask",
+  "words": 514,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "Why can't the universe itself be the necessary, uncaused thing? 'Its physical constants look contingent' is one line. Spell it out.",
+        "What does 'necessary being' actually mean, and why can't it have a cause?",
+        "If the hadith says seek refuge from this question, am I allowed to keep thinking about it?"
+      ],
+      "scores": { "answers": 7, "depth": 5, "evidence": 6, "fairness": 6, "clarity": 6, "honesty": 7 },
+      "satisfaction": 6,
+      "why": "The short answer is clear and memorable ('like asking who drew a circle's corners'), but the strongest follow-up, why not a necessary universe, gets one sentence."
+    },
+    "outsider": {
+      "followUps": [
+        "What do 'contingent' and 'necessary' mean here, in everyday words?",
+        "What are kalām, ḥudūth and wājib al-wujūd?",
+        "Is this argument specific to Islam, or the same one Christian philosophers use?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 6, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "The key terms the whole answer rests on, 'contingent' and 'necessary', are never explained, and the objections section is a list of one-liners."
+    },
+    "student": {
+      "followUps": [
+        "What exactly did al-Ghazālī (Tahāfut) and Ibn Rushd criticise in Ibn Sīnā's argument?",
+        "How did Mullā Ṣadrā rework the burhān al-ṣiddīqīn, and how does it differ from Ibn Sīnā's?",
+        "How do al-Ashʿarī's and al-Māturīdī's versions of the ḥudūth argument run, and where are they (e.g. Kitāb al-Tawḥīd)?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 6, "clarity": 5, "honesty": 7 },
+      "satisfaction": 6,
+      "why": "Good pointers (Ishārāt, namaṭ 4; Bukhārī 3276; Muslim 134), but the scholars are named, not explained: 'al-Ghazālī and Ibn Rushd criticised parts of it' says nothing about which parts."
+    },
+    "scientist": {
+      "followUps": [
+        "What does the Borde–Guth–Vilenkin theorem actually assume (average expansion, classical spacetime), and does it show a beginning or only the limit of classical physics?",
+        "Which quantum-gravity models avoid a beginning, and how seriously are they taken?",
+        "Is the kalām premise 'whatever begins has a cause' challenged by quantum events?"
+      ],
+      "scores": { "answers": 6, "depth": 4, "evidence": 6, "fairness": 7, "clarity": 6, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "Honest and careful ('Cosmology is not a \"proof.\"', [Debated] on quantum gravity), but BGV is named without its assumptions and quantum causation is not raised."
+    },
+    "hurting": {
+      "followUps": [
+        "This thought keeps attacking me during prayer and I feel I am becoming a disbeliever. What does 'treat it as vesvese' mean in practice?",
+        "Is having this thought a sin? Does it mean my faith is gone?",
+        "Who can I talk to if it feels like OCD?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 6, "fairness": 6, "clarity": 6, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "For someone with intrusive thoughts, 'If the thought keeps intruding compulsively, treat it as vesvese' gives no steps, no reassurance that the thought is not sin, and there is no support box."
+    },
+    "skeptic": {
+      "followUps": [
+        "'A necessary being would have to be simple' and 'classical theism holds that God is simple' are assertions. What is divine simplicity and why is it coherent?",
+        "Hume's objections are that the causal principle is not known a priori and the universe could be the brute fact. Where is that answered?",
+        "Why say 'The regress objection fails' so flatly when most philosophers lean atheist?"
+      ],
+      "scores": { "answers": 6, "depth": 4, "evidence": 6, "fairness": 6, "clarity": 6, "honesty": 8 },
+      "satisfaction": 5,
+      "why": "The honest limits are real (the PhilPapers 18.93% / 66.95% figure; 'Ibn Sīnā's derivation of the divine attributes is the weakest link'), but each objection gets a one-line reply that a skeptic would not accept as an answer."
+    }
+  },
+  "missing": [
+    "Plain-language explanation of 'contingent', 'necessary', 'begins' and divine simplicity, which the whole answer depends on",
+    "A full paragraph on the strongest counter: why not a necessary or brute-fact universe (Hume, Russell)",
+    "Objection replies written as arguments, not one-liners",
+    "What al-Ghazālī, Ibn Rushd and Mullā Ṣadrā actually argued",
+    "BGV assumptions and the quantum-causation challenge to the kalām premise",
+    "Practical, compassionate guidance for intrusive thoughts (vesvese/OCD), with a support box"
+  ],
+  "strengths": [
+    "Short answer corrects the common misstatement ('The argument does not say everything has a cause') with a clear analogy",
+    "Hadith on the whisper with references, framed as guidance for vesvese and 'not a ban on philosophy'",
+    "PhilPapers figures shown even though they cut against theism",
+    "Honest limits: the gap from a necessary being to the God of the Quran",
+    "No overclaiming from cosmology"
+  ]
+}

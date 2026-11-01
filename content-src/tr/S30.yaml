@@ -29,7 +29,7 @@ reflection: |
 honest: |
   - "DNA tasarımı kanıtlar" iddiası **[Debated]**. Akıllı tasarım hareketi (ör. Stephen Meyer) biyolojik bilginin bir akla işaret ettiğini savunur. Biyologların çoğu, mutasyon ve doğal seçilim yoluyla evrimin genetik bilginin nasıl arttığını açıkladığını söyler; ABD mahkemeleri de (Kitzmiller - Dover davası, 2005) akıllı tasarımın bilim olmadığına hükmetti.
   - Şuayb Ahmed Malik gibi Müslüman âlimler, Allah'a imanın evrimsel açıklamalardaki boşluklara bağlı olmadığını savunur; Allah doğal süreçler aracılığıyla da iş görebilir.
-  - Önerilen çerçeve: DNA'yı bilimsel bir kanıt olarak **değil**, hayrete davet eden bir âyet olarak sunmak. İki tarafı da adilce sunmak gerekir.
+  - DNA burada bilimsel bir kanıt olarak **değil**, hayrete davet eden bir âyet olarak sunuluyor ve iki tarafa da adilce yer veriliyor.
 visualization: |
   - Bir insandan hücreye, çekirdeğe, kromozoma, DNA çift sarmalına ve A-T-C-G harflerine uzanan bir yakınlaştırma; "her hücrede 2 metre" sayacıyla.
   - Bir "aynı alfabe" kartı: bakteri, ağaç ve insan, hepsi aynı dört harfle yazılmış.
@@ -39,3 +39,9 @@ sourceLabels:
   - 'Stephen Meyer, *Signature in the Cell* (tasarım yanlısı); Francis Collins, *The Language of God* (teistik evrim)'
   - 'Shoaib Ahmed Malik, *Islam and Evolution* (Routledge, 2021)'
   - 'Râzî ve İbn Kesîr''in 20:50 ve 87:2–3 tefsirleri'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Recommended framing: DNA as a sign that invites wonder, **not** as a scientific proof. Present both sides fairly."
+    to: "DNA is presented here as a sign that invites wonder, **not** as a scientific proof, and both sides are given fairly."

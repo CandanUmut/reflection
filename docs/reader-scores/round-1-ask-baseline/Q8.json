@@ -1,0 +1,61 @@
+{
+  "id": "Q8",
+  "path": "en/ask/intrusive-thoughts/",
+  "group": "ask",
+  "words": 512,
+  "readers": {
+    "doubter": {
+      "followUps": ["What exactly does Muslim 132 say: what did the Companions tell the Prophet, and what were his words?", "How do I tell real doubt I should think through from a compulsive thought I should ignore?", "If part of me half-agrees with the thought, is it still 'unchosen'?"],
+      "scores": { "answers": 8, "depth": 5, "evidence": 6, "fairness": 6, "clarity": 6, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "The core reassurance ('Unwanted thoughts are not beliefs', 'clear faith') is right and sourced, but the hadith are cited, not quoted, and the title's 'Is doubting a sin?' (real intellectual doubt) gets one line: 'Doubt as inquiry (al-Ghazālī) differs from doubt as compulsion.'"
+    },
+    "outsider": {
+      "followUps": ["What is vesvese / waswasa, and how does it relate to Satan in Muslim belief?", "What is 'exposure and response prevention'?", "Who are 'the Companions', and what are Bukhārī and Muslim?"],
+      "scores": { "answers": 7, "depth": 5, "evidence": 5, "fairness": 6, "clarity": 5, "honesty": 8 },
+      "satisfaction": 5,
+      "why": "The main idea comes through, but key terms (vesvese, exposure and response prevention, ablution checking, the hadith collections) are used without explanation."
+    },
+    "student": {
+      "followUps": ["Full text and grading of Bukhārī 5269, Muslim 127 and 132, and any parallel narrations on waswasa.", "Which jurists, in which works, gave the rule to ignore doubts and not repeat acts? What do the four schools say about repeating ablution or prayer for someone with waswasa?", "Where does al-Ghazālī discuss doubt as inquiry, and what does he say?"],
+      "scores": { "answers": 7, "depth": 4, "evidence": 6, "fairness": 5, "clarity": 6, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "Good hadith references, but 'Jurists advised people with vesvese to ignore their doubts' names no jurist, school or book."
+    },
+    "scientist": {
+      "followUps": ["What is the source and population for each figure (5–33%, about 70%, 52%, 27%)? Is '52% in Middle Eastern samples' a share of OCD patients?", "How effective is exposure and response prevention for scrupulosity specifically (response rates, effect sizes)?", "What does the TIIP trial measure, and how many participants?"],
+      "scores": { "answers": 7, "depth": 5, "evidence": 4, "fairness": 6, "clarity": 5, "honesty": 8 },
+      "satisfaction": 5,
+      "why": "The numbers are there but not tied to individual studies, and 'Religious-themed OCD averages around 52% in Middle Eastern samples' never says 52% of what; honest about the unfinished trial."
+    },
+    "hurting": {
+      "followUps": ["What do I actually do the next time the thought comes: keep praying, stop, say something?", "Will God hold me to account for the times I gave in and repeated my prayer or ablution?", "How do I find a therapist who respects my faith, or an imam who understands OCD, outside Türkiye?"],
+      "scores": { "answers": 8, "depth": 5, "evidence": 6, "fairness": 6, "clarity": 6, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "The comfort is true and the support box helps, but the tone is clipped and clinical, there are no practical next steps, and the only support named is Turkish on an English page."
+    },
+    "skeptic": {
+      "followUps": ["Isn't 'ignore your doubts' a way of shutting down legitimate questions?", "How does the page avoid labelling all doubt as illness?"],
+      "scores": { "answers": 6, "depth": 4, "evidence": 6, "fairness": 4, "clarity": 6, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "The title asks about doubt, but the answer is almost all about compulsive thoughts; the risk of treating honest doubt as pathology is not addressed."
+    }
+  },
+  "missing": [
+    "A clear section separating honest intellectual doubt (and how Islam treats it) from intrusive, compulsive thoughts",
+    "Quote the hadith texts (Muslim 132, Muslim 127, Bukhārī 5269) with their grading",
+    "Practical steps for the moment a thought or checking urge comes",
+    "Name the jurists and works behind the 'ignore excessive doubt' rule, and the schools' positions",
+    "Explain terms: vesvese/waswasa, exposure and response prevention, the hadith collections",
+    "Tie each statistic to its study and say what it is a percentage of",
+    "Support resources for readers outside Türkiye on the English page"
+  ],
+  "strengths": [
+    "Clear opening line: 'Unwanted thoughts are not beliefs'",
+    "Muslim 132 'clear faith' is exactly the right comfort",
+    "Visible support box and the message that seeking help is consistent with faith",
+    "Honest that the TIIP trial results were not yet available and that a website cannot diagnose",
+    "Clinician-and-imam framing, 'not a Muslim disease'",
+    "2:286 is a fitting key verse"
+  ]
+}

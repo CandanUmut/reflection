@@ -1,0 +1,59 @@
+{
+  "id": "Q10",
+  "path": "en/ask/prayer-and-dryness/",
+  "group": "ask",
+  "words": 407,
+  "readers": {
+    "doubter": {
+      "followUps": ["If prayer without feeling is acceptable, what does it actually do for me right now?", "Why five and not three if the Quran gives no number? How strong is the Miʿrāj evidence?", "What concrete steps build khushūʿ?"],
+      "scores": { "answers": 7, "depth": 5, "evidence": 6, "fairness": 6, "clarity": 6, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "'Keeping the rhythm while dry is fidelity, not hypocrisy' is a real answer, but how to grow presence of heart is one clause ('understanding the words, slowing down and patience')."
+    },
+    "outsider": {
+      "followUps": ["What does a Muslim actually do and say in the five prayers, and when?", "What is the Miʿrāj?", "What are qabḍ and basṭ, and who was al-Qushayrī?"],
+      "scores": { "answers": 6, "depth": 4, "evidence": 5, "fairness": 6, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "The prayer itself is never described, the 'foreign language' is never named as Arabic, and Miʿrāj, qabḍ and basṭ go unexplained."
+    },
+    "student": {
+      "followUps": ["What are Ibn al-Qayyim's five grades of praying people?", "What do the schools of law say about a prayer without khushūʿ: valid but lacking, or something more?", "How do the mufassirs derive the five times from 11:114, 17:78 and 30:17–18?"],
+      "scores": { "answers": 7, "depth": 5, "evidence": 7, "fairness": 6, "clarity": 6, "honesty": 7 },
+      "satisfaction": 6,
+      "why": "Good references (al-Ghazālī's six inner meanings, Bukhārī 349, Muslim 162), but 'Ibn al-Qayyim describes five grades' never lists them."
+    },
+    "scientist": {
+      "followUps": ["Which studies of Muslim prayer, how large, and what physiological changes?", "Which studies show ritual lowering anxiety under uncertainty?"],
+      "scores": { "answers": 6, "depth": 3, "evidence": 3, "fairness": 6, "clarity": 6, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The science is two unsourced sentences ('physiological changes in small samples'), honest in tone but nothing to check."
+    },
+    "hurting": {
+      "followUps": ["I feel like a hypocrite; how does God see a dry but faithful prayer?", "How do I tell spiritual dryness from depression, and where do I get help?"],
+      "scores": { "answers": 8, "depth": 5, "evidence": 5, "fairness": 6, "clarity": 7, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "Gentle and true ('it doesn't prove prayer empty'), and the depression check is good, but there is no hadith or verse on God's view of the struggling worshipper."
+    },
+    "skeptic": {
+      "followUps": ["The five-count comes from the Night Journey hadith, including the bargaining down from fifty: why trust it?", "What exactly do the Turkish Quranists argue for three prayers, and what is the reply?", "Isn't 'authenticity is long commitment, as in marriage' just a defence of habit?"],
+      "scores": { "answers": 6, "depth": 4, "evidence": 6, "fairness": 5, "clarity": 6, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "The Quranist view is named in one clause ('Some Turkish Quranists argue for three') but never stated or answered."
+    }
+  },
+  "missing": [
+    "Practical guidance for building khushūʿ (meanings of the words, pace, preparation)",
+    "State the three-prayers argument and the reply to it",
+    "List Ibn al-Qayyim's five grades",
+    "Sources and sample sizes for the science claims",
+    "A short description of the prayer for newcomers, and the Arabic-language concern",
+    "A verse or hadith on God's view of someone who keeps praying while dry"
+  ],
+  "strengths": [
+    "Honest: 'The five-count rests on hadith and practice, not an explicit Quranic number'",
+    "'Fidelity, not hypocrisy' reframe",
+    "Depression check and vesvese note",
+    "al-Ghazālī's six inner meanings and al-Qushayrī on dry phases",
+    "'No technique guarantees feeling'"
+  ]
+}

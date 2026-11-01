@@ -1,0 +1,83 @@
+{
+  "id": "Q29",
+  "path": "en/ask/why-create/",
+  "group": "ask",
+  "words": 194,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "If God creates 'from generosity', why create beings who will suffer, or go to Hell? Is that generous?",
+        "Is 'worship means knowing God' a real reading or a softening? What do most scholars say 51:56 means?",
+        "If God gains nothing from my worship, why does He command it and punish its absence?"
+      ],
+      "scores": { "answers": 5, "depth": 2, "evidence": 4, "fairness": 4, "clarity": 4, "honesty": 5 },
+      "satisfaction": 3,
+      "why": "The core line ('from generosity and wisdom, not need') is stated, not explained, and at 194 words the page cannot carry a question this deep; 'Some mystery remains' closes it too soon."
+    },
+    "outsider": {
+      "followUps": [
+        "What is the 'hidden treasure' saying? The page mentions it without quoting it.",
+        "Who are the Ash'aris and Maturidis, and why does it matter whether God 'acts for purposes'?",
+        "What does Islam mean by worship, beyond ritual prayer?"
+      ],
+      "scores": { "answers": 5, "depth": 2, "evidence": 3, "fairness": 4, "clarity": 3, "honesty": 5 },
+      "satisfaction": 3,
+      "why": "Too many unexplained names in one paragraph (Mujahid, Ibn Taymiyya, Ash'aris, Maturidis, Ibn al-Qayyim, hikma) and the 'hidden treasure' saying is referred to but never given."
+    },
+    "student": {
+      "followUps": [
+        "Give the source for Mujahid's 'to know Me' (Tabari's tafsir on 51:56?) and the other classical readings of li-ya'budun.",
+        "Lay out the Ash'ari position on ta'lil (God's acts not caused by purposes) and the Maturidi / Ibn al-Qayyim answer in Shifa' al-'alil, with their arguments.",
+        "Quote the 'hidden treasure' report, Ibn Taymiyya's verdict, and why Sufis still use it."
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 5, "fairness": 6, "clarity": 4, "honesty": 6 },
+      "satisfaction": 4,
+      "why": "The theological map is genuinely useful (Ash'ari vs Maturidi on divine purposes; the 'hidden treasure' has no chain), but every point is a single clause with no argument."
+    },
+    "scientist": {
+      "followUps": [
+        "How does 'a sense of meaning predicts well-being' answer why God would create? It seems off-topic.",
+        "What did Steger 2006 measure, and what was the effect size?",
+        "What does 'goodness naturally shares itself' mean, and is it an argument or a slogan?"
+      ],
+      "scores": { "answers": 3, "depth": 2, "evidence": 3, "fairness": 4, "clarity": 4, "honesty": 5 },
+      "satisfaction": 3,
+      "why": "The science section answers a different question (whether meaning is good for you), not whether a self-sufficient God would create."
+    },
+    "hurting": {
+      "followUps": [
+        "I came here because I feel my life has no point. Does this page say anything to me beyond 'seek professional care'?",
+        "If I was made to know God and I feel nothing, what does that mean?",
+        "Where can I actually find help?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 3, "fairness": 4, "clarity": 4, "honesty": 5 },
+      "satisfaction": 3,
+      "why": "The page names 'crises of meaning' as the reason people ask, but its only word to such a reader is one line, 'seek professional care', with no support box or warmth."
+    },
+    "skeptic": {
+      "followUps": [
+        "If goodness 'naturally shares itself', is creation necessary for God? That conflicts with God's freedom and self-sufficiency.",
+        "If the goal is our flourishing, why does the same God create Hell for most of humanity, by some readings?",
+        "Isn't reading 'worship' as 'knowing' a reinterpretation that dodges the plain meaning?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 3, "fairness": 3, "clarity": 4, "honesty": 4 },
+      "satisfaction": 2,
+      "why": "The objection that 'worship Me' sounds like a need for praise is answered by reinterpreting the word, with no defence of that reading, and the obvious tension with Hell and suffering is not raised."
+    }
+  },
+  "missing": [
+    "An actual argument for why a self-sufficient God would create, developed over several paragraphs",
+    "Quote the 'hidden treasure' saying and explain why it is popular despite having no chain",
+    "Explain the Ash'ari / Maturidi debate on divine purposes and why it matters",
+    "Defend the 'worship = knowing' reading with sources, and give the other readings of 51:56",
+    "Face the tension with suffering and Hell",
+    "Explain 'goodness naturally shares itself' and whether it makes creation necessary",
+    "Proper support for readers in a crisis of meaning (support box, warmer words)",
+    "Replace or justify the off-topic science section"
+  ],
+  "strengths": [
+    "States the objection fairly, including the 'need for praise' reading of 51:56",
+    "Admits the 'hidden treasure' report has no chain, instead of using it as if authentic",
+    "Shows that classical schools disagree on whether God acts for purposes"
+  ]
+}

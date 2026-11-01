@@ -1,0 +1,83 @@
+{
+  "id": "Q26",
+  "path": "en/ask/belief-and-upbringing/",
+  "group": "ask",
+  "words": 358,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "If I would have believed something else had I been born elsewhere, how can I trust that my reasons now are not just my upbringing talking? The page names the genetic fallacy but never answers this.",
+        "What did al-Ghazali actually say in the Munqidh about children of Christians and Jews, and how did he get out of that doubt?",
+        "What does 'debunking arguments prove too much' mean, and why should it reassure me?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 5, "fairness": 4, "clarity": 5, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The genetic-fallacy point and 'the real question is whether you have reasons now' are right, but the page stops exactly where the doubter needs help: it never shows what those reasons might be or how to test them."
+    },
+    "outsider": {
+      "followUps": [
+        "What does the hadith in Bukhari 1385 actually say? The page cites it without quoting it.",
+        "What are 'debunking arguments', and what is Barrett's 2012 work about?",
+        "Do Muslims think people of other faiths who follow their parents are blameworthy, given that the Quran rebukes inherited faith?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 4, "fairness": 5, "clarity": 4, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "Fitra and the genetic fallacy are explained, but 'Debunking arguments prove too much', 'Munqidh' and 'Dar'' are left as bare labels, so it reads like a reading list rather than an answer."
+    },
+    "student": {
+      "followUps": [
+        "Quote Bukhari 1385 in full ('every child is born upon the fitra, then his parents make him a Jew, Christian or Magian') and explain how scholars read it, since it seems to concede the objection.",
+        "What is Ibn Taymiyya's argument about fitra in Dar' ta'arud al-'aql wa'l-naql, and how does it differ from the kalam view that knowledge of God must be reasoned?",
+        "What is the scholarly position on taqlid in creed (iman al-muqallid): is inherited belief valid?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 5, "fairness": 5, "clarity": 5, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The right sources are named (30:30, Bukhari 1385, Munqidh, Dar') but none is quoted or explained, and the classical debate over the faith of the imitator (muqallid) is missing entirely."
+    },
+    "scientist": {
+      "followUps": [
+        "Which Barrett 2012 work is this (Born Believers?), what was the evidence, and how strong is it across cultures?",
+        "What exactly did Sanchez et al. 2017 test and find, in numbers?",
+        "What does research on religious transmission show: how much of adult belief is predicted by parents' religion?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 5, "fairness": 5, "clarity": 5, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The caveats are honest ('not in any specific religious... tradition', 'Fitra fits the data but is not proven by it'), but there are no effect sizes, and the one number that would matter (how strongly parental religion predicts adult religion) is absent."
+    },
+    "hurting": {
+      "followUps": [
+        "I feel my faith is just what my family gave me, and I am afraid of what happens if I question it. Is it allowed, and safe, to question?",
+        "How do I 'own' my faith in practice, as the page says?",
+        "What if I examine it honestly and end up unsure?"
+      ],
+      "scores": { "answers": 5, "depth": 3, "evidence": 4, "fairness": 5, "clarity": 5, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The tone is not cold and it treats the question as legitimate, but 'Owning one's faith is a normal stage of development' is one line with no guidance and no reassurance that questioning is permitted."
+    },
+    "skeptic": {
+      "followUps": [
+        "The strong form is not the genetic fallacy but epistemic luck: if belief reliably tracks birthplace, the process that produced it is unreliable. Where is this answered?",
+        "Why say 'debunking arguments prove too much' without showing what they would wrongly debunk?",
+        "If owning one's faith means real examination, what about people who examine and leave, given apostasy rules?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 4, "fairness": 3, "clarity": 5, "honesty": 6 },
+      "satisfaction": 3,
+      "why": "It answers a weak version of the objection (the genetic fallacy) and skips the strong version (religious diversity and epistemic luck), and the one-line 'Debunking arguments prove too much' is asserted, not argued."
+    }
+  },
+  "missing": [
+    "Answer the strong form of the objection (epistemic luck / religious diversity), not only the genetic fallacy",
+    "Quote Bukhari 1385 and explain how it relates to the objection; it says parents shape a child's religion",
+    "Explain al-Ghazali's Munqidh story in a few sentences: what he saw, what he doubted, how he resolved it",
+    "Explain 'debunking arguments prove too much' with an example",
+    "Classical position on the faith of the imitator (iman al-muqallid)",
+    "Numbers from the psychology research (Barrett, Sanchez, religious transmission rates)",
+    "Practical guidance on how to examine and own one's faith"
+  ],
+  "strengths": [
+    "Names the genetic fallacy clearly and gives the right focus: 'whether you have reasons now'",
+    "Uses the Quran's own rebuke of inherited faith (2:170; 43:22-23), which is striking and fair",
+    "Honest limits concede the point: 'Upbringing does shape belief. Fitra fits the data but is not proven by it.'",
+    "Careful caveat on Barrett: children are inclined to believe, but not in any specific tradition"
+  ]
+}

@@ -20,6 +20,28 @@ const visualization = text.extend({
   labels: z.object({ tr: z.record(z.string(), z.string()), en: z.record(z.string(), z.string()) }).optional(),
   steps: z.object({ tr: z.array(z.string()), en: z.array(z.string()) }).optional(),
 });
+/** One section of a full answer. `kind` picks its heading; `title` may replace it. */
+// v2 parts may be English-only while their Turkish is being written.
+const textEnFirst = z.object({ tr: z.string().min(1).optional(), en: z.string().min(1) });
+const fullAnswerSection = textEnFirst.extend({
+  kind: z.enum([
+    'quran',
+    'sunnah',
+    'scholars',
+    'fiqh',
+    'history',
+    'science',
+    'reasoning',
+    'objection',
+    'heart',
+    'views',
+    'meaning',
+    'practice',
+    'research',
+    'tafsir',
+  ]),
+  title: text.optional(),
+});
 
 const signs = defineCollection({
   loader: glob({ pattern: '*.yaml', base: './src/content/signs' }),
@@ -45,6 +67,10 @@ const signs = defineCollection({
     reflectionVerses: z.array(verseRef).optional(),
     /** `important`: the research marks the note "Honest note — important". */
     honestNotes: z.array(text.extend({ important: z.boolean().optional() })),
+    /** Questions readers ask next (English first). */
+    followUps: z.array(z.object({ q: textEnFirst, a: textEnFirst })).optional(),
+    /** The page's sources before its deepened version (kept by scripts/migrate-v2.mjs). */
+    legacySources: z.array(source).optional(),
     visualizations: z.array(visualization),
     sources: z.array(source).min(1),
   }),
@@ -67,11 +93,17 @@ const questions = defineCollection({
     steelman: text,
     whyAsked: text,
     shortAnswer: text,
-    layers: z.array(
-      text.extend({
-        kind: z.enum(['religious', 'philosophical', 'scientific', 'clinical', 'psychological', 'history']),
-      }),
-    ),
+    layers: z
+      .array(
+        text.extend({
+          kind: z.enum(['religious', 'philosophical', 'scientific', 'clinical', 'psychological', 'history']),
+        }),
+      )
+      .default([]),
+    /** Phase 6 onward: the full answer, in sections the reader can follow (CONTENT_PLAN.md §4). */
+    fullAnswer: z.array(fullAnswerSection).optional(),
+    /** Follow-up questions readers asked (reader critic), each answered from the research. */
+    followUps: z.array(z.object({ q: textEnFirst, a: textEnFirst })).optional(),
     /** Positions named in the research, set along one line (DESIGN.md §4.6). */
     rangeOfViews: z
       .object({
@@ -105,7 +137,12 @@ const morals = defineCollection({
     scholarship: text.optional(),
     evidence: text.optional(),
     stories: text.optional(),
-    gaps: text,
+    gaps: textEnFirst,
+    /** Phase 6 onward: the deep page, in parts (CONTENT_PLAN.md §4); English first. */
+    fullAnswer: z.array(fullAnswerSection).optional(),
+    followUps: z.array(z.object({ q: textEnFirst, a: textEnFirst })).optional(),
+    /** The page's sources before its deep version (kept by scripts/migrate-v2.mjs). */
+    legacySources: z.array(source).optional(),
     visualizations: z.array(visualization),
     sources: z.array(source).min(1),
   }),

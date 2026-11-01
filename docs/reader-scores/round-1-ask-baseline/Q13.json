@@ -1,0 +1,59 @@
+{
+  "id": "Q13",
+  "path": "en/ask/eternal-hell/",
+  "group": "ask",
+  "words": 673,
+  "readers": {
+    "doubter": {
+      "followUps": ["The short answer says Ibn Taymiyya 'argued the punishment of unbelievers will end', but later the page says he 'never states categorically that it ends'. Which is it?", "What happens to people who never heard the message, or heard a distorted version?", "Why does a 'fixed inner state' justify forever? Can't a state change after death?"],
+      "scores": { "answers": 6, "depth": 5, "evidence": 7, "fairness": 7, "clarity": 5, "honesty": 6 },
+      "satisfaction": 5,
+      "why": "The range of views is real, but the proportionality question gets three labelled one-liners, and the page contradicts itself on Ibn Taymiyya."
+    },
+    "outsider": {
+      "followUps": ["What do most Muslims believe about good non-Muslims?", "Who are the Ashʿarīs, Māturīdīs and Atharīs?", "What does 'knowingly and persistently reject God' mean in practice?"],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 7, "clarity": 5, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "Fair to the range of views, but the school names and 'knowingly' are not explained, and the question an outsider most needs answered (who goes there) is one clause."
+    },
+    "student": {
+      "followUps": ["How do the mufassirs read the exception 'except as your Lord wills' in 11:107, and how does the majority answer the minority's use of it?", "What were al-Subkī's main arguments against Ibn Taymiyya?", "What is al-Ghazālī's position on those whom the message did not reach?"],
+      "scores": { "answers": 7, "depth": 6, "evidence": 8, "fairness": 8, "clarity": 6, "honesty": 7 },
+      "satisfaction": 7,
+      "why": "Strong sourcing (Hoover, Ḥādī al-Arwāḥ, the Fanāʾ al-nār treatise, Muslim 2752) and a careful minority view, but the key verse 11:107's exception is quoted and never discussed."
+    },
+    "scientist": {
+      "followUps": ["Is there research behind 'Hell-anxiety is common in scrupulosity'?"],
+      "scores": { "answers": 6, "depth": 5, "evidence": 5, "fairness": 7, "clarity": 6, "honesty": 7 },
+      "satisfaction": 6,
+      "why": "Not a science question, and the page rightly makes no science claims; its one psychological claim has no source."
+    },
+    "hurting": {
+      "followUps": ["My non-Muslim parent died. Is there real hope for them? (Khalil's Islam and the Fate of Others is listed but not used.)", "How do I stop panicking about Hell for myself?"],
+      "scores": { "answers": 5, "depth": 4, "evidence": 6, "fairness": 6, "clarity": 6, "honesty": 7 },
+      "satisfaction": 5,
+      "why": "'Love for non-Muslim friends' is named as a reason people ask, but the only answer is 'God alone knows who is truly culpable'; the mercy hadith helps."
+    },
+    "skeptic": {
+      "followUps": ["Even a 'fixed inner state' comes from a finite life: why is infinite punishment just, and why not annihilation?", "How do the universalists read 'forever' in 4:169 and 72:23?", "Isn't the 6:28 argument (they would return to evil) circular?"],
+      "scores": { "answers": 5, "depth": 4, "evidence": 7, "fairness": 6, "clarity": 5, "honesty": 6 },
+      "satisfaction": 5,
+      "why": "Credit for admitting (b) is 'weakest for modern readers', but the 'Philosophical analysis' is three labels, not arguments, and the core proportionality objection is never met head-on."
+    }
+  },
+  "missing": [
+    "Fix the contradiction: short answer says Ibn Taymiyya 'argued the punishment of unbelievers will end'; the deeper section says he 'never states categorically that it ends'",
+    "A real prose answer to the proportionality objection, including the annihilation option",
+    "The fate of those the message did not reach (al-Ghazālī, Khalil, who is in the sources but not the text)",
+    "How the majority and minority read 11:107's exception and 'forever' in 4:169 and 72:23",
+    "Explain the schools and what 'knowingly and persistently' means",
+    "A gentler section for grieving readers and for Hell-anxiety"
+  ],
+  "strengths": [
+    "Minority view presented with careful nuance from Hoover",
+    "Range-of-views display, with Ibn ʿArabī marked [Debated]",
+    "Honest limit: the minority view 'is not the hidden \"real\" Islam'",
+    "4:40 and Muslim 2752 (mercy in 100 parts) balance justice and mercy",
+    "Admits the 'dignity of the one wronged' argument is weakest"
+  ]
+}

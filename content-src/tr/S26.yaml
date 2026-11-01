@@ -30,9 +30,9 @@ awe: |
 reflection: |
   Temsil, ışıksız bir ruhu anlatmak için üst üste binmiş karanlıkların fiziksel bir resmini kullanır. Anahtar son cümledir: ışık bir ikramdır ve "Allah kime nur vermemişse, onun hiç nuru yoktur."
 honest: |
-  - Yaygın bir iddiaya göre âyet "iç dalgaları bildirdi." Âyet açıkça hidayet hakkında bir temsildir ve klasik âlimler "dalga üstüne dalga" ifadesini üst üste binen yüzey dalgaları ve manevî karanlık olarak okudu. İç dalgaları en fazla ilginç bir modern tefekkür olarak sunmak gerekir.
+  - Yaygın bir iddiaya göre âyet "iç dalgaları bildirdi." Âyet açıkça hidayet hakkında bir temsildir ve klasik âlimler "dalga üstüne dalga" ifadesini üst üste binen yüzey dalgaları ve manevî karanlık olarak okudu. İç dalgalar en fazla ilginç bir modern tefekkürdür.
   - Denize açılan ya da dalan insanlar derin suyun karardığını biliyordu; yani derin denizdeki karanlık bilinmeyen bir bilgi değildi.
-  - Odak, temsilin anlamında kalmalıdır.
+  - Odak, temsilin anlamındadır.
 visualization: |
   - Bir "iniş" kaydırması: kullanıcı okyanusta aşağı inerken renkler sırayla kaybolur (önce kırmızı, sonra yeşil, sonra mavi), 1.000 m'de tam karanlığa kadar. Bir el belirir ve gözden kaybolur.
   - Fiziksel katmanları temsilin manevî katmanlarına eşleyen bir karanlık katmanları kartı.
@@ -68,3 +68,11 @@ built:
         - The sunlight zone reaches about 200 m. Below that, the twilight zone reaches about 1,000 m. Below about 1,000 m there is no sunlight at all.
         - The colour fade is drawn schematically from these three facts; it is not a measured colour curve.
         - The verse is a parable about the inner state of one without guidance. The drawing shows its physical picture, not its meaning.
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Present internal waves as an interesting modern reflection at most."
+    to: "Internal waves are, at most, an interesting modern reflection."
+  - from: "Keep the focus on the parable's meaning."
+    to: "The focus stays on the parable's meaning."

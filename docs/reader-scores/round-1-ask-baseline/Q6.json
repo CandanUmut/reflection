@@ -1,0 +1,84 @@
+{
+  "id": "Q6",
+  "path": "en/ask/women-and-equality/",
+  "group": "ask",
+  "words": 553,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "How exactly does inheritance work? Are there cases where women inherit equal or more?",
+        "What does 4:34 permit, according to which scholars? Is any hitting allowed?",
+        "If maintenance explains the inheritance gap, what about today, when women earn and support families?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 4, "fairness": 4, "clarity": 4, "honesty": 5 },
+      "satisfaction": 3,
+      "why": "The objection is only a list of verse numbers, and the answer stays vague (“Several rulings are tied to…”, “Many scholars restrict 4:34 sharply”), so the doubter leaves with the same question."
+    },
+    "outsider": {
+      "followUps": [
+        "What do 4:11, 2:282 and 4:34 actually say, and what does 'qiwāma' (male leadership) mean?",
+        "What does 'ḍarb' mean, and why do some say 'symbolic'?",
+        "What does 'equality vs. sameness' mean in this context?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 3, "fairness": 4, "clarity": 4, "honesty": 5 },
+      "satisfaction": 3,
+      "why": "The rulings are cited by number but not explained, “ḍarb” is never translated, and “Equality vs. sameness.” is a note, not an explanation."
+    },
+    "student": {
+      "followUps": [
+        "Which jurists and works limited ḍarb to symbolic, and what did each of the four schools rule?",
+        "Where do Ibn Taymiyya and Ibn al-Qayyim discuss 2:282?",
+        "What did Nadwi's al-Muhaddithat find about women scholars of hadith?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 4, "clarity": 4, "honesty": 5 },
+      "satisfaction": 4,
+      "why": "Muslim 2328 and Ibn Taymiyya/Ibn al-Qayyim on 2:282 are useful, but “many jurists” are unnamed, no school positions are given, and the sources listed (Nadwi, Ali, Barlas, Tuksal) are never used in the text."
+    },
+    "scientist": {
+      "followUps": [
+        "What evidence supports “Some injustices are custom, not text”?",
+        "Is there data on how these rulings are applied today, for example in Türkiye?",
+        "How does the testimony ruling relate to any evidence about memory or reliability?"
+      ],
+      "scores": { "answers": 4, "depth": 2, "evidence": 3, "fairness": 4, "clarity": 5, "honesty": 5 },
+      "satisfaction": 3,
+      "why": "Claims like “Some injustices are custom, not text” come with no evidence, and there is no data at all."
+    },
+    "hurting": {
+      "followUps": [
+        "My husband hits me and cites 4:34. Does Islam allow this?",
+        "Where can I get help for domestic violence, not just mental health?",
+        "Can I leave a marriage like this and still be a good Muslim?"
+      ],
+      "scores": { "answers": 3, "depth": 2, "evidence": 3, "fairness": 4, "clarity": 4, "honesty": 5 },
+      "satisfaction": 3,
+      "why": "The page shows 4:34 in full (“strike them”), but against it there is only “Many scholars restrict 4:34 sharply” and a Debated label. It never says clearly that abuse is wrong, and the support box has no domestic-violence help, so an abused reader is left alone."
+    },
+    "skeptic": {
+      "followUps": [
+        "Where are divorce, polygyny, hijab, guardianship and marriage age?",
+        "Which injustices are 'custom, not text', and which are text?",
+        "Who are the 'many scholars' and 'many jurists', and what did the majority historically hold?"
+      ],
+      "scores": { "answers": 3, "depth": 2, "evidence": 3, "fairness": 3, "clarity": 4, "honesty": 4 },
+      "satisfaction": 3,
+      "why": "Major topics are skipped, “Some injustices are custom, not text” deflects, and “many scholars” leaves the classical mainstream unclear, although the page does admit “some questions remain contested”."
+    }
+  },
+  "missing": [
+    "A clear statement on domestic violence and a domestic-violence help line in the support box",
+    "How inheritance actually works, including cases where women receive equal or more",
+    "Named jurists and the four schools' positions on 4:34 and ḍarb, and what the classical majority held",
+    "An explanation of qiwāma and of 'equality vs. sameness' in prose",
+    "Coverage of divorce, polygyny, hijab, guardianship and marriage age, or a clear note that they are elsewhere",
+    "Use the listed sources (Nadwi's women hadith scholars, Kecia Ali, Barlas, Tuksal) in the text",
+    "The objection stated at full strength in words, not just verse numbers"
+  ],
+  "strengths": [
+    "Quotes 4:34 in full, including 'strike them', instead of hiding it",
+    "Spiritual equality verses (33:35, 4:1, 16:97) shown",
+    "The Prophet never struck a woman (Muslim 2328)",
+    "Ibn Taymiyya and Ibn al-Qayyim limiting 2:282 to financial contracts",
+    "Admits the patriarchal-context objection and that reform on inheritance is contested"
+  ]
+}

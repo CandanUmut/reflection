@@ -9,6 +9,7 @@ import HundredParts from './HundredParts.astro';
 import HelpCard from './HelpCard.astro';
 import Medallion from './motifs/Medallion.astro';
 import Sources from './Sources.astro';
+import DeepAnswer from './DeepAnswer.astro';
 import { md, mdInline } from '../lib/md';
 import { t, type Locale, type UiKey } from '../i18n/ui';
 
@@ -19,6 +20,8 @@ interface Props {
 const { m, lang } = Astro.props;
 const sections = (['teachings', 'hadith', 'scholarship', 'evidence', 'stories'] as const).filter((k) => m[k]);
 const hundred = m.visualizations.find((v) => v.id === 'hundred-parts');
+// The deep page replaces the short sections in a language once all its parts exist there.
+const deep = !!m.fullAnswer?.length && m.fullAnswer.every((p) => p[lang]);
 ---
 
 <article class="moral">
@@ -33,17 +36,19 @@ const hundred = m.visualizations.find((v) => v.id === 'hundred-parts');
   </section>
   <Medallion />
   <div class="wrap">
-    {sections.map((k) => (
-      <section class="moral__section" aria-labelledby={`m-${k}`}>
-        <h2 id={`m-${k}`}>{t(lang, k as UiKey)}</h2>
-        <Fragment set:html={md(m[k]?.[lang], lang)} />
-        {k === 'hadith' && hundred && (
-          <HundredParts lang={lang} title={hundred[lang]} caption={hundred.caption?.[lang] ?? ''} />
-        )}
-      </section>
-    ))}
+    {deep && m.fullAnswer && <DeepAnswer lang={lang} parts={m.fullAnswer} followUps={m.followUps} heading="goDeeper" />}
+    {!deep &&
+      sections.map((k) => (
+        <section class="moral__section" aria-labelledby={`m-${k}`}>
+          <h2 id={`m-${k}`}>{t(lang, k as UiKey)}</h2>
+          <Fragment set:html={md(m[k]?.[lang], lang)} />
+          {k === 'hadith' && hundred && (
+            <HundredParts lang={lang} title={hundred[lang]} caption={hundred.caption?.[lang] ?? ''} />
+          )}
+        </section>
+      ))}
     <HonestNote lang={lang} label={t(lang, 'gapsLabel')}>
-      <Fragment set:html={md(m.gaps[lang], lang)} />
+      <Fragment set:html={md(m.gaps[lang] ?? m.gaps.en, lang)} />
     </HonestNote>
     {m.helpCard && <HelpCard lang={lang} variant={m.helpCard} />}
     <Sources sources={m.sources} lang={lang} />

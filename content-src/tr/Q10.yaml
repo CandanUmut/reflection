@@ -1,4 +1,5 @@
 slugs: { tr: namaz-ve-kuruluk, en: prayer-and-dryness }
+helpCard: general
 theme: worship
 title: Neden günde beş vakit namaz, ve neden hiçbir şey hissetmiyorum?
 verses: ["20:14", "23:1-2"]
@@ -19,7 +20,7 @@ layers:
   6: |
     [Debated] Yapılandırılmış ritüel belirsizlik altında kaygıyı azaltabilir; Müslüman namazı üzerine çalışmalar küçük örneklemlerde fizyolojik değişiklikler gösterir.
   7: |
-    "Hiçbir şey hissetmemek" her şeyi kapsıyorsa (yemek, arkadaşlar), bir ruh sağlığı kontrolü önerilmelidir. Abdesti tekrarlamak ya da namazın geçersiz olmasından korkmak klasik vesvesedir; klasik kural, bitirdikten sonraki aşırı şüpheyi dikkate almamaktır.
+    "Hiçbir şey hissetmemek" her şeyi kapsıyorsa (yemek, arkadaşlar), bir ruh sağlığı kontrolü yardımcı olabilir. Abdesti tekrarlamak ya da namazın geçersiz olmasından korkmak klasik vesvesedir; klasik kural, bitirdikten sonraki aşırı şüpheyi dikkate almamaktır.
 honest: |
   Beş sayısı, açık bir Kur'an sayısına değil, hadise ve uygulamaya dayanır. Hiçbir teknik duyguyu garanti etmez.
 visualization: |
@@ -29,3 +30,9 @@ visualization: |
 sourceLabels: ['Kur''an 20:14, 23:1–2', null, null, null, null, null, null, 'Diyanet İlmihali']
 sourceUrls:
   6: https://andcenter.org/tr/sosyoloji/sayilarla-turkiyede-inanc-ve-dindarlik/
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "suggest a mental-health check."
+    to: "a mental-health check can help."

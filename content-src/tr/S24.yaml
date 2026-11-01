@@ -30,8 +30,8 @@ reflection: |
   Âyetler yaratılışı bir süreç olarak anlatır: bir olan ayrılır, şekilsiz olan şekil alır ve hepsi Allah'ın emrine cevap verir. Göklerin ve yerin "isteyerek" itaati, reddetme imkânı olan tek varlık olan insana bir örnek olarak sunulur.
 honest: |
   - "Kur'an Büyük Patlama'yı anlattı" demek abartıdır. 21:30'un klasik okuması (göğü ve yeri yağmur ve bitkilerle yarmak) oldukça farklıdır ve erken evren duman değil, sıcak bir plazmaydı.
-  - Bir gaz ve toz bulutsusuna "duman gibi" demek makul bir modern tefekkürdür [Debated], ama tefekkür olarak etiketlenmelidir.
-  - Ayrıca 41:9–12'nin verdiği sıra (önce yer, sonra gökler) müfessirlerin 79:27–30 ile birlikte uzun uzun tartıştığı bir konudur. Bunu gizlemeden, tefsirdeki eski bir tartışma olarak sunmak gerekir.
+  - Bir gaz ve toz bulutsusuna "duman gibi" demek makul bir modern tefekkürdür [Debated], ama bir tefekkürdür ve öyle etiketlenir.
+  - Ayrıca 41:9–12'nin verdiği sıra (önce yer, sonra gökler) müfessirlerin 79:27–30 ile birlikte uzun uzun tartıştığı bir konudur. Bu, gizlenecek bir şey değil, tefsirde eski bir tartışmadır.
 visualization: |
   - "Buluttan sisteme" canlandırması: bir gaz bulutu çöker, dönerek bir diske dönüşür, Güneş tutuşur, gezegenler oluşur.
   - 21:30 için yan yana bir kart: İbn Abbâs'ın yağmur ve bitki okuması ile modern "ayrılan tek kütle" tefekkürü.
@@ -39,3 +39,11 @@ sourceLabels:
   - 'Taberî ve İbn Kesîr''in 21:30 ve 41:11 tefsirleri'
   - 'NASA, Güneş Sistemi''nin oluşumu üzerine genel bakışlar'
   - 'Guessoum, *Islam''s Quantum Question* — kozmoloji ve Kur''an bölümü'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Don't hide this; present it as an old discussion in tafsir."
+    to: "It is an old discussion in tafsir, not something to hide."
+  - from: "but it should be labelled as a reflection."
+    to: "but it is a reflection, and is labelled as one."

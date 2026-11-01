@@ -1,0 +1,83 @@
+{
+  "id": "S16",
+  "path": "en/reflect/mountains/",
+  "group": "reflect",
+  "words": 723,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "I've seen videos saying this verse is a scientific miracle. Is anything in that claim true, or should I drop it entirely?",
+        "If mountains don't stop earthquakes, what does 'lest it sway with you' mean?",
+        "Which classical reports say the earth was tilting before the mountains, and are they authentic?"
+      ],
+      "scores": { "answers": 7, "depth": 6, "evidence": 6, "fairness": 7, "clarity": 6, "honesty": 8 },
+      "satisfaction": 7,
+      "why": "The honest note ('mountains do not prevent earthquakes… Do not present the verse as saying mountains stop earthquakes') gives me something solid to hold, and the isostasy explanation is clear, though the meaning of 'lest it sway' is left vague."
+    },
+    "outsider": {
+      "followUps": [
+        "Why do Muslims care whether this verse fits geology? How common is the 'scientific miracle' approach?",
+        "What is a 'Scholarly reflection' as opposed to a science claim? What do the labels mean?",
+        "What did people in 7th-century Arabia understand by mountains as pegs?"
+      ],
+      "scores": { "answers": 7, "depth": 6, "evidence": 6, "fairness": 7, "clarity": 7, "honesty": 8 },
+      "satisfaction": 7,
+      "why": "The iceberg comparison and the plain separation of verse, tafsir, science and reflection make it easy to follow, but labels like 'Scholarly' and 'Established' are not explained, and the text version repeats the science section almost word for word."
+    },
+    "student": {
+      "followUps": [
+        "What exactly do al-Ṭabarī, al-Qurṭubī and Ibn Kathīr say on 16:15 and 78:7? Please quote them, with the reports they cite and their grading.",
+        "What does 'tamīda' mean linguistically, and how did the classical lexicons explain rawāsī and awtād?",
+        "What did al-Rāzī or other theologians say about why mountains are called pegs?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 5, "fairness": 6, "clarity": 6, "honesty": 8 },
+      "satisfaction": 5,
+      "why": "The tafsir layer is vague ('Some reports describe the earth as at first moving or tilting'): no report is quoted or graded, and none of the three commentators' actual words appear."
+    },
+    "scientist": {
+      "followUps": [
+        "What crust and mantle densities give the 'about five times' ratio, and how does Pratt isostasy compare with Airy?",
+        "Please cite primary or textbook sources (e.g. seismic studies of Tibetan crust) instead of Wikipedia and lecture notes.",
+        "A root is buoyant support, not a pin. Does the 'peg' image fit the physics, or only the shape?"
+      ],
+      "scores": { "answers": 7, "depth": 6, "evidence": 5, "fairness": 7, "clarity": 7, "honesty": 7 },
+      "satisfaction": 7,
+      "why": "The science is correct and has the right caveats ('The Airy rule describes broad ranges, not single peaks'; the drawing is schematic), but the sources are weak, and the reflection line 'fits a truth people could not see' edges toward foreknowledge."
+    },
+    "hurting": {
+      "followUps": [
+        "I lost family in the 2023 earthquake in Türkiye. If God set mountains 'lest it shift with you', why did the ground shake?",
+        "Is it wrong of me to find no comfort in this verse after an earthquake?",
+        "How can the earth be 'a stable home' when it can kill?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 7, "clarity": 6, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "The page honestly says mountain zones like Anatolia are among the most earthquake-prone places, which avoids false comfort, but it offers no word of compassion and no link to the suffering page for readers in quake regions."
+    },
+    "skeptic": {
+      "followUps": [
+        "'The \"peg\" image fits a truth people could not see' is soft concordism. Why claim the verse fits isostasy at all, if roots are buoyant support rather than pegs?",
+        "The classical commentators thought the earth was tilting before mountains were added. Isn't that the verse's plain meaning, and isn't it false?",
+        "Why not quote the classical reports in full so readers can judge them?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 5, "fairness": 6, "clarity": 6, "honesty": 6 },
+      "satisfaction": 6,
+      "why": "The honest note and the Press and Siever correction are real, but the reflection brings back a hint of hidden foreknowledge ('fits a truth people could not see') and never deals with the classical 'tilting earth' reading head on."
+    }
+  },
+  "missing": [
+    "Actual quotations from al-Ṭabarī, al-Qurṭubī and Ibn Kathīr, and the reports they cite, with grading",
+    "A plain discussion of 'lest it sway with you' (tamīda): what the classical reading was and whether it fits the science",
+    "The peg/root disanalogy (buoyant root vs a pin), so the reflection does not overclaim",
+    "Better science sources (textbook or peer-reviewed), and the densities behind the Airy ratio",
+    "A line of care for readers in earthquake zones, with a link to the suffering page",
+    "Remove the duplication between 'How it works' and the text version, and the stray 'Mountain height (km)' label"
+  ],
+  "strengths": [
+    "A strong, visible honest note: mountains do not prevent earthquakes, with Himalaya, Zagros and Anatolia named",
+    "Correct the misquoted Press and Siever 'confirmation'",
+    "Accurate science with numbers (70-75 km Tibetan crust, 30-40 km normal crust, Airy 1855) and honest caveats",
+    "The four layers are kept clearly apart",
+    "Clear iceberg comparison and a text version of the diagram"
+  ]
+}

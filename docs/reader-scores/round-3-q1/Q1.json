@@ -1,0 +1,87 @@
+{
+  "id": "Q1",
+  "path": "en/ask/suffering/",
+  "group": "ask",
+  "words": 4195,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "The free-will reply says 'If God stopped every wrong as it began, human choice would no longer be real', but the page also quotes Ibn al-Qayyim that God 'is the Creator of good and evil'. If God creates our acts and decrees everything (qadar), how is free will a reply at all?",
+        "What was the 'test' in millions of years of animal pain before any human existed? The page names this in the objection but the reply is only 6:38 and the hornless sheep.",
+        "If suffering here is answered by the hereafter, what about Hell? Does eternal suffering make the problem bigger, not smaller?"
+      ],
+      "scores": { "answers": 8, "depth": 8, "evidence": 8, "fairness": 8, "clarity": 7, "honesty": 9 },
+      "satisfaction": 8,
+      "why": "It states the objection at full strength (Rowe's fawn, the evidential version), gives real reasons and then says plainly 'This reply leans on the hereafter', so I leave with something I can hold on to, but the clash between the free-will reply and divine decree is left open."
+    },
+    "outsider": {
+      "followUps": [
+        "Who are the Mu'tazila, the Ash'aris, the Maturidis and the Hanbalis? Are they sects, schools or periods, and which one do most Muslims follow today?",
+        "Who is Tooley, and why is he the referee for the philosophy section? He is quoted four times but never introduced on the page.",
+        "What do the grade labels mean ('Ḥasan ṣaḥīḥ — al-Albānī; Ḥasan (good) — Zubair ʿAlī Zaʾī')? Who are these graders and why do they disagree?"
+      ],
+      "scores": { "answers": 8, "depth": 8, "evidence": 8, "fairness": 8, "clarity": 6, "honesty": 9 },
+      "satisfaction": 7,
+      "why": "I come away understanding what Muslims believe about suffering and why, and the critics get a fair hearing, but the theology section is dense with unexplained school names, and the grading badges break up the sentences."
+    },
+    "student": {
+      "followUps": [
+        "Who were al-Ghazali's main critics by name, and what were their works? The page says the sentence was 'fiercely disputed for centuries' but names none of them.",
+        "Where did Ibn Taymiyya write 'will without wisdom'? The page gives it only through Ormsby p. 47, not from his own work.",
+        "How do the Ash'ari doctrine of kasb (acquisition) and qadar fit with the free-will reply the page uses in its objections section?"
+      ],
+      "scores": { "answers": 8, "depth": 8, "evidence": 9, "fairness": 8, "clarity": 7, "honesty": 9 },
+      "satisfaction": 8,
+      "why": "Verses in context, eleven hadith with collection, number and grade, al-Qurtubi's two views on children and Ibn al-Qayyim's own chapter are real ilm; the gaps are al-Ghazali's named critics, Ibn Taymiyya from his own work, and qadar."
+    },
+    "scientist": {
+      "followUps": [
+        "The objection names 'millions of years of animal pain'. What does the page say about pain and predation in evolution, which existed long before humans: pain as a warning signal, and predation as a driver of natural selection?",
+        "How large were the coping effects in Pargament et al. 2000 and Ano and Vasconcelles 2005? 'Tend to cope better' and 'the pattern generally held' give no effect size.",
+        "Earthquakes are sent to another page. Can this page at least say in one or two sentences that plate tectonics, which causes earthquakes, is also tied to conditions that keep Earth habitable, if the research supports that?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 8, "clarity": 7, "honesty": 9 },
+      "satisfaction": 6,
+      "why": "The coping research is described correctly, with the right caveat ('a link, not a cause… not, by itself, evidence that a belief is true'), and nothing is overclaimed, but natural evil and animal pain over deep time, the scientific core of the question, get almost no treatment."
+    },
+    "hurting": {
+      "followUps": [
+        "I lost my child. The page reports al-Qurtubi's view that 'a child's suffering is a punishment for the child's parents'. Is that what I should believe? The page gives no word of care right after that line.",
+        "When al-Khidr says the parents get 'one better than him', does that mean my child was taken because he would have turned out bad?",
+        "What do I actually do on the bad days: which du'a, and how do I find a Muslim counsellor?"
+      ],
+      "scores": { "answers": 8, "depth": 8, "evidence": 8, "fairness": 8, "clarity": 8, "honesty": 9 },
+      "satisfaction": 8,
+      "why": "The first part I see ('Tears are not a failure of faith', the Prophet weeping, 'Is this a punishment? No one can know', 'Your safety comes first') is warm and true, and the helplines are there, but two lines deeper in (the view that children suffer as punishment for their parents, and the boy in al-Khidr's story) could wound a grieving parent and are not handled with the same care."
+    },
+    "skeptic": {
+      "followUps": [
+        "The free-will reply clashes with Islamic predestination: the page quotes 'He is the Creator of good and evil' and 'His decree… all good'. Where does the page face that God, on this view, creates the very acts the free-will defence blames on humans?",
+        "Al-Khidr kills a boy for what he would become. The page says it 'gives no one else permission', but does it make God's goodness harder to accept, not easier? Also: Hell, and the 'problem of heaven' (free will without evil there).",
+        "Is compensation in the next life (Muslim 2807) enough? Ivan Karamazov's point is that later bliss does not justify the child's suffering now."
+      ],
+      "scores": { "answers": 7, "depth": 7, "evidence": 8, "fairness": 7, "clarity": 7, "honesty": 9 },
+      "satisfaction": 7,
+      "why": "This is a real steelman with honest 'Limit' notes and Plantinga's 'tepid, shallow' quote, but it uses a free-will reply without admitting the predestination problem, and it leaves out Hell, the problem of heaven and the Karamazov objection."
+    }
+  },
+  "missing": [
+    "Facing the clash between the free-will reply and divine decree (qadar, kasb): the page uses free will ('human choice would no longer be real') and also quotes 'the Creator of good and evil' without bringing the two together.",
+    "A real answer on natural evil and animal pain over deep time: the objection names 'millions of years of animal pain' and earthquakes, but the reply is 6:38, the hornless sheep and a link to another page. Add what the research has on evolution, pain and predation, or record the gap.",
+    "Pastoral framing at the two painful points: al-Qurtubi's view that 'a child's suffering is a punishment for the child's parents', and the boy in al-Khidr's story. A grieving parent needs one sentence there that ties back to 'No one can know that about a particular person'.",
+    "Hell and the scale of suffering it adds, and the compensation objection (does later bliss justify present suffering?)",
+    "Introduce Tooley (author of the Stanford Encyclopedia of Philosophy entry) and the theological schools (Mu'tazila, Ash'ari, Maturidi, Hanbali) in one plain line each, and say which views most Sunni Muslims follow today.",
+    "Name al-Ghazali's critics and cite Ibn Taymiyya from his own work, not only through Ormsby.",
+    "Cut repetition: 14:42 appears three times, the hornless sheep three times, the hoof hadith twice, and 'The range of views' plus 'Questions readers ask next' repeat the body. That is about 300–400 words that could go to the gaps above."
+  ],
+  "strengths": [
+    "The objection at full strength, in plain words: Rowe's fawn, animal pain, and the evidential version stated correctly ('makes a good and all-powerful God unlikely').",
+    "'For the heart and mind' comes first and is visible when folded: the Prophet's tears (Bukhārī 1303), 'Is this a punishment? No one can know', 'Your safety comes first', plus the helplines. Keep this order.",
+    "Honest 'Limit' notes after each reply, plus 'Honest limits' ('No theodicy explains why a particular child suffers') and Plantinga's 'tepid, shallow and ultimately frivolous'.",
+    "The hard parts are not hidden: the boy in al-Khidr's story, the 42:30 verse, and al-Qurtubi's views on children.",
+    "Strong evidence: verse references, every hadith with collection, number and grade, named scholars with works and death dates, Ormsby, the SEP, and journal references for the coping studies.",
+    "The coping research comes with the right caveat: a link, not a cause, and not evidence that a belief is true.",
+    "The language is mostly simple and reads as prose, not notes."
+  ],
+  "lengthNote": "At 4,195 words (about 2,700 without the Arabic and transliteration), the length is earned for the doubter, student and skeptic: each section adds something new. The fold protects the hurting reader, who sees the short answer and the pastoral section first. Length hurts the outsider in the kalam section, which piles school names on top of each other, and some words are spent on repetition instead of the open gaps. The language is still simple except for a few phrases: 'sovereign unaccountability', 'reasons we can audit', 'volition', and the inline grading badges that break up the sentences."
+}

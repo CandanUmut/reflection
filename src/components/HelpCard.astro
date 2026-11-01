@@ -1,8 +1,11 @@
 ---
 // The gentle help card (DESIGN.md §4.7) for pages on suffering, grief,
-// disasters and vesvese. Quiet, never alarmist. Resources are the ones named
-// in the research (docs/research/02-batch-2.md, Task E): 112, university
-// clinics, AFAD psychosocial support.
+// disasters and vesvese. Quiet, never alarmist. Türkiye's resources are the
+// ones named in the research (docs/research/02-batch-2.md, Task E): 112,
+// community and university clinics, AFAD psychosocial support. For readers
+// anywhere else: Find A Helpline (ThroughLine), a free directory of verified
+// helplines in 175+ countries (checked 2026-10-31; see docs/CONTENT_GAPS.md).
+// English pages lead with the world, Turkish pages with Türkiye.
 import { t, type Locale } from '../i18n/ui';
 interface Props {
   lang: Locale;
@@ -20,6 +23,16 @@ const { lang, variant } = Astro.props;
   {variant === 'vesvese' && <p>{t(lang, 'helpVesvese')}</p>}
   {(variant === 'suffering' || variant === 'disaster') && <p>{t(lang, 'helpSuffering')}</p>}
   <ul>
+    {lang === 'en' && variant === 'urgent' && <li>{t(lang, 'helpLocalEmergency')}</li>}
+    {lang === 'en' && (
+      <li>
+        {t(lang, 'helpWorld')}{' '}
+        <a href="https://findahelpline.com/" lang="en">
+          Find A Helpline
+        </a>{' '}
+        {t(lang, 'helpWorldText')}
+      </li>
+    )}
     {variant === 'urgent' && (
       <li>
         {t(lang, 'helpEmergency')} <a href="tel:112">112</a>
@@ -27,12 +40,21 @@ const { lang, variant } = Astro.props;
     )}
     <li>{t(lang, 'helpClinics')}</li>
     {variant === 'disaster' && <li>{t(lang, 'helpAfad')}</li>}
-    <li>{t(lang, 'helpElsewhere')}</li>
     {variant !== 'urgent' && (
       <li>
         {t(lang, 'helpEmergency')} <a href="tel:112">112</a>
       </li>
     )}
+    {lang === 'tr' && (
+      <li>
+        {t(lang, 'helpWorld')}{' '}
+        <a href="https://findahelpline.com/" lang="en">
+          Find A Helpline
+        </a>{' '}
+        {t(lang, 'helpWorldText')}
+      </li>
+    )}
+    {(lang === 'tr' || variant !== 'urgent') && <li>{t(lang, 'helpLocalEmergency')}</li>}
   </ul>
 </aside>
 

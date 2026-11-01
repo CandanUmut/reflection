@@ -1,0 +1,83 @@
+{
+  "id": "Q21",
+  "path": "en/ask/slavery/",
+  "group": "ask",
+  "words": 615,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "If the Quran regulated slavery and concubinage, was it ever right? How should I think about God permitting it?",
+        "On what basis do scholars now say slavery is prohibited, if the Quran allowed it? Could it come back?",
+        "What does the Quran actually say about sex with 'those your right hands possess' (4:24, 23:5-6), and what did the scholars rule on consent?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 7, "clarity": 5, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "It refuses to dodge ('\"Islam abolished slavery\" is false') and names concubinage without consent as 'the hardest point', which I trust, but it gives no reasoning for how prohibition today fits with the text."
+    },
+    "outsider": {
+      "followUps": [
+        "How did people become slaves under Islamic law (war captives, purchase, birth), and what rights did they have?",
+        "What are the 'maqāṣid', and how do they lead to abolition?",
+        "How large was slavery in Muslim societies compared with the Atlantic trade?"
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 7, "clarity": 5, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "The page is balanced, and the Ottoman timeline is useful, but basics are missing (how slaves were acquired, what 'maqāṣid' means), and the title 'Slavery' doesn't even state the question."
+    },
+    "student": {
+      "followUps": [
+        "What did the madhhabs rule on concubinage and the umm walad, and what are the key verses (4:3, 4:24, 23:5-6)?",
+        "How did the modern consensus against slavery form: which scholars, which fatwas, on what legal reasoning?",
+        "Which hadith deal with how slaves must be treated (Bukhari 30 in full, and the hadith on striking a slave), and how are they graded?"
+      ],
+      "scores": { "answers": 6, "depth": 4, "evidence": 6, "fairness": 6, "clarity": 5, "honesty": 8 },
+      "satisfaction": 5,
+      "why": "The routes to freedom are well referenced (90:13, 4:92, 9:60, 24:33), but the concubinage verses and the madhhab rulings, the heart of the hard part, are missing, and Kecia Ali's work isn't even named."
+    },
+    "scientist": {
+      "followUps": [
+        "What are the best estimates of how many people were enslaved in the trans-Saharan, Red Sea and Indian Ocean trades?",
+        "What evidence is there on how often manumission actually happened, beyond what the law allowed?",
+        "When did slavery actually end in the Ottoman Empire, and what happened after the 1857 ban?"
+      ],
+      "scores": { "answers": 6, "depth": 4, "evidence": 5, "fairness": 7, "clarity": 5, "honesty": 8 },
+      "satisfaction": 5,
+      "why": "The dates are concrete (1847, 1854-55, 1857, 1962, 1981), but there are no numbers on scale or on how often slaves were freed, so I can't tell how far the ideals were lived."
+    },
+    "hurting": {
+      "followUps": [
+        "I am a descendant of enslaved people (or a woman troubled by concubinage). Does God see me as less? What does the faith say to me?",
+        "How did mainstream scholars respond to ISIS's enslavement of Yazidi women, in their own words?",
+        "Who were the Afro-Turks, and what is their story?"
+      ],
+      "scores": { "answers": 5, "depth": 4, "evidence": 5, "fairness": 6, "clarity": 5, "honesty": 8 },
+      "satisfaction": 5,
+      "why": "The honesty itself is respectful, but 'Descendants of enslaved people… may feel this personally. Honesty respects them.' is two curt sentences, and there is no word for women who find the concubinage texts painful."
+    },
+    "skeptic": {
+      "followUps": [
+        "The Prophet and Companions owned slaves and took captive women. Why does the page not say so plainly?",
+        "If the Quran was meant to end slavery gradually, why did it take 1,200 years and European pressure? 'The gradual path stalled' names the objection but doesn't answer it.",
+        "Did classical law require a slave woman's consent to sex? Please quote the jurists."
+      ],
+      "scores": { "answers": 6, "depth": 4, "evidence": 5, "fairness": 6, "clarity": 5, "honesty": 8 },
+      "satisfaction": 5,
+      "why": "The admissions are real ('no fully satisfying answer exists', 'Islamic slavery was gentle is cherry-picking'), but the concubinage texts are never quoted, the Prophet's own practice is never mentioned, and the scale of the trades is missing."
+    }
+  },
+  "missing": [
+    "The concubinage verses (4:3, 4:24, 23:5-6) and the classical rulings on consent, quoted and explained",
+    "How the modern prohibition is argued (consensus, maqāṣid, treaties), with named scholars and fatwas",
+    "How people were enslaved, what rights slaves had, and the Prophet's and Companions' own practice",
+    "Numbers: the scale of the slave trades in Muslim societies and how often slaves were actually freed",
+    "A pastoral word for descendants of the enslaved and for women troubled by these texts",
+    "A title that states the question; full titles for Kecia Ali (2010) and Toledano (1998); explain 'maqāṣid'"
+  ],
+  "strengths": [
+    "Blunt honesty: '\"Islam abolished slavery\" is false' and 'Concubinage without consent remains the hardest point, and no fully satisfying answer exists'",
+    "Well-referenced routes to freedom (90:13, 4:92, 5:89, 58:3, 9:60, 24:33, mukātaba, umm walad)",
+    "A concrete Ottoman and modern abolition timeline",
+    "Jonathan Brown's 'abolition is not indigenous to Islam' quoted alongside the reformist case",
+    "Mentions the condemnation of ISIS (Open Letter to al-Baghdadi)"
+  ]
+}

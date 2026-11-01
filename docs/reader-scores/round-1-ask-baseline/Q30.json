@@ -1,0 +1,83 @@
+{
+  "id": "Q30",
+  "path": "en/ask/afterlife/",
+  "group": "ask",
+  "words": 352,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "The page opens with 'the mind depends on the brain' and never answers it. If brain damage changes personality, what survives death?",
+        "What is the Quran's argument from the first creation, spelled out?",
+        "Is there any reason to believe beyond 'justice seems to require it'?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 5, "fairness": 5, "clarity": 5, "honesty": 8 },
+      "satisfaction": 4,
+      "why": "It is honest about NDEs, but the strongest objection it states (mind depends on brain) is never addressed, so the doubter leaves with it untouched."
+    },
+    "outsider": {
+      "followUps": [
+        "What exactly do Muslims believe happens after death: the grave, resurrection, judgement?",
+        "What does 'bodily resurrection' mean, and what did al-Ghazali argue?",
+        "What is Kant's moral argument, in a few sentences?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 5, "clarity": 5, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The NDE section is clear, but the outsider never learns what Muslims believe about the afterlife or what the named thinkers argued."
+    },
+    "student": {
+      "followUps": [
+        "What did al-Ghazali argue against the philosophers in the Tahafut (the twentieth discussion) about bodily resurrection?",
+        "What are the Quran's main arguments for resurrection (first creation, the reviving of dead earth, justice) with their verses and tafsir?",
+        "What do Mutahhari and Nursi (the Tenth Word?) actually argue from justice?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 5, "clarity": 5, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "'Al-Ghazali defended bodily resurrection. Mutahhari and Nursi argue from justice.' are names without content."
+    },
+    "scientist": {
+      "followUps": [
+        "In AWARE II, are the '40%' and '20%' percentages of the 53 survivors or of the smaller number interviewed? The denominator is unclear.",
+        "In AWARE I, how many reported awareness, and how many were verified?",
+        "What is the neuroscientific explanation of NDEs (hypoxia, REM intrusion, cortical surges), and how strong is it?"
+      ],
+      "scores": { "answers": 5, "depth": 5, "evidence": 7, "fairness": 6, "clarity": 6, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "Real numbers with journal references, the authors' own 'neither proved nor disproved' caveat, and 'No patient identified a hidden visual target' are exactly right, though denominators are unclear and the dying-brain hypothesis is not explained."
+    },
+    "hurting": {
+      "followUps": [
+        "I lost my father. Will I see him again? The page talks about evidence but says nothing about reunion.",
+        "What does Islam say about what the dead experience now?",
+        "I am not in Türkiye; where do I find grief support?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 4, "fairness": 5, "clarity": 5, "honesty": 7 },
+      "satisfaction": 4,
+      "why": "The page names grief as the reason people ask, then offers only a support box (mostly for Türkiye) and 'Complicated grief needs a clinician', which reads as cold."
+    },
+    "skeptic": {
+      "followUps": [
+        "Where is the response to mind-brain dependence, the actual strongest objection?",
+        "The 'first creation' argument assumes a Creator; is it evidence for an afterlife or only for its possibility given God?",
+        "The justice argument (Kant) is wishful: why should the universe be just?"
+      ],
+      "scores": { "answers": 4, "depth": 3, "evidence": 5, "fairness": 5, "clarity": 5, "honesty": 8 },
+      "satisfaction": 4,
+      "why": "The NDE honesty is appreciated, but the page states its strongest objection and walks past it, and the arguments from creation and justice are one line each."
+    }
+  },
+  "missing": [
+    "Respond to the mind-brain dependence objection (philosophy of mind: dualism, the hard problem, Islamic views of the soul)",
+    "Spell out the Quran's arguments for resurrection, with verses and tafsir",
+    "Say what al-Ghazali, Mutahhari and Nursi actually argued",
+    "Clarify AWARE II denominators and explain the dying-brain account of NDEs",
+    "Say what Islam teaches about the afterlife itself (barzakh, resurrection, reunion)",
+    "Warmer words for the grieving reader, and support that is not only for Türkiye",
+    "Phrase the title as a question, like the other pages"
+  ],
+  "strengths": [
+    "Concrete NDE data with journal references (AWARE I 2014, AWARE II Resuscitation 2023)",
+    "Very honest: 'NDEs are not proof. No patient identified a hidden visual target.' and the authors' own caveat",
+    "Support box is present on a page about grief",
+    "States the materialist objection fairly at the top"
+  ]
+}

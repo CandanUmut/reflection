@@ -1,0 +1,125 @@
+{
+  "id": "Q22",
+  "path": "en/ask/banu-qurayza/",
+  "group": "ask",
+  "words": 650,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "If the verdict only 'matched the war norms of the time', how is the Prophet a moral model beyond his time on this point?",
+        "Were boys judged 'adult' by checking for pubic hair, as I have seen online, and is that report authentic?",
+        "What about the wider question in the title, the Prophet's other wars and verses like 9:5 and 9:29?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 6,
+        "clarity": 5,
+        "honesty": 8
+      },
+      "satisfaction": 5,
+      "why": "It does not hide the event and says 'No answer removes the moral weight', which I respect, but the defence leans on 'war norms of the time (cf. Deuteronomy 20)', which is exactly the relativism that unsettled me, and the 'Prophet's wars' half of the title is barely touched."
+    },
+    "outsider": {
+      "followUps": [
+        "What was the treaty (the Constitution of Medina?), what exactly did Qurayẓa do, and how do we know?",
+        "Who were Saʿd b. Muʿādh and Ibn Isḥāq, and how long after the events were the sources written?",
+        "What happened to the other Jewish tribes of Medina (Qaynuqāʿ, Naḍīr)?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 6,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "I get the basic shape and a fair note that 'critics reply that context explains but does not justify', but key background (the treaty, the siege, the dates of the sources) is assumed."
+    },
+    "student": {
+      "followUps": [
+        "What does Bukhārī 4121 say exactly, and which other ṣaḥīḥ reports (e.g. on judging adulthood, Abū Dāwūd 4404) relate to the event?",
+        "How did classical mufassirūn read 33:26, and how did jurists use the case in siyar (law of war)?",
+        "What were Arafat's specific arguments, and Kister's replies, point by point?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 7,
+        "fairness": 7,
+        "clarity": 6,
+        "honesty": 8
+      },
+      "satisfaction": 6,
+      "why": "Solid anchors (22:39–40, 2:190, 33:26, Bukhārī 3015, Muslim 1744, 4121, Arafat 1976, Kister 1986), but each gets one line and the Arafat–Kister debate is summarised, not shown."
+    },
+    "scientist": {
+      "followUps": [
+        "Why do the figures range so widely, '40 to 900', and which source gives which number?",
+        "The page says '400–900', then '600–900', then 'about 40 to 900': which is the best estimate and why?",
+        "What is the archaeological or non-Muslim evidence, if any?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 3,
+        "evidence": 5,
+        "fairness": 6,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 4,
+      "why": "The numbers are inconsistent across the page ('400–900', '600–900', 'about 40 to 900') with no explanation of where the low figure comes from, so I cannot judge the evidence."
+    },
+    "hurting": {
+      "followUps": [
+        "As a Jewish reader, or a Muslim with Jewish friends, how should I talk about this without it turning into hostility?",
+        "How do I love the Prophet when this story disturbs me?",
+        "Are there Muslim scholars who openly say this was wrong?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 7,
+        "clarity": 6,
+        "honesty": 8
+      },
+      "satisfaction": 5,
+      "why": "'Love for the Prophet and moral unease can coexist' and 'It must never be used against Jews today' are the right notes, but each is a single line with nothing to lean on."
+    },
+    "skeptic": {
+      "followUps": [
+        "Deuteronomy 20 is a polemical comparison; does the site accept that a divine law and a Bronze-Age war code are morally equal? If not, why cite it?",
+        "Saʿd was wounded by the Qurayẓa's allies and is reported to have prayed for revenge; was he a neutral arbiter? Did the Prophet endorse the verdict as 'God's judgement' (Bukhārī 4121)?",
+        "Why not address 9:5, 9:29 and the expansion campaigns, which the title promises?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 6,
+        "clarity": 5,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "It cites both Arafat and Kister and admits 'the core event is probably historical', but it calls Saʿd a 'former ally' without the context critics raise, and the Deuteronomy comparison is offered as a defence without being examined."
+    }
+  },
+  "missing": [
+    "Consistent, explained casualty figures: which source gives 40, 400, 600, 900, and the likeliest range",
+    "Background: the treaty, what the breach was, timeline of the siege, and how late the sources are (Ibn Isḥāq ~ a century later)",
+    "The 'Prophet's wars' half of the title: other campaigns, 9:5 and 9:29 and their classical and modern readings",
+    "The Arafat and Kister arguments shown point by point",
+    "Saʿd's role examined (neutrality, the Prophet's endorsement of the verdict) and the report on judging adulthood",
+    "Fuller section for Jewish readers and for Muslims who feel the unease"
+  ],
+  "strengths": [
+    "Does not deny or soften the event; 'No answer removes the moral weight'",
+    "Names Arafat (1976) and Kister (1986) and says most historians follow Kister",
+    "Puts the critics' reply fairly: 'context explains but does not justify'",
+    "Clear ethical line: 'It must never be used against Jews today', no collective guilt",
+    "Cites rules of war (2:190, Bukhārī 3015, Muslim 1744)"
+  ]
+}

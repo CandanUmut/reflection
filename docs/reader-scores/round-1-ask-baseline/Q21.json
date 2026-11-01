@@ -1,0 +1,126 @@
+{
+  "id": "Q21",
+  "path": "en/ask/slavery/",
+  "group": "ask",
+  "words": 615,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "If God allowed slavery and sex with captives, was it ever morally right? How do I hold that together with God being just?",
+        "On what grounds do scholars now say slavery is prohibited if the Quran allowed it, and could a future group (like ISIS) bring it back legitimately?",
+        "Did the Prophet himself own slaves or concubines, and how should I think about that?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 7,
+        "clarity": 5,
+        "honesty": 8
+      },
+      "satisfaction": 5,
+      "why": "I trust a page that says '\"Islam abolished slavery\" is false' and admits concubinage without consent has 'no fully satisfying answer', but the reasoning for why slavery is now prohibited is one clause ('scholarly consensus and the maqāṣid now support it')."
+    },
+    "outsider": {
+      "followUps": [
+        "How did people become slaves under Islamic law (capture in war, birth, purchase), and what rights did they have?",
+        "What does 'maqāṣid' mean and how does it lead to abolition?",
+        "How does slavery in Muslim lands compare in scale and treatment with the Atlantic slave trade?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 7,
+        "clarity": 5,
+        "honesty": 8
+      },
+      "satisfaction": 5,
+      "why": "The Ottoman timeline and the plain admission that abolition 'did not grow out of classical law' are useful, but the basics of how the system worked are missing and much of it is bullet notes."
+    },
+    "student": {
+      "followUps": [
+        "Which verses govern relations with 'those your right hands possess' (4:24, 23:5–6, 70:29–30), and how did the classical tafsīr and fiqh read them?",
+        "What is the grading and full text of 'Your slaves are your brothers' (Bukhārī 30), and which other hadith on emancipation and treatment matter?",
+        "How did ʿAbduh, Riḍā and Ibn ʿĀshūr argue the 'aim of freedom', in which works?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 7,
+        "clarity": 5,
+        "honesty": 8
+      },
+      "satisfaction": 5,
+      "why": "Good verse list for emancipation (90:13, 4:92, 5:89, 58:3, 9:60, 24:33), but the verses on concubinage that cause the question are not cited, and the reformists are named without their arguments or works."
+    },
+    "scientist": {
+      "followUps": [
+        "How many people were enslaved in Muslim-ruled lands over time, and what are the estimates and their uncertainty?",
+        "What evidence supports Pérouse de Montclos's claim that Islam produced no abolitionist movement?",
+        "Does modern slavery persist in Mauritania or elsewhere despite legal abolition, and what are the numbers?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 7,
+        "clarity": 6,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "Dates (1847, 1854–55, 1857, 1962, 1981) are concrete, but there are no numbers on scale and no data on what happened after legal abolition."
+    },
+    "hurting": {
+      "followUps": [
+        "My ancestors were enslaved, possibly by Muslims: does my faith have anything to say to me beyond 'honesty respects you'?",
+        "How do Afro-Turkish or Black Muslim scholars and communities talk about this history?",
+        "Is the dignity of enslaved people affirmed anywhere in the sources, beyond legal paths to freedom?"
+      ],
+      "scores": {
+        "answers": 5,
+        "depth": 3,
+        "evidence": 5,
+        "fairness": 7,
+        "clarity": 5,
+        "honesty": 8
+      },
+      "satisfaction": 4,
+      "why": "'Descendants of enslaved people, such as Afro-Turks, may feel this personally. Honesty respects them.' is true but is two sentences; a reader with this history is acknowledged and then left."
+    },
+    "skeptic": {
+      "followUps": [
+        "Why are 4:24, 23:5–6 and 33:50 not quoted, and what did classical law rule on a captive woman's consent and on ʿazl with captives (Bukhārī, Muslim)?",
+        "If the gradual path 'stalled for 1,200 years', what makes the 'Sharia aims at freedom' reading more than hindsight?",
+        "Did the Prophet own, buy, sell or gift slaves, and take concubines (e.g. Māriya, Rayḥāna)?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 5,
+        "fairness": 6,
+        "clarity": 5,
+        "honesty": 8
+      },
+      "satisfaction": 5,
+      "why": "The steelman is short but stated, and the 1,200-year objection is put honestly, yet the most damaging texts (concubinage verses, the Prophet's own household) are absent, which looks like selection even if not meant."
+    }
+  },
+  "missing": [
+    "Quote and explain the concubinage verses (4:24, 23:5–6, 33:50) and the classical rulings on consent",
+    "What the Prophet himself did (slaves and concubines in his household), stated openly",
+    "How the system worked: sources of slaves, legal rights, scale, compared with other slave systems",
+    "The actual argument for prohibition today (consensus, maqāṣid, treaties), explained step by step with named works",
+    "Hadith gradings and fuller text for Bukhārī 30 and other key reports",
+    "More than two sentences for descendants of enslaved people",
+    "Turn bullet notes into connected prose"
+  ],
+  "strengths": [
+    "Refuses the apologetic myths: '\"Islam abolished slavery\" is false. \"Islamic slavery was gentle\" is cherry-picking.'",
+    "Admits concubinage without consent has 'no fully satisfying answer'",
+    "Ottoman abolition timeline with dates, plus Saudi Arabia 1962 and Mauritania 1981",
+    "Brown (2019) quote 'abolition is not indigenous to Islam' presented honestly",
+    "Clear list of emancipation verses with references"
+  ]
+}

@@ -19,9 +19,9 @@ layers:
   6: |
     Hafıza araştırması: resmî ezber kültürleri yüksek sadakatle aktarır; gündelik anekdot ise kayar.
   7: |
-    Kur'ancılık çoğu zaman rahatsız edici metinlerden bir kurtuluştur. Bunu kabul etmek, sonra Sünnet'i koruyan klasik araçları (derecelendirme, bağlam, delil hiyerarşisi) göstermek gerekir.
+    Kur'ancılık çoğu zaman rahatsız edici metinlerden bir kurtuluştur. Bu rahatlama gerçektir; klasik araçlar (derecelendirme, bağlam, delil hiyerarşisi) ise Sünnet'i koruyan başka bir yol sunar.
 honest: |
-  Bazı sahih hadisler ciddi akademisyenlerce tartışılmaktadır; klasik derecelendirme güçlüdür ama yanılmaz değildir. "Buhârî'deki her rivayet kesindir" de, "bütün hadisler uydurmadır" da denmemelidir.
+  Bazı sahih hadisler ciddi akademisyenlerce tartışılmaktadır; klasik derecelendirme güçlüdür ama yanılmaz değildir. İki uç da tutmaz: ne "Buhârî'deki her rivayet kesindir", ne de "bütün hadisler uydurmadır".
 visualization: |
   - Klasik ve ICMA görüşleri arasında geçiş yapan, bir "ortak halka"da birleşen etkileşimli bir isnad ağacı.
   - Mütevatirden mevzuya bir derecelendirme yelpazesi kartı.
@@ -29,3 +29,11 @@ visualization: |
 sourceLabels: [null, null, null, null, null, null, null, 'TDV İslâm Ansiklopedisi, "Hadis"']
 sourceUrls:
   3: https://www.academia.edu/165206810/Tarihten_G%C3%BCn%C3%BCm%C3%BCze_Kur_an_ile_Yetinme_S%C3%B6yleminin_Kriti%C4%9Fi
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Acknowledge that, then show classical tools (grading, context, evidence hierarchy) that keep the Sunna."
+    to: "That relief is real; the classical tools (grading, context, the hierarchy of evidence) offer another way, one that keeps the Sunna."
+  - from: "Avoid \"every Bukhārī report is certain\" and \"all hadith are fabricated\"."
+    to: "Neither extreme holds: not \"every Bukhārī report is certain\", and not \"all hadith are fabricated\"."

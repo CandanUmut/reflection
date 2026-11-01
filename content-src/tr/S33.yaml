@@ -31,7 +31,7 @@ awe: |
 reflection: |
   Âyet meyvelerden dağlara, insanlara ve hayvanlara, oradan da bilgiye geçer. Rengin nasıl oluştuğunu öğrendikçe hayret için daha çok sebep bulunur. Bu, saygıya giden bir yol olarak bilime doğrudan bir davettir.
 honest: |
-  Âyet çeşitliliği kutlar; pigmentleri ya da yapısal rengi anlatmaz. Bilimi, gerçekleşmiş bir öngörü olarak değil, âyetin davet ettiği şeyi daha derinden takdir etmenin bir yolu olarak sunmak gerekir.
+  Âyet çeşitliliği kutlar; pigmentleri ya da yapısal rengi anlatmaz. Bilim, gerçekleşmiş bir öngörü değil, âyetin davet ettiği şeyi daha derinden takdir etmenin bir yoludur.
 visualization: |
   - Bir "doğada renk" gezgini: bir yaprağa, bir havuca, bir kelebek kanadına, kırmızı bir dağa ya da tene dokunun ve renginin pigmentten mi, yapıdan mı, minerallerden mi geldiğini görün.
   - Yapı bozulunca mavinin kaybolduğu bir "kanadı öğüt" gösterimi.
@@ -39,3 +39,9 @@ sourceLabels:
   - 'EarthDate — Boyaların pigmente ihtiyaç duymadığı zaman'
   - 'KQED — Morpho kelebeğine o muhteşem maviyi ne verir?'
   - 'Râzî ve İbn Kesîr''in 35:27–28 tefsirleri'
+
+# Research sentences written to the site's makers, reworded as statements for
+# readers with the meaning kept (reader-critic round 0; Umut's review 2026-10-31).
+enEdits:
+  - from: "Present the science as a way to deepen appreciation of what the verse invites, not as a fulfilled prediction."
+    to: "The science is a way to deepen appreciation of what the verse invites, not a fulfilled prediction."
