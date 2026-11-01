@@ -72,6 +72,9 @@ const paletteCss = [
     {description && <meta name="description" content={description} />}
     {standalone && <meta name="robots" content="noindex" />}
     <link rel="icon" href={url('favicon.svg')} type="image/svg+xml" />
+    <link rel="manifest" href={url('manifest.webmanifest')} />
+    <link rel="apple-touch-icon" href={url('icons/apple-touch-icon.png')} />
+    <meta name="apple-mobile-web-app-title" content="Tefekkür" />
     {/* Preload only what paints the largest text first: the Arabic verse on item
         pages, the italic verse of the day on the home page. */}
     {arabic && <link rel="preload" href={amiri} as="font" type="font/woff2" crossorigin />}
@@ -98,6 +101,12 @@ const paletteCss = [
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="theme-color" content={palettes.day.paper} />
     <script is:inline set:html={paletteScript} />
+    {import.meta.env.PROD && (
+      <script
+        is:inline
+        set:html={`if('serviceWorker' in navigator)addEventListener('load',()=>navigator.serviceWorker.register('${url('sw.js')}',{scope:'${url('')}'}).catch(()=>{}));`}
+      />
+    )}
     <style is:global set:html={paletteCss} />
   </head>
   <body>
