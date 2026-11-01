@@ -147,7 +147,7 @@ Wealth is a trust: it must be earned fairly, shared — zakat is the poor's righ
 ### Questions readers ask next
 **Is all bank interest *riba*?** Most fiqh councils, including the International Islamic Fiqh Academy (1985), say yes; a minority, including Al-Azhar's Islamic Research Academy (2002), allowed fixed returns on bank investment. [Debated]
 
-**What is zakat?** An obligatory yearly 2.5% of savings above the *nisab*, given to the eight groups the Quran names (9:60); see "Zakat in brief" above.
+**What is zakat?** An obligatory yearly 2.5% of savings above the *nisab*, given to the eight groups the Quran names (9:60); see the section on the law above.
 
 **Does charity really not decrease wealth?** The hadith says so {hadith:muslim:2588}; scholars understand it as blessing and reward, not as an accounting promise.
 

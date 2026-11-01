@@ -91,6 +91,7 @@ for (const id of [...ids].sort((a, b) => a.localeCompare(b) || a.slice(1) - b.sl
     const out = {
       ...item,
       ...layer('summary', 'In brief'),
+      ...layer('verseNotes', 'Verse note'),
       ...layer('tafsir', 'Classical tafsir'),
       ...layer('howItWorks', 'How it works'),
       ...layer('reflection', 'The reflection'),

@@ -78,19 +78,33 @@ The verses walk through stages, from clay to drop to clinging clot to bones cove
 ### In brief
 Night, day, sun and moon keep a measured order: "each, in an orbit, is swimming" (36:40). That order makes calendars and prayer times possible.
 
+### Verse note
+The sun "runs [on course] toward its stopping point" (36:38); "each, in an orbit, is swimming" (36:40). The word for orbit, *falak*, means a rounded course; classical writers also used it for the heavenly spheres.
+
 ### Sources read
 - Ibn Kathir, *Tafsir* (abridged English, Quran.com), on 36:37–38.
 
 ### Classical tafsir
-**Two views of "its fixed course".** Ibn Kathir reports two views on "the sun runs on its fixed course for a term". The first is that it refers to a place "beneath the Throne"; he describes the Throne as "a dome supported by legs or pillars" and says it is "not a sphere as many astronomers claim" — the cosmology of his time. The second is that it runs until an appointed term, the end of the world. He cites the hadith of the sun prostrating beneath the Throne (Bukhari 3199, 4802) and the reading of Ibn Mas'ud and Ibn 'Abbas that the sun has "no resting place". Later scholars read the prostration as obedience. [Scholarly]
+**Two views of the sun's "stopping point".** Ibn Kathir (whose translator renders the phrase as "its fixed course for a term") reports two views on "toward its stopping point" (36:38). The first is that it refers to a place "beneath the Throne"; he describes the Throne as "a dome supported by legs or pillars" and says it is "not a sphere as many astronomers claim" — the cosmology of his time. He adds: "Wherever it goes, it is beneath the Throne, it and all of creation". The second is that it runs until an appointed term, the end of the world. He cites the hadith of the sun prostrating beneath the Throne (Bukhari 3199, 4802) and the reading of Ibn Mas'ud and Ibn 'Abbas that the sun has "no resting place". Later scholars read the prostration as obedience. [Scholarly]
 
 ### The reflection
 Night, day, sun and moon keep their order: "each, in an orbit, is swimming" (36:40). The verses call this "the determination of the Exalted in Might, the Knowing" (36:38). That order is what makes calendars, prayer times and fasting possible: Muslims time the month by the moon's phases and the prayers by the sun. The classical commentators did not share our astronomy, and this page does not pretend they did. What they saw, and what still holds, is that the sky is reliable, and that a reliable sky is a gift people did not arrange.
 
+### How it works
+[Established]
+
+- **The moon's phases (36:39).** The Moon goes once around the Earth in 27.3 days, measured against the stars. But a full cycle of phases, new moon to new moon, takes 29.5 days, because the Earth has moved along its own path around the Sun in the meantime, and the Moon needs about two more days to line up with the Sun again. That 29.5-day cycle is the length of an Islamic month.
+- **The sun runs (36:38).** The Sun is not fixed: it carries the whole solar system around the centre of our galaxy, one circuit in about 230 million years.
+- **Each in its course (36:40).** The Moon slowly moves away from the Earth: NASA JPL laser ranging off the Apollo 11, 14 and 15 retroreflectors shows about 3.8 cm (1.5 inches) a year, with days lengthening about 1.7 ms per century. The order is steady, and measurable to the centimetre.
+- **Seasons.** The Earth's 23.4° axial tilt gives the seasons, which is why prayer times shift through the year.
+
 ### Questions readers ask next
-**Did classical scholars think the sun goes around the earth?** Classical cosmology was geocentric, and Ibn Kathir's comments reflect it; this page does not claim the verse described modern astronomy (see the honest notes).
+**Did classical scholars think the sun goes around the earth?** Classical cosmology was geocentric, and Ibn Kathir's comments reflect it; this page does not claim the verse described modern astronomy (see the honest note).
 
 **What does the sun's "prostration" mean?** Many scholars read it as obedience to God's order, not a physical bow.
+
+
+**The hadith says the sun prostrates beneath the Throne after it sets — but the sun is always rising somewhere. How can that be?** This is a real objection. Ibn Kathir's own answer is that the sun is always beneath the Throne: "Wherever it goes, it is beneath the Throne". Many scholars read the prostration as obedience, not a physical event at one place. A reader may or may not find this convincing; the page shows the hadith and the readings rather than hiding them.
 
 ---
 
