@@ -1,0 +1,45 @@
+---
+// Shown by the service worker when the reader is offline and opens a page they
+// have not opened before. Both languages on one page: the language is unknown here.
+import Base from '../layouts/Base.astro';
+import { localeUrl } from '../lib/paths';
+---
+
+<Base lang="tr" title="Çevrimdışı · Offline" standalone>
+  <div class="wrap offline">
+    <img src={`${import.meta.env.BASE_URL.replace(/\/?$/, '/')}logo.svg`} alt="" width="96" height="96" />
+    <h1>Şu an çevrimdışısınız</h1>
+    <p>
+      Bu sayfa henüz bu cihaza kaydedilmedi. Daha önce açtığınız sayfalar internet olmadan da okunabilir. İnternete
+      yeniden bağlandığınızda bu sayfa da açılır.
+    </p>
+    <p>
+      <a href={localeUrl('tr')}>Ana sayfa</a> · <a href={localeUrl('tr', 'bahce/')}>Bahçem</a>
+    </p>
+    <section lang="en">
+      <h2>You are offline</h2>
+      <p>
+        This page has not been saved on this device yet. Pages you have opened before can be read without the internet.
+        When you are back online, this page will open too.
+      </p>
+      <p>
+        <a href={localeUrl('en')}>Home</a> · <a href={localeUrl('en', 'garden/')}>My garden</a>
+      </p>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .offline {
+    text-align: center;
+    padding-block: var(--space-6);
+  }
+  .offline img {
+    border-radius: 22%;
+  }
+  .offline section {
+    margin-top: var(--space-6);
+    padding-top: var(--space-5);
+    border-top: var(--rule);
+  }
+</style>

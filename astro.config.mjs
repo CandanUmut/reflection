@@ -1,5 +1,6 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
+import pwa from './integrations/pwa.mjs';
 
 // GitHub Pages serves the site from /reflection/ (the repository name).
 export default defineConfig({
@@ -7,6 +8,8 @@ export default defineConfig({
   base: '/reflection',
   trailingSlash: 'always',
   output: 'static',
+  // Installable, readable offline: writes dist/sw.js after the build.
+  integrations: [pwa()],
   i18n: {
     defaultLocale: 'tr',
     locales: ['tr', 'en'],
