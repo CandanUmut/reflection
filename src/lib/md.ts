@@ -99,11 +99,13 @@ function hadithRefs(html: string, lang: Locale): string {
       // al-Albānī leads where he graded it; any grader who reaches a different
       // kind of grade is shown too, so disagreement is visible.
       const gs = [...h.grades].sort((a, b) => Number(b.by === 'Al-Albani') - Number(a.by === 'Al-Albani'));
+      // Sahih and hasan are both accepted; only a grader who puts the report in
+      // another group (weak, or a Companion's saying) is shown as disagreeing.
       const read = gs.map((g) => ({ ...readGrade(g.grade), by: GRADER[g.by]?.[lang] ?? g.by }));
-      const shown = [read[0], ...read.slice(1).filter((g) => g.kind !== read[0].kind)];
+      const group = (k: string) => (k === 'sahih' || k === 'hasan' ? 'accepted' : k);
+      const shown = [read[0], ...read.slice(1).filter((g) => group(g.kind) !== group(read[0].kind))];
       label = shown.map((g) => `${g[lang]} — ${g.by}`).join('; ');
-      const kinds = new Set(shown.map((g) => g.kind));
-      kind = kinds.size > 1 ? 'mixed' : [...kinds][0];
+      kind = new Set(shown.map((g) => group(g.kind))).size > 1 ? 'mixed' : read[0].kind;
     }
     return `<span class="hadith"><span class="hadith__ref">${ref}</span> <span class="grade grade--${kind}">${label}</span></span>`;
   });

@@ -43,3 +43,7 @@ Things the site needs that the research docs do not (yet) provide, and places wh
 ## Found in the visualizations (Phase 3)
 - **S14 Ḥanafī ʿAṣr rule.** The sundial uses "twice the object's length plus its noon shadow", the usual fiqh wording; the research says only "twice the object's length". A scholar (or Diyanet's İlmihal) should confirm, and the research should be corrected to match.
 - **Editorial inputs** (not in the research, but needed to draw): Istanbul at 41° N and Mecca at 21.4° N (S14); the lunar drift of about 11 days a year, computed from the research's 354-day lunar year (S21); normal crust drawn at 35 km, inside the research's 30–40 km (S16).
+
+## Phase 6
+
+- **Q1, natural evil and animal pain:** the page answers suffering from nature and animal pain over deep time only from the Quran and hadith (2:155; 6:38; Muslim 2582) and the philosophical natural-law argument (Tooley, SEP). No source was read on the science of animal pain, predation and evolution in relation to theodicy, so the page does not discuss it. Readers (the scientist) ask for it.

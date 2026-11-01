@@ -9,7 +9,7 @@ One file per phase (e.g. `07-ask-deep-I.md`), one section per question. Every cl
 - Hadith are cited as tokens, `{hadith:collection:number}` (sunnah.com numbering; Muslim by Abd al-Baqi). The page adds the grade from the data; never type a grade by hand.
 - Not centred on Türkiye: Türkiye can be one example among others.
 - Honest notes and honest limits never go inside the full answer, which may be folded behind "Read the full answer"; they go under "Honest limits", which is always visible.
-- Write "the Prophet" (Turkish: "Hz. Peygamber"); the ﷺ glyph is not in the site's fonts.
+- Honorifics (Umut, 2026-10-31), outside quotations: English "the Prophet (pbuh)" and "(pbuh)" after other prophets (Moses (pbuh)); Turkish "Hz. Peygamber (s.a.v.)" and "(a.s.)" after other prophets (Mûsâ (a.s.)). A Companion named as a narrator gets "(ra)" / "(r.a.)". Never change a verbatim Quran or hadith quotation. The ﷺ glyph is not in the site's fonts, so it is not used.
 
 ## Template
 

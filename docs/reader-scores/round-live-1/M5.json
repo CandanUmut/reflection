@@ -1,0 +1,116 @@
+{
+  "id": "M5",
+  "path": "en/live/gratitude-and-patience/",
+  "group": "live",
+  "words": 755,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "How do I stay grateful when 14:7 promises 'increase' but my life is getting worse?",
+        "What does 'My punishment is severe' mean for someone who struggles to feel grateful?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 7,
+        "fairness": 5,
+        "clarity": 8,
+        "honesty": 7
+      },
+      "satisfaction": 6,
+      "why": "The 'good in both' hadith and the 'patience is not doing nothing' line help, but the hard part of 14:7 is not explained."
+    },
+    "outsider": {
+      "followUps": [
+        "What is 2:156, which the page cites but never quotes?",
+        "What does 'without account' in 39:10 mean?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 6,
+        "clarity": 7,
+        "honesty": 7
+      },
+      "satisfaction": 5,
+      "why": "Short and readable, but some references (2:156, 'see the question on suffering') point elsewhere instead of explaining."
+    },
+    "student": {
+      "followUps": [
+        "Where does al-Ghazali say faith is half patience and half gratitude (Ihya', Kitab al-sabr wa'l-shukr), and is it also narrated as a hadith?",
+        "What is the full story behind 'real patience is at the first stroke' (Bukhari 1302, the woman at the grave)?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 7,
+        "fairness": 5,
+        "clarity": 7,
+        "honesty": 7
+      },
+      "satisfaction": 6,
+      "why": "Five graded hadith are good, but the scholars section is one sentence and the weeping-at-his-son's-death claim has no reference on this page."
+    },
+    "scientist": {
+      "followUps": [
+        "What is the 2023 meta-analysis (authors, journal), and what counts as an 'active control'?",
+        "Is there research on patience or acceptance-based approaches, not only gratitude?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 6,
+        "evidence": 8,
+        "fairness": 8,
+        "clarity": 7,
+        "honesty": 9
+      },
+      "satisfaction": 7,
+      "why": "Real effect sizes with honest caveats ('Gratitude is good practice, not a cure') are exactly right, though the 2023 study is not named."
+    },
+    "hurting": {
+      "followUps": [
+        "I am grieving now; is it wrong that I did not manage patience 'at the first stroke'?",
+        "How do I say 'thank you' to God while I am angry about a loss?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 7,
+        "clarity": 8,
+        "honesty": 8
+      },
+      "satisfaction": 6,
+      "why": "'Be patient must never be used to keep someone in abuse' and 'not about not feeling' are kind, but 'real patience is at the first stroke' without its context can feel like a judgement on someone who broke down."
+    },
+    "skeptic": {
+      "followUps": [
+        "Isn't 14:7's promise of 'increase' unfalsifiable, and how does the page read it for people who are grateful and still lose?",
+        "Why is Muslim 2999's 'good in every affair' not discussed as a possible way to excuse suffering?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 7,
+        "fairness": 5,
+        "clarity": 7,
+        "honesty": 8
+      },
+      "satisfaction": 5,
+      "why": "Honest on the science and on misuse of 'be patient', but it does not engage the strongest question: what 'increase' means when it does not arrive."
+    }
+  },
+  "missing": [
+    "Explain what 14:7's 'increase' and 'punishment' mean, with tafsir",
+    "Quote 2:156 and give the context of Bukhari 1302 (the woman at the grave)",
+    "Name al-Ghazali's work and expand the scholars section",
+    "Name the 2023 meta-analysis and cite the hadith on the Prophet weeping for his son"
+  ],
+  "strengths": [
+    "Research section with real numbers and honest 'small effect' caveat",
+    "'Patience is not silence about harm' and the abuse warning",
+    "Muslim 2999 frames gratitude and patience as two responses to two situations",
+    "Simple daily habit (three gifts, thank one person by name)"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "Q1",
+  "path": "en/ask/suffering/",
+  "group": "ask",
+  "words": 3644,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "Tooley says a good person who could easily stop a murder and doesn't is doing wrong. Why is it different for God? The page states this objection and then never answers it directly.",
+        "The page says the trust 'is not blind: it rests on everything else a believer has reason to think about God (see Q3, Q17)'. What are Q3 and Q17, and what are those reasons? Can I get even one sentence here?",
+        "In the al-Khidr story, why did he kill the boy? The page tells me the reasons for the boat and the wall but skips the boy."
+      ],
+      "scores": { "answers": 7, "depth": 7, "evidence": 8, "fairness": 7, "clarity": 7, "honesty": 9 },
+      "satisfaction": 7,
+      "why": "The objection is put at full strength (Rowe's fawn, animal pain before humans) and the page honestly says 'this reply depends on the hereafter and on trust', which I can respect, but the hardest point it raises itself (a good person would step in) is left without a reply, and the length is mostly helpful though the same hadith come back three or four times."
+    },
+    "outsider": {
+      "followUps": [
+        "Who are the Mu'tazila, Ash'aris and Maturidis: schools of theology, sects, law schools? And who is Ormsby? He is quoted as an authority ('Ormsby summarises the map') before I am told he is a modern Western scholar.",
+        "What do 'Q3, Q17' and 'the translation in the hadith data' mean? They read like notes from the site's own files.",
+        "Is the 'four goods' list right? 'Free will' and 'the freedom to do real harm' sound like the same thing to me."
+      ],
+      "scores": { "answers": 7, "depth": 7, "evidence": 7, "fairness": 8, "clarity": 6, "honesty": 9 },
+      "satisfaction": 7,
+      "why": "I come away knowing what Muslims believe about suffering and why, with critics given real space, but names and labels (Ormsby, Mu'tazila, Ash'ari, tafsir, Sura) arrive without introduction, and in the scholars section the length works against me because it turns into a list of positions."
+    },
+    "student": {
+      "followUps": [
+        "Where is Ibn Sina's view that evil is privation ('adam) and the falsafa tradition, and Fakhr al-Din al-Razi? A survey of Islamic theodicy without them feels incomplete.",
+        "Which work of Ibn Taymiyya is the 'will without wisdom' quote from? Here it is given second-hand through Ormsby. Same for the Ash'ari position: which Ash'ari scholar said it, and in which book?",
+        "What are the key Arabic terms (ibtila', sabr, rida, hikma, qadar), and how does the page's view connect to belief in qadar (divine decree)?"
+      ],
+      "scores": { "answers": 8, "depth": 7, "evidence": 9, "fairness": 8, "clarity": 7, "honesty": 8 },
+      "satisfaction": 7,
+      "why": "The hadith come with collection, number and named graders, scholars with death dates, works and chapters (Shifa' al-'Alil ch. 21, Ihya' Book of Trust), and al-Qurtubi's limits on 42:30 are exactly what I want, but the Islamic philosophers and al-Razi are missing and several key quotes are second-hand through one modern book."
+    },
+    "scientist": {
+      "followUps": [
+        "How big is the coping effect? 'Tend to cope better' with no effect size tells me nothing. And Pargament, Koenig and Perez 2000 is a paper about building a measurement scale (its title says 'development and initial validation'), so is it really evidence for the outcome claim?",
+        "The page raises 'millions of years of animal pain' and earthquakes but never discusses the natural side: death and predation as part of how evolution works, or why a planet has plate tectonics at all. Does the Islamic answer say anything about natural evil beyond the hereafter?",
+        "Even if religious coping helps, how does 'useful to believe' bear on 'true'? The page says 'Research points the same way', which blurs the two."
+      ],
+      "scores": { "answers": 6, "depth": 5, "evidence": 6, "fairness": 7, "clarity": 7, "honesty": 8 },
+      "satisfaction": 6,
+      "why": "The one empirical part is described carefully ('a link, not a cause') and nothing is called a miracle or proof, but it gives no numbers, leans on a scale-validation paper, and natural suffering (evolution, disasters) is raised in the objection and then never discussed scientifically."
+    },
+    "hurting": {
+      "followUps": [
+        "Someone hurt me on purpose. Why didn't God stop them? The page speaks to grief and illness, but suffering caused by another person's cruelty gets only the philosophers' 'free will' line.",
+        "If 'If Allah wants to do good to somebody, He afflicts him with trials', does that mean I should be glad my child died? How do I hold that without feeling it is cruel?",
+        "Is it all right to not feel patient at all, for a long time? What does the tradition say to someone who cannot say 'we belong to Allah' yet?"
+      ],
+      "scores": { "answers": 7, "depth": 7, "evidence": 7, "fairness": 7, "clarity": 7, "honesty": 8 },
+      "satisfaction": 7,
+      "why": "The support box, 'Tears are not a failure of faith', 'a place to stand' and the clear 'No one can know that about a particular person' are warm and true, but the comforting section is buried after Mu'tazila, Plantinga and Tooley, so the length hurts me, and the line that afflictions are a sign God wants good for someone is left without care for how it may land."
+    },
+    "skeptic": {
+      "followUps": [
+        "The page tells the al-Khidr story as its central example but skips the boy: 18:80-81 says he was killed because he would later trouble his believing parents. Killing a child for what he would do is the hardest part of the story. Why is it left out?",
+        "The al-Khidr argument is skeptical theism ('we can't see the reasons'). Where are the standard objections: if we can't judge God's reasons, how can we judge that He is good, and doesn't this make every horror look acceptable?",
+        "'Rights will be restored... even the hornless sheep' covers harm one animal does to another. What about Rowe's fawn, which no one harmed? Who is the fawn's case 'set right' against? And how does that answer Tooley's point that a good being would intervene?"
+      ],
+      "scores": { "answers": 6, "depth": 6, "evidence": 7, "fairness": 6, "clarity": 7, "honesty": 6 },
+      "satisfaction": 5,
+      "why": "The steelman is real and the limit is admitted ('a reader who does not accept those will not find it sufficient'), but the page quietly leaves out the boy's killing in its key story, never presents the critiques of 'hidden reasons', and claims the reply 'does show that suffering... is not a contradiction' without stating the argument (Plantinga's free-will defence) that would show it."
+    }
+  },
+  "missing": [
+    "A direct reply to Tooley's strongest point (a good being who easily could would step in, as we expect of a good person), or an honest statement that the page has none beyond 'hidden reasons' and the hereafter.",
+    "The killing of the boy in the al-Khidr story (18:80-81) with its stated reason and how scholars dealt with it; leaving it out while using the story as the main example reads as cherry-picking.",
+    "The objections to the 'hidden reasons' reply (skeptical theism): if God's reasons are beyond us, how can we call Him good, and does it make us morally numb? With an honest answer or limit.",
+    "Natural suffering, apart from what humans and animals do to each other: the fawn, earthquakes, animal pain before humans. The restitution hadith covers harm between animals, not natural harm.",
+    "A short, plain account of why the logical problem is widely judged answered (Plantinga's free-will defence), since the page's conclusion rests on it.",
+    "Introductions on first mention: Ormsby (who he is), Mu'tazila/Ash'ari/Maturidi as schools of theology. Remove leaked internal phrasing: 'see Q3, Q17' and 'the translation in the hadith data'.",
+    "Classical Islamic positions not covered: Ibn Sina (evil as privation), Fakhr al-Din al-Razi; primary sources for the Ash'ari and Ibn Taymiyya positions rather than only through Ormsby.",
+    "Suffering caused by human cruelty (abuse, violence) addressed for the hurting reader, plus care around 'If Allah wants to do good to somebody, He afflicts him'.",
+    "Effect sizes for the coping research, a stronger outcome source than a scale-validation paper, and a clear note that coping benefit says nothing about whether the belief is true.",
+    "Less repetition: Bukhari 1303, Muslim 2582 and Tirmidhi 2398 each appear three or more times across the short answer, full answer, FAQ and 'Range of views'."
+  ],
+  "strengths": [
+    "The opening steelman is strong and fair: Rowe's fawn, animal pain before humans, and the precise point that the modern argument is about likelihood, not logical impossibility.",
+    "The short answer is excellent: plain, honest, and complete enough for a reader who stops there; it says the reasons 'do not explain every single case'.",
+    "The hard verse 42:30 is faced directly, with al-Qurtubi's recorded limits and the clear rule that it 'does not let anyone judge a particular sufferer'.",
+    "Hadith come with collection, number and grading, including named graders and disagreements (al-Albani vs Zubair Ali Zai).",
+    "Scholars are quoted with death dates, works and chapters, and their disagreements are shown (Mu'tazila vs Ash'ari, Ibn Taymiyya's criticism, the dispute over al-Ghazali).",
+    "Honesty about the limit: 'this reply depends on the hereafter and on trust; a reader who does not accept those will not find it sufficient', plus the 'Honest limits' box.",
+    "Compassion in 'For the heart and mind': tears are not weak faith, 2:156 as 'a place to stand', relieving suffering as part of the answer, and the support box with helplines.",
+    "The language stays simple almost throughout; run-in headings ('Grief is not weak faith.', 'Pain is not wasted.') make long sections easy to scan."
+  ]
+}

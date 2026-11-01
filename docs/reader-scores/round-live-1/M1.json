@@ -1,0 +1,116 @@
+{
+  "id": "M1",
+  "path": "en/live/justice/",
+  "group": "live",
+  "words": 998,
+  "readers": {
+    "doubter": {
+      "followUps": [
+        "If Islamic law aims at justice, how should I think about punishments like cutting the hand in the Bukhari 3475 story, which the page mentions but does not explain?",
+        "What does 'standing firm in justice' look like when the injustice comes from religious authorities themselves?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 7,
+        "fairness": 5,
+        "clarity": 8,
+        "honesty": 6
+      },
+      "satisfaction": 6,
+      "why": "The core idea (justice even against yourself, even toward enemies) is clear and well sourced, but the hardest thing on the page, the theft punishment in Bukhari 3475, is passed over."
+    },
+    "outsider": {
+      "followUps": [
+        "What do 'pbuh' and 'maqasid' mean in practice, and how did Muslim courts actually apply 'justice even against yourself'?",
+        "Does the law give equal standing to women and non-Muslims, for example as witnesses?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 6,
+        "fairness": 4,
+        "clarity": 7,
+        "honesty": 6
+      },
+      "satisfaction": 5,
+      "why": "Easy to read and the ihsan/'adl distinction is helpful, but it presents only the ideal and never says how this worked in real legal history or for non-Muslims."
+    },
+    "student": {
+      "followUps": [
+        "Which work of Ibn al-Qayyim says 'wherever justice is found, God's law is there' (I'lam al-Muwaqqi'in or al-Turuq al-Hukmiyya), and what is the exact wording?",
+        "How do the schools apply 4:135 to testimony against relatives, and where do they differ?"
+      ],
+      "scores": {
+        "answers": 7,
+        "depth": 5,
+        "evidence": 7,
+        "fairness": 5,
+        "clarity": 7,
+        "honesty": 6
+      },
+      "satisfaction": 6,
+      "why": "Good: three verses, Ibn Kathir, and three Sahih hadith with numbers; thin: the scholars section is two sentences, Ibn al-Qayyim has no work named, and it says 'In the earlier research for this page', which reads like internal notes."
+    },
+    "scientist": {
+      "followUps": [
+        "Which procedural-justice studies (e.g. Tyler) and which effect sizes support the 'Fair processes build trust' claim?",
+        "What exactly does the Arab Barometer measure, and how does 'trust in religious leaders' relate to justice?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 3,
+        "evidence": 3,
+        "fairness": 6,
+        "clarity": 7,
+        "honesty": 6
+      },
+      "satisfaction": 4,
+      "why": "The one research claim is a single unsourced sentence tagged [Established], and the Arab Barometer point is about trust in clerics, not justice."
+    },
+    "hurting": {
+      "followUps": [
+        "I was wronged by someone powerful in my community; what practical steps does this teaching give me?",
+        "How do I hold on to 'your claim is not lost' when justice does not come in this life?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 6,
+        "clarity": 8,
+        "honesty": 6
+      },
+      "satisfaction": 6,
+      "why": "'Your claim is not lost' and 'Seeking justice through fair means is not a lack of patience' are kind and true, but the section is three sentences."
+    },
+    "skeptic": {
+      "followUps": [
+        "How does the page square 'justice' with classical rulings on unequal testimony, dhimmi status and diyah?",
+        "Why is the only critique offered a survey about trust, rather than the text-level objections to Islamic law?"
+      ],
+      "scores": {
+        "answers": 6,
+        "depth": 4,
+        "evidence": 6,
+        "fairness": 3,
+        "clarity": 7,
+        "honesty": 5
+      },
+      "satisfaction": 4,
+      "why": "The 'gap between ideal and practice' note is honest about Muslims, but the page never puts the real critique of Islamic law's own rulings at full strength."
+    }
+  },
+  "missing": [
+    "Explain the theft-punishment context of Bukhari 3475 rather than leave it unaddressed",
+    "Name works and give fuller views for al-Shatibi and Ibn al-Qayyim; add how classical courts applied 4:135",
+    "Cite the procedural-justice studies with numbers; drop or justify the Arab Barometer link",
+    "Remove internal wording ('In the earlier research for this page', '01-batch-1.md (M1)') from visible text and sources"
+  ],
+  "strengths": [
+    "Justice 'even against yourselves' and toward enemies (4:135, 5:8) is stated plainly and early",
+    "Clear 'adl vs ihsan explanation",
+    "Hadith given with collection, number and grade; the 'help the oppressor by stopping him' hadith is well chosen",
+    "Concrete daily-life examples and an honest ideal-vs-practice note"
+  ]
+}
