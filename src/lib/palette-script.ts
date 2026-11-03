@@ -2,7 +2,9 @@
 // wrong palette. Chooses Fajr / Day / ʿAṣr / Night from the real position of
 // the sun at the visitor's (approximate) location, unless they chose one.
 //
-// - Dark-mode visitors always get Night in automatic mode (DESIGN.md §3.1).
+// - Automatic mode follows the sun only, whatever the system light/dark setting
+//   (Umut's decision, DESIGN.md §3.1); a reader who wants Night always picks it.
+//   Without JavaScript, a dark-mode system gets Night (CSS in Base.astro).
 // - Location is never requested. Istanbul's coordinates are used for Turkish
 //   time zones; elsewhere longitude comes from the standard UTC offset and
 //   latitude defaults to 40°N. Good enough to tint paper, not to time prayers.
@@ -39,7 +41,6 @@ export const paletteScript = `(() => {
   }
   function pick(now) {
     now = now || new Date();
-    if (window.matchMedia && matchMedia('(prefers-color-scheme: dark)').matches) return 'night';
     const [lat, lon] = place(now);
     const s = sun(now, lat, lon);
     if (!s.afternoon) {
