@@ -182,19 +182,31 @@ const options = [
     el.addEventListener('keydown', (e) => {
       if (e.key === 'Escape' && !menu.hidden) close(true);
     });
-    document.addEventListener('click', (e) => {
-      if (!el.contains(e.target as Node)) close();
+    // Close on a tap or click outside. pointerdown, not click: iOS Safari does not
+    // send click events from plain text or the page background.
+    document.addEventListener('pointerdown', (e) => {
+      if (!menu.hidden && !el.contains(e.target as Node)) close();
     });
+    // Close when keyboard focus moves elsewhere (Tab). Only when focus really goes
+    // somewhere: Safari does not focus a tapped label or button, so a tap inside
+    // the menu blurs with no relatedTarget — closing then would swallow the tap.
     el.addEventListener('focusout', (e) => {
-      if (!el.contains(e.relatedTarget as Node | null)) close();
+      const next = e.relatedTarget as Node | null;
+      if (next && !el.contains(next)) close();
     });
   }
 
-  // In automatic mode, let the paper follow the sun while the page stays open.
-  setInterval(
-    () => {
-      if (root.dataset.paletteChoice === 'auto') root.dataset.palette = picker.pick();
-    },
-    5 * 60 * 1000,
-  );
+  // In automatic mode, let the paper follow the sun while the page stays open —
+  // and when the reader comes back to it: iOS pauses timers in the background and
+  // restores installed apps and back-navigated pages without reloading them.
+  const follow = () => {
+    if (root.dataset.paletteChoice === 'auto') root.dataset.palette = picker.pick();
+  };
+  setInterval(follow, 5 * 60 * 1000);
+  document.addEventListener('visibilitychange', () => {
+    if (document.visibilityState === 'visible') follow();
+  });
+  window.addEventListener('pageshow', follow);
+  window.addEventListener('focus', follow);
+  matchMedia('(prefers-color-scheme: dark)').addEventListener?.('change', follow);
 </script>
