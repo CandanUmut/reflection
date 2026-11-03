@@ -6,7 +6,7 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 
 | Run | Prompt | Status | Date | Pull request | Notes |
 |---|---|---|---|---|---|
-| 1 | [Check what is already live](run-01-audit-what-is-live.md) | Not started | | | |
+| 1 | [Check what is already live](run-01-audit-what-is-live.md) | Report in | 2026-11-03 | PR_LINK | Part B done; Parts A and C mostly not checked: the research tool could not open github.io or raw.githubusercontent.com pages |
 | 2 | [Ask — God and religion](run-02-ask-god-and-religion.md) | Not started | | | |
 | 3 | [Ask — meaning, mind and miracles](run-03-ask-meaning-and-mind.md) | Not started | | | |
 | 4 | [Ask — hard history and ethics](run-04-ask-hard-history.md) | Not started | | | |
