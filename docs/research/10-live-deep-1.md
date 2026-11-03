@@ -9,7 +9,8 @@ Written 2026-10-31 for the Live section. Sources: the Quran (Tanzil; Saheeh Inte
 ### Sources read
 - Quran 4:135, 5:8, 16:90 (Saheeh International).
 - Ibn Kathir, *Tafsir* (abridged English, Quran.com), on 4:135.
-- Hadith (text and grades from the collections' data): Bukhari 2444, 2447, 3475.
+- Hadith (text and grades from the collections' data): Bukhari 2444, 2447, 2692, 3475; Muslim 2605.
+- al-Ghazali, *Ihya' 'Ulum al-Din*, on when lying is allowed, as quoted by al-Nawawi, *Riyad al-Salihin*, chapter on permitted lying.
 
 ### In brief
 Justice in the Quran is not only for others: it is "even if it be against yourselves or parents and relatives" (4:135), and even toward people you dislike (5:8). The Prophet (pbuh) refused to spare even the powerful from the law.
@@ -17,7 +18,7 @@ Justice in the Quran is not only for others: it is "even if it be against yourse
 ### Go deeper
 
 #### quran — What the Quran says
-**Justice starts with yourself.** "O you who have believed, be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives. Whether one is rich or poor, Allah is more worthy of both. So follow not [personal] inclination, lest you not be just" (4:135). Ibn Kathir explains: say the truth when you are asked, "even if harm will effect you as a consequence", and do not let the blame of anyone stop you.
+**Justice starts with yourself.** "O you who have believed, be persistently standing firm in justice, witnesses for Allah, even if it be against yourselves or parents and relatives. Whether one is rich or poor, Allah is more worthy of both. So follow not [personal] inclination, lest you not be just" (4:135). The command is justice. "Witnesses" points to testimony: the verse ends by warning against those who "distort [your testimony] or refuse [to give it]". Ibn Kathir explains it in that setting: "give correct testimony, and say the truth when you are asked about it, even if harm will effect you as a consequence". Honest testimony is how justice is served in a dispute; the aim is justice itself.
 
 **Justice even toward those you dislike.** "Do not let the hatred of a people prevent you from being just. Be just; that is nearer to righteousness" (5:8). The verse expects that we will have enemies, and still asks for fairness toward them.
 
@@ -45,7 +46,9 @@ Justice in the Quran is not only for others: it is "even if it be against yourse
 ### Questions readers ask next
 **Does justice mean treating everyone the same?** Justice gives each person their due; good conduct (*ihsan*) can give more. The verse joins the two (16:90).
 
-**What if being just harms my family?** 4:135 names that exact case — "even if it be against yourselves or parents and relatives" — and asks for the truth anyway.
+**What if being just harms my family?** 4:135 names that exact case — "even if it be against yourselves or parents and relatives" — and still asks you to stand firm for justice: honest testimony even when it costs your own side. If a relative is harming others, being just means stopping them, even through the law; the Prophet (pbuh) called this helping the oppressor, "by preventing him from oppressing others" {hadith:bukhari:2444}.
+
+**Does justice always mean telling the truth?** No. Justice is the aim; truthful testimony is one of its means, and the normal rule. The tradition itself allows exceptions where the truth would serve injustice. The Prophet (pbuh) said that one who makes peace between people "by inventing good information or saying good things, is not a liar" {hadith:bukhari:2692}; the narrator al-Zuhri adds that he knew of permission in three cases only: war, reconciling people, and between husband and wife {hadith:muslim:2605}. Al-Ghazali, quoted by al-Nawawi, goes further: if an oppressor asks where an innocent person is hiding in order to harm them, lying to protect them is not only allowed but required. Scholars add that an indirect answer which is not a lie (*tawriya*) is better where it is enough.
 
 **Is justice only for Muslims?** No: 5:8 asks for justice even toward a people you hate.
 
