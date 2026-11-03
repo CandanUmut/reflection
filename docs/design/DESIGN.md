@@ -39,7 +39,7 @@ The Quran ties light to time (10:5, 25:45–46, 78:13). So does this site.
 
 - The palette follows the visitor's **local time of day**: *Fajr* (dawn), *Day*, *ʿAṣr* (late afternoon), *Night*. Changes are subtle — a shift in paper warmth and ink depth, never a jarring theme swap.
 - The visitor can override it with a small sun/moon control (which is itself a tiny sign: the moon's phase in the control is the real current phase).
-- `prefers-color-scheme` is respected as the starting point if the visitor has a preference; time-of-day only tints within it.
+- Automatic mode follows the time of day only, whatever the system's light/dark setting. Umut's decision (2026-11-03): on a phone in Dark mode the site should still move through Fajr, Day, ʿAṣr and Night; a reader who wants it dark always chooses Night, and the choice is remembered. (Earlier: `prefers-color-scheme` dark meant Night all day.) Without JavaScript, a dark system still gets Night.
 
 ### 3.2 Palette (proposal — to be tested in Phase 0)
 
