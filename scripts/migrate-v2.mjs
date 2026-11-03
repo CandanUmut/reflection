@@ -12,6 +12,10 @@ const root = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..')
 const research = fs
   .readdirSync(path.join(root, 'docs/research'))
   .filter((f) => /^(0[7-9]|[1-9]\d)-.*\.md$/.test(f))
+  .sort()
+  // Newest first: a later research run (e.g. 27-run07-live-1.md) replaces an earlier
+  // section for the same page (10-live-deep-1.md).
+  .reverse()
   .map((f) => ({ file: f, text: fs.readFileSync(path.join(root, 'docs/research', f), 'utf8') }));
 
 // One "## Q<n> — title" section → its "### Heading" blocks.
@@ -87,7 +91,14 @@ for (const id of [...ids].sort((a, b) => a.localeCompare(b) || a.slice(1) - b.sl
     const seen = new Set(src.map((x) => x.label));
     // Turkish keeps the previous text; a layer that had none stays English-only (tr omitted).
     const layer = (key, heading) =>
-      blocks[heading] ? { [key]: { ...(item[key]?.tr && item[key].tr !== item[key].en ? { tr: item[key].tr } : {}), en: blocks[heading] } } : {};
+      blocks[heading]
+        ? {
+            [key]: {
+              ...(item[key]?.tr && item[key].tr !== item[key].en ? { tr: item[key].tr } : {}),
+              en: blocks[heading],
+            },
+          }
+        : {};
     const out = {
       ...item,
       ...layer('summary', 'In brief'),
@@ -95,12 +106,24 @@ for (const id of [...ids].sort((a, b) => a.localeCompare(b) || a.slice(1) - b.sl
       ...layer('tafsir', 'Classical tafsir'),
       ...layer('howItWorks', 'How it works'),
       ...layer('reflection', 'The reflection'),
-      followUps: followUps(need(blocks, 'Questions readers ask next', id)).map((f) => ({ q: { en: f.q }, a: { en: f.a } })),
+      followUps: followUps(need(blocks, 'Questions readers ask next', id)).map((f) => ({
+        q: { en: f.q },
+        a: { en: f.a },
+      })),
       legacySources: item.legacySources ?? item.sources,
-      sources: [...src, ...(item.legacySources ?? item.sources).filter((x) => !seen.has(typeof x.label === 'string' ? x.label : x.label.en))],
+      sources: [
+        ...src,
+        ...(item.legacySources ?? item.sources).filter(
+          (x) => !seen.has(typeof x.label === 'string' ? x.label : x.label.en),
+        ),
+      ],
     };
     const header = `# ${id}: layers deepened by scripts/migrate-v2.mjs from docs/research/${found.file} (English); the rest as before.\n`;
-    const prev = fs.readFileSync(path.join(dir, name), 'utf8').split('\n').filter((l) => l.startsWith('#') && !l.includes('migrate-v2')).join('\n');
+    const prev = fs
+      .readFileSync(path.join(dir, name), 'utf8')
+      .split('\n')
+      .filter((l) => l.startsWith('#') && !l.includes('migrate-v2'))
+      .join('\n');
     fs.writeFileSync(path.join(dir, name), (prev ? prev + '\n' : '') + header + stringify(out, { lineWidth: 0 }));
     console.log('wrote', `signs/${name}`, '(deepened, English only)');
     continue;
