@@ -48,6 +48,7 @@ The full table, with pages and file names, is in [runs.md](runs.md).
 - `_rules.md`: the shared rules. Each one comes from a real mistake on this site.
 - `_formats.md`: the three report formats (Ask, Live, Reflect). The heading names must stay exact.
 - `runs.md`: the table of runs (generated).
+- `status.md`: which runs are done. The research agent sets "Report in", and Claude sets "On the site".
 - `run-NN-*.md`: the prompts (generated).
 - `TRANSLATE-TR.md`: Turkish translation of a converted page.
 - `_old-run-01-ask-god-and-religion.md`: the earlier prompt. Its reader notes are reused in run 2.
