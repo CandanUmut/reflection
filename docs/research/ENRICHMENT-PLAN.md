@@ -1,5 +1,7 @@
 # Content enrichment plan — whole site (Ask, Reflect, Live)
 
+> **Superseded (November 2026)** by `docs/research/prompts/README.md`: sixteen runs with shared rules learned from this project. Kept for history.
+
 Umut's request (2026-10-31): the content across the site is too short and not satisfying. Every remaining page in **Ask**, **Reflect** and **Live** gets new deep research, aiming at the depth of the Q1 model answer (`07-ask-deep-I.md`, reader score 7.7/10). This plan replaces the batch list (B–D) in `DEEP-RESEARCH-PROMPT.md`.
 
 ## Done

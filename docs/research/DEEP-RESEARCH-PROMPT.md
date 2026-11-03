@@ -1,5 +1,7 @@
 # Deep research prompt (paste into a deep-research tool)
 
+> **Superseded (November 2026)** by `docs/research/prompts/README.md`: sixteen runs with shared rules learned from this project. Kept for history.
+
 Run one batch at a time. Save each result as `docs/research/07-ask-deep-<batch>.md` (e.g. `07-ask-deep-A.md`). Claude then converts it to pages, checks every Quran quote and hadith grade automatically, translates to Turkish, and runs one reader review per batch.
 
 Batches (Ask section, hardest first):
