@@ -14,7 +14,7 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 | 6 | [Ask — for the one who is hurting](run-06-ask-pastoral.md) | Report in | 2026-11-03 | [#19](https://github.com/CandanUmut/reflection/pull/19) | Written by Claude directly; 15/15 Quran quotes checked; independent source check partial (usage limit), 4 must-fix applied; see Gaps |
 | 7 | [Live I](run-07-live-1.md) | Report in | 2026-11-03 | [#19](https://github.com/CandanUmut/reflection/pull/19) | Written by Claude directly; 45/45 Quran quotes checked; M6 and M7 shorter (~1,000–1,200 words) for lack of sources read; see Gaps |
 | 8 | [Live II](run-08-live-2.md) | Report in | 2026-11-03 | [#20](https://github.com/CandanUmut/reflection/pull/20) | Written by Claude directly; 46/46 Quran quotes checked; pages ~1,100–1,600 words; see Gaps |
-| 9 | [Ask — prophethood, the Quran and hadith](run-09-ask-truth-claims.md) | Not started | | | |
+| 9 | [Ask — prophethood, the Quran and hadith](run-09-ask-truth-claims.md) | Report in | 2026-11-03 | [#20](https://github.com/CandanUmut/reflection/pull/20) | Written by Claude directly; 18/18 Quran quotes checked; see Gaps |
 | 10 | [Reflect I](run-10-reflect-1.md) | Not started | | | |
 | 11 | [Ask — creation, freedom and the afterlife](run-11-ask-creation-and-freedom.md) | Not started | | | |
 | 12 | [Reflect II](run-12-reflect-2.md) | Not started | | | |
