@@ -1,7 +1,7 @@
 ---
 // "On this page": a quiet bar of chips for long pages, sticky at the top while
-// reading. The chip of the section in view is marked. Jumping into a folded
-// answer opens it first. Without JavaScript it is a plain list of links.
+// reading. The chip of the section in view is marked. Without JavaScript it is
+// a plain list of links.
 import { t, type Locale } from '../i18n/ui';
 interface Props {
   lang: Locale;
@@ -49,14 +49,6 @@ const { lang, items } = Astro.props;
       { rootMargin: '0px 0px -60% 0px' },
     );
     targets.forEach((el) => io.observe(el));
-    nav.addEventListener('click', (e) => {
-      const a = (e.target as HTMLElement).closest<HTMLAnchorElement>('a[data-target]');
-      const el = a && document.getElementById(a.dataset.target!);
-      if (!el) return;
-      // A part folded behind "Read the full answer" opens first.
-      if (el.closest('[hidden]'))
-        el.closest<HTMLElement>('[data-full]')?.querySelector<HTMLButtonElement>('.full__more')?.click();
-    });
   }
 </script>
 
