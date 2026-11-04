@@ -86,7 +86,6 @@ Deism keeps a Creator but denies that He reveals Himself or acts in the world. T
 
 **Can I believe in God and still be angry at religious people?** Yes. The question of God and the question of religious institutions are different. The page on religious hypocrisy takes up the second.
 
-**What is "S9"?** It is the site's page on fine-tuning ("Signs for reflection: fine-tuning"). The main points are now on this page too.
 
 ### Honest limits
 Arguments for a Creator are strong for many people but not decisive; the SEP entries record serious replies to each. The step from "a Creator" to "a Creator who speaks" depends on an expectation about God's wisdom that the Ashʿari tradition itself says reason cannot establish. The hiddenness argument remains open. Whether a particular revelation is genuine has to be weighed on evidence that people judge differently.

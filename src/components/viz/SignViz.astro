@@ -1,0 +1,13 @@
+---
+// The animations made for the deepened Reflect pages, by sign. (The earlier ones,
+// such as the sundial, are listed in each sign's Turkish source file instead.)
+import OrbitDance from './OrbitDance.astro';
+import type { Locale } from '../../i18n/ui';
+interface Props {
+  id: string;
+  lang: Locale;
+}
+const { id, lang } = Astro.props;
+---
+
+{id === 'S5' && <OrbitDance lang={lang} />}

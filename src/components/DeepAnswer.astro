@@ -6,6 +6,7 @@
 // in that language; pages pass `show` accordingly.
 import { md, mdPlainInline } from '../lib/md';
 import { t, type Locale, type UiKey } from '../i18n/ui';
+import { partHeading } from '../lib/parts';
 
 type Text = { tr?: string; en: string };
 interface Props {
@@ -16,22 +17,7 @@ interface Props {
   heading?: UiKey;
 }
 const { lang, parts, followUps = [], heading = 'fullAnswer' } = Astro.props;
-const LABEL: Record<string, UiKey> = {
-  quran: 'secQuran',
-  sunnah: 'secSunnah',
-  scholars: 'secScholars',
-  fiqh: 'secFiqh',
-  history: 'secHistory',
-  science: 'secScience',
-  reasoning: 'secReasoning',
-  objection: 'secObjection',
-  heart: 'secHeart',
-  views: 'secViews',
-  meaning: 'secMeaning',
-  practice: 'secPractice',
-  research: 'secResearch',
-  tafsir: 'secTafsir',
-};
+
 // About 200 words a minute; the fold is decided on the English count, so both languages fold alike.
 const words = (l: Locale) => parts.reduce((n, s) => n + (s[l] ?? '').split(/\s+/).length, 0);
 const minutes = Math.max(1, Math.round(words(lang) / 200));
@@ -40,27 +26,25 @@ const asked = followUps.filter((f) => f.q[lang] && f.a[lang]);
 const id = `deep-${heading}`;
 ---
 
-{
-  parts.length > 0 && (
-    <section class="full" aria-labelledby={id} data-full={folded ? '' : undefined}>
-      <h2 id={id}>{t(lang, heading)}</h2>
-      <p class="full__time">
-        {minutes} {t(lang, 'minRead')}
-      </p>
-      {parts.map((part, i) => (
-        <section class="full__part" data-part={i}>
-          <h3>{(lang === 'en' ? part.title?.en : part.title?.tr) ?? t(lang, LABEL[part.kind])}</h3>
-          <Fragment set:html={md(part[lang] ?? '', lang)} />
-        </section>
-      ))}
-      {folded && (
-        <button class="full__more btn" type="button" hidden>
-          {t(lang, 'readMore')}
-        </button>
-      )}
-    </section>
-  )
-}
+{parts.length > 0 && (
+  <section class="full" aria-labelledby={id} data-full={folded ? '' : undefined}>
+    <h2 id={id}>{t(lang, heading)}</h2>
+    <p class="full__time">
+      {minutes} {t(lang, 'minRead')}
+    </p>
+    {parts.map((part, i) => (
+      <section class:list={['full__part', `full__part--${part.kind}`]} data-part={i} id={`part-${i}`}>
+        <h3>{partHeading(part, lang, t)}</h3>
+        <Fragment set:html={md(part[lang] ?? '', lang)} />
+      </section>
+    ))}
+    {folded && (
+      <button class="full__more btn" type="button" hidden>
+        {t(lang, 'readMore')}
+      </button>
+    )}
+  </section>
+)}
 
 {asked.length > 0 && (
   <section class="followups" aria-labelledby={`${id}-asked`}>
@@ -95,14 +79,60 @@ const id = `deep-${heading}`;
     margin-top: var(--space-5);
   }
   .full__part h3 {
-    font-size: var(--step-0);
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+    font-size: var(--step-1);
     font-family: var(--font-display);
     font-weight: 600;
-    margin-bottom: var(--space-2);
+    margin-bottom: var(--space-3);
+    padding-top: var(--space-4);
+    border-top: var(--rule);
+  }
+  /* A small tile rosette dot before each heading, in the section's own colour. */
+  .full__part h3::before {
+    content: '';
+    flex: none;
+    width: 0.55rem;
+    height: 0.55rem;
+    border-radius: 50%;
+    background: var(--turquoise);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--turquoise) 25%, transparent);
+  }
+  .full__part--quran h3::before,
+  .full__part--tafsir h3::before {
+    background: var(--cobalt);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--cobalt) 25%, transparent);
+  }
+  .full__part--objection h3::before,
+  .full__part--views h3::before {
+    background: var(--clay);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--clay) 25%, transparent);
+  }
+  /* The heart and daily-practice parts are set apart as warm cards. */
+  .full__part--heart,
+  .full__part--practice {
+    padding: var(--space-2) var(--space-4) var(--space-3);
+    background: var(--paper-deep);
+    border-radius: var(--radius);
+  }
+  .full__part--heart h3,
+  .full__part--practice h3 {
+    border-top: 0;
+  }
+  .full__part--heart h3::before {
+    background: var(--clay);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--clay) 25%, transparent);
+  }
+  .full__part--practice h3::before {
+    background: var(--life);
+    box-shadow: 0 0 0 3px color-mix(in srgb, var(--life) 25%, transparent);
   }
   /* hidden="until-found" keeps the box (content-visibility), so drop its margin. */
   .full__part[hidden] {
     margin: 0;
+    padding: 0;
+    background: none;
   }
   .full__more {
     margin-top: var(--space-4);

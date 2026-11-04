@@ -14,6 +14,8 @@ import RangeOfViews from './RangeOfViews.astro';
 import Sources from './Sources.astro';
 import { md } from '../lib/md';
 import DeepAnswer from './DeepAnswer.astro';
+import SectionNav from './SectionNav.astro';
+import { partHeading } from '../lib/parts';
 import { t, type Locale, type UiKey } from '../i18n/ui';
 
 interface Props {
@@ -24,6 +26,15 @@ const { q, lang } = Astro.props;
 // A language shows the deep answer only when every part exists in it; until
 // then it keeps the previous layers and range of views.
 const deep = !!q.fullAnswer?.length && q.fullAnswer.every((p) => p[lang]);
+const nav = deep
+  ? [
+      { id: 'steelman-title', label: t(lang, 'steelman') },
+      { id: 'short-title', label: t(lang, 'shortAnswer') },
+      ...q.fullAnswer!.map((p, i) => ({ id: `part-${i}`, label: partHeading(p, lang, t) })),
+      ...(q.followUps?.some((f) => f.q[lang]) ? [{ id: 'deep-fullAnswer-asked', label: t(lang, 'followUps') }] : []),
+      { id: 'sources-title', label: t(lang, 'sources') },
+    ]
+  : [];
 const layerLabel: Record<string, UiKey> = {
   religious: 'layerReligious',
   philosophical: 'layerPhilosophical',
@@ -39,6 +50,7 @@ const layerLabel: Record<string, UiKey> = {
     <p class="label">{q.id}</p>
     <h1>{q.title[lang]}</h1>
   </header>
+  <SectionNav lang={lang} items={nav} />
 
   <section class="steelman" aria-labelledby="steelman-title">
     <h2 class="label" id="steelman-title">

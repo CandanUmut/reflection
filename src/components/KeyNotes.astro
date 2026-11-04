@@ -1,0 +1,90 @@
+---
+// The verse note as cards: "Key words", "Setting", "Whom it addresses"… Each
+// top-level bullet that opens with a bold title is one card. A leading quotation
+// of the verse itself is dropped (the verse is shown just above); anything after
+// its reference ("Meccan, in Sura al-Ghāshiya…") stays as a short line.
+import { md, mdInline } from '../lib/md';
+import type { Locale } from '../i18n/ui';
+interface Props {
+  text: string;
+  lang: Locale;
+}
+const { text, lang } = Astro.props;
+const blocks = text.trim().split(/\n\s*\n/);
+let lead = '';
+if (/^["“]/.test(blocks[0] ?? '') && /\(\d+:\d+[^)]*\)/.test(blocks[0])) {
+  lead = blocks
+    .shift()!
+    .replace(/^[\s\S]*\(\d+:\d+[^)]*\)\s*[,.]?\s*/, '')
+    .trim();
+}
+const rest = blocks.join('\n\n');
+const cards: { title?: string; body: string }[] = [];
+for (const chunk of rest
+  .split(/^- /m)
+  .map((c) => c.trimEnd())
+  .filter((c) => c.trim())) {
+  const m = chunk.match(/^\*\*(.+?)\*\*\s*([\s\S]*)$/);
+  const body = (m ? m[2] : chunk).replace(/^ {2}/gm, '').trim();
+  cards.push(m ? { title: m[1].replace(/[.:]$/, ''), body } : { body });
+}
+---
+
+<div class="keynotes">
+  {lead && <p class="keynotes__lead" set:html={mdInline(lead, lang)} />}
+  <div class="keynotes__grid">
+    {cards.map((c) => (
+      <section class="keynotes__card">
+        {c.title && <h3 class="keynotes__title">{c.title}</h3>}
+        <Fragment set:html={md(c.body, lang)} />
+      </section>
+    ))}
+  </div>
+</div>
+
+<style>
+  .keynotes {
+    margin-top: var(--space-4);
+    text-align: left;
+  }
+  .keynotes__lead {
+    text-align: center;
+    color: var(--ink-soft);
+    font-style: italic;
+    font-size: 0.95rem;
+  }
+  .keynotes__grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+    gap: var(--space-3);
+  }
+  .keynotes__card {
+    padding: var(--space-3);
+    background: var(--paper-deep);
+    border-radius: var(--radius);
+    border-top: 2px solid var(--turquoise);
+    font-size: 0.95rem;
+  }
+  .keynotes__title {
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+    font-weight: 600;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: var(--ink-soft);
+    margin: 0 0 var(--space-2);
+  }
+  .keynotes__card :global(ul) {
+    padding-left: 1.1rem;
+    margin: 0;
+  }
+  .keynotes__card :global(li + li) {
+    margin-top: var(--space-2);
+  }
+  .keynotes__card :global(p) {
+    margin: 0;
+  }
+  .keynotes__card :global(p + p) {
+    margin-top: var(--space-2);
+  }
+</style>
