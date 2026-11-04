@@ -70,7 +70,7 @@ gaps:
     - Bugünkü "İslami finansın" büyük kısmı, Müslüman iktisatçılar (ör. Mahmoud El-Gamal) tarafından, farklı ve daha adil bir finans kurmak yerine faizli ürünleri yeni adlarla kopyalamakla ("şeriat arbitrajı") eleştirildi.
     - Zekât toplama pek çok Müslüman çoğunluklu ülkede zayıf ya da gayriresmîdir ve birçoğunda eşitsizlik yüksektir.
     - İslam iktisadının büyük ölçekte daha iyi işlediği kanıtlanmış değildir; dürüstçe gösterilebilecek olan, ilkeleri ve sicilidir.
-  en: The four schools' own works on zakāh, the arguments against the European Council's mortgage ruling, rulings on pensions, and independent evaluations of zakāh were not read. Muslim societies have high inequality, and zakāh collection is often far below its potential; no data on this was read for this run.
+  en: The four schools' own works on zakāh, the arguments against the European Council's mortgage ruling, rulings on pensions, and independent evaluations of zakāh have not yet been consulted. Muslim societies have high inequality, and zakāh collection is often far below its potential; no data on this was read.
 visualizations:
   - id: ideas
     tr: |
@@ -130,20 +130,17 @@ fullAnswer:
       **Neglecting the poor (107:1–3).** "Have you seen the one who denies the Recompense? For that is the one who drives away the orphan And does not encourage the feeding of the poor" (107:1–3), Meccan: denying religion is shown in how one treats the poor.
   - kind: fiqh
     en: |-
-      **Zakāh on worn jewellery.** For the Hanafi school, zakāh "is obligatory when the nisab is sufficient", whether the jewellery alone or together with other wealth reaches it; for the Maliki, Shafiʿi and Hanbali schools, on permissible adornments that are worn, "zakat is not obligatory" (Mufti of the Federal Territory, Malaysia, citing al-Qaradawi). The named works of each school were not read (see Gaps). Monzer Kahf, an economist of Islamic finance, notes that jewellery kept as a store of wealth rather than worn is widely treated as zakatable (IslamOnline).
+      **Zakāh on worn jewellery.** For the Hanafi school, zakāh "is obligatory when the nisab is sufficient", whether the jewellery alone or together with other wealth reaches it; for the Maliki, Shafiʿi and Hanbali schools, on permissible adornments that are worn, "zakat is not obligatory" (Mufti of the Federal Territory, Malaysia, citing al-Qaradawi). The named works of each school have not yet been consulted. Monzer Kahf, an economist of Islamic finance, notes that jewellery kept as a store of wealth rather than worn is widely treated as zakatable (IslamOnline).
 
-      **The niṣāb.** "The renown nisab for gold is 85 grams" (Mufti of the Federal Territory; IslamOnline). The silver *niṣāb* (commonly given as 595 grams) was not confirmed in a source for this run.
+      **The niṣāb.** "The renown nisab for gold is 85 grams" (Mufti of the Federal Territory; IslamOnline). The silver *niṣāb* (commonly given as 595 grams) was not confirmed in a source.
 
-      **Mortgages for Muslims in the West.** The European Council for Fatwa and Research, at its fourth session (27–31 October 1999), reaffirmed that interest is forbidden but allowed a Muslim in Europe to take a conventional mortgage if they do not own a house and cannot buy one without a loan, "until" Islamic alternatives are available. Its grounds: a need (*ḥāja*) can be "elevated to a necessity (*ḍarūra*)" when it causes hardship, under the maxim "Necessities make the unlawful lawful", and renting would restrict where Muslims can live — for example near a mosque or school (Kamali). Yusuf al-Qaradawi endorsed the ruling. Many other scholars reject it; their arguments were not read for this run (see Gaps).
+      **Mortgages for Muslims in the West.** The European Council for Fatwa and Research, at its fourth session (27–31 October 1999), reaffirmed that interest is forbidden but allowed a Muslim in Europe to take a conventional mortgage if they do not own a house and cannot buy one without a loan, "until" Islamic alternatives are available. Its grounds: a need (*ḥāja*) can be "elevated to a necessity (*ḍarūra*)" when it causes hardship, under the maxim "Necessities make the unlawful lawful", and renting would restrict where Muslims can live — for example near a mosque or school (Kamali). Yusuf al-Qaradawi endorsed the ruling. Many other scholars reject it; their arguments have not yet been consulted.
 
       **Student loans.** The Assembly of Muslim Jurists of America (AMJA), in a 2011 fatwa by Dr. Main Khalid al-Qudah, holds that "the default is the forbiddance of interest-based loans", but allows a student loan as an "urgent necessity" if all alternatives (scholarships, grants, work-study, subsidised loans) are exhausted, the loan is the only way to study, only the needed amount is borrowed, qualified scholars assess the need, and it is repaid as soon as possible. The necessity "removes the sin even though the ruling of impermissibility remains."
 
-      **Pensions.** Rulings on pensions were not read for this run.
+      **Pensions.** Rulings on pensions have not yet been consulted.
   - kind: research
-    en: |-
-      **Zakat programmes report people lifted out of poverty, but the evidence is weak.** [Mixed.] Indonesia's national zakat agency BAZNAS reports that in 2024 zakat programmes lifted 1,350,227 people out of poverty, including 721,748 from extreme poverty, measured by an annual "Zakat Impact Assessment survey" against five poverty standards. The summary does not explain how the effect was attributed to zakat, gives no comparison group, and its provider breakdown (adding to about 1,486,920) does not match the total. These are self-reported programme figures, not independent evaluations.
-
-      **Giving and the giver's wellbeing.** The current page cites a meta-analysis of kindness experiments (Curry et al., 2018) and prosocial-spending studies (Dunn et al.); neither was re-read for this run.
+    en: "**Zakat programmes report people lifted out of poverty, but the evidence is weak.** [Mixed.] Indonesia's national zakat agency BAZNAS reports that in 2024 zakat programmes lifted 1,350,227 people out of poverty, including 721,748 from extreme poverty, measured by an annual \"Zakat Impact Assessment survey\" against five poverty standards. The summary does not explain how the effect was attributed to zakat, gives no comparison group, and its provider breakdown (adding to about 1,486,920) does not match the total. These are self-reported programme figures, not independent evaluations."
   - kind: practice
     en: |-
       **Calculate zakāh each year**: savings, gold and silver above the *niṣāb*, business stock; 2.5%. Ask a local scholar which school's rule on jewellery you follow.

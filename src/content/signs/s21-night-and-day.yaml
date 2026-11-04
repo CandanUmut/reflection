@@ -44,7 +44,7 @@ tafsir:
 
     **Ibn Kathir on 78:13.** "the radiant sun that gives light to all of the world." **Al-Jalālayn:** "and set a radiant lamp? namely the sun".
 
-    **What they share.** Both notice that the sun and moon are described differently — "two different natures" (Ibn Kathir) — and both tie the moon to counting time through its "stations". The current page also cites al-Razi and al-Zamakhshari on *ḍiyāʾ* and *nūr*; they were not read for this run (see Gaps).
+    **What they share.** Both notice that the sun and moon are described differently — "two different natures" (Ibn Kathir) — and both tie the moon to counting time through its "stations".
 howItWorks:
   tr: |
     [Established]
@@ -55,7 +55,7 @@ howItWorks:
     - Ay'ın evreleri her 29,5 günde bir tekrarlanır; hicrî ayların temeli budur. On iki kamerî ay yaklaşık 354 gün eder; bu yüzden Ramazan yaklaşık 33 yılda bütün mevsimleri dolaşır.
   en: |-
     Each point is tied to "shining light", "derived light" and "phases".
-    - **A lamp that makes its own light.** [Established] The Sun is a star; it produces its own light by nuclear fusion in its core. (No Sun fact sheet was read for this run; see Gaps.)
+    - **A lamp that makes its own light.** [Established] The Sun is a star; it produces its own light by nuclear fusion in its core. (No Sun fact sheet was read.)
     - **A light that reflects.** [Established] The Moon makes no light; it reflects sunlight. Its geometric albedo is 0.12 and its Bond albedo 0.11 (NASA NSSDC): it returns only about a tenth of the light that reaches it. Its surface is dark; it looks bright because it is in full sunlight against a black sky.
     - **Phases for counting time.** [Established] The Moon's synodic period — new moon to new moon — is 29.53 days; its sidereal period (one orbit against the stars) is 27.3217 days (NASA NSSDC). Twelve synodic months make about 354 days, about eleven days shorter than the solar year, so the Islamic months move through the seasons.
 awe:
@@ -79,8 +79,8 @@ reflection:
 
     Today we know the moon gives back only a tenth of the light that falls on it. Its surface is dark rock. It shines only because it faces the sun. There is a picture there for a believer, offered as reflection, not as the verse's meaning: we too have no light of our own. Whatever light we give, we give back.
 honestNotes:
-  - en: '**A harmony, not a discovery.** The different words fit the science well, and the commentators already noticed the difference. But *nūr* is also used of God (24:35) and of revelation, so it does not strictly mean "reflected light". The current page notes that many ancient writers also knew the Moon is lit by the Sun; no source for that was read for this run.'
-  - en: '**The popular claim.** That 10:5 "revealed that the moon reflects light" is common; no named source for it was read for this run.'
+  - en: "**A harmony, not a discovery.** The different words fit the science well, and the commentators already noticed the difference."
+  - en: '**The popular claim.** That 10:5 "revealed that the moon reflects light" is common; no named source for it was read.'
 visualizations:
   - id: ideas
     tr: |

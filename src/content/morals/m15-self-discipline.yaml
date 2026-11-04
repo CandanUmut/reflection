@@ -69,7 +69,7 @@ gaps:
     - Dinî topluluklar öz disiplini bazen utanç ve korkuyla öğretir; bu da karaktere değil, dinî titizliğe (vesvese) yol açabilir. Bkz. Q8 (vesvese).
     - Disiplinin kolay ya da hızlı olacağı vaat edilemez; araştırmalar da gelenek de uzun ve inişli çıkışlı bir yol anlatır.
     - Ego tükenmesi efsanesi, popüler İslami kişisel gelişim kitaplarında hâlâ görülür.
-  en: Al-Ghazali's *On Disciplining the Soul*, Miskawayh and al-Ṭūsī were not read for this run. The Dunedin and habit studies are reported from summaries. No one can promise that discipline will feel easy or quick.
+  en: Al-Ghazali's *On Disciplining the Soul*, Miskawayh and al-Ṭūsī have not yet been consulted. The Dunedin and habit studies are reported from summaries. No one can promise that discipline will feel easy or quick.
 visualizations:
   - id: ideas
     tr: |
@@ -123,7 +123,7 @@ fullAnswer:
 
       **Striving and guidance (29:69).** "And those who strive for Us — We will surely guide them to Our ways. And indeed, Allah is with the doers of good" (29:69). The effort comes first, and guidance follows.
 
-      **The self that urges evil (12:53).** "And I do not acquit myself. Indeed, the soul is a persistent enjoiner of evil, except those upon which my Lord has mercy" (12:53). In Sura Yusuf, this is spoken at the end of the story of the minister's wife (Ibn Kathir and others differ on whether the speaker is Joseph or the woman; that discussion was not read for this run).
+      **The self that urges evil (12:53).** "And I do not acquit myself. Indeed, the soul is a persistent enjoiner of evil, except those upon which my Lord has mercy" (12:53). In Sura Yusuf, this is spoken at the end of the story of the minister's wife (Ibn Kathir and others differ on whether the speaker is Joseph or the woman; that discussion has not yet been consulted).
 
       **Change begins inside (13:11).** "Indeed, Allah will not change the condition of a people until they change what is in themselves" (13:11). The verse is about a *people*; applying it to an individual's habits is a common extension.
   - kind: sunnah
@@ -132,7 +132,7 @@ fullAnswer:
 
       **Good character weighs most.** "There is nothing heavier than good character put in the scale of a believer on the Day of Resurrection" ({hadith:abudawud:4799}, narrated by Abu al-Dardaʾ; al-Albani: *ṣaḥīḥ*).
   - kind: scholars
-    en: "**Training the soul.** The current page cites al-Ghazali's *Riyāḍat al-Nafs* (*Iḥyāʾ*, Book 22, *On Disciplining the Soul*, translated by T. J. Winter) — comparing training the soul to training an animal, by gradual habit — and Miskawayh's *Tahdhīb al-Akhlāq* and Naṣīr al-Dīn al-Ṭūsī's *Akhlāq-i Nāṣirī*, which follow Aristotle in treating virtue as a balanced mean formed by repetition. None of these texts was read for this run (see Gaps); the Bukhari hadith above states the same principle of steady practice."
+    en: "**Training the soul.** J. Winter) — comparing training the soul to training an animal, by gradual habit — and Miskawayh's *Tahdhīb al-Akhlāq* and Naṣīr al-Dīn al-Ṭūsī's *Akhlāq-i Nāṣirī*, which follow Aristotle in treating virtue as a balanced mean formed by repetition. None of these texts was read; the Bukhari hadith above states the same principle of steady practice."
   - kind: research
     en: |-
       **Childhood self-control predicts adult life.** [Established; correlational.] The Dunedin study "followed 1,037 children from birth to age 32". Children with lower self-control, as rated by teachers, parents and themselves, were more likely as adults to have worse physical health, substance dependence, money and credit problems, and criminal convictions — "after controlling for social class and IQ score" (Moffitt et al., 2011, as reported).

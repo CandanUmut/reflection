@@ -13,7 +13,7 @@
 
 ### Go deeper
 #### meaning — What it means
-**Amāna and amīn.** The root *ʾ-m-n* gives *amn* (safety), *īmān* (faith) and *amāna* (trust). A trustworthy person (*amīn*) is someone with whom others feel safe. Before his prophethood, the Prophet (pbuh) was known among the Quraysh as *al-Amīn*, "the trustworthy" (reported widely in the *sīra*; the specific report was not checked for this page).
+**Amāna and amīn.** The root *ʾ-m-n* gives *amn* (safety), *īmān* (faith) and *amāna* (trust). A trustworthy person (*amīn*) is someone with whom others feel safe. Before his prophethood, the Prophet (pbuh) was known among the Quraysh as *al-Amīn*, "the trustworthy" (reported widely in the *sīra*; the specific report has not yet been checked).
 
 **ʿAhd.** A commitment or promise (17:34). Keeping it is part of *amāna*.
 
@@ -27,17 +27,17 @@
 #### sunnah — What the Prophet (pbuh) taught
 **The signs of a hypocrite.** "The signs of a hypocrite are three: 1. Whenever he speaks, he tells a lie. 2. Whenever he promises, he always breaks it (his promise). 3. If you trust him, he proves to be dishonest. (If you keep something as a trust with him, he will not return it.)" ({hadith:bukhari:33}, narrated by Abu Hurayra). The hadith does not say such a person has left Islam; it names behaviour that contradicts faith.
 
-**Do not betray even the betrayer.** Ibn Kathir cites a hadith from al-Hasan via Samura: "Return the trust to those who entrusted you, and do not betray those who betrayed you", saying that "Imam Ahmad and the collectors of Sunan recorded this Hadith"; its grade was not checked for this page.
+**Do not betray even the betrayer.** Ibn Kathir cites a hadith from al-Hasan via Samura: "Return the trust to those who entrusted you, and do not betray those who betrayed you", saying that "Imam Ahmad and the collectors of Sunan recorded this Hadith"; its grade has not yet been checked.
 
 **Character before prophethood.** When the Prophet (pbuh) came home shaken after the first revelation, his wife Khadija (ra) reassured him: "Never! By Allah, Allah will never disgrace you. You keep good relations with your kith and kin, help the poor and the destitute, serve your guests generously…" ({hadith:bukhari:3}, narrated by ʿAʾisha). Her argument was his character.
 
 #### scholars — How scholars have understood it
-**A broad notion.** The classical readings above show *amāna* stretching from a deposit left with you to the whole of one's religious duties. The current page also cites al-Ghazali on lying and the *maqāṣid*; on lying see "Ethics of speech", where the narrow permitted cases are set out ({hadith:muslim:2605a}).
+**A broad notion.** The classical readings above show *amāna* stretching from a deposit left with you to the whole of one's religious duties.
 
 #### research — What research shows
 **Trust and economic performance.** [Moderate; correlational.] Knack and Keefer (1997), using World Values Survey data from 29 market economies, found that trust and civic norms "matter for measurable economic performance", while formal group membership "is not associated with trust or with improved economic performance". Trust was stronger where incomes were higher and more equal, institutions constrained rulers, and people were better educated. This is a correlation across countries, not proof that individual honesty causes growth.
 
-**Corruption today.** [Established for the figures.] In Transparency International's Corruption Perceptions Index 2024, "the global average" was "43 points out of 100", and "more than 120 of the listed countries score below 50 points" (*Jurist*, 2025). Scores for Muslim-majority countries specifically were not checked for this page.
+**Corruption today.** [Established for the figures.] In Transparency International's Corruption Perceptions Index 2024, "the global average" was "43 points out of 100", and "more than 120 of the listed countries score below 50 points" (*Jurist*, 2025). Scores for Muslim-majority countries specifically have not yet been checked.
 
 #### practice — In daily life
 **Return what you borrow, on time**, and in the condition you received it.
@@ -65,7 +65,7 @@
 **What does "trustworthy" (*al-Amīn*) mean for the Prophet (pbuh)?** It was his reputation in Mecca before prophethood; Khadija (ra) appealed to his character when he was afraid ({hadith:bukhari:3}).
 
 ### Honest limits
-The specific report of the title *al-Amīn* and the grade of "do not betray those who betrayed you" were not checked. Cross-country trust research is correlational. Corruption scores for Muslim-majority countries were not checked.
+The specific report of the title *al-Amīn* and the grade of "do not betray those who betrayed you" have not yet been checked. Cross-country trust research is correlational. Corruption scores for Muslim-majority countries have not yet been checked.
 
 ---
 
@@ -100,7 +100,6 @@ The Quran describes faith in social terms: the one "who denies the Recompense" i
 **The orphan's guardian.** Sahl (ra) reports the Prophet (pbuh) as saying: "I and the guardian of an orphan will be in Jannah like this" ({hadith:bukhari:5304}) — the full report describes him holding up two fingers close together.
 
 #### scholars — How scholars have understood it
-**Who is a neighbour?** The current page cites al-Qurtubi on 4:36 for a wide definition (forty houses in each direction) including non-Muslim neighbours, and al-Ghazali on neighbours' rights. Neither was read for this run (see Gaps).
 
 #### research — What research shows
 **Strong social ties are linked to longer life.** [Established; correlational.] Holt-Lunstad, Smith and Layton (2010) combined 148 studies with 308,849 participants followed for an average of 7.5 years. People with stronger social relationships had about 50% greater odds of survival (odds ratio 1.50, 95% CI 1.42–1.59) — an effect the authors call "comparable with quitting smoking" and larger than many other risk factors.
@@ -122,7 +121,6 @@ The Quran describes faith in social terms: the one "who denies the Recompense" i
 **If you are lonely**, you are not failing at faith. Loneliness is a real health risk (Holt-Lunstad et al.). Reaching out — to a mosque, a neighbour, a community group — is itself part of what these verses ask.
 
 ### Questions readers ask next
-**Who counts as a neighbour, and does it include non-Muslims?** The current page cites al-Qurtubi for a wide definition including non-Muslims; that was not checked here. 4:36 names "the near neighbor" and "the neighbor farther away" without restriction.
 
 **Who were "the captive" in 76:8?** Prisoners of war, who in the Prophet's (pbuh) time were non-Muslims.
 
@@ -133,7 +131,7 @@ The Quran describes faith in social terms: the one "who denies the Recompense" i
 **Is institutional orphan care bad?** The Bucharest study found that family-based foster care produced better development than institutions, especially when started early.
 
 ### Honest limits
-Al-Qurtubi and al-Ghazali on neighbours were not read. The Bucharest results are reported from a news summary of the *Science* paper. Care for orphans and refugees in Muslim-majority countries varies widely; no data on this were read.
+Al-Qurtubi and al-Ghazali on neighbours have not yet been consulted. The Bucharest results are reported from a news summary of the *Science* paper. Care for orphans and refugees in Muslim-majority countries varies widely; no data on this were read.
 
 ---
 
@@ -141,7 +139,7 @@ Al-Qurtubi and al-Ghazali on neighbours were not read. The Bucharest results are
 
 ### Sources read
 - Saheeh International via the site's Tanzil data — 31:18–19, 25:63, 17:37, 49:13, 28:83.
-- Hadith of arrogance (Sahih Muslim 91), English as given by HadeethEnc, https://hadeethenc.com/en/browse/hadith/6209 (the number 91 is from the current page and sunnah.com's listing; sunnah.com itself could not be opened).
+- Hadith of arrogance (Sahih Muslim 91), English as given by HadeethEnc, https://hadeethenc.com/en/browse/hadith/6209 (number as in sunnah.com's listing).
 - T. Porter, A. Elnakouri, E. A. Meyers, T. Shibayama, E. Jayawickreme and I. Grossmann, "Predictors and consequences of intellectual humility", *Nature Reviews Psychology* 1 (2022), pp. 524–536, https://pmc.ncbi.nlm.nih.gov/articles/PMC9244574/.
 
 ### In brief
@@ -166,14 +164,12 @@ The Prophet (pbuh) defined arrogance precisely: "Arrogance is to reject the trut
 **The definition.** ʿAbdullah ibn Masʿud (ra) reports the Prophet (pbuh) as saying: "Anyone has an atom's weight of arrogance in his heart will not enter Paradise." When a man asked about wanting to look good, he said: "Verily, Allah is beautiful and He loves beauty. Arrogance is to reject the truth and look down on people" (Sahih Muslim 91, English as given by HadeethEnc; the man's question is summarised here). This is the key to the whole topic: caring how you look is not arrogance; refusing the truth and despising people is.
 
 #### scholars — How scholars have understood it
-**Iblis as the first arrogance.** The current page cites Iblis's refusal to bow to Adam, in which he claims to be better than Adam (7:12), as the classical first example of *kibr*. The verse is not quoted here because no verified text of it was available for this run.
+**Iblis as the first arrogance.** The verse is not quoted here because no verified text of it was available.
 
-**Al-Ghazali on the sources of arrogance.** The current page cites al-Ghazali's book on condemning pride (*Iḥyāʾ*, Book 29, *Dhamm al-kibr wa-l-ʿujb*) for a list of what people take pride in — knowledge, worship, lineage, beauty, wealth, strength, followers. That book was not read for this run (see Gaps).
 
 #### research — What research shows
 **Intellectual humility.** [Moderate; mostly correlational.] Porter and colleagues (2022) define intellectual humility as "a meta-cognitive ability to recognize the limitations of one's beliefs and knowledge". They review evidence that it is linked to less "myside" bias, more exposure to opposing views, less hostility toward other groups, and more motivation to learn. They caution that "much of this work is correlational", that questionnaires "rely on subjective judgements", that intervention studies are small and "have not been subject to replication", and that "intellectual humility is not a panacea". This fits the hadith's definition: the first mark of arrogance is "to reject the truth".
 
-**Other claims on the current page** (narcissism and aggression; humble leaders and team engagement) were not checked for this run.
 
 #### practice — In daily life
 **When you are corrected, say "you may be right" and check.** Rejecting the truth because of who says it is the first half of the hadith's definition of arrogance.
@@ -198,10 +194,9 @@ The Prophet (pbuh) defined arrogance precisely: "Arrogance is to reject the trut
 
 **Why does Luqman mention the voice of donkeys?** It is a vivid image: loudness used to dominate is unpleasant, not impressive (31:19).
 
-**Can religious knowledge make people arrogant?** Yes; the current page cites al-Ghazali listing knowledge and worship among sources of pride (not checked here).
 
 ### Honest limits
-Al-Ghazali's book on pride, and research on narcissism and humble leadership, were not read for this run. The hadith's number in Sahih Muslim was not confirmed on sunnah.com. Religious arrogance is one of the reasons people give for leaving faith; this page names the teaching, not a claim that communities live it.
+Al-Ghazali's book on pride, and research on narcissism and humble leadership, have not yet been consulted. The hadith's number in Sahih Muslim was not confirmed on sunnah.com. Religious arrogance is one of the reasons people give for leaving faith; this page names the teaching, not a claim that communities live it.
 
 ---
 
@@ -231,7 +226,7 @@ Al-Ghazali's book on pride, and research on narcissism and humble leadership, we
 
 **The balance (55:7–9).** "And the heaven He raised and imposed the balance That you not transgress within the balance. And establish weight in justice and do not make deficient the balance" (55:7–9), Sura al-Rahman. Ibn Kathir reads *al-mīzān* as "the justice" (citing 57:25) and 55:9 as "do not cheat in the weights and measures, but rather observe justice and fairness". He gives no ecological reading. Reading "the balance" as ecological balance is a modern extension and should be labelled as such.
 
-**Successor on earth (2:30).** "Indeed, I will make upon the earth a successive authority" (2:30). The current page notes that classical tafsir mostly read *khalīfa* as succession of generations or as ruling with justice, and that "stewardship of the earth" is a modern reading; this was not re-checked for this run.
+**Successor on earth (2:30).** "Indeed, I will make upon the earth a successive authority" (2:30).
 
 #### sunnah — What the Prophet (pbuh) taught
 **Planting is charity.** Anas (ra) reports: "There is none amongst the Muslims who plants a tree or sows seeds, and then a bird, or a person or an animal eats from it, but is regarded as a charitable gift for him" ({hadith:bukhari:2320}).
@@ -241,7 +236,7 @@ Al-Ghazali's book on pride, and research on narcissism and humble leadership, we
 **Protected land.** Al-Ṣaʿb ibn Jaththama reports the Prophet's (pbuh) ruling, "No Hima except for Allah and His Apostle"; he designated al-Naqiʿ as a protected area, and later ʿUmar designated al-Sharaf and al-Rabadha for grazing the animals of zakāh ({hadith:bukhari:2370}). The ruling ended private, exclusive enclosures of common pasture, and reserved protection for the public good.
 
 #### scholars — The hardest critique: Lynn White
-**The critique at full strength.** In 1967 the historian Lynn White argued in *Science* that the Western ecological crisis has religious roots: that Christianity, by teaching that humans are made to rule nature and by stripping nature of its sacredness, allowed people to exploit it "with indifference". In the summary read for this page, he calls Christianity "the most anthropocentric religion the world has ever seen", says it "bears a huge burden of guilt", and proposes Francis of Assisi as a model. The critique can be applied to Islam too: the Quran says God "subjected" what is in the heavens and earth to humans, and makes humans *khalīfa*.
+**The critique at full strength.** In 1967 the historian Lynn White argued in *Science* that the Western ecological crisis has religious roots: that Christianity, by teaching that humans are made to rule nature and by stripping nature of its sacredness, allowed people to exploit it "with indifference". In the summary read, he calls Christianity "the most anthropocentric religion the world has ever seen", says it "bears a huge burden of guilt", and proposes Francis of Assisi as a model. The critique can be applied to Islam too: the Quran says God "subjected" what is in the heavens and earth to humans, and makes humans *khalīfa*.
 
 **A reply.** First, in the Quran humans are not owners. The earth and what is in it belong to God; humans receive it as a trust (*amāna*, 33:72; see "Amāna") and will be asked about it. Second, the Quran repeatedly condemns excess (7:31; 6:141) and ruin of crops and animals (2:205), and the Prophet (pbuh) made planting a charity and protected land from private seizure (Bukhari 2320, 2370). Third, the Quran does not empty nature of meaning: creation is full of "signs" (*āyāt*) pointing to God (see the Reflect pages), which is closer to reverence than to indifference.
 
@@ -250,7 +245,7 @@ Al-Ghazali's book on pride, and research on narcissism and humble leadership, we
 #### research — What research shows
 **Water stress.** [Established for the figures.] The World Resources Institute's Aqueduct data (2023) find that "25 countries or a quarter of the world's population are currently exposed to extremely high water stress annually", and that in West Asia and North Africa "83 per cent of the population is exposed to extremely high water stress" (*Down To Earth*, 2023). Many of these countries are Muslim-majority; 7:31 and 6:141 speak directly to waste.
 
-**Religion and environmental behaviour.** The current page says the effect of religion on pro-environmental behaviour is "mixed". No named study could be opened for this run (two were blocked), so no figures are given (see Gaps). *Time in nature* (White et al., 2019) was not re-checked.
+**Religion and environmental behaviour.** No named study could be opened (two were blocked), so no figures are given. *Time in nature* (White et al., 2019) has not yet been checked again.
 
 #### practice — In daily life
 **Use water as if it were scarce**, because for most people in the region it is: shorter showers, fix leaks, take only what you need in ablution.
@@ -276,7 +271,7 @@ Al-Ghazali's book on pride, and research on narcissism and humble leadership, we
 **What is a *ḥimā*?** A protected area. The Prophet (pbuh) ruled that only public authority, not private owners, could create one ({hadith:bukhari:2370}).
 
 ### Honest limits
-Lynn White's article itself was not read, only a summary. No study of religion and environmental behaviour could be opened. The classical reading of *khalīfa* was not re-checked. Waste and pollution are serious in many Muslim-majority countries; this page does not claim Muslims are naturally better environmentalists.
+Lynn White's article itself has not yet been consulted, only a summary. No study of religion and environmental behaviour could be opened. The classical reading of *khalīfa* has not yet been checked again. Waste and pollution are serious in many Muslim-majority countries; this page does not claim Muslims are naturally better environmentalists.
 
 ---
 
@@ -312,12 +307,12 @@ Marriage is called one of God's signs: "He created for you from yourselves mates
 **The best to his family.** "The best of you is the best to his wives, and I am the best of you to my wives" (al-Tirmidhi 3895; al-Tirmidhi: *ḥasan gharīb ṣaḥīḥ*; al-Albani: *ṣaḥīḥ*).
 
 #### scholars — How scholars have understood it
-**Al-Ghazali's book on marriage.** The current page cites al-Ghazali's *Ādāb al-Nikāḥ* (*Iḥyāʾ*, Book 12) on the benefits and dangers of marriage; it was not read for this run (see Gaps). The legal rights of spouses by school were not read either.
+The legal rights of spouses by school have not yet been consulted either.
 
 #### research — What research shows
 **Marital quality and health.** [Established; small effects.] Robles and colleagues (2014) reviewed 126 studies with more than 72,000 people over 50 years. "Greater marital quality was related to better health", with effects of about r = .07 to .21 (r = .11 for mortality) — small, similar in size to the links between health behaviours such as diet and health. The designs limit conclusions about cause.
 
-**The "5 to 1" ratio.** [Moderate; disputed.] The Gottman Institute reports that in studies by John Gottman and Robert Levenson, couples were asked to "solve a conflict in their relationship in 15 minutes", and that stable, happy couples showed about five positive interactions for every negative one; it claims "over 90% accuracy" in predicting divorce nine years later. That claim comes from the Institute itself; independent criticism of its prediction method (often said to overfit the data) was not read for this run, so the figure should be treated cautiously.
+**The "5 to 1" ratio.** [Moderate; disputed.] The Gottman Institute reports that in studies by John Gottman and Robert Levenson, couples were asked to "solve a conflict in their relationship in 15 minutes", and that stable, happy couples showed about five positive interactions for every negative one; it claims "over 90% accuracy" in predicting divorce nine years later. That claim comes from the Institute itself; independent criticism of its prediction method (often said to overfit the data) has not yet been consulted, so the figure should be treated cautiously.
 
 #### practice — In daily life
 **Say kind words, and say them often** (Ibn Kathir on 4:19).
@@ -349,7 +344,7 @@ Marriage is called one of God's signs: "He created for you from yourselves mates
 **What rights do spouses have in Islamic law?** Not covered in detail here; see the run 5 research and a future page on marriage law.
 
 ### Honest limits
-Al-Ghazali's book on marriage and the schools' rules on spouses' rights were not read. The Gottman figures come from the Gottman Institute. Domestic violence and rising divorce are serious problems in many societies, Muslim-majority ones included; no data on this were read for this run.
+Al-Ghazali's book on marriage and the schools' rules on spouses' rights have not yet been consulted. The Gottman figures come from the Gottman Institute. Domestic violence and rising divorce are serious problems in many societies, Muslim-majority ones included; no data on this were read.
 
 ---
 
@@ -378,17 +373,16 @@ The first word revealed was "Recite" (96:1), and the Prophet (pbuh) was told: "s
 **Those who know (39:9; 58:11; 35:28).** "Say, 'Are those who know equal to those who do not know?' Only they will remember [who are] people of understanding" (39:9). "Allah will raise those who have believed among you and those who were given knowledge, by degrees" (58:11). "Only those fear Allah, from among His servants, who have knowledge" (35:28) — the verse comes right after a description of the different colours of mountains, people and animals (35:27–28), so the "knowledge" in view includes knowledge of creation.
 
 #### sunnah — What the Prophet (pbuh) taught
-**"Seeking knowledge is a duty upon every Muslim."** This often-quoted saying is in Sunan Ibn Majah 224, narrated by Anas (ra): "Seeking knowledge is a duty upon every Muslim, and he who imparts knowledge to those who do not deserve it…" — the rest compares that to putting jewels on swine. Its chain is graded *ḍaʿīf* (weak) by the Darussalam editors (thehouseofislam.com); other scholars have judged it acceptable through its many chains, but that was not checked here. Under this site's rules, no claim rests on it alone. The duty to learn what one needs for faith and practice is supported by the scholars below.
+**"Seeking knowledge is a duty upon every Muslim."** This often-quoted saying is in Sunan Ibn Majah 224, narrated by Anas (ra): "Seeking knowledge is a duty upon every Muslim, and he who imparts knowledge to those who do not deserve it…" — the rest compares that to putting jewels on swine. Its chain is graded *ḍaʿīf* (weak) by the Darussalam editors (thehouseofislam.com); other scholars have judged it acceptable through its many chains, but that has not yet been checked. Under this site's rules, no claim rests on it alone. The duty to learn what one needs for faith and practice is supported by the scholars below.
 
 #### scholars — How scholars have understood it
-**Individual and communal knowledge.** Shaykh Muhammad Abu Bakr Badhib explains that individually obligatory knowledge is "the knowledge that every Muslim, male or female, must acquire" — the meaning of the testimony of faith and the "essential rulings on purity, prayer, fasting, zakat, and pilgrimage" — and that communally obligatory knowledge includes "worldly sciences like medicine, engineering": "if some members of the community pursue it, others are exempt." He refers readers to al-Ghazali's *Iḥyāʾ* for detail; al-Ghazali's Book of Knowledge itself was not read for this run.
+**Individual and communal knowledge.** Shaykh Muhammad Abu Bakr Badhib explains that individually obligatory knowledge is "the knowledge that every Muslim, male or female, must acquire" — the meaning of the testimony of faith and the "essential rulings on purity, prayer, fasting, zakat, and pilgrimage" — and that communally obligatory knowledge includes "worldly sciences like medicine, engineering": "if some members of the community pursue it, others are exempt." He refers readers to al-Ghazali's *Iḥyāʾ* for detail; al-Ghazali's Book of Knowledge itself has not yet been consulted.
 
 **Ibn Rushd: the Law commands reasoned study.** Ibn Rushd (Averroes, d. 1198), the Andalusian judge and philosopher, opens his *Decisive Treatise* by arguing that the Quran commands reflection on created things — citing 59:2 — which Hourani's translation of Ibn Rushd renders as "Reflect, you have vision" (not the Saheeh wording) and verses on studying "the kingdom of the heavens and the earth" — and concludes that "we are under an obligation to carry on our study of beings by intellectual reasoning", so that "the Law commands philosophy": its study is "either obligatory or recommended".
 
 #### research — What research shows
 **Curiosity helps learning.** [Moderate.] In Gruber, Gelman and Ranganath (2014), people rated their curiosity about trivia answers. When they were curious, they learned the answers better and also remembered unrelated faces shown during the wait, even after 24 hours; brain scans showed more activity in the dopamine reward circuit and the hippocampus (Cell Press press release; numbers not given there).
 
-**Other claims on the current page** — education's link to health and income, and small "growth mindset" effects — were not re-checked for this run; nor were UNESCO literacy figures (see Gaps).
 
 #### practice — In daily life
 **Learn what you need for your faith first** — prayer, fasting, purity, the meaning of what you recite — then go further.
@@ -413,10 +407,10 @@ The first word revealed was "Recite" (96:1), and the Prophet (pbuh) was told: "s
 
 **Why was the first word "Recite"?** The verses speak of the pen and of teaching what was not known (96:4–5); the tradition reads this as a call to knowledge.
 
-**Why do some Muslim-majority countries lag in education?** For many historical, economic and political reasons; no data were checked for this run.
+**Why do some Muslim-majority countries lag in education?** For many historical, economic and political reasons; no data were checked.
 
 ### Honest limits
-Al-Ghazali's Book of Knowledge was not read. Education statistics for Muslim-majority countries were not checked. "Golden age" nostalgia can wrongly imply nothing needs to change today.
+Al-Ghazali's Book of Knowledge has not yet been consulted. Education statistics for Muslim-majority countries have not yet been checked. "Golden age" nostalgia can wrongly imply nothing needs to change today.
 
 ---
 
@@ -444,7 +438,7 @@ Al-Ghazali's Book of Knowledge was not read. Education statistics for Muslim-maj
 
 **Striving and guidance (29:69).** "And those who strive for Us — We will surely guide them to Our ways. And indeed, Allah is with the doers of good" (29:69). The effort comes first, and guidance follows.
 
-**The self that urges evil (12:53).** "And I do not acquit myself. Indeed, the soul is a persistent enjoiner of evil, except those upon which my Lord has mercy" (12:53). In Sura Yusuf, this is spoken at the end of the story of the minister's wife (Ibn Kathir and others differ on whether the speaker is Joseph or the woman; that discussion was not read for this run).
+**The self that urges evil (12:53).** "And I do not acquit myself. Indeed, the soul is a persistent enjoiner of evil, except those upon which my Lord has mercy" (12:53). In Sura Yusuf, this is spoken at the end of the story of the minister's wife (Ibn Kathir and others differ on whether the speaker is Joseph or the woman; that discussion has not yet been consulted).
 
 **Change begins inside (13:11).** "Indeed, Allah will not change the condition of a people until they change what is in themselves" (13:11). The verse is about a *people*; applying it to an individual's habits is a common extension.
 
@@ -454,7 +448,7 @@ Al-Ghazali's Book of Knowledge was not read. Education statistics for Muslim-maj
 **Good character weighs most.** "There is nothing heavier than good character put in the scale of a believer on the Day of Resurrection" ({hadith:abudawud:4799}, narrated by Abu al-Dardaʾ; al-Albani: *ṣaḥīḥ*).
 
 #### scholars — How scholars have understood it
-**Training the soul.** The current page cites al-Ghazali's *Riyāḍat al-Nafs* (*Iḥyāʾ*, Book 22, *On Disciplining the Soul*, translated by T. J. Winter) — comparing training the soul to training an animal, by gradual habit — and Miskawayh's *Tahdhīb al-Akhlāq* and Naṣīr al-Dīn al-Ṭūsī's *Akhlāq-i Nāṣirī*, which follow Aristotle in treating virtue as a balanced mean formed by repetition. None of these texts was read for this run (see Gaps); the Bukhari hadith above states the same principle of steady practice.
+**Training the soul.** J. Winter) — comparing training the soul to training an animal, by gradual habit — and Miskawayh's *Tahdhīb al-Akhlāq* and Naṣīr al-Dīn al-Ṭūsī's *Akhlāq-i Nāṣirī*, which follow Aristotle in treating virtue as a balanced mean formed by repetition. None of these texts was read; the Bukhari hadith above states the same principle of steady practice.
 
 #### research — What research shows
 **Childhood self-control predicts adult life.** [Established; correlational.] The Dunedin study "followed 1,037 children from birth to age 32". Children with lower self-control, as rated by teachers, parents and themselves, were more likely as adults to have worse physical health, substance dependence, money and credit problems, and criminal convictions — "after controlling for social class and IQ score" (Moffitt et al., 2011, as reported).
@@ -489,7 +483,7 @@ Al-Ghazali's Book of Knowledge was not read. Education statistics for Muslim-maj
 **Does 13:11 apply to individuals?** It speaks of "a people"; using it for personal change is a common extension.
 
 ### Honest limits
-Al-Ghazali's *On Disciplining the Soul*, Miskawayh and al-Ṭūsī were not read for this run. The Dunedin and habit studies are reported from summaries. No one can promise that discipline will feel easy or quick.
+Al-Ghazali's *On Disciplining the Soul*, Miskawayh and al-Ṭūsī have not yet been consulted. The Dunedin and habit studies are reported from summaries. No one can promise that discipline will feel easy or quick.
 
 ---
 ## Corrections to the current pages

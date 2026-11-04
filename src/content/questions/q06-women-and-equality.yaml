@@ -42,7 +42,7 @@ layers:
 honestLimits:
   tr: |
     Mirasla ilgili reform önerileri tartışmalıdır.
-  en: Some rulings do treat men and women differently, and the classical tradition allowed husbands to hit within limits. How those rulings apply today is contested among Muslim scholars. Several works cited on the current page (Kecia Ali, Tuksal, Barlas, Nadwi) were read here only through reviews or summaries. Divorce law was not covered.
+  en: Some rulings do treat men and women differently, and the classical tradition allowed husbands to hit within limits. How those rulings apply today is contested among Muslim scholars. Several works (Kecia Ali, Tuksal, Barlas, Nadwi) were read here only through reviews or summaries. Divorce law was not covered.
 visualizations:
   - id: ideas
     tr: |
@@ -62,7 +62,7 @@ sources:
     url: https://sunnah.com/muslim:2328a
   - label: Review of Ayesha S. Chaudhry, *Domestic Violence and the Islamic Tradition* (Oxford University Press, 2013), Lahore University of Management Sciences, https://sahsold7.lums.edu.pk/sites/default/files/domestic_violence_and_the_islamic_tradition.pdf.
     url: https://sahsold7.lums.edu.pk/sites/default/files/domestic_violence_and_the_islamic_tradition.pdf
-  - label: '*Wikipedia*, "An-Nisa, 34" and "Islam and domestic violence" — for named classical views (Ibn ʿAbbas, al-Tabari, al-Shafiʿi, ʿAtaʾ ibn Abi Rabah via Jonathan Brown, al-Jassas) and modern translators, and for country data; the underlying works were not read directly.'
+  - label: '*Wikipedia*, "An-Nisa, 34" and "Islam and domestic violence" — for named classical views (Ibn ʿAbbas, al-Tabari, al-Shafiʿi, ʿAtaʾ ibn Abi Rabah via Jonathan Brown, al-Jassas) and modern translators, and for country data; the underlying works not yet consulted directly.'
   - label: Shaykh Anas al-Musa, "What Does 'Men Are the Caretakers of Women' in the Quran (4:34) Mean?", SeekersGuidance (27 November 2024) — citing al-Zuhayli, *al-Tafsir al-Munir*.
   - label: Dar al-Iftaʾ al-Misriyya, "Do Women take Unequal Shares of Inheritance in Islam?", https://dar-alifta.org/en/article/details/120/do-women-take-unequal-shares-of-inheritance-in-islam.
     url: https://dar-alifta.org/en/article/details/120/do-women-take-unequal-shares-of-inheritance-in-islam
@@ -121,17 +121,17 @@ fullAnswer:
 
       **Testimony.** Ibn Rushd reports general agreement on 2:282 in financial matters. Abu Hanifa accepted women's testimony in matters such as marriage and divorce; Malik did not; most scholars accepted women's testimony alone in matters men rarely witness, such as childbirth (Wikipedia, "Status of women's testimony"). Ibn al-Qayyim (d. 1350) argued that a second woman is added where forgetting is feared, while "the woman is equal to the man in honesty, trust, and piety"; Ibn Taymiyya said testimony where error is not feared is not "half of a man" (same source). Taha Jabir al-ʿAlwani (1996) argues that the verse's instructions were "recommended or merely instructional (*irshad*) and without legal import", and that such transactions "were not often matters of" women's concern under "the prevailing social conditions" (abstract).
 
-      **Hadith criticism.** Hidayet Şefkatli Tuksal, a Turkish theologian, studied gender bias in the hadith literature and "has called for the resolution of contradictory assertions about the rights of women in the hadiths" (Wikipedia). Her book was not read for this page.
+      **Hadith criticism.** Hidayet Şefkatli Tuksal, a Turkish theologian, studied gender bias in the hadith literature and "has called for the resolution of contradictory assertions about the rights of women in the hadiths" (Wikipedia). Her book has not yet been consulted.
   - kind: fiqh
     en: |-
       **Inheritance: how it actually works.** Dar al-Iftaʾ of Egypt explains that shares are set by three criteria — closeness of kinship, generation (the young inherit more than the old), and financial responsibility — and that "it is in this category alone that shares of inheritance differ according to gender". It counts "only four cases where a woman inherits half the share of a man", many where she inherits equally (for example maternal half-siblings; and, in 4:11 itself, father and mother each take a sixth when the deceased has children), "more than ten cases where a woman inherits more" than a male in a comparable position, and cases where she inherits and he gets nothing. The double share for a son over a daughter is the best-known case and is the one 4:11 names.
 
-      **Maintenance.** The classical justification is that the husband must pay the dowry and maintain his wife and children (Ibn Kathir; al-Musa). That a wife's own property and earnings remain hers, and how each school enforces maintenance, were not checked in a named source for this page (see Gaps).
+      **Maintenance.** The classical justification is that the husband must pay the dowry and maintain his wife and children (Ibn Kathir; al-Musa). That a wife's own property and earnings remain hers, and how each school enforces maintenance, have not yet been checked in a named source.
   - kind: reasoning
     en: |-
       **What "equality vs. sameness" means.** Two people can be equal in worth and rights while having different duties — as parents, or as employer and employee. The classical argument is that the Quran gives men and women equal worth (4:1; 33:35) and a balance of different rights and duties in the family (2:228): the man pays the dowry and maintains the family; inheritance shares follow that balance. *Limit:* this argument depends on the husband actually providing. Where women earn, support families, or are left without support, the balance the classical rules assumed no longer holds — which is exactly the reader's question.
 
-      **"What about today, when women earn and support families?"** This is the reader's strongest question. The shares are set out in the Quran's own words (4:11), and Tunisia has debated changing them; but no named scholar on either side of that debate was read for this page, so the arguments are not set out here (see Gaps). This page does not claim the question is settled.
+      **"What about today, when women earn and support families?"** This is the reader's strongest question. The shares are set out in the Quran's own words (4:11), and Tunisia has debated changing them; but no named scholar on either side of that debate was read, so the arguments are not set out here. This page does not claim the question is settled.
   - kind: objection
     en: |-
       **"4:34 permits wife-beating."** *Reply:* the verse places hitting as the last of three steps, after advice and separation in bed, followed by arbitration (4:35); some classical scholars set tight limits (Ibn ʿAbbas: a toothstick; al-Shafiʿi: better not to hit), while others allowed much more (Chaudhry, per Noor's review); the Prophet (pbuh) never hit a woman and condemned those who did (Muslim 2328; Abu Dawud 2146). *Limit:* every pre-modern scholar studied by Chaudhry allowed some hitting, and some allowed far more than a toothstick. Modern readings that forbid it entirely are minority or modern views; they may be right, but they should not be presented as the classical consensus.
@@ -158,7 +158,7 @@ followUps:
   - q:
       en: What does *ḍarb* mean, and why do some say "symbolic"?
     a:
-      en: It ordinarily means "to strike". Modern neo-traditionalists call the permitted act "symbolic", pointing to Ibn ʿAbbas's toothstick report (Chaudhry, per Noor's review). Other meanings of the root were not checked in a lexicon for this page.
+      en: It ordinarily means "to strike". Modern neo-traditionalists call the permitted act "symbolic", pointing to Ibn ʿAbbas's toothstick report (Chaudhry, per Noor's review). Other meanings of the root have not yet been checked in a lexicon.
   - q:
       en: What does *qiwāma* mean?
     a:
@@ -166,7 +166,7 @@ followUps:
   - q:
       en: What about divorce, polygyny, hijab and marriage age?
     a:
-      en: See the pages "Polygyny", "Hijab and coercion" and "Aisha's age at marriage". Divorce rules deserve their own page (see Gaps).
+      en: See the pages "Polygyny", "Hijab and coercion" and "Aisha's age at marriage". Divorce rules deserve their own page.
   - q:
       en: Is it Islam, or culture?
     a:

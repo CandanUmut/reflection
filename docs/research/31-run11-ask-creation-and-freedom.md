@@ -77,7 +77,7 @@ Islam affirms two things at once: God's decree covers everything, and human bein
 - Above all, the task — flexing a wrist at a random moment, with nothing at stake — is very different from the moral choices religion is about.
 
 #### objection — The strongest objections, and the replies
-**"If God creates my act, it is not mine."** *Reply:* the Maturidi answer locates ownership in the choosing; the Ashʿari answer in the acquiring; the compatibilist in the act's coming from your own reasons. All three deny that "created by God" means "forced on you". *Limit:* none of these is a proof that removes the mystery, and the tradition itself calls *qadar* a secret (*sirr*) not fully open to the mind (the current page's statement; no named source was read for this run).
+**"If God creates my act, it is not mine."** *Reply:* the Maturidi answer locates ownership in the choosing; the Ashʿari answer in the acquiring; the compatibilist in the act's coming from your own reasons. All three deny that "created by God" means "forced on you".
 
 **"Then punishment is unjust."** *Reply:* the Quran ties judgement to capacity (2:286) and to what a person "earned"; a person is not judged for what was outside their power. *Limit:* a skeptic can still ask why God created some people whom He knew would choose evil — the question of theodicy, which this page does not settle.
 
@@ -104,7 +104,7 @@ Islam affirms two things at once: God's decree covers everything, and human bein
 **What are "Frankfurt cases" and "compatibilism"?** Compatibilism: freedom and responsibility can exist even if everything is determined. Frankfurt cases: thought experiments meant to show that a person can be responsible even when they could not have done otherwise (see "How philosophers frame it").
 
 ### Honest limits
-The hardest version of the problem — that God creates acts, not only knows them — has answers, but no answer that removes all difficulty; Britannica calls *kasb* "one of the most vague theories in Islāmic theology". Al-Maturidi's *Kitāb al-Tawḥīd*, al-Ghazali's *al-Iqtiṣād*, the TDV articles "Kader" and "Cebriyye", and Elmalılı were not read directly for this run. The neuroscience shows that Libet's experiments do not settle free will; it does not show that free will exists.
+The hardest version of the problem — that God creates acts, not only knows them — has answers, but no answer that removes all difficulty; Britannica calls *kasb* "one of the most vague theories in Islāmic theology". Al-Maturidi's *Kitāb al-Tawḥīd*, al-Ghazali's *al-Iqtiṣād*, the TDV articles "Kader" and "Cebriyye", and Elmalılı have not yet been consulted directly. The neuroscience shows that Libet's experiments do not settle free will; it does not show that free will exists.
 
 ---
 
@@ -128,7 +128,7 @@ The hardest version of the problem — that God creates acts, not only knows the
 Students meet evolution in biology class while hearing at home or in the mosque that it is atheism. Many are told they must choose. Some leave faith over it; others avoid science.
 
 ### Short answer
-The question is narrower than it looks. The Quran says nothing about how plants and animals came to be in their present forms; its creation verses about humans concern Adam. Shoaib Ahmed Malik (*Islam and Evolution*, 2021), applying al-Ghazali's rules of interpretation, sorts Muslim views into four positions — creationism, human exceptionalism, Adamic exceptionalism and "no exceptions" — and concludes that the first three are compatible with scripture and the fourth is not. The real dispute is whether Adam himself had biological parents. Common descent is very well supported by evidence such as the fused human chromosome 2. Population genetics rules out a single founding couple in the recent past, but not, on later analyses, one more than about 500,000 years ago. Traditional scholarly answers are cautious: one read for this run (SeekersGuidance, 2020) holds that Adam was certainly created directly, while leaving the evolution of other species open.
+The question is narrower than it looks. The Quran says nothing about how plants and animals came to be in their present forms; its creation verses about humans concern Adam. Shoaib Ahmed Malik (*Islam and Evolution*, 2021), applying al-Ghazali's rules of interpretation, sorts Muslim views into four positions — creationism, human exceptionalism, Adamic exceptionalism and "no exceptions" — and concludes that the first three are compatible with scripture and the fourth is not. The real dispute is whether Adam himself had biological parents. Common descent is very well supported by evidence such as the fused human chromosome 2. Population genetics rules out a single founding couple in the recent past, but not, on later analyses, one more than about 500,000 years ago. Traditional scholarly answers are cautious: one read (SeekersGuidance, 2020) holds that Adam was certainly created directly, while leaving the evolution of other species open.
 
 ### The full answer
 
@@ -136,7 +136,7 @@ The question is narrower than it looks. The Quran says nothing about how plants 
 **You do not have to choose between your faith and your biology class on the terms you were given.** Many people have been told that accepting any part of evolution is unbelief, and many others that faith is anti-science. Both are too simple. Learning that serious Muslim scholars hold several positions — and that the real disagreement is about one person, Adam — often brings relief. Study the science honestly, and study the texts honestly; the two questions are different.
 
 #### quran — What the Quran says about Adam's creation
-**Adam like Jesus (3:59).** "Indeed, the example of Jesus to Allah is like that of Adam. He created Him from dust; then He said to him, 'Be,' and he was" (3:59), Medinan, in a passage about Jesus (pbuh) (its occasion of revelation was not checked for this run). The comparison is that both came into being in an unusual way, by God's command.
+**Adam like Jesus (3:59).** "Indeed, the example of Jesus to Allah is like that of Adam. He created Him from dust; then He said to him, 'Be,' and he was" (3:59), Medinan, in a passage about Jesus (pbuh) (its occasion of revelation has not yet been checked). The comparison is that both came into being in an unusual way, by God's command.
 
 **From clay, shaped and given the spirit (38:71–76).** "[So mention] when your Lord said to the angels, 'Indeed, I am going to create a human being from clay. So when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration'" (38:71–72), Meccan. God asks Iblis: "what prevented you from prostrating to that which I created with My hands?" Iblis answers: "I am better than him. You created me from fire and created him from clay" (38:75–76). The parallel passage in 15:28–29 has the same order: proportioned, then "breathed into him of My [created] soul" (15:29).
 
@@ -156,14 +156,14 @@ Malik's book maps Muslim positions on whether humans share common ancestry with 
 3. **Adamic exceptionalism.** Developed by David Solomon Jalajel; Bigliardi describes Malik as praising it. "Adam and Eve were created miraculously, yet in such a way that their makeup and appearance did not differ from humans that hitherto evolved" (Bigliardi). Other human-like beings may have existed and evolved; Adam and Eve were created directly; their descendants may have mixed with others. *Reading of the Adam verses:* literal for Adam; the Quran is silent on others.
 4. **No exceptions.** "Total acceptance of evolution (including for humans)" (Bigliardi): Adam too had biological ancestors. *Reading of the Adam verses:* non-literal or symbolic.
 
-**Al-Ghazali's rule, and how Malik applies it.** "Chapter 9 outlines Al-Ghazālī's hermeneutics principles" (Arrozy). Bigliardi describes them as several "layers" of reading, starting from "acceptance at face value"; metaphorical readings, he reports, "may be maintained, yet in conjunction with the reading of Adam as a real individual" (citing p. 308). Applying these principles, Malik concludes that they "would agree with creationism, human exceptionalism, and Adamic exceptionalism", but not with "no exceptions" (Arrozy, citing p. 330), because its metaphorical reading of Adam's story "seems to be dominantly influenced by scientific measures" (p. 306). The exact wording of al-Ghazali's rule was not read for this run (see Gaps).
+**Al-Ghazali's rule, and how Malik applies it.** "Chapter 9 outlines Al-Ghazālī's hermeneutics principles" (Arrozy). Bigliardi describes them as several "layers" of reading, starting from "acceptance at face value"; metaphorical readings, he reports, "may be maintained, yet in conjunction with the reading of Adam as a real individual" (citing p. 308). Applying these principles, Malik concludes that they "would agree with creationism, human exceptionalism, and Adamic exceptionalism", but not with "no exceptions" (Arrozy, citing p. 330), because its metaphorical reading of Adam's story "seems to be dominantly influenced by scientific measures" (p. 306). The exact wording of al-Ghazali's rule has not yet been consulted.
 
 **Ashʿari occasionalism, explained.** *Occasionalism* is the view that God is the direct cause of every event, and what we call natural causes are only the occasions on which He acts. Al-Ghazali's famous example: "the cotton is burned directly by God rather than by the fire" (*Wikipedia*); the regular order of nature expresses God's will, not a necessity in things. Arrozy summarises: "The Ash'arite theology, i.e. occasionalism" holds that God is "the primary cause of everything" and "is not bound by the law of nature", and the four positions "could align well with the Ash'arite theology". From this, this page draws its own point (not attributed to Malik): "unguided" evolution is a metaphysical claim, not a biological one, since on occasionalism every mutation and every selection is God's act.
 
 **Not every claimed precedent is real.** Arrozy reports Malik's caution against reading Darwin back into classical authors such as Ibn Khaldūn, Rūmī and al-Jāḥiẓ. A Turkish example of the same caution: Süleyman Ateş claimed in 1975 that the commentator Elmalılı Hamdi Yazır accepted the evolution of Adam; Gördük (2019) argues that Ateş quoted selectively and that Elmalılı held Adam was created as "kusursuz bir ilk insan" — a flawless first human.
 
 #### science — What the evidence shows
-**Common descent.** [Established] One clear example: humans have 23 pairs of chromosomes, while "all other extant members of Hominidae have twenty-four pairs". "Human chromosome 2 is a result of an end-to-end fusion of two ancestral chromosomes": it carries "remnants of a second centromere" and "additional telomere sequences in the q13 band, far from either end of the chromosome" — telomeres normally sit only at chromosome ends — "the relic of an ancient telomere-telomere fusion" (*Wikipedia*, citing Ijdo et al. 1991 and others). Chimpanzees have "nearly identical DNA sequences to human chromosome 2, but they are found in two separate chromosomes". This is one line of evidence among many (fossils, anatomy, shared genetic "mistakes"), which this run did not survey.
+**Common descent.** [Established] One clear example: humans have 23 pairs of chromosomes, while "all other extant members of Hominidae have twenty-four pairs". "Human chromosome 2 is a result of an end-to-end fusion of two ancestral chromosomes": it carries "remnants of a second centromere" and "additional telomere sequences in the q13 band, far from either end of the chromosome" — telomeres normally sit only at chromosome ends — "the relic of an ancient telomere-telomere fusion" (*Wikipedia*, citing Ijdo et al. 1991 and others). Chimpanzees have "nearly identical DNA sequences to human chromosome 2, but they are found in two separate chromosomes". This is one line of evidence among many (fossils, anatomy, shared genetic "mistakes"), which this page does not survey.
 
 **A single founding couple: the numbers.** [Debated]
 - Estimates of past human population size put it at "never fewer than around 10,000 people" (Craig's summary of the critics). Craig points out that these are averages over long periods, not minimums.
@@ -180,9 +180,9 @@ Malik's book maps Muslim positions on whether humans share common ancestry with 
 **"Evolution means no God."** *Reply:* "unguided" is a philosophical addition, not a finding of biology; for an Ashʿari, every natural process is God's act. *Limit:* the critic says that if God acts through the same processes that would occur without Him, His action is not detectable — which is true, and is also what occasionalism says.
 
 #### views — What Muslims and institutions actually believe
-- **Popular opinion varies widely.** In Pew's 2013 survey of Muslims, the share saying humans and other living things evolved over time ranged from 79% in Kazakhstan and 78% in Lebanon down to 30% in Pakistan, among the figures the report states. "In just four countries" — Iraq (67%), Afghanistan (62%), Indonesia (55%) and Tajikistan (55%) — did at least half say humans have always existed in their present form; in Turkey this was the most common answer (49%) (Pew; survey years and samples are in the report's methodology, not read here).
+- **Popular opinion varies widely.** In Pew's 2013 survey of Muslims, the share saying humans and other living things evolved over time ranged from 79% in Kazakhstan and 78% in Lebanon down to 30% in Pakistan, among the figures the report states. "In just four countries" — Iraq (67%), Afghanistan (62%), Indonesia (55%) and Tajikistan (55%) — did at least half say humans have always existed in their present form; in Turkey this was the most common answer (49%) (Pew; survey years and samples are in the report's methodology, not yet consulted).
 - **A traditional scholarly answer.** A SeekersGuidance answer, approved by Faraz Rabbani, says: "We are certain that Adam… did not evolve", that his direct creation "is clearly established", while "the process of creation for anything other than humans is not addressed in the Qur'an" (2020). This is human exceptionalism.
-- **Academic theologians.** Malik and Jalajel defend Adamic exceptionalism as compatible; Nidhal Guessoum's *Islam's Quantum Question* is cited on the current page; it was not read for this run.
+- **Academic theologians.** Malik and Jalajel defend Adamic exceptionalism as compatible;
 - **"No exceptions."** Judged incompatible with scripture by Malik; its Muslim holders were not identified in the sources read.
 
 ### Questions readers ask next
@@ -190,16 +190,16 @@ Malik's book maps Muslim positions on whether humans share common ancestry with 
 
 **If humans evolved, how do I read the verses saying Adam was made from clay?** On Adamic exceptionalism, you read them as they are: Adam was made from clay and given the spirit; the Quran is silent on other beings. On "no exceptions", they are read symbolically — which Malik, following al-Ghazali, judges not acceptable.
 
-**Do I have to believe Adam had no parents to be a Muslim?** Malik's analysis treats Adam as "a real individual" created miraculously (Bigliardi), and the SeekersGuidance answer read here calls his direct creation certain. Other institutions were not checked for this run. A Muslim can accept evolution for other species, and on Adamic exceptionalism even for other human-like beings, while holding this.
+**Do I have to believe Adam had no parents to be a Muslim?** Malik's analysis treats Adam as "a real individual" created miraculously (Bigliardi), and the SeekersGuidance answer read here calls his direct creation certain. Other institutions have not yet been checked. A Muslim can accept evolution for other species, and on Adamic exceptionalism even for other human-like beings, while holding this.
 
 **What do "human exceptionalism" and "Adamic exceptionalism" mean?** Human exceptionalism: all humans descend only from Adam and Eve, who were created directly. Adamic exceptionalism: only Adam and Eve are the exception; other humans may have evolved.
 
 **What is "Ashʿari occasionalism"?** The view that God directly causes every event; natural causes are the occasions of His action. Al-Ghazali: the cotton burns by God's act, not by the fire.
 
-**What do most Muslims and Muslim institutions actually believe?** Opinion varies a great deal by country (Pew, 2013). The one scholarly answer read for this run (SeekersGuidance) holds that Adam was created directly, while leaving the evolution of other species open; Diyanet, al-Azhar and fatwa councils were not checked.
+**What do most Muslims and Muslim institutions actually believe?** Opinion varies a great deal by country (Pew, 2013). The one scholarly answer read (SeekersGuidance) holds that Adam was created directly, while leaving the evolution of other species open; Diyanet, al-Azhar and fatwa councils have not yet been checked.
 
 ### Honest limits
-Malik's book itself, Jalajel's work and Guessoum's book were read only through reviews; al-Ghazali's *Qānūn al-Taʾwīl* and *Fayṣal al-Tafriqa* were not read, so his rule is described only in the reviewers' words. The survey of evidence for common descent here gives one example; it is not a full account. Institutional positions (Diyanet, al-Azhar, fatwa councils) beyond the one answer read were not checked.
+Malik's book itself, Jalajel's work and Guessoum's book were read only through reviews; al-Ghazali's *Qānūn al-Taʾwīl* and *Fayṣal al-Tafriqa* have not yet been consulted, so his rule is described only in the reviewers' words. The survey of evidence for common descent here gives one example; it is not a full account. Institutional positions (Diyanet, al-Azhar, fatwa councils) beyond the one answer read have not yet been checked.
 
 ---
 ## Q17 — Who created God?
@@ -233,7 +233,7 @@ The classical arguments do not say "everything has a cause". They say that whate
 
 **Being troubled by a thought is a sign of faith, not its loss.** When Companions told the Prophet (pbuh), "Verily we perceive in our minds that which every one of us considers it too grave to express", he asked, "Do you really perceive it?" and said: "That is the faith manifest" ({hadith:muslim:132a}). The distress is the faith reacting.
 
-**Is it allowed to keep thinking about it?** In this page's reading (no commentator on the hadith was read for this run), the hadith address the whisper — the thought that comes as an attack and a loop — not philosophy: Muslim scholars from al-Ghazali to Mulla Sadra wrote at length on exactly this question (below). A useful test: if thinking it through brings understanding, it is inquiry. If it brings only fear, repetition and a need to check again and again, it is the whisper, and the advice is to stop engaging it.
+**Is it allowed to keep thinking about it?** In this page's reading (no commentator on the hadith was read), the hadith address the whisper — the thought that comes as an attack and a loop — not philosophy: Muslim scholars from al-Ghazali to Mulla Sadra wrote at length on exactly this question (below). A useful test: if thinking it through brings understanding, it is inquiry. If it brings only fear, repetition and a need to check again and again, it is the whisper, and the advice is to stop engaging it.
 
 > **If it is OCD.** Unwanted, intrusive religious thoughts that "trigger intensely distressing feelings", and fears such as "Fear of committing blasphemy, or offending/angering God", can be scrupulosity, a form of OCD (International OCD Foundation). It responds to treatment: cognitive behaviour therapy with exposure and response prevention, sometimes with medication, and sometimes with help from a faith leader. See iocdf.org, or findahelpline.com for free support lines in many countries.
 
@@ -290,7 +290,7 @@ The classical arguments do not say "everything has a cause". They say that whate
 
 **"A designer must be more complex than its design" (Dawkins).** *Reply:* the classical arguments are not design arguments, and classical theism holds that God is simple, not a complex mechanism. *Limit:* critics find divine simplicity itself hard to make sense of — how can a simple being know and will many things?
 
-**"Even if there is a necessary being, why the God of the Quran?"** *Reply:* the further steps — that the necessary being is one, knowing, willing and personal — are separate arguments (the current page notes Ibn Sina's derivation of the attributes). *Limit:* these steps are weaker than the first. Michael Martin argues the kalām argument shows at most that some agent or agents caused the universe (*Wikipedia*).
+**"Even if there is a necessary being, why the God of the Quran?"** *Limit:* these steps are weaker than the first. Michael Martin argues the kalām argument shows at most that some agent or agents caused the universe (*Wikipedia*).
 
 **"Is this argument specific to Islam?"** *Reply:* no. *Wikipedia* traces the kalām argument to John Philoponus (6th century, a Christian) and to medieval Islamic kalām, including al-Ghazali; its best-known modern defender is the Christian philosopher William Lane Craig, and the modern name "kalām cosmological argument" keeps its Islamic source. In the 1948 debate, Copleston argued from contingency in much the way Ibn Sina did. It is a shared argument of monotheism.
 
@@ -316,7 +316,7 @@ The classical arguments do not say "everything has a cause". They say that whate
 **Is this argument specific to Islam, or the same one Christian philosophers use?** It is shared: its best-known modern form, the "kalām cosmological argument", keeps the name of its Islamic source, and its best-known modern defender, William Lane Craig, is a Christian philosopher.
 
 ### Honest limits
-The regress objection fails against the classical arguments, but the arguments themselves are respected rather than decisive: most professional philosophers are not persuaded. Getting from a necessary being to the one personal God takes further, weaker steps. Ibn Sina, al-Ghazali, Ibn Rushd and Mulla Sadra were read here only through encyclopedia summaries, not in their own texts; Hume's *Dialogues* and al-Ghazali's *al-Iqtiṣād* were not read; Ṭabāṭabāʾī's version was not covered. The explanation of divine simplicity is a summary of the classical view; no source on it was read for this run.
+The regress objection fails against the classical arguments, but the arguments themselves are respected rather than decisive: most professional philosophers are not persuaded. Getting from a necessary being to the one personal God takes further, weaker steps. Ibn Sina, al-Ghazali, Ibn Rushd and Mulla Sadra were read here only through encyclopedia summaries, not in their own texts; Hume's *Dialogues* and al-Ghazali's *al-Iqtiṣād* have not yet been consulted; Ṭabāṭabāʾī's version was not covered. The explanation of divine simplicity is a summary of the classical view; no source on it was read.
 
 ---
 
@@ -368,7 +368,7 @@ There is no proof of an afterlife that would satisfy a sceptic, and this page do
 
 **The grave.** Anas (ra) reports the Prophet (pbuh): "When a human being is laid in his grave and his companions return and he even hears their foot steps", "two angels come to him and make him sit and ask him", "What did you use to say about this man, Muhammad?" The believer answers, "I testify that he is Allah's slave and His Apostle", and is told: "Look at your place in the Hell-Fire. Allah has given you a place in Paradise instead of it." The one who says "I do not know, but I used to say what the people used to say!" fares otherwise ({hadith:bukhari:1338}).
 
-**Resurrection, judgement, reunion.** The Quran and Sunna teach a bodily resurrection on the Last Day, a judgement in which each person sees their deeds, and then Paradise or Hell. The current page and the sources read here do not detail the teaching on reunion with family; the Quran's verses on families joined in Paradise were not read from verified data for this run (see Gaps).
+**Resurrection, judgement, reunion.** The Quran and Sunna teach a bodily resurrection on the Last Day, a judgement in which each person sees their deeds, and then Paradise or Hell.
 
 **The soul.** "And they ask you, [O Muhammad], about the soul. Say, 'The soul is of the affair of my Lord. And mankind have not been given of knowledge except a little'" (17:85). And: "Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep" (39:42). The Quran treats the soul as real and as God's to take and return, while saying little about its nature.
 
@@ -377,7 +377,7 @@ There is no proof of an afterlife that would satisfy a sceptic, and this page do
 
 **Nursi: twelve "gates".** In the Tenth Word (*The Resurrection and the Hereafter*), Said Nursi argues from God's names. The "SECOND TRUTH: The gate of Munificence and Mercy" rests on an observation, which the "THIRD TRUTH: The gate of Wisdom and Justice" develops: "This world's oppressors die with their oppressive power intact, while the oppressed die still subjected to humiliation." A just and merciful God would not leave it there. In the "Ninth Truth", spring is a daily sample of resurrection: "Each spring we see countless animal and plant species assembled in a few days and then scattered" ("Twelve Truths"). The Tenth Word opens with the verse "Look, then, to the signs of God's mercy - how He restores life to the earth after its death" (tr. Algar).
 
-**Mutahhari.** The current page says Murtaza Mutahhari argued from justice. His work was not read for this run (see Gaps).
+**Mutahhari.** His work has not yet been consulted.
 
 #### reasoning — The mind–brain objection, answered
 **What the objection gets right.** The mind depends on the brain in this life: injuries, drugs and illness change memory, mood and personality. Any honest answer must accept this.
@@ -430,7 +430,7 @@ There is no proof of an afterlife that would satisfy a sceptic, and this page do
 **What is Kant's moral argument, in a few sentences?** Morality commands us to seek a world where happiness matches goodness; that is not possible in nature alone; so we must postulate God and a future life — as a practical commitment, not a proof.
 
 ### Honest limits
-None of these arguments is a proof, and the page should not present them as one. Mutahhari, al-Ghazali's *Tahāfut* itself (20th discussion), and the Quran's verses on reunion in Paradise were not read for this run. The AWARE studies and the 2023 dying-brain study were read through abstracts and a news release, not the full papers.
+None of these arguments is a proof, and the page should not present them as one. Mutahhari, al-Ghazali's *Tahāfut* itself (20th discussion), and the Quran's verses on reunion in Paradise have not yet been consulted. The AWARE studies and the 2023 dying-brain study were read through abstracts and a news release, not the full papers.
 
 ---
 ## Corrections to the current pages

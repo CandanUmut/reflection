@@ -24,7 +24,7 @@ scholarship:
   en: Al-Ghazālī's twenty "calamities of the tongue".
 gaps:
   tr: Şüphe yaşayanlara yönelik çevrim içi hakaret ve saldırılar.
-  en: The source for al-Nawawi's six cases is an English e-book whose translator and original work were not named. The full list of al-Ghazali's twenty banes was not read. Free speech and blasphemy laws are not discussed. Muslim communities, like others, often fail this teaching — gossip is common — and this page does not claim otherwise.
+  en: The source for al-Nawawi's six cases is an English e-book whose translator and original work were not named. The full list of al-Ghazali's twenty banes has not yet been consulted. Free speech and blasphemy laws are not discussed. Muslim communities, like others, often fail this teaching — gossip is common — and this page does not claim otherwise.
 visualizations:
   - id: ideas
     tr: Bir "paylaşmadan önce" süzgeci.
@@ -50,7 +50,7 @@ fullAnswer:
     en: |-
       **Six forbidden things (49:11–12).** "O you who have believed, let not a people ridicule [another] people; perhaps they may be better than them; nor let women ridicule [other] women… And do not insult one another and do not call each other by [offensive] nicknames… O you who have believed, avoid much [negative] assumption. Indeed, some assumption is sin. And do not spy or backbite each other. Would one of you like to eat the flesh of his brother when dead? You would detest it. And fear Allah; indeed, Allah is Accepting of repentance and Merciful" (49:11–12). Sura al-Hujurat is Medinan and addressed to the believers. The forbidden list moves from public (mockery, nicknames) to private (suspicion, spying, backbiting). The image of eating a dead brother's flesh fits: the person is absent and cannot defend himself.
 
-      **Does "your brother" include non-Muslims?** The verse addresses believers and speaks of "his brother". Whether the prohibition extends to non-Muslims was not checked in a named commentary for this run. The general commands of justice (5:8) and good speech apply to everyone, and slander is forbidden against anyone (see Gaps).
+      **Does "your brother" include non-Muslims?** The verse addresses believers and speaks of "his brother". Whether the prohibition extends to non-Muslims has not yet been checked in a named commentary. The general commands of justice (5:8) and good speech apply to everyone, and slander is forbidden against anyone.
   - kind: sunnah
     en: |-
       **What backbiting is.** The Prophet (pbuh) asked: "Do you know what is backbiting?" and answered: "Backbiting implies your talking about your brother in a manner which he does not like." Asked what if it is true, he said: "If (that failing) is actually found (in him) what you assert, you in fact backbited him, and if that is not in him it is a slander" ({hadith:muslim:2589}, narrated by Abu Hurayra). So truth is not a defence: true but hurtful gossip is still backbiting.
@@ -72,7 +72,7 @@ fullAnswer:
   - kind: history
     en: "**Hadith criticism as permitted speech.** Al-Nawawi's fourth case includes the critique of hadith narrators — the basis of the whole science of judging chains. Scholars openly called narrators liars or weak in memory, and held that this was not forbidden backbiting because it protected the religion from false reports."
   - kind: research
-    en: "**No research specifically on Islamic speech ethics was read for this run.** This page makes no scientific claims."
+    en: "**No research specifically on Islamic speech ethics was read.** This page makes no scientific claims."
   - kind: practice
     en: |-
       **Before speaking about someone, ask three questions.** Would they dislike it? Is there a need — justice, protection, advice? Am I saying only what the need requires?
@@ -95,7 +95,7 @@ followUps:
   - q:
       en: Does "your brother" in 49:12 include non-Muslims?
     a:
-      en: Not checked in a named commentary for this run. Slander and injustice are forbidden against anyone (5:8).
+      en: Not checked in a named commentary. Slander and injustice are forbidden against anyone (5:8).
   - q:
       en: Are there times Islam allows lying, for example to make peace?
     a:

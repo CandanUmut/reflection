@@ -22,7 +22,7 @@ verseNotes:
     "And your Lord inspired to the bee, 'Take for yourself among the mountains, houses, and among the trees and [in] that which they construct. Then eat from all the fruits and follow the ways of your Lord laid down [for you].' There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought" (16:68–69).
 
     - **Key words.** *Awḥā* ("inspired") is from *waḥy*, the word also used for revelation to prophets; here it means a guiding prompt placed in a creature. *Shifāʾ* ("healing") is indefinite in Arabic: "healing", not "the cure".
-    - **Feminine verbs.** The commands to the bee (*ittakhidhī*, "take"; *kulī*, "eat"; *uslukī*, "follow") are grammatically feminine. Whether this says anything about the bees' sex is unclear: Arabic collective nouns like *naḥl* commonly take feminine agreement anyway (a grammatical point not checked in a named source for this run). It is at least consistent with the biology (below).
+    - **Feminine verbs.** The commands to the bee (*ittakhidhī*, "take"; *kulī*, "eat"; *uslukī*, "follow") are grammatically feminine. Whether this says anything about the bees' sex is unclear: Arabic collective nouns like *naḥl* commonly take feminine agreement anyway (a grammatical point not checked in a named source). It is at least consistent with the biology (below).
     - **Setting.** Sura al-Naḥl is Meccan and is named after this passage. It continues the run of signs of provision in 16:65–67 (rain, milk, fruit).
 tafsir:
   tr: |
@@ -49,7 +49,7 @@ howItWorks:
     - **"From their bellies".** [Established] Nectar is carried in "the bee's crop, or honey stomach", which can hold up to a third of the bee's weight. The forager adds an enzyme, invertase, "as they swallow it", which begins splitting sucrose into simpler sugars. Back at the hive, she "regurgitates her nectar load to special food-handling bees" (MSU Extension).
     - **From nectar to honey.** [Established] Bees dry the nectar by "rapidly beating or fanning their wings in the hive", which "reduces that water content to around 18 percent" (MSU Extension).
     - **"Varying in colors".** [Established] Honey's colour and flavour depend on the flowers the nectar came from, as Ibn Kathir also says.
-    - **The foragers are female.** [Established, but not shown by the source read] Foragers are female worker bees; the MSU Extension account only implies it ("her nectar load"). A named source is needed (see Gaps).
+    - **The foragers are female.** [Established, but not shown by the source read] Foragers are female worker bees; the MSU Extension account only implies it ("her nectar load"). A named source is needed.
     - **"Healing for people": what trials show.**
       - *Burns.* [Moderate to High for this one use] A Cochrane review (Jull et al. 2015; 26 trials, 3,011 participants) found that "honey dressings heal partial thickness burns more quickly than conventional dressings", by about 4.7 days (high-certainty evidence for this comparison). But for wounds overall it was "difficult to draw overall conclusions", and most of the evidence was of low or very low certainty.
       - *Coughs and colds.* [Moderate] A meta-analysis in *BMJ Evidence-Based Medicine* (14 studies) found honey reduced cough frequency (standardised mean difference −0.36; 95% CI −0.50 to −0.21) and cough severity (−0.44; −0.64 to −0.25) compared with usual care. The authors called for placebo-controlled trials.
@@ -64,9 +64,9 @@ awe:
     - Bees turn nectar of up to 80% water into honey of about 18% water by fanning their wings (MSU Extension).
 honestNotes:
   - en: "**\"Healing\", not \"cure for everything\".** The verse's *shifāʾ* is indefinite. Al-Jalālayn's English text says both \"from all ailments\" and \"only for some ailments\"; the evidence today supports benefit for some uses (partial-thickness burns; cough symptoms), uncertain benefit for others, and no evidence for honey as a general cure."
-  - en: '**The popular claims.** Two are common: that the feminine verbs "prove" the Quran knew worker bees are female, and that "from their bellies" anticipated the honey stomach. Both fit the biology, but neither is decisive: the feminine grammar may simply follow the collective noun, and the commentators read here did not draw either point. No named source making these claims was read for this run.'
+  - en: '**The popular claims.** Two are common: that the feminine verbs "prove" the Quran knew worker bees are female, and that "from their bellies" anticipated the honey stomach. Both fit the biology, but neither is decisive: the feminine grammar may simply follow the collective noun, and the commentators read here did not draw either point. No named source making these claims was read.'
   - en: "**The numbers are estimates.** The Council's 2.6 million flowers and 50,000 miles are its own calculations from assumed averages."
-  - en: '**A figure to drop.** The current page says one bee makes "about 1/12 teaspoon in its lifetime". No source for this was read. The Canadian Honey Council page says "about 1 and ½ teaspoons", with no source either. The two disagree by a factor of 18; the figure should be removed until a primary source is found.'
+  - en: '**A figure to drop.** No source for this was read. The Canadian Honey Council page says "about 1 and ½ teaspoons", with no source either. The two disagree by a factor of 18; the figure should be removed until a primary source is found.'
 visualizations:
   - id: ideas
     tr: Bir kovan kesiti ve kavanoz doldukça artan bir çiçek sayacı.
@@ -79,8 +79,8 @@ sources:
     url: https://extension.msstate.edu/blogs/extension-for-real-life/how-honey-made
   - label: Canadian Honey Council, "How to make a pound of honey", https://honeycouncil.ca/?p=633.
     url: https://honeycouncil.ca/?p=633
-  - label: Jull et al., "Honey as a topical treatment for wounds", *Cochrane Database of Systematic Reviews* (2015), as read for this run.
-  - label: Systematic review and meta-analysis of honey for upper respiratory tract infections, *BMJ Evidence-Based Medicine* (14 studies; PROSPERO CRD42017067582), as read for this run — the page read did not show the authors' names, so they are not given here.
+  - label: Jull et al., "Honey as a topical treatment for wounds", *Cochrane Database of Systematic Reviews* (2015), as read.
+  - label: Systematic review and meta-analysis of honey for upper respiratory tract infections, *BMJ Evidence-Based Medicine* (14 studies; PROSPERO CRD42017067582), as read — the page read did not show the authors' names, so they are not given here.
   - &a1
     label: Canadian Honey Council — Bee Facts
   - &a2

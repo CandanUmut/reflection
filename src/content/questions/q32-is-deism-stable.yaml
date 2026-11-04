@@ -47,7 +47,7 @@ layers:
 honestLimits:
   tr: |
     Bazı insanlar ömür boyu deist kalır.
-  en: Some people remain deists for life, and nothing here shows they are irrational. The "instability" argument is philosophical and depends on what one thinks God's wisdom implies; the Ashʿari tradition itself denies that reason can establish what God must do. The history of deism's decline was taken from secondary summaries. The Turkish figures come from one survey whose method has been criticised (see the earlier research, Batch 2, A5), and no data were found on individual paths over time.
+  en: Some people remain deists for life, and nothing here shows they are irrational. The "instability" argument is philosophical and depends on what one thinks God's wisdom implies; the Ashʿari tradition itself denies that reason can establish what God must do. The history of deism's decline was taken from secondary summaries. The Turkish figures come from one survey whose method has been criticised, and no data were found on individual paths over time.
 visualizations:
   - id: ideas
     tr: |
@@ -59,7 +59,7 @@ sources:
     url: https://quran.com/6:91/tafsirs/en-tafisr-ibn-kathir
   - label: "\"Deism\", *Encyclopaedia Britannica*, https://www.britannica.com/topic/Deism — definition; Herbert of Cherbury's five religious ideas; Toland, Tindal, Shaftesbury, Leland; the period 1689–1742; Germany."
     url: https://www.britannica.com/topic/Deism
-  - label: "\"Deism\", *Wikipedia*, https://en.wikipedia.org/wiki/Deism — used only for dates of works and for the reasons for decline it attributes to Peter Gay (1968) and to E. C. Mossner's *Encyclopedia of Philosophy* article (secondary; see Gaps)."
+  - label: "\"Deism\", *Wikipedia*, https://en.wikipedia.org/wiki/Deism — used only for dates of works and for the reasons for decline it attributes to Peter Gay (1968) and to E. C. Mossner's *Encyclopedia of Philosophy* article (secondary)."
     url: https://en.wikipedia.org/wiki/Deism
   - label: Sadiq Meghjee, "A Brief Study of the Principle of Lutf", iqraonline.net.
   - label: '*İktibas*, "Gençlik ve İnanç Çalıştayı Sonuç Bildirgesi" (2018).'
@@ -102,7 +102,7 @@ fullAnswer:
       **The Quran addresses people who already accept a Creator.** "If you asked them, 'Who created the heavens and earth and subjected the sun and the moon?' they would surely say, 'Allah.' Then how are they deluded?" (29:61); "…but most of them do not reason" (29:63). These Meccan verses address the Quraysh, who believed in God as Creator but rejected His messenger. The Quran's complaint is not that they lack a Creator but that they stop there. Reading this as a description of modern deists is a modern application.
   - kind: scholars
     en: |-
-      **The classical argument from grace and wisdom.** The Muʿtazila and later Shiʿi theologians held that God's grace (*luṭf*) — what moves people toward obedience without forcing them — is required of Him, and that sending prophets is an instance of it; Shaykh al-Mufid also grounded this in God's wisdom, since "the objective of creation is predicated on it" (Meghjee). The Ashʿaris denied that anything is required of God; al-Ghazali's *al-Iqtiṣād* argues that God sends prophets freely, not by obligation (Meghjee). The Maturidi position, which stresses God's wisdom (*ḥikma*), could not be checked for this page (see Gaps).
+      **The classical argument from grace and wisdom.** The Muʿtazila and later Shiʿi theologians held that God's grace (*luṭf*) — what moves people toward obedience without forcing them — is required of Him, and that sending prophets is an instance of it; Shaykh al-Mufid also grounded this in God's wisdom, since "the objective of creation is predicated on it" (Meghjee). The Ashʿaris denied that anything is required of God; al-Ghazali's *al-Iqtiṣād* argues that God sends prophets freely, not by obligation (Meghjee). The Maturidi position, which stresses God's wisdom (*ḥikma*), has not yet been checked.
 
       **What the argument shows.** All schools agree that a wise God *did* send prophets. Only the Muʿtazili and Shiʿi line says reason shows He *had to*. For a deist, the useful point is the shared one: a Creator who acts with wisdom is not a Creator who is indifferent to the creatures He gave reason.
   - kind: history

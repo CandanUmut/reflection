@@ -65,7 +65,7 @@ gaps:
     - Modern şehirlerde komşuluk ilişkileri çoğu zaman zayıftır; pek çok kişi komşusunu tanımaz.
     - Müslüman çoğunluklu ülkelerde yetim ve mülteci bakımı, güçlü programlardan ciddi ihmale kadar büyük farklılıklar gösterir.
     - *Kefâlet*, Batı'daki evlat edinmeden farklıdır (çocuk soyunu korur); burada basitçe "daha iyi" diye değil, tarafsız biçimde anlatılır.
-  en: Al-Qurtubi and al-Ghazali on neighbours were not read. The Bucharest results are reported from a news summary of the *Science* paper. Care for orphans and refugees in Muslim-majority countries varies widely; no data on this were read.
+  en: Al-Qurtubi and al-Ghazali on neighbours have not yet been consulted. The Bucharest results are reported from a news summary of the *Science* paper. Care for orphans and refugees in Muslim-majority countries varies widely; no data on this were read.
 visualizations:
   - id: ideas
     tr: |
@@ -117,8 +117,6 @@ fullAnswer:
       **The neighbour.** Ibn ʿUmar (ra) reports the Prophet (pbuh) as saying: "Gabriel kept on recommending me about treating the neighbors in a kind and polite manner so much so that I thought that he would order (me) to make them (my) heirs" ({hadith:bukhari:6015}).
 
       **The orphan's guardian.** Sahl (ra) reports the Prophet (pbuh) as saying: "I and the guardian of an orphan will be in Jannah like this" ({hadith:bukhari:5304}) — the full report describes him holding up two fingers close together.
-  - kind: scholars
-    en: "**Who is a neighbour?** The current page cites al-Qurtubi on 4:36 for a wide definition (forty houses in each direction) including non-Muslim neighbours, and al-Ghazali on neighbours' rights. Neither was read for this run (see Gaps)."
   - kind: research
     en: |-
       **Strong social ties are linked to longer life.** [Established; correlational.] Holt-Lunstad, Smith and Layton (2010) combined 148 studies with 308,849 participants followed for an average of 7.5 years. People with stronger social relationships had about 50% greater odds of survival (odds ratio 1.50, 95% CI 1.42–1.59) — an effect the authors call "comparable with quitting smoking" and larger than many other risk factors.
@@ -139,10 +137,6 @@ fullAnswer:
 
       **If you are lonely**, you are not failing at faith. Loneliness is a real health risk (Holt-Lunstad et al.). Reaching out — to a mosque, a neighbour, a community group — is itself part of what these verses ask.
 followUps:
-  - q:
-      en: Who counts as a neighbour, and does it include non-Muslims?
-    a:
-      en: The current page cites al-Qurtubi for a wide definition including non-Muslims; that was not checked here. 4:36 names "the near neighbor" and "the neighbor farther away" without restriction.
   - q:
       en: Who were "the captive" in 76:8?
     a:

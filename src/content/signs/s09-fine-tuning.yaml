@@ -21,9 +21,9 @@ summary:
 tafsir:
   tr: Arka plan, Gazzâlî ve Râzî'nin kullandığı kelâmdaki tahsis (belirleme) delilidir.
   en: |-
-    **Ibn Kathir on 25:2.** "everything apart from Him is created and subject to Him" (as quoted on the current page).
+    **Ibn Kathir on 25:2.** "everything apart from Him is created and subject to Him".
 
-    **Ibn Kathir on 54:49.** He reads the verse as a statement about decree, not about physics, and reports that the Imams of the Sunnah "used this Ayah and similar Ayat and Hadiths to refute the Qadariyyah sect, who started their sect during the latter time of the Companions." He cites a report from Abu Hurayra (ra), attributed on the page to Imam Ahmad, Muslim, al-Tirmidhi and Ibn Majah (the Muslim number was not confirmed for this run): "The idolators of the Quraysh came to the Messenger of Allah… arguing with him and discounting the Qadar", after which the verses were revealed. (The *Qadariyya* were an early group who denied that God decrees human acts.)
+    **Ibn Kathir on 54:49.** He reads the verse as a statement about decree, not about physics, and reports that the Imams of the Sunnah "used this Ayah and similar Ayat and Hadiths to refute the Qadariyyah sect, who started their sect during the latter time of the Companions." He cites a report from Abu Hurayra (ra), attributed on the page to Imam Ahmad, Muslim, al-Tirmidhi and Ibn Majah (the Muslim number was not confirmed): "The idolators of the Quraysh came to the Messenger of Allah… arguing with him and discounting the Qadar", after which the verses were revealed. (The *Qadariyya* were an early group who denied that God decrees human acts.)
 
     **Al-Jalālayn on 54:49.** Its comment is grammatical: "everything read inna kulla shay'in is in the accusative". (This page's explanation, not al-Jalālayn's: the accusative supports reading "We created everything with a measure" rather than "everything that We created is with a measure".)
 
@@ -51,14 +51,13 @@ howItWorks:
 honestNotes:
   - en: "**The popular claim.** Fine-tuning is often presented as proof that God exists, and 25:2 or 54:49 as having foretold it. Neither is warranted. The verses speak of measure and decree; the commentators read them as about God's decree (Ibn Kathir reports that the Imams of the Sunnah used 54:49 against the Qadariyya), not about physical constants."
   - en: "**The science is real; the inference is debated.** That some constants are life-permitting only in narrow ranges is widely accepted. Whether this points to design, a multiverse or a deeper law is a philosophical question, and the probability calculations behind each are disputed (SEP)."
-  - en: "**Weinberg's view.** The current page says Weinberg judged some cases \"not so fine\". That quotation was not found in the SEP text read for this run (see Corrections)."
 visualizations:
   - id: ideas
     tr: '"Kozmik kadranlar" ve yanında üç yönlü bir panel: tasarım, çoklu evren, geleceğin fiziği.'
     en: '"Cosmic dials", alongside a three-way panel: design, multiverse, future physics.'
 sources:
   - label: Saheeh International, via the Tanzil text — 25:2, 54:49, 15:19.
-  - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 54:49, https://surahquran.com/tafsir-english-aya-49-sora-54.html; the current page's Ibn Kathir quotation on 25:2 (not re-read for this run).
+  - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 54:49, https://surahquran.com/tafsir-english-aya-49-sora-54.html; the Ibn Kathir quotation on 25:2.
     url: https://surahquran.com/tafsir-english-aya-49-sora-54.html
   - label: Simon Friederich, "Fine-Tuning", *Stanford Encyclopedia of Philosophy* (first published 22 August 2017; substantively revised 26 February 2026), https://plato.stanford.edu/entries/fine-tuning/.
     url: https://plato.stanford.edu/entries/fine-tuning/

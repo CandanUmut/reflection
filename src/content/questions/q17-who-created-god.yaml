@@ -66,7 +66,7 @@ layers:
 honestLimits:
   tr: |
     Geriye sonsuz gitme itirazı tutmaz. Ama zorunlu bir varlıktan şahsî, bir ve Kur'an'ın Allah'ı olan bir Tanrı'ya ulaşmak ek adımlar gerektirir. İbn Sînâ'nın ilahi sıfatları türetmesi en zayıf halkadır.
-  en: "The regress objection fails against the classical arguments, but the arguments themselves are respected rather than decisive: most professional philosophers are not persuaded. Getting from a necessary being to the one personal God takes further, weaker steps. Ibn Sina, al-Ghazali, Ibn Rushd and Mulla Sadra were read here only through encyclopedia summaries, not in their own texts; Hume's *Dialogues* and al-Ghazali's *al-Iqtiṣād* were not read; Ṭabāṭabāʾī's version was not covered. The explanation of divine simplicity is a summary of the classical view; no source on it was read for this run."
+  en: "The regress objection fails against the classical arguments, but the arguments themselves are respected rather than decisive: most professional philosophers are not persuaded. Getting from a necessary being to the one personal God takes further, weaker steps. Ibn Sina, al-Ghazali, Ibn Rushd and Mulla Sadra were read here only through encyclopedia summaries, not in their own texts; Hume's *Dialogues* and al-Ghazali's *al-Iqtiṣād* have not yet been consulted; Ṭabāṭabāʾī's version was not covered. The explanation of divine simplicity is a summary of the classical view; no source on it was read."
 visualizations:
   - id: ideas
     tr: |
@@ -126,7 +126,7 @@ fullAnswer:
 
       **Being troubled by a thought is a sign of faith, not its loss.** When Companions told the Prophet (pbuh), "Verily we perceive in our minds that which every one of us considers it too grave to express", he asked, "Do you really perceive it?" and said: "That is the faith manifest" ({hadith:muslim:132a}). The distress is the faith reacting.
 
-      **Is it allowed to keep thinking about it?** In this page's reading (no commentator on the hadith was read for this run), the hadith address the whisper — the thought that comes as an attack and a loop — not philosophy: Muslim scholars from al-Ghazali to Mulla Sadra wrote at length on exactly this question (below). A useful test: if thinking it through brings understanding, it is inquiry. If it brings only fear, repetition and a need to check again and again, it is the whisper, and the advice is to stop engaging it.
+      **Is it allowed to keep thinking about it?** In this page's reading (no commentator on the hadith was read), the hadith address the whisper — the thought that comes as an attack and a loop — not philosophy: Muslim scholars from al-Ghazali to Mulla Sadra wrote at length on exactly this question (below). A useful test: if thinking it through brings understanding, it is inquiry. If it brings only fear, repetition and a need to check again and again, it is the whisper, and the advice is to stop engaging it.
 
       > **If it is OCD.** Unwanted, intrusive religious thoughts that "trigger intensely distressing feelings", and fears such as "Fear of committing blasphemy, or offending/angering God", can be scrupulosity, a form of OCD (International OCD Foundation). It responds to treatment: cognitive behaviour therapy with exposure and response prevention, sometimes with medication, and sometimes with help from a faith leader. See iocdf.org, or findahelpline.com for free support lines in many countries.
   - kind: quran
@@ -183,7 +183,7 @@ fullAnswer:
 
       **"A designer must be more complex than its design" (Dawkins).** *Reply:* the classical arguments are not design arguments, and classical theism holds that God is simple, not a complex mechanism. *Limit:* critics find divine simplicity itself hard to make sense of — how can a simple being know and will many things?
 
-      **"Even if there is a necessary being, why the God of the Quran?"** *Reply:* the further steps — that the necessary being is one, knowing, willing and personal — are separate arguments (the current page notes Ibn Sina's derivation of the attributes). *Limit:* these steps are weaker than the first. Michael Martin argues the kalām argument shows at most that some agent or agents caused the universe (*Wikipedia*).
+      **"Even if there is a necessary being, why the God of the Quran?"** *Limit:* these steps are weaker than the first. Michael Martin argues the kalām argument shows at most that some agent or agents caused the universe (*Wikipedia*).
 
       **"Is this argument specific to Islam?"** *Reply:* no. *Wikipedia* traces the kalām argument to John Philoponus (6th century, a Christian) and to medieval Islamic kalām, including al-Ghazali; its best-known modern defender is the Christian philosopher William Lane Craig, and the modern name "kalām cosmological argument" keeps its Islamic source. In the 1948 debate, Copleston argued from contingency in much the way Ibn Sina did. It is a shared argument of monotheism.
   - kind: views

@@ -17,7 +17,7 @@
 "If a faith truly changes people, its public face should look better than the world around it. Instead I see preachers who lie, communities that cover up abuse, scholars who serve whoever is in power, and religion used to win votes and justify coups. And the usual answer — 'those people aren't real Muslims' — can explain away anything: if good believers prove the faith and bad believers also prove it (because the Quran 'predicted' hypocrites), then nothing could ever count against it. Isn't religion, in practice, just a tool of power?"
 
 ### Why people ask it
-Because many people's doubt starts not with an argument but with a betrayal: by a teacher, an imam, a family member, or a movement. In Chouhoud's survey of Muslim Americans, the top four triggers of doubt were all moral and social concerns, led by "The way that [some] insist there is only one 'right' way to practice faith" (Yaqeen, 2018). In Türkiye, young people have watched religion used by rival political actors, and a coup attempt that the state attributes to a religious network (see History below). (The current page also mentions abuse cases in religious dormitories, but gives no source; none was read for this run, so it is listed under Gaps.)
+Because many people's doubt starts not with an argument but with a betrayal: by a teacher, an imam, a family member, or a movement. In Chouhoud's survey of Muslim Americans, the top four triggers of doubt were all moral and social concerns, led by "The way that [some] insist there is only one 'right' way to practice faith" (Yaqeen, 2018). In Türkiye, young people have watched religion used by rival political actors, and a coup attempt that the state attributes to a religious network (see History below).
 
 ### Short answer
 Your anger is legitimate, and the Quran shares it: "Do you order righteousness of the people and forget yourselves while you recite the Scripture? Then will you not reason?" (2:44); "Great is hatred in the sight of Allah that you say what you do not do" (61:3). The Prophet (pbuh) gave the signs of a hypocrite: lying, breaking promises, betraying trust ({hadith:bukhari:33}). Al-Ghazali wrote pages against learned men who use religion "to enjoy the luxuries of this life" and "to achieve power and position among its people". So the tradition does not ask you to excuse religious people; it gives you the standard to judge them by. But a message is not disproved by those who betray it, any more than medicine is disproved by a doctor who smokes. The serious version of the objection is about institutions and power, and that needs a real answer: when religion is fused with state power, both can be corrupted. Said Nursi's phrase "I take refuge in God from Satan and politics" is one Muslim voice for keeping faith out of the struggle for power (Saritoprak, 2008). In practice: judge the message by its source and its best people, choose your teachers carefully, and do not let abusers own your faith. If you were abused, it was a crime as well as a sin, and you should report it.
@@ -41,12 +41,11 @@ Your anger is legitimate, and the Quran shares it: "Do you order righteousness o
 #### sunnah — What the Prophet (pbuh) taught
 **The signs of a hypocrite.** Abu Hurayra (ra) reports three: "Whenever he speaks, he tells a lie", whenever he promises he breaks it, and whenever he is trusted he betrays ({hadith:bukhari:33}). These are tests anyone can apply to a teacher.
 
-**Counsel, including to rulers.** The current page cites the hadith "Religion is sincere counsel", including to "the leaders of the Muslims" (Muslim 55); it could not be opened for this run (see Gaps).
 
 #### scholars — What al-Ghazali and Nursi said
 **Al-Ghazali against "the learned men of this world".** In the Book of Knowledge of his *Iḥyāʾ*, Section VI, al-Ghazali (d. 1111) distinguishes "teachers of falsehood" from "the learned men of the hereafter" (Faris's translation). The former seek knowledge "to enjoy the luxuries of this life" and "to achieve power and position among its people"; they frequent rulers — he quotes Saʿid ibn al-Musayyab: "If you see a learned man frequent the houses of the rulers, beware of him because he is a thief." The scholars of the hereafter, by contrast, "should not seek this world through their knowledge", practise what they teach, live simply, keep away from rulers' courts, and say "I do not know" when unsure. Al-Ghazali also cites several hadith here; at least two are weak and nothing on this page rests on them: "the end of time there will be ignorant worshippers and corrupt learned men" (al-Hakim, *al-Mustadrak* 8081; its chain is graded very weak, and al-Dhahabi calls the narrator Yusuf b. ʿAtiyya *hālik*, worthless) and "Whoever would increase in knowledge but would not increase in righteousness would increase Allah's wrath upon him" (al-ʿIraqi, *al-Mughnī*, no. 140: narrated by al-Daylami "with a weak chain"). A third, "No man will be learned unless he puts knowledge into practice", he also gives as the Prophet's saying; its grade was not found. (Grades as reported by the independent source check of this report, from tohed.com and hadithanswers.com.)
 
-**Nursi: "I take refuge in God from Satan and politics."** Said Nursi coined this phrase, and Zeki Saritoprak's study examines why, comparing his reading of some Quranic verses with Sayyid Qutb's (Saritoprak, 2008). The abstract read for this run does not give the work in which the phrase appears or Nursi's full reasons (see Gaps). The phrase itself is a Muslim scholar's warning against using faith as a political tool.
+**Nursi: "I take refuge in God from Satan and politics."** Said Nursi coined this phrase, and Zeki Saritoprak's study examines why, comparing his reading of some Quranic verses with Sayyid Qutb's (Saritoprak, 2008). The abstract read does not give the work in which the phrase appears or Nursi's full reasons. The phrase itself is a Muslim scholar's warning against using faith as a political tool.
 
 #### reasoning — The objection, in its three forms
 **1. The personal form: "religious people are bad".** *Reply:* this judges a message by its messengers (an *ad hominem*). Hypocrisy shows a gap between what people say and what they do; it does not show that what they say is false. The Quran itself condemns that gap more harshly than most critics (61:3). *Limit:* if a faith claims to transform people, some evidence of transformation is a fair thing to ask for (see "What research shows").
@@ -62,14 +61,14 @@ Your anger is legitimate, and the Quran shares it: "Do you order righteousness o
 
 **Religious struggles.** Pargament and Exline report that, in a national sample, "higher levels of religious/spiritual struggle were tied to many indicators of psychopathology", and note that "Much of the research on this topic has been correlational in nature", which leaves causes open (APA, 2020).
 
-**Religion and the state.** Norris and Inglehart's *Sacred and Secular* (2004) explains religious decline mainly by "existential security": "the experience of people living in weak and vulnerable societies heightens the importance of religious values" (Ikenberry's review). The current page says they link faster disaffiliation among the young to the fusion of religion and state; that claim was not found in the review read (see Corrections).
+**Religion and the state.** Norris and Inglehart's *Sacred and Secular* (2004) explains religious decline mainly by "existential security": "the experience of people living in weak and vulnerable societies heightens the importance of religious values" (Ikenberry's review).
 
-**Is hypocrisy worse among Muslims?** No study comparing hypocrisy across religious communities was read for this run, so this page makes no claim either way.
+**Is hypocrisy worse among Muslims?** No study comparing hypocrisy across religious communities was read, so this page makes no claim either way.
 
 #### history — The Turkish context
 **What is Diyanet?** The Presidency of Religious Affairs is "a state institution established in 1924" in Türkiye, created "to administer the affairs related to faith and worship of the religion of Islam". It writes a weekly sermon read in about 85,000 mosques, trains and employs Türkiye's imams as civil servants, and follows the Hanafi school. Starting from 2006, its staff "doubled to nearly 150,000" and its budget "quadrupled to over $2 billion by 2015"; critics have accused it of "serving for the ruling AKP party" (Wikipedia, citing Cornell 2015). Separately, and earlier, Wikipedia records that "During the Government of Süleyman Demirel, the Diyanet's approach towards the Alevi became denialist in nature", and that under its president Mehmet Görmez the Alevi question "was acknowledged for the first time".
 
-**The 2016 coup attempt.** On the night of 15 July 2016, "over 300 people were killed" and "more than 2,100 were injured". President Erdoğan said the plotters were "linked to the Gülen movement", which the government later designated "FETÖ". Fethullah Gülen said: "I categorically deny such accusations." Germany's intelligence chief said Germany was unconvinced, and a British parliamentary committee found "no hard evidence that Fethullah Gülen masterminded the failed coup", though some Gülenists were involved. In the aftermath, "150,000 government officials and workers" were suspended (*Wikipedia*). This page takes no side in Turkish party politics. Whether, and how much, these events damaged young people's trust in religion is a question for survey data, and none was read for this run (see Gaps).
+**The 2016 coup attempt.** On the night of 15 July 2016, "over 300 people were killed" and "more than 2,100 were injured". President Erdoğan said the plotters were "linked to the Gülen movement", which the government later designated "FETÖ". Fethullah Gülen said: "I categorically deny such accusations." Germany's intelligence chief said Germany was unconvinced, and a British parliamentary committee found "no hard evidence that Fethullah Gülen masterminded the failed coup", though some Gülenists were involved. In the aftermath, "150,000 government officials and workers" were suspended (*Wikipedia*). This page takes no side in Turkish party politics. Whether, and how much, these events damaged young people's trust in religion is a question for survey data, and none was read.
 
 #### objection — The strongest objections, and the replies
 **"If religion doesn't make people better, why believe?"** *Reply:* the evidence that religious affiliation goes with some prosocial behaviour, such as giving, is real but modest (and mostly American); and Islam itself expects many who carry its name to fall short. *Limit:* modest effects will not satisfy someone who expected religion to make people saints.
@@ -90,16 +89,16 @@ Your anger is legitimate, and the Quran shares it: "Do you order righteousness o
 
 **Who are the "best examples" I should look at?** The Prophet (pbuh) first; then people you can see up close who are honest, humble, generous and fair — often not the most famous. Al-Ghazali's description of the "learned men of the hereafter" is a portrait to look for.
 
-**If religious practice really changes people, where is the evidence?** Some, modest: in the US, religious households are more likely to give to charity (62% against 46%), and frequent attenders far more likely to give to congregations (Lake Institute, 2017). No study on honesty or hypocrisy across communities was read for this run.
+**If religious practice really changes people, where is the evidence?** Some, modest: in the US, religious households are more likely to give to charity (62% against 46%), and frequent attenders far more likely to give to congregations (Lake Institute, 2017). No study on honesty or hypocrisy across communities was read.
 
 **What is Diyanet, and which "religious network" is behind the 2016 coup attempt?** Diyanet is Türkiye's state religious authority, founded in 1924. The government blames the Gülen movement ("FETÖ") for the coup attempt; Gülen denied it; some foreign bodies said they had not seen conclusive evidence that he masterminded it, though a British parliamentary committee found that some Gülenists were involved (*Wikipedia*).
 
-**Is hypocrisy a bigger problem in Muslim communities than in others?** No comparative study was read for this run; the Quran treats hypocrisy as a danger in every community of faith (2:44 was addressed to the People of the Book; 61:2–3 to believers).
+**Is hypocrisy a bigger problem in Muslim communities than in others?** No comparative study was read; the Quran treats hypocrisy as a danger in every community of faith (2:44 was addressed to the People of the Book; 61:2–3 to believers).
 
 **Where in the *Iḥyāʾ* does al-Ghazali attack the "learned men of this world"?** In the Book of Knowledge (*Kitāb al-ʿIlm*), Section VI, on the evils of knowledge and the signs of the learned men of the hereafter (tr. Faris).
 
 ### Honest limits
-The research on whether religious practice changes behaviour is mostly American and mostly about giving; nothing was read on honesty or hypocrisy across communities. Muslim 55, the Norris and Inglehart book itself (beyond a review), the KONDA data and the Diyanet magazine cited on the current page, and the work in which Nursi's phrase appears, were not read for this run.
+The research on whether religious practice changes behaviour is mostly American and mostly about giving; nothing was read on honesty or hypocrisy across communities. Muslim 55, the Norris and Inglehart book itself (beyond a review), the KONDA data and the Diyanet magazine, and the work in which Nursi's phrase appears, have not yet been consulted.
 
 ---
 
@@ -133,7 +132,7 @@ Disagreement among Muslims is real, and some of it is deep. But most of it is ab
 **What helps.** Find teachers who can say "this is my view, and others hold another" — the "I do not know" that al-Ghazali counted as a mark of a true scholar (see Q18). Keep friendships across lines. And remember the Quran's promise: "To Allah is your return all together, and He will [then] inform you concerning that over which you used to differ" (5:48) — not you, and not the person who excluded you.
 
 #### quran — What the Quran says
-**Diversity as part of the plan (5:48).** "To each of you We prescribed a law and a method. Had Allah willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good. To Allah is your return all together, and He will [then] inform you concerning that over which you used to differ" (5:48), Medinan. It comes after verses on the Torah and the Gospel; "To each of you" refers to the communities given scripture, which commentators generally take to include the Muslims (no tafsir on this was checked for this run). It is about different communities with different laws; applying it to schools within Islam is an extension.
+**Diversity as part of the plan (5:48).** "To each of you We prescribed a law and a method. Had Allah willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good. To Allah is your return all together, and He will [then] inform you concerning that over which you used to differ" (5:48), Medinan. It comes after verses on the Torah and the Gospel; "To each of you" refers to the communities given scripture, which commentators generally take to include the Muslims (no tafsir on this was checked). It is about different communities with different laws; applying it to schools within Islam is an extension.
 
 **Unity commanded (3:103).** "And hold firmly to the rope of Allah all together and do not become divided. And remember the favor of Allah upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers" (3:103), Medinan, addressed to the believers of Medina, whose tribes had been at war.
 
@@ -144,7 +143,7 @@ Disagreement among Muslims is real, and some of it is deep. But most of it is ab
 #### sunnah — The 73-sects hadith, and the reward for honest error
 **The hadith.** Abu Hurayra (ra) reports: "my community will be split up into seventy-three sects" ({hadith:abudawud:4596}; al-Albani: *ḥasan ṣaḥīḥ*). In Muʿawiya's (ra) version, "seventy two of them will go to Hell and one of them will go to Paradise, and it is the majority group" — the Arabic word is *al-jamāʿa* ({hadith:abudawud:4597}; al-Albani: *ḥasan*). Ibn Kathir cites Muʿawiya's version from Imam Ahmad: "This Ummah will divide into seventy-three sects, all in the Fire except one, that is, the Jama'ah."
 
-**Which group is the *jamāʿa*, and does it mean you?** The hadith's own word is *al-jamāʿa*, "the community", which the sunnah.com translator renders "the majority group". It is not the name of a small sect, and nothing in the hadith says any particular modern group is the saved one. The current page reports that Ibn Taymiyya held the 72 are not thereby unbelievers (Abdallah, *AFKAR*, 2006), and that al-Baghdadi's *al-Farq bayna al-firaq* forced known sects into the number (Gömbeyaz, 2018); neither was read for this run (see Gaps).
+**Which group is the *jamāʿa*, and does it mean you?** The hadith's own word is *al-jamāʿa*, "the community", which the sunnah.com translator renders "the majority group". It is not the name of a small sect, and nothing in the hadith says any particular modern group is the saved one.
 
 **Honest error is rewarded.** ʿAmr ibn al-ʿAs (ra) reports the Prophet (pbuh): a judge who rules carefully and is correct "will receive a double reward", and if wrong, a single reward ({hadith:bukhari:7352}). Careful reasoning that reaches different answers is not sin.
 
@@ -177,21 +176,20 @@ Disagreement among Muslims is real, and some of it is deep. But most of it is ab
 
 **Where the core is disputed.** Two places: whether there can be a prophet after Muhammad (pbuh) (the Ahmadi question), and how leadership after him is to be understood (imamate). The first, on the mainstream view, is outside the core; the second is a real difference that the Message chose not to treat as grounds for *takfīr*.
 
-**The two slogans.** The current page says "Both slogans overstate their case". The two are: "Disagreement in my community is a mercy" — a saying the current page reports has no known chain (al-Subki, al-Suyuti, al-Albani; not checked for this run) — and "Only one sect is saved, so all others are lost". The first overstates by making every difference good; the second by turning the 73-sects hadith into a licence to condemn other Muslims, when the hadith's own word for the saved is *al-jamāʿa*, the community.
+**The two slogans.** The first overstates by making every difference good; the second by turning the 73-sects hadith into a licence to condemn other Muslims, when the hadith's own word for the saved is *al-jamāʿa*, the community.
 
 *Limit:* a shared core does not make the remaining differences trivial. Centuries of violence show that they can be lethal when mixed with politics.
 
 #### science — What research shows
 **Intellectual humility.** [Moderate; US samples] Across four studies (181 students; 188 and 169 adults online; 104 students in an experiment), Porter and Schumann (2018) found that people higher in intellectual humility "were more open to learning about the opposition's views", gave more respectful reasons for disagreement, and in one study read more of the opposing arguments; an article teaching a growth mindset raised intellectual humility (Heterodox Academy summary; effect sizes were not given in the summary read).
 
-**Black-and-white religious thinking.** The current page says it correlates with anxiety and intolerance; no study on this was read for this run (see Corrections).
 
 #### objection — The strongest objections, and the replies
 **"If the message were clear, there would be no sects."** *Reply:* the core is clear and shared by almost all Muslims; most disagreement is about interpretation, which the tradition expected; Bukhari 7352 rewards a judge's careful reasoning even when wrong, and applying it to scholarly disagreement in general is an extension of that hadith. *Limit:* the imamate and finality-of-prophethood disputes are not just interpretation.
 
 **"Each group claims to be the saved sect, so all are arrogant."** *Reply:* the hadith names "the *jamāʿa*", the community, not a sect; the Amman Message forbids declaring other Muslims apostates. *Limit:* many groups still read the hadith exclusively.
 
-**"Sunnis and Shiʿis killed each other for centuries."** *Reply:* yes, often when sectarian identity was fused with dynastic or state power (from Karbala to modern Iraq and Syria, per *Wikipedia*). Scholars have also worked for recognition: Shaltut's fatwa from the Sunni side, and the Amman Message, which recognised two Shiʿi schools (whether Shiʿi scholars signed it was not checked in the sources read). *Limit:* recognition on paper has not ended conflict.
+**"Sunnis and Shiʿis killed each other for centuries."** *Reply:* yes, often when sectarian identity was fused with dynastic or state power (from Karbala to modern Iraq and Syria, per *Wikipedia*). Scholars have also worked for recognition: Shaltut's fatwa from the Sunni side, and the Amman Message, which recognised two Shiʿi schools (whether Shiʿi scholars signed it has not yet been checked in the sources read). *Limit:* recognition on paper has not ended conflict.
 
 #### views — The range of views
 - **Amman Message signatories** — eight schools, Ashʿari creed, Sufism and "true Salafi thought" are all within Islam; *takfīr* forbidden.
@@ -204,7 +202,7 @@ Disagreement among Muslims is real, and some of it is deep. But most of it is ab
 
 **Which group is the "*jamāʿa*" in the 73-sects hadith, and does it mean me?** The hadith's word is *al-jamāʿa*, the community or "the majority group" ({hadith:abudawud:4597}). It does not name any modern sect.
 
-**What are the "two slogans" that "both overstate their case"?** "Disagreement is a mercy" (no known chain, as the current page reports) and "only one sect is saved, so the rest are lost". See "Is there a shared core?".
+**What are the "two slogans" that "both overstate their case"?** "Disagreement is a mercy" (no known chain) and "only one sect is saved, so the rest are lost". See "Is there a shared core?".
 
 **What do Sunnis and Shiʿis actually disagree about, beyond "leadership after 632"?** Imamate as doctrine; which hadith are accepted; temporary marriage; details of prayer (*Wikipedia*).
 
@@ -213,7 +211,7 @@ Disagreement among Muslims is real, and some of it is deep. But most of it is ab
 **What are the Ibadis, and why were Ahmadis excluded?** Ibadis: a school centred in Oman, with its own views on the imamate; included in Amman. Ahmadis: the Amman Message does not list them. Separately, mainstream Muslims regard them as outside Islam because they hold that no prophet comes after Muhammad (pbuh).
 
 ### Honest limits
-The real disputes — imamate, and prophethood after Muhammad (pbuh) — are not resolved by pointing to a shared core. The groups here were described from *Wikipedia*, not from their own texts. Ibn Taymiyya, al-Baghdadi, the hadith "disagreement is a mercy" and its critics, Muslim 55, and studies on black-and-white religious thinking were not read for this run. Whether the Amman Message changed behaviour was not measured.
+The real disputes — imamate, and prophethood after Muhammad (pbuh) — are not resolved by pointing to a shared core. The groups here were described from *Wikipedia*, not from their own texts. Ibn Taymiyya, al-Baghdadi, the hadith "disagreement is a mercy" and its critics, Muslim 55, and studies on black-and-white religious thinking have not yet been consulted. Whether the Amman Message changed behaviour was not measured.
 
 ---
 ## Corrections to the current pages

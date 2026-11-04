@@ -45,7 +45,7 @@ layers:
 honestLimits:
   tr: |
     KONDA'nın "inançlı" kategorisi geniştir.
-  en: The position that deeds are part of faith was not read in its holders' own words. Muslim 8, the KONDA data cited on the current page, and Heelas & Woodhead's book itself were not read. No study of wellbeing among "spiritual but not religious" people was read.
+  en: The position that deeds are part of faith has not yet been consulted in its holders' own words. Muslim 8, the KONDA data, and Heelas & Woodhead's book itself have not yet been consulted. No study of wellbeing among "spiritual but not religious" people was read.
 visualizations:
   - id: ideas
     tr: |
@@ -53,7 +53,7 @@ visualizations:
     en: Body and soul. A chart. A "start small" card.
 sources:
   - label: Saheeh International, via the Tanzil text — 103:1–3, 2:186.
-  - label: Sahih al-Bukhari 50 (sunnah.com), https://sunnah.com/bukhari:50 — the hadith of Jibril, Abu Hurayra's version. (Muslim 8, ʿUmar's version, could not be opened in full; see Gaps.)
+  - label: Sahih al-Bukhari 50 (sunnah.com), https://sunnah.com/bukhari:50 — the hadith of Jibril, Abu Hurayra's version. (Muslim 8, ʿUmar's version, could not be opened in full.)
     url: https://sunnah.com/bukhari:50
   - label: Sahih al-Bukhari 46 (sunnah.com), https://sunnah.com/bukhari:46 — the man from Najd.
     url: https://sunnah.com/bukhari:46
@@ -97,7 +97,7 @@ fullAnswer:
 
       **The Hanafi–Maturidi view.** In the creed attributed to Abu Hanifa (*al-Fiqh al-Akbar*), faith is "affirmation by the heart (tasdiq bil-qalb) and attestation by the tongue (iqrar bil-lisan)"; "actions are not part of the definition of iman, though they are obligatory requirements and indicators of its strength"; and "iman does not increase or decrease" (islam.wiki's explanatory chapter). Abu Hanifa "was often associated with the Murji'ah" (*Wikipedia*), but this view still treats deeds as obligatory.
 
-      **The other view.** Other Sunni scholars, especially the hadith scholars, held that faith includes deeds and increases and decreases with them. (No source setting out this position in their own words was read for this run; see Gaps.)
+      **The other view.** Other Sunni scholars, especially the hadith scholars, held that faith includes deeds and increases and decreases with them. (No source setting out this position in their own words was read.)
 
       **What both sides agree on.** No Sunni school taught that prayer and fasting are optional for someone who believes. Even the Hanafi side, which keeps deeds out of the definition, holds (in islam.wiki's explanation of *al-Fiqh al-Akbar*, ch. 3) that "actions are not part of the definition of iman, though they are obligatory requirements"; the same chapter gives the other side — Shafiʿi and Hanbali scholars and the hadith scholars — as holding that faith "increases through acts of obedience and decreases through sin". The disagreement is about definitions — whether a believer who neglects deeds is a sinful believer or someone whose faith is damaged — not about whether deeds matter.
 
@@ -115,9 +115,9 @@ fullAnswer:
     en: |-
       **In the United States.** Pew's 2017 survey found 27% of adults spiritual but not religious, 48% both religious and spiritual, 6% religious but not spiritual, and 18% neither. The share calling themselves religious fell 11 points since 2012, to 54%; the share calling themselves spiritual held at 75%. Most of the growth came from people who had previously called themselves both (Pew). [Established, for the US] The sample size was not stated on the page read.
 
-      **In Britain.** Paul Heelas and Linda Woodhead's *The Spiritual Revolution* (2005) studied the town of Kendal. They contrasted "life-as" religion (living by others' expectations) with "subjective-life" spirituality (living by one's inner path), and the "congregational domain" with the "holistic milieu". The holistic milieu grew by about "300%" in the 1990s, yet in 2001 the congregational side still had five times as many participants. The authors predicted that "in 40 or so years time the congregational domain and holistic milieu of Britain will have become much the same size"; the reviewer called this "optimistic, at best" (*Catholic Books Review*, 2006). [Moderate; one town] The current page's summary that individualised religion "lacks community" was not found in the review read.
+      **In Britain.** Paul Heelas and Linda Woodhead's *The Spiritual Revolution* (2005) studied the town of Kendal. They contrasted "life-as" religion (living by others' expectations) with "subjective-life" spirituality (living by one's inner path), and the "congregational domain" with the "holistic milieu". The holistic milieu grew by about "300%" in the 1990s, yet in 2001 the congregational side still had five times as many participants. The authors predicted that "in 40 or so years time the congregational domain and holistic milieu of Britain will have become much the same size"; the reviewer called this "optimistic, at best" (*Catholic Books Review*, 2006).
 
-      **Wellbeing.** No study comparing the wellbeing of religious and "spiritual but not religious" people was read for this run (see Gaps).
+      **Wellbeing.** No study comparing the wellbeing of religious and "spiritual but not religious" people was read.
   - kind: objection
     en: |-
       **"Sincere belief is worth more than empty ritual."** *Reply:* Islam agrees that ritual without sincerity is hollow — the Prophet (pbuh) said a fast that does not stop false speech is not needed by God ({hadith:bukhari:1903}). But the answer to hollow practice is sincere practice, not no practice. *Limit:* someone may still feel that their sincerity is better kept outside structures; the tradition's reply is that this is a stage, not a home.
@@ -140,7 +140,7 @@ followUps:
   - q:
       en: What is the minimum Islam asks of me, and what does "start small" mean?
     a:
-      en: 'The core, as in Bukhari 46: the five daily prayers, fasting Ramadan, zakat (Hajj, for those able, is in other reports not read for this run). "Start small" can mean: one prayer on time each day, then two; learning the meaning of al-Fātiḥa; one voluntary act a week. "the most beloved deed to Allah is the most regular and constant even if it were little" ({hadith:bukhari:6464}, narrated by ʿĀʾisha (ra)).'
+      en: 'The core, as in Bukhari 46: the five daily prayers, fasting Ramadan, zakat (Hajj, for those able, is in other reports not read). "Start small" can mean: one prayer on time each day, then two; learning the meaning of al-Fātiḥa; one voluntary act a week. "the most beloved deed to Allah is the most regular and constant even if it were little" ({hadith:bukhari:6464}, narrated by ʿĀʾisha (ra)).'
   - q:
       en: What if mosques and religious communities are where I was hurt?
     a:
@@ -156,7 +156,7 @@ followUps:
   - q:
       en: How do Muslims see Sufism?
     a:
-      en: As the tradition of inner purification within Islam, not outside it; al-Qushayri's *Risāla* is a classic of that tradition. Its relation to the law was debated by some, but its main authors insisted on practice. (No survey of Muslim views of Sufism was read for this run.)
+      en: As the tradition of inner purification within Islam, not outside it; al-Qushayri's *Risāla* is a classic of that tradition. Its relation to the law was debated by some, but its main authors insisted on practice. (No survey of Muslim views of Sufism was read.)
 legacySources:
   - *a1
   - *a2

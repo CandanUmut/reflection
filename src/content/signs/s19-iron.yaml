@@ -49,8 +49,8 @@ howItWorks:
     - Demir, kanımızda oksijeni taşıyan molekül olan hemoglobinin merkezindedir.
   en: |-
     - **Where iron is made.** [Established] Iron-56, "comprising about 91.754% of the iron on Earth", forms in massive stars: "Among the heavier elements formed is 56Ni, which subsequently decays to 56Co and then 56Fe" (*Wikipedia*). Because iron's nucleus is so tightly bound, "further nuclear reactions become energetically unfavorable" — fusion beyond iron absorbs energy rather than releasing it.
-    - **Not only iron.** [Established] Every element heavier than hydrogen and helium, including the oxygen in water and the carbon in our bodies, was made in stars. (Standard astrophysics; no named source was read for this run.)
-    - **Iron in us.** [Established] Iron is at the centre of haemoglobin, which carries oxygen in our blood. (No named source was read for this run.)
+    - **Not only iron.** [Established] Every element heavier than hydrogen and helium, including the oxygen in water and the carbon in our bodies, was made in stars. (Standard astrophysics; no named source was read.)
+    - **Iron in us.** [Established] Iron is at the centre of haemoglobin, which carries oxygen in our blood. (No named source was read.)
 awe:
   tr: |
     - Kanınızdaki demir, Güneş var olmadan önce ölen yıldızlarda dövüldü.
@@ -71,7 +71,7 @@ reflection:
 
     The question the verse leaves with us is about our own strength, whatever form it takes: is it serving the balance, or have we put it in the balance's place?
 honestNotes:
-  - en: '**The popular claim.** A popular article notes that "much of the iron found on Earth was not originally formed here" and that the wording "has prompted many readers to reflect on the correspondence" with modern astronomy, while saying the Quran "is not presenting a scientific explanation" (al-islaah.org, 2026). Stronger versions elsewhere say the Quran "revealed that iron came from space"; no named source for that stronger claim was read for this run.'
+  - en: '**The popular claim.** A popular article notes that "much of the iron found on Earth was not originally formed here" and that the wording "has prompted many readers to reflect on the correspondence" with modern astronomy, while saying the Quran "is not presenting a scientific explanation" (al-islaah.org, 2026). Stronger versions elsewhere say the Quran "revealed that iron came from space"; no named source for that stronger claim was read.'
   - en: '**Weighing it.** *Anzalnā* is used in the same verse for the Book; al-Jalālayn reads it as extraction from ores; Ibn Kathir does not read it as "from the sky". And iron is not special in having a cosmic origin: so do oxygen and carbon. Stellar nucleosynthesis enriches the reflection; it is not a fulfilled prediction.'
 visualizations:
   - id: ideas

@@ -30,7 +30,7 @@ evidence:
   en: Family cohesion correlates with adolescent wellbeing. [Established] (correlational)
 gaps:
   tr: Namus temelli denetim.
-  en: Families often fall short of this ideal, and some parents abuse the religious authority this teaching gives them. The other schools' views on obedience, and research on family cohesion, were not read for this run.
+  en: Families often fall short of this ideal, and some parents abuse the religious authority this teaching gives them. The other schools' views on obedience, and research on family cohesion, have not yet been consulted.
 visualizations:
   - id: ideas
     tr: Bir aile hakları çemberi.
@@ -76,7 +76,7 @@ fullAnswer:
 
       **What spouses owe each other.** ʿAʾisha (ra) reports: "The best of you is the best to his wives, and I am the best of you to my wives" (al-Tirmidhi 3895; al-Tirmidhi: *ḥasan gharīb ṣaḥīḥ*; al-Albani: *ṣaḥīḥ*). The measure of a man's goodness is how he treats the people with the least power to complain about him.
   - kind: scholars
-    en: "**The maqāṣid and the family.** The current page links family to the *maqṣad* of preserving lineage (*ḥifẓ al-nasl*), one of the classical purposes of the law. No named work was read on this point for this run."
+    en: "**The maqāṣid and the family.** No named work was read on this point."
   - kind: fiqh
     en: |-
       **No obedience in sin.** Shaykh Amjad Rasheed, a contemporary Shafiʿi scholar, writes that "it is not obligatory to obey any of them if they command something that contravenes the shariah", and that obeying in such a case is "not even permissible" — for example, if parents stop a child from praying.
@@ -85,9 +85,9 @@ fullAnswer:
 
       **Some exceptions for the child's interest.** He adds that some scholars exempt matters "due to what is best in the child's interests", such as "travelling to attain knowledge, even if recommended". Otherwise, in what is permissible, the child should comply.
 
-      **Marriage and career.** Readers ask whether a parent can choose their spouse or career. The source read does not address these directly, and the other schools' positions were not read (see Gaps). On marriage, the page "Does Islam treat women unequally?" and the run 4 research on guardianship (*wilāya*) discuss whose consent is required.
+      **Marriage and career.** Readers ask whether a parent can choose their spouse or career. The source read does not address these directly, and the other schools' positions have not yet been consulted. On marriage, the page "Does Islam treat women unequally?" and the run 4 research on guardianship (*wilāya*) discuss whose consent is required.
   - kind: research
-    en: "**Family cohesion and adolescent wellbeing.** The current page says family cohesion correlates with adolescent wellbeing. No named study was read for this run, so no numbers are given (see Gaps)."
+    en: "**Family cohesion and adolescent wellbeing.** No named study was read, so no numbers are given."
   - kind: practice
     en: |-
       **With ageing parents.** Speak gently, especially when you are tired; visit or call regularly; let them keep their dignity — ask their opinion even when you will decide yourself.
@@ -128,6 +128,6 @@ followUps:
   - q:
       en: Can my parents make me divorce, or choose my career?
     a:
-      en: Not checked in the four schools for this run; the Shafiʿi source read limits obedience to permissible matters that do not harm the child.
+      en: Not checked in the four schools; the Shafiʿi source read limits obedience to permissible matters that do not harm the child.
 legacySources:
   - *a1

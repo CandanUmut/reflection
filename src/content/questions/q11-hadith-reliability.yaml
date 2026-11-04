@@ -54,7 +54,7 @@ layers:
 honestLimits:
   tr: |
     Bazı sahih hadisler ciddi akademisyenlerce tartışılmaktadır; klasik derecelendirme güçlüdür ama yanılmaz değildir. İki uç da tutmaz: ne "Buhârî'deki her rivayet kesindir", ne de "bütün hadisler uydurmadır".
-  en: Schacht's and Juynboll's books, Motzki's own results, and research on human memory and oral transmission were not read for this run. Classical criticism of particular hadith in Bukhari and Muslim (for example by al-Daraqutni) was not covered. Named figures of the Turkish Quran-centred movement were not identified in the source read.
+  en: Schacht's and Juynboll's books, Motzki's own results, and research on human memory and oral transmission have not yet been consulted. Classical criticism of particular hadith in Bukhari and Muslim (for example by al-Daraqutni) was not covered. Named figures of the Turkish Quran-centred movement were not identified in the source read.
 visualizations:
   - id: ideas
     tr: |
@@ -110,14 +110,14 @@ fullAnswer:
     en: |-
       **Terms.** An *isnād* is "the chain of narration" — who heard it from whom; the *matn* is the text. A *ṣaḥīḥ* (sound) hadith has an unbroken chain in which "every narrator is known to be upright and precise in their transmission", with a text "free from hidden defects or irregularities". A *ḥasan* (good) hadith meets most criteria, but a narrator "may have slightly less precise memory". A *ḍaʿīf* (weak) hadith fails them, "typically because of a break in the chain, an unreliable narrator, or a textual irregularity". A *mawḍūʿ* (fabricated) hadith is "invented and falsely attributed to the Prophet" (ParallelQuran's summary). Scholars judged narrators using biographical dictionaries that recorded each person's teachers, students, reliability and memory.
 
-      **Bukhari and Muslim.** Al-Bukhari and Muslim each compiled a collection limited to reports they judged sound. How later scholars ranked these collections, and where they criticised particular reports in them, was not covered here (see Gaps).
+      **Bukhari and Muslim.** Al-Bukhari and Muslim each compiled a collection limited to reports they judged sound. How later scholars ranked these collections, and where they criticised particular reports in them, was not covered here.
 
       **A worked example of grading.** In run 6, the hadith "Tie it and rely (upon Allah)" (al-Tirmidhi 2517) was called *gharīb* by al-Tirmidhi: he knew it from Anas only by this one route, and he noted a similar report from ʿAmr b. Umayya al-Damri. Yahya al-Qattan called it *munkar* (rejected); Zubair ʿAli Zaʾi graded it *ḥasan* (good); and Ibn Hibban (no. 731) has a version graded *ḥasan li-ghayrihi* ("good because of support from other routes") by al-Arnaʾut. So a familiar saying can rest on a disputed chain. By contrast, the three-outcomes hadith on du'a (Musnad Ahmad 11133) has a chain al-Arnaʾut called *jayyid* (good), al-Hakim authenticated, and a parallel in al-Adab al-Mufrad (no. 710; *Ṣaḥīḥ al-Adab al-Mufrad* 547) graded *ṣaḥīḥ* by al-Albani. Grading is done chain by chain, and agreement between independent chains strengthens a report.
   - kind: history
     en: |-
-      **Schacht's argument (outline only).** Joseph Schacht (*The Origins of Muhammadan Jurisprudence*, 1950) is the best-known Western critic of hadith chains. Neither his book nor a summary of it was read for this run, so his thesis is given here only as the question above states it: that many legal hadith arose later and their chains were extended back to the Prophet (pbuh). Mansur Ali's review discusses the "common link" theory of G. H. A. Juynboll, the method Little (2022) also uses: the narrator on whom many chains of one hadith converge is treated as its likely originator.
+      **Schacht's argument (outline only).** Joseph Schacht (*The Origins of Muhammadan Jurisprudence*, 1950) is the best-known Western critic of hadith chains. Neither his book nor a summary of it was read, so his thesis is given here only as the question above states it: that many legal hadith arose later and their chains were extended back to the Prophet (pbuh). Mansur Ali's review discusses the "common link" theory of G. H. A. Juynboll, the method Little (2022) also uses: the narrator on whom many chains of one hadith converge is treated as its likely originator.
 
-      **Motzki's response.** Harald Motzki developed the *isnād-cum-matn* method — "the chain of narrators should be studied in tandem with the text of a hadith" — first in his study of the *Muṣannaf* of ʿAbd al-Razzaq al-Sanʿani. Mansur Ali's review says Motzki's critique shows that Juynboll's common-link theory "nevertheless suffers from many methodological and epistemological flaws", while noting that accepting Motzki's conclusions "will depend on how much reliance one is willing to place on the chain of narrators". Motzki's own dating results were not read for this run.
+      **Motzki's response.** Harald Motzki developed the *isnād-cum-matn* method — "the chain of narrators should be studied in tandem with the text of a hadith" — first in his study of the *Muṣannaf* of ʿAbd al-Razzaq al-Sanʿani. Mansur Ali's review says Motzki's critique shows that Juynboll's common-link theory "nevertheless suffers from many methodological and epistemological flaws", while noting that accepting Motzki's conclusions "will depend on how much reliance one is willing to place on the chain of narrators". Motzki's own dating results have not yet been consulted.
 
       **A live example: Aisha's age.** Joshua Little (2022) used the common-link method to argue that the report of Aisha's age at marriage "appears to have been created and disseminated" by Hisham ibn ʿUrwa in Iraq; Cheema (2024) replied that it is corroborated by chains not through Hisham, including al-Zuhri's in Muslim 1422c (see "Aisha's age at marriage"). The case shows both methods at work on one hadith.
   - kind: reasoning
@@ -140,7 +140,7 @@ fullAnswer:
     en: |-
       - **Mainstream Sunni scholarship** — the Sunna is binding; graded hadith are its main record; *ṣaḥīḥ* collections are highly reliable.
       - **Schacht, Juynboll** — many hadith, especially legal ones, arose in the second century.
-      - **Motzki** — chains and texts must be studied together; the common-link theory is methodologically flawed (as reported by Mansur Ali; Motzki's own dating results were not read).
+      - **Motzki** — chains and texts must be studied together; the common-link theory is methodologically flawed (as reported by Mansur Ali; Motzki's own dating results have not yet been consulted).
       - **Quran-centred Muslims (e.g. *Kur'an Müslümanlığı* in Türkiye)** — the Quran alone is the source; hadith are not binding.
 followUps:
   - q:

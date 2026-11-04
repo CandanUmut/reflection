@@ -46,7 +46,7 @@ layers:
 honestLimits:
   tr: |
     Gerekçe güçlüdür ama zorlamaz.
-  en: The comparison cannot be finished on one page, and the criteria are weighed differently by different people. The early manuscripts support an early fixed text but also show pre-Uthmanic variants whose meaning scholars dispute. The classical Muslim arguments against other religions (Ibn Taymiyya, Ibn Ḥazm) and the modern ones (Nasr, Winter, Sachedina) could not be read for this page. The case for Islam is strong for many people; it does not compel.
+  en: The comparison cannot be finished on one page, and the criteria are weighed differently by different people. The early manuscripts support an early fixed text but also show pre-Uthmanic variants whose meaning scholars dispute. The classical Muslim arguments against other religions (Ibn Taymiyya, Ibn Ḥazm) and the modern ones (Nasr, Winter, Sachedina) have not yet been consulted. The case for Islam is strong for many people; it does not compel.
 visualizations:
   - id: ideas
     tr: |
@@ -57,7 +57,7 @@ sources:
   - label: Sahih Muslim 153 (sunnah.com), https://sunnah.com/muslim:153.
     url: https://sunnah.com/muslim:153
   - label: Sahih al-Bukhari 4987 (sunnah.com, Book 66, Hadith 9) — the Uthmanic copies.
-  - label: '"Sanaa manuscript", *Wikipedia*, https://en.wikipedia.org/wiki/Sanaa_manuscript — summary of Sadeghi & Bergmann (2010), Sadeghi & Goudarzi (2012), Hilali, Puin (secondary; see Gaps).'
+  - label: '"Sanaa manuscript", *Wikipedia*, https://en.wikipedia.org/wiki/Sanaa_manuscript — summary of Sadeghi & Bergmann (2010), Sadeghi & Goudarzi (2012), Hilali, Puin (secondary).'
     url: https://en.wikipedia.org/wiki/Sanaa_manuscript
   - label: "\"Qur'an fragment Tübingen University Library Ma VI 165\", *Medieval.eu* (11 November 2014), https://www.medieval.eu/sensational-fragment-early-quran-identified/ — the Tübingen radiocarbon date."
     url: https://www.medieval.eu/sensational-fragment-early-quran-identified/
@@ -95,7 +95,7 @@ fullAnswer:
     en: |-
       **The text was standardised early, and the tradition says so openly.** Anas ibn Malik (ra) reports that Hudhayfa urged the caliph ʿUthman: "Save this nation before they differ about the Book (Qur'an) as Jews and the Christians did before." ʿUthman obtained the sheets kept by Hafsa (ra); Zayd ibn Thabit and three others made copies; where they differed, ʿUthman told them to "write it in the dialect of Quraish, the Qur'an was revealed in their tongue"; copies were sent to each province, and other Quranic materials were ordered "burnt" ({hadith:bukhari:4987}). This shows both a strong concern for one text and that other written forms existed.
 
-      **Early manuscripts are close to the Prophet's lifetime.** [Established for the dates.] A Quran fragment in Tübingen University Library, Ma VI 165, was dated by radiocarbon analysis at a Zürich laboratory to "AD 649–675" with "95.4% statistical probability" (*Medieval.eu*, 2014). The Sanaa palimpsest — a manuscript whose first ("lower") text was erased and overwritten — has a parchment that Sadeghi and Bergmann (2010) dated to before 669 CE with 95% probability, and "75% probability from before 646 CE" (*Wikipedia*, summarising them). The Birmingham folios, discussed on the page "Was the Quran preserved?", are dated to 568–645 CE (from the site's earlier research; not re-read here).
+      **Early manuscripts are close to the Prophet's lifetime.** [Established for the dates.] A Quran fragment in Tübingen University Library, Ma VI 165, was dated by radiocarbon analysis at a Zürich laboratory to "AD 649–675" with "95.4% statistical probability" (*Medieval.eu*, 2014). The Sanaa palimpsest — a manuscript whose first ("lower") text was erased and overwritten — has a parchment that Sadeghi and Bergmann (2010) dated to before 669 CE with 95% probability, and "75% probability from before 646 CE" (*Wikipedia*, summarising them). The Birmingham folios, discussed on the page "Was the Quran preserved?", are dated to 568–645 CE (not yet checked again).
 
       **The earliest text shows variants.** [Established that variants exist; Debated what they mean.] The Sanaa lower text has a sura order that "corresponds to no known Quranic order", and many variant wordings, which, the summary says, "rarely diverge from the fundamental meaning". Within suras the verse order mostly matches the standard text, with exceptions (in sura 20 two verses are swapped; in sura 9 a verse is missing, which Sadeghi and Goudarzi attribute to a copyist's eye-skip). Sadeghi and Goudarzi (2012) report some overlap with variants attributed to the Companion Ibn Masʿud but more differences; Elisabeth Puin and Asma Hilali report little or no correspondence; Hilali argues the texts may be schoolroom writing exercises, which Nicolai Sinai has criticised (*Wikipedia*).
 
@@ -104,7 +104,7 @@ fullAnswer:
     en: |-
       **Philosophers of religion describe the options.** David Basinger's SEP entry defines exclusivism as believing that one's perspective "is the truth or at least closer to the truth than any other competing religious perspective", and pluralism as denying "the primacy of any one religion". It summarises John Hick's view that each major religion "constitutes a valid context of salvation/liberation; but none constitutes the one and only such context". Islam in its mainstream forms is exclusivist about truth while, in many scholars' views, generous about who may be excused (see the salvation page).
 
-      **Muslim thinkers who compared religions.** Readers asked for Ibn Taymiyya's *al-Jawāb al-Ṣaḥīḥ*, Ibn Ḥazm's *al-Fiṣal*, Seyyed Hossein Nasr, Tim Winter (Abdal Hakim Murad), Abdulaziz Sachedina and Mohammad Hassan Khalil. Their works could not be read for this page, so their arguments are not summarised here (see Gaps). Khalil's study of how al-Ghazali, Ibn ʿArabi, Ibn Taymiyya and Rashid Rida thought about the fate of non-Muslims is summarised on the salvation page.
+      **Muslim thinkers who compared religions.** Readers asked for Ibn Taymiyya's *al-Jawāb al-Ṣaḥīḥ*, Ibn Ḥazm's *al-Fiṣal*, Seyyed Hossein Nasr, Tim Winter (Abdal Hakim Murad), Abdulaziz Sachedina and Mohammad Hassan Khalil. Their works have not yet been consulted, so their arguments are not summarised here. Khalil's study of how al-Ghazali, Ibn ʿArabi, Ibn Taymiyya and Rashid Rida thought about the fate of non-Muslims is summarised on the salvation page.
   - kind: reasoning
     en: |-
       **Criteria that can count as evidence for one religion over another.** Stated so they can be applied to every faith, including Islam:

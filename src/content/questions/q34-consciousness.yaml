@@ -63,7 +63,7 @@ sources:
     url: https://survey2020.philpeople.org/survey/results/all
   - label: 'Christof Koch, Marcello Massimini, Mélanie Boly and Giulio Tononi, "Neural correlates of consciousness: progress and problems", *Nature Reviews Neuroscience* 17 (2016), pp. 307–321, https://www.nature.com/articles/nrn.2016.22.pdf.'
     url: https://www.nature.com/articles/nrn.2016.22.pdf
-  - label: Cogitate Consortium, "Adversarial testing of global neuronal workspace and integrated information theories of consciousness", *Nature* (2025), via the Max Planck Institute press release, https://idw-online.de/en/news851431 (the paper itself was not read).
+  - label: Cogitate Consortium, "Adversarial testing of global neuronal workspace and integrated information theories of consciousness", *Nature* (2025), via the Max Planck Institute press release, https://idw-online.de/en/news851431 (the paper itself not yet consulted).
     url: https://idw-online.de/en/news851431
   - label: 'Yair Pinto et al., "Split brain: divided perception but undivided consciousness", *Brain* 140:5 (2017), pp. 1231–1237, https://pubmed.ncbi.nlm.nih.gov/28122878/ — abstract.'
     url: https://pubmed.ncbi.nlm.nih.gov/28122878/
@@ -99,7 +99,7 @@ fullAnswer:
 
       **Its setting.** Sura al-Isra is Meccan, but the best-known report places this question in Medina. Ibn Masʿud (ra) reports that the Prophet (pbuh) "passed by a group of Jews and some of them said to the other, Ask him (the Prophet) about the spirit", and others said: "Do not ask him, lest he should tell you what you dislike" ({hadith:bukhari:7297}; also Bukhari 125). Ibn Kathir notes the problem — a Meccan sura, a Medinan question — and suggests either that the verse was revealed a second time in Medina, or that the Prophet (pbuh) was inspired to answer with a verse already revealed. He also cites a report from ʿIkrima (via Ibn Jarir) in which the questioners say they have been given the Torah, and the reply is that their knowledge is little compared with God's.
 
-      **What *rūḥ* means here.** The abridged Ibn Kathir read for this page discusses the *rūḥ* as the human soul; it reports al-Suhayli describing it as "light and soft, like air", and treats the *nafs* (self) as the *rūḥ* joined to the body. Other classical readings of *rūḥ* in this verse (as the angel Gabriel, or as the Quran) are reported by other commentators but could not be checked in this run (see Gaps).
+      **What *rūḥ* means here.** The abridged Ibn Kathir read for this page discusses the *rūḥ* as the human soul; it reports al-Suhayli describing it as "light and soft, like air", and treats the *nafs* (self) as the *rūḥ* joined to the body. Other classical readings of *rūḥ* in this verse (as the angel Gabriel, or as the Quran) are reported by other commentators but has not yet been checked.
 
       **Other verses.** God says of Adam: "when I have proportioned him and breathed into him of My [created] soul" (15:29) — Saheeh adds "[created]" to make clear that the spirit is not a part of God. And: "Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep" (39:42).
 
@@ -108,9 +108,9 @@ fullAnswer:
     en: |-
       **Ibn al-Qayyim's *Kitāb al-Rūḥ*.** Ibn al-Qayyim (d. 1350), a Hanbali scholar and student of Ibn Taymiyya, wrote *Kitāb al-Rūḥ* (*The Book of the Spirit*), the best-known classical work on the soul. According to Hussin (2026): he used *nafs*, *rūḥ*, *qalb* (heart), *ʿaql* (intellect) for the soul and "argued that the difference between the terminologies is its attributes, not entity" (p. 174); the soul "is created by Allah" (p. 174) and is "self-standing and independent of the physical body" (p. 175); in sleep "the soul does not entirely leave the body, unlike when one is dead" (p. 175); after death it returns to the body in the grave for questioning (p. 175). An IslamWeb summary adds that he held "the souls are not like the bodies".
 
-      **Are *rūḥ* and *nafs* the same?** For Ibn al-Qayyim, they name one thing under different descriptions (Hussin, p. 174). Ibn Kathir's abridgement similarly treats *nafs* as the *rūḥ* joined to the body. Other scholars distinguished them; that range was not checked here.
+      **Are *rūḥ* and *nafs* the same?** For Ibn al-Qayyim, they name one thing under different descriptions (Hussin, p. 174). Ibn Kathir's abridgement similarly treats *nafs* as the *rūḥ* joined to the body. Other scholars distinguished them; that range has not yet been checked.
 
-      **Kalam debates.** Muslim theologians disagreed on whether the soul is a subtle body, an accident of the body, or (with the philosophers such as Ibn Sina) an immaterial substance. These positions were not read in primary sources for this run (see Gaps).
+      **Kalam debates.** Muslim theologians disagreed on whether the soul is a subtle body, an accident of the body, or (with the philosophers such as Ibn Sina) an immaterial substance. These positions have not yet been consulted in primary sources.
 
       **Does Islam require a soul separate from the body?** Islam teaches that the person continues after death and will be raised (39:42; the afterlife page). That requires that the person can exist and be restored by God. It does not, by itself, settle *how* the soul relates to the brain in this life. Some classical theologians held views closer to "the soul is a subtle body"; Ibn al-Qayyim held it is created and self-standing. A Muslim who accepts that the mind depends on the brain *in this life* is within that range, as long as he affirms that God sustains the person and raises them. *Limit:* a view that says the person simply *is* the brain and ends with it contradicts Islamic teaching on the afterlife.
   - kind: science
@@ -160,7 +160,7 @@ followUps:
   - q:
       en: What does *amr* mean in 17:85?
     a:
-      en: "\"Affair\" or \"command\". Saheeh International renders it \"of the affair of my Lord\"; the verse places the soul in God's domain and says human knowledge of it is little. The current page cites al-Ṭabāṭabāʾī reading *amr* as God's direct creative command; that was not re-checked here."
+      en: "\"Affair\" or \"command\". Saheeh International renders it \"of the affair of my Lord\"; the verse places the soul in God's domain and says human knowledge of it is little."
   - q:
       en: If AI one day seems conscious, what would that mean for the soul?
     a:

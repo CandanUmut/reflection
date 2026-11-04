@@ -44,7 +44,7 @@ howItWorks:
     - Süzülen kuşlar sıcak hava akımlarını (termikleri) kullanır.
     - Göçmen kuşlar güneşe, yıldızlara ve manyetik ipuçlarına göre yön bulur.
   en: |-
-    - **"Wings outspread" — gliding.** [Established] A spread wing deflects the air flowing past it downward; by Newton's third law, the air pushes the wing up. The pressure above the wing is also lower than below it. Together these produce *lift*. Soaring birds use rising columns of warm air (thermals) to gain height without flapping. (No named aerodynamics source was read for this run; this is textbook physics — see Gaps.)
+    - **"Wings outspread" — gliding.** [Established] A spread wing deflects the air flowing past it downward; by Newton's third law, the air pushes the wing up. The pressure above the wing is also lower than below it. Together these produce *lift*. Soaring birds use rising columns of warm air (thermals) to gain height without flapping. (No named aerodynamics source was read; this is textbook physics.)
     - **"Folded in" — flapping and diving.** [Established] Flapping adds forward thrust; folding the wings reduces drag for diving or bounding flight.
     - **How far the air can carry a bird.** [Established] On 13 October 2022, a bar-tailed godwit fitted with satellite tag 234684, "This five-month-old bird", left Alaska and landed at Ansons Bay in eastern Tasmania after flying "13,560 kilometres (8,435 miles)", in "11 days and one hour without the bird landing once", "without stopping for food or rest". Eric Woehler of BirdLife Tasmania estimated it lost "half or more of its body weight" on the way (Guinness World Records).
 awe:
@@ -69,8 +69,8 @@ reflection:
     The verse invites a double look: see the means clearly, and then see through them to the mercy that keeps them working.
 honestNotes:
   - en: '**No aerodynamics in the verse.** The verses describe what anyone can see: birds gliding and flapping, held in the air. Claims that they "predicted" lift go beyond the words, and the commentators did not read them that way.'
-  - en: "**The popular claim.** No named source making a scientific-miracle claim about these verses was read for this run."
-  - en: '**Distance figures.** The current page mentions "Later models put the distance at about 13,391–13,560 km". The Guinness article read here gives 13,560 km and does not mention a recalculation (see Corrections).'
+  - en: "**The popular claim.** No named source making a scientific-miracle claim about these verses was read."
+  - en: "**Distance figures.** The Guinness article read here gives 13,560 km and does not mention a recalculation."
 visualizations:
   - id: ideas
     tr: Gün sayacı ve azalan bir yakıt göstergesiyle bir küre üzerinde rota.
@@ -135,7 +135,7 @@ followUps:
   - q:
       en: How did the godwit know where to go?
     a:
-      en: The source read does not explain how it navigated, and no study of bird navigation was read for this run.
+      en: The source read does not explain how it navigated, and no study of bird navigation was read.
   - q:
       en: Why is the name "the Most Merciful" used in 67:19?
     a:

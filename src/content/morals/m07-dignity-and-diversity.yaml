@@ -29,7 +29,7 @@ evidence:
   en: Contact research shows positive contact reduces prejudice. [Established]
 gaps:
   tr: Irkçılık ve mezhepçilik.
-  en: Muslim history and present societies include racism and slavery; this page states the teaching, not a claim that it was lived. The Hanafi, Ibn ʿAshur and Auda sources were not read for this run.
+  en: Muslim history and present societies include racism and slavery; this page states the teaching, not a claim that it was lived. The Hanafi, Ibn ʿAshur and Auda sources have not yet been consulted.
 visualizations:
   - id: ideas
     tr: Benlikten bütün yaratılışa uzanan bir "haklar çemberi".
@@ -60,9 +60,9 @@ fullAnswer:
   - kind: sunnah
     en: '**No superiority except by piety.** In a sermon reported by a Companion, the Prophet (pbuh) said: "there is no virtue of an Arab over a non-Arab, nor of a non-Arab over an Arab, nor of a red-skinned over a black-skinned, nor of a black-skinned over a red-skinned except through piety" (Musnad Ahmad 23489; chain graded *ṣaḥīḥ* by Shuʿayb al-Arnaʾut; al-Haythami: its narrators are those of the *Ṣaḥīḥ*).'
   - kind: scholars
-    en: "**Inviolability through being human.** The current page cites the Hanafi principle that a person is protected (*maʿṣūm*) by being human (*bi-l-ādamiyya*), and the modern *maqāṣid* scholars Ibn ʿAshur and Jasser Auda. None of these works was read for this run (see Gaps)."
+    en: "**Inviolability through being human.** None of these works was read."
   - kind: history
-    en: "**The ideal and the record.** Muslim history includes both the Prophet's (pbuh) words above and real racism and ethnic hierarchy — including slavery (see \"Slavery\") and prejudice against Black Muslims. No historical study was read for this run, so no examples are given; they should be added from named sources."
+    en: "**The ideal and the record.** Muslim history includes both the Prophet's (pbuh) words above and real racism and ethnic hierarchy — including slavery (see \"Slavery\") and prejudice against Black Muslims. No historical study was read, so no examples are given; they should be added from named sources."
   - kind: research
     en: "**Contact between groups reduces prejudice.** [Established.] Pettigrew and Tropp's 2006 meta-analysis covered \"515 studies involving a quarter of a million participants in 38 nations\" and found an average relationship between contact and lower prejudice of r = .21; \"the more rigorous experimental studies yield a stronger mean effect of r = .33\" (Pettigrew and Tropp, 2008, p. 922). Contact under Allport's \"optimal conditions\" — equal status, shared goals, cooperation, support from authorities — typically produced larger reductions. This fits 49:13's \"that you may know one another\": knowing people across groups reduces contempt."
   - kind: practice

@@ -46,7 +46,7 @@ layers:
 honestLimits:
   tr: |
     Yetiştirilme inancı gerçekten şekillendirir. *Fıtrat* verilerle uyuşur ama onlarla kanıtlanmaz.
-  en: Upbringing does shape belief, and examining one's faith cannot remove that influence entirely. *Fiṭra* fits the research on children, but the research does not prove it. Barrett's book and the Pew paper's full methods were read only through summaries. Ibn Taymiyya's *Darʾ*, cited on the current page, was not read.
+  en: Upbringing does shape belief, and examining one's faith cannot remove that influence entirely. *Fiṭra* fits the research on children, but the research does not prove it. Barrett's book and the Pew paper's full methods were read only through summaries. Ibn Taymiyya's *Darʾ* has not yet been consulted.
 visualizations:
   - id: ideas
     tr: |
@@ -63,7 +63,7 @@ sources:
   - label: Kamil Güneş, "Eşʿarî'de Mukallidin İmanı", *Marife* 7:2 (2007), pp. 7–35, https://zenodo.org/records/3343847/files/MARIFE.2007.2-20_GUNES.pdf.
     url: https://zenodo.org/records/3343847/files/MARIFE.2007.2-20_GUNES.pdf
   - label: 'Clinton Sanchez, Brian Sundermeier, Kenneth Gray and Robert J. Calin-Jageman, "Direct replication of Gervais & Norenzayan (2012): No evidence that analytic thinking decreases religious belief", *PLOS ONE* (2017), DOI 10.1371/journal.pone.0172636 — abstract via EconPapers.'
-  - label: "BHodges, review of Justin L. Barrett, *Born Believers: The Science of Children's Religious Belief* (Free Press, 2012), *By Common Consent* (8 March 2012), https://bycommonconsent.com/2012/03/08/review-justin-l-barrett-born-believers-the-science-of-childrens-religious-beliefs/ (the book itself was not read)."
+  - label: "BHodges, review of Justin L. Barrett, *Born Believers: The Science of Children's Religious Belief* (Free Press, 2012), *By Common Consent* (8 March 2012), https://bycommonconsent.com/2012/03/08/review-justin-l-barrett-born-believers-the-science-of-childrens-religious-beliefs/ (the book itself not yet consulted)."
     url: https://bycommonconsent.com/2012/03/08/review-justin-l-barrett-born-believers-the-science-of-childrens-religious-beliefs/
   - label: 'Hans Van Eyghen, "Debunking Arguments against Theistic Belief", ch. 5 in *Introduction to Philosophy: Philosophy of Religion* (Rebus Community), https://press.rebus.community/intro-to-phil-of-religion/chapter/debunking-arguments-against-theistic-belief/.'
     url: https://press.rebus.community/intro-to-phil-of-religion/chapter/debunking-arguments-against-theistic-belief/
@@ -131,7 +131,7 @@ fullAnswer:
     en: |-
       **Belief is passed on in families.** [Established, for the US sample.] In a Pew survey of 1,811 pairs of US teens and their parents (2019), "Most teens share the religion of their parents", and 48% of teens said they have "all the same" religious beliefs as their parent.
 
-      **Children are naturally inclined to some religious ideas.** [Moderate.] Justin Barrett, a psychologist then at Oxford, argues in *Born Believers* (2012) that "belief in gods appears to be a naturally occurring human phenomenon": children readily detect agents, see purpose in nature (a "promiscuous teleology"), and tend to posit a creator. He distinguishes a cross-cultural "natural religion" from detailed theology, which "takes more time and effort to acquire" (as reported in BHodges's review). This does not favour any particular religion; the reviewer notes that Barrett "doesn't provide a compass" for judging between them. The book was not read directly.
+      **Children are naturally inclined to some religious ideas.** [Moderate.] Justin Barrett, a psychologist then at Oxford, argues in *Born Believers* (2012) that "belief in gods appears to be a naturally occurring human phenomenon": children readily detect agents, see purpose in nature (a "promiscuous teleology"), and tend to posit a creator. He distinguishes a cross-cultural "natural religion" from detailed theology, which "takes more time and effort to acquire" (as reported in BHodges's review). This does not favour any particular religion; the reviewer notes that Barrett "doesn't provide a compass" for judging between them. The book has not yet been consulted directly.
 
       **Thinking analytically does not reliably reduce belief.** [Moderate.] A 2012 study in *Science* (Gervais and Norenzayan) reported that prompting analytic thinking reduced religious belief. A large, pre-registered, multi-site replication with 941 participants found "little to no effect on religious belief": d = 0.07, in the opposite direction, 95% CI [−0.12, 0.25] (Sanchez et al., *PLOS ONE*, 2017).
 

@@ -88,7 +88,7 @@ honestNotes:
         - People in the seventh century already saw the sun move across the sky every day; a verse saying "the sun runs" was not, to them, a hidden claim.
         - The claim also uses "proves", which this site does not. The fair statement: the verse's words are compatible with what we now know; they are not a prediction of it.
   - en: "**The hadith, stated plainly.** Bukhari 3199 and 4802 are *ṣaḥīḥ* reports in which the sun, after setting, \"goes and prostrates underneath (Allah's) Throne\" and asks permission to rise. A skeptic's objection is real: the sun is always rising somewhere. The answers differ. Al-Khattabi leaves the manner to the unseen. Ibn Hajar allows a figurative reading (submission, or the prostration of its angel). *Maʿārif al-Qurʾān* calls it a similitude and says the sun is always beneath the Throne, so its prostration \"needs no pause or break\". *Limit:* a reader who takes the hadith's words as a physical sequence will find a conflict with astronomy; these answers resolve it only by reading the prostration as non-physical or unknowable. The page shows the hadith and the readings rather than choosing for the reader."
-  - en: '**The Throne passage.** The current page quotes Ibn Kathir calling the Throne "a dome" and "not a sphere as many astronomers claim". The quotation is correct (surahquran.com, 36:38). That is his cosmology, and the page is right to show it.'
+  - en: '**The Throne passage.** Ibn Kathir calls the Throne "a dome" and "not a sphere as many astronomers claim". The quotation is correct (surahquran.com, 36:38). That is his cosmology, and the page is right to show it.'
 visualizations:
   - id: ideas
     tr: Bir yörünge ve mevsim simülatörü; bir lazer ölçüm canlandırması.
@@ -107,7 +107,7 @@ sources:
     url: https://islamqa.info/en/downloads/answers/176375
   - label: Faraz Rabbani, "Does the Hadith of the Sun's Prostration Bear on the Earth's Rotation?", SeekersGuidance (6 August 2026), https://seekersguidance.org/answers/hanafi-fiqh/does-the-hadith-of-the-suns-prostration-bear-on-the-earths-rotation/ — reporting Ibn Hajar's *Fatḥ al-Bārī* and others.
     url: https://seekersguidance.org/answers/hanafi-fiqh/does-the-hadith-of-the-suns-prostration-bear-on-the-earths-rotation/
-  - label: NASA StarChild, on the sidereal and synodic month (as read for this run).
+  - label: NASA StarChild, on the sidereal and synodic month (as read).
   - label: "\"Galactic year\", *Wikipedia* (citing NASA StarChild) — the Sun's speed and orbit around the galaxy."
   - label: '"Perfect orbits in the universe", Discovering Islam Team, AboutIslam (18 January 2017), https://aboutislam.net/reading-islam/understanding-islam/quran-perfect-orbits-universe/ — the popular modern claim.'
     url: https://aboutislam.net/reading-islam/understanding-islam/quran-perfect-orbits-universe/
@@ -146,7 +146,7 @@ followUps:
   - q:
       en: Did classical scholars think the sun goes around the earth?
     a:
-      en: 'Their cosmology was that of their time: Ibn Kathir reads the orbits as "in the heaven" and the Throne as "a dome" over the universe. (Whether he states an Earth-centred model in so many words was not checked for this run.) This page does not claim the verse described modern astronomy.'
+      en: 'Their cosmology was that of their time: Ibn Kathir reads the orbits as "in the heaven" and the Throne as "a dome" over the universe. (Whether he states an Earth-centred model in so many words has not yet been checked.) This page does not claim the verse described modern astronomy.'
 legacySources:
   - *a1
   - *a2

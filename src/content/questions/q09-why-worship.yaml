@@ -55,7 +55,7 @@ layers:
 honestLimits:
   tr: |
     Kur'an ibadetin insanlara fayda verdiğini söyler, ama her şeklini açıklamaz; bazı ameller *taabbüdî*dir. "Bilim namazın iyileştirdiğini kanıtlıyor" demek, ilişkisel verileri abartmaktır.
-  en: The answer to "why punishment?" is the tradition's, and it leaves some readers unsatisfied. The Ashʿari–Maturidi difference on God's purposes, al-Ghazali's *Kitāb al-Maḥabba*, al-Razi on 51:56, Nursi and Tim Winter (all cited on the current page) were not read for this run. No wellbeing study was read.
+  en: The answer to "why punishment?" is the tradition's, and it leaves some readers unsatisfied. The Ashʿari–Maturidi difference on God's purposes, al-Ghazali's *Kitāb al-Maḥabba*, al-Razi on 51:56, Nursi and Tim Winter have not yet been consulted. No wellbeing study was read.
 visualizations:
   - id: ideas
     tr: |
@@ -112,11 +112,11 @@ fullAnswer:
 
       **Al-Jalālayn.** It addresses the obvious objection — that many do not worship — and says "the fact that disbelievers do not worship God does not contradict this statement", comparing it to a pencil sharpened for writing: its purpose is writing, even if it is never used.
 
-      **Other readings on the current page.** The current page reports that Ibn ʿAbbas, via al-Tabari, glossed "to worship Me" as "to know Me". On the Ibn Kathir page read, that gloss does not appear; the phrase "to recognize Me, serve Me" appears in a different commentary (*al-Muntakhab*) on the same page (see Corrections).
+      **Other readings, not yet checked.** On the Ibn Kathir page read, that gloss does not appear; the phrase "to recognize Me, serve Me" appears in a different commentary (*al-Muntakhab*) on the same page.
 
       **What *ʿibāda* covers.** Ibn Taymiyya, in his treatise *al-ʿUbūdiyya*, defined worship as "a collective term for everything that God loves and is pleased with, whether of outward or inward sayings and actions" (Nadwi's rendering). On this view, worship includes prayer, fasting, almsgiving and pilgrimage, but also truthfulness, trustworthiness, dutifulness to parents, keeping family ties, kindness and good character (Nadwi). Worship is not a slice of life; it is a way of living all of it.
 
-      **Kalām on God's purposes.** The current page reports a difference between the Ashʿaris, who deny that God acts for a purpose that would complete Him, and the Maturidis, who affirm wisdom (*ḥikma*) in His acts for creatures' benefit; both agree He gains nothing. (*Kalām* is Islamic rational theology.) No source on this difference was read for this run (see Gaps).
+      **Kalām on God's purposes.** (*Kalām* is Islamic rational theology.) No source on this difference was read.
   - kind: reasoning
     en: |-
       **1. Praise that fits, not praise that is needed.** We praise a beautiful piece of music not because the composer needs it, but because praise is the fitting response to what is good. On the Islamic view, God is the source of every good; praising Him is seeing things as they are. That is why the Quran calls God *al-Ḥamīd*, "the Praiseworthy" — worthy of praise — while also saying He is "Free of need" (35:15).
@@ -131,7 +131,7 @@ fullAnswer:
       **The objection in full.** If I skip medicine, I just stay ill; the doctor does not punish me. If worship is only for my good, why does the Quran attach severe, even eternal, consequences to neglecting it?
 
       **The reply.**
-      1. *Consequences follow what a person becomes.* "But as for he who feared the position of his Lord and prevented the soul from [unlawful] inclination, Then indeed, Paradise will be [his] refuge" (79:40–41). On one reading (a modern theological reading; no named holder was read for this run), the Hereafter is the result of the self one has made: a person who turns away from God for a lifetime becomes someone turned away. The Quran itself also speaks of recompense (*jazāʾ*), so this reading does not exhaust it.
+      1. *Consequences follow what a person becomes.* "But as for he who feared the position of his Lord and prevented the soul from [unlawful] inclination, Then indeed, Paradise will be [his] refuge" (79:40–41). On one reading (a modern theological reading; no named holder was read), the Hereafter is the result of the self one has made: a person who turns away from God for a lifetime becomes someone turned away. The Quran itself also speaks of recompense (*jazāʾ*), so this reading does not exhaust it.
       2. *Ingratitude is not neutral.* 14:7 sets gratitude and denial side by side. To deny the source of every good is not only to miss a benefit; it is to wrong the truth.
       3. *Mercy is greater.* "Verily My Mercy overcomes My Anger" (Bukhari 7404). The Quran's warnings are real, but they sit inside a frame in which mercy prevails.
       4. *The account is of your own deeds.* "it is but your deeds that I account for you, and then recompense you for. So he who finds good, let him praise Allah" (al-Nawawi's Forty, no. 24, from Muslim 2577).
@@ -140,12 +140,12 @@ fullAnswer:
 
       **"What does 'neglect is self-harm' mean in concrete terms?"** A person who never pauses to thank, never turns from the self, never holds back from wrong for God's sake, gradually becomes harder, more anxious and more self-centred — the reverse of the "riches" of the chest Ibn Kathir's hadith promises. That is a moral and spiritual claim, not a measured one.
   - kind: science
-    en: The current page says gratitude and contemplative practice are associated with modest wellbeing benefits. No study was read for this run, so the claim is not repeated here (see Corrections and Gaps).
+    en: No study was read, so the claim is not repeated here.
   - kind: views
     en: |-
       - **Quran and hadith** — God is free of need; worship is for humans (35:15; 51:57; Muslim 2577).
       - **Ibn Taymiyya** — worship covers all that God loves, inward and outward.
-      - **Ashʿaris and Maturidis** (as the current page reports) — differ on whether God's acts have purposes; agree He gains nothing.
+      - **Ashʿaris and Maturidis** — differ on whether God's acts have purposes; agree He gains nothing.
       - **Critics** — commanded worship backed by punishment looks like a demand, not a gift.
 followUps:
   - q:

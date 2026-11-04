@@ -24,7 +24,7 @@ whyAsked:
 shortAnswer:
   tr: |
     Şuayb Ahmed Malik (*Islam and Evolution*, Routledge 2021) dört görüşü haritalar: yaratılışçılık, insan istisnacılığı, Âdem istisnacılığı ve istisnasızlık. Gazzâlî'nin yorum ilkelerini kullanarak ilk üçünü metinle bağdaşır bulur ve David Solomon Jalajel'in geliştirdiği Âdem istisnacılığını tercih eder. Asıl tartışma dardır: Âdem'in kendisinin ataları olup olmadığı.
-  en: "The question is narrower than it looks. The Quran says nothing about how plants and animals came to be in their present forms; its creation verses about humans concern Adam. Shoaib Ahmed Malik (*Islam and Evolution*, 2021), applying al-Ghazali's rules of interpretation, sorts Muslim views into four positions — creationism, human exceptionalism, Adamic exceptionalism and \"no exceptions\" — and concludes that the first three are compatible with scripture and the fourth is not. The real dispute is whether Adam himself had biological parents. Common descent is very well supported by evidence such as the fused human chromosome 2. Population genetics rules out a single founding couple in the recent past, but not, on later analyses, one more than about 500,000 years ago. Traditional scholarly answers are cautious: one read for this run (SeekersGuidance, 2020) holds that Adam was certainly created directly, while leaving the evolution of other species open."
+  en: "The question is narrower than it looks. The Quran says nothing about how plants and animals came to be in their present forms; its creation verses about humans concern Adam. Shoaib Ahmed Malik (*Islam and Evolution*, 2021), applying al-Ghazali's rules of interpretation, sorts Muslim views into four positions — creationism, human exceptionalism, Adamic exceptionalism and \"no exceptions\" — and concludes that the first three are compatible with scripture and the fourth is not. The real dispute is whether Adam himself had biological parents. Common descent is very well supported by evidence such as the fused human chromosome 2. Population genetics rules out a single founding couple in the recent past, but not, on later analyses, one more than about 500,000 years ago. Traditional scholarly answers are cautious: one read (SeekersGuidance, 2020) holds that Adam was certainly created directly, while leaving the evolution of other species open."
 layers:
   - kind: religious
     tr: |
@@ -48,7 +48,7 @@ layers:
 honestLimits:
   tr: |
     Kurumsal tutumlar temkinli olmaya devam ediyor.
-  en: Malik's book itself, Jalajel's work and Guessoum's book were read only through reviews; al-Ghazali's *Qānūn al-Taʾwīl* and *Fayṣal al-Tafriqa* were not read, so his rule is described only in the reviewers' words. The survey of evidence for common descent here gives one example; it is not a full account. Institutional positions (Diyanet, al-Azhar, fatwa councils) beyond the one answer read were not checked.
+  en: Malik's book itself, Jalajel's work and Guessoum's book were read only through reviews; al-Ghazali's *Qānūn al-Taʾwīl* and *Fayṣal al-Tafriqa* have not yet been consulted, so his rule is described only in the reviewers' words. The survey of evidence for common descent here gives one example; it is not a full account. Institutional positions (Diyanet, al-Azhar, fatwa councils) beyond the one answer read have not yet been checked.
 visualizations:
   - id: ideas
     tr: |
@@ -97,7 +97,7 @@ fullAnswer:
     en: "**You do not have to choose between your faith and your biology class on the terms you were given.** Many people have been told that accepting any part of evolution is unbelief, and many others that faith is anti-science. Both are too simple. Learning that serious Muslim scholars hold several positions — and that the real disagreement is about one person, Adam — often brings relief. Study the science honestly, and study the texts honestly; the two questions are different."
   - kind: quran
     en: |-
-      **Adam like Jesus (3:59).** "Indeed, the example of Jesus to Allah is like that of Adam. He created Him from dust; then He said to him, 'Be,' and he was" (3:59), Medinan, in a passage about Jesus (pbuh) (its occasion of revelation was not checked for this run). The comparison is that both came into being in an unusual way, by God's command.
+      **Adam like Jesus (3:59).** "Indeed, the example of Jesus to Allah is like that of Adam. He created Him from dust; then He said to him, 'Be,' and he was" (3:59), Medinan, in a passage about Jesus (pbuh) (its occasion of revelation has not yet been checked). The comparison is that both came into being in an unusual way, by God's command.
 
       **From clay, shaped and given the spirit (38:71–76).** "[So mention] when your Lord said to the angels, 'Indeed, I am going to create a human being from clay. So when I have proportioned him and breathed into him of My [created] soul, then fall down to him in prostration'" (38:71–72), Meccan. God asks Iblis: "what prevented you from prostrating to that which I created with My hands?" Iblis answers: "I am better than him. You created me from fire and created him from clay" (38:75–76). The parallel passage in 15:28–29 has the same order: proportioned, then "breathed into him of My [created] soul" (15:29).
 
@@ -117,14 +117,14 @@ fullAnswer:
       3. **Adamic exceptionalism.** Developed by David Solomon Jalajel; Bigliardi describes Malik as praising it. "Adam and Eve were created miraculously, yet in such a way that their makeup and appearance did not differ from humans that hitherto evolved" (Bigliardi). Other human-like beings may have existed and evolved; Adam and Eve were created directly; their descendants may have mixed with others. *Reading of the Adam verses:* literal for Adam; the Quran is silent on others.
       4. **No exceptions.** "Total acceptance of evolution (including for humans)" (Bigliardi): Adam too had biological ancestors. *Reading of the Adam verses:* non-literal or symbolic.
 
-      **Al-Ghazali's rule, and how Malik applies it.** "Chapter 9 outlines Al-Ghazālī's hermeneutics principles" (Arrozy). Bigliardi describes them as several "layers" of reading, starting from "acceptance at face value"; metaphorical readings, he reports, "may be maintained, yet in conjunction with the reading of Adam as a real individual" (citing p. 308). Applying these principles, Malik concludes that they "would agree with creationism, human exceptionalism, and Adamic exceptionalism", but not with "no exceptions" (Arrozy, citing p. 330), because its metaphorical reading of Adam's story "seems to be dominantly influenced by scientific measures" (p. 306). The exact wording of al-Ghazali's rule was not read for this run (see Gaps).
+      **Al-Ghazali's rule, and how Malik applies it.** "Chapter 9 outlines Al-Ghazālī's hermeneutics principles" (Arrozy). Bigliardi describes them as several "layers" of reading, starting from "acceptance at face value"; metaphorical readings, he reports, "may be maintained, yet in conjunction with the reading of Adam as a real individual" (citing p. 308). Applying these principles, Malik concludes that they "would agree with creationism, human exceptionalism, and Adamic exceptionalism", but not with "no exceptions" (Arrozy, citing p. 330), because its metaphorical reading of Adam's story "seems to be dominantly influenced by scientific measures" (p. 306). The exact wording of al-Ghazali's rule has not yet been consulted.
 
       **Ashʿari occasionalism, explained.** *Occasionalism* is the view that God is the direct cause of every event, and what we call natural causes are only the occasions on which He acts. Al-Ghazali's famous example: "the cotton is burned directly by God rather than by the fire" (*Wikipedia*); the regular order of nature expresses God's will, not a necessity in things. Arrozy summarises: "The Ash'arite theology, i.e. occasionalism" holds that God is "the primary cause of everything" and "is not bound by the law of nature", and the four positions "could align well with the Ash'arite theology". From this, this page draws its own point (not attributed to Malik): "unguided" evolution is a metaphysical claim, not a biological one, since on occasionalism every mutation and every selection is God's act.
 
       **Not every claimed precedent is real.** Arrozy reports Malik's caution against reading Darwin back into classical authors such as Ibn Khaldūn, Rūmī and al-Jāḥiẓ. A Turkish example of the same caution: Süleyman Ateş claimed in 1975 that the commentator Elmalılı Hamdi Yazır accepted the evolution of Adam; Gördük (2019) argues that Ateş quoted selectively and that Elmalılı held Adam was created as "kusursuz bir ilk insan" — a flawless first human.
   - kind: science
     en: |-
-      **Common descent.** [Established] One clear example: humans have 23 pairs of chromosomes, while "all other extant members of Hominidae have twenty-four pairs". "Human chromosome 2 is a result of an end-to-end fusion of two ancestral chromosomes": it carries "remnants of a second centromere" and "additional telomere sequences in the q13 band, far from either end of the chromosome" — telomeres normally sit only at chromosome ends — "the relic of an ancient telomere-telomere fusion" (*Wikipedia*, citing Ijdo et al. 1991 and others). Chimpanzees have "nearly identical DNA sequences to human chromosome 2, but they are found in two separate chromosomes". This is one line of evidence among many (fossils, anatomy, shared genetic "mistakes"), which this run did not survey.
+      **Common descent.** [Established] One clear example: humans have 23 pairs of chromosomes, while "all other extant members of Hominidae have twenty-four pairs". "Human chromosome 2 is a result of an end-to-end fusion of two ancestral chromosomes": it carries "remnants of a second centromere" and "additional telomere sequences in the q13 band, far from either end of the chromosome" — telomeres normally sit only at chromosome ends — "the relic of an ancient telomere-telomere fusion" (*Wikipedia*, citing Ijdo et al. 1991 and others). Chimpanzees have "nearly identical DNA sequences to human chromosome 2, but they are found in two separate chromosomes". This is one line of evidence among many (fossils, anatomy, shared genetic "mistakes"), which this page does not survey.
 
       **A single founding couple: the numbers.** [Debated]
       - Estimates of past human population size put it at "never fewer than around 10,000 people" (Craig's summary of the critics). Craig points out that these are averages over long periods, not minimums.
@@ -141,9 +141,9 @@ fullAnswer:
       **"Evolution means no God."** *Reply:* "unguided" is a philosophical addition, not a finding of biology; for an Ashʿari, every natural process is God's act. *Limit:* the critic says that if God acts through the same processes that would occur without Him, His action is not detectable — which is true, and is also what occasionalism says.
   - kind: views
     en: |-
-      - **Popular opinion varies widely.** In Pew's 2013 survey of Muslims, the share saying humans and other living things evolved over time ranged from 79% in Kazakhstan and 78% in Lebanon down to 30% in Pakistan, among the figures the report states. "In just four countries" — Iraq (67%), Afghanistan (62%), Indonesia (55%) and Tajikistan (55%) — did at least half say humans have always existed in their present form; in Turkey this was the most common answer (49%) (Pew; survey years and samples are in the report's methodology, not read here).
+      - **Popular opinion varies widely.** In Pew's 2013 survey of Muslims, the share saying humans and other living things evolved over time ranged from 79% in Kazakhstan and 78% in Lebanon down to 30% in Pakistan, among the figures the report states. "In just four countries" — Iraq (67%), Afghanistan (62%), Indonesia (55%) and Tajikistan (55%) — did at least half say humans have always existed in their present form; in Turkey this was the most common answer (49%) (Pew; survey years and samples are in the report's methodology, not yet consulted).
       - **A traditional scholarly answer.** A SeekersGuidance answer, approved by Faraz Rabbani, says: "We are certain that Adam… did not evolve", that his direct creation "is clearly established", while "the process of creation for anything other than humans is not addressed in the Qur'an" (2020). This is human exceptionalism.
-      - **Academic theologians.** Malik and Jalajel defend Adamic exceptionalism as compatible; Nidhal Guessoum's *Islam's Quantum Question* is cited on the current page; it was not read for this run.
+      - **Academic theologians.** Malik and Jalajel defend Adamic exceptionalism as compatible;
       - **"No exceptions."** Judged incompatible with scripture by Malik; its Muslim holders were not identified in the sources read.
 followUps:
   - q:
@@ -157,7 +157,7 @@ followUps:
   - q:
       en: Do I have to believe Adam had no parents to be a Muslim?
     a:
-      en: Malik's analysis treats Adam as "a real individual" created miraculously (Bigliardi), and the SeekersGuidance answer read here calls his direct creation certain. Other institutions were not checked for this run. A Muslim can accept evolution for other species, and on Adamic exceptionalism even for other human-like beings, while holding this.
+      en: Malik's analysis treats Adam as "a real individual" created miraculously (Bigliardi), and the SeekersGuidance answer read here calls his direct creation certain. Other institutions have not yet been checked. A Muslim can accept evolution for other species, and on Adamic exceptionalism even for other human-like beings, while holding this.
   - q:
       en: What do "human exceptionalism" and "Adamic exceptionalism" mean?
     a:
@@ -169,7 +169,7 @@ followUps:
   - q:
       en: What do most Muslims and Muslim institutions actually believe?
     a:
-      en: Opinion varies a great deal by country (Pew, 2013). The one scholarly answer read for this run (SeekersGuidance) holds that Adam was created directly, while leaving the evolution of other species open; Diyanet, al-Azhar and fatwa councils were not checked.
+      en: Opinion varies a great deal by country (Pew, 2013). The one scholarly answer read (SeekersGuidance) holds that Adam was created directly, while leaving the evolution of other species open; Diyanet, al-Azhar and fatwa councils have not yet been checked.
 legacySources:
   - *a1
   - *a2

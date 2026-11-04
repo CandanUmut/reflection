@@ -1,6 +1,6 @@
 # Run 16 — Reflect IV (S26–S33)
 
-Written directly by Claude from sources opened and read during this run (4 November 2026). Saheeh International is quoted from the site's verified Tanzil data (`src/data/quran.json`); 24:35, which is not in that file, is quoted only in the fragments shown as Saheeh International on surahquran.com. Arabic tafsir quotations are given with an English translation by the writer. Where a source could not be read, it is listed under Gaps and not used.
+Written directly by Claude from sources opened and read (4 November 2026). Saheeh International is quoted from the site's verified Tanzil data (`src/data/quran.json`); 24:35, which is not in that file, is quoted only in the fragments shown as Saheeh International on surahquran.com. Arabic tafsir quotations are given with an English translation by the writer. Where a source have not yet been consulted, it is listed under Gaps and not used.
 
 ## S26 — Darkness in the deep sea
 
@@ -115,7 +115,7 @@ Science adds one quiet image. Even where no sunlight reaches, most of the creatu
 
 ### How it works
 Each point is tied to "neighboring plots … watered with one water; but … some of them exceed others".
-- **Neighbouring soils really do differ.** [Established, for this case] In one eight-hectare vineyard at Oion (Araba-Álava, Basque Country), a team led by Olatz Unamunzaga (Neiker-Tecnalia) sampled "more than 190 points". The vineyard had "plots with soils of different characteristics", producing "significant differences in the production of the grape and in the quality of the must". Soil depths ranged from 25–80 cm (sandstone) to 85–100 cm (argillite); soils that held more water gave the most robust vines, while on sandstone the colour intensity was "up to four times greater than on the other soils" (CORDIS). This is one study of one vineyard, reported in a summary; the paper itself was not read.
+- **Neighbouring soils really do differ.** [Established, for this case] In one eight-hectare vineyard at Oion (Araba-Álava, Basque Country), a team led by Olatz Unamunzaga (Neiker-Tecnalia) sampled "more than 190 points". The vineyard had "plots with soils of different characteristics", producing "significant differences in the production of the grape and in the quality of the must". Soil depths ranged from 25–80 cm (sandstone) to 85–100 cm (argillite); soils that held more water gave the most robust vines, while on sandstone the colour intensity was "up to four times greater than on the other soils" (CORDIS). This is one study of one vineyard, reported in a summary; the paper itself has not yet been consulted.
 - **"One water" does not mean equal water.** [Established, for this case] The same study found that "Hydric availability affected the unit production of the vine": rain or irrigation can be the same, while each soil keeps a different share of it. This matches the commentators' picture of good and poor soils side by side.
 - **Several trunks from one root.** [Established] Date palms send up offshoots from the base. FAO: "Offshoot plants are true to type to the parent palm", while seedlings differ — "half of the progeny will be males and half will be females" and "no two seedling palms are alike". A palm produces offshoots "in a limited number (20 to 30 at most)". The verse's *ṣinwān* describes this growth habit; it says nothing about cloning.
 
@@ -135,7 +135,7 @@ Today we can describe some of the causes: a soil that holds water and one that l
 ### Honest notes
 - **No popular "miracle" claim was found** for this verse in the sources read. The risk here is the opposite: treating the verse as if it denied natural causes. It does not; it attributes the variety to God and asks people to reason about it.
 - **Science and the verse.** The vineyard study shows that neighbouring soils differ, which fits the commentators' picture. It does not test the verse and should not be presented as confirming it.
-- **Al-Rāzī.** The current page says al-Rāzī uses this verse as a key argument for a choosing Creator. That may well be so, but his commentary on 13:4 was not read for this run, so the claim cannot stay unsourced (see Corrections and Gaps).
+- **Al-Rāzī.** That may well be so, but his commentary on 13:4 has not yet been consulted, so the claim cannot stay unsourced.
 - **The hadith of the dates** (Tirmidhi 3118) has a disputed grade; it is reported, not relied on.
 
 ### Questions readers ask next
@@ -179,7 +179,7 @@ Today we can describe some of the causes: a soil that holds water and one that l
 
 ### How it works
 Each point is tied to "We have tamed them for them" (36:72) and to the benefits named.
-- **When sheep and goats were tamed.** [Established, date approximate] Comparing the genes of domestic sheep and goats with their wild ancestors (the Asiatic mouflon and the Bezoar ibex), Cardiff researchers (Pablo Orozco-terWengel and Mike Bruford) place their domestication "approximately 10,500 years ago" "near the fertile crescent" (Cardiff University news; the journal paper was not read).
+- **When sheep and goats were tamed.** [Established, date approximate] Comparing the genes of domestic sheep and goats with their wild ancestors (the Asiatic mouflon and the Bezoar ibex), Cardiff researchers (Pablo Orozco-terWengel and Mike Bruford) place their domestication "approximately 10,500 years ago" "near the fertile crescent" (Cardiff University news; the journal paper has not yet been consulted).
 - **When camels were tamed.** [Established, date approximate] Using DNA from 1,083 modern dromedaries from 21 countries, plus ancient specimens, Almathen et al. (2016) conclude that "The domestication of the dromedary likely happened in the late second millennium BCE" — roughly 3,000 years ago — with a reduction in bone size dated to "ca. 1,100–800 BCE", and identify "the Southeast Arabian Peninsula as the region of first domestication" (phys.org report). Unusually, dromedaries kept high genetic diversity, because wild animals kept breeding into domestic herds.
 - **What "tamed" involved.** [Established] Domestication was a long human process of selecting and breeding animals that were calm enough to handle. The verse speaks of God taming them; the historical process is described here separately and is not the verse's meaning.
 
@@ -199,8 +199,8 @@ A modern reader knows that domestication took thousands of years of human work. 
 ### Honest notes
 - **Domestication and "tamed".** The verse says God tamed them; science describes a long human process of selection. These are answers to different questions (who gives, and how it happened). The page should not present the verse as describing domestication.
 - **Dates vary.** 10,500 years (sheep and goats) comes from a university news summary of a genetic study; 3,000 years for camels from the paper's own wording ("likely", "late second millennium BCE"). Other studies give other dates.
-- **The urine-as-medicine remark** in Ibn Kathir on 36:73 is reported here for completeness; the hadith behind it was not read for this run and is not used.
-- **Animal welfare.** These verses speak of benefit and gratitude. The Islamic ethics of how animals must be treated (kindness, not overloading) is a real and related subject, but no source on it was read for this run (see Gaps).
+- **The urine-as-medicine remark** in Ibn Kathir on 36:73 is reported here for completeness; the hadith behind it has not yet been consulted and is not used.
+- **Animal welfare.** These verses speak of benefit and gratitude. The Islamic ethics of how animals must be treated (kindness, not overloading) is a real and related subject, but no source on it was read.
 
 ### Questions readers ask next
 **Why does the Quran mention the beauty of cattle?** 16:6 names it directly. Ibn Kathir: "Their beauty is a kind of adornment", seen as the herd goes out in the morning and comes home in the evening.
@@ -272,8 +272,8 @@ Modern science has walked a long way into the brain. It can map which activity c
 ### Honest notes
 - **The popular claim.** It is sometimes said that the unsolved hard problem shows the soul is real. That does not follow. Many philosophers hold that consciousness will be explained physically, or that the "hard problem" is confused (eliminativism, in Weisberg's account). An unsolved problem is not evidence for any one answer.
 - ***Rūḥ* and "consciousness".** The words do not match exactly. Classical commentators disagree on what *rūḥ* means in 17:85, and one reading (Mawdudi, citing early authorities) is that it refers to the angel of revelation, not the human soul at all. Linking the verse to the modern study of consciousness is a reflection, and should be labelled as one.
-- **What the Cogitate study shows.** It challenged two theories; it did not show that consciousness cannot be explained. Its results are reported here through the Max Planck Institute's summary; the *Nature* paper itself was not read.
-- **Not read for this run.** Ibn al-Qayyim's *Kitāb al-Rūḥ* and al-Ghazālī's *ʿAjāʾib al-Qalb*, both named on the current page (see Gaps).
+- **What the Cogitate study shows.** It challenged two theories; it did not show that consciousness cannot be explained. Its results are reported here through the Max Planck Institute's summary; the *Nature* paper itself has not yet been consulted.
+- **Not read.** Ibn al-Qayyim's *Kitāb al-Rūḥ* and al-Ghazālī's *ʿAjāʾib al-Qalb*, both.
 
 ### Questions readers ask next
 **Is the soul the same as consciousness?** Not exactly. *Rūḥ* in 17:85 is read as the life-giving spirit (al-Jalālayn), the soul in its link to the self (Ibn Kathir), or even the angel of revelation (Mawdudi). Consciousness is a modern philosophical term for inner experience.
@@ -348,7 +348,6 @@ What the verse offers everyone is the question Moses (pbuh) put to Pharaoh: when
 - **The reply.** Critics such as the chemist Stephen Fletcher (Loughborough) argue that natural selection is itself a chemical process that operated before cells existed, and that research on RNA undercuts Meyer's case ("reality has overtaken Meyer's book"); the biologist Darrel Falk (BioLogos) also rejected the argument (*Wikipedia*). In the US, a federal district court ruled in *Kitzmiller v. Dover* (20 December 2005, Judge John E. Jones III) that "intelligent design is not science" (*Wikipedia*). *Limit:* a court ruling on what may be taught in schools does not settle the philosophical question of whether information points to a mind.
 - **A Muslim alternative.** Shoaib Ahmed Malik argues, using al-Ghazālī's framework, that "his ideas can be used to reach an alignment between Islam and Neo-Darwinian evolution" (*Islam and Evolution*, Routledge, 2021, abstract). On this view, belief in God does not depend on gaps in biology.
 - **This page's position.** DNA is presented as a sign that invites wonder, not as proof, and not as something the verses predicted.
-- **Not re-checked.** The current page's "about 2 metres" of DNA per cell and its claim about copying error rates could not be checked in this run (the source page could not be opened); they are listed under Gaps.
 
 ### Questions readers ask next
 **Is "guided" a reference to DNA?** No classical commentator read it that way. They read it as guidance to food, drink and mates (al-Jalālayn), to pasture and to happiness or misery (Mujahid), or to a measure set in advance (Ibn Kathir). The DNA link is a modern reflection.
@@ -486,7 +485,6 @@ Science fills in how great the gift is. More than a hundred muscles move in time
 
 ### Honest notes
 - **No popular "miracle" claim** about these verses was found in the sources read. The risk is a different one: reading modern linguistics into 55:4 or 2:31. Neither verse describes the larynx, the brain, or how children learn language.
-- **How language evolved** is not covered by the sources read for this run. The current page's statement that it is "still debated" is fair but unsourced, and the role of a lowered larynx is also unsourced (see Corrections and Gaps).
 - **"The names" (2:31).** Commentators differ on what they were. Reading them as "the capacity to form concepts" is a modern reflection, not a classical reading.
 - **Bayān and sign language.** Whether *al-bayān* includes writing or sign language is not addressed by the commentators read. It is a reasonable modern extension (deaf people express themselves fully in sign), but should be labelled as one.
 
@@ -549,7 +547,7 @@ Then the verse turns from colour to the one who looks: "Only those fear Allah, f
 - **No popular "miracle" claim** about these verses was found in the sources read. The science here is a way to deepen appreciation, not a fulfilled prediction; the verse celebrates variety and does not describe pigments or structural colour.
 - **"Those who have knowledge."** Classically, this means those who know God (Ibn Kathir; Ibn ʿAbbas). Reading it as scientists is a modern extension, and should be labelled as one.
 - **Human colour.** Ibn Kathir's examples reflect the peoples known in 14th-century Damascus. The verse itself names no group and ranks no colour. The site should present this verse as a sign of variety, never as a basis for judging people by colour.
-- **Not read for this run:** al-Rāzī on 35:27–28 (cited on the current page); a source on mineral colours in mountains; a source on peacock feathers (see Gaps).
+- **Not read:** al-Rāzī on 35:27–28; a source on mineral colours in mountains; a source on peacock feathers.
 
 ### Questions readers ask next
 **Who are "those who have knowledge"?** Classically, those who know God: "those who know that Allah is able to do all things" (Ibn ʿAbbas, via Ibn Kathir). Many today extend it to anyone whose study of nature leads to reverence; that is a modern reading.

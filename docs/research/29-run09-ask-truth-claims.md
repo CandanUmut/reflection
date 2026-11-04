@@ -31,7 +31,7 @@ That a man named Muhammad led the Arab movement in the 630s is confirmed by non-
 
 **The Byzantine prediction (30:2–4).** "The Byzantines have been defeated In the nearest land. But they, after their defeat, will overcome. Within three to nine years" (30:2–4), Meccan. "Three to nine years" is Saheeh's rendering of *biḍʿi sinīn*, which Saʿid ibn Jubayr explained as "less than ten" (Ibn Kathir). Ibn Kathir says the verses "were revealed about the victory of Sabur, the king of Persia, over Ash-Sham", and records a wager: Abu Bakr (ra) bet the idolaters that Rome would win; they agreed on six years; the Romans won "when the seventh year came" (Ibn Kathir's abridgement: "This is a Hasan Hadith"). On sunnah.com the report, narrated by Niyar b. Mukram al-Aslami, is {hadith:tirmidhi:3194}; al-Tirmidhi calls it *ḥasan ṣaḥīḥ gharīb*, known only through ʿAbd al-Rahman b. Abi al-Zinad, and Darussalam grades it *ṣaḥīḥ*. A report from Ibn ʿAbbas in al-Tirmidhi (graded *ḥasan gharīb*) gives five years instead of six.
 
-**What is complicated about it.** First, the dates: the Persians took Jerusalem "following a three weeks siege in 614"; Heraclius counter-attacked from 622 to 626, defeated the Persians at Nineveh on 12 December 627, and the war ended about 628 (*Wikipedia*, "Byzantine–Sasanian War of 602–628", read by the independent source check). The Ibn Kathir page read does not give dates. Second, an old variant reading vowels the verbs the other way — the Byzantines "have overcome… and will be defeated" — reported in the tafsir literature; the Ibn Kathir page read here does not mention it, so it is noted as unverified (see Gaps). A fair reader will say: the prediction was made in Mecca, at a time when Rome looked beaten; it came true; and the reports about it come from Muslim sources.
+**What is complicated about it.** First, the dates: the Persians took Jerusalem "following a three weeks siege in 614"; Heraclius counter-attacked from 622 to 626, defeated the Persians at Nineveh on 12 December 627, and the war ended about 628 (*Wikipedia*, "Byzantine–Sasanian War of 602–628", read by the independent source check). The Ibn Kathir page read does not give dates. Second, an old variant reading vowels the verbs the other way — the Byzantines "have overcome… and will be defeated" — reported in the tafsir literature; the Ibn Kathir page read here does not mention it, so it is noted as unverified. A fair reader will say: the prediction was made in Mecca, at a time when Rome looked beaten; it came true; and the reports about it come from Muslim sources.
 
 #### history — History: what non-Muslim sources say
 **Early non-Muslim sources confirm that he existed and led the movement.** Bishop's survey (drawing on Hoyland) lists, among others:
@@ -76,7 +76,7 @@ That a man named Muhammad led the Arab movement in the 630s is confirmed by non-
 ### Questions readers ask next
 **What about someone who sincerely believed he received revelation but was mistaken?** It is the serious alternative. Muslims answer that his prior character, his fear at the first revelation, the text and its fruits together make it less likely; it cannot be disproved.
 
-**Which predictions were fulfilled besides the Byzantine one, and which are overstated?** Only the Byzantine one was examined for this page. Modern "scientific prophecies" are often overstated (see the next page).
+**Which predictions were fulfilled besides the Byzantine one, and which are overstated?** Only the Byzantine one was examined. Modern "scientific prophecies" are often overstated (see the next page).
 
 **What exactly is the challenge of 2:23?** To "produce a surah the like thereof": a text of the Quran's kind. For al-Baqillani, its inimitability lay chiefly in its composition, alongside its reports of the unseen and the Prophet's (pbuh) being *ummī* (Divlekci 2019).
 
@@ -87,7 +87,7 @@ That a man named Muhammad led the Arab movement in the 630s is confirmed by non-
 **What did his followers' transformation look like?** Non-Muslim sources describe a monotheistic community that kept his laws strictly (Sebeos; John bar Penkaye). More detailed accounts come from Muslim sources.
 
 ### Honest limits
-No argument proves that God spoke to him; the case is cumulative and judged differently by different people. Hoyland's book, Watt's book and the variant reading of 30:2–4 were not read directly; the war's dates come from *Wikipedia* only. The doubt survey cited on the current page (Chouhoud, 2018) is discussed on the "scientific miracles" page.
+No argument proves that God spoke to him; the case is cumulative and judged differently by different people. Hoyland's book, Watt's book and the variant reading of 30:2–4 have not yet been consulted directly; the war's dates come from *Wikipedia* only. The doubt survey (Chouhoud, 2018) is discussed on the "scientific miracles" page.
 
 ---
 
@@ -126,14 +126,14 @@ The Quran's text was fixed very early: manuscripts radiocarbon-dated to within a
 **Why the burning?** The report gives no explicit reason for the burning itself; ʿUthman acted after Hudhayfa's warning that people would "differ about the Book". The burned materials were other written copies. Their full contents are unknown, because most were destroyed; the reports about Ibn Masʿud's copy (below) and the Sanaa lower text give partial glimpses.
 
 #### history — What the manuscripts show
-**The Birmingham leaves.** Two leaves in the University of Birmingham, in Hijazi script (the early Arabic script of Mecca and Medina, with no short-vowel marks and some consonants marked with "oblique dashes"), containing parts of suras 18–20, were radiocarbon-dated at Oxford to "1465±21 years BP (before 1950), which corresponds with 95.4% confidence to the calendar years CE 568–645 when calibrated" (*Wikipedia*). *BP* means "before present", where "present" is fixed at 1950. The range begins before the Quran's revelation began — which shows the limits of the method: radiocarbon dates the death of the animal whose skin became the parchment, not the writing. David Thomas notes the text "could have been written as late as 650–655"; François Déroche has "expressed reservations about the reliability of the radiocarbon dates" (*Wikipedia*). The lab sample number given on the current page (OxA-29418) was not found in the source read.
+**The Birmingham leaves.** Two leaves in the University of Birmingham, in Hijazi script (the early Arabic script of Mecca and Medina, with no short-vowel marks and some consonants marked with "oblique dashes"), containing parts of suras 18–20, were radiocarbon-dated at Oxford to "1465±21 years BP (before 1950), which corresponds with 95.4% confidence to the calendar years CE 568–645 when calibrated" (*Wikipedia*). *BP* means "before present", where "present" is fixed at 1950. The range begins before the Quran's revelation began — which shows the limits of the method: radiocarbon dates the death of the animal whose skin became the parchment, not the writing. David Thomas notes the text "could have been written as late as 650–655"; François Déroche has "expressed reservations about the reliability of the radiocarbon dates" (*Wikipedia*).
 
 **Tübingen.** A fragment in Tübingen University Library (Ma VI 165) was dated to AD 649–675 with 95.4% probability (*Medieval.eu*).
 
 **The Sanaa palimpsest.** A *palimpsest* is a manuscript whose first text was scraped off and written over. In the Sanaa manuscript, both layers are Quran. *Wikipedia* gives the parchment's radiocarbon range as 578–669 CE, citing Sadeghi & Bergmann (2010, p. 348); its sentence "95% accuracy to before 669 CE, and 75% probability from before 646 CE" has no citation. The lower text "contains many variations from the standard text", and its sura order "corresponds to no known Quranic order". Two examples: at 2:196, where the standard text has *fa-man kāna minkum* ("whoever among you"), the lower text has *fa-in kāna aḥadun minkum* ("if one of you"); at 9:125, where the standard text has "in their hearts is *disease*" (*maraḍ*), the lower text has "in their hearts is *filth*" (*rijs*). *Wikipedia*'s own judgement, without a citation, is that the variants "rarely diverge from the fundamental meaning". It also cites Éléonore Cellard as finding "numerous similarities" with the sura orders reported for Ibn Masʿud and Ubayy. Sadeghi and Goudarzi find some overlap with Ibn Masʿud's reported variants but "the differences much outnumbering the correspondences"; Asma Hilali argues both layers may be "school exercises", a view Nicolai Sinai has criticised.
 
 #### history — Ibn Masʿud's codex
-**What is reported.** Reports say his copy "excludes the first chapter, as well as the two chapters known as Al-Muʿawwidhatayn" — suras 1, 113 and 114 (*Wikipedia*, citing Sadeghi & Bergmann 2010 and Harvey 2017). But "historical accounts are inconsistent regarding the details", the variant "has not been definitively found in any existing early Quranic manuscript", and his reading had supporters in Kufa "as late as the 9th century". Classical explanations of the omission were not read for this run (see Gaps).
+**What is reported.** Reports say his copy "excludes the first chapter, as well as the two chapters known as Al-Muʿawwidhatayn" — suras 1, 113 and 114 (*Wikipedia*, citing Sadeghi & Bergmann 2010 and Harvey 2017). But "historical accounts are inconsistent regarding the details", the variant "has not been definitively found in any existing early Quranic manuscript", and his reading had supporters in Kufa "as late as the 9th century". Classical explanations of the omission have not yet been consulted.
 
 #### history — Readings (*qirāʾāt*) and modes (*aḥruf*)
 **The consonantal text.** Early Arabic script wrote consonants without vowels and often without the dots that distinguish letters. This written skeleton is the *rasm*; the ʿUthmanic copies fixed it.
@@ -143,10 +143,10 @@ The Quran's text was fixed very early: manuscripts radiocarbon-dated to within a
 **Modes.** The *aḥruf* ("seven modes") of a well-known hadith are, in one common explanation, the dialectal forms in which the Quran was first allowed to be recited, reduced to the dialect of Quraysh under ʿUthman (Islamic Awareness). Scholars differ on what the seven *aḥruf* were; that debate was not covered here.
 
 #### history — Verses no longer recited
-**The verse of stoning.** Ibn ʿAbbas (ra) reports ʿUmar (ra) saying: "I am afraid that after a long time has passed, people may say, 'We do not find the Verses of the Rajam (stoning to death) in the Holy Book'", and so leave "an obligation that Allah has revealed" ({hadith:bukhari:6829}). The tradition has a category for this: *naskh al-tilāwa dūna al-ḥukm*, a verse whose wording was abrogated (no longer part of the recited Quran) while its ruling remained. Which classical scholars applied it to this report, and how, was not read in a named source for this run (see Gaps). Critics see it as evidence that the text lost material. Both sides read the same report.
+**The verse of stoning.** Ibn ʿAbbas (ra) reports ʿUmar (ra) saying: "I am afraid that after a long time has passed, people may say, 'We do not find the Verses of the Rajam (stoning to death) in the Holy Book'", and so leave "an obligation that Allah has revealed" ({hadith:bukhari:6829}). The tradition has a category for this: *naskh al-tilāwa dūna al-ḥukm*, a verse whose wording was abrogated (no longer part of the recited Quran) while its ruling remained. Which classical scholars applied it to this report, and how, has not yet been consulted in a named source. Critics see it as evidence that the text lost material. Both sides read the same report.
 
 #### reasoning — How oral transmission worked
-**Memory and writing together.** Zayd's method used both written fragments and "the men who knew it by heart" ({hadith:bukhari:4986}). Recitation in prayer, every day, by many people, meant that a change in one copy would be noticed by others. The current page also refers to research on memory; no study was read for this run (see Gaps).
+**Memory and writing together.** Zayd's method used both written fragments and "the men who knew it by heart" ({hadith:bukhari:4986}). Recitation in prayer, every day, by many people, meant that a change in one copy would be noticed by others.
 
 #### objection — The strongest objections, and the replies
 **"ʿUthman burned the evidence."** *Reply:* the tradition records the burning openly, after Hudhayfa's warning ({hadith:bukhari:4987}); the copies sent out were made from Hafsa's sheets, collected under Abu Bakr; and an early witness that escaped (Sanaa) differs mainly in order and wording, not in content. *Limit:* we cannot compare the burned copies, so "nothing was lost" cannot be proved.
@@ -171,10 +171,10 @@ The Quran's text was fixed very early: manuscripts radiocarbon-dated to within a
 
 **How did oral transmission work?** Daily recitation by many people, alongside written copies; Zayd used both.
 
-**What do BP, OxA-29418 and Hijazi script mean?** BP: years "before present", i.e. before 1950. OxA: an Oxford radiocarbon lab sample number (the one on the current page was not found in the source read). Hijazi: the early script of western Arabia.
+**What do BP, OxA-29418 and Hijazi script mean?** BP: years "before present", i.e. before 1950. Hijazi: the early script of western Arabia.
 
 ### Honest limits
-"Not a letter has changed" is true of the ʿUthmanic text across the manuscripts; it is not true of every early copy. The Sanaa and Ibn Masʿud evidence was read through *Wikipedia*'s summaries of Sadeghi, Bergmann, Goudarzi and Harvey. Research on memory and oral transmission, and the classical explanations of Ibn Masʿud's omissions, were not read.
+"Not a letter has changed" is true of the ʿUthmanic text across the manuscripts; it is not true of every early copy. The Sanaa and Ibn Masʿud evidence was read through *Wikipedia*'s summaries of Sadeghi, Bergmann, Goudarzi and Harvey. Research on memory and oral transmission, and the classical explanations of Ibn Masʿud's omissions, have not yet been consulted.
 
 ---
 
@@ -215,14 +215,14 @@ A *hadith* is a report of what the Prophet (pbuh) said, did or approved; the *Su
 #### scholars — How the system works
 **Terms.** An *isnād* is "the chain of narration" — who heard it from whom; the *matn* is the text. A *ṣaḥīḥ* (sound) hadith has an unbroken chain in which "every narrator is known to be upright and precise in their transmission", with a text "free from hidden defects or irregularities". A *ḥasan* (good) hadith meets most criteria, but a narrator "may have slightly less precise memory". A *ḍaʿīf* (weak) hadith fails them, "typically because of a break in the chain, an unreliable narrator, or a textual irregularity". A *mawḍūʿ* (fabricated) hadith is "invented and falsely attributed to the Prophet" (ParallelQuran's summary). Scholars judged narrators using biographical dictionaries that recorded each person's teachers, students, reliability and memory.
 
-**Bukhari and Muslim.** Al-Bukhari and Muslim each compiled a collection limited to reports they judged sound. How later scholars ranked these collections, and where they criticised particular reports in them, was not covered here (see Gaps).
+**Bukhari and Muslim.** Al-Bukhari and Muslim each compiled a collection limited to reports they judged sound. How later scholars ranked these collections, and where they criticised particular reports in them, was not covered here.
 
 **A worked example of grading.** In run 6, the hadith "Tie it and rely (upon Allah)" (al-Tirmidhi 2517) was called *gharīb* by al-Tirmidhi: he knew it from Anas only by this one route, and he noted a similar report from ʿAmr b. Umayya al-Damri. Yahya al-Qattan called it *munkar* (rejected); Zubair ʿAli Zaʾi graded it *ḥasan* (good); and Ibn Hibban (no. 731) has a version graded *ḥasan li-ghayrihi* ("good because of support from other routes") by al-Arnaʾut. So a familiar saying can rest on a disputed chain. By contrast, the three-outcomes hadith on du'a (Musnad Ahmad 11133) has a chain al-Arnaʾut called *jayyid* (good), al-Hakim authenticated, and a parallel in al-Adab al-Mufrad (no. 710; *Ṣaḥīḥ al-Adab al-Mufrad* 547) graded *ṣaḥīḥ* by al-Albani. Grading is done chain by chain, and agreement between independent chains strengthens a report.
 
 #### history — Western scholarship
-**Schacht's argument (outline only).** Joseph Schacht (*The Origins of Muhammadan Jurisprudence*, 1950) is the best-known Western critic of hadith chains. Neither his book nor a summary of it was read for this run, so his thesis is given here only as the question above states it: that many legal hadith arose later and their chains were extended back to the Prophet (pbuh). Mansur Ali's review discusses the "common link" theory of G. H. A. Juynboll, the method Little (2022) also uses: the narrator on whom many chains of one hadith converge is treated as its likely originator.
+**Schacht's argument (outline only).** Joseph Schacht (*The Origins of Muhammadan Jurisprudence*, 1950) is the best-known Western critic of hadith chains. Neither his book nor a summary of it was read, so his thesis is given here only as the question above states it: that many legal hadith arose later and their chains were extended back to the Prophet (pbuh). Mansur Ali's review discusses the "common link" theory of G. H. A. Juynboll, the method Little (2022) also uses: the narrator on whom many chains of one hadith converge is treated as its likely originator.
 
-**Motzki's response.** Harald Motzki developed the *isnād-cum-matn* method — "the chain of narrators should be studied in tandem with the text of a hadith" — first in his study of the *Muṣannaf* of ʿAbd al-Razzaq al-Sanʿani. Mansur Ali's review says Motzki's critique shows that Juynboll's common-link theory "nevertheless suffers from many methodological and epistemological flaws", while noting that accepting Motzki's conclusions "will depend on how much reliance one is willing to place on the chain of narrators". Motzki's own dating results were not read for this run.
+**Motzki's response.** Harald Motzki developed the *isnād-cum-matn* method — "the chain of narrators should be studied in tandem with the text of a hadith" — first in his study of the *Muṣannaf* of ʿAbd al-Razzaq al-Sanʿani. Mansur Ali's review says Motzki's critique shows that Juynboll's common-link theory "nevertheless suffers from many methodological and epistemological flaws", while noting that accepting Motzki's conclusions "will depend on how much reliance one is willing to place on the chain of narrators". Motzki's own dating results have not yet been consulted.
 
 **A live example: Aisha's age.** Joshua Little (2022) used the common-link method to argue that the report of Aisha's age at marriage "appears to have been created and disseminated" by Hisham ibn ʿUrwa in Iraq; Cheema (2024) replied that it is corroborated by chains not through Hisham, including al-Zuhri's in Muslim 1422c (see "Aisha's age at marriage"). The case shows both methods at work on one hadith.
 
@@ -245,7 +245,7 @@ A *hadith* is a report of what the Prophet (pbuh) said, did or approved; the *Su
 #### views — The range of views
 - **Mainstream Sunni scholarship** — the Sunna is binding; graded hadith are its main record; *ṣaḥīḥ* collections are highly reliable.
 - **Schacht, Juynboll** — many hadith, especially legal ones, arose in the second century.
-- **Motzki** — chains and texts must be studied together; the common-link theory is methodologically flawed (as reported by Mansur Ali; Motzki's own dating results were not read).
+- **Motzki** — chains and texts must be studied together; the common-link theory is methodologically flawed (as reported by Mansur Ali; Motzki's own dating results have not yet been consulted).
 - **Quran-centred Muslims (e.g. *Kur'an Müslümanlığı* in Türkiye)** — the Quran alone is the source; hadith are not binding.
 
 ### Questions readers ask next
@@ -262,7 +262,7 @@ A *hadith* is a report of what the Prophet (pbuh) said, did or approved; the *Su
 **What is the Sunna?** The Prophet's (pbuh) way: his words, acts and approvals, known through hadith and community practice.
 
 ### Honest limits
-Schacht's and Juynboll's books, Motzki's own results, and research on human memory and oral transmission were not read for this run. Classical criticism of particular hadith in Bukhari and Muslim (for example by al-Daraqutni) was not covered. Named figures of the Turkish Quran-centred movement were not identified in the source read.
+Schacht's and Juynboll's books, Motzki's own results, and research on human memory and oral transmission have not yet been consulted. Classical criticism of particular hadith in Bukhari and Muslim (for example by al-Daraqutni) was not covered. Named figures of the Turkish Quran-centred movement were not identified in the source read.
 
 ---
 
@@ -288,7 +288,7 @@ The Quran calls nature full of "signs" for reflection (3:190) and calls itself "
 ### The full answer
 
 #### heart — For the one whose faith was shaken
-**If a "miracle" you believed in turned out to be false, you were not foolish, and your faith was not foolish either.** You trusted people who presented a claim with confidence. The Quran never asked you to believe it because of modern science; it asks you to reflect, and it makes its own case. Muslim scholars named on the current page — Amin al-Khuli, Mahmud Shaltut and Nidhal Guessoum — have criticised this genre (their works were not read for this run).
+**If a "miracle" you believed in turned out to be false, you were not foolish, and your faith was not foolish either.** You trusted people who presented a claim with confidence. The Quran never asked you to believe it because of modern science; it asks you to reflect, and it makes its own case.
 
 #### quran — What the Quran says
 **Signs for reflection (3:190).** "Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding" (3:190). Nature is a sign pointing to God, to be reflected on.
@@ -307,16 +307,16 @@ The Quran calls nature full of "signs" for reflection (3:190) and calls itself "
 #### scholars — Embryology
 **The claim.** That 23:12–14 — "a sperm-drop in a firm lodging… a clinging clot… a lump [of flesh]… bones… covered the bones with flesh" — matches modern embryology so exactly that it must be from God. Its best-known supporter was the Canadian anatomist Keith Moore, who is quoted as saying he had worked "for the past three years" with an embryology committee at King Abdulaziz University in Jeddah. With Abdul-Majeed al-Zindani, named there as Director of the Project of Scientific Miracles at that university, he produced a special edition of his textbook, *The Developing Human*, "with Islamic Additions" (Saunders, 1982; Dar Al-Qiblah, 1983). He is quoted as saying the Quranic descriptions "cannot be based on scientific knowledge in the seventh century" (Islamic Awareness, a site that promotes the claims).
 
-**Assessment.** The stages named in 23:14 are the same words the site's sign page on the embryo (S4) examines, with their meanings and the classical readings. The current S4 page says the historian of science Joseph Needham noted parallels with Galen's Greek medicine; that was not checked in Needham's text for this run (see Gaps). The fair position is the site's general one: describe accurately, note what harmonises, and flag overclaims.
+**Assessment.** The stages named in 23:14 are the same words the site's sign page on the embryo (S4) examines, with their meanings and the classical readings. The current S4 page says the historian of science Joseph Needham noted parallels with Galen's Greek medicine; that has not yet been checked in Needham's text. The fair position is the site's general one: describe accurately, note what harmonises, and flag overclaims.
 
-**The speed of light.** A popular claim derives the speed of light from 32:5 and the Moon's orbit. No source assessing it was read for this run, so this page makes no judgement on it (see Gaps).
+**The speed of light.** A popular claim derives the speed of light from 32:5 and the Moon's orbit. No source assessing it was read, so this page makes no judgement on it.
 
 #### scholars — Classical and modern scholars
-**Al-Shatibi and the Arabs' usage.** Muhammad Salim Abu ʿAsi, in his study of the Andalusian jurist al-Shatibi's *al-Muwāfaqāt*, writes in his own words that "the whole Quran was revealed in the established usage of the Arabs, without doubt" (translated). He says this in a section on why tafsir is still needed: Arabic words carry literal, figurative and implied meanings. The passage read says nothing about reading later sciences into the Quran. Al-Shatibi's own argument on that question — which the current page cites — was not read (see Gaps).
+**Al-Shatibi and the Arabs' usage.** Muhammad Salim Abu ʿAsi, in his study of the Andalusian jurist al-Shatibi's *al-Muwāfaqāt*, writes in his own words that "the whole Quran was revealed in the established usage of the Arabs, without doubt" (translated). He says this in a section on why tafsir is still needed: Arabic words carry literal, figurative and implied meanings. The passage read says nothing about reading later sciences into the Quran.
 
-**Classical *iʿjāz*.** According to Divlekci (2019), al-Baqillani names three aspects of the Quran's inimitability: its reports of the unseen ("gâipten haberler"), the Prophet's (pbuh) being *ummī*, and the uniqueness of its composition (*naẓm*). None of them concerns knowledge of nature. ʿAbd al-Qahir al-Jurjani is also cited on the current page; his work, and al-Baqillani's own text, were not read for this run.
+**Classical *iʿjāz*.** According to Divlekci (2019), al-Baqillani names three aspects of the Quran's inimitability: its reports of the unseen ("gâipten haberler"), the Prophet's (pbuh) being *ummī*, and the uniqueness of its composition (*naẓm*).
 
-**Modern critics.** The current page names Amin al-Khuli, Mahmud Shaltut and Nidhal Guessoum as critics of *iʿjāz ʿilmī*. Guessoum's 2008 article in *Zygon* could not be opened for this run (blocked), so his arguments are not summarised here (see Gaps).
+**Modern critics.** Guessoum's 2008 article in *Zygon* could not be opened (blocked), so his arguments are not summarised here.
 
 #### research — What research shows
 **Science is not what most often triggers doubt.** [Moderate; one US sample.] In Chouhoud's survey of 630 Muslim Americans (2017), "the top four issues all come from the Moral and Social Concerns family of doubts", led by "The way that [some] insist there is only one 'right' way to practice faith", while "each of the four items that least trigger doubt are directly related to doctrinal belief". The exact rank of the science item (evolution and creation) was not given in the text read.
@@ -324,7 +324,7 @@ The Quran calls nature full of "signs" for reflection (3:190) and calls itself "
 #### reasoning — If the claims go, what is left?
 **The Quran's own case.** The Quran points to its language and its challenge (2:23), to the character of the messenger (10:16), to the coherence of its message, and to the signs in nature as prompts for reflection (3:190) — not as hidden proofs. These are the arguments on "Why believe Muhammad was a prophet?".
 
-**How apparent conflicts are handled.** One approach, which the current page attributes to al-Shatibi (not checked in his text), is to read a verse first as its first audience would have understood it. If it describes nature as people saw it (the sun "setting", for example), that is the language of appearance, not a scientific claim. Ibn Rushd argued that demonstrated truth cannot contradict revelation, and that apparent conflicts call for interpretation (see "Knowledge and seeking it" for his *Decisive Treatise*).
+**How apparent conflicts are handled.** If it describes nature as people saw it (the sun "setting", for example), that is the language of appearance, not a scientific claim. Ibn Rushd argued that demonstrated truth cannot contradict revelation, and that apparent conflicts call for interpretation (see "Knowledge and seeking it" for his *Decisive Treatise*).
 
 #### objection — The strongest objections, and the replies
 **"Without the miracles, there is no evidence."** *Reply:* the classical case for inimitability did not rest on them: al-Baqillani's three aspects are composition, reports of the unseen and the Prophet's (pbuh) being *ummī* (Divlekci 2019). *Limit:* for people who came to faith through these claims, losing them can still feel like losing the ground.
@@ -334,8 +334,8 @@ The Quran calls nature full of "signs" for reflection (3:190) and calls itself "
 **"Muslim institutions still promote *iʿjāz ʿilmī*."** *Reply:* yes; the view on this page is a scholarly position, not a consensus.
 
 #### views — The range of views
-- **Supporters** — Zaghloul El-Naggar, Keith Moore (1982/83 edition), Tantawi Jawhari (named on the current page).
-- **Critics** — Amin al-Khuli, Mahmud Shaltut, Nidhal Guessoum (named on the current page); the current page also lists al-Shatibi (not checked in his text).
+- **Supporters** — Zaghloul El-Naggar, Keith Moore (1982/83 edition), Tantawi Jawhari.
+- **Critics** — Amin al-Khuli, Mahmud Shaltut, Nidhal Guessoum.
 - **This site** — verses as signs for reflection; harmony noted honestly, prediction not claimed.
 
 ### Questions readers ask next
@@ -349,10 +349,10 @@ The Quran calls nature full of "signs" for reflection (3:190) and calls itself "
 
 **What does it mean that classical *iʿjāz* centred on composition?** That al-Baqillani located the Quran's inimitability chiefly in its composition (*naẓm*), alongside its reports of the unseen and the Prophet's (pbuh) being *ummī* (Divlekci 2019).
 
-**What does al-Shatibi say about the first audience?** His own text was not read for this run. Abu ʿAsi, writing about him, says the Quran was revealed "in the established usage of the Arabs", in a discussion of why tafsir is still needed.
+**What does al-Shatibi say about the first audience?** His own text has not yet been consulted. Abu ʿAsi, writing about him, says the Quran was revealed "in the established usage of the Arabs", in a discussion of why tafsir is still needed.
 
 ### Honest limits
-Guessoum's article, al-Shatibi's own text, the classical *iʿjāz* works, critiques of the embryology claim, and any assessment of the speed-of-light claim were not read for this run. The doubt survey is of one American sample.
+Guessoum's article, al-Shatibi's own text, the classical *iʿjāz* works, critiques of the embryology claim, and any assessment of the speed-of-light claim have not yet been consulted. The doubt survey is of one American sample.
 
 ---
 ## Corrections to the current pages

@@ -45,7 +45,7 @@ layers:
 honestLimits:
   tr: |
     Bir miktar sır kalır.
-  en: The classical schools agree that God creates without need, but they explain His reasons differently, and none claims to know them fully. The answer to suffering and Hell relies partly on trusting God's knowledge, which will not persuade someone who does not already trust Him. Ibn al-Qayyim's *Shifāʾ al-ʿAlīl* and al-Tabari's tafsir of 51:56 were not read for this page. The well-being research the current page cites (Steger) was not re-checked.
+  en: The classical schools agree that God creates without need, but they explain His reasons differently, and none claims to know them fully. The answer to suffering and Hell relies partly on trusting God's knowledge, which will not persuade someone who does not already trust Him. Ibn al-Qayyim's *Shifāʾ al-ʿAlīl* and al-Tabari's tafsir of 51:56 have not yet been consulted.
 visualizations:
   - id: ideas
     tr: |
@@ -119,7 +119,7 @@ fullAnswer:
       - **The Ashʿaris** (the largest Sunni theological school, after al-Ashʿari, d. 936) accept that God's acts are wise, but define wisdom not as benefit but as conformity with God's knowledge and will. They hold that attributing a purpose (*gharaḍ*) to God would imply need, so they prefer to speak of God's will (*irāda*). They also argued that if benefit were the rule, God would have had to create humans directly in Paradise without any trial (Gültekin, 2025, as summarised in the abstract).
       - **The Maturidis** (the other main Sunni school, after al-Maturidi, d. 944) "affirm the non-futility of divine acts without reducing them to rational necessity" (Kuyucu, 2026).
 
-      **Why it matters.** The Ashʿari position protects God's self-sufficiency: nothing outside God moves Him. The Maturidi position protects the sense that creation has meaning: nothing God does is pointless. A reader who fears that creation is "arbitrary" is closer to the Maturidi worry; a reader who fears that God "needed" us is closer to the Ashʿari one. Both schools deny that God gains anything, and both deny that creation is futile. Ibn al-Qayyim's *Shifāʾ al-ʿAlīl* defends God's wise purposes at length, but it was not read for this page (see Gaps).
+      **Why it matters.** The Ashʿari position protects God's self-sufficiency: nothing outside God moves Him. The Maturidi position protects the sense that creation has meaning: nothing God does is pointless. A reader who fears that creation is "arbitrary" is closer to the Maturidi worry; a reader who fears that God "needed" us is closer to the Ashʿari one. Both schools deny that God gains anything, and both deny that creation is futile. Ibn al-Qayyim's *Shifāʾ al-ʿAlīl* defends God's wise purposes at length, but it has not yet been consulted.
   - kind: reasoning
     en: |-
       **An argument in five steps.**
@@ -148,7 +148,7 @@ followUps:
   - q:
       en: What does Islam mean by worship, beyond ritual prayer?
     a:
-      en: "In the classical readings above, worship (*ʿibāda*) is what the messengers taught: belief, prayer, and obedience to God's commands in daily life. Many scholars describe any good act done for God's sake as worship; that wider sense was not checked in a named source for this page."
+      en: "In the classical readings above, worship (*ʿibāda*) is what the messengers taught: belief, prayer, and obedience to God's commands in daily life. Many scholars describe any good act done for God's sake as worship; that wider sense has not yet been checked in a named source."
   - q:
       en: What is the "hidden treasure" saying?
     a:

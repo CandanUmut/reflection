@@ -30,7 +30,7 @@ evidence:
   en: Wade et al. (2014) found Δ = 0.56 on forgiveness, plus lower depression and anxiety. A 2022 *Child Development* meta-analysis found reduced anger (g = 0.29). [Established] The effect is moderate.
 gaps:
   tr: Affetmek, mağdurlardan talep ediliyor.
-  en: The larger meta-analyses on forgiveness cited on the current page and al-Ghazali's book on anger were not read for this run. The rules of *qiṣāṣ* are only outlined.
+  en: The larger meta-analyses on forgiveness and al-Ghazali's book on anger have not yet been consulted. The rules of *qiṣāṣ* are only outlined.
 visualizations:
   - id: ideas
     tr: Bir REACH affetme yolu.
@@ -70,11 +70,11 @@ fullAnswer:
 
       **Refusing revenge at Ṭāʾif.** When offered the destruction of the people who had rejected and humiliated him, the Prophet (pbuh) refused and hoped for their descendants ({hadith:bukhari:3231}; see "Mercy and iḥsān").
   - kind: scholars
-    en: "**Forgiveness is not the same as trust or reconciliation.** In 42:40 the Quran pairs pardon \"and reconciliation\" as a further good; it does not require a wronged person to return to a relationship that endangers them. Al-Ghazali's book on anger in the *Iḥyāʾ* (Book 25) was not read for this run (see Gaps)."
+    en: "**Forgiveness is not the same as trust or reconciliation.** In 42:40 the Quran pairs pardon \"and reconciliation\" as a further good; it does not require a wronged person to return to a relationship that endangers them. Al-Ghazali's book on anger in the *Iḥyāʾ* (Book 25) has not yet been consulted."
   - kind: fiqh
-    en: "**Redress is a right.** In Islamic criminal law, the victim of bodily harm, or the family of someone killed, may demand legal retaliation (*qiṣāṣ*), accept compensation (*diya*), or pardon. That choice belongs to the victim or family, not to the community. School-by-school details were not read for this run."
+    en: "**Redress is a right.** In Islamic criminal law, the victim of bodily harm, or the family of someone killed, may demand legal retaliation (*qiṣāṣ*), accept compensation (*diya*), or pardon. That choice belongs to the victim or family, not to the community. School-by-school details have not yet been consulted."
   - kind: research
-    en: "**Forgiveness can be learned, and it helps.** [Moderate.] Harper and colleagues (2014) randomly assigned 41 university students to a six-hour forgiveness workbook or a wait-list. Those who did the workbook showed less unforgiveness (Cohen's d = −0.56) and more emotional forgiveness (d = 0.50) than controls; the authors judged it \"at least as efficacious as\" group therapy using the same REACH model. The sample was small and mostly women. The larger meta-analyses cited on the current page (Wade et al., 2014; a 2022 *Child Development* meta-analysis) were not read in this run."
+    en: "**Forgiveness can be learned, and it helps.** [Moderate.] Harper and colleagues (2014) randomly assigned 41 university students to a six-hour forgiveness workbook or a wait-list. Those who did the workbook showed less unforgiveness (Cohen's d = −0.56) and more emotional forgiveness (d = 0.50) than controls; the authors judged it \"at least as efficacious as\" group therapy using the same REACH model. The sample was small and mostly women."
   - kind: practice
     en: |-
       **When anger rises**, stop before speaking. Change your position, make ablution, or leave the room. The strong person is the one who controls himself ({hadith:bukhari:6114}).

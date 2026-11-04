@@ -45,7 +45,7 @@ layers:
 honestLimits:
   tr: |
     Herkes geri dönmez ve buna saygı duyulmalıdır.
-  en: Not everyone returns, and that should be respected. The research shows small average effects, not individual destinies. Tedeschi and Calhoun (1996), Behr (2018), the APA material and the Templeton white paper cited on the current page were not read for this run. Exline et al. (2014) was read only through a later paper that uses its scale.
+  en: Not everyone returns, and that should be respected. The research shows small average effects, not individual destinies. Tedeschi and Calhoun (1996), Behr (2018), the APA material and the Templeton white paper have not yet been consulted. Exline et al. (2014) was read only through a later paper that uses its scale.
 visualizations:
   - id: ideas
     tr: |
@@ -112,9 +112,9 @@ fullAnswer:
     en: "**Distress at doubt is a sign of faith.** When Companions told the Prophet (pbuh) they had thoughts \"too grave to express\", he said: \"That is the faith manifest\" ({hadith:muslim:132a}). This applies most directly to unwanted thoughts (see \"Is doubting a sin?\"), but it also shows that the Prophet (pbuh) did not meet his Companions' inner struggles with condemnation."
   - kind: science
     en: |-
-      **Spiritual struggles predict a little more distress later, on average.** [Moderate.] A meta-analysis by Bockrath and colleagues (published online in 2021; a 2022 print citation was not checked) combined 32 longitudinal studies with 5,729 participants. Struggles at the start "significantly predicted increases in negative psychological adjustment" (Zr = 0.08; the paper gives the 95% CI as 0.04–0.10 in the abstract and 0.05–0.10 in the results). That is a small effect: struggles are a risk factor, not a sentence. The link to *positive* adjustment (well-being, growth) was not significant (12 studies; Zr = −0.04).
+      **Spiritual struggles predict a little more distress later, on average.** [Moderate.] A meta-analysis by Bockrath and colleagues (published online in 2021; a 2022 print citation has not yet been checked) combined 32 longitudinal studies with 5,729 participants. Struggles at the start "significantly predicted increases in negative psychological adjustment" (Zr = 0.08; the paper gives the 95% CI as 0.04–0.10 in the abstract and 0.05–0.10 in the results). That is a small effect: struggles are a risk factor, not a sentence. The link to *positive* adjustment (well-being, growth) was not significant (12 studies; Zr = −0.04).
 
-      **Doubt itself is not always the harmful part.** [Mixed.] The Religious and Spiritual Struggles (RSS) scale (Exline et al., 2014) measures six kinds of struggle: divine (with God), demonic, interpersonal, moral, ultimate meaning, and doubt. In one sample of atheist undergraduates, Sedlar and colleagues (2018) found that doubt struggles *negatively* predicted depressive symptoms after other factors were controlled (β about −0.18), though not in a second sample of adults. The current page's claim about the doubt subscale in Exline et al. (2014) could not be checked against that paper itself; the effect, where found, is small and not consistent.
+      **Doubt itself is not always the harmful part.** [Mixed.] The Religious and Spiritual Struggles (RSS) scale (Exline et al., 2014) measures six kinds of struggle: divine (with God), demonic, interpersonal, moral, ultimate meaning, and doubt. In one sample of atheist undergraduates, Sedlar and colleagues (2018) found that doubt struggles *negatively* predicted depressive symptoms after other factors were controlled (β about −0.18), though not in a second sample of adults. (2014) has not yet been checked against that paper itself; the effect, where found, is small and not consistent.
 
       **What this means.** Struggling is common, it is not a sign that you are broken, and it carries a modest risk of distress. Support — a trusted person, a counsellor, a community — is a sensible response to a real risk.
   - kind: practice

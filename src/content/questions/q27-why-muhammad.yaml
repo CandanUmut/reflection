@@ -52,7 +52,7 @@ layers:
 honestLimits:
   tr: |
     Bazı kehanetler abartılıyor ve "bilimsel mucizeler" zayıf.
-  en: No argument proves that God spoke to him; the case is cumulative and judged differently by different people. Hoyland's book, Watt's book and the variant reading of 30:2–4 were not read directly; the war's dates come from *Wikipedia* only. The doubt survey cited on the current page (Chouhoud, 2018) is discussed on the "scientific miracles" page.
+  en: No argument proves that God spoke to him; the case is cumulative and judged differently by different people. Hoyland's book, Watt's book and the variant reading of 30:2–4 have not yet been consulted directly; the war's dates come from *Wikipedia* only. The doubt survey (Chouhoud, 2018) is discussed on the "scientific miracles" page.
 visualizations:
   - id: ideas
     tr: |
@@ -64,11 +64,11 @@ sources:
     url: https://surahquran.com/tafsir-english-aya-2-sora-30.html
   - label: Sahih al-Bukhari 3 (sunnah.com), https://sunnah.com/bukhari:3 — the first revelation and Khadija's words.
     url: https://sunnah.com/bukhari:3
-  - label: James A. Bishop, "The Non-Muslim Seventh Century Sources for the Prophet Muhammad" (15 October 2020), https://jamesbishopblog.com/2020/10/15/the-non-muslim-seventh-century-sources-for-the-prophet-muhammad/ — a survey drawing on Robert Hoyland's *Seeing Islam as Others Saw It* (Hoyland itself was not read).
+  - label: James A. Bishop, "The Non-Muslim Seventh Century Sources for the Prophet Muhammad" (15 October 2020), https://jamesbishopblog.com/2020/10/15/the-non-muslim-seventh-century-sources-for-the-prophet-muhammad/ — a survey drawing on Robert Hoyland's *Seeing Islam as Others Saw It* (Hoyland itself not yet consulted).
     url: https://jamesbishopblog.com/2020/10/15/the-non-muslim-seventh-century-sources-for-the-prophet-muhammad/
   - label: "\"Scholarly Debates on 'Ummiyy': An Examination of Quranic Usage and Interpretation\", IslamOnWeb, https://en.islamonweb.net/scholarly-debates-on-ummiyy-an-examination-of-quranic-usage-and-interpretation."
     url: https://en.islamonweb.net/scholarly-debates-on-ummiyy-an-examination-of-quranic-usage-and-interpretation
-  - label: W. Montgomery Watt, *Muhammad at Mecca* (Oxford, 1953) — quotation as given on Goodreads, https://www.goodreads.com/work/quotes/686967 (the book itself was not read; no page number).
+  - label: W. Montgomery Watt, *Muhammad at Mecca* (Oxford, 1953) — quotation as given on Goodreads, https://www.goodreads.com/work/quotes/686967 (the book itself not yet consulted; no page number).
     url: https://www.goodreads.com/work/quotes/686967
   - label: Youssef Chouhoud, "What Causes Muslims to Doubt Islam? A Quantitative Analysis", Yaqeen Institute (13 February 2018; updated 22 July 2024), https://yaqeeninstitute.org/read/paper/what-causes-muslims-to-doubt-islam-a-quantitative-analysis.
     url: https://yaqeeninstitute.org/read/paper/what-causes-muslims-to-doubt-islam-a-quantitative-analysis
@@ -104,7 +104,7 @@ fullAnswer:
 
       **The Byzantine prediction (30:2–4).** "The Byzantines have been defeated In the nearest land. But they, after their defeat, will overcome. Within three to nine years" (30:2–4), Meccan. "Three to nine years" is Saheeh's rendering of *biḍʿi sinīn*, which Saʿid ibn Jubayr explained as "less than ten" (Ibn Kathir). Ibn Kathir says the verses "were revealed about the victory of Sabur, the king of Persia, over Ash-Sham", and records a wager: Abu Bakr (ra) bet the idolaters that Rome would win; they agreed on six years; the Romans won "when the seventh year came" (Ibn Kathir's abridgement: "This is a Hasan Hadith"). On sunnah.com the report, narrated by Niyar b. Mukram al-Aslami, is {hadith:tirmidhi:3194}; al-Tirmidhi calls it *ḥasan ṣaḥīḥ gharīb*, known only through ʿAbd al-Rahman b. Abi al-Zinad, and Darussalam grades it *ṣaḥīḥ*. A report from Ibn ʿAbbas in al-Tirmidhi (graded *ḥasan gharīb*) gives five years instead of six.
 
-      **What is complicated about it.** First, the dates: the Persians took Jerusalem "following a three weeks siege in 614"; Heraclius counter-attacked from 622 to 626, defeated the Persians at Nineveh on 12 December 627, and the war ended about 628 (*Wikipedia*, "Byzantine–Sasanian War of 602–628", read by the independent source check). The Ibn Kathir page read does not give dates. Second, an old variant reading vowels the verbs the other way — the Byzantines "have overcome… and will be defeated" — reported in the tafsir literature; the Ibn Kathir page read here does not mention it, so it is noted as unverified (see Gaps). A fair reader will say: the prediction was made in Mecca, at a time when Rome looked beaten; it came true; and the reports about it come from Muslim sources.
+      **What is complicated about it.** First, the dates: the Persians took Jerusalem "following a three weeks siege in 614"; Heraclius counter-attacked from 622 to 626, defeated the Persians at Nineveh on 12 December 627, and the war ended about 628 (*Wikipedia*, "Byzantine–Sasanian War of 602–628", read by the independent source check). The Ibn Kathir page read does not give dates. Second, an old variant reading vowels the verbs the other way — the Byzantines "have overcome… and will be defeated" — reported in the tafsir literature; the Ibn Kathir page read here does not mention it, so it is noted as unverified. A fair reader will say: the prediction was made in Mecca, at a time when Rome looked beaten; it came true; and the reports about it come from Muslim sources.
   - kind: history
     en: |-
       **Early non-Muslim sources confirm that he existed and led the movement.** Bishop's survey (drawing on Hoyland) lists, among others:
@@ -153,7 +153,7 @@ followUps:
   - q:
       en: Which predictions were fulfilled besides the Byzantine one, and which are overstated?
     a:
-      en: Only the Byzantine one was examined for this page. Modern "scientific prophecies" are often overstated (see the next page).
+      en: Only the Byzantine one was examined. Modern "scientific prophecies" are often overstated (see the next page).
   - q:
       en: What exactly is the challenge of 2:23?
     a:

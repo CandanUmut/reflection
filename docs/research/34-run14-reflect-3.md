@@ -32,8 +32,8 @@
 Each point is tied to "brings them together… a mass… rain… hail".
 - **How heavy a cloud is.** [Established] USGS, citing one published estimate, gives the water in a cumulus cloud as "about 0.5 gram per cubic meter". A cloud of 1 km³ — "1 billion cubic meters" — therefore holds about "500,000 kilograms or 1.1 million pounds (about 551 tons)" (US short tons; about 500 metric tonnes).
 - **Why it stays up.** [Established] "clouds float on air because the moist air in clouds is less dense than dry air" (USGS).
-- **Piling up, rain and hail.** [Established] When clouds merge and grow upward into towering storm clouds, strong rising air carries droplets high enough to freeze; hailstones grow as they are carried up and down. (Standard meteorology; no named source on hail formation was read for this run — see Gaps.)
-- **Wind and pollination.** [Established] Many plants, including grasses and cereals, are pollinated by wind. (No named source on wind pollination was read for this run.)
+- **Piling up, rain and hail.** [Established] When clouds merge and grow upward into towering storm clouds, strong rising air carries droplets high enough to freeze; hailstones grow as they are carried up and down. (Standard meteorology; no named source on hail formation was read.)
+- **Wind and pollination.** [Established] Many plants, including grasses and cereals, are pollinated by wind. (No named source on wind pollination was read.)
 
 ### Points of awe
 - In USGS's worked example, a cumulus cloud of 1 km³ holds about 500 tonnes of water, and clouds float because "the moist air in clouds is less dense than dry air" (USGS).
@@ -52,7 +52,7 @@ The winds that carry it are called "fertilizing": they load the clouds and carry
 - **No meteorology claimed.** The verses describe what anyone can watch. They do not predict the stages of a thunderstorm cloud, and the commentators did not read them that way.
 - **Estimates.** The 500-tonne figure is USGS's example for a 1 km³ cumulus at 0.5 g/m³; real clouds vary.
 - **"Fertilizing winds."** Ibn Kathir already gives the pollination reading, so it is not a modern addition.
-- **The popular claim.** No named source making a scientific-miracle claim about these verses was read for this run.
+- **The popular claim.** No named source making a scientific-miracle claim about these verses was read.
 
 ### Questions readers ask next
 **What are the "mountains" of hail?** Ibn Kathir gives two views: literal "mountains of hail in the sky", or a metaphor for towering clouds.
@@ -92,7 +92,7 @@ The winds that carry it are called "fertilizing": they load the clouds and carry
 
 ### How it works
 Each point is tied to "from the green tree, fire".
-- **Stored sunlight.** [Established] Plants use sunlight to build sugars and cellulose from carbon dioxide and water (photosynthesis). Burning wood reverses this: the stored carbon combines with oxygen and releases the energy as heat and light. (Standard biology and chemistry; no named source was read for this run.)
+- **Stored sunlight.** [Established] Plants use sunlight to build sugars and cellulose from carbon dioxide and water (photosynthesis). Burning wood reverses this: the stored carbon combines with oxygen and releases the energy as heat and light. (Standard biology and chemistry; no named source was read.)
 - **Friction fire.** [Established] Rubbing two pieces of wood together heats the fibres until they smoulder (The link to Ibn Kathir's *markh* and *ʿafār* is in Classical tafsir and The reflection.)
 
 ### Points of awe
@@ -110,7 +110,7 @@ Today we can add that the energy in that flame is sunlight, captured by leaves a
 
 ### Honest notes
 - **No photosynthesis claimed.** The verse refers to a known Arabian practice, fire-sticks of *markh* and *ʿafār* (Ibn Kathir). Using photosynthesis as a reflection is fine; saying "the Quran revealed photosynthesis" is not.
-- **The popular claim.** No named source making a scientific-miracle claim about 36:80 was read for this run.
+- **The popular claim.** No named source making a scientific-miracle claim about 36:80 was read.
 
 ### Questions readers ask next
 **What are *markh* and *ʿafār*?** Two Arabian trees whose green branches were rubbed together to make fire (Ibn Kathir).
@@ -149,8 +149,8 @@ Today we can add that the energy in that flame is sunlight, captured by leaves a
 
 ### How it works
 - **Where iron is made.** [Established] Iron-56, "comprising about 91.754% of the iron on Earth", forms in massive stars: "Among the heavier elements formed is 56Ni, which subsequently decays to 56Co and then 56Fe" (*Wikipedia*). Because iron's nucleus is so tightly bound, "further nuclear reactions become energetically unfavorable" — fusion beyond iron absorbs energy rather than releasing it.
-- **Not only iron.** [Established] Every element heavier than hydrogen and helium, including the oxygen in water and the carbon in our bodies, was made in stars. (Standard astrophysics; no named source was read for this run.)
-- **Iron in us.** [Established] Iron is at the centre of haemoglobin, which carries oxygen in our blood. (No named source was read for this run.)
+- **Not only iron.** [Established] Every element heavier than hydrogen and helium, including the oxygen in water and the carbon in our bodies, was made in stars. (Standard astrophysics; no named source was read.)
+- **Iron in us.** [Established] Iron is at the centre of haemoglobin, which carries oxygen in our blood. (No named source was read.)
 
 ### Points of awe
 - Most of Earth's iron is iron-56, made in massive stars from nickel-56 decaying through cobalt (*Wikipedia*).
@@ -166,7 +166,7 @@ The word "sent down" is the same word the verse uses for the Book. Al-Jalālayn 
 The question the verse leaves with us is about our own strength, whatever form it takes: is it serving the balance, or have we put it in the balance's place?
 
 ### Honest notes
-- **The popular claim.** A popular article notes that "much of the iron found on Earth was not originally formed here" and that the wording "has prompted many readers to reflect on the correspondence" with modern astronomy, while saying the Quran "is not presenting a scientific explanation" (al-islaah.org, 2026). Stronger versions elsewhere say the Quran "revealed that iron came from space"; no named source for that stronger claim was read for this run.
+- **The popular claim.** A popular article notes that "much of the iron found on Earth was not originally formed here" and that the wording "has prompted many readers to reflect on the correspondence" with modern astronomy, while saying the Quran "is not presenting a scientific explanation" (al-islaah.org, 2026). Stronger versions elsewhere say the Quran "revealed that iron came from space"; no named source for that stronger claim was read.
 - **Weighing it.** *Anzalnā* is used in the same verse for the Book; al-Jalālayn reads it as extraction from ores; Ibn Kathir does not read it as "from the sky". And iron is not special in having a cosmic origin: so do oxygen and carbon. Stellar nucleosynthesis enriches the reflection; it is not a fulfilled prediction.
 
 ### Questions readers ask next
@@ -202,7 +202,7 @@ The question the verse leaves with us is about our own strength, whatever form i
 
 **Al-Tabari.** On "while they perceive not": "وهم لا يعلمون أنهم يحطمونكم" — "they do not know that they are crushing you" (Arabic text, quranislam.github.io).
 
-**Is the talking ant meant literally?** Ibn Kathir treats the ant's words as real speech that God let Solomon (pbuh) understand: "Allah enabled Sulayman to understand what the birds said", among "the blessings that Allah bestowed upon him". Al-Jalālayn's section (on 27:18 only) does not discuss Solomon's hearing, but adds a grammar note: "the ants are likened to rational beings in their use of the latter's speech." Al-Tabari's Arabic section explains the words and does not address whether the speech was real. None of the three reads it as allegory. Al-Qurtubi and al-Razi, whom readers asked about, were not available for this run (see Gaps).
+**Is the talking ant meant literally?** Ibn Kathir treats the ant's words as real speech that God let Solomon (pbuh) understand: "Allah enabled Sulayman to understand what the birds said", among "the blessings that Allah bestowed upon him". Al-Jalālayn's section (on 27:18 only) does not discuss Solomon's hearing, but adds a grammar note: "the ants are likened to rational beings in their use of the latter's speech." Al-Tabari's Arabic section explains the words and does not address whether the speech was real. None of the three reads it as allegory. Al-Qurtubi and al-Razi, whom readers asked about, were not available.
 
 **What they did not say.** None describes how ants communicate.
 
@@ -212,7 +212,7 @@ Each point is tied to "enter your dwellings" and "while they perceive not".
 - **How far a warning reaches.** [Established] In the ant *Lasius claviger*, the alarm comes from the Dufour's gland (discharged with the mandibular gland). For the full contents (about 2.5 µg of undecane), "the diffusion model of Bossert and Wilson (1963) predicts" a signal reaching "a maximum of about 20 cm in still air" — a model prediction, not a measurement. In behaviour, the system "seems designed to bring workers to the aid of a distressed nestmate over distances of up to 10 cm"; ants a few millimetres away react within seconds, those a few centimetres away take a minute or longer. Unless reinforced, the signal "dies out within a few minutes" (AntWiki).
 - **Two kinds of alarm.** [Established] "In aggressive alarm some of the colony members… are drawn toward the threatening stimulus"; "In panic alarm the colony as a whole flees from the stimulus" (AntWiki).
 - **Sound too.** [Established] Some ants add stridulatory chirps, which "enhance attraction" (AntWiki).
-- **Context matters.** Sasaki, Hölldobler, Millar and Pratt (2014) studied "a context-dependent alarm signal" in *Temnothorax rugatulus* (title; the findings were not read for this run).
+- **Context matters.** Sasaki, Hölldobler, Millar and Pratt (2014) studied "a context-dependent alarm signal" in *Temnothorax rugatulus* (title; the findings have not yet been consulted).
 
 ### Points of awe
 - A single ant's alarm is built to reach nestmates up to about 10 cm away (a diffusion model predicts at most about 20 cm), and fades within minutes unless others reinforce it (AntWiki).
@@ -229,9 +229,9 @@ Real ants do raise the alarm, with chemicals and sometimes with sound, and a who
 
 ### Honest notes
 - **A gift to a prophet, not entomology.** The verse tells of Solomon (pbuh) understanding an ant. It does not describe pheromones.
-- **The feminine verb.** Some articles say the feminine form proves "the Quran knew worker ants are female". *Namla* is grammatically feminine in any case, so the grammar does not settle biology (the current page's note; no named source for the claim was read for this run).
-- **The skeptic's question.** Readers ask whether the story of Solomon and the ant appears in later Jewish tradition, suggesting borrowing. No source on Jewish versions of the story was read for this run (see Gaps), so this page makes no claim either way.
-- **The ant's name.** "Ḥaras" comes from a report Ibn Kathir cites from Ibn ʿAsakir, by way of Ishaq ibn Bishr, from Saʿid, from Qatada, from al-Hasan; the same report says she was lame and "as big as a wolf" (بقدر الذيب). Ibn Kathir adds no judgement; Ishaq ibn Bishr's standing as a narrator was not checked. It should not be presented as fact.
+- **The feminine verb.** Some articles say the feminine form proves "the Quran knew worker ants are female". *Namla* is grammatically feminine in any case, so the grammar does not settle biology (not yet sourced).
+- **The skeptic's question.** Readers ask whether the story of Solomon and the ant appears in later Jewish tradition, suggesting borrowing. No source on Jewish versions of the story was read, so this page makes no claim either way.
+- **The ant's name.** "Ḥaras" comes from a report Ibn Kathir cites from Ibn ʿAsakir, by way of Ishaq ibn Bishr, from Saʿid, from Qatada, from al-Hasan; the same report says she was lame and "as big as a wolf" (بقدر الذيب). Ibn Kathir adds no judgement; Ishaq ibn Bishr's standing as a narrator has not yet been checked. It should not be presented as fact.
 
 ### Questions readers ask next
 **Did the ant really speak?** The commentators read here (Ibn Kathir, al-Jalālayn, al-Tabari) treat it as real speech God let Solomon (pbuh) understand.
@@ -242,7 +242,7 @@ Real ants do raise the alarm, with chemicals and sometimes with sound, and a who
 
 **Why did Solomon (pbuh) smile and pray?** He was "amused at her speech", and turned the moment into gratitude for God's favour (27:19; Ibn Kathir).
 
-**Is the story in Jewish tradition?** Not checked for this run.
+**Is the story in Jewish tradition?** Not checked.
 
 ---
 ## S21 — Night and day; the sun as a lamp, the moon as a light
@@ -271,11 +271,11 @@ Real ants do raise the alarm, with chemicals and sometimes with sound, and a who
 
 **Ibn Kathir on 78:13.** "the radiant sun that gives light to all of the world." **Al-Jalālayn:** "and set a radiant lamp? namely the sun".
 
-**What they share.** Both notice that the sun and moon are described differently — "two different natures" (Ibn Kathir) — and both tie the moon to counting time through its "stations". The current page also cites al-Razi and al-Zamakhshari on *ḍiyāʾ* and *nūr*; they were not read for this run (see Gaps).
+**What they share.** Both notice that the sun and moon are described differently — "two different natures" (Ibn Kathir) — and both tie the moon to counting time through its "stations".
 
 ### How it works
 Each point is tied to "shining light", "derived light" and "phases".
-- **A lamp that makes its own light.** [Established] The Sun is a star; it produces its own light by nuclear fusion in its core. (No Sun fact sheet was read for this run; see Gaps.)
+- **A lamp that makes its own light.** [Established] The Sun is a star; it produces its own light by nuclear fusion in its core. (No Sun fact sheet was read.)
 - **A light that reflects.** [Established] The Moon makes no light; it reflects sunlight. Its geometric albedo is 0.12 and its Bond albedo 0.11 (NASA NSSDC): it returns only about a tenth of the light that reaches it. Its surface is dark; it looks bright because it is in full sunlight against a black sky.
 - **Phases for counting time.** [Established] The Moon's synodic period — new moon to new moon — is 29.53 days; its sidereal period (one orbit against the stars) is 27.3217 days (NASA NSSDC). Twelve synodic months make about 354 days, about eleven days shorter than the solar year, so the Islamic months move through the seasons.
 
@@ -294,8 +294,8 @@ The verse ends: "Allah has not created this except in truth". The order of the l
 Today we know the moon gives back only a tenth of the light that falls on it. Its surface is dark rock. It shines only because it faces the sun. There is a picture there for a believer, offered as reflection, not as the verse's meaning: we too have no light of our own. Whatever light we give, we give back.
 
 ### Honest notes
-- **A harmony, not a discovery.** The different words fit the science well, and the commentators already noticed the difference. But *nūr* is also used of God (24:35) and of revelation, so it does not strictly mean "reflected light". The current page notes that many ancient writers also knew the Moon is lit by the Sun; no source for that was read for this run.
-- **The popular claim.** That 10:5 "revealed that the moon reflects light" is common; no named source for it was read for this run.
+- **A harmony, not a discovery.** The different words fit the science well, and the commentators already noticed the difference.
+- **The popular claim.** That 10:5 "revealed that the moon reflects light" is common; no named source for it was read.
 
 ### Questions readers ask next
 **What is the difference between *ḍiyāʾ* and *nūr*?** Ibn Kathir: the sun's rays are "the source of light", the moon's beams "light", of "two different natures". Al-Jalālayn: the sun is "a radiance that is emitting light", the moon "a light".
@@ -385,13 +385,13 @@ The sura's name is "The Resurrection". Its first argument is placed in our hands
 ### Classical tafsir
 **Ibn Kathir.** "With strength" is explained by Ibn ʿAbbas, Mujahid, Qatada and al-Thawri; *la-mūsiʿūn* means: "We made it vast and We brought its roof higher without pillars to support it" (as read for run 9).
 
-**Other readings.** The current page reports, from al-Tabari, readings of *mūsiʿūn* as "We are able, with vast capacity" and "We widen provision for creatures". Al-Tabari was not read for this run (see Gaps).
+**Other readings.** Al-Tabari has not yet been consulted.
 
 **What they did not say.** In Ibn Kathir's reading, the sky was *made* vast; he does not describe it as growing over time.
 
 ### How it works
 Each point is tied to *mūsiʿūn*.
-- **The universe is expanding.** [Established] In 1929 Edwin Hubble presented the first observational evidence that the universe is expanding in all directions (Harper, *Sky at Night*). (The current page also credits Georges Lemaître in 1927; no source on Lemaître was read for this run.)
+- **The universe is expanding.** [Established] In 1929 Edwin Hubble presented the first observational evidence that the universe is expanding in all directions (Harper, *Sky at Night*).
 - **How fast.** [Established, with an open problem] The expansion rate, the Hubble constant, comes out at 67–68 km/s per megaparsec from the early universe (the Planck mission's measurements of the cosmic microwave background) but 73–74 from the nearby universe (Hubble Space Telescope and Gaia). This disagreement is the "Hubble tension" (Harper). A megaparsec is almost 3.3 million light-years.
 
 ### Points of awe
@@ -449,7 +449,6 @@ But the verse's own direction is clear: it points to the One who built, and who 
 
 ### How it works
 - **Where our solar system came from.** [Established] The Solar System formed about 4.6 billion years ago from the "gravitational collapse of a small part of a giant molecular cloud", mostly hydrogen and helium (about 98% of its mass), with about 2% heavier elements; the rest of the collapsing material "flattened into a protoplanetary disk", from which the planets formed (*Wikipedia*). The solar nebula was "the disc-shaped cloud of gas and dust left over from the Sun's formation".
-- **The early universe.** [Established] The early universe was a hot, dense plasma that expanded and cooled (the current page; no named source on early-universe cosmology was read for this run).
 
 ### Points of awe
 - Our Sun and planets formed from a cloud of gas and dust about 4.6 billion years ago (*Wikipedia*).
@@ -508,7 +507,6 @@ Modern science describes our solar system forming from a vast cloud of gas and d
 Each point is tied to "protected ceiling".
 - **The ozone layer.** [Established] "the ozone layer is a special region of the atmosphere that absorbs much of this radiation" — the Sun's ultraviolet light (Cain, *Universe Today*).
 - **The magnetosphere.** [Established] Earth's magnetic field protects us from solar plasma, "keeping it safely away from the surface of the planet" (Cain).
-- **Meteors.** [Established] Most small meteoroids burn up high in the atmosphere as "shooting stars" (the current page; no named source with figures was read for this run).
 
 ### Points of awe
 - The ozone layer absorbs much of the Sun's harmful ultraviolet light (Cain).
@@ -525,7 +523,7 @@ Today we can add, as reflection, protections the first listeners could not see: 
 
 ### Honest notes
 - **No ozone in the verse.** The verse speaks of a protected roof; the classical commentators understood the protection as height, being held up, and being guarded from devils. Ozone and the magnetosphere are modern reflections that fit the image.
-- **The popular claim.** That the verse "described the ozone layer" or the magnetosphere is common; no named source for it was read for this run.
+- **The popular claim.** That the verse "described the ozone layer" or the magnetosphere is common; no named source for it was read.
 
 ### Questions readers ask next
 **What does "protected ceiling" mean?** High and out of reach (Ibn Kathir), kept from falling (al-Jalālayn), guarded from devils (*Tanwīr al-Miqbās*).

@@ -31,9 +31,9 @@
 ### How it works
 - **A seed is dormant, not dead.** [Established] A dry seed looks lifeless but is alive: as the next points show, it can wait for years and still grow when water reaches it.
 - **Splitting begins with water.** [Established] UF/IFAS describes three phases. "Early seed germination begins with imbibition of water": the dry seed soaks up water and swells. Then comes "a period where there is little water uptake called the lag phase". Finally "water uptake drives the emergence of the radicle": the embryonic root breaks through the seed coat.
-- **The hard date stone.** [Established] The current page cites Gong et al. (2005): the date's stored food is a carbohydrate (galactomannan) laid down in very thick cell walls, which is why the stone is so hard; it is broken down mainly after the root has emerged. (This study was not re-read for this run.)
+- **The hard date stone.** [Established] (2005): the date's stored food is a carbohydrate (galactomannan) laid down in very thick cell walls, which is why the stone is so hard; it is broken down mainly after the root has emerged. (This study has not yet been consulted again.)
 - **How long a seed can wait.** [Established for the one seed; Moderate for the general point] A date seed excavated at Masada in the 1960s, then stored at room temperature for about four decades, was planted in 2005 by a team led by Sarah Sallon (Hadassah Medical Organisation), and cared for by Elaine Solowey. Fragments of its own shell were radiocarbon-dated to about 2,000 years old, "give or take about 50 years" (National Geographic, reporting Sallon et al., *Science*, 2008). Sallon put its survival down to Masada's hot, dry climate, which limited damage from free radicals, "a major force in seed ageing".
-- **Not a single freak.** [Moderate] In 2020 the team reported "seven successfully sprouted ancient seeds" from three Judean desert sites, including Qumran, roughly 1,800 to 2,400 years old, named Methuselah, Adam, Jonah, Uriel, Boaz, Judith and Hannah (Phys.org, reporting Sallon et al., *Science Advances*, 2020). The paper itself was not opened for this run.
+- **Not a single freak.** [Moderate] In 2020 the team reported "seven successfully sprouted ancient seeds" from three Judean desert sites, including Qumran, roughly 1,800 to 2,400 years old, named Methuselah, Adam, Jonah, Uriel, Boaz, Judith and Hannah (Phys.org, reporting Sallon et al., *Science Advances*, 2020). The paper itself was not opened.
 
 ### Points of awe
 - A seed can wait at least two thousand years and still split when water reaches it (Sallon et al. 2008, via National Geographic).
@@ -53,7 +53,7 @@ A seed that waited two thousand years and then answered water is a small, true p
 - **No prediction is claimed.** The verse describes something every farmer could see. It makes no claim about dormancy, hormones or seed longevity, and the commentators did not read it that way.
 - **"Dead" is not a biological term here.** A dormant seed is alive. The verse speaks of how things look to us, and the commentators read "dead" in that sense, or morally.
 - **Dates are approximate.** The Masada seed is about 2,000 years old, ± about 50 years. The 2020 seeds span roughly 1,800 to 2,400 years.
-- **Popular claim.** No widespread "scientific miracle" claim about 6:95 was found for this run; the page does not need one.
+- **Popular claim.** No widespread "scientific miracle" claim about 6:95 was found; the page does not need one.
 
 ### Questions readers ask next
 **Did classical scholars know how germination works?** Not in the modern sense. Ibn Kathir and al-Jalālayn read the verse as a sign of God's power to bring life from what looks lifeless. The biology on this page is modern and kept in its own layer.
@@ -143,7 +143,7 @@ The verse sits in a passage about rain, fruit and honey. Each is ordinary. Each,
 "And your Lord inspired to the bee, 'Take for yourself among the mountains, houses, and among the trees and [in] that which they construct. Then eat from all the fruits and follow the ways of your Lord laid down [for you].' There emerges from their bellies a drink, varying in colors, in which there is healing for people. Indeed in that is a sign for a people who give thought" (16:68–69).
 
 - **Key words.** *Awḥā* ("inspired") is from *waḥy*, the word also used for revelation to prophets; here it means a guiding prompt placed in a creature. *Shifāʾ* ("healing") is indefinite in Arabic: "healing", not "the cure".
-- **Feminine verbs.** The commands to the bee (*ittakhidhī*, "take"; *kulī*, "eat"; *uslukī*, "follow") are grammatically feminine. Whether this says anything about the bees' sex is unclear: Arabic collective nouns like *naḥl* commonly take feminine agreement anyway (a grammatical point not checked in a named source for this run). It is at least consistent with the biology (below).
+- **Feminine verbs.** The commands to the bee (*ittakhidhī*, "take"; *kulī*, "eat"; *uslukī*, "follow") are grammatically feminine. Whether this says anything about the bees' sex is unclear: Arabic collective nouns like *naḥl* commonly take feminine agreement anyway (a grammatical point not checked in a named source). It is at least consistent with the biology (below).
 - **Setting.** Sura al-Naḥl is Meccan and is named after this passage. It continues the run of signs of provision in 16:65–67 (rain, milk, fruit).
 
 ### Classical tafsir
@@ -162,7 +162,7 @@ The verse sits in a passage about rain, fruit and honey. Each is ordinary. Each,
 - **"From their bellies".** [Established] Nectar is carried in "the bee's crop, or honey stomach", which can hold up to a third of the bee's weight. The forager adds an enzyme, invertase, "as they swallow it", which begins splitting sucrose into simpler sugars. Back at the hive, she "regurgitates her nectar load to special food-handling bees" (MSU Extension).
 - **From nectar to honey.** [Established] Bees dry the nectar by "rapidly beating or fanning their wings in the hive", which "reduces that water content to around 18 percent" (MSU Extension).
 - **"Varying in colors".** [Established] Honey's colour and flavour depend on the flowers the nectar came from, as Ibn Kathir also says.
-- **The foragers are female.** [Established, but not shown by the source read] Foragers are female worker bees; the MSU Extension account only implies it ("her nectar load"). A named source is needed (see Gaps).
+- **The foragers are female.** [Established, but not shown by the source read] Foragers are female worker bees; the MSU Extension account only implies it ("her nectar load"). A named source is needed.
 - **"Healing for people": what trials show.**
   - *Burns.* [Moderate to High for this one use] A Cochrane review (Jull et al. 2015; 26 trials, 3,011 participants) found that "honey dressings heal partial thickness burns more quickly than conventional dressings", by about 4.7 days (high-certainty evidence for this comparison). But for wounds overall it was "difficult to draw overall conclusions", and most of the evidence was of low or very low certainty.
   - *Coughs and colds.* [Moderate] A meta-analysis in *BMJ Evidence-Based Medicine* (14 studies) found honey reduced cough frequency (standardised mean difference −0.36; 95% CI −0.50 to −0.21) and cough severity (−0.44; −0.64 to −0.25) compared with usual care. The authors called for placebo-controlled trials.
@@ -183,9 +183,9 @@ The passage ends with an instruction to the reader, not to the bee: "Indeed in t
 
 ### Honest notes
 - **"Healing", not "cure for everything".** The verse's *shifāʾ* is indefinite. Al-Jalālayn's English text says both "from all ailments" and "only for some ailments"; the evidence today supports benefit for some uses (partial-thickness burns; cough symptoms), uncertain benefit for others, and no evidence for honey as a general cure.
-- **The popular claims.** Two are common: that the feminine verbs "prove" the Quran knew worker bees are female, and that "from their bellies" anticipated the honey stomach. Both fit the biology, but neither is decisive: the feminine grammar may simply follow the collective noun, and the commentators read here did not draw either point. No named source making these claims was read for this run.
+- **The popular claims.** Two are common: that the feminine verbs "prove" the Quran knew worker bees are female, and that "from their bellies" anticipated the honey stomach. Both fit the biology, but neither is decisive: the feminine grammar may simply follow the collective noun, and the commentators read here did not draw either point. No named source making these claims was read.
 - **The numbers are estimates.** The Council's 2.6 million flowers and 50,000 miles are its own calculations from assumed averages.
-- **A figure to drop.** The current page says one bee makes "about 1/12 teaspoon in its lifetime". No source for this was read. The Canadian Honey Council page says "about 1 and ½ teaspoons", with no source either. The two disagree by a factor of 18; the figure should be removed until a primary source is found.
+- **A figure to drop.** No source for this was read. The Canadian Honey Council page says "about 1 and ½ teaspoons", with no source either. The two disagree by a factor of 18; the figure should be removed until a primary source is found.
 
 ### Questions readers ask next
 **Does "inspiration" mean the bee receives revelation like a prophet?** No. Ibn Kathir explains it as guidance. The same Arabic root covers a range of meanings, from a prophet's revelation to an instinct placed in a creature.
@@ -222,7 +222,7 @@ The passage ends with an instruction to the reader, not to the bee: "Indeed in t
 - **Setting.** Sura al-Muʾminūn is Meccan. The passage follows a description of the believers (23:1–11) and leads into death and resurrection: the next verses say that after this you will die and then be raised on the Day of Resurrection (23:15–16, paraphrased; not quoted from verified data here). The stages are part of an argument for the resurrection.
 
 ### Classical tafsir
-**Ibn Kathir on 23:12.** God "initially created man from an extract of *Tin*" — that is, Adam (pbuh) — and then his descendants from a drop (as quoted on the current page).
+**Ibn Kathir on 23:12.** God "initially created man from an extract of *Tin*" — that is, Adam (pbuh) — and then his descendants from a drop.
 
 **Ibn Kathir on the stages.** The *ʿalaqa*: "Then it becomes a red clot, like an elongated clot", and he cites ʿIkrima: "This is blood." The *muḍgha*: "like a piece of flesh with no shape or features". Then: "We gave it shape, with a head, two arms and two legs, with its bones, nerves and veins", and the flesh is "something to cover it and strengthen it". On "another creation": "then We breathed the soul into it, and it moved and became a new creature". He also reports Ibn ʿAbbas: "We change it from one stage to another until it emerges as an infant."
 
@@ -234,7 +234,7 @@ The passage ends with an instruction to the reader, not to the bee: "Indeed in t
 
 ### How it works
 Each point is tied to a word of the verse.
-- **"A firm lodging".** [Established] The embryo implants in the wall of the womb and grows there, protected by the mother's body. (The timing of implantation was not read in a source for this run.)
+- **"A firm lodging".** [Established] The embryo implants in the wall of the womb and grows there, protected by the mother's body. (The timing of implantation has not yet been consulted in a source.)
 - **"Clinging" (*ʿalaqa*).** [Established] By the fourth week the embryo is 2–5 mm long. EHD gives Carnegie stage 10 (about 22 days, by the 1987 convention it uses) as 2–3.5 mm with 4–12 somites, and stage 12 (about 26 days) as 3–5 mm with 21–29 somites; UNSW gives stage 12 as "Week 4, 26 - 30 days" and "3 - 5 mm". At this stage it is attached to the womb wall and depends on it.
 - **The heart.** [Established, with debated dating] EHD says the heart's first contractions have "long been described as a Carnegie Stage 10 or possibly a very late Stage 9 event" — about 22 days after fertilisation by its convention — while noting other studies that report 23, 25, or even 28–30 days.
 - **"Lump" (*muḍgha*).** [Established] Somites are paired blocks of tissue along the embryo's back; at stages 10–12 (about 22–26 days by EHD's convention) their number rises from 4 to 29 pairs (EHD). They give the embryo a segmented look.
@@ -258,18 +258,17 @@ The passage does not end with an explanation. It ends with praise: "So blessed i
 - **The popular claim.** The best-known form is Keith Moore's: a Canadian anatomist who, by his own account, worked with an embryology committee at King Abdulaziz University and produced an edition of his textbook *The Developing Human* "with Islamic Additions" (1982/83). He is quoted as saying the Quran's descriptions "cannot be based on scientific knowledge in the seventh century" (Islamic Awareness). Photo captions there describe his "Investigations in to the *'alaqa* or leech-like stage".
 - **Weighing it.**
   - The words *ʿalaqa* and *muḍgha* fit the appearance of the embryo strikingly well, and that is worth noticing.
-  - But the commentators read here take *ʿalaqa* as a blood clot (Ibn Kathir; ʿIkrima: "This is blood"; al-Jalālayn), not as a leech. The leech reading was not found in the classical sources read for this run.
+  - But the commentators read here take *ʿalaqa* as a blood clot (Ibn Kathir; ʿIkrima: "This is blood"; al-Jalālayn), not as a leech. The leech reading was not found in the classical sources read.
   - "We made [from] the lump, bones, and We covered the bones with flesh" can be read as a strict sequence: bones first, then muscle. Modern embryology shows the cartilage skeleton and muscle developing in the same weeks, overlapping (Lecturio; LifeMap). A possible reply (this page's own, not from a named source) is that "covered" describes the muscles wrapping the skeleton, not that they start later. Both readings are possible; neither is proven by the text.
-  - The current page says Joseph Needham noted parallels with Galen's Greek medicine. That was not checked in Needham's text for this run.
   - The fair position: the verses can be read in harmony with embryology at a general level; they are not a textbook, and the commentators read here did not read them as one.
-- **The forty-day hadith.** {hadith:bukhari:3208} speaks of forty-day stages. How its timings relate to modern embryology is disputed among Muslim scholars; that debate was not read in a named source for this run.
+- **The forty-day hadith.** {hadith:bukhari:3208} speaks of forty-day stages. How its timings relate to modern embryology is disputed among Muslim scholars; that debate has not yet been consulted in a named source.
 
 ### Questions readers ask next
 **Is "clay" about Adam or about every human?** Ibn Kathir reads the extract of clay as Adam's creation, and the later stages as every human's.
 
 **Did the Quran describe embryology before science?** Classical scholars did not read it that way: they read the stages as signs of God's power to create and to resurrect. The modern claim and its problems are set out in the honest notes.
 
-**What does *ʿalaqa* mean — a clot or a leech?** The root means to cling or hang. Ibn Kathir and al-Jalālayn read it as a clot of blood; the "leech-like" reading was not found in the classical sources read for this run.
+**What does *ʿalaqa* mean — a clot or a leech?** The root means to cling or hang. Ibn Kathir and al-Jalālayn read it as a clot of blood; the "leech-like" reading was not found in the classical sources read.
 
 **What does "another creation" mean?** Ibn Kathir: "then We breathed the soul into it, and it moved and became a new creature". Al-Jalālayn says the same.
 
@@ -354,7 +353,7 @@ There is a lesson for a life, too, offered here as reflection. Each light in the
   - People in the seventh century already saw the sun move across the sky every day; a verse saying "the sun runs" was not, to them, a hidden claim.
   - The claim also uses "proves", which this site does not. The fair statement: the verse's words are compatible with what we now know; they are not a prediction of it.
 - **The hadith, stated plainly.** Bukhari 3199 and 4802 are *ṣaḥīḥ* reports in which the sun, after setting, "goes and prostrates underneath (Allah's) Throne" and asks permission to rise. A skeptic's objection is real: the sun is always rising somewhere. The answers differ. Al-Khattabi leaves the manner to the unseen. Ibn Hajar allows a figurative reading (submission, or the prostration of its angel). *Maʿārif al-Qurʾān* calls it a similitude and says the sun is always beneath the Throne, so its prostration "needs no pause or break". *Limit:* a reader who takes the hadith's words as a physical sequence will find a conflict with astronomy; these answers resolve it only by reading the prostration as non-physical or unknowable. The page shows the hadith and the readings rather than choosing for the reader.
-- **The Throne passage.** The current page quotes Ibn Kathir calling the Throne "a dome" and "not a sphere as many astronomers claim". The quotation is correct (surahquran.com, 36:38). That is his cosmology, and the page is right to show it.
+- **The Throne passage.** Ibn Kathir calls the Throne "a dome" and "not a sphere as many astronomers claim". The quotation is correct (surahquran.com, 36:38). That is his cosmology, and the page is right to show it.
 
 ### Questions readers ask next
 **Why are there 27.3 days and 29.5 days?** The Moon goes around the sky in 27.3 days, measured against the stars. But phases depend on where the Sun is, and since the Earth has moved along its own orbit, the Moon needs just over two more days to line up with the Sun again. So new moon to new moon is 29.5 days (NASA StarChild). These are the "phases" of 36:39.
@@ -367,7 +366,7 @@ There is a lesson for a life, too, offered here as reflection. Each light in the
 
 **The hadith says the sun prostrates after it sets — but the sun is always rising somewhere. How can that be?** This is a real objection. The answers above read the prostration as non-physical (submission), or continuous, or beyond our knowledge. A reader may or may not find them convincing; the page shows the hadith and the readings rather than hiding them.
 
-**Did classical scholars think the sun goes around the earth?** Their cosmology was that of their time: Ibn Kathir reads the orbits as "in the heaven" and the Throne as "a dome" over the universe. (Whether he states an Earth-centred model in so many words was not checked for this run.) This page does not claim the verse described modern astronomy.
+**Did classical scholars think the sun goes around the earth?** Their cosmology was that of their time: Ibn Kathir reads the orbits as "in the heaven" and the Throne as "a dome" over the universe. (Whether he states an Earth-centred model in so many words has not yet been checked.) This page does not claim the verse described modern astronomy.
 
 ---
 
@@ -425,7 +424,7 @@ The verses do not ask for a lecture on chemistry. They ask for a habit: to drink
 
 ### Honest notes
 - **Not a claim about where life began.** "Made from water every living thing" is read by Ibn Kathir as "the origin of every living thing is in water" and by al-Jalālayn as water being "the cause" of life. Neither is a theory of abiogenesis (life arising from non-living matter). Modern theories that life began in water exist, but the verse does not state one.
-- **The popular claim.** Popular articles often present 21:30 as anticipating the discovery that cells are mostly water. No named source making that claim was read for this run. The dependence of all life on water was visible to anyone in the seventh century, and that is how the commentators read it.
+- **The popular claim.** Popular articles often present 21:30 as anticipating the discovery that cells are mostly water. No named source making that claim was read. The dependence of all life on water was visible to anyone in the seventh century, and that is how the commentators read it.
 - **Numbers.** USGS gives "up to 60%" for adults; the figure varies with age, sex and body composition (USGS: about 60% for men, 55% for women).
 
 ### Questions readers ask next
@@ -455,7 +454,7 @@ The verses do not ask for a lecture on chemistry. They ask for a habit: to drink
 55:19–20 and 25:53 describe two bodies of water, "one fresh and sweet and one salty and bitter", released side by side with "a barrier" between them.
 
 ### Verse note
-"He released the two seas, meeting [side by side]; Between them is a barrier [so] neither of them transgresses" (55:19–20), Sura al-Raḥmān (whether it is Meccan or Medinan was not checked for this run). The verses that follow say pearls and coral come from both (55:22, paraphrased here; not quoted from verified data), and each sign in the sura is followed by a refrain asking which of the Lord's favours the listeners would deny (55:13 and after, paraphrased).
+"He released the two seas, meeting [side by side]; Between them is a barrier [so] neither of them transgresses" (55:19–20), Sura al-Raḥmān (whether it is Meccan or Medinan has not yet been checked). The verses that follow say pearls and coral come from both (55:22, paraphrased here; not quoted from verified data), and each sign in the sura is followed by a refrain asking which of the Lord's favours the listeners would deny (55:13 and after, paraphrased).
 
 "And it is He who has released [simultaneously] the two seas, one fresh and sweet and one salty and bitter, and He placed between them a barrier and prohibiting partition" (25:53), Sura al-Furqān, Meccan.
 
@@ -506,7 +505,7 @@ There is a picture here for human life, offered as reflection. People of very di
   - **The verse does not say "they never mix".** It says neither "transgresses" (*lā yabghiyān*): in this page's gloss, neither overruns or takes over the other. A boundary that holds two waters apart while they slowly blend fits that word; a claim of no mixing at all is the article's, not the verse's.
   - **The commentators did not read it as an invisible barrier in the sea.** Ibn Kathir's barrier is "dry land"; he says "nowhere in creation is there a sea which is fresh and sweet". Al-Jalālayn's is a "shield". Neither mentions a density boundary.
   - **The fair statement:** the verses describe fresh and salt water meeting and staying distinct; estuaries show that vividly; the "no mixing" claim is false and should not be repeated.
-- **Figures on the current page.** The current page gives salinities of "about 38.4–38.5" and "about 36.1", an interface "defined at salinity 37" and an outflow of "about 0.7–1 Sverdrup", citing "Bryden et al." and *Science Advances* (2018). Those sources were not read for this run; the page read gives 38 g/kg and about 1 Sv.
+- **Figures not yet sourced.** Those sources have not yet been consulted; the page read gives 38 g/kg and about 1 Sv.
 
 ### Questions readers ask next
 **Did classical scholars mean an invisible barrier in the sea?** No. Ibn Kathir explains the barrier as land between rivers and sea; al-Jalālayn as a "shield" keeping them from mixing. Modern estuary science is described separately.
@@ -555,7 +554,7 @@ A related verse: "And from all of the fruits He made therein two mates" (13:3). 
 **What they did not say.** Neither reads "pairs" as a law of physics; neither treats the variety of colours as a ranking of peoples. Ibn Kathir reads "colours" as every face being different.
 
 ### How it works
-- **"Of all things… two mates": pairs in living things.** [Established] Many living things reproduce through two sexes, but not all: many organisms reproduce without a partner (for example, by dividing). So "pairs" in the biological sense is very common, not universal. (No named source on asexual reproduction was read for this run; this is textbook biology.)
+- **"Of all things… two mates": pairs in living things.** [Established] Many living things reproduce through two sexes, but not all: many organisms reproduce without a partner (for example, by dividing). So "pairs" in the biological sense is very common, not universal. (No named source on asexual reproduction was read; this is textbook biology.)
 - **"The diversity of your languages".** [Established] Ethnologue (27th edition, 2024) counts "a total of 7,164 living languages worldwide".
 - **"And your colors".** [Established] Jablonski and Chaplin (2000) found that "skin reflectance is strongly correlated with absolute latitude and UV radiation levels". Their explanation: dark, "highly melanized skin protected against UV-induced photolysis of folate" (the breakdown by sunlight of a vitamin needed in pregnancy), while lighter skin away from the tropics allowed "UVB-induced synthesis of previtamin D3". The range of human skin colour "represents a compromise solution to the conflicting physiological requirements of photoprotection and vitamin D synthesis".
 

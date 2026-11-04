@@ -20,9 +20,9 @@
 - **What the verses say.** That everything is made with a measure, and that this measure is God's. They do not mention physical constants.
 
 ### Classical tafsir
-**Ibn Kathir on 25:2.** "everything apart from Him is created and subject to Him" (as quoted on the current page).
+**Ibn Kathir on 25:2.** "everything apart from Him is created and subject to Him".
 
-**Ibn Kathir on 54:49.** He reads the verse as a statement about decree, not about physics, and reports that the Imams of the Sunnah "used this Ayah and similar Ayat and Hadiths to refute the Qadariyyah sect, who started their sect during the latter time of the Companions." He cites a report from Abu Hurayra (ra), attributed on the page to Imam Ahmad, Muslim, al-Tirmidhi and Ibn Majah (the Muslim number was not confirmed for this run): "The idolators of the Quraysh came to the Messenger of Allah… arguing with him and discounting the Qadar", after which the verses were revealed. (The *Qadariyya* were an early group who denied that God decrees human acts.)
+**Ibn Kathir on 54:49.** He reads the verse as a statement about decree, not about physics, and reports that the Imams of the Sunnah "used this Ayah and similar Ayat and Hadiths to refute the Qadariyyah sect, who started their sect during the latter time of the Companions." He cites a report from Abu Hurayra (ra), attributed on the page to Imam Ahmad, Muslim, al-Tirmidhi and Ibn Majah (the Muslim number was not confirmed): "The idolators of the Quraysh came to the Messenger of Allah… arguing with him and discounting the Qadar", after which the verses were revealed. (The *Qadariyya* were an early group who denied that God decrees human acts.)
 
 **Al-Jalālayn on 54:49.** Its comment is grammatical: "everything read inna kulla shay'in is in the accusative". (This page's explanation, not al-Jalālayn's: the accusative supports reading "We created everything with a measure" rather than "everything that We created is with a measure".)
 
@@ -54,7 +54,6 @@ A believer can hold both: the measure in the verse, and the honesty of the debat
 ### Honest notes
 - **The popular claim.** Fine-tuning is often presented as proof that God exists, and 25:2 or 54:49 as having foretold it. Neither is warranted. The verses speak of measure and decree; the commentators read them as about God's decree (Ibn Kathir reports that the Imams of the Sunnah used 54:49 against the Qadariyya), not about physical constants.
 - **The science is real; the inference is debated.** That some constants are life-permitting only in narrow ranges is widely accepted. Whether this points to design, a multiverse or a deeper law is a philosophical question, and the probability calculations behind each are disputed (SEP).
-- **Weinberg's view.** The current page says Weinberg judged some cases "not so fine". That quotation was not found in the SEP text read for this run (see Corrections).
 
 ### Questions readers ask next
 **Does fine-tuning prove God exists?** No. It is one of the stronger pointers in modern design arguments, but philosophers dispute the probabilities and the alternatives (multiverse, deeper law). The SEP sets out both sides.
@@ -96,7 +95,7 @@ A believer can hold both: the measure in the verse, and the honesty of the debat
 **Where they agree.** Both name the means and credit God for them. Ibn Kathir: God gave the birds "strength" and subjected "the air to carry them". Al-Jalālayn, on the end of 16:79: the signs are "that they have been created in a way that enables them to fly as well as the creation of the air in such a way that it allows for flight and the holding of them up in the air so that they do not fall." For both, the means are part of what God does.
 
 ### How it works
-- **"Wings outspread" — gliding.** [Established] A spread wing deflects the air flowing past it downward; by Newton's third law, the air pushes the wing up. The pressure above the wing is also lower than below it. Together these produce *lift*. Soaring birds use rising columns of warm air (thermals) to gain height without flapping. (No named aerodynamics source was read for this run; this is textbook physics — see Gaps.)
+- **"Wings outspread" — gliding.** [Established] A spread wing deflects the air flowing past it downward; by Newton's third law, the air pushes the wing up. The pressure above the wing is also lower than below it. Together these produce *lift*. Soaring birds use rising columns of warm air (thermals) to gain height without flapping. (No named aerodynamics source was read; this is textbook physics.)
 - **"Folded in" — flapping and diving.** [Established] Flapping adds forward thrust; folding the wings reduces drag for diving or bounding flight.
 - **How far the air can carry a bird.** [Established] On 13 October 2022, a bar-tailed godwit fitted with satellite tag 234684, "This five-month-old bird", left Alaska and landed at Ansons Bay in eastern Tasmania after flying "13,560 kilometres (8,435 miles)", in "11 days and one hour without the bird landing once", "without stopping for food or rest". Eric Woehler of BirdLife Tasmania estimated it lost "half or more of its body weight" on the way (Guinness World Records).
 
@@ -115,15 +114,15 @@ The verse invites a double look: see the means clearly, and then see through the
 
 ### Honest notes
 - **No aerodynamics in the verse.** The verses describe what anyone can see: birds gliding and flapping, held in the air. Claims that they "predicted" lift go beyond the words, and the commentators did not read them that way.
-- **The popular claim.** No named source making a scientific-miracle claim about these verses was read for this run.
-- **Distance figures.** The current page mentions "Later models put the distance at about 13,391–13,560 km". The Guinness article read here gives 13,560 km and does not mention a recalculation (see Corrections).
+- **The popular claim.** No named source making a scientific-miracle claim about these verses was read.
+- **Distance figures.** The Guinness article read here gives 13,560 km and does not mention a recalculation.
 
 ### Questions readers ask next
 **If air and wings keep birds up, why does the verse say God does?** The commentators did not see these as rivals. Ibn Kathir: God gave them strength and subjected "the air to carry them". The means are how the holding happens.
 
 **What do "outspread" and "folded in" mean?** Gliding with wings spread, and flapping or folding them. Ibn Kathir describes both.
 
-**How did the godwit know where to go?** The source read does not explain how it navigated, and no study of bird navigation was read for this run.
+**How did the godwit know where to go?** The source read does not explain how it navigated, and no study of bird navigation was read.
 
 **Why is the name "the Most Merciful" used in 67:19?** The verse follows warnings of what God could send (67:16–17); holding the birds up is presented as mercy rather than punishment.
 
@@ -147,7 +146,7 @@ The verse invites a double look: see the means clearly, and then see through the
 - **The four signs.** Camel, sky, mountains, earth: everything a traveller in the desert sees, from near to far, from below to above.
 
 ### Classical tafsir
-**Ibn Kathir on 88:17.** "Indeed it is an amazing creation, and the way it has been fashioned is strange." The current page quotes his fuller description: it "is extremely powerful and strong, yet gentle, carrying heavy loads. It allows itself to be guided by a weak rider."
+**Ibn Kathir on 88:17.** "Indeed it is an amazing creation, and the way it has been fashioned is strange." His fuller description: it "is extremely powerful and strong, yet gentle, carrying heavy loads. It allows itself to be guided by a weak rider."
 
 **Ibn Kathir on the four signs together.** The sky: "how Allah raised it in such magnificence above the ground". The mountains: "firmly affixed so that the earth does not sway with its dwellers". The earth: "how it has been spread out, extended and made smooth". His summary: "He directs the bedouin to consider what he himself witnesses." He also cites, from Imam Ahmad via Anas, a Bedouin's question to the Prophet (pbuh), "Who erected these mountains and placed in them whatever is in them?" (Ibn Kathir's section heading names him Dimam). The same report is in Sahih Muslim through Anas, where the man is unnamed ("a man from the dwellers of the desert"): "Who raised these mountains and who created in them whatever is created there?" ({hadith:muslim:12}).
 
@@ -179,8 +178,8 @@ The lesson reaches beyond camels. Each of us lives among things we stopped seein
 
 ### Honest notes
 - **No physiology in the verse.** The verse asks people to look; it does not describe the camel's kidneys or blood. The science on this page is modern and kept separate.
-- **A figure to avoid.** Claims such as "200 litres in 3 minutes" circulate without solid sources (the current page's note). The sources read give "as much as 30 imperial gallons (140 litres) at a time" (*Wikipedia*) and "up to 110 liters of water within 10 min" (Ali et al.).
-- **The popular claim.** No named source making a scientific-miracle claim about 88:17 was read for this run.
+- **A figure to avoid.** Claims such as "200 litres in 3 minutes" circulate without solid sources (not yet sourced). The sources read give "as much as 30 imperial gallons (140 litres) at a time" (*Wikipedia*) and "up to 110 liters of water within 10 min" (Ali et al.).
+- **The popular claim.** No named source making a scientific-miracle claim about 88:17 was read.
 
 ### Questions readers ask next
 **Does the hump store water?** No. It stores fat (*Wikipedia*).
@@ -212,7 +211,7 @@ The lesson reaches beyond camels. Each of us lives among things we stopped seein
 - **What the verse is about.** It is a parable (*mathal*): not a statement about spiders, but about people who rely on false protectors.
 
 ### Classical tafsir
-**Ibn Kathir.** The idolaters "were like the house of a spider, which is so weak and frail". The current page also quotes him: like "a person who holds on to a spider's web, who does not gain any benefit from that".
+**Ibn Kathir.** The idolaters "were like the house of a spider, which is so weak and frail". He also writes: like "a person who holds on to a spider's web, who does not gain any benefit from that".
 
 **Al-Jalālayn.** The spider's home "neither protects it from heat nor cold".
 
@@ -220,7 +219,7 @@ The lesson reaches beyond camels. Each of us lives among things we stopped seein
 
 ### How it works
 - **The silk is strong.** [Established] The silk of Darwin's bark spider (*Caerostris darwini*, Madagascar) is the toughest biological material measured: "The toughness of forcibly silked fibers averages 350 MJ/m3, with some samples reaching 520 MJ/m3", "more than twice tougher than any previously described silk" and over ten times tougher than Kevlar (Agnarsson, Kuntner & Blackledge 2010). Its webs cover up to 2.8 m², anchored by threads up to 25 m long across rivers.
-- **The home is weak.** [Established] A web is a thin net, built to catch prey. It does not keep out wind, rain, heat, cold or predators. (This is ordinary observation; no named source on web function was read for this run.)
+- **The home is weak.** [Established] A web is a thin net, built to catch prey. It does not keep out wind, rain, heat, cold or predators. (This is ordinary observation; no named source on web function was read.)
 - **So both are true.** The material is extraordinary; the shelter is not. That is exactly the gap the parable uses.
 
 ### Points of awe
@@ -238,7 +237,7 @@ The verse ends with a quiet regret: "if they only knew". It is not mockery. It i
 
 ### Honest notes
 - **The popular claims.** IslamReligion.com presents the verse as describing spider family life — "both female and male spiders commonly kill and eat the other after mating", "aggressive females kill their mates indiscriminately", spiderlings eating each other, a mother who "sacrifices her own body as food for her young" — and says God "mentioned that the worst household is that of a spider, long before naturalists and scientists started to study spider behavior in detail" (parts 1–2, 2016). Others argue that the feminine verb shows only female spiders build webs (as reported by WikiIslam).
-- **Weighing them.** The verse's point, as both commentators read it, is the web's weakness as a shelter, not spider behaviour; the "household" reading goes beyond the text and the tafsir read here. On the feminine verb, the critic at WikiIslam points out that the grammatical gender follows the noun *ʿankabūt*, which Lane's lexicon describes as "generally fem., but sometimes masc.", and that male spiders also spin silk. The grammar does not settle biology. Sexual cannibalism occurs in some species, not all (the current page's note; no source read for this run).
+- **Weighing them.** The verse's point, as both commentators read it, is the web's weakness as a shelter, not spider behaviour; the "household" reading goes beyond the text and the tafsir read here. On the feminine verb, the critic at WikiIslam points out that the grammatical gender follows the noun *ʿankabūt*, which Lane's lexicon describes as "generally fem., but sometimes masc.", and that male spiders also spin silk. The grammar does not settle biology. Sexual cannibalism occurs in some species, not all (not yet sourced).
 - **"Takes", not "builds".** Saheeh renders *ittakhadhat* as "takes": the same verb as "those who take allies". The parallel is the point.
 
 ### Questions readers ask next
@@ -299,9 +298,7 @@ That makes every bedtime a small act of trust, and every morning a small resurre
 Today we know that sleep is busy work for the body — in mice, the brain even makes room to rinse itself. That does not replace the verse's sign; it adds to it. We do not run our own rest. We are put to sleep, and we are woken. The verse ends: "Indeed in that are signs for a people who give thought."
 
 ### Honest notes
-- **The popular claim.** It is sometimes said that the Quran "predicted the glymphatic system". It did not: the verses speak of sleep as rest, as a sign and as a "taking" of the soul, not of brain fluid. No named source making the claim was read for this run.
-- **Mouse evidence.** The 2013 glymphatic findings are from mice. The current page says "Human evidence is growing"; no human study was read for this run (see Gaps).
-- **Sleep stages and the body clock.** The current page's points on ~90-minute sleep cycles, memory consolidation and light setting the body clock are not tied to a source on the page, and no source on them was read for this run (see Corrections).
+- **The popular claim.** It is sometimes said that the Quran "predicted the glymphatic system". It did not: the verses speak of sleep as rest, as a sign and as a "taking" of the soul, not of brain fluid. No named source making the claim was read.
 
 ### Questions readers ask next
 **What does "the lesser death" mean?** Ibn Kathir's term for sleep: the soul is "taken" and then released, as against the "greater death" in which it is kept.
@@ -339,7 +336,7 @@ Today we know that sleep is busy work for the body — in mice, the brain even m
 
 ### How it works
 Each point is tied to the verse's words "extends", "stationary", "the sun… an indication" and "a brief grasp".
-- **"The sun for it an indication".** [Established] A shadow's length is set by the sun's height in the sky: the length equals the object's height divided by the tangent of the sun's elevation angle. When the sun is low, shadows are long; when it is high, short. (Standard geometry; no named source was read for this run.)
+- **"The sun for it an indication".** [Established] A shadow's length is set by the sun's height in the sky: the length equals the object's height divided by the tangent of the sun's elevation angle. When the sun is low, shadows are long; when it is high, short. (Standard geometry; no named source was read.)
 - **How shadows change through the day.** [Established] Shadows are longest at sunrise and sunset and shortest at local noon. (Standard geometry; no named source was read.)
 - **Why shadows move.** [Established] Shadows move because the Earth turns relative to the sun. (The commentators read 25:45 as the shade before sunrise; neither mentions rotation, and this page does not read rotation into the verse.)
 - **Shadows as a clock in Islamic law.** [Established] The start of the afternoon prayer (ʿAṣr) is defined by shadows. For the Maliki, Shafiʿi and Hanbali schools it begins when "the length of any object's shadow equals the length of the object itself plus the length of that object's shadow at noon"; in "the dominant opinion in the Hanafi school", when the shadow "is twice the length of the object plus the length of that object's shadow at noon" (*Wikipedia*, "Asr prayer"). The basis is the hadith in which Ibn ʿAbbas (ra) reports that the Prophet (pbuh) said Jibril led him in prayer twice: once he "prayed Asr when everything was similar (to the length of) its shadow", and on the second day "when the shadow of everything was about twice as long as it" (Jamiʿ al-Tirmidhi 149; al-Albani: *ḥasan ṣaḥīḥ*). The schools differ on which end of this window marks the start.
@@ -358,8 +355,8 @@ The verse adds a phrase that changes everything: "if He willed, He could have ma
 There is also something for the heart here. Change in our lives often comes like this: not suddenly, but a little at a time, the way a shadow shortens. The verse invites us to notice the gentleness of that change, and the One who sets its measure.
 
 ### Honest notes
-- **The popular claim.** It is sometimes claimed that the verse "reveals Earth's rotation". The verse describes what anyone can see. Classical scholars read it within their own picture of the world, and that reading also fits the observation. No named source for the claim was read for this run.
-- **The qibla and the overhead sun.** The current page says that twice a year in Mecca the noon sun is overhead and that Muslims historically used this to find the qibla. No source for this was read for this run (see Corrections).
+- **The popular claim.** It is sometimes claimed that the verse "reveals Earth's rotation". The verse describes what anyone can see. Classical scholars read it within their own picture of the world, and that reading also fits the observation. No named source for the claim was read.
+- **The qibla and the overhead sun.** No source for this was read.
 
 ### Questions readers ask next
 **What shadow is the verse about?** Ibn Kathir and al-Jalālayn: the shade "from the beginning of the dawn until the sun rises".
@@ -417,8 +414,8 @@ There is a lesson for the heart as well. A life that feels dry and still is not 
 
 ### Honest notes
 - **An analogy, not botany.** The verse uses the revival of the earth as an argument for resurrection; it makes no claim about seed banks or germination inhibitors.
-- **Figures on the current page.** The page says seeds carry "germination inhibitors that only a soaking rain washes away" and that "Death Valley averages a little under 2 inches (about 50 mm)" of rain a year. Neither was found in the source read for this run (see Corrections).
-- **The popular claim.** No named source making a scientific-miracle claim about this verse was read for this run.
+- **Figures not yet sourced.** The page says seeds carry "germination inhibitors that only a soaking rain washes away" and that "Death Valley averages a little under 2 inches (about 50 mm)" of rain a year. Neither was found in the source read.
+- **The popular claim.** No named source making a scientific-miracle claim about this verse was read.
 
 ### Questions readers ask next
 **What does *khāshiʿa* mean?** Still, lowered, humbled. Ibn Kathir: "lifeless, with nothing growing in it". The same word is used for a humble heart.
@@ -492,8 +489,7 @@ But the verse is not a lesson in seismology, and it should not be made into one.
   - *Roots:* true, and the Airy model's "about five times" supports "several times deeper" (*Wikipedia*).
   - *"Stabilise the earth":* not in the sense of preventing earthquakes. Mountain belts such as the Himalaya are among "the most seismically hazardous regions on Earth" (USGS), because the forces that build mountains also cause quakes. The verse does not say mountains stop earthquakes.
   - *"Proves":* this site does not use the word. The fair statement: the "peg" image is apt — mountains are anchored by deep roots — and the verse's point is the earth's stability as a home, which the commentators read as habitability.
-- **The textbook claim.** The current page notes that the textbook *Earth* by Press and Siever is often said to "confirm the Quran", and that its authors made no such claim. Neither the textbook nor a source on this was read for this run.
-- **Classical cosmology.** The current page says some classical reports describe the earth as at first moving until God fixed it with mountains. No such report appeared on the Ibn Kathir pages read for 16:15 and 78:7 (see Corrections).
+- **Classical cosmology.** No such report appeared on the Ibn Kathir pages read for 16:15 and 78:7.
 
 ### Questions readers ask next
 **Do mountains really have roots?** Yes. Under isostasy, high mountains are balanced by thick roots of lighter crust; in the Airy model, about five times deeper than the mountain is tall (*Wikipedia*).
