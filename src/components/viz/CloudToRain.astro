@@ -1,0 +1,247 @@
+---
+// S17 · "Do you not see that Allah drives clouds? Then He brings them together,
+// then He makes them into a mass, and you see the rain emerge from within it"
+// (24:43). Four steps, shown in turn: driven, brought together, a mass, rain.
+// With the page's figure: a cumulus of 1 km³ holds about 0.5 g of water per m³,
+// about 500 tonnes (USGS). Steps advance on their own in view; buttons too.
+import VizFrame from '../VizFrame.astro';
+import type { Locale } from '../../i18n/ui';
+interface Props {
+  lang: Locale;
+}
+const { lang } = Astro.props;
+const L =
+  lang === 'tr'
+    ? {
+        title: 'Sürülür, birleşir, yığılır, yağar (24:43)',
+        steps: ['Bulutlar rüzgârla sürülür', 'Bir araya getirilir', 'Üst üste yığılır', 'İçinden yağmur çıkar'],
+        weight: "1 km³'lük bir küme bulutta ≈ 500 ton su (m³ başına 0,5 g, USGS)",
+        prev: 'Geri',
+        next: 'İleri',
+        text: "Ayet bulutların sürüldüğünü, bir araya getirildiğini, yığıldığını ve içinden yağmurun çıktığını söyler (24:43). Bir küme bulutunun metreküpünde yaklaşık 0,5 gram su vardır; 1 km³'lük bir bulut yaklaşık 500 ton su taşır. Bulut, nemli hava kuru havadan daha hafif olduğu için havada kalır (USGS).",
+      }
+    : {
+        title: 'Driven, brought together, piled up, rain (24:43)',
+        steps: ['Clouds are driven by the wind', 'Brought together', 'Made into a mass', 'Rain emerges from within'],
+        weight: 'A 1 km³ cumulus holds ≈ 500 tonnes of water (0.5 g per m³, USGS)',
+        prev: 'Back',
+        next: 'Next',
+        text: 'The verse says clouds are driven, brought together, made into a mass, and rain emerges from within (24:43). A cumulus cloud holds about 0.5 grams of water per cubic metre, so a cloud of 1 km³ carries about 500 tonnes of water. It floats because moist air is less dense than dry air (USGS).',
+      };
+---
+
+<VizFrame lang={lang} title={L.title} textVersion={L.text} kind="cloudrain">
+  <svg viewBox="0 0 340 220" aria-hidden="true" focusable="false" class="cr" data-step="0">
+    <path d="M0 200 C80 194 160 198 340 192 L340 220 L0 220 Z" class="cr__land" />
+    <g class="cr__wind">
+      {[50, 80, 110].map((y) => (
+        <path d={`M8 ${y} q20 -6 40 0 t40 0`} />
+      ))}
+    </g>
+    <g class="cr__a">
+      <ellipse cx="0" cy="0" rx="30" ry="14" />
+      <ellipse cx="-12" cy="-8" rx="16" ry="12" />
+      <ellipse cx="12" cy="-9" rx="17" ry="13" />
+    </g>
+    <g class="cr__b">
+      <ellipse cx="0" cy="0" rx="26" ry="12" />
+      <ellipse cx="-10" cy="-7" rx="14" ry="11" />
+      <ellipse cx="11" cy="-8" rx="14" ry="11" />
+    </g>
+    <g class="cr__tower">
+      <ellipse cx="200" cy="96" rx="52" ry="22" />
+      <ellipse cx="200" cy="70" rx="40" ry="22" />
+      <ellipse cx="204" cy="46" rx="30" ry="18" />
+    </g>
+    <g class="cr__rain">
+      {[172, 186, 200, 214, 228, 179, 207, 221].map((x, i) => (
+        <line x1={x} y1="120" x2={x - 3} y2="132" style={`--d:${(i * 0.17).toFixed(2)}s`} />
+      ))}
+    </g>
+    <text x="170" y="214" class="v-text" text-anchor="middle" data-caption>
+      {L.steps[0]}
+    </text>
+  </svg>
+  <Fragment slot="controls">
+    <p class="viz__readout">{L.weight}</p>
+    <div class="cr__controls">
+      <button type="button" class="btn" data-prev>
+        {L.prev}
+      </button>
+      <ol class="cr__dots">
+        {L.steps.map((s, i) => (
+          <li data-dot={i} title={s}>
+            {i + 1}
+          </li>
+        ))}
+      </ol>
+      <button type="button" class="btn" data-next>
+        {L.next}
+      </button>
+    </div>
+  </Fragment>
+  <script type="application/json" is:inline data-cr-steps set:html={JSON.stringify(L.steps)} />
+</VizFrame>
+
+<script>
+  for (const fig of document.querySelectorAll<HTMLElement>('[data-viz="cloudrain"]')) {
+    const svg = fig.querySelector<SVGSVGElement>('svg')!;
+    const steps: string[] = JSON.parse(fig.querySelector('[data-cr-steps]')!.textContent!);
+    const cap = fig.querySelector<SVGTextElement>('[data-caption]')!;
+    const dots = [...fig.querySelectorAll<HTMLElement>('[data-dot]')];
+    let step = 0;
+    let timer = 0;
+    const show = (n: number) => {
+      step = (n + steps.length) % steps.length;
+      svg.dataset.step = String(step);
+      cap.textContent = steps[step];
+      dots.forEach((d, i) => d.toggleAttribute('data-on', i === step));
+    };
+    const stopAuto = () => clearInterval(timer);
+    fig.querySelector('[data-prev]')!.addEventListener('click', () => (stopAuto(), show(step - 1)));
+    fig.querySelector('[data-next]')!.addEventListener('click', () => (stopAuto(), show(step + 1)));
+    show(0);
+    if (!matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      const io = new IntersectionObserver((e) => {
+        if (e.some((x) => x.isIntersecting)) {
+          io.disconnect();
+          timer = window.setInterval(() => show(step + 1), 2600);
+        }
+      });
+      io.observe(fig);
+    } else show(3);
+  }
+</script>
+
+<style>
+  .cr {
+    width: 100%;
+    max-width: 36rem;
+    display: block;
+    margin: 0 auto;
+  }
+  .cr__land {
+    fill: color-mix(in srgb, var(--life) 35%, var(--paper));
+  }
+  .cr ellipse {
+    fill: var(--paper-deep);
+    stroke: var(--hairline-strong);
+    stroke-width: 0.8;
+  }
+  .cr__wind path {
+    fill: none;
+    stroke: var(--turquoise);
+    stroke-width: 1;
+    stroke-linecap: round;
+  }
+  .cr__a,
+  .cr__b,
+  .cr__tower,
+  .cr__rain,
+  .cr__wind {
+    transition:
+      transform 1.4s var(--ease-breath),
+      opacity 1.2s var(--ease-breath);
+  }
+  /* Step 0: two small clouds far apart, wind blowing. */
+  .cr__a {
+    transform: translate(70px, 80px);
+  }
+  .cr__b {
+    transform: translate(290px, 60px);
+  }
+  .cr__tower,
+  .cr__rain {
+    opacity: 0;
+  }
+  /* Step 1: brought together. */
+  [data-step='1'] .cr__a {
+    transform: translate(180px, 96px);
+  }
+  [data-step='1'] .cr__b {
+    transform: translate(222px, 92px);
+  }
+  /* Step 2 and 3: one tall mass. */
+  [data-step='2'] .cr__a,
+  [data-step='2'] .cr__b,
+  [data-step='3'] .cr__a,
+  [data-step='3'] .cr__b {
+    transform: translate(200px, 96px);
+    opacity: 0;
+  }
+  [data-step='2'] .cr__tower,
+  [data-step='3'] .cr__tower {
+    opacity: 1;
+  }
+  [data-step='2'] .cr__wind,
+  [data-step='3'] .cr__wind {
+    opacity: 0.3;
+  }
+  [data-step='3'] .cr__tower ellipse {
+    fill: color-mix(in srgb, var(--ink-soft) 30%, var(--paper-deep));
+  }
+  [data-step='3'] .cr__rain {
+    opacity: 1;
+  }
+  .cr__rain line {
+    stroke: var(--water);
+    stroke-width: 1.6;
+    stroke-linecap: round;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    [data-step='3'] .cr__rain line {
+      animation: cr-fall 1.2s var(--d) linear infinite;
+    }
+    .cr__wind path {
+      animation: cr-wind 3s linear infinite;
+      stroke-dasharray: 6 6;
+    }
+  }
+  @keyframes cr-fall {
+    from {
+      transform: translateY(0);
+      opacity: 1;
+    }
+    to {
+      transform: translateY(62px);
+      opacity: 0;
+    }
+  }
+  @keyframes cr-wind {
+    to {
+      stroke-dashoffset: -24;
+    }
+  }
+  .v-text {
+    font-family: var(--font-ui);
+    font-size: 10px;
+    fill: var(--ink);
+  }
+  .cr__controls {
+    display: flex;
+    align-items: center;
+    gap: var(--space-2);
+  }
+  .cr__dots {
+    display: flex;
+    gap: var(--space-1);
+    list-style: none;
+    padding: 0;
+    margin: 0 auto;
+    font-family: var(--font-ui);
+    font-size: 0.75rem;
+  }
+  .cr__dots li {
+    width: 1.6rem;
+    height: 1.6rem;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    border: 1px solid var(--hairline-strong);
+    color: var(--ink-soft);
+  }
+  .cr__dots li[data-on] {
+    border-color: var(--lamp);
+    color: var(--lamp);
+  }
+</style>

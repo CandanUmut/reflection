@@ -2,6 +2,10 @@
 // The animations made for the deepened Reflect pages, by sign. (The earlier ones,
 // such as the sundial, are listed in each sign's Turkish source file instead.)
 import OrbitDance from './OrbitDance.astro';
+import FreshRain from './FreshRain.astro';
+import GibraltarExchange from './GibraltarExchange.astro';
+import CloudToRain from './CloudToRain.astro';
+import NectarToHoney from './NectarToHoney.astro';
 import type { Locale } from '../../i18n/ui';
 interface Props {
   id: string;
@@ -10,4 +14,8 @@ interface Props {
 const { id, lang } = Astro.props;
 ---
 
+{id === 'S3' && <NectarToHoney lang={lang} />}
 {id === 'S5' && <OrbitDance lang={lang} />}
+{id === 'S6' && <FreshRain lang={lang} />}
+{id === 'S7' && <GibraltarExchange lang={lang} />}
+{id === 'S17' && <CloudToRain lang={lang} />}

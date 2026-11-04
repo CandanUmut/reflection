@@ -1,0 +1,175 @@
+---
+// S7 · "a barrier", and its honest limit: the seas do meet and mix. A cross-
+// section of the Strait of Gibraltar: lighter Atlantic water flows in on top;
+// saltier Mediterranean water (38 g/kg, 13 °C) flows out beneath it, leaves at
+// about 120 m, spills over the sill and sinks to about 1,100 m. At the boundary,
+// tides over the Camarinal Sill break into internal waves that mix the two.
+// Figures as on the page (Wikipedia, "Mediterranean outflow"). Not to scale.
+import VizFrame from '../VizFrame.astro';
+import type { Locale } from '../../i18n/ui';
+interface Props {
+  lang: Locale;
+}
+const { lang } = Astro.props;
+const L =
+  lang === 'tr'
+    ? {
+        title: "Cebelitarık'ta iki deniz: biri üstten girer, öteki alttan çıkar",
+        atl: 'Atlas Okyanusu',
+        med: 'Akdeniz',
+        inflow: 'daha hafif Atlas suyu içeri akar',
+        outflow: 'daha tuzlu Akdeniz suyu dışarı akar',
+        outflowFig: '38 g/kg, 13 °C',
+        sink: "≈ 1.100 m'ye çöker",
+        mix: 'sınırda dalgalar karışma yaratır',
+        sill: 'Camarinal eşiği',
+        scale: 'Ölçekli değildir.',
+        text: "Cebelitarık Boğazı'nda daha hafif Atlas suyu üstten Akdeniz'e girer. Daha tuzlu ve yoğun Akdeniz suyu (38 g/kg, 13 °C) alttan, yaklaşık 120 m derinlikte dışarı çıkar, eşiği aşar ve yaklaşık 1.100 m'ye çöker; akış saniyede yaklaşık bir milyon metreküptür. Gelgitler eşiğin üstünde iç dalgalar oluşturur ve sınırda iki su karışır: \"iki deniz hiç karışmaz\" sözü doğru değildir.",
+      }
+    : {
+        title: 'Two seas at Gibraltar: one flows in on top, the other out below',
+        atl: 'Atlantic',
+        med: 'Mediterranean',
+        inflow: 'lighter Atlantic water flows in',
+        outflow: 'saltier Mediterranean water flows out',
+        outflowFig: '38 g/kg, 13 °C',
+        sink: 'sinks to ≈ 1,100 m',
+        mix: 'waves at the boundary mix them',
+        sill: 'Camarinal Sill',
+        scale: 'Not to scale.',
+        text: 'At the Strait of Gibraltar, lighter Atlantic water flows into the Mediterranean on top. Saltier, denser Mediterranean water (38 g/kg, 13 °C) flows out beneath it at about 120 m depth, spills over the sill and sinks to about 1,100 m, at about a million cubic metres a second. Tides over the sill make internal waves, and at the boundary the two waters mix: "the two seas never mix" is not true.',
+      };
+const top = 'M10 66 C170 64 250 62 330 60';
+const bottom = 'M330 120 C250 118 200 116 175 128 C150 150 90 190 10 214';
+---
+
+<VizFrame lang={lang} title={L.title} textVersion={L.text} kind="gibraltar">
+  <svg viewBox="0 0 340 240" aria-hidden="true" focusable="false" class="gx">
+    <rect x="0" y="40" width="340" height="200" class="gx__sea" />
+    <path d="M0 40 L340 40" class="gx__surface" />
+    <path d="M10 92 C80 90 120 96 170 94 C220 92 280 98 340 96 L340 240 L0 240 Z" class="gx__deep" />
+    <path d="M10 92 C80 90 120 96 170 94 C220 92 280 98 340 96" class="gx__boundary" />
+    <path d="M120 240 L150 160 C160 140 190 140 200 150 L240 240 Z" class="gx__sill" />
+    <path d={top} class="gx__flow" id="gx-top" />
+    <path d={bottom} class="gx__flow gx__flow--out" id="gx-bottom" />
+    {[0, 1, 2, 3, 4, 5].map((i) => (
+      <circle r="2.6" class="gx__p gx__p--in" data-path="gx-top" data-i={i} />
+    ))}
+    {[0, 1, 2, 3, 4, 5, 6].map((i) => (
+      <circle r="2.8" class="gx__p gx__p--out" data-path="gx-bottom" data-i={i} />
+    ))}
+    <g class="gx__eddies">
+      {[110, 150, 190, 230].map((x) => (
+        <path d={`M${x} 93 q6 -8 12 0 q-6 8 -12 0`} />
+      ))}
+    </g>
+    <text x="16" y="32" class="v-text">
+      ← {L.atl}
+    </text>
+    <text x="324" y="32" class="v-text" text-anchor="end">
+      {L.med} →
+    </text>
+    <text x="110" y="56" class="v-text v-text--soft" text-anchor="middle">
+      {L.inflow} →
+    </text>
+    <text x="330" y="112" class="v-text v-text--soft" text-anchor="end">
+      ← {L.outflow}
+    </text>
+    <text x="330" y="122" class="v-text v-text--soft" text-anchor="end">
+      {L.outflowFig}
+    </text>
+    <text x="170" y="84" class="v-text v-text--soft" text-anchor="middle">
+      {L.mix}
+    </text>
+    <text x="40" y="206" class="v-text v-text--soft">
+      ↓ {L.sink}
+    </text>
+    <text x="180" y="230" class="v-text v-text--soft" text-anchor="middle">
+      {L.sill}
+    </text>
+    <text x="330" y="216" class="v-text v-text--soft" text-anchor="end">
+      {L.scale}
+    </text>
+  </svg>
+</VizFrame>
+
+<script>
+  // Particles travel along the two flows; with reduced motion they stay spread out.
+  const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+  for (const svg of document.querySelectorAll<SVGSVGElement>('[data-viz="gibraltar"] svg')) {
+    const dots = [...svg.querySelectorAll<SVGCircleElement>('[data-path]')];
+    const paths = new Map(dots.map((d) => [d.dataset.path!, svg.querySelector<SVGPathElement>(`#${d.dataset.path}`)!]));
+    const place = (time: number) => {
+      for (const d of dots) {
+        const p = paths.get(d.dataset.path!)!;
+        const n = d.dataset.path === 'gx-top' ? 6 : 7;
+        const speed = d.dataset.path === 'gx-top' ? 0.07 : 0.05;
+        const f = (Number(d.dataset.i) / n + time * speed) % 1;
+        const pt = p.getPointAtLength(f * p.getTotalLength());
+        d.setAttribute('cx', pt.x.toFixed(1));
+        d.setAttribute('cy', pt.y.toFixed(1));
+      }
+    };
+    place(0);
+    if (!reduce) {
+      let visible = false;
+      new IntersectionObserver((e) => (visible = e.some((x) => x.isIntersecting))).observe(svg);
+      const loop = (now: number) => {
+        if (visible) place(now / 1000);
+        requestAnimationFrame(loop);
+      };
+      requestAnimationFrame(loop);
+    }
+  }
+</script>
+
+<style>
+  .gx {
+    width: 100%;
+    max-width: 36rem;
+    display: block;
+    margin: 0 auto;
+  }
+  .gx__sea {
+    fill: color-mix(in srgb, var(--water) 22%, var(--paper));
+  }
+  .gx__deep {
+    fill: color-mix(in srgb, var(--water) 45%, var(--paper));
+  }
+  .gx__surface {
+    stroke: var(--water);
+    stroke-width: 1;
+  }
+  .gx__boundary {
+    fill: none;
+    stroke: var(--turquoise);
+    stroke-width: 1;
+    stroke-dasharray: 3 3;
+  }
+  .gx__sill {
+    fill: color-mix(in srgb, var(--clay) 30%, var(--paper-deep));
+  }
+  .gx__flow {
+    fill: none;
+    stroke: none;
+  }
+  .gx__p--in {
+    fill: var(--turquoise);
+  }
+  .gx__p--out {
+    fill: var(--cobalt);
+  }
+  .gx__eddies path {
+    fill: none;
+    stroke: var(--turquoise);
+    stroke-width: 0.9;
+  }
+  .v-text {
+    font-family: var(--font-ui);
+    font-size: 8.5px;
+    fill: var(--ink);
+  }
+  .v-text--soft {
+    fill: var(--ink-soft);
+  }
+</style>
