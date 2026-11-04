@@ -22,7 +22,7 @@
 
 **Al-Jalālayn on 24:43.** God "piles them up some on top of others"; "The brilliance of its lightning its flashing would almost take away the eyes that look at it".
 
-**Ibn Kathir on 15:22.** He gives two readings of "fertilizing". Ibn Masʿud: "The wind is sent bearing water from the sky, then it fertilizes the clouds until rain begins to generously fall". And: "Allah sends the fertilizing wind which pollinates the trees."
+**Ibn Kathir on 15:22.** He gives two readings of "fertilizing". Ibn Masʿud: "The wind is sent bearing water from the sky, then it fertilizes the clouds until rain begins to generously fall". He then quotes ʿUbayd bin ʿUmayr al-Laythi: "Allah sends the fertilizing wind which pollinates the trees." His own gloss joins both: "fertilizing the clouds so that they give rain, and fertilizing the trees so that they open their leaves and blossoms."
 
 **Al-Jalālayn on 15:22.** "And We send the winds as fertilisers to fertilise the clouds".
 
@@ -30,26 +30,26 @@
 
 ### How it works
 Each point is tied to "brings them together… a mass… rain… hail".
-- **How heavy a cloud is.** [Established] USGS estimates the water in a cumulus cloud at "about 0.5 gram per cubic meter". A cloud of 1 km³ — "1 billion cubic meters" — therefore holds about "500,000 kilograms or 1.1 million pounds (about 551 tons)".
+- **How heavy a cloud is.** [Established] USGS, citing one published estimate, gives the water in a cumulus cloud as "about 0.5 gram per cubic meter". A cloud of 1 km³ — "1 billion cubic meters" — therefore holds about "500,000 kilograms or 1.1 million pounds (about 551 tons)" (US short tons; about 500 metric tonnes).
 - **Why it stays up.** [Established] "clouds float on air because the moist air in clouds is less dense than dry air" (USGS).
 - **Piling up, rain and hail.** [Established] When clouds merge and grow upward into towering storm clouds, strong rising air carries droplets high enough to freeze; hailstones grow as they are carried up and down. (Standard meteorology; no named source on hail formation was read for this run — see Gaps.)
 - **Wind and pollination.** [Established] Many plants, including grasses and cereals, are pollinated by wind. (No named source on wind pollination was read for this run.)
 
 ### Points of awe
-- A small cumulus cloud of 1 km³ holds about 500 tonnes of water, held up because moist air is lighter than dry air (USGS).
-- The commentators read "fertilizing winds" both as winds that load the clouds with rain and as winds that pollinate trees (Ibn Kathir).
+- In USGS's worked example, a cumulus cloud of 1 km³ holds about 500 tonnes of water, and clouds float because "the moist air in clouds is less dense than dry air" (USGS).
+- Ibn Kathir reads "fertilizing winds" both as winds that load the clouds with rain (with Ibn Masʿud) and as winds that make trees blossom (with ʿUbayd bin ʿUmayr).
 
 ### The reflection
 "Do you not see that Allah drives clouds?" (24:43). The verse is a question. It asks us to look up and watch, as if for the first time, something we see every week. Thin clouds drift; they gather; they pile into a dark mass; and then rain comes "from within it".
 
 Ibn Kathir notices how the verse begins: with clouds "still weak". A storm starts as almost nothing. Then come the lightning flashes that "almost take away" the sight of anyone who stares at them. The commentators did not need a weather satellite to feel the power in this.
 
-15:22 adds a line that should stop us: "And you are not its retainers." We do not store the rain. We cannot keep it in the sky, or call it down when we want. Half a million kilograms of water float above us in a single small cloud, and none of it is ours to command.
+15:22 adds a line that should stop us: "And you are not its retainers." We do not store the rain. We cannot keep it in the sky, or call it down when we want. In USGS's example, half a million kilograms of water float above us in one cloud, and none of it is ours to command.
 
 The winds that carry it are called "fertilizing": they load the clouds and carry pollen to the trees. One movement of air feeds both sky and field. The verse turns weather into a lesson in dependence, and invites the response the Quran asks for elsewhere: gratitude for water we did not make.
 
 ### Honest notes
-- **No meteorology claimed.** The verses describe what anyone can watch. They do not "predict the cumulonimbus water cycle", and the commentators did not read them that way.
+- **No meteorology claimed.** The verses describe what anyone can watch. They do not predict the stages of a thunderstorm cloud, and the commentators did not read them that way.
 - **Estimates.** The 500-tonne figure is USGS's example for a 1 km³ cumulus at 0.5 g/m³; real clouds vary.
 - **"Fertilizing winds."** Ibn Kathir already gives the pollination reading, so it is not a modern addition.
 - **The popular claim.** No named source making a scientific-miracle claim about these verses was read for this run.
@@ -57,9 +57,9 @@ The winds that carry it are called "fertilizing": they load the clouds and carry
 ### Questions readers ask next
 **What are the "mountains" of hail?** Ibn Kathir gives two views: literal "mountains of hail in the sky", or a metaphor for towering clouds.
 
-**What does "fertilizing winds" mean?** Winds that load the clouds with rain (Ibn Masʿud, via Ibn Kathir) and that pollinate trees (Ibn Kathir).
+**What does "fertilizing winds" mean?** Winds that load the clouds with rain (Ibn Masʿud, via Ibn Kathir) and that make trees blossom (ʿUbayd bin ʿUmayr, via Ibn Kathir; Ibn Kathir's own gloss holds both).
 
-**How can a cloud weigh 500 tonnes and still float?** Because the water is spread out as tiny droplets in moist air that is less dense than the dry air around it (USGS).
+**How can a cloud weigh 500 tonnes and still float?** USGS's answer: "the moist air in clouds is less dense than dry air." (Why the droplets stay up in more detail was not covered by the source read.)
 
 **What does "you are not its retainers" mean?** That people do not store or control the rain; it is given.
 
@@ -77,14 +77,14 @@ The winds that carry it are called "fertilizing": they load the clouds and carry
 ### Verse note
 "And he presents for Us an example and forgets his [own] creation. He says, 'Who will give life to bones while they are disintegrated?' Say, 'He will give them life who produced them the first time; and He is, of all creation, Knowing.' [It is] He who made for you from the green tree, fire, and then from it you ignite" (36:78–80), Meccan, near the end of Sura Yā Sīn.
 
-"And have you seen the fire that you ignite? Is it you who produced its tree, or are We the producer?" (56:71–72), Meccan, the last of four questions in Sura al-Wāqiʿa about what sustains us (seed, water, fire).
+"And have you seen the fire that you ignite? Is it you who produced its tree, or are We the producer?" (56:71–72), Meccan, the last of four questions in Sura al-Wāqiʿa: about the sperm-drop we emit (56:58), the crops (56:63), the water (56:68) and the fire (56:71) — the first about our own creation, the rest about what sustains us.
 
 - **Key words.** *Al-shajar al-akhḍar*: "the green tree". *Tūqidūn*: "you ignite".
 
 ### Classical tafsir
 **Ibn Kathir on 36:78–80.** The verses answer a denier of resurrection: Mujahid, ʿIkrima and others name Ubayy ibn Khalaf, who came "with a dry bone in his hand"; Ibn ʿAbbas names al-ʿAs ibn Waʾil, who "crumbled it in his hand" (as read for run 11). On 36:80 Ibn Kathir explains God as "the One Who initiated the creation of this tree from water, when it has become green and beautiful", and quotes Qatada: "the One Who brought forth this fire from this tree is able to resurrect him."
 
-**Ibn Kathir on 56:71–73.** "The Arabs had two kinds of trees called Al-Markh and Al-'Afar ( that they used to ignite a fire )." The fire is also "a reminder" — "of the Hellfire, according to Mujahid and Qatadah" — and a provision for "Al-Muqwin", which he explains as "travelers".
+**Ibn Kathir on 56:71–73.** "The Arabs had two kinds of trees called Al-Markh and Al-'Afar ( that they used to ignite a fire )." The fire is also "a reminder" — "of the Hellfire, according to Mujahid and Qatadah" — and a provision for "Al-Muqwin"; he reports that Ibn ʿAbbas, Mujahid, Qatada, al-Dahhak and al-Nadr bin ʿArabi took it to mean "travelers", and that Ibn Jarir (al-Tabari) chose that meaning.
 
 **Al-Jalālayn on 56:71.** "Have you considered the fire that you kindle? the fire which you produce out of the oil of green trees?"
 
@@ -93,7 +93,7 @@ The winds that carry it are called "fertilizing": they load the clouds and carry
 ### How it works
 Each point is tied to "from the green tree, fire".
 - **Stored sunlight.** [Established] Plants use sunlight to build sugars and cellulose from carbon dioxide and water (photosynthesis). Burning wood reverses this: the stored carbon combines with oxygen and releases the energy as heat and light. (Standard biology and chemistry; no named source was read for this run.)
-- **Friction fire.** [Established] Rubbing two pieces of wood together heats the fibres until they smoulder — the method Ibn Kathir describes with *markh* and *ʿafār* sticks.
+- **Friction fire.** [Established] Rubbing two pieces of wood together heats the fibres until they smoulder (The link to Ibn Kathir's *markh* and *ʿafār* is in Classical tafsir and The reflection.)
 
 ### Points of awe
 - A flame from wood releases energy a living tree captured from sunlight (standard science).
@@ -182,7 +182,7 @@ The question the verse leaves with us is about our own strength, whatever form i
 
 ### Sources read
 - Saheeh International, via `src/data/quran.json` — 27:18–19.
-- Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 27:18–19, https://surahquran.com/tafsir-english-aya-18-sora-27.html.
+- Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 27:18 (the page's al-Jalālayn covers 27:18 only), https://surahquran.com/tafsir-english-aya-18-sora-27.html.
 - Arabic Ibn Kathir and al-Tabari on 27:18, via quranislam.github.io, https://quranislam.github.io/tafsir/sura27-aya18.html.
 - "Alarm Communication", AntWiki (excerpting Hölldobler & Wilson, *The Ants*), https://antwiki.org/wiki/Alarm_Communication.
 - Sasaki, Hölldobler, Millar & Pratt, "A context-dependent alarm signal in the ant *Temnothorax rugatulus*", *Journal of Experimental Biology* 217:3229–3236 (2014) — citation only (the abstract was not on the page read), https://pratt.lab.asu.edu/node/68.
@@ -196,26 +196,26 @@ The question the verse leaves with us is about our own strength, whatever form i
 - **Key words.** *Namla*: an ant (grammatically feminine). *Wa-hum lā yashʿurūn*: "while they perceive not".
 
 ### Classical tafsir
-**Ibn Kathir.** "Sulayman, peace be upon him, understood what the ant said." He "smiled, amused at her speech", and prayed: "My Lord! Grant me the power and ability that I may be grateful for Your favors." In the Arabic, he cites, through Ibn ʿAsakir and al-Hasan, that the ant's name was "حرس" (Ḥaras), and that she was from a tribe called Banū al-Shayṣān (quranislam.github.io). These details rest on reports whose grades were not given.
+**Ibn Kathir.** "Sulayman, peace be upon him, understood what the ant said." His section then prints the verse in its translator's wording — "smiled, amused at her speech"; "My Lord! Grant me the power and ability that I may be grateful for Your favors" — which is the verse, not his comment. In the Arabic, he cites, through Ibn ʿAsakir and al-Hasan, that the ant's name was "حرس" (Ḥaras), and that she was from a tribe called Banū al-Shayṣān (quranislam.github.io). These details rest on reports whose grades were not given.
 
 **Al-Jalālayn.** The valley was "located either in Tā'if or in Syria and whose ants are either small or large"; the speaker was "the queen ant who had seen Solomon's hosts".
 
 **Al-Tabari.** On "while they perceive not": "وهم لا يعلمون أنهم يحطمونكم" — "they do not know that they are crushing you" (Arabic text, quranislam.github.io).
 
-**Is the talking ant meant literally?** All three commentaries read here treat the ant's words as real speech that God let Solomon (pbuh) understand, as a gift to a prophet; none reads it as allegory. Al-Qurtubi and al-Razi, whom readers asked about, were not available for this run (see Gaps).
+**Is the talking ant meant literally?** Ibn Kathir treats the ant's words as real speech that God let Solomon (pbuh) understand: "Allah enabled Sulayman to understand what the birds said", among "the blessings that Allah bestowed upon him". Al-Jalālayn's section (on 27:18 only) does not discuss Solomon's hearing, but adds a grammar note: "the ants are likened to rational beings in their use of the latter's speech." Al-Tabari's Arabic section explains the words and does not address whether the speech was real. None of the three reads it as allegory. Al-Qurtubi and al-Razi, whom readers asked about, were not available for this run (see Gaps).
 
 **What they did not say.** None describes how ants communicate.
 
 ### How it works
 Each point is tied to "enter your dwellings" and "while they perceive not".
-- **Alarm by chemistry.** [Established] Ant alarm signals "typically consist of two or more pheromones", which often alert, attract and provoke aggression at once. Substances used include formic acid, citronellal, dendrolasin and undecane (AntWiki, from Hölldobler & Wilson).
-- **How far a warning reaches.** [Established] In the ant *Lasius claviger*, releasing the full contents of one gland (about 2.5 µg of undecane) gives a signal reaching "a maximum of about 20 cm in still air"; unless reinforced, it "dies out within a few minutes" (AntWiki).
-- **Two kinds of alarm.** [Established] "In aggressive alarm some of the colony members… are drawn toward the threatening stimulus"; "In panic alarm the colony as a whole flees from the stimulus" (AntWiki). The ant in the verse calls for the second: retreat into the nest.
+- **Alarm by chemistry.** [Established] Ant alarm signals "typically consist of two or more pheromones", which often alert, attract and provoke aggression at once. AntWiki's list of "alarm-defense substances" includes citronellal, dendrolasin, dimethyl sulfate and undecane; formic acid, used by some formicine ants, it calls "probably purely defensive" (AntWiki, from Hölldobler & Wilson).
+- **How far a warning reaches.** [Established] In the ant *Lasius claviger*, the alarm comes from the Dufour's gland (discharged with the mandibular gland). For the full contents (about 2.5 µg of undecane), "the diffusion model of Bossert and Wilson (1963) predicts" a signal reaching "a maximum of about 20 cm in still air" — a model prediction, not a measurement. In behaviour, the system "seems designed to bring workers to the aid of a distressed nestmate over distances of up to 10 cm"; ants a few millimetres away react within seconds, those a few centimetres away take a minute or longer. Unless reinforced, the signal "dies out within a few minutes" (AntWiki).
+- **Two kinds of alarm.** [Established] "In aggressive alarm some of the colony members… are drawn toward the threatening stimulus"; "In panic alarm the colony as a whole flees from the stimulus" (AntWiki).
 - **Sound too.** [Established] Some ants add stridulatory chirps, which "enhance attraction" (AntWiki).
 - **Context matters.** Sasaki, Hölldobler, Millar and Pratt (2014) studied "a context-dependent alarm signal" in *Temnothorax rugatulus* (title; the findings were not read for this run).
 
 ### Points of awe
-- A single ant's alarm signal can reach about 20 cm and fade within minutes unless others reinforce it (AntWiki).
+- A single ant's alarm is built to reach nestmates up to about 10 cm away (a diffusion model predicts at most about 20 cm), and fades within minutes unless others reinforce it (AntWiki).
 - Ant colonies have two alarm responses: attack, or the whole colony fleeing (AntWiki).
 
 ### The reflection
@@ -228,10 +228,10 @@ Then the prophet hears her. Solomon (pbuh) had armies of men, jinn and birds (27
 Real ants do raise the alarm, with chemicals and sometimes with sound, and a whole colony can flee into its nest. The verse does not describe pheromones. It describes a small creature's care for its people, and a great man's humility before it.
 
 ### Honest notes
-- **A prophet's miracle, not entomology.** The verse tells of Solomon (pbuh) understanding an ant. It does not describe pheromones.
+- **A gift to a prophet, not entomology.** The verse tells of Solomon (pbuh) understanding an ant. It does not describe pheromones.
 - **The feminine verb.** Some articles say the feminine form proves "the Quran knew worker ants are female". *Namla* is grammatically feminine in any case, so the grammar does not settle biology (the current page's note; no named source for the claim was read for this run).
 - **The skeptic's question.** Readers ask whether the story of Solomon and the ant appears in later Jewish tradition, suggesting borrowing. No source on Jewish versions of the story was read for this run (see Gaps), so this page makes no claim either way.
-- **The ant's name.** "Ḥaras" comes from a report via Ibn ʿAsakir, whose grade was not given; it should not be presented as fact.
+- **The ant's name.** "Ḥaras" comes from a report Ibn Kathir cites from Ibn ʿAsakir, by way of Ishaq ibn Bishr, from Saʿid, from Qatada, from al-Hasan; the same report says she was lame and "as big as a wolf" (بقدر الذيب). Ibn Kathir adds no judgement; Ishaq ibn Bishr's standing as a narrator was not checked. It should not be presented as fact.
 
 ### Questions readers ask next
 **Did the ant really speak?** The commentators read here (Ibn Kathir, al-Jalālayn, al-Tabari) treat it as real speech God let Solomon (pbuh) understand.
@@ -281,7 +281,7 @@ Each point is tied to "shining light", "derived light" and "phases".
 
 ### Points of awe
 - The full Moon reflects only about 11–12% of the sunlight that reaches it (NASA NSSDC).
-- The Moon's cycle of phases is 29.53 days — the length of an Islamic month (NASA NSSDC).
+- The Moon's cycle of phases averages 29.53 days — the average length of an Islamic month, whose months run 29 or 30 days (NASA NSSDC).
 - Because the lunar year is shorter than the solar year, a Muslim who lives long enough fasts Ramadan in every season.
 
 ### The reflection
@@ -314,7 +314,7 @@ Today we know the moon gives back only a tenth of the light that falls on it. It
 - Saheeh International, via `src/data/quran.json` — 75:3–4.
 - Ibn Kathir, *Tafsir* (abridged English), *Tafsīr al-Jalālayn* (English) and *Tanwīr al-Miqbās* (attributed to Ibn ʿAbbas), on 75:3–4, https://surahquran.com/tafsir-english-aya-4-sora-75.html.
 - Glenn Langenburg (Minnesota Bureau of Criminal Apprehension), answer to "Are one's fingerprints similar to those of his or her parents in any discernable way?", *Scientific American* (no date shown), https://www.scientificamerican.com/article/are-ones-fingerprints-sim/.
-- "Quran Reveals About Uniqueness of Fingertips", The Last Dialogue (26 September 2019; updated 3 October 2026), https://thelastdialogue.org/article/quran-miracle-identity-in-fingertips — the popular modern claim.
+- "Quran Miracle: Identity In Fingertips" (page title; its heading reads "Quran Reveals About Uniqueness of Fingertips"), The Last Dialogue (26 September 2019; updated 3 October 2026), https://thelastdialogue.org/article/quran-miracle-identity-in-fingertips — the popular modern claim.
 
 ### In brief
 75:3–4 answers doubt about the resurrection: "Does man think that We will not assemble his bones? Yes. [We are] Able [even] to proportion his fingertips."
@@ -331,7 +331,7 @@ Today we know the moon gives back only a tenth of the light that falls on it. It
 
 **Al-Jalālayn.** "We are able in addition to assembling them to reshape even his fingers".
 
-**Where they differ.** There are two readings. One (al-Jalālayn): God can rebuild even the smallest parts, the fingers, so the whole body is easy. The other (Ibn Kathir; *Tanwīr al-Miqbās*): God could have made the fingers all equal, or joined like a hoof, so that people could not do fine work — a reminder of a favour. Neither reading mentions fingerprints.
+**What they share.** All three read the verse as God's power to rebuild. Al-Jalālayn: God can reshape even the fingers. Ibn Kathir: "This means Our power is suitable to gather ( and recreate ) them, and if We wished We could surely resurrect him with more than what he originally had"; the fingers made "all equal" is his illustration of that power. *Tanwīr al-Miqbās* uses the hoof image the same way: if God can do that to the hand, He can restore the bones. None of them speaks of fine work, or of fingerprints.
 
 ### How it works
 Each point is tied to *banān*, "fingertips".
@@ -345,7 +345,7 @@ Each point is tied to *banān*, "fingertips".
 ### The reflection
 The doubter's question is old: when bones have scattered, who can put them back? The verse answers with the smallest part of the hand: "Yes. [We are] Able [even] to proportion his fingertips" (75:4). If God can shape the tips of the fingers, the rest is not hard.
 
-Ibn Kathir hears another note: God could have made the fingers "all equal", or, in the reading attributed to Ibn ʿAbbas, joined like a hoof. Then we could not write, sew, plant or pray with open hands. The ordinary dexterity of our fingers is a gift we never think about.
+Ibn Kathir and the commentary attributed to Ibn ʿAbbas press the point with an image: God could have made the fingers "all equal", or joined like a hoof. For them this shows the power that can rebuild. A reader today may add a thought of their own, labelled as such: fingers that are not all equal are what let us write, sew, plant and pray with open hands — an everyday gift we rarely notice.
 
 Today we can add a third layer, as reflection: the skin of the fingertips carries a pattern set in the womb, between the tenth and fifteenth weeks, that no one else shares — not even an identical twin. The verse does not speak of prints. But a reader who looks at their own fingertip can feel the force of the question: the One who made this, so finely, can He not make it again?
 
@@ -353,13 +353,13 @@ The sura's name is "The Resurrection". Its first argument is placed in our hands
 
 ### Honest notes
 - **The popular claim.** A widely shared article says: "Look what Quran says almost 1400 years ago in Surah Qiyamah verses 3-4", concluding that "people's identities are coded at their fingertips", and that "It is only in the late 19th century that fingerprinting became the scientific method of identification" (The Last Dialogue).
-- **Weighing it.** The verse mentions fingertips (*banān*), not prints, and none of the three commentaries read here reads it as being about fingerprints; they read it as power to rebuild, or as the favour of fingers that are not all equal. The fingerprint reading is a modern reflection, and should be labelled as one.
+- **Weighing it.** The verse mentions fingertips (*banān*), not prints, and none of the three commentaries read here reads it as being about fingerprints; they read it as power to rebuild. The fingerprint reading is a modern reflection, and should be labelled as one.
 - **Uniqueness.** Fingerprint uniqueness is a very strong practical rule; the source read did not address whether it has been formally proven.
 
 ### Questions readers ask next
-**Did the Quran reveal fingerprints?** No. The verse speaks of fingertips; the classical readings are about rebuilding the body or about the fingers' shape. Fingerprints are a modern reflection.
+**Did the Quran reveal fingerprints?** No. The verse speaks of fingertips; the classical readings are about God's power to rebuild the body, down to the fingers. Fingerprints are a modern reflection.
 
-**What did classical scholars think the verse meant?** Two readings: God can rebuild even the fingers (al-Jalālayn), or could have made them all equal or hoof-like (Ibn Kathir; *Tanwīr al-Miqbās*).
+**What did classical scholars think the verse meant?** That God can rebuild even the fingers (al-Jalālayn, Ibn Kathir, *Tanwīr al-Miqbās*); Ibn Kathir and *Tanwīr* illustrate the power with fingers made "all equal" or hoof-like.
 
 **When do fingerprints form?** Between about weeks 10 and 15 of pregnancy (Langenburg).
 
@@ -395,8 +395,8 @@ Each point is tied to *mūsiʿūn*.
 - **How fast.** [Established, with an open problem] The expansion rate, the Hubble constant, comes out at 67–68 km/s per megaparsec from the early universe (the Planck mission's measurements of the cosmic microwave background) but 73–74 from the nearby universe (Hubble Space Telescope and Gaia). This disagreement is the "Hubble tension" (Harper). A megaparsec is almost 3.3 million light-years.
 
 ### Points of awe
-- The galaxies are moving apart because space itself is expanding (Harper).
-- Two careful ways of measuring the expansion disagree by about 9%, and no one yet knows why (Harper).
+- Hubble found that "the Universe is expanding in all directions" (Harper).
+- Two careful ways of measuring the expansion disagree by about 8–10% (computed here from Harper's ranges, 67–68 and 73–74), and "We can't explain this with our best theoretical models" (Harper).
 
 ### The reflection
 "And the heaven We constructed with strength" (51:47). The verse begins with power. The sky, so vast and high, was built — and built with strength. Then: "and indeed, We are [its] expander".
@@ -439,7 +439,7 @@ But the verse's own direction is clear: it points to the One who built, and who 
 - **Key words.** *Dukhān*: smoke. *Ratq*: joined, sewn together. *Fatq*: split apart.
 
 ### Classical tafsir
-**Ibn Kathir on 41:11.** The smoke was "steam which arose from it when the earth was created". On the order of creation: "Allah says that He created the earth first, because it is the foundation." Reconciling this with 79:27–30 (where the earth's spreading comes after the heaven), he reports Ibn ʿAbbas: the spreading out of the earth came after the heavens, but "the earth itself was created before the heavens according to some texts".
+**Ibn Kathir on 41:11.** The smoke was "steam which arose from it when the earth was created". On the order of creation: "Allah says that He created the earth first, because it is the foundation." Reconciling this with 79:27–30 (where the earth's spreading comes after the heaven), Ibn Kathir himself says "the earth itself was created before the heavens according to some texts", and then reports Ibn ʿAbbas: "Allah created the earth in two days, then He created the heavens… Then He spread the earth."
 
 **Al-Jalālayn on 41:11.** "Then He turned to the heaven when it was smoke consisting of rising vapours"; heaven and earth answer, "We come together with all those inhabiting us willingly!"
 
@@ -542,18 +542,18 @@ Today we can add, as reflection, protections the first listeners could not see: 
 - **S17** — "Cloud droplets do fall, but slowly (about 1 cm per second for a 20-micrometre droplet)"; "A mature thunderstorm can hold hundreds of thousands of tonnes of water"; "Most of the world's staple grains depend on wind for pollination" — not in the sources read. — Cite or remove.
 - **S18** — "Al-Qurtubi gives the same account." — unsourced as worded. — Add al-Jalālayn on 56:71 ("the oil of green trees"), or cite al-Qurtubi with work and page.
 - **S19** — "*Anzalna*… is the same verb used for livestock (39:6) and clothing (7:26), so classical scholars often read it as 'We created and granted'" — "classical scholars" names no one, and 39:6 and 7:26 were not checked in verified text. — Cite al-Jalālayn ("We caused it to be extracted from mineral ores") and the two verses.
-- **S19** — "About 92% of natural iron is iron-56." — *Wikipedia* gives "about 91.754%". — Use the precise figure with the source.
-- **S19** — "Much of the iron is first made as radioactive nickel-56…" in "a supernova" — the *Wikipedia* "Iron-56" page read describes nickel-56 decaying to iron in massive stars and their ejected shells, without the word "supernova". — Cite a source that names supernovae, or follow *Wikipedia*'s wording.
+- **S19** — "About 92% of natural iron is iron-56." — *Wikipedia* gives 91.754%, so 92% is a fair rounding. — Optional: give the precise figure with the source.
+- **S19** — "Much of the iron is first made as radioactive nickel-56…" in "a supernova" — the *Wikipedia* "Iron-56" page read describes nickel-56 decaying to iron in massive stars and their ejected shells, without the word "supernova" ("56Fe is produced later in the star's ejection shell as 56Ni decays"). The current page also lists Hopp et al., "Earth's iron isotopes of supernova origin" (EPSL), which was not read. — Check that paper before changing the wording, or follow *Wikipedia*'s.
 - **S20** — "al-Qurtubi and al-Razi likewise treat the ant's speech as real communication" — not read for this run. — Quote them with work and page, or name only Ibn Kathir, al-Jalālayn and al-Tabari.
 - **S20** — "In a classic study, ants within roughly 5–19 cm were alerted within 30 seconds of alarm pheromone being released." — "a classic study" is unnamed. — Name it (species, authors, journal), or use the AntWiki *Lasius claviger* figures (up to about 20 cm; fades "within a few minutes").
 - **S20** — "In a 2025 *Cell* study, Rockefeller University researchers imaged ant brains…" — the source is a news report (Courthouse News); the paper was not read. — Cite the paper's authors and title.
 - **S21** — "Al-Razi and al-Zamakhshari discuss *diya'* as light with heat and strength, and *nur* as calmer light." — not read for this run. — Cite with work and page, or use Ibn Kathir's "two different natures" and al-Jalālayn.
 - **S21** — "only about 12% of what hits it" — supported (NASA NSSDC: geometric albedo 0.12; Bond albedo 0.11). — Cite the NASA fact sheet.
 - **S21** — "Sunlight takes about 8 minutes 20 seconds to reach Earth"; "Every second, the Sun turns about 4 million tonnes of its mass into energy" — not in the sources read. — Cite NASA's Sun fact sheet.
-- **S22** — "This is the most common reading (al-Tabari, Ibn Kathir, al-Qurtubi)" — Ibn Kathir's own reading on the page read is "We could make his Banan… all equal ( in length )", not the rebuilding reading; al-Tabari and al-Qurtubi were not read. — Attribute the rebuilding reading to al-Jalālayn, and the "all equal" reading to Ibn Kathir.
-- **S22** — "A second reading, reported from Ibn 'Abbas: 'We could have made his fingers flat and joined, like a camel's hoof'" — the source is *Tanwīr al-Miqbās*, a commentary attributed to Ibn ʿAbbas, whose wording is "his palm becomes like the hoof of a camel or beasts". — Quote it and name the work.
+- **S22** — "This is the most common reading (al-Tabari, Ibn Kathir, al-Qurtubi)" — Ibn Kathir does give the rebuilding reading ("Our power is suitable to gather ( and recreate ) them"), so keep him; al-Tabari and al-Qurtubi were not read. — Drop al-Tabari and al-Qurtubi, or read them first.
+- **S22** — "A second reading, reported from Ibn 'Abbas: 'We could have made his fingers flat and joined, like a camel's hoof'" — the source is *Tanwīr al-Miqbās*, a commentary attributed to Ibn ʿAbbas, whose wording is "his palm becomes like the hoof of a camel or beasts"; it uses the image to show the power to restore the bones, and says nothing about fine work. — Quote it, name the work, and remove "so he could not do fine work".
 - **S22** — "Loops make up about 60% of fingerprints, whorls about 35%, arches about 5%." — not in the *Scientific American* page read. — Cite a source.
-- **S23** — "*Musi'un* was read in several ways: 'We are able, with vast capacity' (reported by al-Tabari); 'We widen provision for creatures'" — al-Tabari was not read for this run. — Cite volume and page.
+- **S23** — "*Musi'un* was read in several ways: 'We are able, with vast capacity' (reported by al-Tabari); 'We widen provision for creatures'" — al-Tabari was not read for this run, but the 51:47 page read supports both readings: al-Jalālayn ("he has become capable… and strong") and *Tanwīr al-Miqbās* ("it is also said that this means: we expand the provision thereof"). — Cite these instead of al-Tabari.
 - **S23** — "The expansion rate (the Hubble constant) is about 67–73 km/s per megaparsec… about 67 from the early universe, about 73 from nearby stars" — supported (*Sky at Night*, 2024: 67–68 and 73–74). — Cite it.
 - **S24** — "reports from Ibn Mas'ud and others, cited by al-Tabari, describe it as vapour rising from water" — not on the Ibn Kathir page read, which says the steam "arose from it [the earth]". — Cite al-Tabari or correct.
 - **S24** — "The Sun holds about 99.8% of the solar system's mass" — not in the *Wikipedia* article read. — Cite NASA.
@@ -569,4 +569,6 @@ Today we can add, as reflection, protections the first listeners could not see: 
 - **S22:** al-Tabari and al-Qurtubi on 75:4; fingerprint-pattern frequencies.
 - **S23:** al-Tabari on 51:47; a source on Lemaître (1927).
 - **S24:** al-Tabari on 41:11; a source on early-universe cosmology; 79:27–30 in verified text.
-- **S25:** NASA sources on meteors, the magnetosphere and Mars's atmosphere; Ibn Kathir's full comment on "turning away".
+- **S25:** NASA sources on meteors, the magnetosphere and Mars's atmosphere; (Ibn Kathir's comment on "turning away" is on the page read: "They do not think about how Allah has created it, so vast and high, and adorned it with heavenly bodies".)
+- **All pages — general science marked [Established] with no source read for this run:** S17 hail and wind pollination; S18 photosynthesis and friction fire; S19 heavier elements made in stars, and haemoglobin; S21 the Sun's fusion and the Moon's dark surface against a black sky; S24 the early universe; S25 meteors. Each needs a source before it goes on a page.
+- **S18:** the al-ʿĀṣ ibn Wāʾil report (Ibn ʿAbbas) is in al-Hakim, *al-Mustadrak* (no. 3648 on en.tohed.com; numbering differs between editions), graded by al-Hakim "sahih by the conditions of al-Bukhari and Muslim", with al-Dhahabi agreeing (as reported by the independent source check; not read by the writer) — read it and build on it.
