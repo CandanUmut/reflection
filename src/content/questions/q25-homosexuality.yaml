@@ -70,15 +70,21 @@ sources:
     url: https://yaqeeninstitute.org/what-islam-says-about/lgbt
   - label: Naseeha Mental Health, helpline page, https://www.naseeha.org/helpline-textline.
     url: https://www.naseeha.org/helpline-textline
-  - label: Kugle (2010)
-  - label: Vaid, *AJISS* (2017)
+  - &a1
+    label: Kugle (2010)
+  - &a2
+    label: Vaid, *AJISS* (2017)
     url: https://www.researchgate.net/publication/340911894_Can_Islam_Accommodate_Homosexual_Acts_Qur'anic_Revisionism_and_the_Case_of_Scott_Kugle
-  - label: K. Ali (2016)
-  - label:
+  - &a3
+    label: K. Ali (2016)
+  - &a4
+    label:
       tr: İbn Hazm, *Tavku'l-Hamâme* (Arapça)
       en: Ibn Ḥazm, *Ṭawq al-Ḥamāma* (Ar.)
-  - label: El-Rouayheb (2005)
-  - label: Ganna et al. (2019)
+  - &a5
+    label: El-Rouayheb (2005)
+  - &a6
+    label: Ganna et al. (2019)
 fullAnswer:
   - kind: heart
     en: |-
@@ -175,3 +181,10 @@ followUps:
       en: How do gay Muslims live their faith in practice?
     a:
       en: "In many ways: some live celibate within mainstream teaching, with the support of friends and counsellors; some hold revisionist views; many are simply trying to stay close to God and safe. What helps all of them is a community that keeps their dignity and confidence."
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6

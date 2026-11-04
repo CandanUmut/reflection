@@ -66,20 +66,26 @@ sources:
   - label: Alin C. Cucu and J. Brian Pitts, "How Dualists Should (Not) Respond to the Objection from Energy Conservation", *Mind & Matter* 17:1 (2019), pp. 95–121, https://arxiv.org/pdf/1909.13643 — used for what conservation laws do and do not forbid.
     url: https://arxiv.org/pdf/1909.13643
   - label: The site's earlier research, Batch 2 and `07-ask-deep-A.md`, for background only.
-  - label:
+  - &a1
+    label:
       tr: Gazzâlî, *Tehâfüt*
       en: al-Ghazālī, *Tahāfut*
-  - label:
+  - &a2
+    label:
       tr: İbn Rüşd, *Tehâfütü't-tehâfüt*
       en: Ibn Rushd, *Tahāfut al-tahāfut*
-  - label: Griffel, SEP
-  - label:
+  - &a3
+    label: Griffel, SEP
+  - &a4
+    label:
       tr: SEP, "Vesilecilik" (Occasionalism)
       en: SEP "Occasionalism"
-  - label:
+  - &a5
+    label:
       tr: Hume, *Enquiry* §10
       en: Hume, *Enquiry* §10
-  - label:
+  - &a6
+    label:
       tr: Gazzâlî ile İbn Rüşd arasındaki tartışmada nedensellik
       en: Causality in the debate between al-Ghazālī and Ibn Rushd
     url: https://islamic-philosophy.com/causality-in-the-debate-between-al-ghazali-and-ibn-rushd/
@@ -168,3 +174,10 @@ followUps:
       en: If God works through habits, why break them?
     a:
       en: As a sign, at a moment that matters, usually to confirm a messenger — and, in the Quran, as a warning (17:59).
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6

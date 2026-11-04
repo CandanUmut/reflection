@@ -60,7 +60,7 @@ visualizations:
       Ağaca dönüşen bir tohum. Bir AWARE grafiği. Bir adalet terazisi.
     en: A seed growing into a tree. An AWARE chart. A justice scale.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 36:78–80, 38:28, 75:3–4, 17:85, 39:42; via legacy.quran.com — 23:100.
+  - label: Saheeh International — 36:78–80, 38:28, 75:3–4, 17:85, 39:42; via legacy.quran.com — 23:100.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 36:77–80, https://surahquran.com/tafsir-english-aya-78-sora-36.html, and on 38:27–28, https://surahquran.com/tafsir-english-aya-28-sora-38.html.
     url: https://surahquran.com/tafsir-english-aya-78-sora-36.html
   - label: Sahih al-Bukhari 1338 (sunnah.com), https://www.sunnah.com/bukhari:1338.
@@ -83,15 +83,20 @@ sources:
     url: https://plato.stanford.edu/entries/kant-religion/
   - label: Find A Helpline, https://findahelpline.com/.
     url: https://findahelpline.com/
-  - label: Parnia et al., *Resuscitation* 191 (2023)
-  - label: Parnia (2014)
-  - label:
+  - &a1
+    label: Parnia et al., *Resuscitation* 191 (2023)
+  - &a2
+    label: Parnia (2014)
+  - &a3
+    label:
       tr: Gazzâlî, *Tehâfüt* (Arapça)
       en: al-Ghazālī, *Tahāfut* (Ar.)
-  - label:
+  - &a4
+    label:
       tr: Nursî (Türkçe)
       en: Nursi (Tr.)
-  - label:
+  - &a5
+    label:
       tr: Mutahhari (Farsça)
       en: Muṭahharī (Per.)
 fullAnswer:
@@ -189,3 +194,9 @@ followUps:
       en: What is Kant's moral argument, in a few sentences?
     a:
       en: Morality commands us to seek a world where happiness matches goodness; that is not possible in nature alone; so we must postulate God and a future life — as a practical commitment, not a proof.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5

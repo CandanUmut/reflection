@@ -68,7 +68,7 @@ visualizations:
       - Al-Ghazali's journey as a scroll story.
       - A gallery of care-signs.
 sources:
-  - label: Saheeh International translation, via the site's verified Tanzil data (`src/data/quran.json`) — 20:50, 30:30, 87:2–3, 57:25, 2:23, 51:56, 35:15, 67:2, 17:15.
+  - label: Saheeh International translation, via the Tanzil text — 20:50, 30:30, 87:2–3, 57:25, 2:23, 51:56, 35:15, 67:2, 17:15.
   - label: W. Montgomery Watt (trans.), *The Faith and Practice of al-Ghazali* (1953), al-Ghazali's *al-Munqidh min al-Dalal*, https://www.ghazali.org/works/watt3.htm — sections I (Introduction), II (Scepticism), and the passage on prophecy before section V.
     url: https://www.ghazali.org/works/watt3.htm
   - label: Said Nursi, "Refuting False Notions About the Origin of Existence", from *The Seedbed of Light*, Sixth Treatise, Second Addendum (risaleinur.com, translator not named), https://risaleinur.com/risale-i-nur-collection/123-humanitys-encounter-with-the-divine-series/reflections-on-the-divine/3313-15-refuting-false-notions-about-the-origin-of-existence.html — the three explanations of origin he rejects. (This is a shorter version of the argument of his *Treatise on Nature*; see Gaps.)
@@ -86,14 +86,20 @@ sources:
     url: https://www.voaturkce.com/a/turkiye-dindarlik-cok-yaygin/7030870.html
   - label: Pew Research Center, "Key findings about Americans' belief in God" (25 April 2018), https://www.pewresearch.org/short-reads/2018/04/25/key-findings-about-americans-belief-in-god/ — comparison data.
     url: https://www.pewresearch.org/short-reads/2018/04/25/key-findings-about-americans-belief-in-god/
-  - label: Al-Ghazali, *al-Munqidh*
-  - label: Nursi, *Tabiat Risalesi*
-  - label: Diyanet, *Güncel İnanç Problemleri* (2018)
-  - label:
+  - &a1
+    label: Al-Ghazali, *al-Munqidh*
+  - &a2
+    label: Nursi, *Tabiat Risalesi*
+  - &a3
+    label: Diyanet, *Güncel İnanç Problemleri* (2018)
+  - &a4
+    label:
       tr: Turkish Academic Research Review — gençlik ve deizm üzerine
       en: Turkish Academic Research Review on youth deism
-  - label: Pamukkale İlahiyat Dergisi
-  - label: Stanford Encyclopedia, "Fine-Tuning"
+  - &a5
+    label: Pamukkale İlahiyat Dergisi
+  - &a6
+    label: Stanford Encyclopedia, "Fine-Tuning"
     url: https://plato.stanford.edu/entries/fine-tuning/
 fullAnswer:
   - kind: heart
@@ -173,3 +179,10 @@ followUps:
       en: What is "S9"?
     a:
       en: "It is the site's page on fine-tuning (\"Signs for reflection: fine-tuning\"). The main points are now on this page too."
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6

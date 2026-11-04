@@ -57,7 +57,7 @@ visualizations:
     tr: '"Kozmik kadranlar" ve yanında üç yönlü bir panel: tasarım, çoklu evren, geleceğin fiziği.'
     en: '"Cosmic dials", alongside a three-way panel: design, multiverse, future physics.'
 sources:
-  - label: Saheeh International, via the site's verified Tanzil data (`src/data/quran.json`) — 25:2, 54:49, 15:19.
+  - label: Saheeh International, via the Tanzil text — 25:2, 54:49, 15:19.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 54:49, https://surahquran.com/tafsir-english-aya-49-sora-54.html; the current page's Ibn Kathir quotation on 25:2 (not re-read for this run).
     url: https://surahquran.com/tafsir-english-aya-49-sora-54.html
   - label: Simon Friederich, "Fine-Tuning", *Stanford Encyclopedia of Philosophy* (first published 22 August 2017; substantively revised 26 February 2026), https://plato.stanford.edu/entries/fine-tuning/.

@@ -59,7 +59,7 @@ visualizations:
     tr: Litre litre kanı sayan bir sayaçla besinlerin yolculuğu canlandırması.
     en: A nutrient-journey animation with a counter of litres of blood.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 16:66.
+  - label: Saheeh International — 16:66.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 16:66, https://surahquran.com/tafsir-english-aya-66-sora-16.html.
     url: https://surahquran.com/tafsir-english-aya-66-sora-16.html
   - label: '"Anatomy of the Mammary Gland", Cornell University (adapted from DeLaval material) — blood volume per litre of milk; how milk components are made, as read for this run.'

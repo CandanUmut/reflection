@@ -62,18 +62,25 @@ sources:
     url: https://core.ac.uk/download/234762495.pdf
   - label: Najwa Awad, "Clinicians, Imams, and the Whisperings of Satan", Yaqeen Institute (2017/2024).
   - label: "*Scrupulosity and OCD: Information Packet for Faith Leaders* (IOCDF and others)."
-  - label:
+  - &a1
+    label:
       tr: Gazzâlî, *el-Munkız*
       en: al-Ghazālī, *al-Munqidh*
-  - label: Exline et al. (2014)
-  - label: Bockrath et al. (2022)
-  - label: Tedeschi & Calhoun (1996)
-  - label: H.H. Behr (2018)
-  - label:
+  - &a2
+    label: Exline et al. (2014)
+  - &a3
+    label: Bockrath et al. (2022)
+  - &a4
+    label: Tedeschi & Calhoun (1996)
+  - &a5
+    label: H.H. Behr (2018)
+  - &a6
+    label:
       tr: APA — manevî mücadeleler
       en: APA, spiritual struggles
     url: https://www.apa.org/topics/belief-systems-religion/spiritual-struggles
-  - label:
+  - &a7
+    label:
       tr: Templeton — manevî mücadele raporu
       en: Templeton spiritual struggle white paper
     url: https://www.templeton.org/wp-content/uploads/2021/10/Spiritual-Struggle-Whitepaper_FINAL-10.5.pdf
@@ -157,3 +164,11 @@ followUps:
       en: What if I never get my old certainty back?
     a:
       en: Many people find a different, quieter faith instead. Some do not return. Either way, honesty and kindness to yourself matter.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6
+  - *a7

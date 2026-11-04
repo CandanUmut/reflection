@@ -87,7 +87,7 @@ visualizations:
       - An alarm-wave animation: one ant releases a red "scent cloud", neighbors turn red and pass it on, larvae are carried away.
       - A story card for 27:18–19 that ends on Solomon's prayer of gratitude.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 27:18–19.
+  - label: Saheeh International — 27:18–19.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 27:18 (the page's al-Jalālayn covers 27:18 only), https://surahquran.com/tafsir-english-aya-18-sora-27.html.
     url: https://surahquran.com/tafsir-english-aya-18-sora-27.html
   - label: Arabic Ibn Kathir and al-Tabari on 27:18, via quranislam.github.io, https://quranislam.github.io/tafsir/sura27-aya18.html.

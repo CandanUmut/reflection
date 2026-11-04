@@ -81,19 +81,26 @@ sources:
     url: https://media.setav.org/tr/dosya/2023/05/afetlerle-mucadelede-inancin-yeri-kader-ve-tedbir-arasinda-mucadele-yontemleri.pdf
   - label: H. C. Mertol, G. Tunç, T. Akış, Y. Kantekin and İ. C. Aydın, "Investigation of RC Buildings after 6 February 2023, Kahramanmaraş, Türkiye Earthquakes", *Buildings* (MDPI; via the Atılım University repository; year, volume and DOI not recorded), https://dspace7.atilim.edu.tr/entities/article/b1ccde56-aa51-4f46-ac54-0b8a362dc5df — abstract.
     url: https://dspace7.atilim.edu.tr/entities/article/b1ccde56-aa51-4f46-ac54-0b8a362dc5df
-  - label:
+  - &a1
+    label:
       tr: Mehmet Görmez'in 2023 açıklamaları (Habertürk)
       en: Mehmet Görmez's 2023 statements (Habertürk)
-  - label:
+  - &a2
+    label:
       tr: Diyanet DİYK kararı, aktarıldığı şekliyle (Cumhuriyet, 2023)
       en: Diyanet DİYK ruling as reported (Cumhuriyet, 2023)
-  - label: Bukhārī 2829, 5734
-  - label: al-Suyūṭī, Kashf al-Ṣalṣala
-  - label: Said Nursi, Lem'alar
-  - label:
+  - &a3
+    label: Bukhārī 2829, 5734
+  - &a4
+    label: al-Suyūṭī, Kashf al-Ṣalṣala
+  - &a5
+    label: Said Nursi, Lem'alar
+  - &a6
+    label:
       tr: AFAD ve Kandilli raporları
       en: AFAD and Kandilli reports
-  - label:
+  - &a7
+    label:
       tr: sol — Eski Diyanet İşleri Başkanı Görmez, afetler üzerine
       en: sol — Görmez on disasters
     url: https://haber.sol.org.tr/haber/eski-diyanet-isleri-baskani-her-afeti-ilahi-ceza-olarak-goren-teolojik-anlayis-sig-ve
@@ -176,3 +183,11 @@ followUps:
       en: What do ordinary Turkish Muslims believe about the 2023 earthquake?
     a:
       en: No survey of believers' views was found in this run.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6
+  - *a7

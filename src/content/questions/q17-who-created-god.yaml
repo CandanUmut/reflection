@@ -75,7 +75,7 @@ visualizations:
       - Bir "dairenin köşeleri" kartı.
     en: A chain of lamps lit only by a self-luminous source. A sorter for impossible, contingent and necessary things. A "corners of a circle" card.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 112:1–4, 52:35.
+  - label: Saheeh International — 112:1–4, 52:35.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 52:35–36, https://surahquran.com/tafsir-english-aya-35-sora-52.html.
     url: https://surahquran.com/tafsir-english-aya-35-sora-52.html
   - label: Sahih al-Bukhari 3276 (sunnah.com), https://sunnah.com/bukhari:3276; Sahih Muslim 134a, https://sunnah.com/muslim:134a; Sahih Muslim 132a, https://sunnah.com/muslim:132a.
@@ -96,21 +96,28 @@ sources:
     url: https://survey2020.philpeople.org/survey/results/all
   - label: International OCD Foundation, "What is OCD & Scrupulosity?", https://iocdf.org/faith-ocd/what-is-ocd-scrupulosity.
     url: https://iocdf.org/faith-ocd/what-is-ocd-scrupulosity
-  - label:
+  - &a1
+    label:
       tr: İbn Sînâ, *el-İşârât* (Arapça)
       en: Ibn Sīnā, *al-Ishārāt* (Ar.)
-  - label:
+  - &a2
+    label:
       tr: Gazzâlî, *el-İktisâd* (Arapça)
       en: al-Ghazālī, *al-Iqtiṣād* (Ar.)
-  - label: P. Adamson, *Philosophy in the Islamic World* (2016)
-  - label:
+  - &a3
+    label: P. Adamson, *Philosophy in the Islamic World* (2016)
+  - &a4
+    label:
       tr: TDV, "Vâcibü'l-vücûd" (Türkçe)
       en: TDV, "Vâcibü'l-vücûd" (Tr.)
-  - label:
+  - &a5
+    label:
       tr: Tabâtabâî, *Usûl-e felsefe* (Farsça)
       en: Ṭabāṭabāʾī, *Uṣūl-e falsafe* (Per.)
-  - label: Bourget & Chalmers, *Philosophers' Imprint* (2023)
-  - label: PhilPapers Survey 2020
+  - &a6
+    label: Bourget & Chalmers, *Philosophers' Imprint* (2023)
+  - &a7
+    label: PhilPapers Survey 2020
     url: https://survey2020.philpeople.org/survey/results/all
 fullAnswer:
   - kind: heart
@@ -212,3 +219,11 @@ followUps:
       en: Is this argument specific to Islam, or the same one Christian philosophers use?
     a:
       en: 'It is shared: its best-known modern form, the "kalām cosmological argument", keeps the name of its Islamic source, and its best-known modern defender, William Lane Craig, is a Christian philosopher.'
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6
+  - *a7

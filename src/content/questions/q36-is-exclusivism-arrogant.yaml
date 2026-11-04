@@ -70,10 +70,14 @@ sources:
     url: https://www.pewresearch.org/short-reads/2020/09/10/10-key-findings-about-the-religious-lives-of-u-s-teens-and-their-parents/
   - label: W. Montgomery Watt (trans.), al-Ghazali, *al-Munqidh*, ghazali.org.
   - label: Sahih Muslim 153 (sunnah.com).
-  - label: Plantinga (1995)
-  - label: Hick (1989)
-  - label: Khalil (2012)
-  - label: Nasr (1981)
+  - &a1
+    label: Plantinga (1995)
+  - &a2
+    label: Hick (1989)
+  - &a3
+    label: Khalil (2012)
+  - &a4
+    label: Nasr (1981)
 fullAnswer:
   - kind: heart
     en: |-
@@ -139,3 +143,8 @@ followUps:
       en: How do I love friends of other faiths without feeling I betray mine?
     a:
       en: Begin with what you share (29:46), be honest about what you don't, and leave judgment to God.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4

@@ -94,7 +94,7 @@ visualizations:
     tr: 2.000 yıllık zaman çizelgesi
     en: A 2,000-year timeline
 sources:
-  - label: Saheeh International, via the site's verified Tanzil data (`src/data/quran.json`) — 6:95, 56:63–64, 41:39.
+  - label: Saheeh International, via the Tanzil text — 6:95, 56:63–64, 41:39.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 6:95, https://surahquran.com/tafsir-english-aya-95-sora-6.html.
     url: https://surahquran.com/tafsir-english-aya-95-sora-6.html
   - label: UF/IFAS (University of Florida), "Germination", https://propg.ifas.ufl.edu/04-seeds/03-germination/04-seedsgermination-germination.html — the three phases of water uptake.

@@ -72,7 +72,7 @@ visualizations:
     tr: Bir kovan kesiti ve kavanoz doldukça artan bir çiçek sayacı.
     en: A hive cross-section and a jar-filling flower counter.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 16:68–69.
+  - label: Saheeh International — 16:68–69.
   - label: Ibn Kathir, *Tafsir* (abridged English), on 16:68, https://surahquran.com/tafsir-english-aya-68-sora-16.html, and on 16:69, https://surahquran.com/tafsir-english-aya-69-sora-16.html; *Tafsīr al-Jalālayn* (English) on 16:69, same page.
     url: https://surahquran.com/tafsir-english-aya-68-sora-16.html
   - label: Susan Collins-Smith, "How honey is made", Mississippi State University Extension, https://extension.msstate.edu/blogs/extension-for-real-life/how-honey-made (no date on the page).

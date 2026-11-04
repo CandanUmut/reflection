@@ -54,7 +54,7 @@ visualizations:
       - A timeline of women hadith scholars.
       - A diagram of household rights flows.
 sources:
-  - label: Saheeh International, via the site's verified Tanzil data (`src/data/quran.json`) — 4:1, 33:35, 4:34, 4:19, 4:128, 2:187, 30:21, 2:229.
+  - label: Saheeh International, via the Tanzil text — 4:1, 33:35, 4:34, 4:19, 4:128, 2:187, 30:21, 2:229.
   - label: Saheeh International via legacy.quran.com — 16:97, 4:11, 4:12, 2:228, 4:35.
   - label: Ibn Kathir, *Tafsir* (abridged English), on 4:34, https://surahquran.com/tafsir-english-aya-34-sora-4.html.
     url: https://surahquran.com/tafsir-english-aya-34-sora-4.html
@@ -73,10 +73,14 @@ sources:
   - label: '"Hidayet Şefkatli Tuksal", *Wikipedia*.'
   - label: Peaceful Families Project, domestic violence directory, https://peacefulfamilies.org/dvdirectory.html; Muslim Women's Network Helpline (UK), https://mwnhelpline.co.uk/contactus.php.
     url: https://peacefulfamilies.org/dvdirectory.html
-  - label: Akram Nadwi, *al-Muhaddithat*
-  - label: Kecia Ali, *Sexual Ethics and Islam*
-  - label: Asma Barlas, *"Believing Women" in Islam*
-  - label: Hidayet Şefkatli Tuksal, *Kadın Karşıtı Söylemin İslam Geleneğindeki İzdüşümleri*
+  - &a1
+    label: Akram Nadwi, *al-Muhaddithat*
+  - &a2
+    label: Kecia Ali, *Sexual Ethics and Islam*
+  - &a3
+    label: Asma Barlas, *"Believing Women" in Islam*
+  - &a4
+    label: Hidayet Şefkatli Tuksal, *Kadın Karşıtı Söylemin İslam Geleneğindeki İzdüşümleri*
 fullAnswer:
   - kind: heart
     en: |-
@@ -167,3 +171,8 @@ followUps:
       en: Is it Islam, or culture?
     a:
       en: Some harms women suffer — honour violence, denial of inheritance, forced marriage — contradict the texts. Others, like the inheritance shares, are in the texts. Honest answers keep these apart.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4

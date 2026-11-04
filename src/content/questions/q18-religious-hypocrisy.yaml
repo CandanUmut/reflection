@@ -69,7 +69,7 @@ visualizations:
       Bir "ayna ve pencere" kartı. İkiyüzlülük âyetlerinden bir kaydırıcı. Mesajı, taşıyıcıyı ve kötüye kullanımı ayıran bir ayırıcı.
     en: A "mirror vs window" card. A slider of verses on hypocrisy. A sorter that separates message, messenger and misuse.
 sources:
-  - label: Saheeh International, via the site's verified Tanzil data (`src/data/quran.json`) — 2:44, 61:2–3, 4:59; via legacy.quran.com — 63:1–4.
+  - label: Saheeh International, via the Tanzil text — 2:44, 61:2–3, 4:59; via legacy.quran.com — 63:1–4.
   - label: Sahih al-Bukhari 33 (sunnah.com), https://sunnah.com/bukhari:33 — the signs of a hypocrite. (Muslim 55, "religion is sincere counsel", could not be opened; see Gaps.)
     url: https://sunnah.com/bukhari:33
   - label: Al-Ghazali, *Iḥyāʾ ʿUlūm al-Dīn*, Book of Knowledge (*Kitāb al-ʿIlm*), Section VI, tr. Nabih Amin Faris, https://www.ghazali.org/works/bk1-sec-6.htm.
@@ -89,19 +89,25 @@ sources:
   - label: "Female Scholars Network, \"Addressing Spiritual Abuse in Our Community: A Community Call In and Leadership Directives\", by \"over 100 female Islamic scholars, teachers, and daa'iyyas\" (November 2024), https://muslimmatters.org/wp-content/uploads/Female-Scholars-Against-Spiritual-Abuse.pdf."
     url: https://muslimmatters.org/wp-content/uploads/Female-Scholars-Against-Spiritual-Abuse.pdf
   - label: Youssef Chouhoud, "What Causes Muslims to Doubt Islam? A Quantitative Analysis", Yaqeen Institute (2018; updated 2024), as read for run 9.
-  - label: Chouhoud (Yaqeen 2018)
+  - &a1
+    label: Chouhoud (Yaqeen 2018)
     url: https://yaqeeninstitute.org/read/paper/what-causes-muslims-to-doubt-islam-a-quantitative-analysis
-  - label:
+  - &a2
+    label:
       tr: Diyanet Aylık Dergi, Kasım 2018 (Türkçe)
       en: Diyanet Aylık Dergi, Kasım 2018 (Tr.)
-  - label:
+  - &a3
+    label:
       tr: Gazzâlî, *İhyâ* (Arapça)
       en: al-Ghazālī, *Iḥyāʾ* (Ar.)
-  - label:
+  - &a4
+    label:
       tr: Nursî, *Mektubat* (Türkçe)
       en: Nursi, *Mektubat* (Tr.)
-  - label: Exline et al. (2014)
-  - label:
+  - &a5
+    label: Exline et al. (2014)
+  - &a6
+    label:
       tr: H.H. Behr, "Keine Angst vor Kritik" (Almanca, 2014)
       en: H.H. Behr, "Keine Angst vor Kritik" (Ger., 2014)
 fullAnswer:
@@ -191,3 +197,10 @@ followUps:
       en: Where in the *Iḥyāʾ* does al-Ghazali attack the "learned men of this world"?
     a:
       en: In the Book of Knowledge (*Kitāb al-ʿIlm*), Section VI, on the evils of knowledge and the signs of the learned men of the hereafter (tr. Faris).
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6

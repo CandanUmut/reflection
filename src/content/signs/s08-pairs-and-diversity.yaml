@@ -67,7 +67,7 @@ visualizations:
     tr: Bir dil haritası ve bir çiftler kart destesi.
     en: A language map and a pairs flip-deck.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 51:49, 30:22, 49:13, 13:3.
+  - label: Saheeh International — 51:49, 30:22, 49:13, 13:3.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 51:49, https://surahquran.com/tafsir-english-aya-49-sora-51.html, and on 30:22, https://surahquran.com/tafsir-english-aya-22-sora-30.html.
     url: https://surahquran.com/tafsir-english-aya-49-sora-51.html
   - label: Ethnologue, 27th edition (21 February 2024) — number of living languages, as read for this run.

@@ -64,7 +64,7 @@ visualizations:
     tr: Müslim 132 hadisinin canlandırması
     en: An animation of the hadith in Muslim 132
 sources:
-  - label: Saheeh International, via the site's verified Tanzil data (`src/data/quran.json`) — 2:286.
+  - label: Saheeh International, via the Tanzil text — 2:286.
   - label: Saheeh International via legacy.quran.com — 114:1–5.
   - label: Sahih Muslim 132a (sunnah.com), https://sunnah.com/muslim:132.
     url: https://sunnah.com/muslim:132
@@ -82,15 +82,20 @@ sources:
     url: https://www.turkpsikiyatri.com/PDF/C28S4/en/07.pdf
   - label: W. Montgomery Watt (trans.), al-Ghazali, *al-Munqidh min al-Dalal*, https://www.ghazali.org/works/watt3.htm.
     url: https://www.ghazali.org/works/watt3.htm
-  - label: Ṣaḥīḥ Muslim 127, 132; Ṣaḥīḥ al-Bukhārī 5269
-  - label: Yaqeen Institute — "Clinicians, Imams, and the Whisperings of Satan"
+  - &a1
+    label: Ṣaḥīḥ Muslim 127, 132; Ṣaḥīḥ al-Bukhārī 5269
+  - &a2
+    label: Yaqeen Institute — "Clinicians, Imams, and the Whisperings of Satan"
     url: https://yaqeeninstitute.org/read/paper/clinicians-imams-and-the-whisperings-of-satan
-  - label:
+  - &a3
+    label:
       tr: '"Scrupulosity and Islam: a perspective" (dinî titizlik ve İslam üzerine bir değerlendirme)'
       en: '"Scrupulosity and Islam: a perspective"'
-  - label: '"From Doubt to Direction" (PMC)'
+  - &a4
+    label: '"From Doubt to Direction" (PMC)'
     url: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC12025576/
-  - label: ClinicalTrials.gov — NCT07872462
+  - &a5
+    label: ClinicalTrials.gov — NCT07872462
     url: https://clinicaltrials.gov/study/NCT07872462
 fullAnswer:
   - kind: heart
@@ -180,3 +185,28 @@ followUps:
       en: Did I leave Islam because of a thought?
     a:
       en: No. In the hadith, thoughts are forgiven unless acted on or spoken ({hadith:bukhari:5269}), and a doubt does not remove certainty (Ibn Nujaym).
+legacySources:
+  - label: Saheeh International, via the Tanzil text — 2:286.
+  - label: Saheeh International via legacy.quran.com — 114:1–5.
+  - label: Sahih Muslim 132a (sunnah.com), https://sunnah.com/muslim:132.
+    url: https://sunnah.com/muslim:132
+  - label: Sahih Muslim 127a (sunnah.com), https://sunnah.com/muslim:127.
+    url: https://sunnah.com/muslim:127
+  - label: Sahih al-Bukhari 5269 (sunnah.com), https://sunnah.com/bukhari:5269.
+    url: https://sunnah.com/bukhari:5269
+  - label: Najwa Awad, "Clinicians, Imams, and the Whisperings of Satan", Yaqeen Institute (19 July 2017; updated 22 July 2024), https://yaqeeninstitute.org/read/paper/clinicians-imams-and-the-whisperings-of-satan.
+    url: https://yaqeeninstitute.org/read/paper/clinicians-imams-and-the-whisperings-of-satan
+  - label: Faraz Rabbani, "Key Principles Relating to Certainty, Doubt, and Baseless Misgivings (waswasa)", SeekersGuidance, https://seekersguidance.org/answers/hanafi-fiqh/key-principles-relating-to-certainty-doubt-and-baseless-misgivings-waswasa/.
+    url: https://seekersguidance.org/answers/hanafi-fiqh/key-principles-relating-to-certainty-doubt-and-baseless-misgivings-waswasa/
+  - label: "*Scrupulosity and OCD: Information Packet for Faith Leaders* (International OCD Foundation, ADAA, AnxietyCanada; undated), https://iocdf.org/wp-content/uploads/2022/04/Clergy-Packet.pdf."
+    url: https://iocdf.org/wp-content/uploads/2022/04/Clergy-Packet.pdf
+  - label: M. İnözü, E. Keser and A. N. Karancı, "The Examination of the Psychometric Properties of the Turkish Form of the Penn Inventory of Scrupulosity", *Turkish Journal of Psychiatry* (2017), doi 10.5080/u14879, https://www.turkpsikiyatri.com/PDF/C28S4/en/07.pdf.
+    url: https://www.turkpsikiyatri.com/PDF/C28S4/en/07.pdf
+  - label: W. Montgomery Watt (trans.), al-Ghazali, *al-Munqidh min al-Dalal*, https://www.ghazali.org/works/watt3.htm.
+    url: https://www.ghazali.org/works/watt3.htm
+  - label: Saheeh International, via the site's verified Tanzil data (`src/data/quran.json`) — 2:286.
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5

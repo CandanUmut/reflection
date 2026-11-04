@@ -85,7 +85,7 @@ visualizations:
       - A fetal-hand animation from week 6 to week 17: pads swell, shrink, and ridges emerge as whorl, loop or arch. A timing slider changes the pattern.
       - A "twins" card: two identical faces, two different fingerprints.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 75:3–4.
+  - label: Saheeh International — 75:3–4.
   - label: Ibn Kathir, *Tafsir* (abridged English), *Tafsīr al-Jalālayn* (English) and *Tanwīr al-Miqbās* (attributed to Ibn ʿAbbas), on 75:3–4, https://surahquran.com/tafsir-english-aya-4-sora-75.html.
     url: https://surahquran.com/tafsir-english-aya-4-sora-75.html
   - label: Glenn Langenburg (Minnesota Bureau of Criminal Apprehension), answer to "Are one's fingerprints similar to those of his or her parents in any discernable way?", *Scientific American* (no date shown), https://www.scientificamerican.com/article/are-ones-fingerprints-sim/.

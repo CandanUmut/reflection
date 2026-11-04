@@ -79,7 +79,7 @@ visualizations:
       - A "raisin bread" or balloon animation: dots (galaxies) on a stretching surface, with distances growing faster for farther dots.
       - A word card for *la-mūsiʿūn* that shows the classical readings and the modern one side by side.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 51:47.
+  - label: Saheeh International — 51:47.
   - label: Ibn Kathir, *Tafsir* (abridged English), on 51:47, https://surahquran.com/tafsir-english-aya-47-sora-51.html (as read for run 9).
     url: https://surahquran.com/tafsir-english-aya-47-sora-51.html
   - label: Caroline Harper, "Hubble tension explained", *BBC Sky at Night Magazine* (26 July 2024), https://www.skyatnightmagazine.com/space-science/hubble-tension.

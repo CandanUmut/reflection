@@ -52,7 +52,7 @@ visualizations:
       Medine'den Kûfe'ye bir rivayet haritası. Evlilik yaşı normlarının zaman çizelgesi. Bir "üç görüş, tek ahlâk" kartı.
     en: A transmission map from Medina to Kufa. A timeline of marriage-age norms. A "three positions, one ethic" card.
 sources:
-  - label: Saheeh International, via the site's verified Tanzil data (`src/data/quran.json`) — 4:6, 30:21, 2:286.
+  - label: Saheeh International, via the Tanzil text — 4:6, 30:21, 2:286.
   - label: Saheeh International via legacy.quran.com — 65:4, 33:50.
   - label: Sahih al-Bukhari 5133 and 5134 (sunnah.com), https://sunnah.com/bukhari/67/69-70 — texts and Arabic chains.
     url: https://sunnah.com/bukhari/67/69-70
@@ -77,23 +77,32 @@ sources:
     url: https://www.who.int/en/news-room/fact-sheets/detail/adolescent-pregnancy
   - label: Musawah, "Minimum and Equal Age of Marriage", https://campaignforjustice.musawah.org/developments/minimum-and-equal-age-of-marriage/.
     url: https://campaignforjustice.musawah.org/developments/minimum-and-equal-age-of-marriage/
-  - label: Bukhārī 5133–34
-  - label: Muslim 1422
-  - label: J.J. Little (2022)
-  - label:
+  - &a1
+    label: Bukhārī 5133–34
+  - &a2
+    label: Muslim 1422
+  - &a3
+    label: J.J. Little (2022)
+  - &a4
+    label:
       tr: ICRAA değerlendirmesi
       en: ICRAA appraisal
-  - label: D. Spellberg (1994)
-  - label:
+  - &a5
+    label: D. Spellberg (1994)
+  - &a6
+    label:
       tr: Kândehlevî, *Umr-e Âişe* (Urduca)
       en: Kāndhlawī, *Umr-e ʿĀʾisha* (Urdu)
-  - label:
+  - &a7
+    label:
       tr: TMK md. 124 (Türkçe)
       en: TMK md. 124 (Tr.)
-  - label:
+  - &a8
+    label:
       tr: TDV, "Âişe" (Türkçe)
       en: TDV, "Âişe" (Tr.)
-  - label:
+  - &a9
+    label:
       tr: Âişe (Vikipedi)
       en: Aisha (Wikipedia)
     url: https://en.wikipedia.org/wiki/Aisha
@@ -191,3 +200,13 @@ followUps:
       en: Was Aisha harmed?
     a:
       en: The reports describe her as a scholar, a teacher of the Companions and a woman of strong voice for decades after. That does not make early marriage right today; it is a description of her life as the sources give it.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6
+  - *a7
+  - *a8
+  - *a9

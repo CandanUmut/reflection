@@ -66,15 +66,22 @@ sources:
   - label: Youssef Chouhoud, "What Causes Muslims to Doubt Islam? A Quantitative Analysis", Yaqeen Institute (2018; updated 2024), https://yaqeeninstitute.org/read/paper/what-causes-muslims-to-doubt-islam-a-quantitative-analysis.
     url: https://yaqeeninstitute.org/read/paper/what-causes-muslims-to-doubt-islam-a-quantitative-analysis
   - label: Divlekci, "Bâkıllânî'nin İʿcâz Anlayışı", *EKEV Akademi Dergisi* 23/80 (2019), pp. 73–94 — read by the independent source check.
-  - label: Guessoum, Zygon 43 (2008)
-  - label: Guessoum, Islam's Quantum Question (2011)
-  - label: al-Shāṭibī, al-Muwāfaqāt
-  - label: Ibn Rushd, Faṣl al-Maqāl
-  - label:
+  - &a1
+    label: Guessoum, Zygon 43 (2008)
+  - &a2
+    label: Guessoum, Islam's Quantum Question (2011)
+  - &a3
+    label: al-Shāṭibī, al-Muwāfaqāt
+  - &a4
+    label: Ibn Rushd, Faṣl al-Maqāl
+  - &a5
+    label:
       tr: Guessoum ile Neccâr'ı karşılaştıran Endonezya çalışmaları (Akademika)
       en: Indonesian studies of Guessoum vs El-Naggar (Akademika)
-  - label: El-Naggar, Scientific Facts Revealed in the Qur'an
-  - label:
+  - &a6
+    label: El-Naggar, Scientific Facts Revealed in the Qur'an
+  - &a7
+    label:
       tr: TDV İslâm Ansiklopedisi, "İ'câzü'l-Kur'ân"
       en: TDV İslâm Ansiklopedisi, "İ'câzü'l-Kur'ân"
 fullAnswer:
@@ -152,3 +159,11 @@ followUps:
       en: What does al-Shatibi say about the first audience?
     a:
       en: His own text was not read for this run. Abu ʿAsi, writing about him, says the Quran was revealed "in the established usage of the Arabs", in a discussion of why tafsir is still needed.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6
+  - *a7

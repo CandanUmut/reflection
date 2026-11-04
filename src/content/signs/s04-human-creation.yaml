@@ -78,7 +78,7 @@ visualizations:
     tr: 1.–10. haftaları kapsayan bir embriyo kaydırması; arada bir "âyet / embriyoloji" ayracı.
     en: An embryo scroll across weeks 1–10 with a "verse / embryology" separator.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 23:12–14.
+  - label: Saheeh International — 23:12–14.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 23:12–14, https://surahquran.com/tafsir-english-aya-14-sora-23.html; the current page's Ibn Kathir quotation on 23:12.
     url: https://surahquran.com/tafsir-english-aya-14-sora-23.html
   - label: 'The Endowment for Human Development, "Virtual Human Embryo: Carnegie stages 10–12", https://www.ehd.org/virtual-human-embryo/ages.php?stage=11 — ages, sizes, somites, heartbeat.'

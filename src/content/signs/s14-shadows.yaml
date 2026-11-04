@@ -128,7 +128,7 @@ visualizations:
         - In the majority view, ʿAṣr begins when the shadow equals the object's length plus its noon shadow; in the Ḥanafī view, twice the length plus the noon shadow.
         - The drawing is seen from the south: the drawn shadow is its east–west part, so it shrinks and grows smoothly as it swings through noon. The readout gives the shadow's full length.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 25:45–46.
+  - label: Saheeh International — 25:45–46.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 25:45–46, https://surahquran.com/tafsir-english-aya-45-sora-25.html.
     url: https://surahquran.com/tafsir-english-aya-45-sora-25.html
   - label: "\"Asr prayer\", *Wikipedia*, https://en.wikipedia.org/wiki/Asr — the schools' definitions of the start of ʿAṣr."

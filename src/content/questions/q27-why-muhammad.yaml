@@ -59,7 +59,7 @@ visualizations:
       Bir delil örgüsü. Vahiyden önceki 40 yılının zaman çizelgesi. Herakleios'la bir soru-cevap.
     en: An evidence braid. A timeline of his 40 years before revelation. A Q&A with Heraclius.
 sources:
-  - label: Saheeh International, via the site's verified Tanzil data (`src/data/quran.json`) — 10:16, 2:23, 30:2–4; via legacy.quran.com — 17:88 (opening).
+  - label: Saheeh International, via the Tanzil text — 10:16, 2:23, 30:2–4; via legacy.quran.com — 17:88 (opening).
   - label: Ibn Kathir, *Tafsir* (abridged English), on 30:2–4, https://surahquran.com/tafsir-english-aya-2-sora-30.html.
     url: https://surahquran.com/tafsir-english-aya-2-sora-30.html
   - label: Sahih al-Bukhari 3 (sunnah.com), https://sunnah.com/bukhari:3 — the first revelation and Khadija's words.
@@ -73,18 +73,24 @@ sources:
   - label: Youssef Chouhoud, "What Causes Muslims to Doubt Islam? A Quantitative Analysis", Yaqeen Institute (13 February 2018; updated 22 July 2024), https://yaqeeninstitute.org/read/paper/what-causes-muslims-to-doubt-islam-a-quantitative-analysis.
     url: https://yaqeeninstitute.org/read/paper/what-causes-muslims-to-doubt-islam-a-quantitative-analysis
   - label: "Read by the independent source check, not by the writer of this report: \"William Montgomery Watt\", *Wikipedia*, and the WikiShia entry on Watt; \"Byzantine–Sasanian War of 602–628\", *Wikipedia*; Divlekci, \"Bâkıllânî'nin İʿcâz Anlayışı\", *EKEV Akademi Dergisi* 23/80 (2019), pp. 73–94; Jamiʿ al-Tirmidhi 3194 (sunnah.com)."
-  - label: Bukhārī 7
-  - label:
+  - &a1
+    label: Bukhārī 7
+  - &a2
+    label:
       tr: İbn Teymiyye, *el-Cevâb* (Arapça)
       en: Ibn Taymiyya, *al-Jawāb* (Ar.)
-  - label:
+  - &a3
+    label:
       tr: Nursî (Türkçe)
       en: Nursi (Tr.)
-  - label: Donner (2010)
-  - label:
+  - &a4
+    label: Donner (2010)
+  - &a5
+    label:
       tr: Hamidullah (Fransızca)
       en: Hamidullah (Fr.)
-  - label:
+  - &a6
+    label:
       tr: Mutahhari (Farsça)
       en: Muṭahharī (Per.)
 fullAnswer:
@@ -164,3 +170,10 @@ followUps:
       en: What did his followers' transformation look like?
     a:
       en: Non-Muslim sources describe a monotheistic community that kept his laws strictly (Sebeos; John bar Penkaye). More detailed accounts come from Muslim sources.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6

@@ -73,15 +73,23 @@ sources:
     url: https://mayoclinic.elsevierpure.com/en/publications/study-of-the-therapeutic-effects-of-intercessory-prayer-step-in-c
   - label: L. Roberts, I. Ahmed and A. Davison, "Intercessory prayer for the alleviation of ill health", *Cochrane Database of Systematic Reviews* (2009, Issue 2), https://www.cochrane.org/evidence/CD000368_intercessory-prayer-alleviation-ill-health.
     url: https://www.cochrane.org/evidence/CD000368_intercessory-prayer-alleviation-ill-health
-  - label: Musnad Aḥmad 11133
+  - &a1
+    label: Musnad Aḥmad 11133
     url: https://hadeethenc.com/en/browse/hadith/5100
-  - label: Bukhārī 6340
-  - label: Muslim 2735
-  - label: Ibn al-Qayyim, al-Dāʾ wa-l-Dawāʾ
-  - label: Ibn ʿAṭāʾillāh, al-Ḥikam
-  - label: Yaqeen, "Modern Pathways"
-  - label: Benson et al., American Heart Journal (2006)
-  - label: K. Pargament, The Psychology of Religion and Coping
+  - &a2
+    label: Bukhārī 6340
+  - &a3
+    label: Muslim 2735
+  - &a4
+    label: Ibn al-Qayyim, al-Dāʾ wa-l-Dawāʾ
+  - &a5
+    label: Ibn ʿAṭāʾillāh, al-Ḥikam
+  - &a6
+    label: Yaqeen, "Modern Pathways"
+  - &a7
+    label: Benson et al., American Heart Journal (2006)
+  - &a8
+    label: K. Pargament, The Psychology of Religion and Coping
 fullAnswer:
   - kind: heart
     en: |-
@@ -167,3 +175,12 @@ followUps:
       en: Was it my fault that my prayer wasn't answered?
     a:
       en: No. The best of people lost those they loved despite their prayers.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6
+  - *a7
+  - *a8

@@ -84,7 +84,7 @@ visualizations:
       - A "from cloud to system" animation: a gas cloud collapses, spins into a disk, the Sun ignites, planets form.
       - A side-by-side card of 21:30: Ibn ʿAbbās's rain-and-plants reading next to the modern "one mass separated" reflection.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 41:11, 21:30.
+  - label: Saheeh International — 41:11, 21:30.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 41:9–12, https://surahquran.com/tafsir-english-aya-11-sora-41.html, and on 21:30, https://surahquran.com/tafsir-english-aya-30-sora-21.html (as read for runs 9 and 10).
     url: https://surahquran.com/tafsir-english-aya-11-sora-41.html
   - label: '"Formation and evolution of the Solar System", *Wikipedia*, https://en.wikipedia.org/wiki/Formation_and_evolution_of_the_Solar_System.'

@@ -93,7 +93,7 @@ visualizations:
       - An interactive food web: remove a keystone species (sea otters) and watch the effects ripple through the system (urchins boom, kelp disappears).
       - A "balance" scale card linking 55:7 (cosmos) to 55:9 (fair weight).
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 55:7–9, 15:19, 57:25.
+  - label: Saheeh International — 55:7–9, 15:19, 57:25.
   - label: Ibn Kathir (abridged English), *al-Jalālayn* and *Tanwīr al-Miqbās*, on 55:7, https://surahquran.com/tafsir-english-aya-7-sora-55.html, and on 15:19, https://surahquran.com/tafsir-english-aya-19-sora-15.html.
     url: https://surahquran.com/tafsir-english-aya-7-sora-55.html
   - label: 'Estes & Palmisano, "Sea otters: their role in structuring nearshore communities", *Science* 185(4156):1058–1060 (1974), abstract, USGS record, https://pubs.usgs.gov/publication/1007670.'

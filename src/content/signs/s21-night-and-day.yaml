@@ -131,7 +131,7 @@ visualizations:
         - A Muslim who lives long enough fasts Ramadan in every season of the year.
         - The dot on the wheel starts at no particular year; it only shows the drift. The yearly drift is the difference between the 354-day lunar year and the solar year (about 11 days).
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 10:5, 25:61, 78:13.
+  - label: Saheeh International — 10:5, 25:61, 78:13.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 10:5, https://surahquran.com/tafsir-english-aya-5-sora-10.html, and on 78:12–13, https://surahquran.com/tafsir-english-aya-13-sora-78.html.
     url: https://surahquran.com/tafsir-english-aya-5-sora-10.html
   - label: NASA NSSDC, "Moon Fact Sheet", https://nssdc.gsfc.nasa.gov/planetary/factsheet/moonfact.html.

@@ -81,7 +81,7 @@ visualizations:
       - "One water, many fruits": a single stream feeds several plants, each turning the water into a different fruit with its own color, taste and smell labels.
       - A date-palm offshoot animation.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 13:3, 13:4.
+  - label: Saheeh International — 13:3, 13:4.
   - label: Ibn Kathir (abridged English), *al-Jalālayn* and *Tanwīr al-Miqbās*, on 13:4, https://surahquran.com/tafsir-english-aya-4-sora-13.html.
     url: https://surahquran.com/tafsir-english-aya-4-sora-13.html
   - label: Jāmiʿ al-Tirmidhī 3118, via hadithunlocked, https://hadithunlocked.com/tirmidhi:3118.

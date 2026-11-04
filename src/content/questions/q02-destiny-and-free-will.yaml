@@ -67,7 +67,7 @@ visualizations:
       - A three-schools comparison card.
       - A circle of control.
 sources:
-  - label: Saheeh International, via the site's verified Tanzil data (`src/data/quran.json`) — 2:286, 18:29, 81:29, 91:7–10, 13:11, 54:49; via legacy.quran.com — 57:22–23, 92:5–10; via Quranpedia — 37:96, with the *Mukhtasar* commentary, https://quranpedia.net/tafsir/as-saffat/96/en.
+  - label: Saheeh International, via the Tanzil text — 2:286, 18:29, 81:29, 91:7–10, 13:11, 54:49; via legacy.quran.com — 57:22–23, 92:5–10; via Quranpedia — 37:96, with the *Mukhtasar* commentary, https://quranpedia.net/tafsir/as-saffat/96/en.
     url: https://quranpedia.net/tafsir/as-saffat/96/en
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 18:29, https://surahquran.com/tafsir-english-aya-29-sora-18.html, and on 81:28–29, https://surahquran.com/tafsir-english-aya-29-sora-81.html.
     url: https://surahquran.com/tafsir-english-aya-29-sora-18.html
@@ -87,15 +87,20 @@ sources:
     url: https://en.wikipedia.org/wiki/Frankfurt_cases
   - label: International OCD Foundation, "What is OCD & Scrupulosity?", https://iocdf.org/faith-ocd/what-is-ocd-scrupulosity.
     url: https://iocdf.org/faith-ocd/what-is-ocd-scrupulosity
-  - label: Al-Maturidi, *Kitāb al-Tawḥīd*
-  - label: Al-Ghazali, *al-Iqtiṣād*
-  - label:
+  - &a1
+    label: Al-Maturidi, *Kitāb al-Tawḥīd*
+  - &a2
+    label: Al-Ghazali, *al-Iqtiṣād*
+  - &a3
+    label:
       tr: Nursî, Yirmi Altıncı Söz
       en: Nursi, 26th Word
-  - label:
+  - &a4
+    label:
       tr: TDV İslâm Ansiklopedisi, "Kader" ve "Kesb"
       en: TDV İslâm Ansiklopedisi, "Kader" and "Kesb"
-  - label: Temel Yeşilyurt, *Çağdaş İnanç Problemleri* (Diyanet, 2018)
+  - &a5
+    label: Temel Yeşilyurt, *Çağdaş İnanç Problemleri* (Diyanet, 2018)
 fullAnswer:
   - kind: heart
     en: |-
@@ -189,3 +194,9 @@ followUps:
       en: What are "Frankfurt cases" and "compatibilism"?
     a:
       en: 'Compatibilism: freedom and responsibility can exist even if everything is determined. Frankfurt cases: thought experiments meant to show that a person can be responsible even when they could not have done otherwise (see "How philosophers frame it").'
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5

@@ -94,7 +94,7 @@ visualizations:
     tr: Bir yörünge ve mevsim simülatörü; bir lazer ölçüm canlandırması.
     en: An orbit and seasons simulator, and a laser-ranging animation.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 36:37–40.
+  - label: Saheeh International — 36:37–40.
   - label: Ibn Kathir, *Tafsir* (abridged English), on 36:38, https://surahquran.com/tafsir-english-aya-38-sora-36.html, and on 36:39–40, https://surahquran.com/tafsir-english-aya-40-sora-36.html; *Tafsīr al-Jalālayn* (English) on 36:38, same page.
     url: https://surahquran.com/tafsir-english-aya-38-sora-36.html
   - label: "*Maʿārif al-Qurʾān* (English, on Quran.com; the page does not name its author), on 36:38–40, https://quran.com/36:38/tafsirs/en-tafsir-maarif-ul-quran."

@@ -73,15 +73,20 @@ sources:
     url: https://journals.iium.edu.my/irkh/index.php/ijohs/article/download/413/296/2897
   - label: IslamWeb fatwa 325312, "Contents of Kitaab Ar-Rooh by Ibn Al-Qayyim", https://www.islamweb.net/en/printfatwa.php?id=325312.
     url: https://www.islamweb.net/en/printfatwa.php?id=325312
-  - label: Chalmers (1995)
-  - label: Bourget & Chalmers (2023)
-  - label:
+  - &a1
+    label: Chalmers (1995)
+  - &a2
+    label: Bourget & Chalmers (2023)
+  - &a3
+    label:
       tr: "*el-Mîzân* 13 (WikiFeqh)"
       en: "*al-Mīzān* 13 (WikiFeqh)"
-  - label:
+  - &a4
+    label:
       tr: İbn Kayyim, *Kitâbü'r-Rûh*
       en: Ibn al-Qayyim, *Kitāb al-Rūḥ*
-  - label: Nagel (1974)
+  - &a5
+    label: Nagel (1974)
 fullAnswer:
   - kind: heart
     en: |-
@@ -164,3 +169,9 @@ followUps:
       en: Who was asking about the soul in 17:85?
     a:
       en: In Ibn Masʿud's report, a group of Jews in Medina ({hadith:bukhari:7297}).
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5

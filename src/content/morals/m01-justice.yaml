@@ -35,7 +35,7 @@ visualizations:
     tr: Önyargıyı yakalayan bir "terazi" oyunu.
     en: A "scales" game that detects bias.
 sources:
-  - label: Saheeh International, via the site's verified Tanzil data (`src/data/quran.json`) — 4:135, 5:8, 16:90, 4:58 — the verses quoted.
+  - label: Saheeh International, via the Tanzil text — 4:135, 5:8, 16:90, 4:58 — the verses quoted.
   - label: Sahih al-Bukhari 3475 (English via ccistudyapp.com, https://ccistudyapp.com/hadith/bukhari/3475) — the Makhzumi woman.
     url: https://ccistudyapp.com/hadith/bukhari/3475
   - label: Sahih Muslim 2605a (via hadithunlocked.com, https://hadithunlocked.com/muslim:2605a) — the Prophet's words and al-Zuhri's addition on lying.

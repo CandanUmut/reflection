@@ -82,16 +82,21 @@ sources:
   - label: "\"Versions Of The Qur'an?\", Islamic Awareness (updated 15 January 2002), https://islamic-awareness.org/quran/text/qiraat/hafs — summarising Adrian Brockett, \"The Value of Hafs and Warsh Transmissions for the Textual History of the Qur'an\", in A. Rippin (ed.), *Approaches to the History of the Interpretation of the Qur'an* (Oxford, 1988), pp. 33–45."
     url: https://islamic-awareness.org/quran/text/qiraat/hafs
   - label: "\"Qur'an fragment Tübingen University Library Ma VI 165\", *Medieval.eu* (11 November 2014) (as read for run 2)."
-  - label:
+  - &a1
+    label:
       tr: Birmingham Üniversitesi, Cadbury Araştırma Kütüphanesi
       en: University of Birmingham, Cadbury Research Library
     url: https://www.birmingham.ac.uk/facilities/cadbury/birmingham-quran-mingana-collection/birmingham-quran/what-is
-  - label: Déroche, *Qur'ans of the Umayyads* (Brill)
-  - label:
+  - &a2
+    label: Déroche, *Qur'ans of the Umayyads* (Brill)
+  - &a3
+    label:
       tr: Sadeghi, San'a palimpsesti üzerine
       en: Sadeghi on the Ṣan'ā' palimpsest
-  - label: Small, *Textual Criticism and Qur'an Manuscripts*
-  - label:
+  - &a4
+    label: Small, *Textual Criticism and Qur'an Manuscripts*
+  - &a5
+    label:
       tr: Corpus Coranicum (Almanca)
       en: Corpus Coranicum (German)
 fullAnswer:
@@ -161,3 +166,9 @@ followUps:
       en: What do BP, OxA-29418 and Hijazi script mean?
     a:
       en: 'BP: years "before present", i.e. before 1950. OxA: an Oxford radiocarbon lab sample number (the one on the current page was not found in the source read). Hijazi: the early script of western Arabia.'
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5

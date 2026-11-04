@@ -96,7 +96,7 @@ visualizations:
       - A step-by-step cloud animation following 24:43's verbs: drive, join, stack, rain or hail. A "weight meter" shows the tonnes of water hanging in the sky.
       - A pollen-on-the-wind animation over a wheat field.
 sources:
-  - label: Saheeh International, via the site's verified Tanzil data (`src/data/quran.json`) — 24:43, 30:48, 15:22.
+  - label: Saheeh International, via the Tanzil text — 24:43, 30:48, 15:22.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 24:43, https://surahquran.com/tafsir-english-aya-43-sora-24.html, and on 15:22, https://surahquran.com/tafsir-english-aya-22-sora-15.html.
     url: https://surahquran.com/tafsir-english-aya-43-sora-24.html
   - label: USGS Water Science School, "How much does a cloud weigh?", https://www.usgs.gov/water-science-school/science/how-much-does-a-cloud-weigh.

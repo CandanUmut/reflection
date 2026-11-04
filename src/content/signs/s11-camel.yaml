@@ -78,7 +78,7 @@ visualizations:
     tr: Kan hücrelerini, böbrekleri ve ısıyı gösteren, susuzluk kaydırıcılı bir deve kesiti.
     en: A cutaway camel with a dehydration slider showing blood cells, kidneys and temperature.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 88:17–20.
+  - label: Saheeh International — 88:17–20.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 88:17–20, https://surahquran.com/tafsir-english-aya-17-sora-88.html; the current page's longer Ibn Kathir quotation (not re-read in full for this run).
     url: https://surahquran.com/tafsir-english-aya-17-sora-88.html
   - label: '"Camel", *Wikipedia*, https://en.wikipedia.org/wiki/Camel.'

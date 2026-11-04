@@ -54,7 +54,7 @@ visualizations:
     tr: "İkiye bölünmüş ekran: çelik ve Kevlar'a karşı ipek tokluğu çubuğu; yağmur ve rüzgârda barınak olamayan bir ağ."
     en: "Split screen: silk toughness bar against steel and Kevlar; a web failing to shelter in rain and wind."
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 29:41.
+  - label: Saheeh International — 29:41.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 29:41, https://surahquran.com/tafsir-english-aya-41-sora-29.html.
     url: https://surahquran.com/tafsir-english-aya-41-sora-29.html
   - label: 'Agnarsson, Kuntner & Blackledge, "Bioprospecting Finds the Toughest Biological Material: Extraordinary Silk from a Giant Riverine Orb Spider", *PLoS ONE* 5(9) (2010), abstract via University of Akron IdeaExchange, https://ideaexchange.uakron.edu/biology_ideas/119.'

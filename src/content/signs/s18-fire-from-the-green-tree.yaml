@@ -87,7 +87,7 @@ visualizations:
       - A two-way animation: sunlight flows into a leaf and is stored as wood, then fire releases it as heat and light, with the same "energy particles" shown both ways.
       - A *markh* and *ʿafār* friction-fire demo card.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 36:78–80, 56:71–72.
+  - label: Saheeh International — 36:78–80, 56:71–72.
   - label: Ibn Kathir, *Tafsir* (abridged English), on 36:77–80, https://surahquran.com/tafsir-english-aya-78-sora-36.html (as read for run 11), and on 56:71–73, https://surahquran.com/tafsir-english-aya-71-sora-56.html; *Tafsīr al-Jalālayn* (English) on 56:71, same page.
     url: https://surahquran.com/tafsir-english-aya-78-sora-36.html
   - &a1

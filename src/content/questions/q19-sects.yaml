@@ -60,7 +60,7 @@ visualizations:
       Ortak çekirdeği gövde, mezhepleri dallar ve yerel âdetleri yapraklar olarak gösteren bir ağaç. Bir *kat'î/zannî* ayırma oyunu. Bir hadis derecelendirme kartı.
     en: A tree with the shared core as trunk, schools as branches and local customs as leaves. A *qaṭʿī/ẓannī* sorting game. A hadith grading card.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 5:48, 3:103, 49:13; via Quranpedia — 3:105, https://quranpedia.net/tafsir/aal-imran/105/en.
+  - label: Saheeh International — 5:48, 3:103, 49:13; via Quranpedia — 3:105, https://quranpedia.net/tafsir/aal-imran/105/en.
     url: https://quranpedia.net/tafsir/aal-imran/105/en
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 3:104–105, https://surahquran.com/tafsir-english-aya-105-sora-3.html.
     url: https://surahquran.com/tafsir-english-aya-105-sora-3.html
@@ -76,21 +76,28 @@ sources:
   - label: Porter & Schumann, "Intellectual humility and openness to the opposing view", *Self and Identity* 17:139–162 (2018), as summarised by Heterodox Academy, https://heterodoxacademy.org/blog/research-summary-intellectual-humility-and-openness-to-the-opposing-view/.
     url: https://heterodoxacademy.org/blog/research-summary-intellectual-humility-and-openness-to-the-opposing-view/
   - label: Youssef Chouhoud, Yaqeen Institute (2018), as read for run 9.
-  - label: Abū Dāwūd 4596–97 (sunnah.com)
-  - label:
+  - &a1
+    label: Abū Dāwūd 4596–97 (sunnah.com)
+  - &a2
+    label:
       tr: Bağdâdî, *el-Fark* (Arapça)
       en: al-Baghdādī, *al-Farq* (Ar.)
-  - label:
+  - &a3
+    label:
       tr: Gömbeyaz, *ULUM* 1/2 (Türkçe)
       en: Gömbeyaz, *ULUM* 1/2 (Tr.)
-  - label: Abdallah, *AFKAR* 7 (2006)
-  - label: ammanmessage.com
+  - &a4
+    label: Abdallah, *AFKAR* 7 (2006)
+  - &a5
+    label: ammanmessage.com
     url: https://ammanmessage.com/
-  - label:
+  - &a6
+    label:
       tr: 73 fırka (Vikipedi)
       en: 73 Sects (Wikipedia)
     url: https://en.wikipedia.org/wiki/73_Sects_(Hadith)
-  - label:
+  - &a7
+    label:
       tr: TDV, "İhtilâf" (Türkçe)
       en: TDV, "İhtilâf" (Tr.)
 fullAnswer:
@@ -191,3 +198,11 @@ followUps:
       en: What are the Ibadis, and why were Ahmadis excluded?
     a:
       en: "Ibadis: a school centred in Oman, with its own views on the imamate; included in Amman. Ahmadis: the Amman Message does not list them. Separately, mainstream Muslims regard them as outside Islam because they hold that no prophet comes after Muhammad (pbuh)."
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6
+  - *a7

@@ -66,7 +66,7 @@ visualizations:
     tr: Cebelitarık tuzluluk kesiti ve bir haloklin tankı deneyi.
     en: A Gibraltar salinity cross-section and a halocline tank experiment.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 55:19–20, 25:53.
+  - label: Saheeh International — 55:19–20, 25:53.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 55:19–20, https://surahquran.com/tafsir-english-aya-19-sora-55.html, and on 25:53, https://surahquran.com/tafsir-english-aya-53-sora-25.html.
     url: https://surahquran.com/tafsir-english-aya-19-sora-55.html
   - label: 'NOAA, *Estuaries Tutorial*, "Classifying Estuaries: By Water Circulation", https://oceanservice.noaa.gov/education/tutorial_estuaries/est05_circulation.html.'

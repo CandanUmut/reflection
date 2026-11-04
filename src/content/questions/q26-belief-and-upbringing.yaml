@@ -69,19 +69,25 @@ sources:
     url: https://press.rebus.community/intro-to-phil-of-religion/chapter/debunking-arguments-against-theistic-belief/
   - label: Liz Jackson, review of Guy Axtell, *Problems of Religious Luck* (2019), *Notre Dame Philosophical Reviews*, 2019.09.23 (as read for run 2).
   - label: Pew Research Center, "10 key findings about the religious lives of U.S. teens and their parents" (10 September 2020) (as read for run 2).
-  - label: Barrett (2012)
-  - label: Sanchez et al., *PLOS ONE* (2017)
-  - label:
+  - &a1
+    label: Barrett (2012)
+  - &a2
+    label: Sanchez et al., *PLOS ONE* (2017)
+  - &a3
+    label:
       tr: İbn Teymiyye, *Der'* (Arapça)
       en: Ibn Taymiyya, *Darʾ* (Ar.)
-  - label:
+  - &a4
+    label:
       tr: Gazzâlî, *el-Munkız* (Arapça/Türkçe)
       en: al-Ghazālī, *al-Munqidh* (Ar./Tr.)
-  - label:
+  - &a5
+    label:
       tr: Aimmah ve ark., *Ta'dibuna* (2025, Endonezce)
       en: Aimmah et al., *Taʾdibuna* (2025, Indon.)
     url: https://ejournal.uika-bogor.ac.id/index.php/TADIBUNA/article/view/17864
-  - label:
+  - &a6
+    label:
       tr: TDV, "Fıtrat" (Türkçe)
       en: TDV, "Fıtrat" (Tr.)
 fullAnswer:
@@ -169,3 +175,10 @@ followUps:
       en: What is Barrett's 2012 work about?
     a:
       en: "*Born Believers*, a book arguing that young children are naturally inclined to believe in agents, purpose and a creator, though not in any particular religion."
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6

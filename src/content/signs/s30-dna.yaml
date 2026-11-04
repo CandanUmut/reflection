@@ -94,7 +94,7 @@ visualizations:
       - A zoom from a person to a cell, to the nucleus, to a chromosome, to the DNA double helix, to the letters A-T-C-G, with a "2 metres in every cell" counter.
       - A "same alphabet" card: bacterium, tree and human, all written in the same four letters.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 20:50, 87:2–3, 54:49, 25:2.
+  - label: Saheeh International — 20:50, 87:2–3, 54:49, 25:2.
   - label: Ibn Kathir (abridged English), *al-Jalālayn* and *Tanwīr al-Miqbās*, on 20:50, https://surahquran.com/tafsir-english-aya-50-sora-20.html; on 87:3, https://surahquran.com/tafsir-english-aya-3-sora-87.html; on 54:49, https://surahquran.com/tafsir-english-aya-49-sora-54.html.
     url: https://surahquran.com/tafsir-english-aya-50-sora-20.html
   - label: National Human Genome Research Institute, *Human Genome Project FAQ* (Smithsonian exhibition), https://www.genome.gov/Pages/Education/Smithsonian_Exhibition/Human_Genome_Project_FAQ.pdf.

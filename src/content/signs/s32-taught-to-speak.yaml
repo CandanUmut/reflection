@@ -97,7 +97,7 @@ visualizations:
       - A side-view head diagram showing tongue, lips, larynx and breath working together to make a word.
       - A "world of words" globe: tap a region to hear a greeting in one of the world's languages.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 55:3–4, 90:8–10, 2:31.
+  - label: Saheeh International — 55:3–4, 90:8–10, 2:31.
   - label: Ibn Kathir (abridged English), *al-Jalālayn*, *Tanwīr al-Miqbās* and Mawdudi's *Tafhīm al-Qurʾān* (English), on 55:4, https://surahquran.com/tafsir-english-aya-4-sora-55.html; on 90:9, https://surahquran.com/tafsir-english-aya-9-sora-90.html; on 2:31, https://surahquran.com/tafsir-english-aya-31-sora-2.html.
     url: https://surahquran.com/tafsir-english-aya-4-sora-55.html
   - label: University of Washington News, "How babies acquire building blocks of speech affects later reading and language ability, UW researcher tells White House summit on cognitive development" (26 July 2001), on Patricia Kuhl, https://www.washington.edu/news/2001/07/26/how-babies-acquire-building-blocks-of-speech-affects-later-reading-and-language-ability-uw-researcher-tells-white-house-summit-on-cognitive-development/.

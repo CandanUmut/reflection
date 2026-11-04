@@ -60,7 +60,7 @@ visualizations:
       - A "science vs. metaphysics" sorting game.
       - A tree of life.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 3:59, 2:30–31, 4:1, 15:29, 23:12; via legacy.quran.com — 38:71–72, 38:75–76.
+  - label: Saheeh International — 3:59, 2:30–31, 4:1, 15:29, 23:12; via legacy.quran.com — 38:71–72, 38:75–76.
   - label: "Stefano Bigliardi, review of Shoaib Ahmed Malik, *Islam and Evolution: Al-Ghazālī and the Modern Evolutionary Paradigm* (Routledge, 2021), *Philosophy in Review* 44(2) (May 2024), https://journals.uvic.ca/index.php/pir/article/view/21763/10007."
     url: https://journals.uvic.ca/index.php/pir/article/view/21763/10007
   - label: Juris Arrozy, "Re-examining Evolution Through the Theological Lens of Ḥujjatul Islām", *Traversing Tradition* (17 May 2021), https://traversingtradition.com/2021/05/17/re-examining-evolution-through-the-theological-lens-of-%E1%B8%A5ujjatul-islam/ — review of Malik, with page numbers.
@@ -77,14 +77,19 @@ sources:
     url: https://seekersguidance.org/answers/islamic-belief/doubt-caused-by-evolution/
   - label: Yunus Emre Gördük, "Elmalılı Hamdi Hz. Âdem'in evrimle yaratıldığını mı söylüyor?", *SDÜ İlahiyat Fakültesi Dergisi* 42 (2019), pp. 27–42, abstract, https://acikerisim.balikesir.edu.tr/items/85a3046d-8b90-42b7-92ec-addb7569c262/full.
     url: https://acikerisim.balikesir.edu.tr/items/85a3046d-8b90-42b7-92ec-addb7569c262/full
-  - label:
+  - &a1
+    label:
       tr: Malik (açık erişim)
       en: Malik (open access)
     url: https://www.taylorfrancis.com/chapters/oa-mono/10.4324/9780429345753-10/creationism-evolution-islamic-scripture-shoaib-ahmed-malik
-  - label: Jalajel, *Islam and Biological Evolution*
-  - label: "*Philosophy in Review* (2024)"
-  - label: Guessoum, *Islam's Quantum Question*
-  - label:
+  - &a2
+    label: Jalajel, *Islam and Biological Evolution*
+  - &a3
+    label: "*Philosophy in Review* (2024)"
+  - &a4
+    label: Guessoum, *Islam's Quantum Question*
+  - &a5
+    label:
       tr: Malik'in bir Türk DergiPark dergisindeki mektubu
       en: Malik's letter in a Turkish DergiPark journal
 fullAnswer:
@@ -165,3 +170,9 @@ followUps:
       en: What do most Muslims and Muslim institutions actually believe?
     a:
       en: Opinion varies a great deal by country (Pew, 2013). The one scholarly answer read for this run (SeekersGuidance) holds that Adam was created directly, while leaving the evolution of other species open; Diyanet, al-Azhar and fatwa councils were not checked.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5

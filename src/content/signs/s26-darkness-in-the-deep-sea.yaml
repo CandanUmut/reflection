@@ -122,7 +122,7 @@ visualizations:
         - The colour fade is drawn schematically from these three facts; it is not a measured colour curve.
         - The verse is a parable about the inner state of one without guidance. The drawing shows its physical picture, not its meaning.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 24:40, 29:69; 24:35 in fragments, via https://surahquran.com/tafsir-english-aya-35-sora-24.html.
+  - label: Saheeh International — 24:40, 29:69; 24:35 in fragments, via https://surahquran.com/tafsir-english-aya-35-sora-24.html.
     url: https://surahquran.com/tafsir-english-aya-35-sora-24.html
   - label: Ibn Kathir, *Tafsir* (abridged English), *Tafsīr al-Jalālayn* (English) and *Tanwīr al-Miqbās* (English), on 24:40, https://surahquran.com/tafsir-english-aya-40-sora-24.html, and on 24:35, https://surahquran.com/tafsir-english-aya-35-sora-24.html.
     url: https://surahquran.com/tafsir-english-aya-40-sora-24.html

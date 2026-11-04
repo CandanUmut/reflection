@@ -91,18 +91,24 @@ sources:
     url: https://www.aehnetwork.org/wp-content/uploads/2020/05/Ronnback_Slave_Trades_out_of_Africa.pdf
   - label: '*Wikipedia*: "Islamic views on slavery"; "Maria al-Qibtiyya"; "Disestablishment of the Istanbul Slave Market"; "Prohibition of the Black Slave Trade"; "Slavery in Saudi Arabia" — used for dates and for the sources they cite (Toledano, Erdem, Miers, Sikainga, Clarence-Smith, Morrow), which were not read directly.'
   - label: Irshaad Sedick, "Why Was Lady Maria Lawfully Kept by the Prophet as a Concubine?", SeekersGuidance.
-  - label: J.A.C. Brown, *Slavery and Islam* (2019)
-  - label: K. Ali (2010)
-  - label: E. Toledano (1998)
-  - label:
+  - &a1
+    label: J.A.C. Brown, *Slavery and Islam* (2019)
+  - &a2
+    label: K. Ali (2010)
+  - &a3
+    label: E. Toledano (1998)
+  - &a4
+    label:
       tr: Pérouse de Montclos, *Études* (2002, Fransızca)
       en: Pérouse de Montclos, *Études* (2002, Fr.)
     url: https://www.cairn.info/revue-etudes-2002-6-page-751.htm
-  - label:
+  - &a5
+    label:
       tr: Gilli-Elewy, *Der Islam* 77 (2000, Almanca)
       en: Gilli-Elewy, *Der Islam* 77 (2000, Ger.)
     url: https://www.degruyterbrill.com/document/doi/10.1515/islm.2000.77.1.116/html?lang=en
-  - label:
+  - &a6
+    label:
       tr: TDV, "Köle" (Türkçe)
       en: TDV, "Köle" (Tr.)
 fullAnswer:
@@ -195,3 +201,10 @@ followUps:
       en: What do Muslims think now?
     a:
       en: Muslim scholars and states overwhelmingly hold slavery to be forbidden (Open Letter, 2014).
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6

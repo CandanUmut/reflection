@@ -64,21 +64,29 @@ sources:
   - label: '*Wikipedia*: "Siege of Banu Qurayza"; "Military career of Muhammad"; "Ibn Ishaq"; "Sword Verse"; "Jizya" — used for figures and for the scholars they cite (Watt, Stillman, Peterson, Abdel Haleem, Crone, Kister, Rida), which were not read directly.'
   - label: Ibn Kathir, *Tafsir* (abridged English), on 9:5 and 9:29, surahquran.com.
   - label: Open Letter to al-Baghdadi (2014).
-  - label: Arafat, *JRAS* (1976)
+  - &a1
+    label: Arafat, *JRAS* (1976)
     url: https://www.academia.edu/34137671/Some_Reflections_on_the_Story_of_Banu_Quraiza_Vol_1_No2_Article
-  - label: Kister, *JSAI* 8 (1986)
-  - label: B. Ahmad (1979)
-  - label: Bukhārī 4121
-  - label:
+  - &a2
+    label: Kister, *JSAI* 8 (1986)
+  - &a3
+    label: B. Ahmad (1979)
+  - &a4
+    label: Bukhārī 4121
+  - &a5
+    label:
       tr: İbn Hişâm, *es-Sîre* (Arapça)
       en: Ibn Hishām, *al-Sīra* (Ar.)
-  - label:
+  - &a6
+    label:
       tr: TDV, "Kurayza, Benî" (Türkçe)
       en: TDV, "Kurayza, Benî" (Tr.)
-  - label:
+  - &a7
+    label:
       tr: Hamidullah (Fransızca)
       en: Hamidullah (Fr.)
-  - label:
+  - &a8
+    label:
       tr: WikiShia (Fransızca)
       en: WikiShia (Fr.)
     url: https://fr.wikishia.net/view/Bataille_de_Ban%C3%AE_Qurayza
@@ -174,3 +182,12 @@ followUps:
       en: Does this justify hostility to Jews?
     a:
       en: No. The Quran protects synagogues (22:40), and a judgment about one group in one war is not a judgment about a people.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6
+  - *a7
+  - *a8

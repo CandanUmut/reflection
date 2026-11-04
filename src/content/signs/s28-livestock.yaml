@@ -90,7 +90,7 @@ visualizations:
       - A "gift map" of a sheep, goat, cow and camel, with each benefit (wool, milk, leather, transport) highlighted.
       - A timeline of domestication starting about 11,000 years ago.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 16:5–7, 36:71–73.
+  - label: Saheeh International — 16:5–7, 36:71–73.
   - label: Ibn Kathir (abridged English), *al-Jalālayn* and *Tanwīr al-Miqbās*, on 16:5, https://surahquran.com/tafsir-english-aya-5-sora-16.html, and on 36:71, https://surahquran.com/tafsir-english-aya-71-sora-36.html.
     url: https://surahquran.com/tafsir-english-aya-5-sora-16.html
   - label: Cardiff University news, "New light shed on the domestication history of sheep and goats", https://cardiff.ac.uk/news/view/1128739-new-light-shed-on-the-domestication-history-of-sheep-and-goats.

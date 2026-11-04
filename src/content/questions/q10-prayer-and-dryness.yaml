@@ -62,7 +62,7 @@ visualizations:
       - Kışın köklerini koruyan bir "kurak mevsimler" ağacı.
     en: (a) Day ring of five prayers tracking real solar angles for the user's city. (b) Word-by-word al-Fātiḥa. (c) "Dry seasons" tree keeping roots in winter.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 20:14, 23:1–2, 2:186; via legacy.quran.com — 29:45.
+  - label: Saheeh International — 20:14, 23:1–2, 2:186; via legacy.quran.com — 29:45.
   - label: Sahih al-Bukhari 349 (hadithunlocked.com, with ʿAbd al-Baqi's "Agreed Upon"), https://hadithunlocked.com/bukhari:349 — the Miʿrāj.
     url: https://hadithunlocked.com/bukhari:349
   - label: Sahih al-Bukhari 4937 (sunnah.com), https://sunnah.com/bukhari:4937 — the reciter who struggles.
@@ -71,17 +71,25 @@ sources:
     url: https://seekersguidance.org/articles/the-five-levels-of-prayer/
   - label: Faraz Rabbani, "How Do I Revive a Heart That Feels Spiritually Numb?", SeekersGuidance (3 August 2026), https://seekersguidance.org/answers/general-counsel/how-do-i-revive-a-heart-that-feels-spiritually-numb/.
     url: https://seekersguidance.org/answers/general-counsel/how-do-i-revive-a-heart-that-feels-spiritually-numb/
-  - label:
+  - &a1
+    label:
       tr: Kur'an 20:14, 23:1–2
       en: Quran 20:14, 23:1–2
-  - label: Bukhārī 349
-  - label: Muslim 162
-  - label: al-Ghazālī, Iḥyāʾ
-  - label: Ibn al-Qayyim, al-Wābil al-Ṣayyib
-  - label: al-Qushayrī, al-Risāla
-  - label: TİDA (2023)
+  - &a2
+    label: Bukhārī 349
+  - &a3
+    label: Muslim 162
+  - &a4
+    label: al-Ghazālī, Iḥyāʾ
+  - &a5
+    label: Ibn al-Qayyim, al-Wābil al-Ṣayyib
+  - &a6
+    label: al-Qushayrī, al-Risāla
+  - &a7
+    label: TİDA (2023)
     url: https://andcenter.org/tr/sosyoloji/sayilarla-turkiyede-inanc-ve-dindarlik/
-  - label:
+  - &a8
+    label:
       tr: Diyanet İlmihali
       en: Diyanet İlmihal
 fullAnswer:
@@ -180,3 +188,12 @@ followUps:
       en: What are *qabḍ* and *basṭ*, and who was al-Qushayrī?
     a:
       en: Contraction and expansion of the heart, states that come and go; al-Qushayri, author of the Sufi manual *al-Risāla*, described them (as reported by Rabbani).
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6
+  - *a7
+  - *a8

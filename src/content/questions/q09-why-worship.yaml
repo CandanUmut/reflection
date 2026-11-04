@@ -64,7 +64,7 @@ visualizations:
       - Kaydırıcı: "muhtaç kral" ve "ilaç yazan doktor".
     en: "(a) \"Two arrows\" card: worship goes up, benefit returns, with 35:15. (b) Nursi's mirrors: mirrors gain light, the sun loses nothing. (c) Slider: \"needy king\" vs \"doctor prescribing medicine\"."
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 51:56–57, 35:15, 14:7, 79:40–41, 2:186.
+  - label: Saheeh International — 51:56–57, 35:15, 14:7, 79:40–41, 2:186.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 51:56, https://surahquran.com/tafsir-english-aya-56-sora-51.html.
     url: https://surahquran.com/tafsir-english-aya-56-sora-51.html
   - label: The hadith qudsi of Abu Dharr (Nawawi's Forty, no. 24; Muslim), https://sunnah.com/nawawi40:24.
@@ -73,17 +73,24 @@ sources:
     url: https://sunnah.com/bukhari:7404
   - label: 'Akram Nadwi, "Servitude: Ibn Taymiyyah on Worship and Human Existence" (13 May 2026), https://akramnadwi.com/servitude-ibn-taymiyyah-on-worship-and-human-existence/.'
     url: https://akramnadwi.com/servitude-ibn-taymiyyah-on-worship-and-human-existence/
-  - label:
+  - &a1
+    label:
       tr: Kur'an 51:56–57, 35:15
       en: Quran 51:56–57, 35:15
-  - label: Ṣaḥīḥ Muslim 2577
-  - label:
+  - &a2
+    label: Ṣaḥīḥ Muslim 2577
+  - &a3
+    label:
       tr: Taberî ve Râzî'nin 51:56 tefsirleri
       en: al-Ṭabarī and al-Rāzī on 51:56
-  - label: al-Ghazālī, Iḥyāʾ
-  - label: Said Nursi, Sözler
-  - label: Elmalılı Hamdi Yazır, Hak Dini Kur'an Dili
-  - label: S.H. Nasr, The Heart of Islam
+  - &a4
+    label: al-Ghazālī, Iḥyāʾ
+  - &a5
+    label: Said Nursi, Sözler
+  - &a6
+    label: Elmalılı Hamdi Yazır, Hak Dini Kur'an Dili
+  - &a7
+    label: S.H. Nasr, The Heart of Islam
 fullAnswer:
   - kind: heart
     en: |-
@@ -165,3 +172,11 @@ followUps:
       en: What does *taʿabbudī* mean?
     a:
       en: An act of worship whose form is followed as devotion, even where its full reason is not stated (e.g. the number of units in a prayer).
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6
+  - *a7

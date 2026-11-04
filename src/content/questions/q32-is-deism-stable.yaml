@@ -68,20 +68,25 @@ sources:
     url: https://paraanaliz.com/haberler/konda-arastirmasi-turkiyede-dindarlik-geriliyor-inancsizlik-artiyor
   - label: Pew Research Center, "Key findings about Americans' belief in God" (2018).
   - label: Green and Howard-Snyder, "Hiddenness of God", SEP (2022).
-  - label:
+  - &a1
+    label:
       tr: KONDA 2025 (Türkçe)
       en: KONDA 2025 (Tr.)
     url: https://paraanaliz.com/haberler/konda-arastirmasi-turkiyede-dindarlik-geriliyor-inancsizlik-artiyor
-  - label:
+  - &a2
+    label:
       tr: Bianet (2018, Türkçe)
       en: Bianet (2018, Tr.)
-  - label:
+  - &a3
+    label:
       tr: Diyanet Aylık Dergi 2018 (Türkçe)
       en: Diyanet Aylık Dergi 2018 (Tr.)
-  - label:
+  - &a4
+    label:
       tr: Ekici (Türkçe)
       en: Ekici (Tr.)
-  - label:
+  - &a5
+    label:
       tr: Aimmah ve ark. (2025, Endonezce)
       en: Aimmah et al. (2025, Indon.)
 fullAnswer:
@@ -149,3 +154,9 @@ followUps:
       en: Why did English deism fade?
     a:
       en: Historians give several reasons — naturalism, Hume's and Kant's critiques, the French Revolution, religious revival. They disagree on the weight of each.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5

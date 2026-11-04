@@ -87,7 +87,7 @@ visualizations:
       - A split-screen brain cross-section: awake (cells packed tight, little flow) vs asleep (spaces widen, blue fluid flushes through).
       - A night timeline showing the sleep cycles, with a soft "taken / returned" animation at sleep and waking.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 30:23, 78:9, 39:42.
+  - label: Saheeh International — 30:23, 78:9, 39:42.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 39:42, https://surahquran.com/tafsir-english-aya-42-sora-39.html.
     url: https://surahquran.com/tafsir-english-aya-42-sora-39.html
   - label: Sahih al-Bukhari 6320 (sunnah.com), https://sunnah.com/bukhari:6320; Sahih al-Bukhari 6312, https://sunnah.com/bukhari:6312.

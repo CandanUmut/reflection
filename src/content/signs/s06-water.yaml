@@ -52,7 +52,7 @@ visualizations:
     tr: '"Tuzun geride kaldığı" bir su döngüsü ve donmuş bir gölün kesiti.'
     en: A water cycle where "the salt stays behind", and a cross-section of a frozen lake.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 21:30, 56:68–70.
+  - label: Saheeh International — 21:30, 56:68–70.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 21:30, https://surahquran.com/tafsir-english-aya-30-sora-21.html.
     url: https://surahquran.com/tafsir-english-aya-30-sora-21.html
   - label: Ibn Kathir, *Tafsir* (abridged English), on 56:68–70, https://surahquran.com/tafsir-english-aya-70-sora-56.html.

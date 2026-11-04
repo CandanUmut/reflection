@@ -76,21 +76,27 @@ sources:
   - label: Musawah, "Turkey Overview Table" (2019), https://www.musawah.org/wp-content/uploads/2019/03/Turkey-Overview-Table.pdf.
     url: https://www.musawah.org/wp-content/uploads/2019/03/Turkey-Overview-Table.pdf
   - label: '*Al Jazeera*, "Turkey court ruling on religious marriages spurs uproar" (30 May 2015).'
-  - label: Abū Dāwūd 2133
-  - label:
+  - &a1
+    label: Abū Dāwūd 2133
+  - &a2
+    label:
       tr: "*Tefsîrü'l-Menâr* (Arapça)"
       en: "*Tafsīr al-Manār* (Ar.)"
-  - label:
+  - &a3
+    label:
       tr: Mevdûdî, "Mes'ele-i taaddüd-i ezvâc" (Urduca)
       en: Mawdūdī, "Masʾala-yi taʿaddud-i azwāj" (Urdu)
-  - label:
+  - &a4
+    label:
       tr: Musawah özeti
       en: Musawah brief
-  - label:
+  - &a5
+    label:
       tr: Melia Rosa ve ark., *Jurnal Konstitusi* 21(4) (2024, Endonezce)
       en: Melia Rosa et al., *Jurnal Konstitusi* 21(4) (2024, Indon.)
     url: https://jurnalkonstitusi.mkri.id/index.php/jk/article/download/2347/696/9038
-  - label:
+  - &a6
+    label:
       tr: TDV, "Taaddüd-i Zevcât" (Türkçe)
       en: TDV, "Taaddüd-i Zevcât" (Tr.)
 fullAnswer:
@@ -176,3 +182,10 @@ followUps:
       en: Can I put a monogamy clause in my marriage contract?
     a:
       en: In the Hanbali school, yes, and it is binding; many modern family laws also allow it.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6

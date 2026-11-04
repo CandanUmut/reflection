@@ -64,12 +64,17 @@ sources:
   - label: Green and Howard-Snyder, "Hiddenness of God", SEP; Basinger, "Religious Diversity (Pluralism)", SEP (substantively revised 21 February 2025), https://plato.stanford.edu/entries/religious-pluralism/.
     url: https://plato.stanford.edu/entries/religious-pluralism/
   - label: Ibn Kathir, *Tafsir*, on 10:99 and 109:6 (quran.com) — for the respect owed to others.
-  - label: The site's earlier research, Batch A (`docs/research/07-ask-deep-A.md`), for Mohammad Hassan Khalil's *Islam and the Fate of Others* (OUP, 2012) as summarised by E. Bazzano's review (*AJIS* 30:1) — used only as a pointer.
-  - label: Nasr (2002)
-  - label: Khalil (2012)
-  - label: Sachedina (2001)
-  - label: Winter (2008)
-  - label:
+  - label: The site's earlier research, Batch A, for Mohammad Hassan Khalil's *Islam and the Fate of Others* (OUP, 2012) as summarised by E. Bazzano's review (*AJIS* 30:1) — used only as a pointer.
+  - &a1
+    label: Nasr (2002)
+  - &a2
+    label: Khalil (2012)
+  - &a3
+    label: Sachedina (2001)
+  - &a4
+    label: Winter (2008)
+  - &a5
+    label:
       tr: TDV, "Din" (Türkçe)
       en: TDV, "Din" (Tr.)
 fullAnswer:
@@ -149,3 +154,9 @@ followUps:
       en: Is my Christian friend wrong?
     a:
       en: On the points where Islam and Christianity disagree, a Muslim believes so. That is compatible with deep respect and friendship (29:46).
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5

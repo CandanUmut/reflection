@@ -77,15 +77,23 @@ sources:
     url: https://earsiv.hitit.edu.tr/items/099670b1-306c-4275-871d-d2a186ca72f8
   - label: J. J. Little (2022) and W. A. Cheema (ICRAA, 2024) on the hadith of Aisha's age — as read for run 4.
   - label: Jamiʿ al-Tirmidhi 2517 and Musnad Ahmad 11133 — as read for run 6 (sunnah.com; hadithunlocked.com), with details confirmed by the independent source check.
-  - label: J.J. Little, The Hadith of ʿĀʾišah's Marital Age (Oxford DPhil)
-  - label: ICRAA, "The Age of Aisha"
-  - label: '"Teori ile Güncel Arasında Hadis/Sünnet İnkârı" (DergiPark)'
-  - label: "\"Tarihten Günümüze Kur'an ile Yetinme Söyleminin Kritiği\""
+  - &a1
+    label: J.J. Little, The Hadith of ʿĀʾišah's Marital Age (Oxford DPhil)
+  - &a2
+    label: ICRAA, "The Age of Aisha"
+  - &a3
+    label: '"Teori ile Güncel Arasında Hadis/Sünnet İnkârı" (DergiPark)'
+  - &a4
+    label: "\"Tarihten Günümüze Kur'an ile Yetinme Söyleminin Kritiği\""
     url: https://www.academia.edu/165206810/Tarihten_G%C3%BCn%C3%BCm%C3%BCze_Kur_an_ile_Yetinme_S%C3%B6yleminin_Kriti%C4%9Fi
-  - label: Kâmil Çakın, Hadis İnkârcıları
-  - label: J.A.C. Brown, Hadith
-  - label: H. Motzki, Die Anfänge der islamischen Jurisprudenz
-  - label:
+  - &a5
+    label: Kâmil Çakın, Hadis İnkârcıları
+  - &a6
+    label: J.A.C. Brown, Hadith
+  - &a7
+    label: H. Motzki, Die Anfänge der islamischen Jurisprudenz
+  - &a8
+    label:
       tr: TDV İslâm Ansiklopedisi, "Hadis"
       en: TDV İslâm Ansiklopedisi, "Hadis"
 fullAnswer:
@@ -159,3 +167,12 @@ followUps:
       en: What is the Sunna?
     a:
       en: "The Prophet's (pbuh) way: his words, acts and approvals, known through hadith and community practice."
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6
+  - *a7
+  - *a8

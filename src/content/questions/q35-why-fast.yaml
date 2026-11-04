@@ -52,7 +52,7 @@ visualizations:
       Kurallar ve amaçları haritası. Bir infografik. Orucun üç mertebesi.
     en: A map of rules and their purposes. An infographic. Three levels of fasting.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 2:183, 2:187, 35:15; via legacy.quran.com — 2:184–185.
+  - label: Saheeh International — 2:183, 2:187, 35:15; via legacy.quran.com — 2:184–185.
   - label: Ibn Kathir, *Tafsir* (abridged English), on 2:184, https://surahquran.com/tafsir-english-aya-184-sora-2.html.
     url: https://surahquran.com/tafsir-english-aya-184-sora-2.html
   - label: Sahih al-Bukhari 1903 and 1904 (sunnah.com), https://sunnah.com/bukhari:1903, https://sunnah.com/bukhari:1904.
@@ -69,14 +69,19 @@ sources:
     url: https://www.2minutemedicine.com/ramadan-fasting-was-associated-with-beneficial-changes-in-metabolic-profile/
   - label: Jahrami, Ammar, Glenn, Saif, Chtourou & Trabelsi, umbrella review and meta-analysis of meta-analyses of Ramadan fasting and the metabolic syndrome components, *Nutrition Reviews* (2024), doi:10.1093/nutrit/nuae001 — abstract, via the Mainz university bibliography, https://bibliographie.ub.uni-mainz.de/catalog/publication-173562.
     url: https://bibliographie.ub.uni-mainz.de/catalog/publication-173562
-  - label: Jahrami et al. (2025)
+  - &a1
+    label: Jahrami et al. (2025)
     url: https://academic.oup.com/nutritionreviews/article-abstract/83/2/e711/7604369
-  - label: Fernando et al. (2019)
-  - label: Glazier et al. (2018)
-  - label:
+  - &a2
+    label: Fernando et al. (2019)
+  - &a3
+    label: Glazier et al. (2018)
+  - &a4
+    label:
       tr: Şâtıbî (Arapça)
       en: al-Shāṭibī (Ar.)
-  - label:
+  - &a5
+    label:
       tr: Diyanet, "Oruç" (Türkçe)
       en: Diyanet, "Oruç" (Tr.)
 fullAnswer:
@@ -167,3 +172,9 @@ followUps:
       en: Who is exempt, and what do they do instead?
     a:
       en: The ill and travellers make up the days. The very old and chronically ill pay *fidya* (feeding a poor person each day). Pregnant and breastfeeding women may not fast if they fear harm; the schools differ on whether they make up, pay *fidya*, or both.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5

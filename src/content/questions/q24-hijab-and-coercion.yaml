@@ -75,19 +75,24 @@ sources:
   - label: 'Aala Abdelgadir and Vasiliki Fouka, "Political Secularism and Muslim Integration in the West: Assessing the Effects of the French Headscarf Ban", *American Political Science Review* 114:3 (2020), pp. 707–723 — abstract.'
   - label: Richard M. Ryan, Scott Rigby and Kristi King, "Two Types of Religious Internalization and Their Relations to Religious Orientations and Mental Health", *Journal of Personality and Social Psychology* 65:3 (1993), pp. 586–596 — abstract.
   - label: Dar al-Iftaʾ al-Misriyya, Fatwa 7272, "A father forcing his daughter to wear the hijab" (3 June 2014).
-  - label:
+  - &a1
+    label:
       tr: Apaydın, TDV "Tesettür" (Türkçe)
       en: Apaydın, TDV "Tesettür" (Tr.)
-  - label:
+  - &a2
+    label:
       tr: Karaman, Yeni Şafak (Türkçe)
       en: Karaman, Yeni Şafak (Tr.)
-  - label:
+  - &a3
+    label:
       tr: Kurtubî'nin 24:31 tefsiri (Arapça)
       en: al-Qurṭubī on 24:31 (Ar.)
-  - label:
+  - &a4
+    label:
       tr: Mevdûdî, *Purdah* (Urduca)
       en: Mawdūdī, *Purdah* (Urdu)
-  - label: L. Ahmed (2011)
+  - &a5
+    label: L. Ahmed (2011)
 fullAnswer:
   - kind: heart
     en: |-
@@ -179,3 +184,9 @@ followUps:
       en: What is the minority argument in full?
     a:
       en: Shahrur's theory of minimum and maximum limits, and the claim that *khimār* means any cover; see above.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5

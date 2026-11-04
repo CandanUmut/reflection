@@ -130,19 +130,26 @@ sources:
   - label: "M. H. Khalil, *Islam and the Fate of Others: The Salvation Question* (Oxford University Press, 2012), xii + 256 pp., ISBN 9780199796731; reviews by E. Bazzano (*AJIS* 30:1, 117–121) and O. Koca (*J. Religious History* 39:4, 2015)."
   - label: Pew, *The World's Muslims* (2013), ch. 6. https://www.pewresearch.org/religion/2013/04/30/the-worlds-muslims-religion-politics-society-interfaith-relations/
     url: https://www.pewresearch.org/religion/2013/04/30/the-worlds-muslims-religion-politics-society-interfaith-relations/
-  - label: al-Ghazālī, Fayṣal al-Tafriqa, trans. S. Jackson (OUP, 2002)
-  - label: Khalil (2012)
-  - label:
+  - &a1
+    label: al-Ghazālī, Fayṣal al-Tafriqa, trans. S. Jackson (OUP, 2002)
+  - &a2
+    label: Khalil (2012)
+  - &a3
+    label:
       tr: Mutahhari, *Adl-e İlâhî* (Farsça; İngilizcesi "Divine Justice", al-Islam.org)
       en: Muṭahharī, ʿAdl-e Elāhī (Persian; English "Divine Justice", al-Islam.org)
-  - label: T. Tabrizi, "Khumaynī and the Salvation of Non-Muslims" (BIIS)
+  - &a4
+    label: T. Tabrizi, "Khumaynī and the Salvation of Non-Muslims" (BIIS)
     url: https://www.bliis.org/wp-content/uploads/2018/08/Taymaz-Tabrizi_Khumayni%CC%84-and-the-Salvation-of-Non-Muslims-in-Ima%CC%84mi%CC%84-Soteriology.pdf
-  - label:
+  - &a5
+    label:
       tr: Yaqeen — Gayrimüslimlerin akıbeti
       en: Yaqeen, "The Fate of Non-Muslims"
     url: https://yaqeeninstitute.org/read/paper/the-fate-of-non-muslims-perspectives-on-salvation-outside-of-islam
-  - label: H.K. Nakata, "The Border of Salvation" (JISMOR)
-  - label: M. Demichelis, The Marginalia Review
+  - &a6
+    label: H.K. Nakata, "The Border of Salvation" (JISMOR)
+  - &a7
+    label: M. Demichelis, The Marginalia Review
 fullAnswer:
   - kind: quran
     en: |-
@@ -221,3 +228,11 @@ followUps:
       en: Do most Muslims believe only Muslims are saved?
     a:
       en: In most countries Pew surveyed, yes.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
+  - *a5
+  - *a6
+  - *a7

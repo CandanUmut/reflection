@@ -82,7 +82,7 @@ visualizations:
       - "Journey of an iron atom": a star fuses lighter elements, its core fills with iron, it collapses and explodes, the dust gathers into a young Earth, and the iron ends up in a red blood cell and a steel tool.
       - A binding-energy curve with iron at the peak, captioned to explain why stars stop there.
 sources:
-  - label: Saheeh International, via `src/data/quran.json` — 57:25.
+  - label: Saheeh International — 57:25.
   - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 57:25, https://surahquran.com/tafsir-english-aya-25-sora-57.html.
     url: https://surahquran.com/tafsir-english-aya-25-sora-57.html
   - label: '"Iron-56", *Wikipedia*, https://en.wikipedia.org/wiki/Iron-56.'

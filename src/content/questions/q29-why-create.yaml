@@ -52,7 +52,7 @@ visualizations:
       Işık saçan bir kaynak. Bir 51:56 kartı. Bir tefekkür alıştırması.
     en: A radiating light. A 51:56 card. A reflection exercise.
 sources:
-  - label: Saheeh International, via the site's verified Tanzil data (`src/data/quran.json`) — 51:56, 51:57, 35:15, 67:2, 2:30, 7:156, 21:107, 17:15, 18:29.
+  - label: Saheeh International, via the Tanzil text — 51:56, 51:57, 35:15, 67:2, 2:30, 7:156, 21:107, 17:15, 18:29.
   - label: Ibn Kathir, *Tafsir* (abridged English), on 51:56–58, https://surahquran.com/tafsir-english-aya-56-sora-51.html.
     url: https://surahquran.com/tafsir-english-aya-56-sora-51.html
   - label: IslamWeb fatwa 426097, "True Meaning of Verse {And I Did Not Create the Jinn and Mankind Except to Worship Me}", https://islamweb.net/en/printfatwa.php?id=426097 — reports the views of Mujahid, Ibn Jurayj, ʿAli, al-Zajjaj and Ibn Taymiyya with their sources.
@@ -69,16 +69,20 @@ sources:
     url: https://dergipark.org.tr/en/pub/tader/article/1860014
   - label: Sahih al-Bukhari 3194 (sunnah.com), https://sunnah.com/bukhari:3194.
     url: https://sunnah.com/bukhari:3194
-  - label:
+  - &a1
+    label:
       tr: İbn Kayyim, *Şifâü'l-alîl* (Arapça)
       en: Ibn al-Qayyim, *Shifāʾ al-ʿalīl* (Ar.)
-  - label:
+  - &a2
+    label:
       tr: Tabâtabâî, *el-Mîzân* (Farsça)
       en: Ṭabāṭabāʾī, *al-Mīzān* (Per.)
-  - label:
+  - &a3
+    label:
       tr: Elmalılı (Türkçe)
       en: Elmalılı (Tr.)
-  - label: Steger (2006)
+  - &a4
+    label: Steger (2006)
 fullAnswer:
   - kind: heart
     en: |-
@@ -165,3 +169,8 @@ followUps:
       en: If God knew some would go to Hell, why create them?
     a:
       en: This is the hardest form of the question. The tradition answers with a real test (67:2), mercy that outweighs anger ({hadith:bukhari:3194}), no punishment without a message (17:15), and God's knowledge beyond ours (2:30). It does not claim to remove the difficulty entirely.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
