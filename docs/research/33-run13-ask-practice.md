@@ -17,7 +17,7 @@
 Some were hurt in religious communities — shamed, controlled, or met with hypocrisy. Some find rules rigid and the spirit missing. Some live in a culture where personal spirituality is the norm: in the United States, 27% of adults described themselves as spiritual but not religious in 2017, up 8 points in five years (Pew).
 
 ### Short answer
-Islam agrees that the heart comes first: faith is, at its root, what the heart affirms. But the Quran almost never mentions faith without deeds: "Indeed, mankind is in loss, Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience" (103:2–3). The hadith of Jibril describes religion in three layers — outward practice (*islām*), inward belief (*īmān*) and excellence (*iḥsān*, "To worship Allah as if you see Him") — and calls all three together "their religion". Classical schools disagreed on whether deeds are *part* of faith, but none held that deeds do not matter. The minimum Islam asks is small and clear (Bukhari 46). If a community hurt you, that is a wrong done to you, not a verdict on God; you can rebuild practice slowly, starting small, and choose where and with whom.
+Islam agrees that the heart comes first: faith is, at its root, what the heart affirms. The Quran often pairs faith with deeds, as in: "Indeed, mankind is in loss, Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience" (103:2–3). The hadith of Jibril describes religion in three layers — outward practice (*islām*), inward belief (*īmān*) and excellence (*iḥsān*, "To worship Allah as if you see Him") — and calls all three together "their religion". The Sunni schools disagreed on whether deeds are *part* of faith, but none of them held that deeds do not matter (an early group, the Murjiʾa, came closest; see below). The minimum Islam asks is small and clear (Bukhari 46). If a community hurt you, that is a wrong done to you, not a verdict on God; you can rebuild practice slowly, starting small, and choose where and with whom.
 
 ### The full answer
 
@@ -32,7 +32,7 @@ Islam agrees that the heart comes first: faith is, at its root, what the heart a
 #### sunnah — What the Prophet (pbuh) taught
 **The hadith of Jibril.** A stranger came to the Prophet (pbuh) and asked about faith, Islam and excellence. In Abu Hurayra's (ra) report: "Faith is to believe in Allah, His angels, (the) meeting with Him, His Apostles, and to believe in Resurrection"; Islam is "To worship Allah Alone and none else, to offer prayers perfectly", to pay zakat and to fast Ramadan; and *iḥsān* is "To worship Allah as if you see Him", and if you cannot, to know that He sees you. Afterwards the Prophet (pbuh) said: "That was Gabriel who came to teach the people their religion" ({hadith:bukhari:50}). The point for this question: "religion" here is all three layers at once — the outward, the inward, and the spirit that joins them.
 
-**The minimum, from a man who asked for it.** A man from Najd asked the Prophet (pbuh) what Islam required. He was told: "You have to offer prayers perfectly five times in a day and night (24 hours)", "You have to observe fasts during the month of Ramadan", and "You have to pay the Zakat (obligatory charity)". He asked whether there was more; the answer was "No, unless you want to give alms of your own". He vowed to do exactly that, no more and no less, and the Prophet (pbuh) said: "If what he said is true, then he will be successful (i.e. he will be granted Paradise)" ({hadith:bukhari:46}, narrated by Talha ibn ʿUbaydullah (ra)). Islam's required core is small.
+**The minimum, from a man who asked for it.** A man from Najd asked the Prophet (pbuh) what Islam required. He was told: "You have to offer prayers perfectly five times in a day and night (24 hours)", "You have to observe fasts during the month of Ramadan", and "You have to pay the Zakat (obligatory charity)". After each duty he asked whether there was more; each time the answer was no, unless he wished to do more voluntarily — for prayer, "No, but if you want to offer the Nawafil prayers (you can)"; for zakat, "No, unless you want to give alms of your own". He vowed to do exactly that, no more and no less, and the Prophet (pbuh) said: "If what he said is true, then he will be successful (i.e. he will be granted Paradise)" ({hadith:bukhari:46}, narrated by Talha ibn ʿUbaydullah (ra)). Islam's required core is small.
 
 #### scholars — Are deeds part of faith? The classical debate
 **Why it mattered.** In the first Islamic century, the Kharijites held that a person who commits a grave sin leaves Islam (*Wikipedia*, "Murji'ah"). Others, the Murjiʾa, "prioritized the importance of one's professed faith over the acts, deeds, or rituals they performed", holding that deeds do not affect faith (*Wikipedia*). The later schools took positions between these.
@@ -41,7 +41,7 @@ Islam agrees that the heart comes first: faith is, at its root, what the heart a
 
 **The other view.** Other Sunni scholars, especially the hadith scholars, held that faith includes deeds and increases and decreases with them. (No source setting out this position in their own words was read for this run; see Gaps.)
 
-**What both sides agree on.** No Sunni school taught that prayer and fasting are optional for someone who believes. The disagreement is about definitions — whether a believer who neglects deeds is a sinful believer or someone whose faith is damaged — not about whether deeds matter.
+**What both sides agree on.** No Sunni school taught that prayer and fasting are optional for someone who believes. Even the Hanafi side, which keeps deeds out of the definition, holds (in islam.wiki's explanation of *al-Fiqh al-Akbar*, ch. 3) that "actions are not part of the definition of iman, though they are obligatory requirements"; the same chapter gives the other side — Shafiʿi and Hanbali scholars and the hadith scholars — as holding that faith "increases through acts of obedience and decreases through sin". The disagreement is about definitions — whether a believer who neglects deeds is a sinful believer or someone whose faith is damaged — not about whether deeds matter.
 
 **Al-Qushayri on inner and outer religion.** Al-Qushayri, the author of the classic Sufi manual *al-Risāla*, is cited by Rabbani for the distinction between states of the heart: fear and hope concern what is to come, while contraction (*qabḍ*) and expansion (*basṭ*) concern the present moment. Rabbani's summary: these states are "neither achievements nor failures. They are visitations, and they alternate." In this tradition, inner life is lived *through* steady practice, not instead of it: "worship carried out without sweetness is frequently weightier than worship carried by feeling" (Rabbani's words).
 
@@ -78,7 +78,7 @@ Islam agrees that the heart comes first: faith is, at its root, what the heart a
 ### Questions readers ask next
 **Why can't faith in the heart be enough?** For the Hanafi–Maturidi school, faith *is* in the heart and on the tongue — but deeds are still obligatory. For others, deeds are part of faith. Either way, the Quran ties salvation to belief *and* deeds (103:3). Practice is how faith is kept alive and tested.
 
-**What is the minimum Islam asks of me, and what does "start small" mean?** The core, as in Bukhari 46: the five daily prayers, fasting Ramadan, zakat (Hajj, for those able, is in other reports not read for this run). "Start small" can mean: one prayer on time each day, then two; learning the meaning of al-Fātiḥa; one voluntary act a week. "The most beloved of deeds to Allah is the most constant of them, even if little" (a hadith quoted by Rabbani; source and wording not checked for this run).
+**What is the minimum Islam asks of me, and what does "start small" mean?** The core, as in Bukhari 46: the five daily prayers, fasting Ramadan, zakat (Hajj, for those able, is in other reports not read for this run). "Start small" can mean: one prayer on time each day, then two; learning the meaning of al-Fātiḥa; one voluntary act a week. "the most beloved deed to Allah is the most regular and constant even if it were little" ({hadith:bukhari:6464}, narrated by ʿĀʾisha (ra)).
 
 **What if mosques and religious communities are where I was hurt?** Start privately with God, who says "I am near" (2:186). Find one safe person or small group later. If it was abuse, seek outside help.
 
@@ -104,6 +104,7 @@ The position that deeds are part of faith was not read in its holders' own words
 - Ahmad Kutty, in "Making up for fasting days missed because of pregnancy", IslamOnline Fiqh (6 January 2023), https://fiqh.islamonline.net/en/making-up-for-fasting-days-missed-because-of-pregnancy/.
 - Fernando, Zibellini, Harris, Seimon & Sainsbury, "Effect of Ramadan Fasting on Weight and Body Composition in Healthy Non-Athlete Adults: A Systematic Review and Meta-Analysis", *Nutrients* 11(2):478 (2019), https://pmc.ncbi.nlm.nih.gov/articles/PMC6412279.
 - 2 Minute Medicine summary (Wang & Trifoi, 5 March 2024) of an umbrella review in *Nutrition Reviews*, doi:10.1093/nutrit/nuae001, https://www.2minutemedicine.com/ramadan-fasting-was-associated-with-beneficial-changes-in-metabolic-profile/.
+- Jahrami, Ammar, Glenn, Saif, Chtourou & Trabelsi, umbrella review and meta-analysis of meta-analyses of Ramadan fasting and the metabolic syndrome components, *Nutrition Reviews* (2024), doi:10.1093/nutrit/nuae001 — abstract, via the Mainz university bibliography, https://bibliographie.ub.uni-mainz.de/catalog/publication-173562.
 
 ### The question, at its strongest
 "Why would the Creator of galaxies care whether I eat at 2 p.m.? If God needs nothing, my fasting does nothing for Him. If it is for my health, a doctor could prescribe something better. And fasting is only the start: there are rules for washing, eating, praying, dressing, inheriting. Some have obvious purposes; many seem arbitrary. Following rules I can't understand looks like blind obedience."
@@ -112,7 +113,7 @@ The position that deeds are part of faith was not read in its holders' own words
 Ramadan is the most widely kept practice in the Muslim world, and also where many young Muslims first ask "why?". The question has two halves: why would God care, and why so many rules.
 
 ### Short answer
-God does not need the fast: "O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy" (35:15). The Prophet (pbuh) said that if a person does not give up false speech and evil actions, "Allah is not in need of his leaving his food and drink" ({hadith:bukhari:1903}). The Quran gives the fast's purpose: "that you may become righteous" (2:183) — *taqwā*, a constant awareness of God. Fasting is from dawn to sunset, with no food, drink or sexual relations (2:187); the ill and travellers make up the days later, and those who can fast only with great hardship feed a poor person instead (2:184–185). As for rules, scholars such as al-Shatibi held that the Sharia as a whole serves five purposes — religion, life, intellect, family and wealth — while acts of worship are kept as given, even where their full reason is not stated. Health effects of Ramadan fasting are real but modest and temporary, and they are not its reason.
+God does not need the fast: "O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy" (35:15). The Prophet (pbuh) said that if a person does not give up false speech and evil actions, "Allah is not in need of his leaving his food and drink" ({hadith:bukhari:1903}). The Quran gives the fast's purpose: "that you may become righteous" (2:183) — *taqwā*, a constant awareness of God. Fasting is from dawn to sunset, with no food, drink or sexual relations (2:187); the ill and travellers make up the days later, and those who can fast only with great hardship feed a poor person instead (2:184–185). As for rules, al-Shatibi held that the Sharia as a whole serves five purposes — religion, life, intellect, family and wealth. That acts of worship keep their fixed form even where their full reason is not stated is a common framing, but no named source for it was read for this run. Health effects of Ramadan fasting are real but modest and temporary, and they are not its reason.
 
 ### The full answer
 
@@ -128,7 +129,7 @@ God does not need the fast: "O mankind, you are those in need of Allah, while Al
 
 **"Fasting is for Me."** In a hadith qudsi (a saying the Prophet (pbuh) attributes to God, in his own words): "All the deeds of Adam's sons (people) are for them, except fasting which is for Me". The same report calls fasting "a shield or protection from the fire and from committing sins", and tells the fasting person, if insulted, to say: "I am fasting" ({hadith:bukhari:1904}, Abu Hurayra).
 
-**God gains nothing from any worship.** In another hadith qudsi: "you will not attain harming Me so as to harm Me, and you will not attain benefiting Me so as to benefit Me"; if every heart were as pious as the most pious, "this would not increase My Kingdom an iota"; "it is but your deeds that I account for you, and then recompense you for" (Nawawi's Forty, no. 24; {hadith:muslim:2577}).
+**God gains nothing from any worship.** In another hadith qudsi: "you will not attain harming Me so as to harm Me, and you will not attain benefiting Me so as to benefit Me"; if every heart were as pious as the most pious, "this would not increase My Kingdom an iota"; "it is but your deeds that I account for you, and then recompense you for" (in the sunnah.com translation of al-Nawawi's Forty, no. 24, which cites Muslim; this is {hadith:muslim:2577}, where sunnah.com's Muslim translation reads "that would not increase My dominion in anything" and "it is but your deeds that I record for you").
 
 #### fiqh — Exemptions in the four schools
 **The ill and travellers.** Make up the days later (2:184–185). Ibn Kathir: "the same number ( should be made up ) from other days."
@@ -158,9 +159,9 @@ God does not need the fast: "O mankind, you are those in need of Allah, while Al
 *Limit:* this works only for someone who already has reason to trust the source. For someone who doubts revelation itself, the question becomes the earlier one ("Why believe Muhammad was a prophet?").
 
 #### science — What research shows
-**Weight and body fat.** [Moderate] In a 2019 meta-analysis (Fernando et al., *Nutrients*; 70 publications, 90 comparison groups, 2,947 participants), weight fell by 1.34 kg (95% CI −1.61 to −1.07) by the end of Ramadan, and was still 0.59 kg lower (−0.99 to −0.20) two to five weeks later. Fat mass fell by 0.98 kg, but neither fat measure differed from baseline at follow-up. The authors describe "Consistent—albeit transient—reductions in weight and fat mass", mainly in people with overweight or obesity.
+**Weight and body fat.** [Moderate] In a 2019 meta-analysis (Fernando et al., *Nutrients*; 70 publications, 90 comparison groups, 2,947 participants), weight fell by 1.34 kg (95% CI −1.61 to −1.07) by the end of Ramadan, and was still 0.59 kg lower (−0.99 to −0.20) two to five weeks later. Fat mass fell by 0.98 kg. At follow-up the paper is not consistent with itself: its Discussion says fat measures were back to baseline, but its results section (3.2.1) reports a small remaining fall in fat percentage (−0.94%, 95% CI −1.73 to −0.15). The authors describe "Consistent—albeit transient—reductions in weight and fat mass", especially in people with overweight or obesity.
 
-**Metabolic markers.** [Moderate] An umbrella review of eleven meta-analyses (*Nutrition Reviews*, doi:10.1093/nutrit/nuae001) found improvements in waist circumference, body weight, blood pressure, fasting blood glucose, LDL and HDL cholesterol after Ramadan fasting (2 Minute Medicine summary, 2024; effect sizes were not given in the summary read, and non-English studies were excluded).
+**Metabolic markers.** [Low-quality evidence] An umbrella review of eleven meta-analyses (Jahrami, Ammar, Glenn, Saif, Chtourou & Trabelsi, *Nutrition Reviews*, 2024, doi:10.1093/nutrit/nuae001) found small changes after Ramadan fasting, given as standardised mean differences (SMD; about 0.2 is conventionally called "small"): waist circumference −0.30 (95% CI −0.33 to −0.27), body weight −0.34 (−0.39 to −0.29), HDL +0.20 (0.10 to 0.30), LDL −0.10 (−0.13 to −0.07), total cholesterol −0.15 (−0.21 to −0.09), triglycerides −0.16 (−0.24 to −0.08), systolic and diastolic blood pressure −0.20 each, fasting glucose −0.10 (−0.12 to −0.08). The authors warn that "the methodological quality of the included reviews ranged from low to critically low", "necessitating cautious interpretation of conclusions drawn from these data". Non-English studies were excluded (2 Minute Medicine summary).
 
 **Risks.** The current page advises people with eating disorders or diabetes to take medical advice. No clinical guideline on fasting risks was read for this run (see Gaps). The Quran's exemption for the ill (2:184) covers anyone for whom fasting would cause harm.
 
@@ -175,7 +176,7 @@ God does not need the fast: "O mankind, you are those in need of Allah, while Al
 
 #### views — The range of views
 - **Classical jurists** — fasting is obligatory for every adult Muslim able to fast; exemptions as in 2:184–185, with the schools' differences on *fidya*.
-- **Al-Shatibi and the *maqāṣid* tradition** — the law serves five universal interests; worship keeps its fixed form.
+- **Al-Shatibi and the *maqāṣid* tradition** — the law serves five universal interests. (That worship keeps its fixed form is a common framing; no named source for it was read.)
 - **Some modern writers** — emphasise health benefits (which the evidence supports only modestly).
 
 ### Questions readers ask next
@@ -192,7 +193,7 @@ God does not need the fast: "O mankind, you are those in need of Allah, while Al
 **Who is exempt, and what do they do instead?** The ill and travellers make up the days. The very old and chronically ill pay *fidya* (feeding a poor person each day). Pregnant and breastfeeding women may not fast if they fear harm; the schools differ on whether they make up, pay *fidya*, or both.
 
 ### Honest limits
-Al-Shatibi's own text, and any statement of his on worship being devotional by default, were not read. The Maliki position on pregnant and breastfeeding women was not covered. The umbrella review was read through a summary without effect sizes. No study of self-control or empathy during Ramadan, and no clinical guideline on fasting risks, was read.
+Al-Shatibi's own text, and any statement of his on worship being devotional by default, were not read. The Maliki position on pregnant and breastfeeding women was not covered. The umbrella review was read through its abstract (Mainz university bibliography record), not its full text. No study of self-control or empathy during Ramadan, and no clinical guideline on fasting risks, was read.
 
 ---
 ## Q10 — Why five daily prayers, and why do I feel nothing?
@@ -220,12 +221,12 @@ Feeling nothing in prayer is common, has been discussed for a thousand years, an
 
 **A sign of hope in the hadith.** The Prophet (pbuh) said that the one who recites the Quran with difficulty, struggling with it, "will have a double reward" ({hadith:bukhari:4937}, narrated by ʿAʾisha (ra); paraphrased except for the quoted words) — reward for the struggle itself.
 
-**Do not chase the feeling.** Rabbani advises not to chase it, "since that leads to performing a state rather than living it", to keep practice steady and small, and to pray: "O Turner of hearts, make my heart firm upon Your religion."
+**Do not chase the feeling.** Rabbani advises not to chase it — "Chasing it is how people end up performing a state rather than living one" — to keep practice steady and small, and to pray, in his wording, "O Turner of hearts, make my heart firm upon Your religion" (the hadith is Tirmidhi 3522, narrated by Umm Salama (ra); al-Tirmidhi: *ḥasan*; al-Albani: *ṣaḥīḥ*, per hadithunlocked).
 
 **When to get help.** If "feeling nothing" covers your whole life — food, friends, work — that may be depression, not a spiritual problem, and a doctor can help. If you repeat your ablution or prayer again and again from fear that it is invalid, that may be religious OCD (scrupulosity); the International OCD Foundation (iocdf.org) describes it and its treatment.
 
 #### quran — What the Quran says
-**Prayer as remembrance (20:14).** "Indeed, I am Allah. There is no deity except Me, so worship Me and establish prayer for My remembrance" (20:14), Meccan — God's words to Moses (pbuh) at the burning bush. The first purpose named is *dhikr*, remembrance: turning the mind back to God, whether or not one feels moved.
+**Prayer as remembrance (20:14).** "Indeed, I am Allah. There is no deity except Me, so worship Me and establish prayer for My remembrance" (20:14), Meccan — God's words to Moses (pbuh) at the fire in the valley of Ṭuwā (20:10–12). The first purpose named is *dhikr*, remembrance: turning the mind back to God, whether or not one feels moved.
 
 **Humility (23:1–2).** "Certainly will the believers have succeeded: They who are during their prayer humbly submissive" (23:1–2), Meccan. *Khāshiʿūn*, "humbly submissive", is the root of *khushūʿ*. It is listed first among the believers' qualities: a goal to grow towards.
 
@@ -237,8 +238,8 @@ Feeling nothing in prayer is common, has been discussed for a thousand years, an
 **The Miʿrāj.** The *Miʿrāj* is the Prophet's (pbuh) ascension through the heavens, during the Night Journey. In the report of Anas ibn Malik from Abu Dharr (ra), God first enjoined fifty prayers; Moses (pbuh) told the Prophet (pbuh), "Go back to your Lord (and appeal for reduction) for your followers will not be able to bear it"; after several returns the number was reduced, and God said: "These are five prayers and they are all (equal to) fifty (in reward) for My Word does not change" ({hadith:bukhari:349}; graded "Agreed Upon" — in both Bukhari and Muslim — by ʿAbd al-Baqi). The man from Najd was likewise told: "You have to offer prayers perfectly five times in a day and night" ({hadith:bukhari:46}).
 
 #### scholars — Ibn al-Qayyim's five grades of people in prayer
-Ibn al-Qayyim (a 14th-century Damascene scholar), in *al-Wābil al-Ṣayyib*, describes five kinds of people in prayer (Sedick's translation):
-1. One who "wrongs himself": careless about ablution, times and essential pillars — "punished".
+Ibn al-Qayyim (a 14th-century Damascene scholar), in *al-Wābil al-Ṣayyib*, describes five kinds of people in prayer (as presented by Sedick):
+1. One who "wrongs his soul" (Sedick, citing 35:32): careless about ablution, times and essential pillars — "punished".
 2. One who keeps the times, limits, outward pillars and ablution, but is carried away by whisperings he does not resist — "admonished".
 3. One who keeps the limits and pillars and *struggles* against the whisperings — "redeemed".
 4. One who perfects the prayer's rights, limits and pillars, with his heart absorbed in doing so — "rewarded".
@@ -251,7 +252,7 @@ The person who feels dry but keeps praying, and keeps pulling the mind back, is 
 **Al-Ghazali.** The current page cites al-Ghazali's *Asrār al-Ṣalāt* (in the *Iḥyāʾ*) for six inner meanings of prayer — presence, understanding, reverence, awe, hope and shame. That text was not read for this run (see Gaps).
 
 #### reasoning — The three-prayers argument, and the reply
-**The argument.** Some Quran-centred Muslims, including some in Türkiye, argue that the Quran mentions only three prayer times, so three prayers are enough; five, on this view, rests on hadith they do not accept.
+**The argument.** Some Quran-centred Muslims argue that the Quran mentions only three prayer times (no named holder or work was read for this run), so three prayers are enough; five, on this view, rests on hadith they do not accept.
 
 **The reply.**
 1. The five prayers are in the Miʿrāj report, which is in both Bukhari and Muslim ({hadith:bukhari:349}), and in other reports such as Bukhari 46.
@@ -275,7 +276,7 @@ The five prayers are at dawn (*fajr*), just after midday (*ẓuhr*), the afterno
 **The Arabic-language concern.** The fixed Arabic of the prayer is part of what makes it shared; personal prayer (*duʿāʾ*) can be in any language, at any time — "I respond to the invocation of the supplicant when he calls upon Me" (2:186).
 
 #### objection — The strongest objections, and the replies
-**"Prayer without feeling is hypocrisy."** *Reply:* hypocrisy is pretending to believe; praying while dry is keeping faith without reward of feeling. Ibn al-Qayyim's third grade, and Bukhari 4937, treat struggle as worth more, not less. *Limit:* prayer that is *only* habit, with no attempt at presence, is Ibn al-Qayyim's second grade — "admonished" — so the reply is not an excuse for carelessness.
+**"Prayer without feeling is hypocrisy."** *Reply:* hypocrisy is pretending to believe; praying while dry is keeping faith without reward of feeling. Ibn al-Qayyim's third grade ("redeemed") and Bukhari 4937 ("a double reward" for the one who struggles to recite) treat the struggle itself as rewarded, and better than giving in to distraction. They do not rank it highest: in Ibn al-Qayyim the present heart (grades 4–5) is above it, and the commentators on Bukhari 4937, as quoted by hadeethenc.com ("the Qadi", i.e. Qadi ʿIyad), say the skilled reciter is still better and has the greater reward. *Limit:* prayer that is *only* habit, with no attempt at presence, is Ibn al-Qayyim's second grade — "admonished" — so the reply is not an excuse for carelessness.
 
 **"Five times is too much."** *Reply:* each prayer takes minutes; spread through the day, they are short returns to God. *Limit:* for a new Muslim or someone returning, five can feel heavy; many teachers advise building up gradually (no named source read).
 
@@ -321,12 +322,12 @@ No technique guarantees feeling. Al-Ghazali's *Asrār al-Ṣalāt*, al-Qushayri'
 Because the Quran is full of praise of God and commands to worship Him, and a modern reader hears that as a need. And because many people were raised on worship taught through fear.
 
 ### Short answer
-The Quran agrees that God needs nothing: "O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy" (35:15). Right after "I did not create the jinn and mankind except to worship Me", God says, "I do not want from them any provision, nor do I want them to feed Me" (51:56–57). In a hadith qudsi, God says: "you will not attain harming Me so as to harm Me, and you will not attain benefiting Me so as to benefit Me" (Muslim 2577). Worship is for the worshipper. In Islam it is also much wider than ritual: Ibn Taymiyya defined it as "everything that God loves and is pleased with" in word and deed, inward and outward — honesty, keeping family ties, kindness. The hardest part of the question is why neglecting it has consequences. The Quran's answer is that consequences follow what a person becomes, and that God's mercy outweighs His wrath (Bukhari 7404). This page states that answer and its limit.
+The Quran agrees that God needs nothing: "O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy" (35:15). Right after "I did not create the jinn and mankind except to worship Me", God says, "I do not want from them any provision, nor do I want them to feed Me" (51:56–57). In a hadith qudsi, God says: "you will not attain harming Me so as to harm Me, and you will not attain benefiting Me so as to benefit Me" (Muslim 2577). Worship is for the worshipper. In Islam it is also much wider than ritual: Ibn Taymiyya defined it as "everything that God loves and is pleased with" in word and deed, inward and outward — honesty, keeping family ties, kindness. The hardest part of the question is why neglecting it has consequences. One reading of the Quran's answer — a theological reading, not the verses' own words — is that consequences follow what a person becomes, and that God's mercy outweighs His wrath (Bukhari 7404). This page states that answer and its limit.
 
 ### The full answer
 
 #### heart — If you were raised on fear
-**God's own description of Himself puts mercy first.** "Verily My Mercy overcomes My Anger" ({hadith:bukhari:7404}, Abu Hurayra), written, the hadith says, in a Book with Him above the Throne. If your picture of God is mainly of anger, it is not the picture God gives of Himself.
+**God's own description of Himself puts mercy first.** "Verily My Mercy overcomes My Anger" ({hadith:bukhari:7404}, Abu Hurayra), written, the hadith says, in a Book "placed with Him on the Throne". If your picture of God is mainly of anger, it is not the picture God gives of Himself.
 
 **God is near and answers.** "And when My servants ask you, [O Muhammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me" (2:186). Worship can begin as conversation, not as fear of punishment.
 
@@ -340,7 +341,7 @@ The Quran agrees that God needs nothing: "O mankind, you are those in need of Al
 **Gratitude (14:7).** "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe'" (14:7), Meccan, in Moses' (pbuh) words to his people. Gratitude increases the one who is grateful.
 
 #### scholars — How the commentators read "to worship Me"
-**Ibn Kathir.** "I, Allah, only created them so that I order them to worship Me, not that I need them." He reports Ibn ʿAbbas: "So that they worship Me, willingly or unwillingly." He also cites a hadith in which God says: "O Son of Adam! Busy yourself in worshipping Me, and I will fill your chest with riches and dissipate your meekness" (recorded by Ahmad, al-Tirmidhi and Ibn Majah; al-Tirmidhi: *ḥasan gharīb*).
+**Ibn Kathir.** "I, Allah, only created them so that I order them to worship Me, not that I need them." He reports Ibn ʿAbbas: "So that they worship Me, willingly or unwillingly." He also cites a hadith in which God says: "O Son of Adam! Busy yourself in worshipping Me, and I will fill your chest with riches and dissipate your meekness" (recorded by Ahmad, al-Tirmidhi and Ibn Majah; Tirmidhi 2466, Abu Hurayra (ra); al-Tirmidhi: *ḥasan gharīb*; al-Albani: *ṣaḥīḥ*, per hadithunlocked).
 
 **Al-Jalālayn.** It addresses the obvious objection — that many do not worship — and says "the fact that disbelievers do not worship God does not contradict this statement", comparing it to a pencil sharpened for writing: its purpose is writing, even if it is never used.
 
@@ -363,10 +364,10 @@ The Quran agrees that God needs nothing: "O mankind, you are those in need of Al
 **The objection in full.** If I skip medicine, I just stay ill; the doctor does not punish me. If worship is only for my good, why does the Quran attach severe, even eternal, consequences to neglecting it?
 
 **The reply.**
-1. *Consequences follow what a person becomes.* "But as for he who feared the position of his Lord and prevented the soul from [unlawful] inclination, Then indeed, Paradise will be [his] refuge" (79:40–41). The Quran describes the Hereafter as the result of the self one has made. A person who turns away from God for a lifetime becomes someone turned away; the consequence is not an extra penalty but the state chosen.
+1. *Consequences follow what a person becomes.* "But as for he who feared the position of his Lord and prevented the soul from [unlawful] inclination, Then indeed, Paradise will be [his] refuge" (79:40–41). On one reading (a modern theological reading; no named holder was read for this run), the Hereafter is the result of the self one has made: a person who turns away from God for a lifetime becomes someone turned away. The Quran itself also speaks of recompense (*jazāʾ*), so this reading does not exhaust it.
 2. *Ingratitude is not neutral.* 14:7 sets gratitude and denial side by side. To deny the source of every good is not only to miss a benefit; it is to wrong the truth.
 3. *Mercy is greater.* "Verily My Mercy overcomes My Anger" (Bukhari 7404). The Quran's warnings are real, but they sit inside a frame in which mercy prevails.
-4. *The account is of your own deeds.* "it is but your deeds that I account for you, and then recompense you for. So he who finds good, let him praise Allah" (Muslim 2577).
+4. *The account is of your own deeds.* "it is but your deeds that I account for you, and then recompense you for. So he who finds good, let him praise Allah" (al-Nawawi's Forty, no. 24, from Muslim 2577).
 
 *Limit:* the language of wrath and eternal punishment in the Quran is strong, and some readers will still find it hard to reconcile with the "medicine" picture. This page does not remove that difficulty; it shows how the tradition holds the two together.
 
@@ -402,10 +403,10 @@ The answer to "why punishment?" is the tradition's, and it leaves some readers u
 - **Q37** — "Faith in the heart is the foundation, and practice sustains it, as body and soul go together. Start small." — asserted, not argued; no concrete steps. — Add the argument from 103:3 and the hadith of Jibril, and concrete steps (see Q37).
 - **Q37** — "Individualised religion lacks community (Heelas & Woodhead 2005)." — not found in the review read; Heelas & Woodhead contrast "life-as" religion with "subjective-life" spirituality and predicted the two domains would become similar in size. — Summarise their actual findings and cite them.
 - **Q37** — "27% of US adults call themselves spiritual but not religious, up 8 points in five years (Pew Research Center, survey of 5,002 adults, 2017)." — the 27% and 8 points are correct; the sample of 5,002 was not stated on the Pew page read. — Check the sample size in the report's methodology.
-- **Q37** — "KONDA's 'inançlı' (believer) category is broad." — the KONDA report, its year and sample are not given. — Cite KONDA with year, sample and wording.
+- **Q37** — "KONDA's 'inançlı' (believer) category is broad." — the year is given (2025), but the source is a news article (paraanaliz.com); KONDA's report, sample and question wording are not cited. — Cite KONDA's report with sample and wording.
 - **Q37** — no evidence labels on the page. — Add [Established] for Pew (US), [Moderate] for Heelas & Woodhead (one town).
 - **Q35** — "Weight drops 1.24 kg by the end of Ramadan, but the loss shrinks to 0.27 kg within 2–6 weeks (*Nutrients* 2019)." — wrongly attributed: those figures are from an earlier meta-analysis (Sadeghirad et al., 2014) quoted in the 2019 paper's introduction; Fernando et al. (2019) found −1.34 kg (95% CI −1.61 to −1.07) at the end of Ramadan and −0.59 kg (−0.99 to −0.20) two to five weeks later. — Use Fernando et al.'s own figures.
-- **Q35** — "An umbrella review of 11 meta-analyses (*Nutrition Reviews* 2025) found benefits." — no effect sizes; the year should be checked (the summary read dates the paper's coverage to March 2024, doi:10.1093/nutrit/nuae001). — Give the outcomes and effect sizes.
+- **Q35** — "An umbrella review of 11 meta-analyses (*Nutrition Reviews* 2025) found benefits." — no effect sizes and no quality warning. The authors (Jahrami et al.) are right; the paper was published online in 2024 (the current page's "2025" may be the print-issue year; not checked). — Give the small SMDs and the authors' "low to critically low" quality warning.
 - **Q35** — "Al-Shāṭibī: in acts of worship, devotion is the default." — not found in the explanatory chapter of *al-Muwāfaqāt* read for this run. — Cite the passage (volume and page) or remove.
 - **Q35** — "Fasting builds self-mastery and empathy." — no evidence. — Label as the tradition's claim, or cite a study.
 - **Q35** — the exemptions in 2:184–185 and the schools' rulings on *qaḍāʾ* and *fidya* are missing. — Add them (see Q35).
@@ -420,7 +421,7 @@ The answer to "why punishment?" is the tradition's, and it leaves some readers u
 - **Q9** — "Tim Winter on worship as healing the fractured self" — no work given. — Cite the work and page.
 
 ## Gaps
-- **Q37:** Muslim 8 (ʿUmar's version of the hadith of Jibril) in full; the hadith scholars' view that deeds are part of faith, in their own words; al-Qushayri's *Risāla* itself; KONDA data; Heelas & Woodhead's book itself; any study comparing wellbeing of religious and "spiritual but not religious" people; the hadith "the most beloved of deeds… even if little" with its number.
-- **Q35:** al-Shatibi's own text on worship and reasons; the Maliki position on pregnant and breastfeeding women; the umbrella review's effect sizes; clinical guidance on fasting and diabetes or eating disorders; any study of self-control or empathy in Ramadan; a source for the reasoned/devotional distinction.
+- **Q37:** Muslim 8 (ʿUmar's version of the hadith of Jibril) in full; the hadith scholars' view that deeds are part of faith, in their own words; al-Qushayri's *Risāla* itself; KONDA data; Heelas & Woodhead's book itself; any study comparing wellbeing of religious and "spiritual but not religious" people; (the "most beloved deed" hadith is now cited as Bukhari 6464).
+- **Q35:** al-Shatibi's own text on worship and reasons; the Maliki position on pregnant and breastfeeding women; clinical guidance on fasting and diabetes or eating disorders; any study of self-control or empathy in Ramadan; a source for the reasoned/devotional distinction.
 - **Q10:** 11:114, 17:78 and 30:17–18 in verified text; al-Ghazali's *Asrār al-Ṣalāt*; al-Qushayri's own text; a source describing the prayer step by step; studies of prayer and anxiety or physiology; the Shiʿi practice of combining prayers.
 - **Q9:** al-Tabari and al-Razi on 51:56; a kalām source on God's purposes (Ashʿari and Maturidi); al-Ghazali's *Kitāb al-Maḥabba*; Nursi; Tim Winter; any wellbeing study on gratitude or worship; 39:7 and 31:12 in verified text.
