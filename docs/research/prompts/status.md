@@ -15,7 +15,7 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 | 7 | [Live I](run-07-live-1.md) | Report in | 2026-11-03 | [#19](https://github.com/CandanUmut/reflection/pull/19) | Written by Claude directly; 45/45 Quran quotes checked; M6 and M7 shorter (~1,000–1,200 words) for lack of sources read; see Gaps |
 | 8 | [Live II](run-08-live-2.md) | Report in | 2026-11-03 | [#20](https://github.com/CandanUmut/reflection/pull/20) | Written by Claude directly; 46/46 Quran quotes checked; pages ~1,100–1,600 words; see Gaps |
 | 9 | [Ask — prophethood, the Quran and hadith](run-09-ask-truth-claims.md) | Report in | 2026-11-03 | [#20](https://github.com/CandanUmut/reflection/pull/20) | Written by Claude directly; 18/18 Quran quotes checked; see Gaps; independent source check done, 13 must-fix and most smaller fixes applied |
-| 10 | [Reflect I](run-10-reflect-1.md) | Not started | | | |
+| 10 | [Reflect I](run-10-reflect-1.md) | Report in | 2026-11-04 | [#20](https://github.com/CandanUmut/reflection/pull/20) | Written by Claude directly; 40/40 Quran quotes checked; adds al-Jalālayn alongside Ibn Kathir on every page; pages ~1,100–2,300 words; see Corrections and Gaps |
 | 11 | [Ask — creation, freedom and the afterlife](run-11-ask-creation-and-freedom.md) | Not started | | | |
 | 12 | [Reflect II](run-12-reflect-2.md) | Not started | | | |
 | 13 | [Ask — practice](run-13-ask-practice.md) | Not started | | | |
