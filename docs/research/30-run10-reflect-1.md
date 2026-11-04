@@ -3,7 +3,7 @@
 ### Sources read
 - Saheeh International, via the site's verified Tanzil data (`src/data/quran.json`) — 6:95, 56:63–64, 41:39.
 - Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 6:95, https://surahquran.com/tafsir-english-aya-95-sora-6.html.
-- UF/IFAS Extension (University of Florida), page on seed germination — the phases of water uptake, as read for this run.
+- UF/IFAS (University of Florida), "Germination", https://propg.ifas.ufl.edu/04-seeds/03-germination/04-seedsgermination-germination.html — the three phases of water uptake.
 - Gong, Bassel, Wang, Greenwood & Bewley, "The Emergence of Embryos from Hard Seeds…", *Annals of Botany* 96:1165–1173 (2005), https://pmc.ncbi.nlm.nih.gov/articles/PMC4247068 — as cited on the current page (not re-read for this run).
 - National Geographic, "2,000 year old 'Phoenix' seed rises from the ashes", https://www.nationalgeographic.com/science/article/2000-year-old-phoenix-seed-rises-from-the-ashes — the Masada seed (pointer to Sallon et al., *Science*, 2008).
 - Phys.org, "Scientists grow date palm plants from 2,000-year-old seeds" (2020), https://phys.org/news/2020-02-scientists-date-palm-year-old-seeds.amp — the 2020 *Science Advances* study (pointer to Sallon et al. 2020; the paper itself could not be opened).
@@ -20,7 +20,7 @@
 - **A related verse.** The Quran uses the reviving of dead land as an image of resurrection: "Indeed, He who has given it life is the Giver of Life to the dead" (41:39).
 
 ### Classical tafsir
-**Ibn Kathir (the 14th-century Damascene scholar whose tafsir is the most widely read in English).** God "causes the seed grain and the fruit stone to split and sprout in the ground", producing many kinds of grain and fruit. He explains the next phrase by the plant itself: "He brings the living plant from the seed grain and the fruit stone, which is a lifless and inanimate object" (his translator's spelling). He then reports two other readings, without naming who held them: "He brings the egg from the chicken, and the opposite", and "Others said that it means, He brings the wicked offspring from the righteous parent and the opposite."
+**Ibn Kathir (the 14th-century Damascene scholar).** God "causes the seed grain and the fruit stone to split and sprout in the ground", producing many kinds of grain and fruit. He explains the next phrase by the plant itself: "He brings the living plant from the seed grain and the fruit stone, which is a lifless and inanimate object" (his translator's spelling). He then reports two other readings, without naming who held them: "He brings the egg from the chicken, and the opposite", and "Others said that it means, He brings the wicked offspring from the righteous parent and the opposite."
 
 **Al-Jalālayn (a short classical commentary by Jalal al-Din al-Mahalli and Jalal al-Din al-Suyuti).** "God it is Who splits the grain from the plants and the date-stone from the palm-trees." On the living and the dead: "He brings forth the living from the dead such as the human being from the sperm and the bird from the egg", and the reverse, "the sperm and the egg from the living".
 
@@ -29,8 +29,8 @@
 **What they did not say.** Neither commentary read here describes how a seed germinates. Their point is the argument the verse itself makes: "That is Allah; so how are you deluded?" (6:95).
 
 ### How it works
-- **A seed is dormant, not dead.** [Established] A dry seed looks lifeless but is alive: as the next points show, it can wait for years and still grow when water reaches it. This is the scientific counterpart of the verse's "dead".
-- **Splitting begins with water.** [Established] UF/IFAS describes three phases. "Early seed germination begins with imbibition of water": the dry seed soaks up water and swells. Then comes "a period where there is little water uptake called the lag phase". Finally "water uptake drives the emergence of the radicle": the embryonic root breaks through the seed coat. This is the moment the verse calls *falq*, splitting.
+- **A seed is dormant, not dead.** [Established] A dry seed looks lifeless but is alive: as the next points show, it can wait for years and still grow when water reaches it.
+- **Splitting begins with water.** [Established] UF/IFAS describes three phases. "Early seed germination begins with imbibition of water": the dry seed soaks up water and swells. Then comes "a period where there is little water uptake called the lag phase". Finally "water uptake drives the emergence of the radicle": the embryonic root breaks through the seed coat.
 - **The hard date stone.** [Established] The current page cites Gong et al. (2005): the date's stored food is a carbohydrate (galactomannan) laid down in very thick cell walls, which is why the stone is so hard; it is broken down mainly after the root has emerged. (This study was not re-read for this run.)
 - **How long a seed can wait.** [Established for the one seed; Moderate for the general point] A date seed excavated at Masada in the 1960s, then stored at room temperature for about four decades, was planted in 2005 by a team led by Sarah Sallon (Hadassah Medical Organisation), and cared for by Elaine Solowey. Fragments of its own shell were radiocarbon-dated to about 2,000 years old, "give or take about 50 years" (National Geographic, reporting Sallon et al., *Science*, 2008). Sallon put its survival down to Masada's hot, dry climate, which limited damage from free radicals, "a major force in seed ageing".
 - **Not a single freak.** [Moderate] In 2020 the team reported "seven successfully sprouted ancient seeds" from three Judean desert sites, including Qumran, roughly 1,800 to 2,400 years old, named Methuselah, Adam, Jonah, Uriel, Boaz, Judith and Hannah (Phys.org, reporting Sallon et al., *Science Advances*, 2020). The paper itself was not opened for this run.
@@ -43,7 +43,7 @@
 ### The reflection
 Most of us have never watched a seed split. It happens underground, out of sight, in every field and garden. The verse stops us at that moment: "Indeed, Allah is the cleaver of grain and date seeds" (6:95). It chooses two seeds, the small grain and the hard date stone, as if to say: soft or hard, it is not the seed that opens itself.
 
-Then it widens the view: "He brings the living out of the dead." The commentators heard many things in this line: the plant from the seed, the bird from the egg, a good child from a hard home. All of them are about life appearing where we did not expect it.
+Then it widens the view: "He brings the living out of the dead." The commentators heard many things in this line: the plant from the seed, the bird from the egg, a wicked child from a righteous parent and the reverse. All of them are about life appearing where we did not expect it.
 
 Sura al-Wāqiʿa asks the farmer directly: "Is it you who makes it grow, or are We the grower?" (56:64). The farmer's work is real; it is not the whole story. Elsewhere the Quran draws the conclusion for us: the One who gives life to dead earth "is the Giver of Life to the dead" (41:39).
 
@@ -72,7 +72,7 @@ A seed that waited two thousand years and then answered water is a small, true p
 - Saheeh International, via `src/data/quran.json` — 16:66.
 - Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 16:66, https://surahquran.com/tafsir-english-aya-66-sora-16.html.
 - "Anatomy of the Mammary Gland", Cornell University (adapted from DeLaval material) — blood volume per litre of milk; how milk components are made, as read for this run.
-- "The miracle of milk" (staff article, from the *Miracles of the Qur'an* website), islam.com.kw, https://www.islam.com.kw/?p=30907 — the popular modern claim.
+- "The Formation of Milk", by Truth Seeker Staff, "Taken with slight editorial modifications from Miracles of the Qur'an website", islam.com.kw, https://www.islam.com.kw/?p=30907 — the popular modern claim.
 
 ### In brief
 16:66 points to an ordinary drink and calls it "a lesson": "pure milk, palatable to drinkers", which comes "between excretion and blood".
@@ -93,8 +93,8 @@ A seed that waited two thousand years and then answered water is a small, true p
 
 ### How it works
 Each point below is tied to the verse's phrase "between excretion and blood".
-- **From food to blood.** [Established] Digested food is absorbed from the gut into the blood. That is the "between" of the verse in physiological terms: milk's raw materials come out of the digestive tract and travel in the blood.
-- **From blood to milk.** [Established] Cornell's guide: "Milk synthesis takes place in the alveoli", tiny sacs in the udder lined with milk-making cells. These cells take what they need from the blood: fatty acids are "absorbed from the blood", and "Milk protein is synthesized from amino acids also with origin from the blood". Milk is not filtered blood; the cells build new substances (milk sugar, milk proteins, milk fat) from what the blood brings.
+- **From food to blood.** [Established] Digested food is absorbed from the gut into the blood. Milk's raw materials come out of the digestive tract and travel in the blood.
+- **From blood to milk.** [Established] Cornell's guide: "Milk synthesis takes place in the alveoli", tiny sacs in the udder lined with milk-making cells. These cells take what they need from the blood: long-chain fatty acids are "absorbed from the blood" (short-chain ones are made in the gland), and "Milk protein is synthesized from amino acids also with origin from the blood". Milk is not filtered blood; the cells build new substances (milk sugar, milk proteins, milk fat) from what the blood brings.
 - **How much blood.** [Established, as an average] "To produce 1 liter of milk 500 ltr. of blood have to pass through the udder" (Cornell). The figure is an average used in dairy science; it varies with the cow and her yield.
 
 ### Points of awe
@@ -111,7 +111,7 @@ There is also a lesson a reader can take inward, as a reflection rather than a r
 The verse sits in a passage about rain, fruit and honey. Each is ordinary. Each, the sura says, is provision. The fitting response is the one the Quran asks for again and again: to notice, and to be grateful.
 
 ### Honest notes
-- **The popular claim.** A widely shared article says that "High-nutrition milk is thus produced from blood, which cannot be consumed directly, and semi-digested food", and that this "could not have been known at the time when the Qur'an was revealed" (staff article from the *Miracles of the Qur'an* website, on islam.com.kw).
+- **The popular claim.** A widely shared article says that "High-nutrition milk is thus produced from blood, which cannot be consumed directly, and semi-digested food", and that this "could not have been known at the time when the Qur'an was revealed" ("The Formation of Milk", Truth Seeker Staff, on islam.com.kw, from the *Miracles of the Qur'an* website).
 - **Weighing it.** The verse's words fit what physiology says: milk's raw materials come from digested food through the blood. But the claim goes further than the text. The verse does not mention absorption, circulation or milk-making cells, and neither Ibn Kathir nor al-Jalālayn read it as physiology. They read it as purity coming from between impurities. Ibn Kathir himself, centuries before modern physiology, describes milk forming "after the food has been fully digested" and going "to the udder", without treating this as hidden knowledge. The fair statement is: the verse's image is accurate and striking; it is not a hidden description of cell biology.
 - **Numbers are averages.** "500 litres of blood per litre of milk" is a rule of thumb, not a constant.
 
@@ -151,18 +151,18 @@ The verse sits in a passage about rain, fruit and honey. Each is ordinary. Each,
 
 **On "the ways of your Lord".** Ibn Kathir reports two readings. Mujahid: these are routes the bees follow, "as they are easy for you". Qatada and ʿAbd al-Rahman ibn Zayd: the bee follows them "in an obedient way". Ibn Jarir al-Tabari held that both are correct.
 
-**On honey and "healing".** Ibn Kathir describes honey as "white, yellow, red, or of other good colors, depending on the different things that the bees eat", and reads the healing as honey's: "there is a cure in honey for diseases that people suffer from". He cites the hadith of a man whose brother had stomach trouble: the Prophet (pbuh) told him to give honey, and when the man came back saying it had not helped, he replied, "Allah speaks the truth and your brother's stomach is lying" (Ibn Kathir, citing al-Bukhari and Muslim; {hadith:bukhari:5684}). The brother recovered after more honey.
+**On honey and "healing".** Ibn Kathir describes honey as "white, yellow, red, or of other good colors, depending on the different things that the bees eat", and reads the healing as honey's: "there is a cure in honey for diseases that people suffer from". He cites the hadith of a man whose brother had stomach trouble: the Prophet (pbuh) told him to give honey, and when the man came back saying it had not helped, he replied, in Ibn Kathir's translator's wording, "Allah speaks the truth and your brother's stomach is lying" (Ibn Kathir, citing al-Bukhari and Muslim; on sunnah.com, {hadith:bukhari:5684}: "Allah has said the truth, but your brother's `Abdomen has told a lie"). The brother recovered after more honey.
 
-**Al-Jalālayn on "healing".** Its English text says two things: that honey is "a cure for mankind from all ailments", and that "it is a cure only for some ailments as indicated by the indefinite noun *shifāʾun*", or "a cure for all ailments when supplemented with some other remedy". The grammatical point, that *shifāʾ* is indefinite, is the one later readers most often take from it: the verse says "healing", not "a cure for everything".
+**Al-Jalālayn on "healing".** Its main reading is that honey is "a cure for mankind from all ailments". It then reports other views: "it is also said that it means that it is a cure only for some ailments", "as indicated by the indefinite noun *shifāʾun*", "or that it is a cure for all ailments when supplemented with some other remedy", "or without these other remedies but with the resolve niyya to get better".
 
-**A different reading.** *Tanwīr al-Miqbās*, a commentary attributed to Ibn ʿAbbas (the attribution is doubted), reads the healing as the Quran's rather than honey's (as noted on the surahquran page; Ibn Kathir does not hold this view).
+**A second view.** *Tanwīr al-Miqbās*, a commentary attributed to Ibn ʿAbbas, reads the healing as honey's ("in honey there ( is healing for mankind ) from illness"), and then reports a second view: "it is also said that this means: there is in the Qur'an healing for mankind" (surahquran.com, 16:69). Ibn Kathir does not mention this second view.
 
 ### How it works
 - **"From all the fruits".** [Established] Foragers collect nectar from flowers. "Nectar can contain up to 80 percent water" (Collins-Smith, MSU Extension).
-- **"From their bellies".** [Established] Nectar is carried in "the bee's crop, or honey stomach", which can hold up to a third of the bee's weight. The forager adds an enzyme, invertase, "as they swallow it", which begins splitting sucrose into simpler sugars. Back at the hive, she "regurgitates her nectar load to special food-handling bees" (MSU Extension). So the drink does come "from their bellies", though not from the digestive stomach: the crop is a storage organ before the gut proper.
-- **From nectar to honey.** [Established] Bees dry the nectar by "rapidly beating or fanning their wings in the hive", which "reduces that water content to around 18 percent" (MSU Extension). Low water is one reason honey keeps.
+- **"From their bellies".** [Established] Nectar is carried in "the bee's crop, or honey stomach", which can hold up to a third of the bee's weight. The forager adds an enzyme, invertase, "as they swallow it", which begins splitting sucrose into simpler sugars. Back at the hive, she "regurgitates her nectar load to special food-handling bees" (MSU Extension).
+- **From nectar to honey.** [Established] Bees dry the nectar by "rapidly beating or fanning their wings in the hive", which "reduces that water content to around 18 percent" (MSU Extension).
 - **"Varying in colors".** [Established] Honey's colour and flavour depend on the flowers the nectar came from, as Ibn Kathir also says.
-- **The foragers are female.** [Established] Foragers are female worker bees; the MSU Extension account speaks of the forager and "her nectar load".
+- **The foragers are female.** [Established, but not shown by the source read] Foragers are female worker bees; the MSU Extension account only implies it ("her nectar load"). A named source is needed (see Gaps).
 - **"Healing for people": what trials show.**
   - *Burns.* [Moderate to High for this one use] A Cochrane review (Jull et al. 2015; 26 trials, 3,011 participants) found that "honey dressings heal partial thickness burns more quickly than conventional dressings", by about 4.7 days (high-certainty evidence for this comparison). But for wounds overall it was "difficult to draw overall conclusions", and most of the evidence was of low or very low certainty.
   - *Coughs and colds.* [Moderate] A meta-analysis in *BMJ Evidence-Based Medicine* (14 studies) found honey reduced cough frequency (standardised mean difference −0.36; 95% CI −0.50 to −0.21) and cough severity (−0.44; −0.64 to −0.25) compared with usual care. The authors called for placebo-controlled trials.
@@ -177,7 +177,7 @@ The bee's work is described in the verse as obedience. It is told where to live,
 
 No single bee sees the jar. The work is shared among thousands of small lives, each doing its part faithfully, and the result is "a drink, varying in colors, in which there is healing for people" (16:69). Most good in the world is made this way: by many people doing small things well, who never see the whole.
 
-The verse also uses a careful word. It says honey contains "healing" (*shifāʾ*), not that it cures everything. Al-Jalālayn noticed the grammar. Modern trials point the same way: real help for some things, not a cure-all. Gratitude for a gift does not require exaggerating it.
+The verse also uses a careful word. It says honey contains "healing" (*shifāʾ*), not that it cures everything. Al-Jalālayn reports a view that reads the grammar this way. Modern trials point the same way: real help for some things, not a cure-all. Gratitude for a gift does not require exaggerating it.
 
 The passage ends with an instruction to the reader, not to the bee: "Indeed in that is a sign for a people who give thought" (16:69). The bee follows its Lord's ways without choosing to. A human being is asked to think, and then to choose.
 
@@ -192,9 +192,9 @@ The passage ends with an instruction to the reader, not to the bee: "Indeed in t
 
 **Is honey a cure for everything?** The verse says honey contains "healing" (16:69), with an indefinite noun. Al-Jalālayn notes that it can mean healing for some ailments. Trials show benefit for some uses, such as burns and coughs (see "How it works").
 
-**What is the hadith about honey and the stomach?** A man's brother had stomach trouble; the Prophet (pbuh) told him to give honey, and when it seemed not to work he said, "Allah speaks the truth and your brother's stomach is lying" ({hadith:bukhari:5684}). The brother recovered after more honey.
+**What is the hadith about honey and the stomach?** A man's brother had stomach trouble; the Prophet (pbuh) told him to give honey, and when it seemed not to work he said, "Allah has said the truth, but your brother's `Abdomen has told a lie" ({hadith:bukhari:5684}, narrated by Abu Saʿid al-Khudri). The brother recovered after more honey.
 
-**Does "from their bellies" mean honey is vomit?** Nectar is carried in the crop (honey stomach), a storage organ before the digestive gut, and is passed from bee to bee. It is changed by enzymes and drying, not digested (MSU Extension).
+**Does "from their bellies" mean honey is vomit?** Nectar is carried in the crop ("the bee's crop, or honey stomach") and is passed from bee to bee. It is changed by enzymes and drying, not digested (MSU Extension).
 
 **Why does the verse say "varying in colors"?** Honey's colour depends on the flowers, as Ibn Kathir notes: "white, yellow, red, or of other good colors".
 
@@ -219,14 +219,14 @@ The passage ends with an instruction to the reader, not to the bee: "Indeed in t
 
 - **Key words.** *Sulāla min ṭīn*: an extract of clay. *Nuṭfa*: a small drop of fluid. *Qarār makīn*: a firm, secure lodging. *ʿAlaqa*: from a root meaning to cling or hang; it can mean a clot of blood or a leech. *Muḍgha*: a small piece of flesh, the size of a chewed mouthful. *ʿIẓām*: bones. *Khalqan ākhar*: "another creation".
 - **The connecting words.** The Arabic links the stages with two different words: *thumma* ("then", with a gap) and *fa-* ("and so", following on). The verse does not give durations.
-- **Setting.** Sura al-Muʾminūn is Meccan. The passage follows a description of the believers (23:1–11) and leads into death and resurrection: "the next verses say that after this you will die and then be raised on the Day of Resurrection (23:15–16, paraphrased; not quoted from verified data here). The stages are part of an argument for the resurrection.
+- **Setting.** Sura al-Muʾminūn is Meccan. The passage follows a description of the believers (23:1–11) and leads into death and resurrection: the next verses say that after this you will die and then be raised on the Day of Resurrection (23:15–16, paraphrased; not quoted from verified data here). The stages are part of an argument for the resurrection.
 
 ### Classical tafsir
 **Ibn Kathir on 23:12.** God "initially created man from an extract of *Tin*" — that is, Adam (pbuh) — and then his descendants from a drop (as quoted on the current page).
 
 **Ibn Kathir on the stages.** The *ʿalaqa*: "Then it becomes a red clot, like an elongated clot", and he cites ʿIkrima: "This is blood." The *muḍgha*: "like a piece of flesh with no shape or features". Then: "We gave it shape, with a head, two arms and two legs, with its bones, nerves and veins", and the flesh is "something to cover it and strengthen it". On "another creation": "then We breathed the soul into it, and it moved and became a new creature". He also reports Ibn ʿAbbas: "We change it from one stage to another until it emerges as an infant."
 
-**The forty-day hadith.** Ibn Kathir cites the report of Ibn Masʿud (ra): "The creation of anyone of you is gathered for forty days in his mother's stomach as a Nutfah", followed by the clot and the lump, and "Then the angel is sent to him and he breathes the soul into it" (Ibn Kathir's wording; {hadith:bukhari:3208}, also in Muslim).
+**The forty-day hadith.** Ibn Kathir cites the report of Ibn Masʿud (ra): "The creation of anyone of you is gathered for forty days in his mother's stomach as a Nutfah", followed by the clot and the lump, and "Then the angel is sent to him and he breathes the soul into it" (Ibn Kathir's wording, from the version in Musnad Ahmad, which he says was also "recorded by Al-Bukhari and Muslim"). The English of {hadith:bukhari:3208} reads differently: "(The matter of the Creation of) a human being is put together in the womb of the mother in forty days", and "Then the soul is breathed into him" comes after the angel writes four things.
 
 **Al-Jalālayn.** "Then We transformed the drop of semen into a clot congealed blood… into a little lump of flesh… into bones… Then We clothed the bones with flesh", and "Then We produced him as yet another creature by breathing into him Our Spirit."
 
@@ -238,7 +238,7 @@ Each point is tied to a word of the verse.
 - **"Clinging" (*ʿalaqa*).** [Established] By the fourth week the embryo is 2–5 mm long. EHD gives Carnegie stage 10 (about 22 days, by the 1987 convention it uses) as 2–3.5 mm with 4–12 somites, and stage 12 (about 26 days) as 3–5 mm with 21–29 somites; UNSW gives stage 12 as "Week 4, 26 - 30 days" and "3 - 5 mm". At this stage it is attached to the womb wall and depends on it.
 - **The heart.** [Established, with debated dating] EHD says the heart's first contractions have "long been described as a Carnegie Stage 10 or possibly a very late Stage 9 event" — about 22 days after fertilisation by its convention — while noting other studies that report 23, 25, or even 28–30 days.
 - **"Lump" (*muḍgha*).** [Established] Somites are paired blocks of tissue along the embryo's back; at stages 10–12 (about 22–26 days by EHD's convention) their number rises from 4 to 29 pairs (EHD). They give the embryo a segmented look.
-- **"Bones… covered with flesh".** [Moderate, on the timing] Limb buds appear in the fourth week: "Day 24: appearance of upper limb bud" and "Day 26: appearance of lower limb bud" (Lecturio). The limb tissue condenses into "Models of hyaline cartilage" (Lecturio), which later turn to bone. On where limb muscle comes from, the two sources read disagree: Lecturio says "Muscle comes from myotome: ventrolateral cells originating from somites", while LifeMap's older review says "There is no apparent contribution from the myotome regions of the somite". On timing, LifeMap says the muscle masses form "as the bones form and the limbs elongate". In other words, the cartilage skeleton and the muscle develop in the same weeks, overlapping; bone proper (ossification) comes later. Exact week ranges for each were not found in the sources read.
+- **"Bones… covered with flesh".** [Moderate, on the timing] Limb buds appear in the fourth week: "Day 24: appearance of upper limb bud" and "Day 26: appearance of lower limb bud" (Lecturio). The limb tissue condenses into "Models of hyaline cartilage" (Lecturio), which later turn to bone. Limb muscle comes from cells that migrate in from the somites: "Muscle comes from myotome: ventrolateral cells originating from somites" (Lecturio). On timing, LifeMap says that "As the bones form and limbs elongate, myoblasts aggregate and form the large muscle masses". In other words, the cartilage skeleton and the muscle develop in the same weeks, overlapping; bone proper (ossification) comes later. Exact week ranges for each were not found in the sources read.
 
 ### Points of awe
 - At about four weeks, an embryo of 3–5 mm already has 21–29 pairs of somites (EHD; UNSW).
@@ -284,7 +284,7 @@ The passage does not end with an explanation. It ends with praise: "So blessed i
 - *Maʿārif al-Qurʾān* (English, on Quran.com; the page does not name its author), on 36:38–40, https://quran.com/36:38/tafsirs/en-tafsir-maarif-ul-quran.
 - Quranpedia, English renderings of 36:38, https://quranpedia.net/tafsir/ya-sin/38/en — how different translators render *mustaqarr*.
 - Sahih al-Bukhari 3199 and 4802 (sunnah.com, https://sunnah.com/bukhari:4802; hadithunlocked.com, https://hadithunlocked.com/bukhari:4802).
-- "The hadith of the sun prostrating" — IslamQA answer 176375, https://islamqa.info/en/downloads/answers/176375 — quoting al-Khattabi, *Aʿlām al-Ḥadīth*.
+- "The correct way to describe the sun is that it 'prostrates beneath the Throne' and not that it 'sets in a spring of warm water'", IslamQA answer 176375, https://islamqa.info/en/downloads/answers/176375 — quoting al-Khattabi, *Aʿlām al-Ḥadīth Sharḥ Ṣaḥīḥ al-Bukhārī*, p. 1893.
 - Faraz Rabbani, "Does the Hadith of the Sun's Prostration Bear on the Earth's Rotation?", SeekersGuidance (6 August 2026), https://seekersguidance.org/answers/hanafi-fiqh/does-the-hadith-of-the-suns-prostration-bear-on-the-earths-rotation/ — reporting Ibn Hajar's *Fatḥ al-Bārī* and others.
 - NASA StarChild, on the sidereal and synodic month (as read for this run).
 - "Galactic year", *Wikipedia* (citing NASA StarChild) — the Sun's speed and orbit around the galaxy.
@@ -306,13 +306,13 @@ The passage does not end with an explanation. It ends with praise: "So blessed i
 - **Setting.** Sura Yā Sīn is Meccan. These verses follow signs on earth (dead land revived, gardens and springs, 36:33–35) and precede signs at sea (ships, 36:41–42). The passage addresses people who deny the resurrection.
 
 ### Classical tafsir
-**Ibn Kathir on "toward its stopping point".** He gives two views. The first, place: it "refers to its fixed course of location, which is beneath the Throne". The second, time: "this refers to when the sun's appointed time comes to an end, which will be on the Day of Resurrection", with Qatada: "It has an appointed time and it will not go beyond that." He also reports that Ibn Masʿud and Ibn ʿAbbas recited the verse as "with no fixed course" (*lā mustaqarra lahā*), which he explains as "never slowing down or stopping". (The current page also quotes him describing the Throne as "a dome" that is "not a sphere as many astronomers claim"; that passage was not re-read for this run.)
+**Ibn Kathir on "toward its stopping point".** He gives two views. The first, place: it "refers to its fixed course of location, which is beneath the Throne". The second, time: "this refers to when the sun's appointed time comes to an end, which will be on the Day of Resurrection", with Qatada: "It has an appointed time and it will not go beyond that." He also reports that Ibn Masʿud and Ibn ʿAbbas recited the verse as "with no fixed course" (*lā mustaqarra lahā*), which he explains as "never slowing down or stopping". The same page also has his description of the Throne: "a dome supported by legs or pillars, carried by the angels, and it is above the universe", and "the Throne is the roof of creation and it is not a sphere as many astronomers claim" (surahquran.com, 36:38). That is the cosmology of his time.
 
 **Al-Jalālayn.** "to its resting-place in other words it does not overstep it", and "its running is the ordaining of the Mighty in His kingdom the Knower of His creation".
 
 ***Maʿārif al-Qurʾān*.** The word "is used to denote place of rest as well as time of rest"; on the time view, the sun reaches "the end of its movement already determined - and that time is the Day of Doom"; on the place view, it is "a place where one orbit of the movement of the sun stands completed".
 
-**On the moon and the orbits.** Ibn Kathir: the moon wanes "until it appears like the old dried curved date stalk", which Ibn ʿAbbas explains as the stem joining the date cluster to the tree. "Each in an orbit" means "floating, i.e., revolving, in their orbits in the heaven". He cites Ibn ʿAbbas "and others among the Salaf" (the earliest generations): "In an orbit like the arc of a spinning wheel", and lists Ibn ʿAbbas, ʿIkrima, al-Dahhak, al-Hasan, Qatada and ʿAtaʾ al-Khurasani for the "floating, revolving" reading. On "nor does the night overtake the day", Mujahid adds that there is no gap between them.
+**On the moon and the orbits.** Ibn Kathir: the moon wanes "until it appears like the old dried curved date stalk", which Ibn ʿAbbas explains as the stem joining the date cluster to the tree. "Each in an orbit" means "floating, i.e., revolving, in their orbits in the heaven". He cites Ibn ʿAbbas "and others among the Salaf" (the earliest generations): "In an orbit like the arc of a spinning wheel", and lists Ibn ʿAbbas, ʿIkrima, al-Dahhak, al-Hasan, Qatada and ʿAtaʾ al-Khurasani for the "floating, revolving" reading. On "nor does the night overtake the day", Mujahid says: "They seek one another rapidly"; Ibn Kathir explains that "there is no gap between night and day; each of them follows the other with no interval".
 
 **The hadith of the sun's prostration.** Abu Dharr (ra) reports that at sunset the Prophet (pbuh) asked him, "O Abu Dharr! Do you know where the sun sets?" and said: "It goes and prostrates underneath (Allah's) Throne", then recited 36:38 ({hadith:bukhari:4802}). In the fuller report, it "takes the permission to rise again", and a time will come when "it will be ordered to return whence it has come and so it will rise in the west" ({hadith:bukhari:3199}). Both are in Sahih al-Bukhari.
 
@@ -328,13 +328,13 @@ The passage does not end with an explanation. It ends with praise: "So blessed i
 Each point is tied to a phrase in the verses.
 - **"We have determined for it phases" (36:39).** [Established] The Moon goes once around the sky relative to the stars "in about 27.3 days", but "takes 29.5 days to return to the same point on the celestial sphere as referenced to the Sun" (NASA StarChild). The difference arises because the Earth has moved along its own orbit in the meantime, so the Moon needs just over two more days to line up with the Sun again. Phases depend on the Sun–Earth–Moon angle, so a full cycle of phases, new moon to new moon, is the 29.5-day month. That is the length of a lunar (Islamic) month: 29 or 30 days.
 - **"Until it returns [appearing] like the old date stalk" (36:39).** [Established] Before and after new moon, only a thin curved edge of the lit half faces us: the crescent the verse compares to a dried date stalk.
-- **"The sun runs" (36:38).** [Established] The Sun is not fixed. It carries the solar system around the centre of our galaxy at an average speed of about "230 km/s (828,000 km/h)", and "Estimates of the duration of one orbit range from 225 to 250 million terrestrial years" (*Wikipedia*, "Galactic year", citing NASA StarChild).
+- **"The sun runs" (36:38).** [Established] The Sun is not fixed. It carries the solar system around the centre of our galaxy at an average speed of about "230 km/s (828,000 km/h)" (*Wikipedia*, "Galactic year", citing NASA StarChild, February 2000). NASA StarChild adds that "it still takes us about 230 million years to make one complete orbit around the Milky Way!" (*Wikipedia* gives "approximately 225 million Earth years", citing Leong 2002.)
 - **"Nor does the night overtake the day" (36:40).** [Established] Day and night follow each other as the Earth turns; at every moment it is day on one half of the Earth and night on the other.
-- **The skeptic's point about the hadith.** [Established] Because of the same rotation, the Sun is always setting somewhere and rising somewhere else. So "after it sets, it goes and prostrates" cannot describe one moment when the Sun is absent from the whole Earth. (How scholars answer this is in "Classical tafsir" and "Honest notes".)
+- **The skeptic's point about the hadith.** [Established] Because of the same rotation, the Sun is always setting somewhere and rising somewhere else. (What this means for the hadith of the sun's prostration is discussed in "Honest notes", not here.)
 
 ### Points of awe
 - The lunar month (29.5 days) is two days longer than the Moon's trip around the sky (27.3 days), because the Earth itself is moving (NASA StarChild).
-- The Sun moves at about 230 km/s around the galaxy, one circuit in 225–250 million years (*Wikipedia*, citing NASA).
+- The Sun moves at about 230 km/s around the galaxy, one circuit in about 230 million years (NASA StarChild).
 - The crescent the verse compares to a dried date stalk is the same shape whose sighting begins each Islamic month.
 
 ### The reflection
@@ -354,7 +354,7 @@ There is a lesson for a life, too, offered here as reflection. Each light in the
   - People in the seventh century already saw the sun move across the sky every day; a verse saying "the sun runs" was not, to them, a hidden claim.
   - The claim also uses "proves", which this site does not. The fair statement: the verse's words are compatible with what we now know; they are not a prediction of it.
 - **The hadith, stated plainly.** Bukhari 3199 and 4802 are *ṣaḥīḥ* reports in which the sun, after setting, "goes and prostrates underneath (Allah's) Throne" and asks permission to rise. A skeptic's objection is real: the sun is always rising somewhere. The answers differ. Al-Khattabi leaves the manner to the unseen. Ibn Hajar allows a figurative reading (submission, or the prostration of its angel). *Maʿārif al-Qurʾān* calls it a similitude and says the sun is always beneath the Throne, so its prostration "needs no pause or break". *Limit:* a reader who takes the hadith's words as a physical sequence will find a conflict with astronomy; these answers resolve it only by reading the prostration as non-physical or unknowable. The page shows the hadith and the readings rather than choosing for the reader.
-- **The Throne passage.** The current page quotes Ibn Kathir calling the Throne "a dome" and "not a sphere as many astronomers claim". That is his cosmology, and the page is right to show it; the quotation should be re-checked against its source with a page reference.
+- **The Throne passage.** The current page quotes Ibn Kathir calling the Throne "a dome" and "not a sphere as many astronomers claim". The quotation is correct (surahquran.com, 36:38). That is his cosmology, and the page is right to show it.
 
 ### Questions readers ask next
 **Why are there 27.3 days and 29.5 days?** The Moon goes around the sky in 27.3 days, measured against the stars. But phases depend on where the Sun is, and since the Earth has moved along its own orbit, the Moon needs just over two more days to line up with the Sun again. So new moon to new moon is 29.5 days (NASA StarChild). These are the "phases" of 36:39.
@@ -367,7 +367,7 @@ There is a lesson for a life, too, offered here as reflection. Each light in the
 
 **The hadith says the sun prostrates after it sets — but the sun is always rising somewhere. How can that be?** This is a real objection. The answers above read the prostration as non-physical (submission), or continuous, or beyond our knowledge. A reader may or may not find them convincing; the page shows the hadith and the readings rather than hiding them.
 
-**Did classical scholars think the sun goes around the earth?** Their cosmology was geocentric, and Ibn Kathir's comments reflect it. This page does not claim the verse described modern astronomy.
+**Did classical scholars think the sun goes around the earth?** Their cosmology was that of their time: Ibn Kathir reads the orbits as "in the heaven" and the Throne as "a dome" over the universe. (Whether he states an Earth-centred model in so many words was not checked for this run.) This page does not claim the verse described modern astronomy.
 
 ---
 
@@ -404,8 +404,8 @@ There is a lesson for a life, too, offered here as reflection. Each light in the
 ### How it works
 - **"Every living thing" and water.** [Established] "Up to 60% of the human adult body is water" (USGS). By organ: "the brain and heart are composed of 73% water, and the lungs are about 83% water"; skin is about 64%, muscles and kidneys 79%, bones 31% (USGS, citing Mitchell and others, 1945). Babies are born at about 78% water, falling to about 65% by age one (USGS, citing Dr Jeffrey Utz).
 - **"Is it you who brought it down from the clouds?" (56:69).** [Established] When seawater evaporates, the salt stays behind; the vapour that forms clouds is fresh. Rain is distilled water, which is why rain is drinkable and the sea is not.
-- **"We could make it bitter" (56:70).** [Established] Salt water is heavier: "ocean water, which contains dissolved salt, is denser than pure water" (USGS, "Water Density"). The bitterness the verse names is the salt that evaporation leaves behind.
-- **Water's unusual behaviour.** [Established] Most substances shrink when they freeze. Water does the opposite: "Upon freezing, the density of ice decreases by about 9 percent" (USGS). Water is densest at about 4 °C, so colder water rises and ice forms on top; otherwise, USGS notes, "the lake could freeze from the bottom up". Ice floating on top insulates the water below, where fish and plants survive the winter. (This is a fact about water that supports life; the verses do not mention it.)
+- **"We could make it bitter" (56:70).** [Established] Salt water is heavier: "ocean water, which contains dissolved salt, is denser than pure water" (USGS, "Water Density").
+- **Water's unusual behaviour.** [Established] Most substances shrink when they freeze. Water does the opposite: "Upon freezing, the density of ice decreases by about 9 percent" (USGS). Water is densest at about 4 °C, so near-freezing water is lighter and stays on top, where ice forms; otherwise, USGS notes, "the lake could freeze from the bottom up". Ice floating on top insulates the water below, where fish and plants survive the winter. (This is a fact about water that supports life; the verses do not mention it.)
 
 ### Points of awe
 - An adult is up to about 60% water; the lungs about 83% (USGS).
@@ -482,13 +482,13 @@ Each point is tied to the verses' words "released… meeting", "fresh and sweet�
   - In well-mixed estuaries, "Strong tidal currents eliminate the vertical layering".
   So a "barrier" of density can be sharp, gradual or absent.
 - **Two salt seas: Gibraltar.** [Established] Mediterranean water leaving through the Strait of Gibraltar has a salinity of "38 g/kg" and a temperature of "13 °C", "extremely high compared with any other waters in that depth range". It exits at about 120 m depth and sinks to an equilibrium depth of about 1,100 m, at a rate of about 1 Sverdrup (a million cubic metres per second) (*Wikipedia*, "Mediterranean outflow").
-- **But it does mix.** [Established] At Gibraltar, tides flowing over the Camarinal Sill create "an internal bore", which breaks into internal waves that drive strong mixing; the outflow becomes "less saline due to mixing" as it moves west. Lenses of Mediterranean water called meddies, 10–50 km across and 500–1,000 m thick, carry its salt far into the Atlantic; "between 15 and 20 meddies are formed" each year (*Wikipedia*).
+- **But it does mix.** [Established] At Gibraltar, tides flowing over the Camarinal Sill create "an internal bore", which breaks into internal waves that drive strong mixing; the outflow becomes "less saline due to mixing" as it moves west. Lenses of Mediterranean water called meddies, with radii of 10–50 km (about 20–100 km across) and 500–1,000 m thick, carry its salt far into the Atlantic; "between 15 and 20 meddies are formed" each year (*Wikipedia*).
 - **The viral video.** [Established] A widely shared photo said to show "two oceans meeting but not mixing" in the Gulf of Alaska shows, according to Lead Stories, "another river plume taken during a research cruise in the Gulf of Alaska" (photo by Kent Smith, 2010). Ocean Networks Canada, quoted there, describes a similar plume as "a puddle of light water (formed by mixing fresh Fraser water with salt water)".
 
 ### Points of awe
 - Where a river meets the sea, its fresh water can ride over the salt water in a distinct layer (NOAA).
 - About a million cubic metres of Mediterranean water pour into the Atlantic every second, beneath the incoming Atlantic water (*Wikipedia*).
-- Lenses of Mediterranean water up to 50 km across travel far into the Atlantic, holding their identity for a long time (*Wikipedia*).
+- Lenses of Mediterranean water up to about 100 km across "can survive for many years and can move through thousands of kilometers" (*Wikipedia*).
 
 ### The reflection
 Two waters meet. One is sweet, one bitter. They are "released", free to flow, and still something keeps each from overrunning the other: "Between them is a barrier [so] neither of them transgresses" (55:20).
@@ -528,7 +528,7 @@ There is a picture here for human life, offered as reflection. People of very di
 - Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 51:49, https://surahquran.com/tafsir-english-aya-49-sora-51.html, and on 30:22, https://surahquran.com/tafsir-english-aya-22-sora-30.html.
 - Ethnologue, 27th edition (21 February 2024) — number of living languages, as read for this run.
 - Nina G. Jablonski & George Chaplin, "The evolution of human skin coloration", *Journal of Human Evolution* 39(1):57–106 (2000), abstract via Penn State, https://pure.psu.edu/en/publications/the-evolution-of-human-skin-coloration/.
-- Sultan Bashir Mahmood (with Robin Yasin Qusab), "The Holy Qur'an and Dirac's Theory of Pairs", *The Fountain*, issue 68 (March–April 2009), https://blog.fountainmagazine.com/2009/issue-68-march-april-2009/the-holy-quran-and-diracs-theory-of-pairs — the popular modern claim.
+- Sultan Bashir Mahmood (Robin Yasin Qusab is named in the end note), "The Holy Qur'an and Dirac's Theory of Pairs", *The Fountain*, issue 68 (March–April 2009), https://blog.fountainmagazine.com/2009/issue-68-march-april-2009/the-holy-quran-and-diracs-theory-of-pairs — the popular modern claim.
 
 ### In brief
 51:49 says God created "two mates" of all things, and 30:22 counts "the diversity of your languages and your colors" among His signs: variety itself is something to notice.
@@ -540,7 +540,7 @@ There is a picture here for human life, offered as reflection. People of very di
 
 A related verse: "And from all of the fruits He made therein two mates" (13:3). And one that gives diversity a purpose: "O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you" (49:13), Medinan.
 
-- **Key words.** *Zawjayn* ("two mates"): a pair, two things that belong together; used of male and female, but also of any matching or complementary two. *Ikhtilāf alsinatikum wa-alwānikum*: the difference of your tongues and your colours. *Lil-ʿālimīn* (30:22): "for those of knowledge"; al-Jalālayn notes it can also be vowelled *lil-ʿālamīn*, "for all beings".
+- **Key words.** *Zawjayn* ("two mates"): a pair, two things that belong together; used of male and female, but also of any matching or complementary two. *Ikhtilāf alsinatikum wa-alwānikum*: the difference of your tongues and your colours. *Lil-ʿālimīn* (30:22): "for those of knowledge"; al-Jalālayn notes it can also be vowelled *lil-ʿālamīn*, which it glosses as "rational creatures".
 - **Note on wording.** Ibn Kathir's translator renders 51:49 as "And of everything We have created pairs"; Saheeh has "And of all things We created two mates".
 
 ### Classical tafsir
@@ -555,8 +555,8 @@ A related verse: "And from all of the fruits He made therein two mates" (13:3). 
 **What they did not say.** Neither reads "pairs" as a law of physics; neither treats the variety of colours as a ranking of peoples. Ibn Kathir reads "colours" as every face being different.
 
 ### How it works
-- **"Of all things… two mates": pairs in living things.** [Established] Many living things reproduce through two sexes, but not all: many organisms reproduce without a partner (for example, by dividing). So "pairs" in the biological sense is very common, not universal, which matches Ibn Kathir's wider reading of pairs as complementary opposites rather than only male and female. (No named source on asexual reproduction was read for this run; this is textbook biology.)
-- **"The diversity of your languages".** [Established] Ethnologue (27th edition, 2024) counts "a total of 7,164 living languages worldwide". Ibn Kathir named about a dozen; his "Only Allah knows the variety" was an understatement.
+- **"Of all things… two mates": pairs in living things.** [Established] Many living things reproduce through two sexes, but not all: many organisms reproduce without a partner (for example, by dividing). So "pairs" in the biological sense is very common, not universal. (No named source on asexual reproduction was read for this run; this is textbook biology.)
+- **"The diversity of your languages".** [Established] Ethnologue (27th edition, 2024) counts "a total of 7,164 living languages worldwide".
 - **"And your colors".** [Established] Jablonski and Chaplin (2000) found that "skin reflectance is strongly correlated with absolute latitude and UV radiation levels". Their explanation: dark, "highly melanized skin protected against UV-induced photolysis of folate" (the breakdown by sunlight of a vitamin needed in pregnancy), while lighter skin away from the tropics allowed "UVB-induced synthesis of previtamin D3". The range of human skin colour "represents a compromise solution to the conflicting physiological requirements of photoprotection and vitamin D synthesis".
 
 ### Points of awe
@@ -574,7 +574,7 @@ Then 49:13 gives that variety a purpose: "that you may know one another". Differ
 So the reader is asked two things. To look at the pairs, and remember that God is One. And to look at the faces and tongues of other people, and see in their difference not a threat, but a sign and an invitation to know them.
 
 ### Honest notes
-- **The popular claim.** Sultan Bashir Mahmood and Robin Yasin Qusab wrote that Paul Dirac showed "all particles in the universe must exist in pairs", and that the Quran's verse on pairs (36:36, not quoted from verified data here) "may be considered relevant to Dirac's discoveries", adding that it "clearly shows that the Qur'an is referring to a law of nature" (*The Fountain*, 2009). The claim is often extended to 51:49.
+- **The popular claim.** Sultan Bashir Mahmood wrote that Paul Dirac showed "all particles in the universe must exist in pairs", and that the Quran's verse on pairs (36:36, not quoted from verified data here) "may be considered relevant to Dirac's discoveries", adding that it "clearly shows that the Qur'an is referring to a law of nature" (*The Fountain*, 2009). The article quotes 51:49 later but does not tie it to Dirac.
 - **Weighing it.**
   - "Pairs" in the verses is a general word. Ibn Kathir's list is of complementary opposites (night and day, life and death, faith and disbelief), not of particles; al-Jalālayn's begins with "male and female".
   - Reading antimatter into the verse fits only if "pairs" is given a modern meaning the commentators read here did not give it. And not everything in physics or biology comes in pairs (see "How it works").
@@ -602,10 +602,10 @@ So the reader is asked two things. To look at the pairs, and remember that God i
 - **S1** — "A plant hormone, abscisic acid (ABA), keeps the seed dormant… gibberellin (GA) signalling… amylase" — unsourced on the page. — Cite a plant-physiology source (none was read for this run), or replace with the UF/IFAS water-uptake phases.
 - **S2** — "Al-Qurtubi makes the same point: pure milk coming out from among impurities" — unsourced. — Replace with al-Jalālayn: "pure milk uncontaminated by either the refuse or the blood", or cite al-Qurtubi with work and page.
 - **S2** — "The range is 400–600 L of blood per litre of milk" — unsourced; Cornell gives "500 ltr." — Use Cornell's figure, or cite the range.
-- **S2** — "Cornell notes that a cow producing 60 litres a day circulates 30,000 litres of blood through the mammary gland" — not found in the Cornell page read. — Check or remove.
+- **S2** — "Cornell notes that a cow producing 60 litres a day circulates 30,000 litres of blood through the mammary gland" — correct (Cornell: "When the cow is producing 60 liters of milk per day, 30,000 liters of blood are circulating through the mammary gland"), but the citation sits next to the CSIRO label. — Cite the Cornell PDF, https://nydairyadmin.cce.cornell.edu/pdf/submission/pdf255_pdf.pdf.
 - **S2** — "CSIRO Publishing (2005)" — the source has no author, title or URL. — Give the full reference or cite Cornell instead.
 - **S3** — "One bee makes about 1/12 teaspoon in its lifetime" (also in the summary and reflection) — unsourced; the Canadian Honey Council page read says "about 1 and ½ teaspoons", also without a source. — Remove the figure until a primary source is found.
-- **S3** — "The Council's own 'Bee Facts' page rounds this to two million" — not checked for this run. — Keep only with a link.
+- **S3** — "The Council's own 'Bee Facts' page rounds this to two million" — supported: the Council page read also says "Honey bees will tap about two million flowers and fly 50,000 miles (80,000 km) to make one pound". — Cite https://honeycouncil.ca/?p=633.
 - **S3** — "Al-Razi reads the bee's inspiration (*wahy*) as instinct" — unsourced. — Cite al-Razi with work and page, or replace with Ibn Kathir's "What is meant by inspiration here is guidance".
 - **S3** — "The verbs addressed to the bee are feminine, and worker bees are female" — stretched: the grammar may follow the collective noun *naḥl*; the sentence implies a link it does not show. — Add that caveat (see S3 honest notes).
 - **S3** — "Honey is antibacterial and helps coughs, but it is not a cure-all" — partly sourced. — Cite the BMJ EBM meta-analysis for coughs and the Cochrane review (Jull et al. 2015) for burns; drop "antibacterial" or cite it.
@@ -616,9 +616,9 @@ So the reader is asked two things. To look at the pairs, and remember that God i
 - **S4** — "Moore's 'textbook embryology' claim is contested" — the source given is Wikipedia's page on Keith Moore. — Add the Islamic Awareness quotation ("cannot be based on scientific knowledge in the seventh century") so the claim is stated fairly before it is weighed.
 - **S5** — "The Moon slowly moves away from the Earth: NASA JPL laser ranging… about 3.8 cm (1.5 inches) a year, with days lengthening about 1.7 ms per century" — off topic: the verses never mention the Moon receding (the brief's own example, rule 8). — Remove.
 - **S5** — "Seasons. The Earth's 23.4° axial tilt…" — off topic: the verses do not mention seasons. — Remove.
-- **S5** — "one circuit in about 230 million years" — the source read gives "225 to 250 million terrestrial years" and a speed of about 230 km/s. — Use the range and cite it.
+- **S5** — "one circuit in about 230 million years" — correct but uncited. — Cite NASA StarChild (Question of the Month, February 2000): "about 230 million years".
 - **S5** — "Later scholars read the prostration as obedience" — names no one. — Name them: Ibn Hajar (*Fatḥ al-Bārī*: "prostrates by the state it is in"), *Maʿārif al-Qurʾān* ("simply a similitude"); and give al-Khattabi's view that the manner is unknown.
-- **S5** — "he describes the Throne as 'a dome supported by legs or pillars' and says it is 'not a sphere as many astronomers claim'" — not re-checked for this run (the passage was not on the page read). — Re-check against Ibn Kathir's text with a page reference.
+- **S5** — "the sun has 'no resting place'" (the reading of Ibn Masʿud and Ibn ʿAbbas) — the English Ibn Kathir reads "And the sun runs with no fixed course for a term". — Quote that wording. (The Throne quotation on the same page is correct; cite surahquran.com, 36:38.)
 - **S5** — the follow-up answer "Many scholars read it as obedience to God's order, not a physical bow" — names no one. — Name Ibn Hajar and *Maʿārif al-Qurʾān*, as above.
 - **S6** — "Specific heat is about 4.18 J/g·K, which buffers climate" — unsourced, and not tied to the verses. — Remove, or cite and tie it to a word in the verse.
 - **S6** — "Evaporation leaves salt behind, so rain is fresh, the contrast with 'bitter' water in 56:70" — correct, but unsourced. — Cite a source (USGS covers the water cycle) and Ibn Kathir's gloss of *ujāj*: "salty, sour, undrinkable".
@@ -635,9 +635,9 @@ So the reader is asked two things. To look at the pairs, and remember that God i
 ## Gaps
 - **S1:** the 2008 *Science* and 2020 *Science Advances* papers themselves (only news reports were read); a plant-physiology source for dormancy hormones (ABA, GA); al-Razi and al-Qurtubi on 6:95; whether "Hannah" bore fruit.
 - **S2:** al-Qurtubi on 16:66; a source for the range of blood volume per litre of milk; the CSIRO reference.
-- **S3:** a primary source for honey produced per bee; al-Razi on 16:68; the authors of the BMJ EBM meta-analysis (not shown on the page read); a grammatical source on feminine agreement with *naḥl*; a named source for the "feminine verbs" and "honey stomach" claims.
+- **S3:** a primary source for honey produced per bee; a named source that foragers are female; the BMJ EBM authors (the page shows only the initials HA, CA, JL); al-Razi on 16:68; the authors of the BMJ EBM meta-analysis (not shown on the page read); a grammatical source on feminine agreement with *naḥl*; a named source for the "feminine verbs" and "honey stomach" claims.
 - **S4:** an embryology textbook (e.g. Moore & Persaud, or Larsen) for implantation timing and the weeks of chondrification and muscle formation; Needham's history of embryology; 23:15–16 and 22:5 in verified text; scholars' discussion of the forty-day hadith and modern timings.
-- **S5:** Ibn Kathir's Throne passage with page; al-Nawawi on Muslim's version of the prostration hadith; Ibn Hajar's *Fatḥ al-Bārī* read directly (only through SeekersGuidance); the 2026 SeekersGuidance answer's own sources; 21:33 and 36:36 in verified text.
+- **S5:** al-Nawawi on Muslim's version of the prostration hadith; Ibn Hajar's *Fatḥ al-Bārī* read directly (only through SeekersGuidance); the 2026 SeekersGuidance answer's own sources; 21:33 and 36:36 in verified text.
 - **S6:** a source on the water cycle and evaporation (USGS); a named source for the popular claim about 21:30.
 - **S7:** 55:21–22 and 55:13 in verified text; Bryden et al. and the 2018 *Science Advances* paper; whether Sura al-Raḥmān is Meccan or Medinan in a named source; the oceanography textbooks the popular article cites.
 - **S8:** 36:36 in verified text; a biology source on asexual reproduction; the full Jablonski & Chaplin paper (only the abstract was read).
