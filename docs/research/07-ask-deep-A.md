@@ -45,7 +45,7 @@ All four Sunni schools held that an adult, sane man who leaves Islam and refuses
 
 **Did the Prophet (pbuh) ever execute anyone only for leaving Islam?** Alalwani: "never in his entire life did the Prophet put an apostate to death". He argues that reported killings were "due to the individuals' participation in war crimes or murder, not due to their apostasy" (ch. 3). The men of ʿUrayna, for example, killed a herdsman and stole camels. Two further points support this. Many people who left after the Night Journey were not harmed. And the Treaty of Hudaybiyya let anyone who left the Muslim camp return to Quraysh "freely without reprisal".
 
-**Limit:** This is partly an argument from silence, and it does not remove the general wording. The cases at the conquest of Mecca (Ibn Khatal, Ibn Abi Sarh) were not checked (see Gaps).
+**Limit:** This is partly an argument from silence, and it does not remove the general wording. The cases at the conquest of Mecca (Ibn Khatal, Ibn Abi Sarh) have not yet been checked.
 
 #### scholars — How scholars have understood it
 **The "treason" reading is a reading of context, not of the words, and should be judged that way.** The skeptic is right that the hadith says "changes his religion." The reformist case rests on three arguments:
@@ -85,14 +85,14 @@ All four Sunni schools held that an adult, sane man who leaves Islam and refuses
 - **Middle:** Bangladesh 44%, Thailand 27%, Tajikistan 22%, Indonesia 18%.
 - **Lowest:** Albania 8%, Kazakhstan 4%.
 
-These are shares of sharia supporters, not of all Muslims. The Washington Post's corrected all-Muslim figures (88% Egypt, 62% Pakistan) do not reconcile with Pew's tables (see Gaps). Pew reports that support for sharia "generally varies little by age, gender or education". No age breakdown and no trend data for the apostasy question were found.
+These are shares of sharia supporters, not of all Muslims. The Washington Post's corrected all-Muslim figures (88% Egypt, 62% Pakistan) do not reconcile with Pew's tables. Pew reports that support for sharia "generally varies little by age, gender or education". No age breakdown and no trend data for the apostasy question were found.
 
 #### objection — The strongest objections, and the replies
 **"The treason reading is modern apologetics."** *Reply:* It builds on an authentic phrase, on the Hanafi law-of-war treatment, and on early dissent. **Limit:** As a developed position it is mostly modern, and the pre-modern record overwhelmingly favours execution.
 
 **"A confident religion would not threaten leavers."** *Reply:* Classical jurists saw public apostasy as an attack on the public order founded on religion, much as treason is treated today. Many modern scholars hold that this reasoning does not apply to private belief in citizenship states. **Limit:** This explains the ruling historically; it does not justify the deaths of individuals killed for belief alone.
 
-**"Will God punish me for doubting?"** *Reply:* Doubt is not disbelief. In Alalwani's reading, apostasy affects faith only when one "open[s] his or her heart consciously and willingly to a denial of the truth". *Istitāba* existed to answer doubts: al-Shirbini notes that the apostate "may have been struck by a doubt". **Limit:** The Sahih Muslim hadith that calls disturbing thoughts "clear faith" was not verified in this pass.
+**"Will God punish me for doubting?"** *Reply:* Doubt is not disbelief. In Alalwani's reading, apostasy affects faith only when one "open[s] his or her heart consciously and willingly to a denial of the truth". *Istitāba* existed to answer doubts: al-Shirbini notes that the apostate "may have been struck by a doubt". **Limit:** The Sahih Muslim hadith that calls disturbing thoughts "clear faith" was not verified.
 
 #### views — The range of views
 - **Classical, all four schools:** death after *istitāba*; the Hanafis exempt women.
@@ -142,7 +142,7 @@ Most Sunni scholars hold that Hell is eternal for those who knowingly and persis
 #### quran — What the Quran says
 **The Quran says the people of the Fire abide "therein forever" (*khālidīna fīhā abadan*) at 4:169, 33:65 and 72:23. In Sura Hud it attaches an exception.** Verse 11:107: "[They will be] abiding therein as long as the heavens and the earth endure, except what your Lord should will. Indeed, your Lord is an effective accomplisher of what He intends." Of the people of the Garden, 11:108 adds: "a bestowal uninterrupted." The minority argued from this contrast: the Garden is described as uninterrupted, while the Fire carries an exception. They also cited 78:23's *aḥqāb* ("ages"), a long but countable period.
 
-**Limit:** al-Tabari, al-Qurtubi, Ibn Kathir and al-Razi on these verses were not read in this pass (see Gaps). According to Hoover's summary, the majority treats the clear "forever" verses as governing the exception.
+**Limit:** al-Tabari, al-Qurtubi, Ibn Kathir and al-Razi on these verses have not yet been consulted. According to Hoover's summary, the majority treats the clear "forever" verses as governing the exception.
 
 #### scholars — How scholars have understood it
 **Ibn Taymiyya did not merely say "there is no consensus"; he argued that the punishment ends.** According to Jon Hoover, the treatise *al-Radd ʿalā man qāla bi-fanāʾ al-janna wa-l-nār* appears to be his last work, written in answer to Ibn al-Qayyim. It rejects Jahm ibn Safwan's view that both abodes perish. Hoover summarises its conclusion: "the reward of Paradise is everlasting while the chastisement of unbelievers in Hell-Fire will end". He adds that Ibn Taymiyya's reasoning "leads to the conclusion that God will use Hell-fire to bring all creatures into complete accord with the purposes for which they were naturally constituted". In Hoover's words, for both men "Hell is therapeutic and reformative." The treatise cites Companion reports from ʿUmar and Ibn Masʿud, among others. It takes *fanāʾ* to mean that the punishment ceases, not necessarily that the Fire ceases to exist. Hoover has also documented later attempts to deny the treatise or play it down: al-Albani's claim that it was written "before mastering the religious sciences", and ʿAli al-Harbi's 1990 book (Hoover, in *Debating Ibn Taymiyya and Ibn Qayyim*, de Gruyter 2013, 377–399).
@@ -180,7 +180,7 @@ Most Sunni scholars hold that Hell is eternal for those who knowingly and persis
 **Can someone in Hell change?** The majority says no; the Ibn Taymiyya line says the Fire purifies.
 
 ### Honest limits
-The justice of eternal Hell cannot be demonstrated to someone outside faith. The classical commentaries on 11:107 and al-Subki's full arguments were not checked directly, and the psychological data are thin.
+The justice of eternal Hell cannot be demonstrated to someone outside faith. The classical commentaries on 11:107 and al-Subki's full arguments have not yet been checked directly, and the psychological data are thin.
 
 ---
 
@@ -213,7 +213,7 @@ There are two different cases. The first is the person the message never reached
 
 **The abrogation report.** Ibn Kathir records that "ʿAli bin Abi Talhah narrated from Ibn ʿAbbas, about [2:62]… that Allah revealed the following Ayah afterwards, [3:85]." Ibn Kathir does not simply declare 2:62 cancelled (*naskh* is the replacement of an earlier ruling by a later one). He comments that the report "indicates that Allah does not accept any deed or work from anyone, unless it conforms to the Law of Muhammad that is, after Allah sent Muhammad." He reads 2:62 as praising the "earlier nations who were righteous and obedient."
 
-**What does "Islam" mean in 3:85?** Ibn Kathir uses both senses. He describes Islam as "the religion that He sent His Books and Messengers with, which is the worship of Allah Alone", and he adds that "after Allah sent Muhammad, whoever meets Allah following a path other than Muhammad's, it will not be accepted of him." **Limit:** al-Tabari on 2:62 was not read (see Gaps).
+**What does "Islam" mean in 3:85?** Ibn Kathir uses both senses. He describes Islam as "the religion that He sent His Books and Messengers with, which is the worship of Allah Alone", and he adds that "after Allah sent Muhammad, whoever meets Allah following a path other than Muhammad's, it will not be accepted of him." **Limit:** al-Tabari on 2:62 has not yet been consulted.
 
 #### sunnah — What the Prophet (pbuh) taught
 **Muslim 153.** Abu Hurayra (ra): "By Him in Whose hand is the life of Muhammad, he who amongst the community of Jews or Christians hears about me, but does not affirm his belief in that with which I have been sent and dies in this state (of disbelief), he shall be but one of the denizens of Hell-Fire" ({hadith:muslim:153}). It is sahih by its inclusion in Sahih Muslim.
@@ -237,7 +237,7 @@ There are two different cases. The first is the person the message never reached
 
 > "I hold that most Christians of the present time… are included in the divine mercy, Allah Most High willing… One group has never even heard the name of Muhammad… so are excused. A second group has heard of his name, his character, and the miraculous signs — these are the unbelievers who deny the revelation. And a third group… have heard of the name of Muhammad… but not of his character and attributes, since childhood, they have heard that a lying impostor named Muhammad claimed to be a prophet. Such people fall into the same category as the first group."
 
-**The Ashʿari position.** Al-Jurjani: "There is no accountability upon the one whom the call of a prophet definitively did not reach." Faraz Rabbani traces the view through al-Sanusi and al-Bajuri and calls it "solidly mainstream Sunni theology." The Maturidi position could not be sourced (see Gaps).
+**The Ashʿari position.** Al-Jurjani: "There is no accountability upon the one whom the call of a prophet definitively did not reach." Faraz Rabbani traces the view through al-Sanusi and al-Bajuri and calls it "solidly mainstream Sunni theology." The Maturidi position has not yet been sourced.
 
 **The Athari position.** Ibn Taymiyya (*al-Jawab al-Sahih* 2/298) and Ibn al-Qayyim (*Ahkam Ahl al-Dhimma* 2/1137) favour testing in the Hereafter. Ibn al-Qayyim also answers the question "who decides?" (*Tariq al-Hijratayn* 2/900):
 
@@ -258,7 +258,7 @@ There are two different cases. The first is the person the message never reached
 - **The mainstream "message-reached" view:** al-Ghazali, the Ashʿaris, Ibn Taymiyya, Ibn al-Qayyim, al-Albani.
 - **Wider hope:** Ibn ʿArabi, and Ibn Taymiyya's view on the end of Hell (Q13).
 - **Modern pluralist readings of 2:62:** a minority.
-- **Not documented here:** Perennialism (Schuon, Nasr: all major religions as valid paths), and Mutahhari's Shiʿi distinction between the culpable and non-culpable ignorant (*jāhil muqaṣṣir/qāṣir*) (see Gaps).
+- **Not documented here:** Perennialism (Schuon, Nasr: all major religions as valid paths), and Mutahhari's Shiʿi distinction between the culpable and non-culpable ignorant (*jāhil muqaṣṣir/qāṣir*).
 
 **What ordinary Muslims believe.** Pew (2013) found that in 34 of 38 countries at least half of Muslims say Islam is "the one true religion that can lead to eternal life in heaven." The figure was 96% in Egypt and Jordan and 95% in Iraq, but 29% in Kazakhstan (where 49% said many religions can) and 37% in Albania. Muslims who pray several times a day held this view more often; in Russia the gap was 41 points. US Muslims are "much more open" to many paths.
 

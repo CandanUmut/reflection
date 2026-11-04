@@ -27,7 +27,7 @@ hadith:
     - The woman who gave water to a thirsty dog (Bukhārī 3467).
 gaps:
   tr: Sert vaaz dili, 3:159 ile çelişir. Âyet, Hz. Peygamber kaba ve katı yürekli olsaydı insanların etrafından dağılıp gideceğini söyler.
-  en: The relation between God's mercy and punishment is debated, and this page does not settle it. Al-Ghazali's and Ibn al-Qayyim's writings on mercy, and the schools' rules on slaughter, were not read for this run.
+  en: The relation between God's mercy and punishment is debated, and this page does not settle it. Al-Ghazali's and Ibn al-Qayyim's writings on mercy, and the schools' rules on slaughter, have not yet been consulted.
 visualizations:
   - id: hundred-parts
     tr: Rahmetin yüz parçası
@@ -71,11 +71,11 @@ fullAnswer:
 
       **Mercy first.** "When Allah completed the creation, He wrote in His Book which is with Him on His Throne, 'My Mercy overpowers My Anger'" ({hadith:bukhari:3194}).
   - kind: scholars
-    en: "**Readers asked for al-Ghazali and Ibn al-Qayyim on mercy.** Al-Ghazali's *al-Maqṣad al-Asnā* (on the names of God, translated by David Burrell and Nazih Daher) discusses *al-Raḥmān* and *al-Raḥīm*, and what share of each name a human being can have; Ibn al-Qayyim wrote widely on mercy. Neither text was read for this run, so neither is quoted (see Gaps)."
+    en: "**Readers asked for al-Ghazali and Ibn al-Qayyim on mercy.** Al-Ghazali's *al-Maqṣad al-Asnā* (on the names of God, translated by David Burrell and Nazih Daher) discusses *al-Raḥmān* and *al-Raḥīm*, and what share of each name a human being can have; Ibn al-Qayyim wrote widely on mercy. Neither text was read, so neither is quoted."
   - kind: fiqh
-    en: "**Slaughter (dhabḥ).** Muslim 1955 is the basis of the jurists' rules that the knife be sharp and the animal not be made to suffer needlessly. How each of the four schools details this (for example, not sharpening the knife in front of the animal, not slaughtering one animal in sight of another) was not read in named works for this run (see Gaps)."
+    en: "**Slaughter (dhabḥ).** Muslim 1955 is the basis of the jurists' rules that the knife be sharp and the animal not be made to suffer needlessly. How each of the four schools details this (for example, not sharpening the knife in front of the animal, not slaughtering one animal in sight of another) has not yet been consulted in named works."
   - kind: research
-    en: "**No research specifically tests the Islamic teaching on mercy,** and studies of compassion were not read for this run. This page does not claim scientific support."
+    en: "**No research specifically tests the Islamic teaching on mercy,** and studies of compassion have not yet been consulted. This page does not claim scientific support."
   - kind: practice
     en: |-
       **Iḥsān in ordinary work.** Do the task as if it will be seen by the One who sees everything: the report no one will check, the repair no one will inspect, the meal for a guest.
@@ -114,6 +114,6 @@ followUps:
   - q:
       en: How do jurists apply Muslim 1955 in slaughter?
     a:
-      en: It is the basis for requiring a sharp knife and avoiding needless suffering; school-by-school detail was not checked here.
+      en: It is the basis for requiring a sharp knife and avoiding needless suffering; school-by-school detail has not yet been checked.
 legacySources:
   - *a1

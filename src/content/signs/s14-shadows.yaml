@@ -41,7 +41,7 @@ howItWorks:
     - İslam'da namaz vakitleri kısmen gölgelerle tanımlanır. Çoğunluğun görüşüne göre ikindi, bir cismin gölgesi kendi boyu artı öğle gölgesi kadar olduğunda başlar. Hanefî görüşe göre ise boyunun iki katı olduğunda başlar.
   en: |-
     Each point is tied to the verse's words "extends", "stationary", "the sun… an indication" and "a brief grasp".
-    - **"The sun for it an indication".** [Established] A shadow's length is set by the sun's height in the sky: the length equals the object's height divided by the tangent of the sun's elevation angle. When the sun is low, shadows are long; when it is high, short. (Standard geometry; no named source was read for this run.)
+    - **"The sun for it an indication".** [Established] A shadow's length is set by the sun's height in the sky: the length equals the object's height divided by the tangent of the sun's elevation angle. When the sun is low, shadows are long; when it is high, short. (Standard geometry; no named source was read.)
     - **How shadows change through the day.** [Established] Shadows are longest at sunrise and sunset and shortest at local noon. (Standard geometry; no named source was read.)
     - **Why shadows move.** [Established] Shadows move because the Earth turns relative to the sun. (The commentators read 25:45 as the shade before sunrise; neither mentions rotation, and this page does not read rotation into the verse.)
     - **Shadows as a clock in Islamic law.** [Established] The start of the afternoon prayer (ʿAṣr) is defined by shadows. For the Maliki, Shafiʿi and Hanbali schools it begins when "the length of any object's shadow equals the length of the object itself plus the length of that object's shadow at noon"; in "the dominant opinion in the Hanafi school", when the shadow "is twice the length of the object plus the length of that object's shadow at noon" (*Wikipedia*, "Asr prayer"). The basis is the hadith in which Ibn ʿAbbas (ra) reports that the Prophet (pbuh) said Jibril led him in prayer twice: once he "prayed Asr when everything was similar (to the length of) its shadow", and on the second day "when the shadow of everything was about twice as long as it" (Jamiʿ al-Tirmidhi 149; al-Albani: *ḥasan ṣaḥīḥ*). The schools differ on which end of this window marks the start.
@@ -64,8 +64,8 @@ reflection:
 
     There is also something for the heart here. Change in our lives often comes like this: not suddenly, but a little at a time, the way a shadow shortens. The verse invites us to notice the gentleness of that change, and the One who sets its measure.
 honestNotes:
-  - en: "**The popular claim.** It is sometimes claimed that the verse \"reveals Earth's rotation\". The verse describes what anyone can see. Classical scholars read it within their own picture of the world, and that reading also fits the observation. No named source for the claim was read for this run."
-  - en: "**The qibla and the overhead sun.** The current page says that twice a year in Mecca the noon sun is overhead and that Muslims historically used this to find the qibla. No source for this was read for this run (see Corrections)."
+  - en: "**The popular claim.** It is sometimes claimed that the verse \"reveals Earth's rotation\". The verse describes what anyone can see. Classical scholars read it within their own picture of the world, and that reading also fits the observation. No named source for the claim was read."
+  - en: "**The qibla and the overhead sun.** No source for this was read."
 visualizations:
   - id: ideas
     tr: |

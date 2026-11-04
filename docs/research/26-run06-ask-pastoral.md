@@ -28,7 +28,7 @@ Unwanted thoughts are not beliefs, and you are not held to account for them. The
 
 **You do not have to argue with the thought, answer it, or prove to yourself that you don't believe it.** Trying to win that argument is what keeps it going. You can let it be there, the way you let a car alarm in the street be there, and carry on with what you were doing.
 
-**You are not alone, and you are not uniquely bad.** Awad cites an international study (Radomsky et al., 2014) estimating that "about 94% of the human population worldwide experience intrusive thoughts"; the study's own sample was not checked for this page. What differs is how much they stick.
+**You are not alone, and you are not uniquely bad.** Awad cites an international study (Radomsky et al., 2014) estimating that "about 94% of the human population worldwide experience intrusive thoughts"; the study's own sample has not yet been checked. What differs is how much they stick.
 
 **If you are in distress right now:** speak to someone you trust today. In North America, Naseeha (1-866-627-3342) is a confidential Muslim helpline; in the UK, the Muslim Youth Helpline and Samaritans (116 123); in Türkiye, call 112 in an emergency; elsewhere, findahelpline.com lists free services by country. If you ever have thoughts of harming yourself, call your local emergency number.
 
@@ -47,12 +47,12 @@ Unwanted thoughts are not beliefs, and you are not held to account for them. The
 
 **Following misgivings is itself blameworthy.** Rabbani, summarising Ibn ʿAbidin, the leading late Hanafi authority (no work named), writes that following misgivings is "highly blameworthy in the Shariah: it is from the Shaytan." In other words, the law does not reward the extra checking; it discourages it.
 
-**The other schools.** The Maliki, Shafiʿi and Hanbali positions on *waswasa* were not read in their own works for this page (see Gaps).
+**The other schools.** The Maliki, Shafiʿi and Hanbali positions on *waswasa* have not yet been consulted in their own works.
 
 #### science — What research says
 **Scrupulosity is a recognised form of OCD.** [Established.] The International OCD Foundation's packet for faith leaders describes scrupulosity as OCD centred on religious or moral concerns: people are "overly concerned that something they thought or did might be a sin." It distinguishes it from a tender conscience: such a person can "find comfort when advised by a religious leader", whereas people with scrupulosity "cannot have their fear or concern resolved by competent explanation."
 
-**How common it is.** [Moderate.] İnözü, Keser and Karancı (2017) summarise Western studies as finding scrupulosity in "between 10.0% and 33.0% of patients diagnosed with OCD" — that is, a percentage of people who already have OCD, not of the general population — and note that "this rate can vary across different cultures". The figures on the current page (5–33%; 70% interference; 52% in Middle Eastern and 27% in Turkish samples) could not be traced to a source in this run (see Corrections).
+**How common it is.** [Moderate.] İnözü, Keser and Karancı (2017) summarise Western studies as finding scrupulosity in "between 10.0% and 33.0% of patients diagnosed with OCD" — that is, a percentage of people who already have OCD, not of the general population — and note that "this rate can vary across different cultures".
 
 **Waswasa and OCD.** Awad (Yaqeen) writes: "*Waswasah* is not a Muslim disease — it is a religious presentation of OCD in Muslims", and notes that scrupulosity is "found in all religions".
 
@@ -81,7 +81,7 @@ Unwanted thoughts are not beliefs, and you are not held to account for them. The
 4. **Do not ask for reassurance.** Each "are you sure I'm still Muslim?" brings relief and feeds the loop (IOCDF packet).
 5. **Let the anxiety rise and fall.** It will fall by itself if you do not feed it.
 6. **Choose one teacher.** Bring your questions to one knowledgeable person rather than to many people whenever the urge comes (the IOCDF packet suggests seeking "religious counsel from a single faith leader or confessor").
-7. **See a clinician** if this takes up a lot of your day, stops you praying, or makes you dread worship. (Clinicians use a time threshold — more than an hour a day — among the signs of OCD; that criterion was not checked in a source for this page.)
+7. **See a clinician** if this takes up a lot of your day, stops you praying, or makes you dread worship. (Clinicians use a time threshold — more than an hour a day — among the signs of OCD; that criterion has not yet been checked in a source.)
 
 ### Questions readers ask next
 **What exactly does Muslim 132 say?** Companions said: "we perceive in our minds that which every one of us considers it too grave to express." The Prophet (pbuh) asked, "Do you really perceive it?" and said, "That is the faith manifest."
@@ -97,7 +97,7 @@ Unwanted thoughts are not beliefs, and you are not held to account for them. The
 **Did I leave Islam because of a thought?** No. In the hadith, thoughts are forgiven unless acted on or spoken ({hadith:bukhari:5269}), and a doubt does not remove certainty (Ibn Nujaym).
 
 ### Honest limits
-A website cannot diagnose OCD. The Maliki, Shafiʿi and Hanbali works on *waswasa* were not read here, and the clinical prevalence figures for Muslim and Turkish samples could not be traced. The overlap between the jurists' advice and ERP is a modern observation (Awad), not a claim that classical jurists knew of OCD.
+A website cannot diagnose OCD. The Maliki, Shafiʿi and Hanbali works on *waswasa* have not yet been consulted here, and the clinical prevalence figures for Muslim and Turkish samples could not be traced. The overlap between the jurists' advice and ERP is a modern observation (Awad), not a claim that classical jurists knew of OCD.
 
 ---
 
@@ -150,9 +150,9 @@ Yes, there is an honest way back, and it does not start with recovering your old
 **Distress at doubt is a sign of faith.** When Companions told the Prophet (pbuh) they had thoughts "too grave to express", he said: "That is the faith manifest" ({hadith:muslim:132a}). This applies most directly to unwanted thoughts (see "Is doubting a sin?"), but it also shows that the Prophet (pbuh) did not meet his Companions' inner struggles with condemnation.
 
 #### science — What research says
-**Spiritual struggles predict a little more distress later, on average.** [Moderate.] A meta-analysis by Bockrath and colleagues (published online in 2021; a 2022 print citation was not checked) combined 32 longitudinal studies with 5,729 participants. Struggles at the start "significantly predicted increases in negative psychological adjustment" (Zr = 0.08; the paper gives the 95% CI as 0.04–0.10 in the abstract and 0.05–0.10 in the results). That is a small effect: struggles are a risk factor, not a sentence. The link to *positive* adjustment (well-being, growth) was not significant (12 studies; Zr = −0.04).
+**Spiritual struggles predict a little more distress later, on average.** [Moderate.] A meta-analysis by Bockrath and colleagues (published online in 2021; a 2022 print citation has not yet been checked) combined 32 longitudinal studies with 5,729 participants. Struggles at the start "significantly predicted increases in negative psychological adjustment" (Zr = 0.08; the paper gives the 95% CI as 0.04–0.10 in the abstract and 0.05–0.10 in the results). That is a small effect: struggles are a risk factor, not a sentence. The link to *positive* adjustment (well-being, growth) was not significant (12 studies; Zr = −0.04).
 
-**Doubt itself is not always the harmful part.** [Mixed.] The Religious and Spiritual Struggles (RSS) scale (Exline et al., 2014) measures six kinds of struggle: divine (with God), demonic, interpersonal, moral, ultimate meaning, and doubt. In one sample of atheist undergraduates, Sedlar and colleagues (2018) found that doubt struggles *negatively* predicted depressive symptoms after other factors were controlled (β about −0.18), though not in a second sample of adults. The current page's claim about the doubt subscale in Exline et al. (2014) could not be checked against that paper itself; the effect, where found, is small and not consistent.
+**Doubt itself is not always the harmful part.** [Mixed.] The Religious and Spiritual Struggles (RSS) scale (Exline et al., 2014) measures six kinds of struggle: divine (with God), demonic, interpersonal, moral, ultimate meaning, and doubt. In one sample of atheist undergraduates, Sedlar and colleagues (2018) found that doubt struggles *negatively* predicted depressive symptoms after other factors were controlled (β about −0.18), though not in a second sample of adults. (2014) has not yet been checked against that paper itself; the effect, where found, is small and not consistent.
 
 **What this means.** Struggling is common, it is not a sign that you are broken, and it carries a modest risk of distress. Support — a trusted person, a counsellor, a community — is a sensible response to a real risk.
 
@@ -190,7 +190,7 @@ Yes, there is an honest way back, and it does not start with recovering your old
 **What if I never get my old certainty back?** Many people find a different, quieter faith instead. Some do not return. Either way, honesty and kindness to yourself matter.
 
 ### Honest limits
-Not everyone returns, and that should be respected. The research shows small average effects, not individual destinies. Tedeschi and Calhoun (1996), Behr (2018), the APA material and the Templeton white paper cited on the current page were not read for this run. Exline et al. (2014) was read only through a later paper that uses its scale.
+Not everyone returns, and that should be respected. The research shows small average effects, not individual destinies. Tedeschi and Calhoun (1996), Behr (2018), the APA material and the Templeton white paper have not yet been consulted. Exline et al. (2014) was read only through a later paper that uses its scale.
 
 ---
 
@@ -243,7 +243,7 @@ The Quran promises that God *responds* (*ajāba*/*istajāba*), and the Prophet (
 
 **What can block a du'a.** The Prophet (pbuh) described "a person who travels widely, his hair disheveled and covered with dust", who "lifts his hand towards the sky (and thus makes the supplication): "O Lord, O Lord," whereas his diet is unlawful, his drink is unlawful, and his clothes are unlawful and his nourishment is unlawful. How can then his supplication be accepted?" ({hadith:muslim:1015}). Sins and unlawful earnings are named as obstacles; the hadith of the three outcomes also names sin and cutting family ties.
 
-**Du'a and salah.** *Salah* is the ritual prayer, five times a day, with set words and movements. *Du'a* is calling on God in your own words, at any time, for anything. The saying "du'a is worship" (*al-duʿāʾ huwa al-ʿibāda*) is widely cited by the exegetes as a hadith (Khalil, p. 96); its collection and grade were not checked for this page (see Gaps). Its point is that calling on God is itself an act of worship, whatever the outcome.
+**Du'a and salah.** *Salah* is the ritual prayer, five times a day, with set words and movements. *Du'a* is calling on God in your own words, at any time, for anything. The saying "du'a is worship" (*al-duʿāʾ huwa al-ʿibāda*) is widely cited by the exegetes as a hadith (Khalil, p. 96); its collection and grade have not yet been checked. Its point is that calling on God is itself an act of worship, whatever the outcome.
 
 #### scholars — How scholars have understood it
 **Ibn al-Qayyim: du'a is a cause within God's decree.** Ibn al-Qayyim (d. 1350), in *al-Dāʾ wa-l-Dawāʾ*, calls du'a "the enemy of distress and calamity; it fights them off and then treats them." He describes three cases: when du'a is stronger than the calamity, "it repels it"; when it is weaker, "the calamity overpowers the du'a but its effects are weakened"; when they are equal, "neither one is able to overpower the other" (trans. Umarji). In plain words: God decrees outcomes together with their causes, and du'a is one of those causes — like medicine for illness. Asking does not fight God's decree; it is part of how the decree unfolds.
@@ -289,7 +289,7 @@ The Quran promises that God *responds* (*ajāba*/*istajāba*), and the Prophet (
 **Was it my fault that my prayer wasn't answered?** No. The best of people lost those they loved despite their prayers.
 
 ### Honest limits
-The three-outcome hadith comforts, but it cannot be tested; it is a promise to be trusted. The scientific trials say nothing about God's existence one way or the other. Pargament's work on religious coping and the Yaqeen "Modern Pathways" report, cited on the current page, were not read for this run.
+The three-outcome hadith comforts, but it cannot be tested; it is a promise to be trusted. The scientific trials say nothing about God's existence one way or the other. Pargament's work on religious coping and the Yaqeen "Modern Pathways" report have not yet been consulted.
 
 ---
 
@@ -311,7 +311,7 @@ The three-outcome hadith comforts, but it cannot be tested; it is a promise to b
 "On 6 February 2023 two earthquakes struck south-eastern Türkiye and northern Syria and killed tens of thousands of people, many of them children, in their sleep. The Quran says, 'No disaster strikes except by permission of Allah' (64:11) and 'whatever strikes you of disaster — it is for what your hands have earned' (42:30). So either this was punishment — and then what was the children's crime? — or it was God's decree, and then why do we put contractors on trial? And if God could have stopped it and did not, how is He just?"
 
 ### Why people ask it
-Survivors and their families, and everyone who watched, asked it. In Türkiye, the framing of the deaths as fate (*kader*) provoked theological pushback, including from a former head of the country's religious authority (the source for who first used the phrase "kader planı" was not checked for this page). The same question follows every great disaster, from the 1755 Lisbon earthquake to the 2004 tsunami.
+Survivors and their families, and everyone who watched, asked it. In Türkiye, the framing of the deaths as fate (*kader*) provoked theological pushback, including from a former head of the country's religious authority (the source for who first used the phrase "kader planı" has not yet been checked). The same question follows every great disaster, from the 1755 Lisbon earthquake to the 2004 tsunami.
 
 ### Short answer
 The Quran says that nothing happens without God's permission, and that some suffering follows human wrongdoing. It does not say that every disaster is a punishment of the people it strikes, and the Prophet (pbuh) said the opposite of the victims: those who die under a collapsed building are counted as martyrs. Ibn Kathir reads 42:30 as saying that disasters come because of past sins, most of which God pardons, and then cites hadith that hardship wipes away a believer's sins; neither the verse nor his reading names any particular victims as deserving. Earthquakes follow the natural order God placed in creation; whether a building stands or falls also depends on how people built it — and the evidence from 2023 shows that many collapsed buildings did not meet the codes of their time. So God's decree and human responsibility do not cancel each other. Why God permits such suffering at all, especially for children, is the hardest question, and the honest answer is that Islam offers trust and reasons, not a full explanation.
@@ -330,7 +330,7 @@ The Quran says that nothing happens without God's permission, and that some suff
 #### quran — What the Quran says, including the hard verses
 **64:11 — permission, and guidance for the heart.** "No disaster strikes except by permission of Allah. And whoever believes in Allah — He will guide his heart. And Allah is Knowing of all things" (64:11), from Sura al-Taghabun (usually counted as Medinan). The verse is not about why the disaster happened, but about how a believer meets it. Ibn Kathir reports Ibn ʿAbbas: "By the command of Allah", i.e. by His decree; and, on "He will guide his heart": "Allah will guide his heart to certainty." Ibn Kathir explains that the person who suffers, knows it came by God's decree, and patiently awaits the reward is the one whose heart is guided.
 
-**42:30 — "what your hands have earned".** "And whatever strikes you of disaster — it is for what your hands have earned; but He pardons much" (42:30), from Sura al-Shura, Meccan, addressed to people in general. Ibn Kathir reads it: "whatever disasters happen to you, O mankind, are because of sins that you have committed in the past", and on "He pardons much": "He does not punish you for them, rather He forgives you." He then cites hadith that turn the verse toward mercy: "no believer is stricken with fatigue, exhaustion, worry or grief, but Allah will forgive him for some of his sins thereby", and a report in Imam Ahmad: "No physical harm befalls a believer, but Allah will expiate for some of his sins because of it." So Ibn Kathir reads the verse first as causal — disasters come because of sins, most of which God pardons — and then, through the hadith, as a promise that hardship wipes away a believer's sins. Neither names any particular victims as deserving. The two hadith he cites were not checked for collection or grade here.
+**42:30 — "what your hands have earned".** "And whatever strikes you of disaster — it is for what your hands have earned; but He pardons much" (42:30), from Sura al-Shura, Meccan, addressed to people in general. Ibn Kathir reads it: "whatever disasters happen to you, O mankind, are because of sins that you have committed in the past", and on "He pardons much": "He does not punish you for them, rather He forgives you." He then cites hadith that turn the verse toward mercy: "no believer is stricken with fatigue, exhaustion, worry or grief, but Allah will forgive him for some of his sins thereby", and a report in Imam Ahmad: "No physical harm befalls a believer, but Allah will expiate for some of his sins because of it." So Ibn Kathir reads the verse first as causal — disasters come because of sins, most of which God pardons — and then, through the hadith, as a promise that hardship wipes away a believer's sins. Neither names any particular victims as deserving. The two hadith he cites have not yet been checked for collection or grade here.
 
 **What 42:30 does not say.** It speaks of what strikes "you" in general; it does not say that every person struck by a given disaster is being punished for their own sins. It cannot apply to children, who are not accountable (see below). Applying it to the victims of a particular earthquake, as a verdict, is something the verse does not do and the hadith on martyrs contradicts.
 
@@ -338,9 +338,9 @@ The Quran says that nothing happens without God's permission, and that some suff
 
 **2:155–157 — testing.** "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient, Who, when disaster strikes them, say, 'Indeed we belong to Allah, and indeed to Him we will return.' Those are the ones upon whom are blessings from their Lord and mercy" (2:155–157). Here loss is a test, and those who suffer it are promised blessing and mercy.
 
-**30:41 — human corruption.** "Corruption has appeared throughout the land and sea by [reason of] what the hands of people have earned…" (30:41). The current page ties this to bad construction. That is a modern application: the verse speaks of corruption (*fasād*) caused by people. It is better used as a general reminder that people answer for the harm they cause than as a statement about the 2023 earthquake.
+**30:41 — human corruption.** "Corruption has appeared throughout the land and sea by [reason of] what the hands of people have earned…" (30:41). That is a modern application: the verse speaks of corruption (*fasād*) caused by people. It is better used as a general reminder that people answer for the harm they cause than as a statement about the 2023 earthquake.
 
-**The punished peoples (ʿĀd, Thamūd and others).** The Quran describes the destruction of specific peoples after they rejected a prophet sent to them. The current page says scholars restrict these to cases of prophetic warning and rejection; that restriction is the sense of the Quranic stories themselves, but no named scholar making the argument was read for this run (see Gaps).
+**The punished peoples (ʿĀd, Thamūd and others).** The Quran describes the destruction of specific peoples after they rejected a prophet sent to them.
 
 #### sunnah — What the Prophet (pbuh) taught
 **Victims of collapse are martyrs.** "Five are regarded as martyrs: They are those who die because of plague, abdominal disease, drowning or a falling building etc., and the martyrs in Allah's Cause" ({hadith:bukhari:2829}, narrated by Abu Hurayra). A *martyr* (*shahīd*) is someone whose death God counts as a witness to faith and rewards greatly; this hadith extends the status beyond battle to deaths by disaster and disease.
@@ -358,9 +358,8 @@ The Quran says that nothing happens without God's permission, and that some suff
 
 **Görmez on punishment.** Mehmet Görmez, president of Diyanet (Türkiye's state Presidency of Religious Affairs) from 2010 to 2017, said that "her afeti sadece ilahi ceza ve azap olarak gören teolojik anlayış da o kadar sığ, yanlış ve eksiktir" — a theology that sees every disaster only as divine punishment is "just as shallow, wrong and incomplete" as a purely mechanical one; and that if it were divine punishment, "masum çocukların suçunun ne olduğu sorgulanır" — one would have to ask what the innocent children's crime was (*sol*). In Habertürk he said that depicting God as "raining punishment from the sky" for people's sins "is not right" ("doğru değildir"), and that classical Islamic culture produced many books on earthquakes but "Tabiat bilgimiz eksik" — "our knowledge of nature was incomplete".
 
-**Diyanet's own ruling.** The current page reports that media described a 2023 Diyanet ruling as saying a fatalistic framing was "not consistent with our faith". That ruling could not be found in this run (see Corrections).
+**Diyanet's own ruling.** That ruling could not be found.
 
-**Classical literature.** Al-Suyuti's *Kashf al-Ṣalṣala* (on earthquakes) and Said Nursi's discussions of calamity (*musibet*) in the *Lemʿalar* are cited on the current page; they were not read for this run.
 
 #### science — What the evidence shows on buildings
 **The buildings that fell were largely those that did not meet the codes.** [Moderate; one engineering study.] Mertol and colleagues (Atılım University) investigated reinforced-concrete buildings after the earthquakes (Mw 7.7 and 7.6, about nine hours apart). They report about 51,000 deaths in Türkiye, 11 severely affected provinces and some 215,000 buildings destroyed or severely damaged as of 15 April 2023. They found that design and construction "did not fully comply with the codes valid at the time", that "most of the collapsed and severely/moderately damaged buildings" were built between 1975 and 2000, and listed specific failures such as improper stirrup detailing and violations of the strong-column principle. They also note that ground shaking at some sites exceeded code values by nearly three times — so the earthquakes themselves were extraordinarily strong. *What this means:* both nature and human choices shaped the death toll; the second is what human beings answer for.
@@ -383,10 +382,10 @@ The Quran says that nothing happens without God's permission, and that some suff
 
 **What does "martyr" mean if the person did not die fighting?** A death God counts as witness to faith and rewards greatly; the hadith extends it to death by plague, disease, drowning and collapse ({hadith:bukhari:2829}).
 
-**What do ordinary Turkish Muslims believe about the 2023 earthquake?** No survey of believers' views was found in this run.
+**What do ordinary Turkish Muslims believe about the 2023 earthquake?** No survey of believers' views was found.
 
 ### Honest limits
-The question of why God permits disasters has no complete answer in Islam or any other tradition; this page offers reasons and trust. The engineering findings come from one study's abstract. Diyanet's 2023 ruling, al-Suyuti, Nursi and the death-toll figures given on the current page were not checked in this run.
+The question of why God permits disasters has no complete answer in Islam or any other tradition; this page offers reasons and trust. The engineering findings come from one study's abstract. Diyanet's 2023 ruling, al-Suyuti, Nursi and the death-toll figures have not yet been checked.
 
 ---
 ## Corrections to the current pages

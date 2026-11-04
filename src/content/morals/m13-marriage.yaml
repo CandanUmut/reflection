@@ -66,7 +66,7 @@ gaps:
     - Türkiye'de 2025'te **552.237** çift evlendi ve **193.793** çift boşandı (kaba boşanma hızı binde **2,26**); boşanmaların **%34**'ü evliliğin ilk beş yılında gerçekleşti (TÜİK, Şubat 2026'da açıklandı).
     - Aile içi şiddet Türkiye'de ve pek çok Müslüman çoğunluklu toplumda ciddi bir sorundur. Şiddet 30:21 ve 4:19 ile açıkça çelişir.
     - 4:34 âyeti Q6'da (kadınlar ve eşitlik) ele alınıyor.
-  en: Al-Ghazali's book on marriage and the schools' rules on spouses' rights were not read. The Gottman figures come from the Gottman Institute. Domestic violence and rising divorce are serious problems in many societies, Muslim-majority ones included; no data on this were read for this run.
+  en: Al-Ghazali's book on marriage and the schools' rules on spouses' rights have not yet been consulted. The Gottman figures come from the Gottman Institute. Domestic violence and rising divorce are serious problems in many societies, Muslim-majority ones included; no data on this were read.
 visualizations:
   - id: ideas
     tr: |
@@ -121,12 +121,12 @@ fullAnswer:
 
       **The best to his family.** "The best of you is the best to his wives, and I am the best of you to my wives" (al-Tirmidhi 3895; al-Tirmidhi: *ḥasan gharīb ṣaḥīḥ*; al-Albani: *ṣaḥīḥ*).
   - kind: scholars
-    en: "**Al-Ghazali's book on marriage.** The current page cites al-Ghazali's *Ādāb al-Nikāḥ* (*Iḥyāʾ*, Book 12) on the benefits and dangers of marriage; it was not read for this run (see Gaps). The legal rights of spouses by school were not read either."
+    en: The legal rights of spouses by school have not yet been consulted either.
   - kind: research
     en: |-
       **Marital quality and health.** [Established; small effects.] Robles and colleagues (2014) reviewed 126 studies with more than 72,000 people over 50 years. "Greater marital quality was related to better health", with effects of about r = .07 to .21 (r = .11 for mortality) — small, similar in size to the links between health behaviours such as diet and health. The designs limit conclusions about cause.
 
-      **The "5 to 1" ratio.** [Moderate; disputed.] The Gottman Institute reports that in studies by John Gottman and Robert Levenson, couples were asked to "solve a conflict in their relationship in 15 minutes", and that stable, happy couples showed about five positive interactions for every negative one; it claims "over 90% accuracy" in predicting divorce nine years later. That claim comes from the Institute itself; independent criticism of its prediction method (often said to overfit the data) was not read for this run, so the figure should be treated cautiously.
+      **The "5 to 1" ratio.** [Moderate; disputed.] The Gottman Institute reports that in studies by John Gottman and Robert Levenson, couples were asked to "solve a conflict in their relationship in 15 minutes", and that stable, happy couples showed about five positive interactions for every negative one; it claims "over 90% accuracy" in predicting divorce nine years later. That claim comes from the Institute itself; independent criticism of its prediction method (often said to overfit the data) has not yet been consulted, so the figure should be treated cautiously.
   - kind: practice
     en: |-
       **Say kind words, and say them often** (Ibn Kathir on 4:19).

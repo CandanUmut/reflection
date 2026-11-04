@@ -62,7 +62,7 @@ gaps:
   tr: |
     - Pek çok Müslüman çoğunluklu ülke, Uluslararası Şeffaflık Örgütü'nün Yolsuzluk Algı Endeksi'nde alt yarıda yer alıyor. Türkiye 2025 endeksinde **100 üzerinden 31** puan aldı (182 ülke ve bölge).
     - *El-Emîn* ile bugünkü kamu hayatı arasındaki mesafe, Yaqeen'in ABD'deki 630 Müslümanla yaptığı ankete (Chouhoud, 2018) göre gençlerin şüphe için gösterdiği başlıca sebeplerden biridir.
-  en: The specific report of the title *al-Amīn* and the grade of "do not betray those who betrayed you" were not checked. Cross-country trust research is correlational. Corruption scores for Muslim-majority countries were not checked.
+  en: The specific report of the title *al-Amīn* and the grade of "do not betray those who betrayed you" have not yet been checked. Cross-country trust research is correlational. Corruption scores for Muslim-majority countries have not yet been checked.
 visualizations:
   - id: ideas
     tr: |
@@ -111,7 +111,7 @@ sources:
 fullAnswer:
   - kind: meaning
     en: |-
-      **Amāna and amīn.** The root *ʾ-m-n* gives *amn* (safety), *īmān* (faith) and *amāna* (trust). A trustworthy person (*amīn*) is someone with whom others feel safe. Before his prophethood, the Prophet (pbuh) was known among the Quraysh as *al-Amīn*, "the trustworthy" (reported widely in the *sīra*; the specific report was not checked for this page).
+      **Amāna and amīn.** The root *ʾ-m-n* gives *amn* (safety), *īmān* (faith) and *amāna* (trust). A trustworthy person (*amīn*) is someone with whom others feel safe. Before his prophethood, the Prophet (pbuh) was known among the Quraysh as *al-Amīn*, "the trustworthy" (reported widely in the *sīra*; the specific report has not yet been checked).
 
       **ʿAhd.** A commitment or promise (17:34). Keeping it is part of *amāna*.
   - kind: quran
@@ -125,16 +125,16 @@ fullAnswer:
     en: |-
       **The signs of a hypocrite.** "The signs of a hypocrite are three: 1. Whenever he speaks, he tells a lie. 2. Whenever he promises, he always breaks it (his promise). 3. If you trust him, he proves to be dishonest. (If you keep something as a trust with him, he will not return it.)" ({hadith:bukhari:33}, narrated by Abu Hurayra). The hadith does not say such a person has left Islam; it names behaviour that contradicts faith.
 
-      **Do not betray even the betrayer.** Ibn Kathir cites a hadith from al-Hasan via Samura: "Return the trust to those who entrusted you, and do not betray those who betrayed you", saying that "Imam Ahmad and the collectors of Sunan recorded this Hadith"; its grade was not checked for this page.
+      **Do not betray even the betrayer.** Ibn Kathir cites a hadith from al-Hasan via Samura: "Return the trust to those who entrusted you, and do not betray those who betrayed you", saying that "Imam Ahmad and the collectors of Sunan recorded this Hadith"; its grade has not yet been checked.
 
       **Character before prophethood.** When the Prophet (pbuh) came home shaken after the first revelation, his wife Khadija (ra) reassured him: "Never! By Allah, Allah will never disgrace you. You keep good relations with your kith and kin, help the poor and the destitute, serve your guests generously…" ({hadith:bukhari:3}, narrated by ʿAʾisha). Her argument was his character.
   - kind: scholars
-    en: "**A broad notion.** The classical readings above show *amāna* stretching from a deposit left with you to the whole of one's religious duties. The current page also cites al-Ghazali on lying and the *maqāṣid*; on lying see \"Ethics of speech\", where the narrow permitted cases are set out ({hadith:muslim:2605a})."
+    en: "**A broad notion.** The classical readings above show *amāna* stretching from a deposit left with you to the whole of one's religious duties."
   - kind: research
     en: |-
       **Trust and economic performance.** [Moderate; correlational.] Knack and Keefer (1997), using World Values Survey data from 29 market economies, found that trust and civic norms "matter for measurable economic performance", while formal group membership "is not associated with trust or with improved economic performance". Trust was stronger where incomes were higher and more equal, institutions constrained rulers, and people were better educated. This is a correlation across countries, not proof that individual honesty causes growth.
 
-      **Corruption today.** [Established for the figures.] In Transparency International's Corruption Perceptions Index 2024, "the global average" was "43 points out of 100", and "more than 120 of the listed countries score below 50 points" (*Jurist*, 2025). Scores for Muslim-majority countries specifically were not checked for this page.
+      **Corruption today.** [Established for the figures.] In Transparency International's Corruption Perceptions Index 2024, "the global average" was "43 points out of 100", and "more than 120 of the listed countries score below 50 points" (*Jurist*, 2025). Scores for Muslim-majority countries specifically have not yet been checked.
   - kind: practice
     en: |-
       **Return what you borrow, on time**, and in the condition you received it.

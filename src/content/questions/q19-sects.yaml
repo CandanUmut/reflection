@@ -53,7 +53,7 @@ layers:
 honestLimits:
   tr: |
     Her farklılık zararsız değildir ve Amman Mesajı bazı grupları (ör. Ahmedîler) dışarıda bıraktı. İki slogan da iddiasını abartır.
-  en: The real disputes — imamate, and prophethood after Muhammad (pbuh) — are not resolved by pointing to a shared core. The groups here were described from *Wikipedia*, not from their own texts. Ibn Taymiyya, al-Baghdadi, the hadith "disagreement is a mercy" and its critics, Muslim 55, and studies on black-and-white religious thinking were not read for this run. Whether the Amman Message changed behaviour was not measured.
+  en: The real disputes — imamate, and prophethood after Muhammad (pbuh) — are not resolved by pointing to a shared core. The groups here were described from *Wikipedia*, not from their own texts. Ibn Taymiyya, al-Baghdadi, the hadith "disagreement is a mercy" and its critics, Muslim 55, and studies on black-and-white religious thinking have not yet been consulted. Whether the Amman Message changed behaviour was not measured.
 visualizations:
   - id: ideas
     tr: |
@@ -108,7 +108,7 @@ fullAnswer:
       **What helps.** Find teachers who can say "this is my view, and others hold another" — the "I do not know" that al-Ghazali counted as a mark of a true scholar (see Q18). Keep friendships across lines. And remember the Quran's promise: "To Allah is your return all together, and He will [then] inform you concerning that over which you used to differ" (5:48) — not you, and not the person who excluded you.
   - kind: quran
     en: |-
-      **Diversity as part of the plan (5:48).** "To each of you We prescribed a law and a method. Had Allah willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good. To Allah is your return all together, and He will [then] inform you concerning that over which you used to differ" (5:48), Medinan. It comes after verses on the Torah and the Gospel; "To each of you" refers to the communities given scripture, which commentators generally take to include the Muslims (no tafsir on this was checked for this run). It is about different communities with different laws; applying it to schools within Islam is an extension.
+      **Diversity as part of the plan (5:48).** "To each of you We prescribed a law and a method. Had Allah willed, He would have made you one nation [united in religion], but [He intended] to test you in what He has given you; so race to [all that is] good. To Allah is your return all together, and He will [then] inform you concerning that over which you used to differ" (5:48), Medinan. It comes after verses on the Torah and the Gospel; "To each of you" refers to the communities given scripture, which commentators generally take to include the Muslims (no tafsir on this was checked). It is about different communities with different laws; applying it to schools within Islam is an extension.
 
       **Unity commanded (3:103).** "And hold firmly to the rope of Allah all together and do not become divided. And remember the favor of Allah upon you - when you were enemies and He brought your hearts together and you became, by His favor, brothers" (3:103), Medinan, addressed to the believers of Medina, whose tribes had been at war.
 
@@ -119,7 +119,7 @@ fullAnswer:
     en: |-
       **The hadith.** Abu Hurayra (ra) reports: "my community will be split up into seventy-three sects" ({hadith:abudawud:4596}; al-Albani: *ḥasan ṣaḥīḥ*). In Muʿawiya's (ra) version, "seventy two of them will go to Hell and one of them will go to Paradise, and it is the majority group" — the Arabic word is *al-jamāʿa* ({hadith:abudawud:4597}; al-Albani: *ḥasan*). Ibn Kathir cites Muʿawiya's version from Imam Ahmad: "This Ummah will divide into seventy-three sects, all in the Fire except one, that is, the Jama'ah."
 
-      **Which group is the *jamāʿa*, and does it mean you?** The hadith's own word is *al-jamāʿa*, "the community", which the sunnah.com translator renders "the majority group". It is not the name of a small sect, and nothing in the hadith says any particular modern group is the saved one. The current page reports that Ibn Taymiyya held the 72 are not thereby unbelievers (Abdallah, *AFKAR*, 2006), and that al-Baghdadi's *al-Farq bayna al-firaq* forced known sects into the number (Gömbeyaz, 2018); neither was read for this run (see Gaps).
+      **Which group is the *jamāʿa*, and does it mean you?** The hadith's own word is *al-jamāʿa*, "the community", which the sunnah.com translator renders "the majority group". It is not the name of a small sect, and nothing in the hadith says any particular modern group is the saved one.
 
       **Honest error is rewarded.** ʿAmr ibn al-ʿAs (ra) reports the Prophet (pbuh): a judge who rules carefully and is correct "will receive a double reward", and if wrong, a single reward ({hadith:bukhari:7352}). Careful reasoning that reaches different answers is not sin.
   - kind: scholars
@@ -152,21 +152,18 @@ fullAnswer:
 
       **Where the core is disputed.** Two places: whether there can be a prophet after Muhammad (pbuh) (the Ahmadi question), and how leadership after him is to be understood (imamate). The first, on the mainstream view, is outside the core; the second is a real difference that the Message chose not to treat as grounds for *takfīr*.
 
-      **The two slogans.** The current page says "Both slogans overstate their case". The two are: "Disagreement in my community is a mercy" — a saying the current page reports has no known chain (al-Subki, al-Suyuti, al-Albani; not checked for this run) — and "Only one sect is saved, so all others are lost". The first overstates by making every difference good; the second by turning the 73-sects hadith into a licence to condemn other Muslims, when the hadith's own word for the saved is *al-jamāʿa*, the community.
+      **The two slogans.** The first overstates by making every difference good; the second by turning the 73-sects hadith into a licence to condemn other Muslims, when the hadith's own word for the saved is *al-jamāʿa*, the community.
 
       *Limit:* a shared core does not make the remaining differences trivial. Centuries of violence show that they can be lethal when mixed with politics.
   - kind: science
-    en: |-
-      **Intellectual humility.** [Moderate; US samples] Across four studies (181 students; 188 and 169 adults online; 104 students in an experiment), Porter and Schumann (2018) found that people higher in intellectual humility "were more open to learning about the opposition's views", gave more respectful reasons for disagreement, and in one study read more of the opposing arguments; an article teaching a growth mindset raised intellectual humility (Heterodox Academy summary; effect sizes were not given in the summary read).
-
-      **Black-and-white religious thinking.** The current page says it correlates with anxiety and intolerance; no study on this was read for this run (see Corrections).
+    en: "**Intellectual humility.** [Moderate; US samples] Across four studies (181 students; 188 and 169 adults online; 104 students in an experiment), Porter and Schumann (2018) found that people higher in intellectual humility \"were more open to learning about the opposition's views\", gave more respectful reasons for disagreement, and in one study read more of the opposing arguments; an article teaching a growth mindset raised intellectual humility (Heterodox Academy summary; effect sizes were not given in the summary read)."
   - kind: objection
     en: |-
       **"If the message were clear, there would be no sects."** *Reply:* the core is clear and shared by almost all Muslims; most disagreement is about interpretation, which the tradition expected; Bukhari 7352 rewards a judge's careful reasoning even when wrong, and applying it to scholarly disagreement in general is an extension of that hadith. *Limit:* the imamate and finality-of-prophethood disputes are not just interpretation.
 
       **"Each group claims to be the saved sect, so all are arrogant."** *Reply:* the hadith names "the *jamāʿa*", the community, not a sect; the Amman Message forbids declaring other Muslims apostates. *Limit:* many groups still read the hadith exclusively.
 
-      **"Sunnis and Shiʿis killed each other for centuries."** *Reply:* yes, often when sectarian identity was fused with dynastic or state power (from Karbala to modern Iraq and Syria, per *Wikipedia*). Scholars have also worked for recognition: Shaltut's fatwa from the Sunni side, and the Amman Message, which recognised two Shiʿi schools (whether Shiʿi scholars signed it was not checked in the sources read). *Limit:* recognition on paper has not ended conflict.
+      **"Sunnis and Shiʿis killed each other for centuries."** *Reply:* yes, often when sectarian identity was fused with dynastic or state power (from Karbala to modern Iraq and Syria, per *Wikipedia*). Scholars have also worked for recognition: Shaltut's fatwa from the Sunni side, and the Amman Message, which recognised two Shiʿi schools (whether Shiʿi scholars signed it has not yet been checked in the sources read). *Limit:* recognition on paper has not ended conflict.
   - kind: views
     en: |-
       - **Amman Message signatories** — eight schools, Ashʿari creed, Sufism and "true Salafi thought" are all within Islam; *takfīr* forbidden.
@@ -185,7 +182,7 @@ followUps:
   - q:
       en: What are the "two slogans" that "both overstate their case"?
     a:
-      en: '"Disagreement is a mercy" (no known chain, as the current page reports) and "only one sect is saved, so the rest are lost". See "Is there a shared core?".'
+      en: '"Disagreement is a mercy" (no known chain) and "only one sect is saved, so the rest are lost". See "Is there a shared core?".'
   - q:
       en: What do Sunnis and Shiʿis actually disagree about, beyond "leadership after 632"?
     a:

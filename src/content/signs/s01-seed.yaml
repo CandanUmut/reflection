@@ -42,9 +42,9 @@ howItWorks:
   en: |-
     - **A seed is dormant, not dead.** [Established] A dry seed looks lifeless but is alive: as the next points show, it can wait for years and still grow when water reaches it.
     - **Splitting begins with water.** [Established] UF/IFAS describes three phases. "Early seed germination begins with imbibition of water": the dry seed soaks up water and swells. Then comes "a period where there is little water uptake called the lag phase". Finally "water uptake drives the emergence of the radicle": the embryonic root breaks through the seed coat.
-    - **The hard date stone.** [Established] The current page cites Gong et al. (2005): the date's stored food is a carbohydrate (galactomannan) laid down in very thick cell walls, which is why the stone is so hard; it is broken down mainly after the root has emerged. (This study was not re-read for this run.)
+    - **The hard date stone.** [Established] (2005): the date's stored food is a carbohydrate (galactomannan) laid down in very thick cell walls, which is why the stone is so hard; it is broken down mainly after the root has emerged. (This study has not yet been consulted again.)
     - **How long a seed can wait.** [Established for the one seed; Moderate for the general point] A date seed excavated at Masada in the 1960s, then stored at room temperature for about four decades, was planted in 2005 by a team led by Sarah Sallon (Hadassah Medical Organisation), and cared for by Elaine Solowey. Fragments of its own shell were radiocarbon-dated to about 2,000 years old, "give or take about 50 years" (National Geographic, reporting Sallon et al., *Science*, 2008). Sallon put its survival down to Masada's hot, dry climate, which limited damage from free radicals, "a major force in seed ageing".
-    - **Not a single freak.** [Moderate] In 2020 the team reported "seven successfully sprouted ancient seeds" from three Judean desert sites, including Qumran, roughly 1,800 to 2,400 years old, named Methuselah, Adam, Jonah, Uriel, Boaz, Judith and Hannah (Phys.org, reporting Sallon et al., *Science Advances*, 2020). The paper itself was not opened for this run.
+    - **Not a single freak.** [Moderate] In 2020 the team reported "seven successfully sprouted ancient seeds" from three Judean desert sites, including Qumran, roughly 1,800 to 2,400 years old, named Methuselah, Adam, Jonah, Uriel, Boaz, Judith and Hannah (Phys.org, reporting Sallon et al., *Science Advances*, 2020). The paper itself was not opened.
 awe:
   tr: |
     - Masada'da bulunan bir hurma çekirdeği 2005'te filizlendi (Sallon, Solowey ve ark., *Science* 320:1464, 2008). Zürih Üniversitesi çekirdeği **1.990 ± 50 yıl** öncesine tarihlendirdi; 2020'deki devam makalesi ondan 1.900 yıllık bir tohum diye söz eder. Fidana "Methuselah" adı verildi.
@@ -72,7 +72,7 @@ honestNotes:
   - en: "**No prediction is claimed.** The verse describes something every farmer could see. It makes no claim about dormancy, hormones or seed longevity, and the commentators did not read it that way."
   - en: '**"Dead" is not a biological term here.** A dormant seed is alive. The verse speaks of how things look to us, and the commentators read "dead" in that sense, or morally.'
   - en: "**Dates are approximate.** The Masada seed is about 2,000 years old, ± about 50 years. The 2020 seeds span roughly 1,800 to 2,400 years."
-  - en: '**Popular claim.** No widespread "scientific miracle" claim about 6:95 was found for this run; the page does not need one.'
+  - en: '**Popular claim.** No widespread "scientific miracle" claim about 6:95 was found; the page does not need one.'
 visualizations:
   - id: germination
     tr: Filizlenme zaman atlaması — ABA/GA "anahtarı" ile
@@ -99,7 +99,7 @@ sources:
     url: https://surahquran.com/tafsir-english-aya-95-sora-6.html
   - label: UF/IFAS (University of Florida), "Germination", https://propg.ifas.ufl.edu/04-seeds/03-germination/04-seedsgermination-germination.html — the three phases of water uptake.
     url: https://propg.ifas.ufl.edu/04-seeds/03-germination/04-seedsgermination-germination.html
-  - label: Gong, Bassel, Wang, Greenwood & Bewley, "The Emergence of Embryos from Hard Seeds…", *Annals of Botany* 96:1165–1173 (2005), https://pmc.ncbi.nlm.nih.gov/articles/PMC4247068 — as cited on the current page (not re-read for this run).
+  - label: Gong, Bassel, Wang, Greenwood & Bewley, "The Emergence of Embryos from Hard Seeds…", *Annals of Botany* 96:1165–1173 (2005), https://pmc.ncbi.nlm.nih.gov/articles/PMC4247068 —.
     url: https://pmc.ncbi.nlm.nih.gov/articles/PMC4247068
   - label: National Geographic, "2,000 year old 'Phoenix' seed rises from the ashes", https://www.nationalgeographic.com/science/article/2000-year-old-phoenix-seed-rises-from-the-ashes — the Masada seed (pointer to Sallon et al., *Science*, 2008).
     url: https://www.nationalgeographic.com/science/article/2000-year-old-phoenix-seed-rises-from-the-ashes

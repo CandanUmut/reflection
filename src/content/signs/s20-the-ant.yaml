@@ -36,7 +36,7 @@ tafsir:
 
     **Al-Tabari.** On "while they perceive not": "وهم لا يعلمون أنهم يحطمونكم" — "they do not know that they are crushing you" (Arabic text, quranislam.github.io).
 
-    **Is the talking ant meant literally?** Ibn Kathir treats the ant's words as real speech that God let Solomon (pbuh) understand: "Allah enabled Sulayman to understand what the birds said", among "the blessings that Allah bestowed upon him". Al-Jalālayn's section (on 27:18 only) does not discuss Solomon's hearing, but adds a grammar note: "the ants are likened to rational beings in their use of the latter's speech." Al-Tabari's Arabic section explains the words and does not address whether the speech was real. None of the three reads it as allegory. Al-Qurtubi and al-Razi, whom readers asked about, were not available for this run (see Gaps).
+    **Is the talking ant meant literally?** Ibn Kathir treats the ant's words as real speech that God let Solomon (pbuh) understand: "Allah enabled Sulayman to understand what the birds said", among "the blessings that Allah bestowed upon him". Al-Jalālayn's section (on 27:18 only) does not discuss Solomon's hearing, but adds a grammar note: "the ants are likened to rational beings in their use of the latter's speech." Al-Tabari's Arabic section explains the words and does not address whether the speech was real. None of the three reads it as allegory. Al-Qurtubi and al-Razi, whom readers asked about, were not available.
 
     **What they did not say.** None describes how ants communicate.
 howItWorks:
@@ -53,7 +53,7 @@ howItWorks:
     - **How far a warning reaches.** [Established] In the ant *Lasius claviger*, the alarm comes from the Dufour's gland (discharged with the mandibular gland). For the full contents (about 2.5 µg of undecane), "the diffusion model of Bossert and Wilson (1963) predicts" a signal reaching "a maximum of about 20 cm in still air" — a model prediction, not a measurement. In behaviour, the system "seems designed to bring workers to the aid of a distressed nestmate over distances of up to 10 cm"; ants a few millimetres away react within seconds, those a few centimetres away take a minute or longer. Unless reinforced, the signal "dies out within a few minutes" (AntWiki).
     - **Two kinds of alarm.** [Established] "In aggressive alarm some of the colony members… are drawn toward the threatening stimulus"; "In panic alarm the colony as a whole flees from the stimulus" (AntWiki).
     - **Sound too.** [Established] Some ants add stridulatory chirps, which "enhance attraction" (AntWiki).
-    - **Context matters.** Sasaki, Hölldobler, Millar and Pratt (2014) studied "a context-dependent alarm signal" in *Temnothorax rugatulus* (title; the findings were not read for this run).
+    - **Context matters.** Sasaki, Hölldobler, Millar and Pratt (2014) studied "a context-dependent alarm signal" in *Temnothorax rugatulus* (title; the findings have not yet been consulted).
 awe:
   tr: |
     - Bir deneyde, bir rahatsızlık bütün koloniyi saniyeler içinde harekete geçirdi. İşçiler larvaları güvenli yere taşıdı, sonra bütün koloniyi yeni bir yuvaya taşıdı.
@@ -75,9 +75,9 @@ reflection:
     Real ants do raise the alarm, with chemicals and sometimes with sound, and a whole colony can flee into its nest. The verse does not describe pheromones. It describes a small creature's care for its people, and a great man's humility before it.
 honestNotes:
   - en: "**A gift to a prophet, not entomology.** The verse tells of Solomon (pbuh) understanding an ant. It does not describe pheromones."
-  - en: "**The feminine verb.** Some articles say the feminine form proves \"the Quran knew worker ants are female\". *Namla* is grammatically feminine in any case, so the grammar does not settle biology (the current page's note; no named source for the claim was read for this run)."
-  - en: "**The skeptic's question.** Readers ask whether the story of Solomon and the ant appears in later Jewish tradition, suggesting borrowing. No source on Jewish versions of the story was read for this run (see Gaps), so this page makes no claim either way."
-  - en: "**The ant's name.** \"Ḥaras\" comes from a report Ibn Kathir cites from Ibn ʿAsakir, by way of Ishaq ibn Bishr, from Saʿid, from Qatada, from al-Hasan; the same report says she was lame and \"as big as a wolf\" (بقدر الذيب). Ibn Kathir adds no judgement; Ishaq ibn Bishr's standing as a narrator was not checked. It should not be presented as fact."
+  - en: '**The feminine verb.** Some articles say the feminine form proves "the Quran knew worker ants are female". *Namla* is grammatically feminine in any case, so the grammar does not settle biology (not yet sourced).'
+  - en: "**The skeptic's question.** Readers ask whether the story of Solomon and the ant appears in later Jewish tradition, suggesting borrowing. No source on Jewish versions of the story was read, so this page makes no claim either way."
+  - en: "**The ant's name.** \"Ḥaras\" comes from a report Ibn Kathir cites from Ibn ʿAsakir, by way of Ishaq ibn Bishr, from Saʿid, from Qatada, from al-Hasan; the same report says she was lame and \"as big as a wolf\" (بقدر الذيب). Ibn Kathir adds no judgement; Ishaq ibn Bishr's standing as a narrator has not yet been checked. It should not be presented as fact."
 visualizations:
   - id: ideas
     tr: |
@@ -149,7 +149,7 @@ followUps:
   - q:
       en: Is the story in Jewish tradition?
     a:
-      en: Not checked for this run.
+      en: Not checked.
 legacySources:
   - *a1
   - *a2

@@ -55,7 +55,7 @@ layers:
 honestLimits:
   tr: |
     İbn Mes'ûd'unki gibi erken mushaflar küçük farklılıklar gösterir.
-  en: "\"Not a letter has changed\" is true of the ʿUthmanic text across the manuscripts; it is not true of every early copy. The Sanaa and Ibn Masʿud evidence was read through *Wikipedia*'s summaries of Sadeghi, Bergmann, Goudarzi and Harvey. Research on memory and oral transmission, and the classical explanations of Ibn Masʿud's omissions, were not read."
+  en: "\"Not a letter has changed\" is true of the ʿUthmanic text across the manuscripts; it is not true of every early copy. The Sanaa and Ibn Masʿud evidence was read through *Wikipedia*'s summaries of Sadeghi, Bergmann, Goudarzi and Harvey. Research on memory and oral transmission, and the classical explanations of Ibn Masʿud's omissions, have not yet been consulted."
 visualizations:
   - id: ideas
     tr: |
@@ -111,13 +111,13 @@ fullAnswer:
       **Why the burning?** The report gives no explicit reason for the burning itself; ʿUthman acted after Hudhayfa's warning that people would "differ about the Book". The burned materials were other written copies. Their full contents are unknown, because most were destroyed; the reports about Ibn Masʿud's copy (below) and the Sanaa lower text give partial glimpses.
   - kind: history
     en: |-
-      **The Birmingham leaves.** Two leaves in the University of Birmingham, in Hijazi script (the early Arabic script of Mecca and Medina, with no short-vowel marks and some consonants marked with "oblique dashes"), containing parts of suras 18–20, were radiocarbon-dated at Oxford to "1465±21 years BP (before 1950), which corresponds with 95.4% confidence to the calendar years CE 568–645 when calibrated" (*Wikipedia*). *BP* means "before present", where "present" is fixed at 1950. The range begins before the Quran's revelation began — which shows the limits of the method: radiocarbon dates the death of the animal whose skin became the parchment, not the writing. David Thomas notes the text "could have been written as late as 650–655"; François Déroche has "expressed reservations about the reliability of the radiocarbon dates" (*Wikipedia*). The lab sample number given on the current page (OxA-29418) was not found in the source read.
+      **The Birmingham leaves.** Two leaves in the University of Birmingham, in Hijazi script (the early Arabic script of Mecca and Medina, with no short-vowel marks and some consonants marked with "oblique dashes"), containing parts of suras 18–20, were radiocarbon-dated at Oxford to "1465±21 years BP (before 1950), which corresponds with 95.4% confidence to the calendar years CE 568–645 when calibrated" (*Wikipedia*). *BP* means "before present", where "present" is fixed at 1950. The range begins before the Quran's revelation began — which shows the limits of the method: radiocarbon dates the death of the animal whose skin became the parchment, not the writing. David Thomas notes the text "could have been written as late as 650–655"; François Déroche has "expressed reservations about the reliability of the radiocarbon dates" (*Wikipedia*).
 
       **Tübingen.** A fragment in Tübingen University Library (Ma VI 165) was dated to AD 649–675 with 95.4% probability (*Medieval.eu*).
 
       **The Sanaa palimpsest.** A *palimpsest* is a manuscript whose first text was scraped off and written over. In the Sanaa manuscript, both layers are Quran. *Wikipedia* gives the parchment's radiocarbon range as 578–669 CE, citing Sadeghi & Bergmann (2010, p. 348); its sentence "95% accuracy to before 669 CE, and 75% probability from before 646 CE" has no citation. The lower text "contains many variations from the standard text", and its sura order "corresponds to no known Quranic order". Two examples: at 2:196, where the standard text has *fa-man kāna minkum* ("whoever among you"), the lower text has *fa-in kāna aḥadun minkum* ("if one of you"); at 9:125, where the standard text has "in their hearts is *disease*" (*maraḍ*), the lower text has "in their hearts is *filth*" (*rijs*). *Wikipedia*'s own judgement, without a citation, is that the variants "rarely diverge from the fundamental meaning". It also cites Éléonore Cellard as finding "numerous similarities" with the sura orders reported for Ibn Masʿud and Ubayy. Sadeghi and Goudarzi find some overlap with Ibn Masʿud's reported variants but "the differences much outnumbering the correspondences"; Asma Hilali argues both layers may be "school exercises", a view Nicolai Sinai has criticised.
   - kind: history
-    en: '**What is reported.** Reports say his copy "excludes the first chapter, as well as the two chapters known as Al-Muʿawwidhatayn" — suras 1, 113 and 114 (*Wikipedia*, citing Sadeghi & Bergmann 2010 and Harvey 2017). But "historical accounts are inconsistent regarding the details", the variant "has not been definitively found in any existing early Quranic manuscript", and his reading had supporters in Kufa "as late as the 9th century". Classical explanations of the omission were not read for this run (see Gaps).'
+    en: '**What is reported.** Reports say his copy "excludes the first chapter, as well as the two chapters known as Al-Muʿawwidhatayn" — suras 1, 113 and 114 (*Wikipedia*, citing Sadeghi & Bergmann 2010 and Harvey 2017). But "historical accounts are inconsistent regarding the details", the variant "has not been definitively found in any existing early Quranic manuscript", and his reading had supporters in Kufa "as late as the 9th century". Classical explanations of the omission have not yet been consulted.'
   - kind: history
     en: |-
       **The consonantal text.** Early Arabic script wrote consonants without vowels and often without the dots that distinguish letters. This written skeleton is the *rasm*; the ʿUthmanic copies fixed it.
@@ -126,9 +126,9 @@ fullAnswer:
 
       **Modes.** The *aḥruf* ("seven modes") of a well-known hadith are, in one common explanation, the dialectal forms in which the Quran was first allowed to be recited, reduced to the dialect of Quraysh under ʿUthman (Islamic Awareness). Scholars differ on what the seven *aḥruf* were; that debate was not covered here.
   - kind: history
-    en: "**The verse of stoning.** Ibn ʿAbbas (ra) reports ʿUmar (ra) saying: \"I am afraid that after a long time has passed, people may say, 'We do not find the Verses of the Rajam (stoning to death) in the Holy Book'\", and so leave \"an obligation that Allah has revealed\" ({hadith:bukhari:6829}). The tradition has a category for this: *naskh al-tilāwa dūna al-ḥukm*, a verse whose wording was abrogated (no longer part of the recited Quran) while its ruling remained. Which classical scholars applied it to this report, and how, was not read in a named source for this run (see Gaps). Critics see it as evidence that the text lost material. Both sides read the same report."
+    en: "**The verse of stoning.** Ibn ʿAbbas (ra) reports ʿUmar (ra) saying: \"I am afraid that after a long time has passed, people may say, 'We do not find the Verses of the Rajam (stoning to death) in the Holy Book'\", and so leave \"an obligation that Allah has revealed\" ({hadith:bukhari:6829}). The tradition has a category for this: *naskh al-tilāwa dūna al-ḥukm*, a verse whose wording was abrogated (no longer part of the recited Quran) while its ruling remained. Which classical scholars applied it to this report, and how, has not yet been consulted in a named source. Critics see it as evidence that the text lost material. Both sides read the same report."
   - kind: reasoning
-    en: "**Memory and writing together.** Zayd's method used both written fragments and \"the men who knew it by heart\" ({hadith:bukhari:4986}). Recitation in prayer, every day, by many people, meant that a change in one copy would be noticed by others. The current page also refers to research on memory; no study was read for this run (see Gaps)."
+    en: "**Memory and writing together.** Zayd's method used both written fragments and \"the men who knew it by heart\" ({hadith:bukhari:4986}). Recitation in prayer, every day, by many people, meant that a change in one copy would be noticed by others."
   - kind: objection
     en: |-
       **"ʿUthman burned the evidence."** *Reply:* the tradition records the burning openly, after Hudhayfa's warning ({hadith:bukhari:4987}); the copies sent out were made from Hafsa's sheets, collected under Abu Bakr; and an early witness that escaped (Sanaa) differs mainly in order and wording, not in content. *Limit:* we cannot compare the burned copies, so "nothing was lost" cannot be proved.
@@ -165,7 +165,7 @@ followUps:
   - q:
       en: What do BP, OxA-29418 and Hijazi script mean?
     a:
-      en: 'BP: years "before present", i.e. before 1950. OxA: an Oxford radiocarbon lab sample number (the one on the current page was not found in the source read). Hijazi: the early script of western Arabia.'
+      en: 'BP: years "before present", i.e. before 1950. Hijazi: the early script of western Arabia.'
 legacySources:
   - *a1
   - *a2

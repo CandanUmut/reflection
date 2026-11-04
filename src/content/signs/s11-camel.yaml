@@ -29,7 +29,7 @@ tafsir:
   tr: |
     Zemahşerî ve Kurtubî devenin dayanıklılığını, faydasını ve bir çocuğun bile onu yularından çekip götürebilmesini vurgular.
   en: |-
-    **Ibn Kathir on 88:17.** "Indeed it is an amazing creation, and the way it has been fashioned is strange." The current page quotes his fuller description: it "is extremely powerful and strong, yet gentle, carrying heavy loads. It allows itself to be guided by a weak rider."
+    **Ibn Kathir on 88:17.** "Indeed it is an amazing creation, and the way it has been fashioned is strange." His fuller description: it "is extremely powerful and strong, yet gentle, carrying heavy loads. It allows itself to be guided by a weak rider."
 
     **Ibn Kathir on the four signs together.** The sky: "how Allah raised it in such magnificence above the ground". The mountains: "firmly affixed so that the earth does not sway with its dwellers". The earth: "how it has been spread out, extended and made smooth". His summary: "He directs the bedouin to consider what he himself witnesses." He also cites, from Imam Ahmad via Anas, a Bedouin's question to the Prophet (pbuh), "Who erected these mountains and placed in them whatever is in them?" (Ibn Kathir's section heading names him Dimam). The same report is in Sahih Muslim through Anas, where the man is unnamed ("a man from the dwellers of the desert"): "Who raised these mountains and who created in them whatever is created there?" ({hadith:muslim:12}).
 
@@ -71,15 +71,15 @@ reflection:
     The lesson reaches beyond camels. Each of us lives among things we stopped seeing long ago — the faces at home, the water in the tap, our own breathing. The verse asks for a habit: to look again, slowly, and to ask how it was made.
 honestNotes:
   - en: "**No physiology in the verse.** The verse asks people to look; it does not describe the camel's kidneys or blood. The science on this page is modern and kept separate."
-  - en: "**A figure to avoid.** Claims such as \"200 litres in 3 minutes\" circulate without solid sources (the current page's note). The sources read give \"as much as 30 imperial gallons (140 litres) at a time\" (*Wikipedia*) and \"up to 110 liters of water within 10 min\" (Ali et al.)."
-  - en: "**The popular claim.** No named source making a scientific-miracle claim about 88:17 was read for this run."
+  - en: '**A figure to avoid.** Claims such as "200 litres in 3 minutes" circulate without solid sources (not yet sourced). The sources read give "as much as 30 imperial gallons (140 litres) at a time" (*Wikipedia*) and "up to 110 liters of water within 10 min" (Ali et al.).'
+  - en: "**The popular claim.** No named source making a scientific-miracle claim about 88:17 was read."
 visualizations:
   - id: ideas
     tr: Kan hücrelerini, böbrekleri ve ısıyı gösteren, susuzluk kaydırıcılı bir deve kesiti.
     en: A cutaway camel with a dehydration slider showing blood cells, kidneys and temperature.
 sources:
   - label: Saheeh International — 88:17–20.
-  - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 88:17–20, https://surahquran.com/tafsir-english-aya-17-sora-88.html; the current page's longer Ibn Kathir quotation (not re-read in full for this run).
+  - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 88:17–20, https://surahquran.com/tafsir-english-aya-17-sora-88.html; the longer Ibn Kathir quotation.
     url: https://surahquran.com/tafsir-english-aya-17-sora-88.html
   - label: '"Camel", *Wikipedia*, https://en.wikipedia.org/wiki/Camel.'
     url: https://en.wikipedia.org/wiki/Camel

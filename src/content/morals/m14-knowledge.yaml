@@ -67,7 +67,7 @@ gaps:
     - Araştırma üretimi, okuryazarlık ve eğitim kalitesi Müslüman çoğunluklu ülkeler arasında büyük farklılıklar gösterir; bazıları 96:1–5'in uyandıracağı beklentinin çok altındadır. Güncel Güncel UNESCO verileri henüz burada yer almıyor.
     - "İspanya bir yılda, Arap dünyasının bin yılda çevirdiği kadar kitap çevirir" şeklinde yaygın olarak paylaşılan iddia (ilk Arap İnsani Gelişme Raporu haberlerinden) **itiraz görmüştür**; burada tekrarlanmıyor.
     - "Altın çağ" nostaljisi, bugün hiçbir şeyin değişmesi gerekmediğini yanlış biçimde ima edebilir.
-  en: Al-Ghazali's Book of Knowledge was not read. Education statistics for Muslim-majority countries were not checked. "Golden age" nostalgia can wrongly imply nothing needs to change today.
+  en: Al-Ghazali's Book of Knowledge has not yet been consulted. Education statistics for Muslim-majority countries have not yet been checked. "Golden age" nostalgia can wrongly imply nothing needs to change today.
 visualizations:
   - id: ideas
     tr: |
@@ -115,17 +115,14 @@ fullAnswer:
 
       **Those who know (39:9; 58:11; 35:28).** "Say, 'Are those who know equal to those who do not know?' Only they will remember [who are] people of understanding" (39:9). "Allah will raise those who have believed among you and those who were given knowledge, by degrees" (58:11). "Only those fear Allah, from among His servants, who have knowledge" (35:28) — the verse comes right after a description of the different colours of mountains, people and animals (35:27–28), so the "knowledge" in view includes knowledge of creation.
   - kind: sunnah
-    en: "**\"Seeking knowledge is a duty upon every Muslim.\"** This often-quoted saying is in Sunan Ibn Majah 224, narrated by Anas (ra): \"Seeking knowledge is a duty upon every Muslim, and he who imparts knowledge to those who do not deserve it…\" — the rest compares that to putting jewels on swine. Its chain is graded *ḍaʿīf* (weak) by the Darussalam editors (thehouseofislam.com); other scholars have judged it acceptable through its many chains, but that was not checked here. Under this site's rules, no claim rests on it alone. The duty to learn what one needs for faith and practice is supported by the scholars below."
+    en: "**\"Seeking knowledge is a duty upon every Muslim.\"** This often-quoted saying is in Sunan Ibn Majah 224, narrated by Anas (ra): \"Seeking knowledge is a duty upon every Muslim, and he who imparts knowledge to those who do not deserve it…\" — the rest compares that to putting jewels on swine. Its chain is graded *ḍaʿīf* (weak) by the Darussalam editors (thehouseofislam.com); other scholars have judged it acceptable through its many chains, but that has not yet been checked. Under this site's rules, no claim rests on it alone. The duty to learn what one needs for faith and practice is supported by the scholars below."
   - kind: scholars
     en: |-
-      **Individual and communal knowledge.** Shaykh Muhammad Abu Bakr Badhib explains that individually obligatory knowledge is "the knowledge that every Muslim, male or female, must acquire" — the meaning of the testimony of faith and the "essential rulings on purity, prayer, fasting, zakat, and pilgrimage" — and that communally obligatory knowledge includes "worldly sciences like medicine, engineering": "if some members of the community pursue it, others are exempt." He refers readers to al-Ghazali's *Iḥyāʾ* for detail; al-Ghazali's Book of Knowledge itself was not read for this run.
+      **Individual and communal knowledge.** Shaykh Muhammad Abu Bakr Badhib explains that individually obligatory knowledge is "the knowledge that every Muslim, male or female, must acquire" — the meaning of the testimony of faith and the "essential rulings on purity, prayer, fasting, zakat, and pilgrimage" — and that communally obligatory knowledge includes "worldly sciences like medicine, engineering": "if some members of the community pursue it, others are exempt." He refers readers to al-Ghazali's *Iḥyāʾ* for detail; al-Ghazali's Book of Knowledge itself has not yet been consulted.
 
       **Ibn Rushd: the Law commands reasoned study.** Ibn Rushd (Averroes, d. 1198), the Andalusian judge and philosopher, opens his *Decisive Treatise* by arguing that the Quran commands reflection on created things — citing 59:2 — which Hourani's translation of Ibn Rushd renders as "Reflect, you have vision" (not the Saheeh wording) and verses on studying "the kingdom of the heavens and the earth" — and concludes that "we are under an obligation to carry on our study of beings by intellectual reasoning", so that "the Law commands philosophy": its study is "either obligatory or recommended".
   - kind: research
-    en: |-
-      **Curiosity helps learning.** [Moderate.] In Gruber, Gelman and Ranganath (2014), people rated their curiosity about trivia answers. When they were curious, they learned the answers better and also remembered unrelated faces shown during the wait, even after 24 hours; brain scans showed more activity in the dopamine reward circuit and the hippocampus (Cell Press press release; numbers not given there).
-
-      **Other claims on the current page** — education's link to health and income, and small "growth mindset" effects — were not re-checked for this run; nor were UNESCO literacy figures (see Gaps).
+    en: "**Curiosity helps learning.** [Moderate.] In Gruber, Gelman and Ranganath (2014), people rated their curiosity about trivia answers. When they were curious, they learned the answers better and also remembered unrelated faces shown during the wait, even after 24 hours; brain scans showed more activity in the dopamine reward circuit and the hippocampus (Cell Press press release; numbers not given there)."
   - kind: practice
     en: |-
       **Learn what you need for your faith first** — prayer, fasting, purity, the meaning of what you recite — then go further.
@@ -160,7 +157,7 @@ followUps:
   - q:
       en: Why do some Muslim-majority countries lag in education?
     a:
-      en: For many historical, economic and political reasons; no data were checked for this run.
+      en: For many historical, economic and political reasons; no data were checked.
 legacySources:
   - *a1
   - *a2

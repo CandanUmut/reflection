@@ -53,7 +53,7 @@ layers:
 honestLimits:
   tr: |
     Beş sayısı, açık bir Kur'an sayısına değil, hadise ve uygulamaya dayanır. Hiçbir teknik duyguyu garanti etmez.
-  en: No technique guarantees feeling. Al-Ghazali's *Asrār al-Ṣalāt*, al-Qushayri's own text, the Quran's prayer-time verses (11:114; 17:78) in verified text, and any study of prayer's physiological effects were not read. The practical steps beyond Rabbani's are general teaching, not sourced here.
+  en: No technique guarantees feeling. Al-Ghazali's *Asrār al-Ṣalāt*, al-Qushayri's own text, the Quran's prayer-time verses (11:114; 17:78) in verified text, and any study of prayer's physiological effects have not yet been consulted. The practical steps beyond Rabbani's are general teaching, not sourced here.
 visualizations:
   - id: ideas
     tr: |
@@ -125,11 +125,9 @@ fullAnswer:
       The person who feels dry but keeps praying, and keeps pulling the mind back, is in the third grade: "redeemed".
 
       **Al-Qushayri on dry phases.** Rabbani reports al-Qushayri's account of *qabḍ* (contraction) and *basṭ* (expansion) as states of the present moment, which are "neither achievements nor failures. They are visitations, and they alternate."
-
-      **Al-Ghazali.** The current page cites al-Ghazali's *Asrār al-Ṣalāt* (in the *Iḥyāʾ*) for six inner meanings of prayer — presence, understanding, reverence, awe, hope and shame. That text was not read for this run (see Gaps).
   - kind: reasoning
     en: |-
-      **The argument.** Some Quran-centred Muslims argue that the Quran mentions only three prayer times (no named holder or work was read for this run), so three prayers are enough; five, on this view, rests on hadith they do not accept.
+      **The argument.** Some Quran-centred Muslims argue that the Quran mentions only three prayer times (no named holder or work was read), so three prayers are enough; five, on this view, rests on hadith they do not accept.
 
       **The reply.**
       1. The five prayers are in the Miʿrāj report, which is in both Bukhari and Muslim ({hadith:bukhari:349}), and in other reports such as Bukhari 46.
@@ -139,7 +137,7 @@ fullAnswer:
       *Limit:* for someone who rejects hadith altogether, the first point carries no weight, and the second becomes a question of whether community practice can be trusted (see "Are hadith reliable?").
   - kind: heart
     en: |-
-      (These are common teaching points; only the first two are drawn from sources read for this run.)
+      (These are common teaching points; only the first two are drawn from sources read.)
       1. **Keep the rhythm, even dry.** Steady, small practice (Rabbani).
       2. **Don't chase feelings; pray for a firm heart** (Rabbani).
       3. **Learn the meaning of what you say.** Start with al-Fātiḥa, then the phrases of bowing and prostration. A prayer in a language you do not understand becomes different once each phrase has a meaning.
@@ -148,7 +146,7 @@ fullAnswer:
       6. **Pick one point of focus each prayer** — one verse, one phrase — rather than trying to feel everything.
   - kind: fiqh
     en: |-
-      The five prayers are at dawn (*fajr*), just after midday (*ẓuhr*), the afternoon (*ʿaṣr*), just after sunset (*maghrib*) and night (*ʿishāʾ*). Each prayer is made of units (*rakʿa*): standing and reciting al-Fātiḥa and other verses, bowing, standing again, two prostrations, and sitting. It is said in Arabic, which keeps the same words across the whole world. (This description is general; no source describing prayer step by step was read for this run.)
+      The five prayers are at dawn (*fajr*), just after midday (*ẓuhr*), the afternoon (*ʿaṣr*), just after sunset (*maghrib*) and night (*ʿishāʾ*). Each prayer is made of units (*rakʿa*): standing and reciting al-Fātiḥa and other verses, bowing, standing again, two prostrations, and sitting. It is said in Arabic, which keeps the same words across the whole world. (This description is general; no source describing prayer step by step was read.)
 
       **The Arabic-language concern.** The fixed Arabic of the prayer is part of what makes it shared; personal prayer (*duʿāʾ*) can be in any language, at any time — "I respond to the invocation of the supplicant when he calls upon Me" (2:186).
   - kind: objection
@@ -157,7 +155,7 @@ fullAnswer:
 
       **"Five times is too much."** *Reply:* each prayer takes minutes; spread through the day, they are short returns to God. *Limit:* for a new Muslim or someone returning, five can feel heavy; many teachers advise building up gradually (no named source read).
   - kind: science
-    en: The current page says that structured ritual can lower anxiety and that studies of Muslim prayer show physiological changes in small samples. No study was read for this run, so no claim about prayer's measurable effects is made here (see Corrections and Gaps).
+    en: No study was read, so no claim about prayer's measurable effects is made here.
   - kind: views
     en: |-
       - **Sunni and Shiʿi Muslims** — five daily prayers, as practised from the beginning (the Shiʿi practice of combining them into three time-slots is a timing difference, not a reduction; no source read).

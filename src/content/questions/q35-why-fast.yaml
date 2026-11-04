@@ -24,7 +24,7 @@ whyAsked:
 shortAnswer:
   tr: |
     Bazı kuralların açık amaçları vardır; bazıları ise saf kulluk ibadetleridir (*taabbüdî*). Oruç nefse hâkimiyeti ve empatiyi geliştirir. Sağlığa etkileri mütevazıdır.
-  en: "God does not need the fast: \"O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy\" (35:15). The Prophet (pbuh) said that if a person does not give up false speech and evil actions, \"Allah is not in need of his leaving his food and drink\" ({hadith:bukhari:1903}). The Quran gives the fast's purpose: \"that you may become righteous\" (2:183) — *taqwā*, a constant awareness of God. Fasting is from dawn to sunset, with no food, drink or sexual relations (2:187); the ill and travellers make up the days later, and those who can fast only with great hardship feed a poor person instead (2:184–185). As for rules, al-Shatibi held that the Sharia as a whole serves five purposes — religion, life, intellect, family and wealth. That acts of worship keep their fixed form even where their full reason is not stated is a common framing, but no named source for it was read for this run. Health effects of Ramadan fasting are real but modest and temporary, and they are not its reason."
+  en: "God does not need the fast: \"O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy\" (35:15). The Prophet (pbuh) said that if a person does not give up false speech and evil actions, \"Allah is not in need of his leaving his food and drink\" ({hadith:bukhari:1903}). The Quran gives the fast's purpose: \"that you may become righteous\" (2:183) — *taqwā*, a constant awareness of God. Fasting is from dawn to sunset, with no food, drink or sexual relations (2:187); the ill and travellers make up the days later, and those who can fast only with great hardship feed a poor person instead (2:184–185). As for rules, al-Shatibi held that the Sharia as a whole serves five purposes — religion, life, intellect, family and wealth. That acts of worship keep their fixed form even where their full reason is not stated is a common framing, but no named source for it was read. Health effects of Ramadan fasting are real but modest and temporary, and they are not its reason."
 layers:
   - kind: religious
     tr: |
@@ -45,7 +45,7 @@ layers:
 honestLimits:
   tr: |
     Sağlık orucun "sebebi" değildir.
-  en: Al-Shatibi's own text, and any statement of his on worship being devotional by default, were not read. The Maliki position on pregnant and breastfeeding women was not covered. The umbrella review was read through its abstract (Mainz university bibliography record), not its full text. No study of self-control or empathy during Ramadan, and no clinical guideline on fasting risks, was read.
+  en: Al-Shatibi's own text, and any statement of his on worship being devotional by default, have not yet been consulted. The Maliki position on pregnant and breastfeeding women was not covered. The umbrella review was read through its abstract (Mainz university bibliography record), not its full text. No study of self-control or empathy during Ramadan, and no clinical guideline on fasting risks, was read.
 visualizations:
   - id: ideas
     tr: |
@@ -108,13 +108,13 @@ fullAnswer:
       **Pregnant and breastfeeding women.** Ibn Kathir: "The same ruling applies for the pregnant and breast-feeding women if they fear for themselves or their children or fetuses." The schools differ on what they owe afterwards (Kutty, IslamOnline):
       - **Hanafi:** make up the days only, no *fidya*.
       - **Shafiʿi and Hanbali:** if they did not fast out of fear for the child only, make up *and* pay *fidya* for each day; if out of fear for themselves (or both), make up only.
-      - **Maliki:** not covered in the source read (see Gaps).
+      - **Maliki:** not covered in the source read.
       - A third view, reported from Ibn ʿAbbas and Ibn ʿUmar, treats them like the elderly: *fidya* only.
   - kind: scholars
     en: |-
       **The purposes of the Sharia.** Al-Shatibi (an Andalusian jurist), in *al-Muwāfaqāt*, organised the law around "the Five Universals (al-Kulliyyat al-Khams)", each "a fundamental human interest that the Shariah is designed to protect, promote, and balance": religion, life, intellect, lineage and family, and wealth (islam.wiki's explanatory chapter). Many rules can be understood this way: the ban on intoxicants protects the intellect; inheritance rules protect family and wealth.
 
-      **Reasoned and devotional rules.** Jurists commonly distinguish rules whose reasons can be understood and extended (*maʿqūl al-maʿnā*) from rules accepted as acts of devotion (*taʿabbudī*) (a standard distinction; no named source for it was read for this run), where the form is fixed even if its full reason is not stated — the number of units in each prayer, for example. The current page says that for al-Shatibi, "in acts of worship, devotion is the default"; that statement was not found in the chapter read for this run (see Corrections and Gaps).
+      **Reasoned and devotional rules.** Jurists commonly distinguish rules whose reasons can be understood and extended (*maʿqūl al-maʿnā*) from rules accepted as acts of devotion (*taʿabbudī*) (a standard distinction; no named source for it was read), where the form is fixed even if its full reason is not stated — the number of units in each prayer, for example.
 
       **How to tell which is which.** A practical rule of thumb (this page's, not a named scholar's): where a text gives a reason (2:183's *taqwā*; 2:185's "ease"), the rule is reasoned at least in part; where the form of a worship act is fixed without a stated reason (times, numbers, directions), it is devotional. Most acts of worship have both: a stated purpose and a fixed form.
   - kind: reasoning
@@ -132,9 +132,9 @@ fullAnswer:
 
       **Metabolic markers.** [Low-quality evidence] An umbrella review of eleven meta-analyses (Jahrami, Ammar, Glenn, Saif, Chtourou & Trabelsi, *Nutrition Reviews*, 2024, doi:10.1093/nutrit/nuae001) found small changes after Ramadan fasting, given as standardised mean differences (SMD; about 0.2 is conventionally called "small"): waist circumference −0.30 (95% CI −0.33 to −0.27), body weight −0.34 (−0.39 to −0.29), HDL +0.20 (0.10 to 0.30), LDL −0.10 (−0.13 to −0.07), total cholesterol −0.15 (−0.21 to −0.09), triglycerides −0.16 (−0.24 to −0.08), systolic and diastolic blood pressure −0.20 each, fasting glucose −0.10 (−0.12 to −0.08). The authors warn that "the methodological quality of the included reviews ranged from low to critically low", "necessitating cautious interpretation of conclusions drawn from these data". Non-English studies were excluded (2 Minute Medicine summary).
 
-      **Risks.** The current page advises people with eating disorders or diabetes to take medical advice. No clinical guideline on fasting risks was read for this run (see Gaps). The Quran's exemption for the ill (2:184) covers anyone for whom fasting would cause harm.
+      **Risks.** No clinical guideline on fasting risks was read. The Quran's exemption for the ill (2:184) covers anyone for whom fasting would cause harm.
 
-      **Self-mastery and empathy.** No study measuring changes in self-control or empathy during Ramadan was read for this run. These are the tradition's claims (Bukhari 1904) and a common experience, not measured findings here.
+      **Self-mastery and empathy.** No study measuring changes in self-control or empathy during Ramadan was read. These are the tradition's claims (Bukhari 1904) and a common experience, not measured findings here.
   - kind: objection
     en: |-
       **"If God needs nothing, my fast is pointless."** *Reply:* it is pointless for God; it is not pointless for you. That is the Quran's own claim (2:183; 35:15). *Limit:* if one doubts that the fast does anything for the soul, the reply rests on experience and trust, not proof.

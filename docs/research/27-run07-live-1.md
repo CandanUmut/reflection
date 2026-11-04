@@ -33,25 +33,24 @@ Justice in the Quran is owed to everyone, including people you dislike, and it b
 
 **What the story is about.** Its point is equality before the law: the same rule for a noble family as for a poor one, and no special pleading by people close to the ruler. Usama was the Prophet's (pbuh) beloved adopted grandson; Fatima (ra) his own daughter. Naming them is the strongest possible way of saying "no exceptions".
 
-**The punishment itself.** The story involves the classical punishment for theft, cutting off the hand, which the Quran prescribes (5:38). Classical law surrounded it with conditions — a minimum value, proof, and the absence of doubt — but those conditions were not read in a named source for this page (see Gaps). Many Muslim-majority states today do not apply it. Readers who find the punishment itself troubling are right to ask about it; this page's subject is the equality the story teaches, and the question of the punishments belongs on a page of its own.
+**The punishment itself.** The story involves the classical punishment for theft, cutting off the hand, which the Quran prescribes (5:38). Classical law surrounded it with conditions — a minimum value, proof, and the absence of doubt — but those conditions have not yet been consulted in a named source. Many Muslim-majority states today do not apply it. Readers who find the punishment itself troubling are right to ask about it; this page's subject is the equality the story teaches, and the question of the punishments belongs on a page of its own.
 
 #### scholars — How scholars have understood it
-**Ibn al-Qayyim: justice is the goal of the law.** Ibn al-Qayyim (d. 1350), a Hanbali scholar, writes in *al-Ṭuruq al-Ḥukmiyya* (1/13) that God's purpose in sending His law is "to establish justice between His servants and for people to behave fairly", and that "Whichever path leads to justice and fairness is part of the religion and does not contradict it" (English as quoted by Abu Amina Elias; translator not named). The often-quoted line "wherever justice is, there is God's law" is a paraphrase of this passage; its exact wording was not found in this run.
+**Ibn al-Qayyim: justice is the goal of the law.** Ibn al-Qayyim (d. 1350), a Hanbali scholar, writes in *al-Ṭuruq al-Ḥukmiyya* (1/13) that God's purpose in sending His law is "to establish justice between His servants and for people to behave fairly", and that "Whichever path leads to justice and fairness is part of the religion and does not contradict it" (English as quoted by Abu Amina Elias; translator not named). The often-quoted line "wherever justice is, there is God's law" is a paraphrase of this passage; its exact wording was not found.
 
-**Al-Shatibi and the purposes of the law.** The current page cites al-Shatibi's *al-Muwāfaqāt*, the classic work on the *maqāṣid* (purposes) of the Sharia; it was not read for this run (see Gaps).
 
 #### fiqh — What the jurists hold
 **Testimony for and against relatives.** According to islamicfiqh.net, testimony "by parents in favour of their children, or by children in favour of their parents, is not acceptable according to the majority of scholars", and "a testimony by one spouse in favour of the other is unacceptable" — because of the risk of favouritism. But "a testimony against such close relatives is acceptable, as it cannot be motivated by favouritism." This is 4:135 in practice: you may not be a witness *for* your family, but you must be one *against* them if justice requires. The page attributes a minority view, accepting testimony for parents or children from a witness of good character, to ʿUmar ibn al-Khattab, the judge Shurayh, ʿUmar ibn ʿAbd al-ʿAziz, Ibn al-Mundhir, and "al-Shafiʿi in one of his two views." The source does not name each school's position separately.
 
-**Women and non-Muslims as witnesses.** Classical law did not treat all witnesses equally. In the same source, women were not accepted as witnesses in marriage, divorce and similar non-financial matters; in financial matters two men, or one man and two women, were needed; and in matters mostly known to women (birth, breastfeeding), "the testimony of one woman of probity is accepted." These rules are discussed on the page "Does Islam treat women unequally?". The source read does not address non-Muslim witnesses in general (see Gaps).
+**Women and non-Muslims as witnesses.** Classical law did not treat all witnesses equally. In the same source, women were not accepted as witnesses in marriage, divorce and similar non-financial matters; in financial matters two men, or one man and two women, were needed; and in matters mostly known to women (birth, breastfeeding), "the testimony of one woman of probity is accepted." These rules are discussed on the page "Does Islam treat women unequally?". The source read does not address non-Muslim witnesses in general.
 
 #### history — History
-**Courts in practice.** Readers ask how Muslim courts actually applied this teaching. No historical study of court records was read for this run, so no examples are given here (see Gaps). Honest examples exist in the scholarly literature, both of judges ruling against the powerful and of the powerful escaping; they should be added from named studies, not from popular stories.
+**Courts in practice.** Readers ask how Muslim courts actually applied this teaching. No historical study of court records was read, so no examples are given here. Honest examples exist in the scholarly literature, both of judges ruling against the powerful and of the powerful escaping; they should be added from named studies, not from popular stories.
 
 #### research — What research shows
 **People obey law they see as fair, mainly because fairness builds trust.** [Moderate.] Walters and Bolger (2019) combined 64 studies (95 samples) published between 1990 and 2018. Fair treatment by authorities (procedural justice) predicted belief that the authorities are legitimate, and legitimacy predicted obeying the law. The direct link from fairness to obeying the law was "relatively weak" and "could not be reliably established in longitudinal datasets"; the results varied a lot between studies. In plain words: fairness matters mainly because it makes people trust the system.
 
-**The Arab Barometer.** The current page cites the Arab Barometer on falling trust in religious leaders. That is a real survey, but it measures trust and religiosity, not whether Muslim societies live by 4:135, so it was not used here.
+**The Arab Barometer.** That is a real survey, but it measures trust and religiosity, not whether Muslim societies live by 4:135, so it was not used here.
 
 #### practice — In daily life
 **At home.** If your child or sibling is in the wrong in a dispute with someone else, say so — kindly, but clearly. Family loyalty does not include taking the wrong side.
@@ -74,14 +73,14 @@ Justice in the Quran is owed to everyone, including people you dislike, and it b
 
 **What do "pbuh" and "maqāṣid" mean?** "Peace be upon him", said after the Prophet's name. *Maqāṣid* are the purposes of Islamic law, such as protecting life, faith, mind, family and property.
 
-**Does the law give equal standing to women and non-Muslims as witnesses?** Not in classical law: women's testimony counted differently in some areas (see "Does Islam treat women unequally?"); non-Muslim testimony was not checked for this page.
+**Does the law give equal standing to women and non-Muslims as witnesses?** Not in classical law: women's testimony counted differently in some areas (see "Does Islam treat women unequally?"); non-Muslim testimony has not yet been checked.
 
 **Which work of Ibn al-Qayyim says justice is the goal of the law?** *Al-Ṭuruq al-Ḥukmiyya*, 1/13: "Whichever path leads to justice and fairness is part of the religion."
 
 **How do the schools apply 4:135 to testimony about relatives?** The majority reject testimony *for* parents, children or a spouse and accept testimony *against* them.
 
 ### Honest limits
-Muslim societies, like others, often fail this teaching; this page states the ideal and does not claim it is lived everywhere. Classical rules on witnesses were not equal for men and women. The conditions of the theft punishment, al-Shatibi's work, and historical court records were not read for this run.
+Muslim societies, like others, often fail this teaching; this page states the ideal and does not claim it is lived everywhere. Classical rules on witnesses were not equal for men and women. The conditions of the theft punishment, al-Shatibi's work, and historical court records have not yet been consulted.
 
 ---
 
@@ -121,13 +120,13 @@ God says of Himself: "My mercy encompasses all things" (7:156), and the Prophet 
 **Mercy first.** "When Allah completed the creation, He wrote in His Book which is with Him on His Throne, 'My Mercy overpowers My Anger'" ({hadith:bukhari:3194}).
 
 #### scholars — How scholars have understood it
-**Readers asked for al-Ghazali and Ibn al-Qayyim on mercy.** Al-Ghazali's *al-Maqṣad al-Asnā* (on the names of God, translated by David Burrell and Nazih Daher) discusses *al-Raḥmān* and *al-Raḥīm*, and what share of each name a human being can have; Ibn al-Qayyim wrote widely on mercy. Neither text was read for this run, so neither is quoted (see Gaps).
+**Readers asked for al-Ghazali and Ibn al-Qayyim on mercy.** Al-Ghazali's *al-Maqṣad al-Asnā* (on the names of God, translated by David Burrell and Nazih Daher) discusses *al-Raḥmān* and *al-Raḥīm*, and what share of each name a human being can have; Ibn al-Qayyim wrote widely on mercy. Neither text was read, so neither is quoted.
 
 #### fiqh — What the jurists hold
-**Slaughter (dhabḥ).** Muslim 1955 is the basis of the jurists' rules that the knife be sharp and the animal not be made to suffer needlessly. How each of the four schools details this (for example, not sharpening the knife in front of the animal, not slaughtering one animal in sight of another) was not read in named works for this run (see Gaps).
+**Slaughter (dhabḥ).** Muslim 1955 is the basis of the jurists' rules that the knife be sharp and the animal not be made to suffer needlessly. How each of the four schools details this (for example, not sharpening the knife in front of the animal, not slaughtering one animal in sight of another) has not yet been consulted in named works.
 
 #### research — What research shows
-**No research specifically tests the Islamic teaching on mercy,** and studies of compassion were not read for this run. This page does not claim scientific support.
+**No research specifically tests the Islamic teaching on mercy,** and studies of compassion have not yet been consulted. This page does not claim scientific support.
 
 #### practice — In daily life
 **Iḥsān in ordinary work.** Do the task as if it will be seen by the One who sees everything: the report no one will check, the repair no one will inspect, the meal for a guest.
@@ -154,10 +153,10 @@ God says of Himself: "My mercy encompasses all things" (7:156), and the Prophet 
 
 **What is the full Hadith Jibril definition of iḥsān?** "That you worship Allah as if you are seeing him, and even though you do not see Him, [you know] He sees you."
 
-**How do jurists apply Muslim 1955 in slaughter?** It is the basis for requiring a sharp knife and avoiding needless suffering; school-by-school detail was not checked here.
+**How do jurists apply Muslim 1955 in slaughter?** It is the basis for requiring a sharp knife and avoiding needless suffering; school-by-school detail has not yet been checked.
 
 ### Honest limits
-The relation between God's mercy and punishment is debated, and this page does not settle it. Al-Ghazali's and Ibn al-Qayyim's writings on mercy, and the schools' rules on slaughter, were not read for this run.
+The relation between God's mercy and punishment is debated, and this page does not settle it. Al-Ghazali's and Ibn al-Qayyim's writings on mercy, and the schools' rules on slaughter, have not yet been consulted.
 
 ---
 
@@ -200,7 +199,7 @@ In the Quran, kindness to parents comes straight after the worship of God: "your
 **What spouses owe each other.** ʿAʾisha (ra) reports: "The best of you is the best to his wives, and I am the best of you to my wives" (al-Tirmidhi 3895; al-Tirmidhi: *ḥasan gharīb ṣaḥīḥ*; al-Albani: *ṣaḥīḥ*). The measure of a man's goodness is how he treats the people with the least power to complain about him.
 
 #### scholars — How scholars have understood it
-**The maqāṣid and the family.** The current page links family to the *maqṣad* of preserving lineage (*ḥifẓ al-nasl*), one of the classical purposes of the law. No named work was read on this point for this run.
+**The maqāṣid and the family.** No named work was read on this point.
 
 #### fiqh — The limits of obedience
 **No obedience in sin.** Shaykh Amjad Rasheed, a contemporary Shafiʿi scholar, writes that "it is not obligatory to obey any of them if they command something that contravenes the shariah", and that obeying in such a case is "not even permissible" — for example, if parents stop a child from praying.
@@ -209,10 +208,10 @@ In the Quran, kindness to parents comes straight after the worship of God: "your
 
 **Some exceptions for the child's interest.** He adds that some scholars exempt matters "due to what is best in the child's interests", such as "travelling to attain knowledge, even if recommended". Otherwise, in what is permissible, the child should comply.
 
-**Marriage and career.** Readers ask whether a parent can choose their spouse or career. The source read does not address these directly, and the other schools' positions were not read (see Gaps). On marriage, the page "Does Islam treat women unequally?" and the run 4 research on guardianship (*wilāya*) discuss whose consent is required.
+**Marriage and career.** Readers ask whether a parent can choose their spouse or career. The source read does not address these directly, and the other schools' positions have not yet been consulted. On marriage, the page "Does Islam treat women unequally?" and the run 4 research on guardianship (*wilāya*) discuss whose consent is required.
 
 #### research — What research shows
-**Family cohesion and adolescent wellbeing.** The current page says family cohesion correlates with adolescent wellbeing. No named study was read for this run, so no numbers are given (see Gaps).
+**Family cohesion and adolescent wellbeing.** No named study was read, so no numbers are given.
 
 #### practice — In daily life
 **With ageing parents.** Speak gently, especially when you are tired; visit or call regularly; let them keep their dignity — ask their opinion even when you will decide yourself.
@@ -241,10 +240,10 @@ In the Quran, kindness to parents comes straight after the worship of God: "your
 
 **What is the context of al-Nasaʾi 3104?** A man asked to go to battle; the Prophet (pbuh) told him to stay with his mother, for "Jannah is beneath her feet". Bukhari 3004 makes the same point about parents in general.
 
-**Can my parents make me divorce, or choose my career?** Not checked in the four schools for this run; the Shafiʿi source read limits obedience to permissible matters that do not harm the child.
+**Can my parents make me divorce, or choose my career?** Not checked in the four schools; the Shafiʿi source read limits obedience to permissible matters that do not harm the child.
 
 ### Honest limits
-Families often fall short of this ideal, and some parents abuse the religious authority this teaching gives them. The other schools' views on obedience, and research on family cohesion, were not read for this run.
+Families often fall short of this ideal, and some parents abuse the religious authority this teaching gives them. The other schools' views on obedience, and research on family cohesion, have not yet been consulted.
 
 ---
 
@@ -267,7 +266,7 @@ The Quran forbids mockery, insulting nicknames, suspicion, spying and backbiting
 #### quran — What the Quran says
 **Six forbidden things (49:11–12).** "O you who have believed, let not a people ridicule [another] people; perhaps they may be better than them; nor let women ridicule [other] women… And do not insult one another and do not call each other by [offensive] nicknames… O you who have believed, avoid much [negative] assumption. Indeed, some assumption is sin. And do not spy or backbite each other. Would one of you like to eat the flesh of his brother when dead? You would detest it. And fear Allah; indeed, Allah is Accepting of repentance and Merciful" (49:11–12). Sura al-Hujurat is Medinan and addressed to the believers. The forbidden list moves from public (mockery, nicknames) to private (suspicion, spying, backbiting). The image of eating a dead brother's flesh fits: the person is absent and cannot defend himself.
 
-**Does "your brother" include non-Muslims?** The verse addresses believers and speaks of "his brother". Whether the prohibition extends to non-Muslims was not checked in a named commentary for this run. The general commands of justice (5:8) and good speech apply to everyone, and slander is forbidden against anyone (see Gaps).
+**Does "your brother" include non-Muslims?** The verse addresses believers and speaks of "his brother". Whether the prohibition extends to non-Muslims has not yet been checked in a named commentary. The general commands of justice (5:8) and good speech apply to everyone, and slander is forbidden against anyone.
 
 #### sunnah — What the Prophet (pbuh) taught
 **What backbiting is.** The Prophet (pbuh) asked: "Do you know what is backbiting?" and answered: "Backbiting implies your talking about your brother in a manner which he does not like." Asked what if it is true, he said: "If (that failing) is actually found (in him) what you assert, you in fact backbited him, and if that is not in him it is a slander" ({hadith:muslim:2589}, narrated by Abu Hurayra). So truth is not a defence: true but hurtful gossip is still backbiting.
@@ -292,7 +291,7 @@ The Quran forbids mockery, insulting nicknames, suspicion, spying and backbiting
 **Hadith criticism as permitted speech.** Al-Nawawi's fourth case includes the critique of hadith narrators — the basis of the whole science of judging chains. Scholars openly called narrators liars or weak in memory, and held that this was not forbidden backbiting because it protected the religion from false reports.
 
 #### research — What research shows
-**No research specifically on Islamic speech ethics was read for this run.** This page makes no scientific claims.
+**No research specifically on Islamic speech ethics was read.** This page makes no scientific claims.
 
 #### practice — In daily life
 **Before speaking about someone, ask three questions.** Would they dislike it? Is there a need — justice, protection, advice? Am I saying only what the need requires?
@@ -311,7 +310,7 @@ The Quran forbids mockery, insulting nicknames, suspicion, spying and backbiting
 ### Questions readers ask next
 **When am I allowed to speak about someone's wrongdoing?** In al-Nawawi's six cases: seeking justice, seeking help to stop a wrong, asking for a ruling, warning someone of harm, speaking of sin they make public, and neutral identification.
 
-**Does "your brother" in 49:12 include non-Muslims?** Not checked in a named commentary for this run. Slander and injustice are forbidden against anyone (5:8).
+**Does "your brother" in 49:12 include non-Muslims?** Not checked in a named commentary. Slander and injustice are forbidden against anyone (5:8).
 
 **Are there times Islam allows lying, for example to make peace?** The Prophet (pbuh) said that someone who reconciles people by saying good is not a liar. The list of three cases (war, peace-making, between spouses) is the narrator al-Zuhri's addition.
 
@@ -322,7 +321,7 @@ The Quran forbids mockery, insulting nicknames, suspicion, spying and backbiting
 **What are al-Ghazali's calamities of the tongue?** Twenty "banes" in Book 24 of the *Iḥyāʾ*, from excessive talk to the most serious, including lying and backbiting.
 
 ### Honest limits
-The source for al-Nawawi's six cases is an English e-book whose translator and original work were not named. The full list of al-Ghazali's twenty banes was not read. Free speech and blasphemy laws are not discussed. Muslim communities, like others, often fail this teaching — gossip is common — and this page does not claim otherwise.
+The source for al-Nawawi's six cases is an English e-book whose translator and original work were not named. The full list of al-Ghazali's twenty banes has not yet been consulted. Free speech and blasphemy laws are not discussed. Muslim communities, like others, often fail this teaching — gossip is common — and this page does not claim otherwise.
 
 ---
 
@@ -358,7 +357,7 @@ The source for al-Nawawi's six cases is an English e-book whose translator and o
 **The Prophet (pbuh) wept for his son.** Anas (ra) reports that when the Prophet's (pbuh) infant son Ibrahim was dying, his eyes filled with tears. ʿAbd al-Rahman ibn ʿAwf asked about it, and he said: "O Ibn ʿAuf, this is mercy." Then: "The eyes are shedding tears and the heart is grieved, and we will not say except what pleases our Lord, O Ibrahim! Indeed we are grieved by your separation" ({hadith:bukhari:1303}). Patience in Islam is not the absence of tears; it is not letting grief turn into words against God.
 
 #### scholars — How scholars have understood it
-**Al-Ghazali's book on patience and gratitude.** Book 32 of al-Ghazali's *Iḥyāʾ ʿUlūm al-Dīn* is devoted to the two; its first part explains patience and why it is "considered to be half of faith", and its second explains gratitude (publisher's description of Littlejohn's translation). The well-known saying that faith is "half patience and half gratitude" is often attributed to this book or quoted as a hadith; neither the passage nor the hadith's grading was checked for this run (see Gaps).
+**Al-Ghazali's book on patience and gratitude.** Book 32 of al-Ghazali's *Iḥyāʾ ʿUlūm al-Dīn* is devoted to the two; its first part explains patience and why it is "considered to be half of faith", and its second explains gratitude (publisher's description of Littlejohn's translation). The well-known saying that faith is "half patience and half gratitude" is often attributed to this book or quoted as a hadith; neither the passage nor the hadith's grading was checked.
 
 #### research — What research shows
 **Gratitude exercises raise wellbeing a little.** [Moderate; small effect.] Kirca, Malouf and Meynadier (2023) combined 25 randomised trials (about 6,700 participants) of "expressed gratitude" exercises — such as writing thank-you letters. Compared with neutral activities, they improved happiness, life satisfaction and positive feelings slightly (g = 0.22, 95% CI 0.11–0.33). Compared with other active exercises, the difference was small and not statistically significant (g = 0.12, CI −0.02 to 0.26). The review did not measure depression or anxiety.
@@ -388,12 +387,12 @@ The source for al-Nawawi's six cases is an English e-book whose translator and o
 
 **What does "without account" in 39:10 mean?** Al-Awzaʿi: the reward "will not be weighed or measured".
 
-**Is "faith is half patience and half gratitude" a hadith?** It is widely quoted; its authenticity was not checked for this run. Al-Ghazali's Book 32 discusses patience as "half of faith".
+**Is "faith is half patience and half gratitude" a hadith?** It is widely quoted; its authenticity has not yet been checked. Al-Ghazali's Book 32 discusses patience as "half of faith".
 
 **What is the full story behind "patience is at the first stroke"?** See the woman at the grave above ({hadith:bukhari:1283}).
 
 ### Honest limits
-Gratitude research shows small effects. The passage in al-Ghazali on "two halves" and the hadith behind it were not checked. The page's earlier citation of Cregg and Cheavens (2021) was not re-checked.
+Gratitude research shows small effects. The passage in al-Ghazali on "two halves" and the hadith behind it have not yet been checked. The page's earlier citation of Cregg and Cheavens (2021) has not yet been checked again.
 
 ---
 
@@ -428,13 +427,13 @@ The Quran praises those "who restrain anger and who pardon the people" (3:134), 
 **Refusing revenge at Ṭāʾif.** When offered the destruction of the people who had rejected and humiliated him, the Prophet (pbuh) refused and hoped for their descendants ({hadith:bukhari:3231}; see "Mercy and iḥsān").
 
 #### scholars — How scholars have understood it
-**Forgiveness is not the same as trust or reconciliation.** In 42:40 the Quran pairs pardon "and reconciliation" as a further good; it does not require a wronged person to return to a relationship that endangers them. Al-Ghazali's book on anger in the *Iḥyāʾ* (Book 25) was not read for this run (see Gaps).
+**Forgiveness is not the same as trust or reconciliation.** In 42:40 the Quran pairs pardon "and reconciliation" as a further good; it does not require a wronged person to return to a relationship that endangers them. Al-Ghazali's book on anger in the *Iḥyāʾ* (Book 25) has not yet been consulted.
 
 #### fiqh — What the jurists hold
-**Redress is a right.** In Islamic criminal law, the victim of bodily harm, or the family of someone killed, may demand legal retaliation (*qiṣāṣ*), accept compensation (*diya*), or pardon. That choice belongs to the victim or family, not to the community. School-by-school details were not read for this run.
+**Redress is a right.** In Islamic criminal law, the victim of bodily harm, or the family of someone killed, may demand legal retaliation (*qiṣāṣ*), accept compensation (*diya*), or pardon. That choice belongs to the victim or family, not to the community. School-by-school details have not yet been consulted.
 
 #### research — What research shows
-**Forgiveness can be learned, and it helps.** [Moderate.] Harper and colleagues (2014) randomly assigned 41 university students to a six-hour forgiveness workbook or a wait-list. Those who did the workbook showed less unforgiveness (Cohen's d = −0.56) and more emotional forgiveness (d = 0.50) than controls; the authors judged it "at least as efficacious as" group therapy using the same REACH model. The sample was small and mostly women. The larger meta-analyses cited on the current page (Wade et al., 2014; a 2022 *Child Development* meta-analysis) were not read in this run.
+**Forgiveness can be learned, and it helps.** [Moderate.] Harper and colleagues (2014) randomly assigned 41 university students to a six-hour forgiveness workbook or a wait-list. Those who did the workbook showed less unforgiveness (Cohen's d = −0.56) and more emotional forgiveness (d = 0.50) than controls; the authors judged it "at least as efficacious as" group therapy using the same REACH model. The sample was small and mostly women.
 
 #### practice — In daily life
 **When anger rises**, stop before speaking. Change your position, make ablution, or leave the room. The strong person is the one who controls himself ({hadith:bukhari:6114}).
@@ -460,7 +459,7 @@ The Quran praises those "who restrain anger and who pardon the people" (3:134), 
 **Is anger always wrong?** The Quran praises *restraining* anger, not the absence of it. Anger at injustice can lead to seeking justice, which 42:40 allows.
 
 ### Honest limits
-The larger meta-analyses on forgiveness cited on the current page and al-Ghazali's book on anger were not read for this run. The rules of *qiṣāṣ* are only outlined.
+The larger meta-analyses on forgiveness and al-Ghazali's book on anger have not yet been consulted. The rules of *qiṣāṣ* are only outlined.
 
 ---
 
@@ -492,10 +491,10 @@ The larger meta-analyses on forgiveness cited on the current page and al-Ghazali
 **No superiority except by piety.** In a sermon reported by a Companion, the Prophet (pbuh) said: "there is no virtue of an Arab over a non-Arab, nor of a non-Arab over an Arab, nor of a red-skinned over a black-skinned, nor of a black-skinned over a red-skinned except through piety" (Musnad Ahmad 23489; chain graded *ṣaḥīḥ* by Shuʿayb al-Arnaʾut; al-Haythami: its narrators are those of the *Ṣaḥīḥ*).
 
 #### scholars — How scholars have understood it
-**Inviolability through being human.** The current page cites the Hanafi principle that a person is protected (*maʿṣūm*) by being human (*bi-l-ādamiyya*), and the modern *maqāṣid* scholars Ibn ʿAshur and Jasser Auda. None of these works was read for this run (see Gaps).
+**Inviolability through being human.** None of these works was read.
 
 #### history — History
-**The ideal and the record.** Muslim history includes both the Prophet's (pbuh) words above and real racism and ethnic hierarchy — including slavery (see "Slavery") and prejudice against Black Muslims. No historical study was read for this run, so no examples are given; they should be added from named sources.
+**The ideal and the record.** Muslim history includes both the Prophet's (pbuh) words above and real racism and ethnic hierarchy — including slavery (see "Slavery") and prejudice against Black Muslims. No historical study was read, so no examples are given; they should be added from named sources.
 
 #### research — What research shows
 **Contact between groups reduces prejudice.** [Established.] Pettigrew and Tropp's 2006 meta-analysis covered "515 studies involving a quarter of a million participants in 38 nations" and found an average relationship between contact and lower prejudice of r = .21; "the more rigorous experimental studies yield a stronger mean effect of r = .33" (Pettigrew and Tropp, 2008, p. 922). Contact under Allport's "optimal conditions" — equal status, shared goals, cooperation, support from authorities — typically produced larger reductions. This fits 49:13's "that you may know one another": knowing people across groups reduces contempt.
@@ -522,7 +521,7 @@ The larger meta-analyses on forgiveness cited on the current page and al-Ghazali
 **Why do Muslim societies still have racism?** Because people fail their ideals. The teaching condemns it; history shows it persisted.
 
 ### Honest limits
-Muslim history and present societies include racism and slavery; this page states the teaching, not a claim that it was lived. The Hanafi, Ibn ʿAshur and Auda sources were not read for this run.
+Muslim history and present societies include racism and slavery; this page states the teaching, not a claim that it was lived. The Hanafi, Ibn ʿAshur and Auda sources have not yet been consulted.
 
 ---
 
@@ -557,20 +556,19 @@ Wealth in Islam is a trust: earned fairly, shared — the needy have a right in 
 **Neglecting the poor (107:1–3).** "Have you seen the one who denies the Recompense? For that is the one who drives away the orphan And does not encourage the feeding of the poor" (107:1–3), Meccan: denying religion is shown in how one treats the poor.
 
 #### fiqh — What the four schools hold
-**Zakāh on worn jewellery.** For the Hanafi school, zakāh "is obligatory when the nisab is sufficient", whether the jewellery alone or together with other wealth reaches it; for the Maliki, Shafiʿi and Hanbali schools, on permissible adornments that are worn, "zakat is not obligatory" (Mufti of the Federal Territory, Malaysia, citing al-Qaradawi). The named works of each school were not read (see Gaps). Monzer Kahf, an economist of Islamic finance, notes that jewellery kept as a store of wealth rather than worn is widely treated as zakatable (IslamOnline).
+**Zakāh on worn jewellery.** For the Hanafi school, zakāh "is obligatory when the nisab is sufficient", whether the jewellery alone or together with other wealth reaches it; for the Maliki, Shafiʿi and Hanbali schools, on permissible adornments that are worn, "zakat is not obligatory" (Mufti of the Federal Territory, Malaysia, citing al-Qaradawi). The named works of each school have not yet been consulted. Monzer Kahf, an economist of Islamic finance, notes that jewellery kept as a store of wealth rather than worn is widely treated as zakatable (IslamOnline).
 
-**The niṣāb.** "The renown nisab for gold is 85 grams" (Mufti of the Federal Territory; IslamOnline). The silver *niṣāb* (commonly given as 595 grams) was not confirmed in a source for this run.
+**The niṣāb.** "The renown nisab for gold is 85 grams" (Mufti of the Federal Territory; IslamOnline). The silver *niṣāb* (commonly given as 595 grams) was not confirmed in a source.
 
-**Mortgages for Muslims in the West.** The European Council for Fatwa and Research, at its fourth session (27–31 October 1999), reaffirmed that interest is forbidden but allowed a Muslim in Europe to take a conventional mortgage if they do not own a house and cannot buy one without a loan, "until" Islamic alternatives are available. Its grounds: a need (*ḥāja*) can be "elevated to a necessity (*ḍarūra*)" when it causes hardship, under the maxim "Necessities make the unlawful lawful", and renting would restrict where Muslims can live — for example near a mosque or school (Kamali). Yusuf al-Qaradawi endorsed the ruling. Many other scholars reject it; their arguments were not read for this run (see Gaps).
+**Mortgages for Muslims in the West.** The European Council for Fatwa and Research, at its fourth session (27–31 October 1999), reaffirmed that interest is forbidden but allowed a Muslim in Europe to take a conventional mortgage if they do not own a house and cannot buy one without a loan, "until" Islamic alternatives are available. Its grounds: a need (*ḥāja*) can be "elevated to a necessity (*ḍarūra*)" when it causes hardship, under the maxim "Necessities make the unlawful lawful", and renting would restrict where Muslims can live — for example near a mosque or school (Kamali). Yusuf al-Qaradawi endorsed the ruling. Many other scholars reject it; their arguments have not yet been consulted.
 
 **Student loans.** The Assembly of Muslim Jurists of America (AMJA), in a 2011 fatwa by Dr. Main Khalid al-Qudah, holds that "the default is the forbiddance of interest-based loans", but allows a student loan as an "urgent necessity" if all alternatives (scholarships, grants, work-study, subsidised loans) are exhausted, the loan is the only way to study, only the needed amount is borrowed, qualified scholars assess the need, and it is repaid as soon as possible. The necessity "removes the sin even though the ruling of impermissibility remains."
 
-**Pensions.** Rulings on pensions were not read for this run.
+**Pensions.** Rulings on pensions have not yet been consulted.
 
 #### research — What research shows
 **Zakat programmes report people lifted out of poverty, but the evidence is weak.** [Mixed.] Indonesia's national zakat agency BAZNAS reports that in 2024 zakat programmes lifted 1,350,227 people out of poverty, including 721,748 from extreme poverty, measured by an annual "Zakat Impact Assessment survey" against five poverty standards. The summary does not explain how the effect was attributed to zakat, gives no comparison group, and its provider breakdown (adding to about 1,486,920) does not match the total. These are self-reported programme figures, not independent evaluations.
 
-**Giving and the giver's wellbeing.** The current page cites a meta-analysis of kindness experiments (Curry et al., 2018) and prosocial-spending studies (Dunn et al.); neither was re-read for this run.
 
 #### practice — In daily life
 **Calculate zakāh each year**: savings, gold and silver above the *niṣāb*, business stock; 2.5%. Ask a local scholar which school's rule on jewellery you follow.
@@ -600,7 +598,7 @@ Wealth in Islam is a trust: earned fairly, shared — the needy have a right in 
 **Does 59:7 forbid inequality?** It is about *fayʾ*; using it as a general economic principle is a scholarly extension.
 
 ### Honest limits
-The four schools' own works on zakāh, the arguments against the European Council's mortgage ruling, rulings on pensions, and independent evaluations of zakāh were not read. Muslim societies have high inequality, and zakāh collection is often far below its potential; no data on this was read for this run.
+The four schools' own works on zakāh, the arguments against the European Council's mortgage ruling, rulings on pensions, and independent evaluations of zakāh have not yet been consulted. Muslim societies have high inequality, and zakāh collection is often far below its potential; no data on this was read.
 
 ---
 ## Corrections to the current pages

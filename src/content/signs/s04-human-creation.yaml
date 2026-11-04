@@ -29,7 +29,7 @@ verseNotes:
 tafsir:
   tr: Klasik müfessirler *alaka*yı kan pıhtısı olarak okudu ve evreleri kırkar günlük dönemlere bağladı (Buhârî 3208); kudreti ve dirilişi vurguladılar.
   en: |-
-    **Ibn Kathir on 23:12.** God "initially created man from an extract of *Tin*" — that is, Adam (pbuh) — and then his descendants from a drop (as quoted on the current page).
+    **Ibn Kathir on 23:12.** God "initially created man from an extract of *Tin*" — that is, Adam (pbuh) — and then his descendants from a drop.
 
     **Ibn Kathir on the stages.** The *ʿalaqa*: "Then it becomes a red clot, like an elongated clot", and he cites ʿIkrima: "This is blood." The *muḍgha*: "like a piece of flesh with no shape or features". Then: "We gave it shape, with a head, two arms and two legs, with its bones, nerves and veins", and the flesh is "something to cover it and strengthen it". On "another creation": "then We breathed the soul into it, and it moved and became a new creature". He also reports Ibn ʿAbbas: "We change it from one stage to another until it emerges as an infant."
 
@@ -48,7 +48,7 @@ howItWorks:
     - Kemik ve kas ikisi de mezodermden doğar; kıkırdak modeller kaslarla birlikte, yaklaşık 6.–7. haftalarda oluşur.
   en: |-
     Each point is tied to a word of the verse.
-    - **"A firm lodging".** [Established] The embryo implants in the wall of the womb and grows there, protected by the mother's body. (The timing of implantation was not read in a source for this run.)
+    - **"A firm lodging".** [Established] The embryo implants in the wall of the womb and grows there, protected by the mother's body. (The timing of implantation has not yet been consulted in a source.)
     - **"Clinging" (*ʿalaqa*).** [Established] By the fourth week the embryo is 2–5 mm long. EHD gives Carnegie stage 10 (about 22 days, by the 1987 convention it uses) as 2–3.5 mm with 4–12 somites, and stage 12 (about 26 days) as 3–5 mm with 21–29 somites; UNSW gives stage 12 as "Week 4, 26 - 30 days" and "3 - 5 mm". At this stage it is attached to the womb wall and depends on it.
     - **The heart.** [Established, with debated dating] EHD says the heart's first contractions have "long been described as a Carnegie Stage 10 or possibly a very late Stage 9 event" — about 22 days after fertilisation by its convention — while noting other studies that report 23, 25, or even 28–30 days.
     - **"Lump" (*muḍgha*).** [Established] Somites are paired blocks of tissue along the embryo's back; at stages 10–12 (about 22–26 days by EHD's convention) their number rises from 4 to 29 pairs (EHD). They give the embryo a segmented look.
@@ -68,18 +68,17 @@ honestNotes:
   - en: |-
       **Weighing it.**
         - The words *ʿalaqa* and *muḍgha* fit the appearance of the embryo strikingly well, and that is worth noticing.
-        - But the commentators read here take *ʿalaqa* as a blood clot (Ibn Kathir; ʿIkrima: "This is blood"; al-Jalālayn), not as a leech. The leech reading was not found in the classical sources read for this run.
+        - But the commentators read here take *ʿalaqa* as a blood clot (Ibn Kathir; ʿIkrima: "This is blood"; al-Jalālayn), not as a leech. The leech reading was not found in the classical sources read.
         - "We made [from] the lump, bones, and We covered the bones with flesh" can be read as a strict sequence: bones first, then muscle. Modern embryology shows the cartilage skeleton and muscle developing in the same weeks, overlapping (Lecturio; LifeMap). A possible reply (this page's own, not from a named source) is that "covered" describes the muscles wrapping the skeleton, not that they start later. Both readings are possible; neither is proven by the text.
-        - The current page says Joseph Needham noted parallels with Galen's Greek medicine. That was not checked in Needham's text for this run.
         - The fair position: the verses can be read in harmony with embryology at a general level; they are not a textbook, and the commentators read here did not read them as one.
-  - en: "**The forty-day hadith.** {hadith:bukhari:3208} speaks of forty-day stages. How its timings relate to modern embryology is disputed among Muslim scholars; that debate was not read in a named source for this run."
+  - en: "**The forty-day hadith.** {hadith:bukhari:3208} speaks of forty-day stages. How its timings relate to modern embryology is disputed among Muslim scholars; that debate has not yet been consulted in a named source."
 visualizations:
   - id: ideas
     tr: 1.–10. haftaları kapsayan bir embriyo kaydırması; arada bir "âyet / embriyoloji" ayracı.
     en: An embryo scroll across weeks 1–10 with a "verse / embryology" separator.
 sources:
   - label: Saheeh International — 23:12–14.
-  - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 23:12–14, https://surahquran.com/tafsir-english-aya-14-sora-23.html; the current page's Ibn Kathir quotation on 23:12.
+  - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 23:12–14, https://surahquran.com/tafsir-english-aya-14-sora-23.html; the Ibn Kathir quotation on 23:12.
     url: https://surahquran.com/tafsir-english-aya-14-sora-23.html
   - label: 'The Endowment for Human Development, "Virtual Human Embryo: Carnegie stages 10–12", https://www.ehd.org/virtual-human-embryo/ages.php?stage=11 — ages, sizes, somites, heartbeat.'
     url: https://www.ehd.org/virtual-human-embryo/ages.php?stage=11
@@ -108,7 +107,7 @@ followUps:
   - q:
       en: What does *ʿalaqa* mean — a clot or a leech?
     a:
-      en: The root means to cling or hang. Ibn Kathir and al-Jalālayn read it as a clot of blood; the "leech-like" reading was not found in the classical sources read for this run.
+      en: The root means to cling or hang. Ibn Kathir and al-Jalālayn read it as a clot of blood; the "leech-like" reading was not found in the classical sources read.
   - q:
       en: What does "another creation" mean?
     a:

@@ -47,7 +47,7 @@ layers:
 honestLimits:
   tr: |
     Hiçbir cevap ahlâkî ağırlığı ortadan kaldırmaz. Olayın özü muhtemelen tarihîdir; rakamlar belirsizdir. Bugün Yahudilere karşı asla kullanılmamalıdır.
-  en: No answer removes the moral weight of Qurayza. The core event is probably historical; the numbers are uncertain. Classical readings of 9:5 and 9:29 were sometimes broader than modern contextual ones. Arafat's and Kister's articles were not read directly in this run, and the reasons for their conclusions are given second-hand.
+  en: No answer removes the moral weight of Qurayza. The core event is probably historical; the numbers are uncertain. Classical readings of 9:5 and 9:29 were sometimes broader than modern contextual ones. Arafat's and Kister's articles have not yet been consulted directly, and the reasons for their conclusions are given second-hand.
 visualizations:
   - id: ideas
     tr: |
@@ -61,7 +61,7 @@ sources:
   - label: "Uri Rubin, \"The 'Constitution of Medina': Some Notes\", pp. 6–22, https://almuslih.org/wp-content/uploads/Library/Rubin,%20U%20-%20The%20‘Constitution%20of%20Medina’.pdf."
     url: https://almuslih.org/wp-content/uploads/Library/Rubin,%20U%20-%20The%20‘Constitution%20of%20Medina’.pdf
   - label: Sadik Kirazli, "Re-Examining the Story of Banū Qurayẓah Jews in Medina with a Reference to the Account of Ibn Isḥāq", *Australian Journal of Islamic Studies* 4:1 (2019), pp. 1–17 — abstract.
-  - label: '*Wikipedia*: "Siege of Banu Qurayza"; "Military career of Muhammad"; "Ibn Ishaq"; "Sword Verse"; "Jizya" — used for figures and for the scholars they cite (Watt, Stillman, Peterson, Abdel Haleem, Crone, Kister, Rida), which were not read directly.'
+  - label: '*Wikipedia*: "Siege of Banu Qurayza"; "Military career of Muhammad"; "Ibn Ishaq"; "Sword Verse"; "Jizya" — used for figures and for the scholars they cite (Watt, Stillman, Peterson, Abdel Haleem, Crone, Kister, Rida), which not yet consulted directly.'
   - label: Ibn Kathir, *Tafsir* (abridged English), on 9:5 and 9:29, surahquran.com.
   - label: Open Letter to al-Baghdadi (2014).
   - &a1
@@ -124,9 +124,9 @@ fullAnswer:
 
       **How late are the sources?** Ibn Ishaq, the main source for the details, died in Baghdad in 767 — about 140 years after the event. His biography of the Prophet (pbuh) survives mostly through Ibn Hisham (d. 833) and extracts in al-Tabari (Wikipedia, "Ibn Ishaq"). His contemporary Malik ibn Anas (d. 795) rejected his stories about the Jews of Medina because, he said, "they were taken solely based on accounts by sons of Jewish converts" (as reported by *Wikipedia*, citing Arafat).
 
-      **The numbers.** The hadith collections give no number. The later sources give: Ibn Ishaq, 600 or 700, with the highest estimate 800–900; al-Tabari, 600 or 700, up to 800–900; Ibn Kathir, 700–800 (Wikipedia, "Siege", citing these sources). Kister estimated the women and children at about 1,000. The figures of 400 and 40 given on the current page were not traced to a source in this run (see Corrections). Kirazli (2019) argues that "the number of Jews punished in this incident were significantly less than what is reported by Ibn Isḥāq".
+      **The numbers.** The hadith collections give no number. The later sources give: Ibn Ishaq, 600 or 700, with the highest estimate 800–900; al-Tabari, 600 or 700, up to 800–900; Ibn Kathir, 700–800 (Wikipedia, "Siege", citing these sources). Kister estimated the women and children at about 1,000. Kirazli (2019) argues that "the number of Jews punished in this incident were significantly less than what is reported by Ibn Isḥāq".
 
-      **Arafat and Kister.** W. N. Arafat (*Journal of the Royal Asiatic Society*, 1976) argued that the story as told by Ibn Ishaq cannot be accepted: the sources are late, Malik distrusted Ibn Ishaq's informants, the Quran is brief, and Islamic law rejects collective punishment (the current page adds that he saw an echo of the Masada story). M. J. Kister (*Jerusalem Studies in Arabic and Islam* 8, 1986) re-examined the traditions and concluded that the core account — the execution of the adult men — is historical. Neither article was read directly in this run; their arguments are given as reported by *Wikipedia* and the current page (see Gaps). Whether most historians follow Kister was not checked; the numbers remain uncertain.
+      **Arafat and Kister.** W. N. M. J. Kister (*Jerusalem Studies in Arabic and Islam* 8, 1986) re-examined the traditions and concluded that the core account — the execution of the adult men — is historical. Whether most historians follow Kister has not yet been checked; the numbers remain uncertain.
 
       **The other campaigns.** The sources count 27 campaigns led by the Prophet (pbuh) (al-Waqidi and Ibn Saʿd; Ibn Ishaq counts 19) and 35–48 smaller expeditions (Wikipedia). They end with the conquest of Mecca (630), which was "largely bloodless" with a general amnesty, and at Khaybar (628) the Jews were allowed to stay in return for half their produce.
   - kind: scholars

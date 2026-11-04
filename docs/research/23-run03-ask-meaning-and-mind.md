@@ -56,7 +56,7 @@ So "to know Me" is a real classical reading, but it belongs to Ibn Jurayj, not (
 - **The Ashʿaris** (the largest Sunni theological school, after al-Ashʿari, d. 936) accept that God's acts are wise, but define wisdom not as benefit but as conformity with God's knowledge and will. They hold that attributing a purpose (*gharaḍ*) to God would imply need, so they prefer to speak of God's will (*irāda*). They also argued that if benefit were the rule, God would have had to create humans directly in Paradise without any trial (Gültekin, 2025, as summarised in the abstract).
 - **The Maturidis** (the other main Sunni school, after al-Maturidi, d. 944) "affirm the non-futility of divine acts without reducing them to rational necessity" (Kuyucu, 2026).
 
-**Why it matters.** The Ashʿari position protects God's self-sufficiency: nothing outside God moves Him. The Maturidi position protects the sense that creation has meaning: nothing God does is pointless. A reader who fears that creation is "arbitrary" is closer to the Maturidi worry; a reader who fears that God "needed" us is closer to the Ashʿari one. Both schools deny that God gains anything, and both deny that creation is futile. Ibn al-Qayyim's *Shifāʾ al-ʿAlīl* defends God's wise purposes at length, but it was not read for this page (see Gaps).
+**Why it matters.** The Ashʿari position protects God's self-sufficiency: nothing outside God moves Him. The Maturidi position protects the sense that creation has meaning: nothing God does is pointless. A reader who fears that creation is "arbitrary" is closer to the Maturidi worry; a reader who fears that God "needed" us is closer to the Ashʿari one. Both schools deny that God gains anything, and both deny that creation is futile. Ibn al-Qayyim's *Shifāʾ al-ʿAlīl* defends God's wise purposes at length, but it has not yet been consulted.
 
 #### reasoning — How philosophers argue about it
 **An argument in five steps.**
@@ -83,7 +83,7 @@ So "to know Me" is a real classical reading, but it belongs to Ibn Jurayj, not (
 - **Sufi thought** — creation so that God might be known and loved, often expressed through the "hidden treasure" saying, which has no chain.
 
 ### Questions readers ask next
-**What does Islam mean by worship, beyond ritual prayer?** In the classical readings above, worship (*ʿibāda*) is what the messengers taught: belief, prayer, and obedience to God's commands in daily life. Many scholars describe any good act done for God's sake as worship; that wider sense was not checked in a named source for this page.
+**What does Islam mean by worship, beyond ritual prayer?** In the classical readings above, worship (*ʿibāda*) is what the messengers taught: belief, prayer, and obedience to God's commands in daily life. Many scholars describe any good act done for God's sake as worship; that wider sense has not yet been checked in a named source.
 
 **What is the "hidden treasure" saying?** "I was a hidden treasure; I loved to be known. Hence I created the world so that I would be known." Hadith experts (Ibn Taymiyya, al-Zarkashi, Ibn Hajar, al-Suyuti and others) say it has no chain and is not from the Prophet (pbuh).
 
@@ -96,7 +96,7 @@ So "to know Me" is a real classical reading, but it belongs to Ibn Jurayj, not (
 **If God knew some would go to Hell, why create them?** This is the hardest form of the question. The tradition answers with a real test (67:2), mercy that outweighs anger ({hadith:bukhari:3194}), no punishment without a message (17:15), and God's knowledge beyond ours (2:30). It does not claim to remove the difficulty entirely.
 
 ### Honest limits
-The classical schools agree that God creates without need, but they explain His reasons differently, and none claims to know them fully. The answer to suffering and Hell relies partly on trusting God's knowledge, which will not persuade someone who does not already trust Him. Ibn al-Qayyim's *Shifāʾ al-ʿAlīl* and al-Tabari's tafsir of 51:56 were not read for this page. The well-being research the current page cites (Steger) was not re-checked.
+The classical schools agree that God creates without need, but they explain His reasons differently, and none claims to know them fully. The answer to suffering and Hell relies partly on trusting God's knowledge, which will not persuade someone who does not already trust Him. Ibn al-Qayyim's *Shifāʾ al-ʿAlīl* and al-Tabari's tafsir of 51:56 have not yet been consulted.
 
 ---
 
@@ -127,7 +127,7 @@ Hume's argument is stronger than one sentence, but it does not show that miracle
 #### quran — What the Quran says
 **The Quran calls miracles "signs" (*āyāt*).** The same word, *āya*, is used for a verse of the Quran, for a miracle and for a feature of nature that points to God. A miracle in the Quran is a sign that addresses people, not a show of power for its own sake.
 
-**It records demands for miracles, and refuses them.** In Sura al-Isra (Meccan), the Prophet's (pbuh) opponents say: "We will not believe you until you break open for us from the ground a spring. / Or [until] you have a garden of palm tress and grapes and make rivers gush forth within them in force [and abundance] / Or you make the heaven fall upon us in fragments as you have claimed or you bring Allah and the angels before [us] / Or you have a house of gold or you ascend into the sky. And [even then], we will not believe in your ascension…" (17:90–93). The end of 17:93, with the Prophet's (pbuh) reply, could not be read in full for this page.
+**It records demands for miracles, and refuses them.** In Sura al-Isra (Meccan), the Prophet's (pbuh) opponents say: "We will not believe you until you break open for us from the ground a spring. / Or [until] you have a garden of palm tress and grapes and make rivers gush forth within them in force [and abundance] / Or you make the heaven fall upon us in fragments as you have claimed or you bring Allah and the angels before [us] / Or you have a house of gold or you ascend into the sky. And [even then], we will not believe in your ascension…" (17:90–93). The end of 17:93, with the Prophet's (pbuh) reply, have not yet been consulted in full.
 
 **It gives a reason for the refusal.** "And nothing has prevented Us from sending signs except that the former peoples denied them. And We gave Thamud the she-camel as a visible sign, but they wronged her. And We send not the signs except as a warning" (17:59). Ibn Kathir reports from Imam Ahmad that Ibn ʿAbbas (ra) said the Quraysh asked: "Ask your Lord to turn As-Safa' into gold and we will believe in you", and that God offered the Prophet (pbuh) a choice, warning that if they then disbelieved, "they will be destroyed as the nations before them were destroyed"; the Prophet (pbuh) chose to give them more time. So in the Quran's own account, a demanded miracle is dangerous for those who demand it.
 
@@ -140,7 +140,7 @@ Hume's argument is stronger than one sentence, but it does not show that miracle
 
 **Habit, not necessity.** The Ashʿari theologians called nature's regularity God's custom (*ʿāda*). Because God's custom is constant, we can rely on it and do science; because it is a custom and not a necessity, God can act otherwise, as in the miracles of prophets. Al-Ghazali's own example in the *Tahāfut* is Abraham (pbuh) thrown into the fire and not burned (the Quran, 21:68–69; not quoted here).
 
-**Did al-Ghazali deny all natural causes?** Scholars disagree. Michael Marmura read him as a full occasionalist; others hold that he "leaves open the possibility of some kind of genuine causality in creatures" (Lee, SEP). Adamson translates his view of natural causes this way: "their effects only proceed if the true Agent who gave them their natures wishes it." On this reading, things have real natures, but those natures work only by God's will. Frank Griffel's work (cited on the current page) defends a similar reading; it was not re-read for this run.
+**Did al-Ghazali deny all natural causes?** Scholars disagree. Michael Marmura read him as a full occasionalist; others hold that he "leaves open the possibility of some kind of genuine causality in creatures" (Lee, SEP). Adamson translates his view of natural causes this way: "their effects only proceed if the true Agent who gave them their natures wishes it." On this reading, things have real natures, but those natures work only by God's will.
 
 **Ibn Rushd's reply.** Ibn Rushd (Averroes, d. 1198), the Andalusian philosopher and judge, answered in *Tahāfut al-Tahāfut* (*The Incoherence of the Incoherence*). As Adamson presents it, his key principle is that "certain (*yaqīnī*) knowledge is the knowledge of the thing according to what it is in itself"; if things have no fixed natures, then, he charges, "there is no fixed (*thābit*) knowledge of anything". In other words: deny causes, and you lose science.
 
@@ -167,12 +167,11 @@ Hume's argument is stronger than one sentence, but it does not show that miracle
 
 **Conservation laws and miracles.** [Debated, as philosophy of physics.] The best-known worry is that a miracle would break the conservation of energy. Cucu and Pitts (2019), in a paper on the parallel question for the mind, note that energy conservation follows from a symmetry in time (Noether's theorem) and holds for closed systems. Their conclusion for the mind is that "energy is conserved when and where minds do not act on bodies, but is not conserved when and where minds act on bodies", and that no *a priori* objection from conservation survives. *Extension (not their claim):* the same reasoning would apply to God acting in the world: a conservation law says what happens in a closed system; a miracle is, by definition, the system not being closed. Physics cannot show that such an event happened, but its laws do not show that it cannot.
 
-**The current page's claim that "Cartwright and Mumford treat laws as idealisations"** was not checked in this run (see Corrections).
 
 #### objection — The strongest objections, and the replies
 **"Uniform experience shows the dead stay dead."** *Reply:* uniform experience shows what happens without God's special action. A miracle claim is a claim about God's special action, and has to be judged by the evidence for it and by the prior case for God (Millican, §§4, 6). *Limit:* if you have no prior reason to believe in God, Hume's caution remains reasonable.
 
-**"Every religion reports miracles, so they cancel out."** *Reply:* the Quran itself does not rest the case for Islam on reported wonders; it rests it first on the Book (29:51) and on the character of the message. Competing miracle reports show that people are credulous, which Islam agrees is a danger. *Limit:* Muslims do report miracles of the Prophet (pbuh) in hadith (for example the splitting of the moon, linked to 54:1), and those reports face Hume's challenge like any others. They were not examined for this page (see Gaps).
+**"Every religion reports miracles, so they cancel out."** *Reply:* the Quran itself does not rest the case for Islam on reported wonders; it rests it first on the Book (29:51) and on the character of the message. Competing miracle reports show that people are credulous, which Islam agrees is a danger. *Limit:* Muslims do report miracles of the Prophet (pbuh) in hadith (for example the splitting of the moon, linked to 54:1), and those reports face Hume's challenge like any others. They were not examined.
 
 **"Occasionalism destroys science."** *Reply:* the Ashʿari view keeps the regularity that science needs — God's custom is constant — and only denies that it is necessary. Many readers of al-Ghazali hold that he allowed real natures acting by God's will (Lee; Adamson). *Limit:* Ibn Rushd's objection, that knowledge needs fixed natures, still has defenders, and the debate continues.
 
@@ -197,7 +196,7 @@ Hume's argument is stronger than one sentence, but it does not show that miracle
 **If God works through habits, why break them?** As a sign, at a moment that matters, usually to confirm a messenger — and, in the Quran, as a warning (17:59).
 
 ### Honest limits
-Accepting a miracle depends heavily on whether one already has reasons to believe in God; this page does not claim otherwise. The Quran's refusal to perform demanded miracles is itself something skeptics point to. Al-Ghazali's exact words in the seventeenth discussion were not read in translation for this page; his view is given through Lee and Adamson. The miracle reports in hadith were not assessed.
+Accepting a miracle depends heavily on whether one already has reasons to believe in God; this page does not claim otherwise. The Quran's refusal to perform demanded miracles is itself something skeptics point to. Al-Ghazali's exact words in the seventeenth discussion have not yet been consulted in translation; his view is given through Lee and Adamson. The miracle reports in hadith were not assessed.
 
 ---
 
@@ -237,7 +236,7 @@ The evidence that the mind depends on the brain is strong, and no honest answer 
 
 **Its setting.** Sura al-Isra is Meccan, but the best-known report places this question in Medina. Ibn Masʿud (ra) reports that the Prophet (pbuh) "passed by a group of Jews and some of them said to the other, Ask him (the Prophet) about the spirit", and others said: "Do not ask him, lest he should tell you what you dislike" ({hadith:bukhari:7297}; also Bukhari 125). Ibn Kathir notes the problem — a Meccan sura, a Medinan question — and suggests either that the verse was revealed a second time in Medina, or that the Prophet (pbuh) was inspired to answer with a verse already revealed. He also cites a report from ʿIkrima (via Ibn Jarir) in which the questioners say they have been given the Torah, and the reply is that their knowledge is little compared with God's.
 
-**What *rūḥ* means here.** The abridged Ibn Kathir read for this page discusses the *rūḥ* as the human soul; it reports al-Suhayli describing it as "light and soft, like air", and treats the *nafs* (self) as the *rūḥ* joined to the body. Other classical readings of *rūḥ* in this verse (as the angel Gabriel, or as the Quran) are reported by other commentators but could not be checked in this run (see Gaps).
+**What *rūḥ* means here.** The abridged Ibn Kathir read for this page discusses the *rūḥ* as the human soul; it reports al-Suhayli describing it as "light and soft, like air", and treats the *nafs* (self) as the *rūḥ* joined to the body. Other classical readings of *rūḥ* in this verse (as the angel Gabriel, or as the Quran) are reported by other commentators but has not yet been checked.
 
 **Other verses.** God says of Adam: "when I have proportioned him and breathed into him of My [created] soul" (15:29) — Saheeh adds "[created]" to make clear that the spirit is not a part of God. And: "Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep" (39:42).
 
@@ -246,9 +245,9 @@ The evidence that the mind depends on the brain is strong, and no honest answer 
 #### scholars — How scholars have understood it
 **Ibn al-Qayyim's *Kitāb al-Rūḥ*.** Ibn al-Qayyim (d. 1350), a Hanbali scholar and student of Ibn Taymiyya, wrote *Kitāb al-Rūḥ* (*The Book of the Spirit*), the best-known classical work on the soul. According to Hussin (2026): he used *nafs*, *rūḥ*, *qalb* (heart), *ʿaql* (intellect) for the soul and "argued that the difference between the terminologies is its attributes, not entity" (p. 174); the soul "is created by Allah" (p. 174) and is "self-standing and independent of the physical body" (p. 175); in sleep "the soul does not entirely leave the body, unlike when one is dead" (p. 175); after death it returns to the body in the grave for questioning (p. 175). An IslamWeb summary adds that he held "the souls are not like the bodies".
 
-**Are *rūḥ* and *nafs* the same?** For Ibn al-Qayyim, they name one thing under different descriptions (Hussin, p. 174). Ibn Kathir's abridgement similarly treats *nafs* as the *rūḥ* joined to the body. Other scholars distinguished them; that range was not checked here.
+**Are *rūḥ* and *nafs* the same?** For Ibn al-Qayyim, they name one thing under different descriptions (Hussin, p. 174). Ibn Kathir's abridgement similarly treats *nafs* as the *rūḥ* joined to the body. Other scholars distinguished them; that range has not yet been checked.
 
-**Kalam debates.** Muslim theologians disagreed on whether the soul is a subtle body, an accident of the body, or (with the philosophers such as Ibn Sina) an immaterial substance. These positions were not read in primary sources for this run (see Gaps).
+**Kalam debates.** Muslim theologians disagreed on whether the soul is a subtle body, an accident of the body, or (with the philosophers such as Ibn Sina) an immaterial substance. These positions have not yet been consulted in primary sources.
 
 **Does Islam require a soul separate from the body?** Islam teaches that the person continues after death and will be raised (39:42; the afterlife page). That requires that the person can exist and be restored by God. It does not, by itself, settle *how* the soul relates to the brain in this life. Some classical theologians held views closer to "the soul is a subtle body"; Ibn al-Qayyim held it is created and self-standing. A Muslim who accepts that the mind depends on the brain *in this life* is within that range, as long as he affirms that God sustains the person and raises them. *Limit:* a view that says the person simply *is* the brain and ends with it contradicts Islamic teaching on the afterlife.
 
@@ -290,7 +289,7 @@ The evidence that the mind depends on the brain is strong, and no honest answer 
 
 **What do *rūḥ* and *nafs* mean?** *Rūḥ*: spirit or soul. *Nafs*: self or soul. Ibn al-Qayyim held they are the same thing described in different ways; Ibn Kathir's abridgement treats the *nafs* as the *rūḥ* joined to the body.
 
-**What does *amr* mean in 17:85?** "Affair" or "command". Saheeh International renders it "of the affair of my Lord"; the verse places the soul in God's domain and says human knowledge of it is little. The current page cites al-Ṭabāṭabāʾī reading *amr* as God's direct creative command; that was not re-checked here.
+**What does *amr* mean in 17:85?** "Affair" or "command". Saheeh International renders it "of the affair of my Lord"; the verse places the soul in God's domain and says human knowledge of it is little.
 
 **If AI one day seems conscious, what would that mean for the soul?** That it behaves as if conscious. Whether it experiences anything is an open question that neither science nor this page can answer today.
 
@@ -367,7 +366,7 @@ So the mainstream answer is: the believer who has not reasoned is still a believ
 #### science — What research says
 **Belief is passed on in families.** [Established, for the US sample.] In a Pew survey of 1,811 pairs of US teens and their parents (2019), "Most teens share the religion of their parents", and 48% of teens said they have "all the same" religious beliefs as their parent.
 
-**Children are naturally inclined to some religious ideas.** [Moderate.] Justin Barrett, a psychologist then at Oxford, argues in *Born Believers* (2012) that "belief in gods appears to be a naturally occurring human phenomenon": children readily detect agents, see purpose in nature (a "promiscuous teleology"), and tend to posit a creator. He distinguishes a cross-cultural "natural religion" from detailed theology, which "takes more time and effort to acquire" (as reported in BHodges's review). This does not favour any particular religion; the reviewer notes that Barrett "doesn't provide a compass" for judging between them. The book was not read directly.
+**Children are naturally inclined to some religious ideas.** [Moderate.] Justin Barrett, a psychologist then at Oxford, argues in *Born Believers* (2012) that "belief in gods appears to be a naturally occurring human phenomenon": children readily detect agents, see purpose in nature (a "promiscuous teleology"), and tend to posit a creator. He distinguishes a cross-cultural "natural religion" from detailed theology, which "takes more time and effort to acquire" (as reported in BHodges's review). This does not favour any particular religion; the reviewer notes that Barrett "doesn't provide a compass" for judging between them. The book has not yet been consulted directly.
 
 **Thinking analytically does not reliably reduce belief.** [Moderate.] A 2012 study in *Science* (Gervais and Norenzayan) reported that prompting analytic thinking reduced religious belief. A large, pre-registered, multi-site replication with 941 participants found "little to no effect on religious belief": d = 0.07, in the opposite direction, 95% CI [−0.12, 0.25] (Sanchez et al., *PLOS ONE*, 2017).
 
@@ -401,7 +400,7 @@ So the mainstream answer is: the believer who has not reasoned is still a believ
 **What is Barrett's 2012 work about?** *Born Believers*, a book arguing that young children are naturally inclined to believe in agents, purpose and a creator, though not in any particular religion.
 
 ### Honest limits
-Upbringing does shape belief, and examining one's faith cannot remove that influence entirely. *Fiṭra* fits the research on children, but the research does not prove it. Barrett's book and the Pew paper's full methods were read only through summaries. Ibn Taymiyya's *Darʾ*, cited on the current page, was not read.
+Upbringing does shape belief, and examining one's faith cannot remove that influence entirely. *Fiṭra* fits the research on children, but the research does not prove it. Barrett's book and the Pew paper's full methods were read only through summaries. Ibn Taymiyya's *Darʾ* has not yet been consulted.
 
 ---
 ## Corrections to the current pages

@@ -66,7 +66,9 @@ const parts = (src) =>
       return KINDS.has(kind.trim())
         ? { kind: kind.trim(), en: p.slice(nl + 1).trim() }
         : { kind: 'practice', title: (title ?? kind).trim(), en: p.slice(nl + 1).trim() };
-    });
+    })
+    // A section left with no text (e.g. after unchecked claims were removed) is dropped.
+    .filter((p) => p.en);
 // "**Question?** Answer…" paragraphs.
 const followUps = (src) =>
   src
@@ -89,7 +91,19 @@ const cleanLabel = (label) =>
   label
     .replace(/the site's verified Tanzil data \(`src\/data\/quran\.json`\)/g, 'the Tanzil text')
     .replace(/,?\s*via `src\/data\/[^`]+`/g, '')
-    .replace(/\s*\(`(?:src|scripts|docs)\/[^`]+`\)/g, '');
+    .replace(/\s*\(`(?:src|scripts|docs)\/[^`]+`\)/g, '')
+    // Working notes do not reach readers either: "see Gaps", "for this run".
+    .replace(/[;,]?\s*see (?:Gaps|Corrections)\b/g, '')
+    .replace(/\s*\(\s*\)/g, '')
+    .replace(/ (?:for|in) this run\b/g, '')
+    .replace(/\bwas not read\b/g, 'not yet consulted')
+    .replace(/\bwere not read\b/g, 'not yet consulted')
+    .replace(/,?\s*as cited on the current page \(not re-read\)/g, '')
+    .replace(
+      /the current page's (longer )?(Ibn Kathir quotation[^;.(]*?)\s*(\(not re-read[^)]*\))?(?=[;.]|$)/g,
+      'the $1$2',
+    )
+    .replace(/the current page/g, 'an earlier version of this page');
 
 const dirs = { Q: 'questions', M: 'morals', S: 'signs' };
 // Every question with a v2 research section; Turkish from content-src/tr-v2

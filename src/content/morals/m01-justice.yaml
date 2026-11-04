@@ -29,7 +29,7 @@ evidence:
   en: Procedural-justice research links fair processes to trust. [Established]
 gaps:
   tr: Arap Barometresi, din önderlerine güvenin azaldığını gösteriyor.
-  en: Muslim societies, like others, often fail this teaching; this page states the ideal and does not claim it is lived everywhere. Classical rules on witnesses were not equal for men and women. The conditions of the theft punishment, al-Shatibi's work, and historical court records were not read for this run.
+  en: Muslim societies, like others, often fail this teaching; this page states the ideal and does not claim it is lived everywhere. Classical rules on witnesses were not equal for men and women. The conditions of the theft punishment, al-Shatibi's work, and historical court records have not yet been consulted.
 visualizations:
   - id: ideas
     tr: Önyargıyı yakalayan bir "terazi" oyunu.
@@ -76,24 +76,21 @@ fullAnswer:
 
       **What the story is about.** Its point is equality before the law: the same rule for a noble family as for a poor one, and no special pleading by people close to the ruler. Usama was the Prophet's (pbuh) beloved adopted grandson; Fatima (ra) his own daughter. Naming them is the strongest possible way of saying "no exceptions".
 
-      **The punishment itself.** The story involves the classical punishment for theft, cutting off the hand, which the Quran prescribes (5:38). Classical law surrounded it with conditions — a minimum value, proof, and the absence of doubt — but those conditions were not read in a named source for this page (see Gaps). Many Muslim-majority states today do not apply it. Readers who find the punishment itself troubling are right to ask about it; this page's subject is the equality the story teaches, and the question of the punishments belongs on a page of its own.
+      **The punishment itself.** The story involves the classical punishment for theft, cutting off the hand, which the Quran prescribes (5:38). Classical law surrounded it with conditions — a minimum value, proof, and the absence of doubt — but those conditions have not yet been consulted in a named source. Many Muslim-majority states today do not apply it. Readers who find the punishment itself troubling are right to ask about it; this page's subject is the equality the story teaches, and the question of the punishments belongs on a page of its own.
   - kind: scholars
-    en: |-
-      **Ibn al-Qayyim: justice is the goal of the law.** Ibn al-Qayyim (d. 1350), a Hanbali scholar, writes in *al-Ṭuruq al-Ḥukmiyya* (1/13) that God's purpose in sending His law is "to establish justice between His servants and for people to behave fairly", and that "Whichever path leads to justice and fairness is part of the religion and does not contradict it" (English as quoted by Abu Amina Elias; translator not named). The often-quoted line "wherever justice is, there is God's law" is a paraphrase of this passage; its exact wording was not found in this run.
-
-      **Al-Shatibi and the purposes of the law.** The current page cites al-Shatibi's *al-Muwāfaqāt*, the classic work on the *maqāṣid* (purposes) of the Sharia; it was not read for this run (see Gaps).
+    en: "**Ibn al-Qayyim: justice is the goal of the law.** Ibn al-Qayyim (d. 1350), a Hanbali scholar, writes in *al-Ṭuruq al-Ḥukmiyya* (1/13) that God's purpose in sending His law is \"to establish justice between His servants and for people to behave fairly\", and that \"Whichever path leads to justice and fairness is part of the religion and does not contradict it\" (English as quoted by Abu Amina Elias; translator not named). The often-quoted line \"wherever justice is, there is God's law\" is a paraphrase of this passage; its exact wording was not found."
   - kind: fiqh
     en: |-
       **Testimony for and against relatives.** According to islamicfiqh.net, testimony "by parents in favour of their children, or by children in favour of their parents, is not acceptable according to the majority of scholars", and "a testimony by one spouse in favour of the other is unacceptable" — because of the risk of favouritism. But "a testimony against such close relatives is acceptable, as it cannot be motivated by favouritism." This is 4:135 in practice: you may not be a witness *for* your family, but you must be one *against* them if justice requires. The page attributes a minority view, accepting testimony for parents or children from a witness of good character, to ʿUmar ibn al-Khattab, the judge Shurayh, ʿUmar ibn ʿAbd al-ʿAziz, Ibn al-Mundhir, and "al-Shafiʿi in one of his two views." The source does not name each school's position separately.
 
-      **Women and non-Muslims as witnesses.** Classical law did not treat all witnesses equally. In the same source, women were not accepted as witnesses in marriage, divorce and similar non-financial matters; in financial matters two men, or one man and two women, were needed; and in matters mostly known to women (birth, breastfeeding), "the testimony of one woman of probity is accepted." These rules are discussed on the page "Does Islam treat women unequally?". The source read does not address non-Muslim witnesses in general (see Gaps).
+      **Women and non-Muslims as witnesses.** Classical law did not treat all witnesses equally. In the same source, women were not accepted as witnesses in marriage, divorce and similar non-financial matters; in financial matters two men, or one man and two women, were needed; and in matters mostly known to women (birth, breastfeeding), "the testimony of one woman of probity is accepted." These rules are discussed on the page "Does Islam treat women unequally?". The source read does not address non-Muslim witnesses in general.
   - kind: history
-    en: "**Courts in practice.** Readers ask how Muslim courts actually applied this teaching. No historical study of court records was read for this run, so no examples are given here (see Gaps). Honest examples exist in the scholarly literature, both of judges ruling against the powerful and of the powerful escaping; they should be added from named studies, not from popular stories."
+    en: "**Courts in practice.** Readers ask how Muslim courts actually applied this teaching. No historical study of court records was read, so no examples are given here. Honest examples exist in the scholarly literature, both of judges ruling against the powerful and of the powerful escaping; they should be added from named studies, not from popular stories."
   - kind: research
     en: |-
       **People obey law they see as fair, mainly because fairness builds trust.** [Moderate.] Walters and Bolger (2019) combined 64 studies (95 samples) published between 1990 and 2018. Fair treatment by authorities (procedural justice) predicted belief that the authorities are legitimate, and legitimacy predicted obeying the law. The direct link from fairness to obeying the law was "relatively weak" and "could not be reliably established in longitudinal datasets"; the results varied a lot between studies. In plain words: fairness matters mainly because it makes people trust the system.
 
-      **The Arab Barometer.** The current page cites the Arab Barometer on falling trust in religious leaders. That is a real survey, but it measures trust and religiosity, not whether Muslim societies live by 4:135, so it was not used here.
+      **The Arab Barometer.** That is a real survey, but it measures trust and religiosity, not whether Muslim societies live by 4:135, so it was not used here.
   - kind: practice
     en: |-
       **At home.** If your child or sibling is in the wrong in a dispute with someone else, say so — kindly, but clearly. Family loyalty does not include taking the wrong side.
@@ -124,7 +121,7 @@ followUps:
   - q:
       en: Does the law give equal standing to women and non-Muslims as witnesses?
     a:
-      en: "Not in classical law: women's testimony counted differently in some areas (see \"Does Islam treat women unequally?\"); non-Muslim testimony was not checked for this page."
+      en: "Not in classical law: women's testimony counted differently in some areas (see \"Does Islam treat women unequally?\"); non-Muslim testimony has not yet been checked."
   - q:
       en: Which work of Ibn al-Qayyim says justice is the goal of the law?
     a:

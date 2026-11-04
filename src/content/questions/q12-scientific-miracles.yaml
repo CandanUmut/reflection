@@ -47,7 +47,7 @@ layers:
 honestLimits:
   tr: |
     Bazı Müslüman kurumlar hâlâ i'câz-ı ilmîyi destekliyor; bu sitenin tutumu ilmî bir görüştür, icma değildir.
-  en: Guessoum's article, al-Shatibi's own text, the classical *iʿjāz* works, critiques of the embryology claim, and any assessment of the speed-of-light claim were not read for this run. The doubt survey is of one American sample.
+  en: Guessoum's article, al-Shatibi's own text, the classical *iʿjāz* works, critiques of the embryology claim, and any assessment of the speed-of-light claim have not yet been consulted. The doubt survey is of one American sample.
 visualizations:
   - id: ideas
     tr: |
@@ -86,7 +86,7 @@ sources:
       en: TDV İslâm Ansiklopedisi, "İ'câzü'l-Kur'ân"
 fullAnswer:
   - kind: heart
-    en: '**If a "miracle" you believed in turned out to be false, you were not foolish, and your faith was not foolish either.** You trusted people who presented a claim with confidence. The Quran never asked you to believe it because of modern science; it asks you to reflect, and it makes its own case. Muslim scholars named on the current page — Amin al-Khuli, Mahmud Shaltut and Nidhal Guessoum — have criticised this genre (their works were not read for this run).'
+    en: '**If a "miracle" you believed in turned out to be false, you were not foolish, and your faith was not foolish either.** You trusted people who presented a claim with confidence. The Quran never asked you to believe it because of modern science; it asks you to reflect, and it makes its own case.'
   - kind: quran
     en: |-
       **Signs for reflection (3:190).** "Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding" (3:190). Nature is a sign pointing to God, to be reflected on.
@@ -105,23 +105,23 @@ fullAnswer:
     en: |-
       **The claim.** That 23:12–14 — "a sperm-drop in a firm lodging… a clinging clot… a lump [of flesh]… bones… covered the bones with flesh" — matches modern embryology so exactly that it must be from God. Its best-known supporter was the Canadian anatomist Keith Moore, who is quoted as saying he had worked "for the past three years" with an embryology committee at King Abdulaziz University in Jeddah. With Abdul-Majeed al-Zindani, named there as Director of the Project of Scientific Miracles at that university, he produced a special edition of his textbook, *The Developing Human*, "with Islamic Additions" (Saunders, 1982; Dar Al-Qiblah, 1983). He is quoted as saying the Quranic descriptions "cannot be based on scientific knowledge in the seventh century" (Islamic Awareness, a site that promotes the claims).
 
-      **Assessment.** The stages named in 23:14 are the same words the site's sign page on the embryo (S4) examines, with their meanings and the classical readings. The current S4 page says the historian of science Joseph Needham noted parallels with Galen's Greek medicine; that was not checked in Needham's text for this run (see Gaps). The fair position is the site's general one: describe accurately, note what harmonises, and flag overclaims.
+      **Assessment.** The stages named in 23:14 are the same words the site's sign page on the embryo (S4) examines, with their meanings and the classical readings. The current S4 page says the historian of science Joseph Needham noted parallels with Galen's Greek medicine; that has not yet been checked in Needham's text. The fair position is the site's general one: describe accurately, note what harmonises, and flag overclaims.
 
-      **The speed of light.** A popular claim derives the speed of light from 32:5 and the Moon's orbit. No source assessing it was read for this run, so this page makes no judgement on it (see Gaps).
+      **The speed of light.** A popular claim derives the speed of light from 32:5 and the Moon's orbit. No source assessing it was read, so this page makes no judgement on it.
   - kind: scholars
     en: |-
-      **Al-Shatibi and the Arabs' usage.** Muhammad Salim Abu ʿAsi, in his study of the Andalusian jurist al-Shatibi's *al-Muwāfaqāt*, writes in his own words that "the whole Quran was revealed in the established usage of the Arabs, without doubt" (translated). He says this in a section on why tafsir is still needed: Arabic words carry literal, figurative and implied meanings. The passage read says nothing about reading later sciences into the Quran. Al-Shatibi's own argument on that question — which the current page cites — was not read (see Gaps).
+      **Al-Shatibi and the Arabs' usage.** Muhammad Salim Abu ʿAsi, in his study of the Andalusian jurist al-Shatibi's *al-Muwāfaqāt*, writes in his own words that "the whole Quran was revealed in the established usage of the Arabs, without doubt" (translated). He says this in a section on why tafsir is still needed: Arabic words carry literal, figurative and implied meanings. The passage read says nothing about reading later sciences into the Quran.
 
-      **Classical *iʿjāz*.** According to Divlekci (2019), al-Baqillani names three aspects of the Quran's inimitability: its reports of the unseen ("gâipten haberler"), the Prophet's (pbuh) being *ummī*, and the uniqueness of its composition (*naẓm*). None of them concerns knowledge of nature. ʿAbd al-Qahir al-Jurjani is also cited on the current page; his work, and al-Baqillani's own text, were not read for this run.
+      **Classical *iʿjāz*.** According to Divlekci (2019), al-Baqillani names three aspects of the Quran's inimitability: its reports of the unseen ("gâipten haberler"), the Prophet's (pbuh) being *ummī*, and the uniqueness of its composition (*naẓm*).
 
-      **Modern critics.** The current page names Amin al-Khuli, Mahmud Shaltut and Nidhal Guessoum as critics of *iʿjāz ʿilmī*. Guessoum's 2008 article in *Zygon* could not be opened for this run (blocked), so his arguments are not summarised here (see Gaps).
+      **Modern critics.** Guessoum's 2008 article in *Zygon* could not be opened (blocked), so his arguments are not summarised here.
   - kind: research
     en: "**Science is not what most often triggers doubt.** [Moderate; one US sample.] In Chouhoud's survey of 630 Muslim Americans (2017), \"the top four issues all come from the Moral and Social Concerns family of doubts\", led by \"The way that [some] insist there is only one 'right' way to practice faith\", while \"each of the four items that least trigger doubt are directly related to doctrinal belief\". The exact rank of the science item (evolution and creation) was not given in the text read."
   - kind: reasoning
     en: |-
       **The Quran's own case.** The Quran points to its language and its challenge (2:23), to the character of the messenger (10:16), to the coherence of its message, and to the signs in nature as prompts for reflection (3:190) — not as hidden proofs. These are the arguments on "Why believe Muhammad was a prophet?".
 
-      **How apparent conflicts are handled.** One approach, which the current page attributes to al-Shatibi (not checked in his text), is to read a verse first as its first audience would have understood it. If it describes nature as people saw it (the sun "setting", for example), that is the language of appearance, not a scientific claim. Ibn Rushd argued that demonstrated truth cannot contradict revelation, and that apparent conflicts call for interpretation (see "Knowledge and seeking it" for his *Decisive Treatise*).
+      **How apparent conflicts are handled.** If it describes nature as people saw it (the sun "setting", for example), that is the language of appearance, not a scientific claim. Ibn Rushd argued that demonstrated truth cannot contradict revelation, and that apparent conflicts call for interpretation (see "Knowledge and seeking it" for his *Decisive Treatise*).
   - kind: objection
     en: |-
       **"Without the miracles, there is no evidence."** *Reply:* the classical case for inimitability did not rest on them: al-Baqillani's three aspects are composition, reports of the unseen and the Prophet's (pbuh) being *ummī* (Divlekci 2019). *Limit:* for people who came to faith through these claims, losing them can still feel like losing the ground.
@@ -131,8 +131,8 @@ fullAnswer:
       **"Muslim institutions still promote *iʿjāz ʿilmī*."** *Reply:* yes; the view on this page is a scholarly position, not a consensus.
   - kind: views
     en: |-
-      - **Supporters** — Zaghloul El-Naggar, Keith Moore (1982/83 edition), Tantawi Jawhari (named on the current page).
-      - **Critics** — Amin al-Khuli, Mahmud Shaltut, Nidhal Guessoum (named on the current page); the current page also lists al-Shatibi (not checked in his text).
+      - **Supporters** — Zaghloul El-Naggar, Keith Moore (1982/83 edition), Tantawi Jawhari.
+      - **Critics** — Amin al-Khuli, Mahmud Shaltut, Nidhal Guessoum.
       - **This site** — verses as signs for reflection; harmony noted honestly, prediction not claimed.
 followUps:
   - q:
@@ -158,7 +158,7 @@ followUps:
   - q:
       en: What does al-Shatibi say about the first audience?
     a:
-      en: His own text was not read for this run. Abu ʿAsi, writing about him, says the Quran was revealed "in the established usage of the Arabs", in a discussion of why tafsir is still needed.
+      en: His own text has not yet been consulted. Abu ʿAsi, writing about him, says the Quran was revealed "in the established usage of the Arabs", in a discussion of why tafsir is still needed.
 legacySources:
   - *a1
   - *a2

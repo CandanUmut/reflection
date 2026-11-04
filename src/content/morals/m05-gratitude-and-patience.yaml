@@ -33,7 +33,7 @@ evidence:
     Cregg & Cheavens (2021) found g = −0.29 post-test and −0.23 at follow-up, smaller against active controls. A 2023 meta-analysis (23 studies, 6,745 people) found g = 0.22 vs neutral controls and 0.12 (not significant) vs active ones. [Established] The effect is small.
 gaps:
   tr: '"Sabret" sözü, mağdurları susturmak için kullanılıyor.'
-  en: Gratitude research shows small effects. The passage in al-Ghazali on "two halves" and the hadith behind it were not checked. The page's earlier citation of Cregg and Cheavens (2021) was not re-checked.
+  en: Gratitude research shows small effects. The passage in al-Ghazali on "two halves" and the hadith behind it have not yet been checked. The page's earlier citation of Cregg and Cheavens (2021) has not yet been checked again.
 visualizations:
   - id: ideas
     tr: Günlük bir "üç ikram" kartı.
@@ -73,7 +73,7 @@ fullAnswer:
 
       **The Prophet (pbuh) wept for his son.** Anas (ra) reports that when the Prophet's (pbuh) infant son Ibrahim was dying, his eyes filled with tears. ʿAbd al-Rahman ibn ʿAwf asked about it, and he said: "O Ibn ʿAuf, this is mercy." Then: "The eyes are shedding tears and the heart is grieved, and we will not say except what pleases our Lord, O Ibrahim! Indeed we are grieved by your separation" ({hadith:bukhari:1303}). Patience in Islam is not the absence of tears; it is not letting grief turn into words against God.
   - kind: scholars
-    en: "**Al-Ghazali's book on patience and gratitude.** Book 32 of al-Ghazali's *Iḥyāʾ ʿUlūm al-Dīn* is devoted to the two; its first part explains patience and why it is \"considered to be half of faith\", and its second explains gratitude (publisher's description of Littlejohn's translation). The well-known saying that faith is \"half patience and half gratitude\" is often attributed to this book or quoted as a hadith; neither the passage nor the hadith's grading was checked for this run (see Gaps)."
+    en: "**Al-Ghazali's book on patience and gratitude.** Book 32 of al-Ghazali's *Iḥyāʾ ʿUlūm al-Dīn* is devoted to the two; its first part explains patience and why it is \"considered to be half of faith\", and its second explains gratitude (publisher's description of Littlejohn's translation). The well-known saying that faith is \"half patience and half gratitude\" is often attributed to this book or quoted as a hadith; neither the passage nor the hadith's grading was checked."
   - kind: research
     en: |-
       **Gratitude exercises raise wellbeing a little.** [Moderate; small effect.] Kirca, Malouf and Meynadier (2023) combined 25 randomised trials (about 6,700 participants) of "expressed gratitude" exercises — such as writing thank-you letters. Compared with neutral activities, they improved happiness, life satisfaction and positive feelings slightly (g = 0.22, 95% CI 0.11–0.33). Compared with other active exercises, the difference was small and not statistically significant (g = 0.12, CI −0.02 to 0.26). The review did not measure depression or anxiety.
@@ -113,7 +113,7 @@ followUps:
   - q:
       en: Is "faith is half patience and half gratitude" a hadith?
     a:
-      en: It is widely quoted; its authenticity was not checked for this run. Al-Ghazali's Book 32 discusses patience as "half of faith".
+      en: It is widely quoted; its authenticity has not yet been checked. Al-Ghazali's Book 32 discusses patience as "half of faith".
   - q:
       en: What is the full story behind "patience is at the first stroke"?
     a:
