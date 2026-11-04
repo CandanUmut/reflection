@@ -26,7 +26,11 @@ const { sign, lang } = Astro.props;
 const viz = sign.visualizations.find((v) => v.id === 'germination');
 // A short note sits in the margin like a scholar's gloss; a long or listed one
 // would be squeezed there, so it stays full width right after the science.
-const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.test(n.en));
+// The Turkish page shows the earlier notes until the new ones are translated:
+// honest notes must always be visible, never silently missing.
+const notes =
+  lang === 'tr' && !sign.honestNotes.every((n) => n.tr) ? (sign.legacyHonestNotes ?? []) : sign.honestNotes;
+const notesInline = notes.some((n) => n.en.length > 280 || /^\s*-/m.test(n.en));
 ---
 
 <article class="sign">
@@ -86,17 +90,17 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
           ))}
         </Layer>
         {notesInline &&
-          sign.honestNotes.map((note) => (
+          notes.map((note) => (
             <HonestNote lang={lang} important={note.important}>
-              <Fragment set:html={md(note[lang], lang)} />
+              <Fragment set:html={md(note[lang] ?? note.en, lang)} />
             </HonestNote>
           ))}
       </div>
       <div class="sign__notes">
         {!notesInline &&
-          sign.honestNotes.map((note) => (
+          notes.map((note) => (
             <HonestNote lang={lang} important={note.important}>
-              <Fragment set:html={md(note[lang], lang)} />
+              <Fragment set:html={md(note[lang] ?? note.en, lang)} />
             </HonestNote>
           ))}
       </div>

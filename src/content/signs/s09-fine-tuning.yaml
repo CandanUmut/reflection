@@ -2,7 +2,7 @@
 # scripts/migrate-content.mjs). Edit this file directly; keep TR and EN side by side.
 # Source: docs/research/01-batch-1.md, Phase 3b, S9. The research gives no separate reflection for S9;
 # its accuracy note ("an invitation, not proof") is shown as the Honest Note.
-# S9: layers deepened by scripts/migrate-v2.mjs from docs/research/09-reflect-deep-2.md (English); the rest as before.
+# S9: layers deepened by scripts/migrate-v2.mjs from docs/research/32-run12-reflect-2.md (English); the rest as before.
 id: S9
 slugs:
   tr: ince-ayar
@@ -17,10 +17,17 @@ title:
   en: Fine-tuning
 summary:
   tr: Bazı sabitler hayata izin veren dar aralıklarda durur. İnce ayar bir kanıt değil, bir davettir.
-  en: Some constants sit in narrow ranges that permit life. Fine-tuning is an invitation, not proof.
+  en: '25:2 says God "has created each thing and determined it with [precise] determination": the verse speaks of a world made to measure.'
 tafsir:
   tr: Arka plan, Gazzâlî ve Râzî'nin kullandığı kelâmdaki tahsis (belirleme) delilidir.
-  en: '**Everything measured.** On 25:2, which says God "has created each thing and determined it with [precise] determination", Ibn Kathir explains that "everything apart from Him is created and subject to Him". On "Indeed, all things We created with predestination" (54:49) — the word is *qadar* — he links the two verses and 87:1–3: God "measured out" everything. The background of the modern fine-tuning discussion is the *kalam* argument from particularisation (*takhsis*), used by al-Ghazali and al-Razi: if things could have been otherwise, something chose that they be as they are.'
+  en: |-
+    **Ibn Kathir on 25:2.** "everything apart from Him is created and subject to Him" (as quoted on the current page).
+
+    **Ibn Kathir on 54:49.** He reads the verse as a statement about decree, not about physics, and reports that the Imams of the Sunnah "used this Ayah and similar Ayat and Hadiths to refute the Qadariyyah sect, who started their sect during the latter time of the Companions." He cites a report from Abu Hurayra (ra), attributed on the page to Imam Ahmad, Muslim, al-Tirmidhi and Ibn Majah (the Muslim number was not confirmed for this run): "The idolators of the Quraysh came to the Messenger of Allah… arguing with him and discounting the Qadar", after which the verses were revealed. (The *Qadariyya* were an early group who denied that God decrees human acts.)
+
+    **Al-Jalālayn on 54:49.** Its comment is grammatical: "everything read inna kulla shay'in is in the accusative". (This page's explanation, not al-Jalālayn's: the accusative supports reading "We created everything with a measure" rather than "everything that We created is with a measure".)
+
+    **Where they agree, and what they did not say.** Both read *qadar* as God's measuring and decree over all things. Neither speaks of constants of nature or of a life-permitting universe; that reading is modern.
 howItWorks:
   tr: |
     [Established] — çıkarımlar ise [Debated]
@@ -32,38 +39,76 @@ howItWorks:
     - Çoklu evren: şişme (enflasyon) artı sicim manzarası.
     - Bu çıkarımın eleştirmenleri "ters kumarbaz yanılgısı"nı ve "bu evren itirazı"nı (Hacking, White) öne sürer; savunucular buna itiraz eder.
     - Weinberg bazı örneklerin "o kadar da ince olmadığına" hükmetti.
-  en: |
-    [Established] — inferences [Debated]
-
-    - Some constants sit in narrow ranges that permit life. One estimate puts the cosmological constant's fine-tuning at 1 part in 10^120 (Stanford Encyclopedia of Philosophy).
-
-    **Responses:**
-
-    - The multiverse: inflation plus the string landscape.
-    - Critics of that inference cite the "inverse gambler's fallacy" and the "this-universe objection" (Hacking, White); defenders dispute it.
-    - Weinberg judged some cases "not so fine".
+  en: |-
+    - **What "fine-tuning" means.** [Established, as a description] Physicists have found that some constants of nature and initial conditions of the universe sit in ranges that permit life, and that small changes would, on current models, make life impossible. The SEP lists fine-tuned constants, conditions of the early universe, and laws (Friederich).
+    - **The most famous case.** [Established] The *cosmological constant* (the energy of empty space, which drives cosmic expansion): a naive estimate from quantum field theory is larger than the observed value "by an immense number of magnitudes" — "the discrepancy is between 10^50 and 10^123" depending on assumptions — "about 120 orders of magnitude" (SEP). Steven Weinberg (1987) argued that galaxies could form only if the vacuum energy was no more than a few orders of magnitude above its observed value (SEP).
+    - **Three responses.** [Debated]
+      1. *Design:* life-permitting constants are more probable if there is a designer (Bayesian versions in the SEP; Sober and others object that observation selection effects undercut this, Kotzen and Weisberg reply).
+      2. *Multiverse:* if there are very many universes with varying constants, at least one would permit life, and observers would find themselves in it.
+      3. *Brute fact or deeper law:* the constants may be fixed by a deeper theory not yet known.
+    - **Problems with the probabilities.** [Debated] McGrew, McGrew and Vestrup (2001) argue that if a constant can take any real value, a uniform probability gives zero probability to any finite range, so "how unlikely" the life-permitting range is cannot be properly defined (SEP).
+    - **Problems with the multiverse inference.** [Debated] Ian Hacking (1987) charged that inferring many universes from our fine-tuned one commits the "inverse gambler's fallacy" (inferring many past rolls from one lucky roll); Roger White (2000) pressed a related point, that many other universes do not make it more likely that "this one" is life-permitting; McGrath, Manson and Thrush, Epstein and others defend the multiverse argument against the charge (SEP). Friederich concludes that "established standards of rationality may not allow us to decide whether the inference from fine-tuning to a multiverse is fallacious or not".
 honestNotes:
-  - tr: İnce ayar bir kanıt değil, bir davettir.
-    en: Fine-tuning is an invitation, not proof.
+  - en: "**The popular claim.** Fine-tuning is often presented as proof that God exists, and 25:2 or 54:49 as having foretold it. Neither is warranted. The verses speak of measure and decree; the commentators read them as about God's decree (Ibn Kathir reports that the Imams of the Sunnah used 54:49 against the Qadariyya), not about physical constants."
+  - en: "**The science is real; the inference is debated.** That some constants are life-permitting only in narrow ranges is widely accepted. Whether this points to design, a multiverse or a deeper law is a philosophical question, and the probability calculations behind each are disputed (SEP)."
+  - en: "**Weinberg's view.** The current page says Weinberg judged some cases \"not so fine\". That quotation was not found in the SEP text read for this run (see Corrections)."
 visualizations:
   - id: ideas
     tr: '"Kozmik kadranlar" ve yanında üç yönlü bir panel: tasarım, çoklu evren, geleceğin fiziği.'
     en: '"Cosmic dials", alongside a three-way panel: design, multiverse, future physics.'
 sources:
-  - label: Ibn Kathir, *Tafsir* (abridged English, Quran.com), on 25:2 and 54:49.
+  - label: Saheeh International, via the site's verified Tanzil data (`src/data/quran.json`) — 25:2, 54:49, 15:19.
+  - label: Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 54:49, https://surahquran.com/tafsir-english-aya-49-sora-54.html; the current page's Ibn Kathir quotation on 25:2 (not re-read for this run).
+    url: https://surahquran.com/tafsir-english-aya-49-sora-54.html
+  - label: Simon Friederich, "Fine-Tuning", *Stanford Encyclopedia of Philosophy* (first published 22 August 2017; substantively revised 26 February 2026), https://plato.stanford.edu/entries/fine-tuning/.
+    url: https://plato.stanford.edu/entries/fine-tuning/
+  - label: Simon Friederich, "Reconsidering the inverse gambler's fallacy charge against the fine-tuning argument for the multiverse", *Journal for General Philosophy of Science* 50 (2019), pp. 29–41, abstract, https://philsci-archive.pitt.edu/16785.
+    url: https://philsci-archive.pitt.edu/16785
   - &a1
     label: Stanford Encyclopedia of Philosophy — Fine-Tuning
     url: https://plato.stanford.edu/entries/fine-tuning/
 followUps:
   - q:
-      en: Did classical scholars know about physical constants?
+      en: Does fine-tuning prove God exists?
     a:
-      en: No; they spoke of God measuring everything (25:2; 54:49). The physics is modern and kept in "How it works", with its debates.
+      en: No. It is one of the stronger pointers in modern design arguments, but philosophers dispute the probabilities and the alternatives (multiverse, deeper law). The SEP sets out both sides.
   - q:
-      en: Does fine-tuning prove God?
+      en: What does *qadar* mean in 54:49?
     a:
-      en: The page presents it as a sign that invites reflection, with the scientific and philosophical objections in the honest notes.
+      en: Measure and decree. Ibn Kathir reads the verse as affirming God's decree over all things, against the Qadariyya who denied it.
+  - q:
+      en: What is the "inverse gambler's fallacy"?
+    a:
+      en: Inferring many earlier trials from one surprising result — like assuming many dice were thrown before because the roll you saw was a double six. Hacking argued the multiverse inference makes this mistake; others dispute it.
+  - q:
+      en: Is the multiverse a scientific theory?
+    a:
+      en: Some versions follow from theories such as inflation, but there is no direct evidence for other universes; the SEP treats the inference to them as debated.
 legacySources:
   - *a1
 reflection:
-  en: '"And has created each thing and determined it with [precise] determination" (25:2). Physicists note that some constants of nature sit in narrow ranges that permit life, and they argue hard about what that means: a multiverse, a selection effect, or design. This page does not claim the science proves God; the debate is shown in the honest notes. The reflection is simpler: the world is ordered and measurable, and its order can be read. For a believer, that readability is itself a sign to think about.'
+  en: |-
+    The Quran says God "created each thing and determined it with [precise] determination" (25:2). The Arabic word is *qadr*, measure. Things are not just made; they are made to a measure.
+
+    Physicists today talk about measure too. Some of nature's numbers sit in narrow ranges that allow stars, chemistry and life. What that means is argued over: a designer, many universes, or a deeper law we do not yet know. This page does not claim that the science proves God; the honest notes show why the argument is contested.
+
+    The reflection is simpler than the debate. The world we live in has a measure, and that measure can be read. We can write down the strength of gravity and the energy of empty space, and compare them with what life needs. For the commentators, *qadar* meant that nothing escapes God's measuring and decree. For a reader today, it can also mean that the world is intelligible: built in a way a mind can follow.
+
+    A believer can hold both: the measure in the verse, and the honesty of the debate. Neither needs the other to be overstated. The fitting response to a measured world is to measure carefully, and to remember who set the measure.
+verseNotes:
+  en: |-
+    "He to whom belongs the dominion of the heavens and the earth and who has not taken a son and has not had a partner in dominion and has created each thing and determined it with [precise] determination" (25:2), the second verse of Sura al-Furqān, Meccan. The verse is about God's sole lordship: no son, no partner, and everything made and measured by Him.
+
+    "Indeed, all things We created with predestination" (54:49), Meccan, near the end of Sura al-Qamar, after warnings to those who deny the Hour.
+
+    "And the earth - We have spread it and cast therein firmly set mountains and caused to grow therein [something] of every well-balanced thing" (15:19), Meccan.
+
+    - **Key words.** *Qaddarahu taqdīran* (25:2): "determined it with [precise] determination", from *qadr*, measure. *Bi-qadar* (54:49): "with predestination" — the same root, meaning both measure and decree. *Mawzūn* (15:19): "well-balanced", literally "weighed".
+    - **What the verses say.** That everything is made with a measure, and that this measure is God's. They do not mention physical constants.
+awe:
+  en: |-
+    - The naive quantum estimate of the energy of empty space is wrong by about 120 orders of magnitude, and the observed value sits in a range compatible with galaxies (SEP).
+    - The constants of nature are measurable at all: the universe can be described in mathematics, and its numbers can be compared to what life requires.
+legacyHonestNotes:
+  - tr: İnce ayar bir kanıt değil, bir davettir.
+    en: Fine-tuning is an invitation, not proof.
