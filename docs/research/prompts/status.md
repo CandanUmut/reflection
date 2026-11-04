@@ -11,7 +11,7 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 | 3 | [Ask — meaning, mind and miracles](run-03-ask-meaning-and-mind.md) | Report in | 2026-11-03 | [#19](https://github.com/CandanUmut/reflection/pull/19) | Written by Claude directly; 27/27 Quran quotes checked (quran.json + quran.com); see Gaps |
 | 4 | [Ask — hard history and ethics](run-04-ask-hard-history.md) | Report in | 2026-11-03 | [#19](https://github.com/CandanUmut/reflection/pull/19) | Written by Claude directly; 27/27 Quran quotes checked; see Gaps |
 | 5 | [Ask — women and family](run-05-ask-women-and-family.md) | Report in | 2026-11-03 | [#19](https://github.com/CandanUmut/reflection/pull/19) | Written by Claude directly; 20/20 Quran quotes checked; source check pending; see Gaps |
-| 6 | [Ask — for the one who is hurting](run-06-ask-pastoral.md) | Not started | | | |
+| 6 | [Ask — for the one who is hurting](run-06-ask-pastoral.md) | Report in | 2026-11-03 | [#19](https://github.com/CandanUmut/reflection/pull/19) | Written by Claude directly; 15/15 Quran quotes checked; see Gaps |
 | 7 | [Live I](run-07-live-1.md) | Not started | | | |
 | 8 | [Live II](run-08-live-2.md) | Not started | | | |
 | 9 | [Ask — prophethood, the Quran and hadith](run-09-ask-truth-claims.md) | Not started | | | |
