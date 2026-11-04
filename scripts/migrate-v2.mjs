@@ -37,6 +37,22 @@ const need = (blocks, name, id) => {
   if (!blocks[name]) throw new Error(`${id}: research has no "### ${name}"`);
   return blocks[name];
 };
+const KINDS = new Set([
+  'quran',
+  'sunnah',
+  'scholars',
+  'fiqh',
+  'history',
+  'science',
+  'reasoning',
+  'objection',
+  'heart',
+  'views',
+  'meaning',
+  'practice',
+  'research',
+  'tafsir',
+]);
 // "#### kind — Title" parts of the full answer.
 const parts = (src) =>
   src
@@ -44,8 +60,12 @@ const parts = (src) =>
     .slice(1)
     .map((p) => {
       const nl = p.indexOf('\n');
-      const [kind] = p.slice(0, nl).split(' — ');
-      return { kind: kind.trim(), en: p.slice(nl + 1).trim() };
+      const [kind, title] = p.slice(0, nl).split(' — ');
+      // A label outside the known kinds ("#### In practice — …") becomes a practice
+      // part under the report's own title, so no section is lost.
+      return KINDS.has(kind.trim())
+        ? { kind: kind.trim(), en: p.slice(nl + 1).trim() }
+        : { kind: 'practice', title: (title ?? kind).trim(), en: p.slice(nl + 1).trim() };
     });
 // "**Question?** Answer…" paragraphs.
 const followUps = (src) =>
@@ -59,10 +79,17 @@ const sources = (src) =>
     .split('\n')
     .filter((l) => l.startsWith('- '))
     .map((l) => {
-      const label = l.slice(2).trim();
+      const label = cleanLabel(l.slice(2).trim());
       const url = label.match(/https?:\/\/[^\s)]+/)?.[0]?.replace(/[.,;]$/, '');
       return url ? { label, url } : { label };
     });
+// Internal file paths never reach readers: "via the site's verified Tanzil data
+// (`src/data/quran.json`)" reads "via the Tanzil text".
+const cleanLabel = (label) =>
+  label
+    .replace(/the site's verified Tanzil data \(`src\/data\/quran\.json`\)/g, 'the Tanzil text')
+    .replace(/,?\s*via `src\/data\/[^`]+`/g, '')
+    .replace(/\s*\(`(?:src|scripts|docs)\/[^`]+`\)/g, '');
 
 const dirs = { Q: 'questions', M: 'morals', S: 'signs' };
 // Every question with a v2 research section; Turkish from content-src/tr-v2
@@ -105,7 +132,20 @@ for (const id of [...ids].sort((a, b) => a.localeCompare(b) || a.slice(1) - b.sl
       ...layer('verseNotes', 'Verse note'),
       ...layer('tafsir', 'Classical tafsir'),
       ...layer('howItWorks', 'How it works'),
+      ...layer('awe', 'Points of awe'),
       ...layer('reflection', 'The reflection'),
+      // Honest notes: one per top-level bullet. The Turkish page keeps the earlier
+      // notes (legacyHonestNotes) until the new ones are translated: they must stay visible.
+      ...(blocks['Honest notes']
+        ? {
+            honestNotes: blocks['Honest notes']
+              .split(/^- /m)
+              .map((x) => x.trim())
+              .filter(Boolean)
+              .map((en) => ({ en })),
+            legacyHonestNotes: item.legacyHonestNotes ?? item.honestNotes.filter((n) => n.tr),
+          }
+        : {}),
       followUps: followUps(need(blocks, 'Questions readers ask next', id)).map((f) => ({
         q: { en: f.q },
         a: { en: f.a },
@@ -139,7 +179,11 @@ for (const id of [...ids].sort((a, b) => a.localeCompare(b) || a.slice(1) - b.sl
     const out = {
       ...item,
       ...(blocks['In brief'] ? { summary: { tr: item.summary.tr, en: blocks['In brief'] } } : {}),
-      fullAnswer: parts(need(blocks, 'Go deeper', id)).map((x) => ({ kind: x.kind, en: x.en })),
+      fullAnswer: parts(need(blocks, 'Go deeper', id)).map((x) => ({
+        kind: x.kind,
+        ...(x.title ? { title: { en: x.title } } : {}),
+        en: x.en,
+      })),
       followUps: followUps(need(blocks, 'Questions readers ask next', id)).map((f) => ({
         q: { en: f.q },
         a: { en: f.a },
@@ -159,7 +203,21 @@ for (const id of [...ids].sort((a, b) => a.localeCompare(b) || a.slice(1) - b.sl
     console.log('wrote', `morals/${name}`, '(v2, English only)');
     continue;
   }
-  const en = parts(need(blocks, 'The full answer', id));
+  // Any extra "### …" section a report adds (e.g. "Practical steps for the moment it
+  // happens") becomes one more part of the full answer, titled as in the report.
+  const known = new Set([
+    'Sources read',
+    'The question, at its strongest',
+    'Why people ask it',
+    'Short answer',
+    'The full answer',
+    'Questions readers ask next',
+    'Honest limits',
+  ]);
+  const extra = Object.keys(blocks)
+    .filter((h) => !known.has(h))
+    .map((h) => ({ kind: 'practice', title: h, en: blocks[h] }));
+  const en = [...parts(need(blocks, 'The full answer', id)), ...extra];
   const fu = followUps(need(blocks, 'Questions readers ask next', id));
   const src = sources(need(blocks, 'Sources read', id));
   let out;
@@ -195,10 +253,17 @@ for (const id of [...ids].sort((a, b) => a.localeCompare(b) || a.slice(1) - b.sl
       steelman: keep('steelman', 'The question, at its strongest'),
       whyAsked: keep('whyAsked', 'Why people ask it'),
       shortAnswer: keep('shortAnswer', 'Short answer'),
-      fullAnswer: en.map((p) => ({ kind: p.kind, en: p.en })),
+      fullAnswer: en.map((p) => ({ kind: p.kind, ...(p.title ? { title: { en: p.title } } : {}), en: p.en })),
       followUps: fu.map((f) => ({ q: { en: f.q }, a: { en: f.a } })),
       honestLimits: keep('honestLimits', 'Honest limits'),
-      sources: [...src, ...item.sources.filter((s) => !seen.has(typeof s.label === 'string' ? s.label : s.label.en))],
+      // The page's own earlier sources are kept once in legacySources, so re-runs never pile up.
+      legacySources: item.legacySources ?? item.sources,
+      sources: [
+        ...src,
+        ...(item.legacySources ?? item.sources).filter(
+          (s) => !seen.has(cleanLabel(typeof s.label === 'string' ? s.label : s.label.en)),
+        ),
+      ],
     };
   }
   const header = `# Generated by scripts/migrate-v2.mjs — English verbatim from docs/research/${found.file} (${id}),\n# ${tr ? `Turkish from content-src/tr-v2/${file}` : 'Turkish: the previous page, until content-src/tr-v2/' + file + ' exists'}. Edit those, then re-run migrate-content.mjs and migrate-v2.mjs.\n`;

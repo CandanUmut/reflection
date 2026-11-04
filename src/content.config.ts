@@ -40,7 +40,7 @@ const fullAnswerSection = textEnFirst.extend({
     'research',
     'tafsir',
   ]),
-  title: text.optional(),
+  title: textEnFirst.optional(),
 });
 
 const signs = defineCollection({
@@ -55,18 +55,20 @@ const signs = defineCollection({
     seeAlso: z.array(verseRef).optional(),
     pause: z.object({ ref: verseRef }).optional(),
     title: text,
-    summary: text,
+    summary: textEnFirst,
     /** Word notes from the research's verse section (e.g. the root of a key word). */
-    verseNotes: text.optional(),
+    verseNotes: textEnFirst.optional(),
     /** Optional: a few early research items (e.g. S6) give no classical tafsir; logged in CONTENT_GAPS. */
     tafsir: textEnFirst.optional(),
-    howItWorks: text,
-    awe: text.optional(),
+    howItWorks: textEnFirst,
+    awe: textEnFirst.optional(),
     /** English first: S3, S7 and S9 had no reflection; the deepened one is English until translated. */
     reflection: textEnFirst.optional(),
     reflectionVerses: z.array(verseRef).optional(),
     /** `important`: the research marks the note "Honest note — important". */
-    honestNotes: z.array(text.extend({ important: z.boolean().optional() })),
+    honestNotes: z.array(textEnFirst.extend({ important: z.boolean().optional() })),
+    /** The earlier notes, shown on the Turkish page until the new ones are translated. */
+    legacyHonestNotes: z.array(text.extend({ important: z.boolean().optional() })).optional(),
     /** Questions readers ask next (English first). */
     followUps: z.array(z.object({ q: textEnFirst, a: textEnFirst })).optional(),
     /** The page's sources before its deepened version (kept by scripts/migrate-v2.mjs). */
@@ -115,6 +117,8 @@ const questions = defineCollection({
       .optional(),
     honestLimits: text,
     visualizations: z.array(visualization),
+    /** The page's sources before its deep version (kept by scripts/migrate-v2.mjs). */
+    legacySources: z.array(source).optional(),
     sources: z.array(source).min(1),
   }),
 });

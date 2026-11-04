@@ -14,6 +14,10 @@ import TileBorder from './motifs/TileBorder.astro';
 import GerminationViz from './GerminationViz.astro';
 import BuiltViz from './viz/BuiltViz.astro';
 import Sources from './Sources.astro';
+import SectionNav from './SectionNav.astro';
+import KeyNotes from './KeyNotes.astro';
+import AweCards from './AweCards.astro';
+import SignViz from './viz/SignViz.astro';
 import { md, mdInline } from '../lib/md';
 import { refLabel } from '../lib/quran';
 import { t, type Locale } from '../i18n/ui';
@@ -26,7 +30,18 @@ const { sign, lang } = Astro.props;
 const viz = sign.visualizations.find((v) => v.id === 'germination');
 // A short note sits in the margin like a scholar's gloss; a long or listed one
 // would be squeezed there, so it stays full width right after the science.
-const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.test(n.en));
+// The Turkish page shows the earlier notes until the new ones are translated:
+// honest notes must always be visible, never silently missing.
+const nav = [
+  { id: 'layer-verse', label: t(lang, 'layerVerse') },
+  { id: 'layer-tafsir', label: t(lang, 'layerTafsir') },
+  { id: 'layer-science', label: t(lang, 'layerScience') },
+  { id: 'layer-reflection', label: t(lang, 'layerReflection') },
+  ...(sign.followUps?.some((f) => f.q[lang]) ? [{ id: 'deep-fullAnswer-asked', label: t(lang, 'followUps') }] : []),
+  { id: 'sources-title', label: t(lang, 'sources') },
+];
+const notes = lang === 'tr' && !sign.honestNotes.every((n) => n.tr) ? (sign.legacyHonestNotes ?? []) : sign.honestNotes;
+const notesInline = notes.some((n) => n.en.length > 280 || /^\s*-/m.test(n.en));
 ---
 
 <article class="sign">
@@ -36,12 +51,14 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
     <p class="sign__summary" set:html={mdInline(sign.summary[lang], lang)} />
   </header>
 
-  <section class="sign__verse wrap" aria-label={t(lang, 'layerVerse')}>
+  <SectionNav lang={lang} items={nav} />
+
+  <section class="sign__verse wrap" aria-label={t(lang, 'layerVerse')} id="layer-verse">
     <TileBorder height={36} class="sign__band" />
     <VerseBlock refs={sign.verses} lang={lang} />
     {sign.verseNotes && (
       <div class="sign__verse-notes">
-        <Fragment set:html={md(sign.verseNotes[lang], lang)} />
+        {sign.verseNotes[lang] && <KeyNotes text={sign.verseNotes[lang]!} lang={lang} />}
       </div>
     )}
     {sign.seeAlso && (
@@ -73,11 +90,14 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
       </div>
       <div class="sign__science">
         <Layer kind="science" n={3} lang={lang}>
-          <Fragment set:html={md(sign.howItWorks[lang], lang)} />
-          {sign.awe && (
+          <SignViz id={sign.id} lang={lang} />
+          <div class="sign__steps">
+            <Fragment set:html={md(sign.howItWorks[lang] ?? sign.howItWorks.en, lang)} />
+          </div>
+          {sign.awe?.[lang] && (
             <>
               <h3 class="sign__sub">{t(lang, 'awe')}</h3>
-              <Fragment set:html={md(sign.awe[lang], lang)} />
+              <AweCards text={sign.awe[lang]!} lang={lang} />
             </>
           )}
           {viz && viz.steps && <GerminationViz lang={lang} steps={viz.steps[lang]} title={viz[lang]} />}
@@ -86,17 +106,17 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
           ))}
         </Layer>
         {notesInline &&
-          sign.honestNotes.map((note) => (
+          notes.map((note) => (
             <HonestNote lang={lang} important={note.important}>
-              <Fragment set:html={md(note[lang], lang)} />
+              <Fragment set:html={md(note[lang] ?? note.en, lang)} />
             </HonestNote>
           ))}
       </div>
       <div class="sign__notes">
         {!notesInline &&
-          sign.honestNotes.map((note) => (
+          notes.map((note) => (
             <HonestNote lang={lang} important={note.important}>
-              <Fragment set:html={md(note[lang], lang)} />
+              <Fragment set:html={md(note[lang] ?? note.en, lang)} />
             </HonestNote>
           ))}
       </div>
@@ -107,7 +127,9 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
     <div class="wrap">
       <Layer kind="reflection" n={4} lang={lang}>
         {sign.reflection?.[lang] ? (
-          <Fragment set:html={md(sign.reflection[lang]!, lang)} />
+          <div class="sign__reflection" data-reveal>
+            <Fragment set:html={md(sign.reflection[lang]!, lang)} />
+          </div>
         ) : (
           <p class="sign__missing">{t(lang, sign.reflection ? 'trPending' : 'noReflection')}</p>
         )}
@@ -119,7 +141,89 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
   </div>
 </article>
 
+<script>
+  // The reflection unfolds paragraph by paragraph as it is read: a breath, not a
+  // show. Only with JavaScript, and never when the reader prefers reduced motion.
+  if (!matchMedia('(prefers-reduced-motion: reduce)').matches && 'IntersectionObserver' in window) {
+    const io = new IntersectionObserver(
+      (entries) => {
+        for (const e of entries)
+          if (e.isIntersecting) {
+            e.target.classList.add('is-in');
+            io.unobserve(e.target);
+          }
+      },
+      { rootMargin: '0px 0px -12% 0px' },
+    );
+    for (const p of document.querySelectorAll<HTMLElement>('[data-reveal] > *')) {
+      p.classList.add('reveal');
+      io.observe(p);
+    }
+  }
+</script>
+
 <style>
+  :global(.reveal) {
+    opacity: 0;
+    transform: translateY(0.6rem);
+    transition:
+      opacity 1.1s var(--ease-breath),
+      transform 1.1s var(--ease-breath);
+  }
+  :global(.reveal.is-in) {
+    opacity: 1;
+    transform: none;
+  }
+  /* Classical tafsir: each commentator's paragraph is a gloss with a gilded rule. */
+  .sign__tafsir :global(.layer__body > p) {
+    padding-left: var(--space-3);
+    border-left: 2px solid var(--lamp-line);
+  }
+  .sign__tafsir :global(.layer__body > p + p) {
+    margin-top: var(--space-4);
+  }
+  /* How it works: the points as numbered steps on a thread. */
+  .sign__steps :global(> ul) {
+    list-style: none;
+    padding: 0;
+    counter-reset: step;
+    position: relative;
+  }
+  .sign__steps :global(> ul > li) {
+    position: relative;
+    padding-left: 2.6rem;
+    margin-bottom: var(--space-4);
+    counter-increment: step;
+  }
+  .sign__steps :global(> ul > li::before) {
+    content: counter(step);
+    position: absolute;
+    left: 0;
+    top: 0.1em;
+    width: 1.7rem;
+    height: 1.7rem;
+    display: grid;
+    place-items: center;
+    border-radius: 50%;
+    border: 1px solid var(--turquoise);
+    color: var(--water);
+    background: var(--paper);
+    font-family: var(--font-mono);
+    font-size: 0.75rem;
+    z-index: 1;
+  }
+  .sign__steps :global(> ul > li:not(:last-child)::after) {
+    content: '';
+    position: absolute;
+    left: calc(0.85rem - 0.5px);
+    top: 1.9rem;
+    bottom: calc(-1 * var(--space-4));
+    width: 1px;
+    background: var(--hairline);
+  }
+  .sign__reflection :global(p) {
+    font-size: 1.08em;
+  }
   .sign__verse :global(.sign__band) {
     max-width: 30rem;
     margin: var(--space-4) auto;
@@ -130,7 +234,10 @@ const notesInline = sign.honestNotes.some((n) => n.en.length > 280 || /^\s*-/m.t
     font-style: normal;
     color: var(--ink-soft);
   }
-  .sign__verse-notes,
+  .sign__verse-notes {
+    max-width: 48rem;
+    margin: 0 auto var(--space-3);
+  }
   .sign__see-also {
     max-width: 32rem;
     margin: 0 auto var(--space-2);

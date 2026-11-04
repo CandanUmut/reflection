@@ -1,0 +1,206 @@
+---
+// S20 · "O ants, enter your dwellings" (27:18). An alarm pheromone spreads from
+// one ant: nestmates a few millimetres away react within seconds, those a few
+// centimetres away after a minute or more; the signal reaches up to about 10 cm
+// in behaviour and dies out within minutes (AntWiki, Lasius claviger). Two
+// kinds of alarm: aggressive (drawn towards the threat) and panic (flee into the
+// nest). Time is sped up. Loops in view; with reduced motion, the end state.
+import VizFrame from '../VizFrame.astro';
+import type { Locale } from '../../i18n/ui';
+interface Props {
+  lang: Locale;
+}
+const { lang } = Astro.props;
+const L =
+  lang === 'tr'
+    ? {
+        title: 'Bir karıncanın uyarısı koloniye yayılır',
+        aggressive: 'Saldırgan alarm',
+        panic: 'Panik alarmı',
+        nest: 'yuva',
+        source: 'tehlikedeki karınca',
+        range: '≈ 10 cm',
+        note: 'Zaman hızlandırılmıştır: yakındakiler saniyeler içinde, uzaktakiler bir dakikada tepki verir.',
+        text: "Tehlikedeki bir karınca alarm feromonu salar. Birkaç milimetre uzaktaki karıncalar saniyeler içinde, birkaç santimetre uzaktakiler bir dakika veya daha sonra tepki verir; sinyal davranışta yaklaşık 10 cm'ye kadar ulaşır ve yenilenmezse birkaç dakika içinde söner (AntWiki). Saldırgan alarmda karıncalar tehlikeye doğru gelir; panik alarmında koloni dağılır ya da yuvaya kaçar.",
+      }
+    : {
+        title: "One ant's warning spreads through the colony",
+        aggressive: 'Aggressive alarm',
+        panic: 'Panic alarm',
+        nest: 'nest',
+        source: 'ant in danger',
+        range: '≈ 10 cm',
+        note: 'Time sped up: nearby ants react within seconds, farther ones after a minute.',
+        text: 'An ant in danger releases an alarm pheromone. Nestmates a few millimetres away react within seconds; those a few centimetres away after a minute or longer. In behaviour the signal reaches up to about 10 cm, and unless reinforced it dies out within a few minutes (AntWiki). In aggressive alarm the ants are drawn towards the threat; in panic alarm the colony scatters or flees into the nest.',
+      };
+// Ant positions (x, y) and their distance from the source at (120, 110).
+const ants = [
+  [150, 96],
+  [96, 130],
+  [140, 140],
+  [170, 120],
+  [80, 92],
+  [200, 150],
+  [60, 150],
+  [210, 84],
+  [230, 120],
+  [40, 110],
+  [180, 60],
+  [100, 60],
+].map(([x, y]) => ({ x, y, d: Math.hypot(x - 120, y - 110) }));
+---
+
+<VizFrame lang={lang} title={L.title} textVersion={L.text} kind="antalarm">
+  <svg viewBox="0 0 340 200" aria-hidden="true" focusable="false" class="aa" data-mode="panic">
+    <rect x="0" y="0" width="340" height="200" class="aa__ground" />
+    <g transform="translate(300 110)">
+      <ellipse rx="22" ry="12" class="aa__nest" />
+      <text y="26" class="v-text" text-anchor="middle">
+        {L.nest}
+      </text>
+    </g>
+    <circle cx="120" cy="110" r="95" class="aa__range" />
+    <text x="120" y="10" class="v-text v-text--soft" text-anchor="middle">
+      {L.range}
+    </text>
+    <circle cx="120" cy="110" r="0" class="aa__wave" data-wave />
+    <g transform="translate(120 110)" class="aa__src">
+      <ellipse rx="6" ry="3.5" />
+      <text y="-10" class="v-text" text-anchor="middle">
+        {L.source}
+      </text>
+    </g>
+    {ants.map((a) => (
+      <g
+        class="aa__ant"
+        data-ant
+        data-x={a.x}
+        data-y={a.y}
+        data-d={a.d.toFixed(1)}
+        transform={`translate(${a.x} ${a.y})`}
+      >
+        <ellipse rx="4.5" ry="2.6" />
+      </g>
+    ))}
+  </svg>
+  <Fragment slot="controls">
+    <div class="aa__modes" role="group">
+      <button type="button" class="btn" data-mode="panic" aria-pressed="true">
+        {L.panic}
+      </button>
+      <button type="button" class="btn" data-mode="aggressive" aria-pressed="false">
+        {L.aggressive}
+      </button>
+    </div>
+    <p class="viz__readout">{L.note}</p>
+  </Fragment>
+</VizFrame>
+
+<script>
+  for (const fig of document.querySelectorAll<HTMLElement>('[data-viz="antalarm"]')) {
+    const svg = fig.querySelector<SVGSVGElement>('svg')!;
+    const wave = svg.querySelector<SVGCircleElement>('[data-wave]')!;
+    const ants = [...svg.querySelectorAll<SVGGElement>('[data-ant]')].map((g) => ({
+      g,
+      x: Number(g.dataset.x),
+      y: Number(g.dataset.y),
+      d: Number(g.dataset.d),
+    }));
+    let mode = 'panic';
+    // One cycle: 6 s. The wave grows to the 10 cm ring in 3 s, then fades.
+    const frame = (s: number) => {
+      const t = s % 7;
+      const r = Math.min(95, (t / 3) * 95);
+      wave.setAttribute('r', r.toFixed(1));
+      wave.style.opacity = String(t < 3 ? 0.5 : Math.max(0, 0.5 - (t - 3) / 3));
+      for (const a of ants) {
+        // An ant reacts once the wave has reached it, if it is within range.
+        const reached = a.d <= 95 && r >= a.d;
+        const since = reached ? t - (a.d / 95) * 3 : 0;
+        const k = Math.max(0, Math.min(1, since / 2.5));
+        let tx = a.x,
+          ty = a.y;
+        if (mode === 'panic') {
+          tx = a.x + (300 - a.x) * k;
+          ty = a.y + (110 - a.y) * k;
+        } else {
+          tx = a.x + (128 - a.x) * k * 0.8;
+          ty = a.y + (110 - a.y) * k * 0.8;
+        }
+        a.g.setAttribute('transform', `translate(${tx.toFixed(1)} ${ty.toFixed(1)})`);
+        a.g.classList.toggle('is-alerted', reached);
+        a.g.style.opacity = mode === 'panic' && k > 0.95 ? '0' : '1';
+      }
+    };
+    for (const b of fig.querySelectorAll<HTMLButtonElement>('button[data-mode]'))
+      b.addEventListener('click', () => {
+        mode = b.dataset.mode!;
+        svg.dataset.mode = mode;
+        fig.querySelectorAll('button[data-mode]').forEach((x) => x.setAttribute('aria-pressed', String(x === b)));
+        if (reduce) frame(5.6);
+      });
+    const reduce = matchMedia('(prefers-reduced-motion: reduce)').matches;
+    if (reduce) frame(5.6);
+    else {
+      frame(0);
+      let visible = false;
+      new IntersectionObserver((e) => (visible = e.some((x) => x.isIntersecting))).observe(svg);
+      let start = performance.now();
+      const loop = (now: number) => {
+        if (visible) frame((now - start) / 1000);
+        else start = now;
+        requestAnimationFrame(loop);
+      };
+      requestAnimationFrame(loop);
+    }
+  }
+</script>
+
+<style>
+  .aa {
+    width: 100%;
+    max-width: 36rem;
+    display: block;
+    margin: 0 auto;
+  }
+  .aa__ground {
+    fill: color-mix(in srgb, var(--clay) 10%, var(--paper));
+  }
+  .aa__nest {
+    fill: color-mix(in srgb, var(--ink) 55%, var(--paper));
+  }
+  .aa__range {
+    fill: none;
+    stroke: var(--hairline-strong);
+    stroke-width: 0.8;
+    stroke-dasharray: 3 4;
+  }
+  .aa__wave {
+    fill: color-mix(in srgb, var(--turquoise) 30%, transparent);
+    stroke: var(--turquoise);
+    stroke-width: 1;
+  }
+  .aa__src ellipse {
+    fill: var(--clay);
+  }
+  .aa__ant ellipse {
+    fill: var(--ink);
+    transition: fill 0.3s;
+  }
+  .aa__ant.is-alerted ellipse {
+    fill: var(--clay);
+  }
+  .aa__modes {
+    display: flex;
+    flex-wrap: wrap;
+    gap: var(--space-2);
+  }
+  .v-text {
+    font-family: var(--font-ui);
+    font-size: 9px;
+    fill: var(--ink);
+  }
+  .v-text--soft {
+    fill: var(--ink-soft);
+  }
+</style>

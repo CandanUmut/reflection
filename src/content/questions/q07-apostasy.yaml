@@ -77,12 +77,16 @@ sources:
     url: https://www.dailynewsegypt.com/2007/07/24/grand-mufti-muslims-may-convert-to-other-religions/
   - label: ResearchGate review "Punishment for Apostasy… (Tarjih)" — Kamali and Ramadan (secondary). https://www.researchgate.net/publication/347221341_Punishment_for_Apostasy_A_Review_and_Choosing_the_Right_Perspective_Tarjih
     url: https://www.researchgate.net/publication/347221341_Punishment_for_Apostasy_A_Review_and_Choosing_the_Right_Perspective_Tarjih
-  - label: Dalgın, "İrtidat ve Cezası"
+  - &a1
+    label: Dalgın, "İrtidat ve Cezası"
     url: https://isamveri.org/pdfdrg/D02044/1999_1/1999_1_DALGINN.pdf
-  - label: Diyanet Haber, "Dinde Zorlama Yoktur"
+  - &a2
+    label: Diyanet Haber, "Dinde Zorlama Yoktur"
     url: https://www.diyanethaber.com.tr/din-hurriyeti-dinde-zorlama-yoktur
-  - label: Abdullah Saeed & Hassan Saeed, *Freedom of Religion, Apostasy and Islam*
-  - label: Pew (2013)
+  - &a3
+    label: Abdullah Saeed & Hassan Saeed, *Freedom of Religion, Apostasy and Islam*
+  - &a4
+    label: Pew (2013)
 fullAnswer:
   - kind: quran
     en: |-
@@ -172,3 +176,8 @@ followUps:
       en: Do many Muslims reject the death penalty?
     a:
       en: "It depends heavily on the country: among sharia supporters, 4% supported it in Kazakhstan and 18% in Indonesia, against 86% in Egypt."
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4

@@ -1,0 +1,179 @@
+---
+// S3 · "There emerges from their bellies a drink, varying in colors" (16:69).
+// Nectar can be up to 80% water; bees fan it with their wings until it is about
+// 18% (MSU Extension). A honeycomb cell darkens and thickens as the water count
+// falls. Runs once in view; with reduced motion, a slider.
+import VizFrame from '../VizFrame.astro';
+import type { Locale } from '../../i18n/ui';
+interface Props {
+  lang: Locale;
+}
+const { lang } = Astro.props;
+const L =
+  lang === 'tr'
+    ? {
+        title: 'Nektardan bala: arılar suyu kanat çırparak uçurur',
+        water: 'Su',
+        nectar: 'nektar',
+        honey: 'bal',
+        fan: 'kanat çırpma',
+        text: "Nektar yüzde 80'e kadar su içerebilir. Arılar kovanda kanatlarını hızla çırparak bu oranı yaklaşık yüzde 18'e indirir; nektarı taşırken ekledikleri invertaz enzimi şekeri basit şekerlere ayırmaya başlar (MSU Extension).",
+      }
+    : {
+        title: 'From nectar to honey: bees fan the water away',
+        water: 'Water',
+        nectar: 'nectar',
+        honey: 'honey',
+        fan: 'fanning',
+        text: 'Nectar can contain up to 80 percent water. In the hive, bees beat their wings rapidly and bring it down to about 18 percent; the enzyme invertase, added as they carry it, begins splitting its sugar into simpler sugars (MSU Extension).',
+      };
+const hex = (cx: number, cy: number, r: number) =>
+  Array.from({ length: 6 }, (_, i) => {
+    const a = (Math.PI / 3) * i + Math.PI / 6;
+    return `${(cx + r * Math.cos(a)).toFixed(1)},${(cy + r * Math.sin(a)).toFixed(1)}`;
+  }).join(' ');
+---
+
+<VizFrame lang={lang} title={L.title} textVersion={L.text} kind="honey">
+  <svg viewBox="0 0 340 200" aria-hidden="true" focusable="false" class="nh">
+    <defs>
+      <clipPath id="nh-cell">
+        <polygon points={hex(120, 100, 70)} />
+      </clipPath>
+    </defs>
+    <polygon points={hex(120, 100, 70)} class="nh__cell" />
+    <rect x="40" y="60" width="160" height="120" class="nh__fill" clip-path="url(#nh-cell)" data-fill />
+    <polygon points={hex(120, 100, 70)} class="nh__rim" />
+    {[0, 1].map((i) => (
+      <g class="nh__bee" transform={`translate(${250 + i * 50} ${60 + i * 50})`}>
+        <ellipse rx="9" ry="6" class="nh__body" />
+        <path d="M-3 -5 L-3 5 M2 -5 L2 5" class="nh__stripe" />
+        <ellipse cx="-2" cy="-9" rx="6" ry="4" class="nh__wing" />
+        <ellipse cx="4" cy="-9" rx="6" ry="4" class="nh__wing nh__wing--b" />
+      </g>
+    ))}
+    <text x="280" y="160" class="v-text v-text--soft" text-anchor="middle">
+      {L.fan}
+    </text>
+    <text x="120" y="96" class="nh__pct" text-anchor="middle" data-pct>
+      80%
+    </text>
+    <text x="120" y="116" class="v-text" text-anchor="middle">
+      {L.water}
+    </text>
+    <text x="120" y="190" class="v-text v-text--soft" text-anchor="middle" data-label>
+      {L.nectar}
+    </text>
+  </svg>
+  <Fragment slot="controls">
+    <input type="range" min="18" max="80" step="1" value="80" class="nh__slider" data-water aria-label={L.water} />
+  </Fragment>
+  <script type="application/json" is:inline data-nh set:html={JSON.stringify({ nectar: L.nectar, honey: L.honey })} />
+</VizFrame>
+
+<script>
+  for (const fig of document.querySelectorAll<HTMLElement>('[data-viz="honey"]')) {
+    const L = JSON.parse(fig.querySelector('[data-nh]')!.textContent!);
+    const fill = fig.querySelector<SVGRectElement>('[data-fill]')!;
+    const pct = fig.querySelector<SVGTextElement>('[data-pct]')!;
+    const label = fig.querySelector<SVGTextElement>('[data-label]')!;
+    const slider = fig.querySelector<HTMLInputElement>('[data-water]')!;
+    const set = (w: number) => {
+      // 80% water: pale and full; 18%: deep amber, a little lower (water has gone).
+      const k = (80 - w) / 62;
+      fill.style.setProperty('--k', k.toFixed(3));
+      fill.setAttribute('y', (60 + k * 14).toFixed(1));
+      pct.textContent = `${Math.round(w)}%`;
+      label.textContent = w <= 20 ? L.honey : L.nectar;
+      slider.value = String(Math.round(w));
+    };
+    slider.addEventListener('input', () => set(Number(slider.value)));
+    set(80);
+    if (!matchMedia('(prefers-reduced-motion: reduce)').matches) {
+      const io = new IntersectionObserver(
+        (e) => {
+          if (!e.some((x) => x.isIntersecting)) return;
+          io.disconnect();
+          fig.classList.add('is-fanning');
+          const t0 = performance.now();
+          const step = (now: number) => {
+            const p = Math.min(1, (now - t0) / 5000);
+            set(80 - 62 * p);
+            if (p < 1) requestAnimationFrame(step);
+            else fig.classList.remove('is-fanning');
+          };
+          requestAnimationFrame(step);
+        },
+        { threshold: 0.5 },
+      );
+      io.observe(fig);
+    }
+  }
+</script>
+
+<style>
+  .nh {
+    width: 100%;
+    max-width: 34rem;
+    display: block;
+    margin: 0 auto;
+  }
+  .nh__cell {
+    fill: var(--paper-deep);
+  }
+  .nh__fill {
+    --k: 0;
+    fill: color-mix(in srgb, var(--lamp-line) calc(30% + var(--k) * 60%), var(--paper));
+  }
+  .nh__rim {
+    fill: none;
+    stroke: var(--lamp);
+    stroke-width: 2;
+  }
+  .nh__pct {
+    font-family: var(--font-display);
+    font-size: 26px;
+    fill: var(--ink);
+  }
+  .nh__body {
+    fill: var(--lamp-line);
+    stroke: var(--ink);
+    stroke-width: 0.6;
+  }
+  .nh__stripe {
+    stroke: var(--ink);
+    stroke-width: 1.4;
+  }
+  .nh__wing {
+    fill: color-mix(in srgb, var(--paper) 70%, transparent);
+    stroke: var(--ink-soft);
+    stroke-width: 0.5;
+    transform-box: fill-box;
+    transform-origin: 50% 100%;
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .is-fanning .nh__wing {
+      animation: nh-fan 0.12s ease-in-out infinite alternate;
+    }
+    .is-fanning .nh__wing--b {
+      animation-delay: 0.06s;
+    }
+  }
+  @keyframes nh-fan {
+    to {
+      transform: scaleY(0.35);
+    }
+  }
+  .nh__slider {
+    width: 100%;
+    accent-color: var(--lamp);
+  }
+  .v-text {
+    font-family: var(--font-ui);
+    font-size: 10px;
+    fill: var(--ink);
+  }
+  .v-text--soft {
+    fill: var(--ink-soft);
+  }
+</style>

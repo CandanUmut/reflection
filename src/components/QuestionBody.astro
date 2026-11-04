@@ -2,7 +2,7 @@
 // A question page as a layered answer (DESIGN.md §4.5): the steelmanned
 // question first, in full and with respect → why it is asked → short answer
 // → the full answer (Quran, Sunnah, scholars, fiqh, history or science, the
-// strongest objection), folded behind "Read the full answer" when long →
+// strongest objection), shown in full →
 // depth layers the reader opens by choice → range of views → questions readers
 // ask next → honest limits (always visible) → help card where needed → sources.
 import type { CollectionEntry } from 'astro:content';
@@ -14,6 +14,8 @@ import RangeOfViews from './RangeOfViews.astro';
 import Sources from './Sources.astro';
 import { md } from '../lib/md';
 import DeepAnswer from './DeepAnswer.astro';
+import SectionNav from './SectionNav.astro';
+import { partHeading } from '../lib/parts';
 import { t, type Locale, type UiKey } from '../i18n/ui';
 
 interface Props {
@@ -24,6 +26,15 @@ const { q, lang } = Astro.props;
 // A language shows the deep answer only when every part exists in it; until
 // then it keeps the previous layers and range of views.
 const deep = !!q.fullAnswer?.length && q.fullAnswer.every((p) => p[lang]);
+const nav = deep
+  ? [
+      { id: 'steelman-title', label: t(lang, 'steelman') },
+      { id: 'short-title', label: t(lang, 'shortAnswer') },
+      ...q.fullAnswer!.map((p, i) => ({ id: `part-${i}`, label: partHeading(p, lang, t) })),
+      ...(q.followUps?.some((f) => f.q[lang]) ? [{ id: 'deep-fullAnswer-asked', label: t(lang, 'followUps') }] : []),
+      { id: 'sources-title', label: t(lang, 'sources') },
+    ]
+  : [];
 const layerLabel: Record<string, UiKey> = {
   religious: 'layerReligious',
   philosophical: 'layerPhilosophical',
@@ -39,6 +50,7 @@ const layerLabel: Record<string, UiKey> = {
     <p class="label">{q.id}</p>
     <h1>{q.title[lang]}</h1>
   </header>
+  <SectionNav lang={lang} items={nav} />
 
   <section class="steelman" aria-labelledby="steelman-title">
     <h2 class="label" id="steelman-title">

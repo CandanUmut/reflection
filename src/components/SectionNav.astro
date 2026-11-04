@@ -1,0 +1,104 @@
+---
+// "On this page": a quiet bar of chips for long pages, sticky at the top while
+// reading. The chip of the section in view is marked. Without JavaScript it is
+// a plain list of links.
+import { t, type Locale } from '../i18n/ui';
+interface Props {
+  lang: Locale;
+  items: { id: string; label: string }[];
+}
+const { lang, items } = Astro.props;
+---
+
+{items.length > 2 && (
+  <nav class="secnav" aria-label={t(lang, 'onThisPage')} data-secnav>
+    <ol class="secnav__list">
+      {items.map((i) => (
+        <li>
+          <a href={`#${i.id}`} data-target={i.id}>
+            {i.label}
+          </a>
+        </li>
+      ))}
+    </ol>
+  </nav>
+)}
+
+<script>
+  for (const nav of document.querySelectorAll<HTMLElement>('[data-secnav]')) {
+    const links = [...nav.querySelectorAll<HTMLAnchorElement>('a[data-target]')];
+    const targets = links
+      .map((a) => document.getElementById(a.dataset.target!))
+      .filter((el): el is HTMLElement => !!el);
+    const mark = (id: string) => {
+      for (const a of links) {
+        const on = a.dataset.target === id;
+        if (on) a.setAttribute('aria-current', 'true');
+        else a.removeAttribute('aria-current');
+        if (on) a.scrollIntoView({ block: 'nearest', inline: 'center', behavior: 'smooth' });
+      }
+    };
+    // The section whose heading most recently passed the top third of the screen.
+    const seen = new Map<string, boolean>();
+    const io = new IntersectionObserver(
+      (entries) => {
+        for (const e of entries) seen.set(e.target.id, e.isIntersecting);
+        const current = targets.filter((el) => el.getBoundingClientRect().top < window.innerHeight * 0.35).pop();
+        if (current) mark(current.id);
+      },
+      { rootMargin: '0px 0px -60% 0px' },
+    );
+    targets.forEach((el) => io.observe(el));
+  }
+</script>
+
+<style>
+  .secnav {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: color-mix(in srgb, var(--paper) 92%, transparent);
+    backdrop-filter: blur(6px);
+    border-bottom: var(--rule);
+    margin-bottom: var(--space-4);
+  }
+  .secnav__list {
+    display: flex;
+    gap: var(--space-2);
+    overflow-x: auto;
+    scrollbar-width: none;
+    list-style: none;
+    margin: 0 auto;
+    padding: var(--space-2) var(--space-3);
+    max-width: 60rem;
+  }
+  .secnav__list::-webkit-scrollbar {
+    display: none;
+  }
+  .secnav a {
+    display: inline-flex;
+    align-items: center;
+    min-height: 2.25rem;
+    padding: 0 var(--space-3);
+    border: 1px solid var(--hairline);
+    border-radius: 999px;
+    font-family: var(--font-ui);
+    font-size: 0.8rem;
+    white-space: nowrap;
+    text-decoration: none;
+    color: var(--ink-soft);
+    transition:
+      border-color var(--dur-ui) var(--ease-breath),
+      color var(--dur-ui) var(--ease-breath),
+      background-color var(--dur-ui) var(--ease-breath);
+  }
+  .secnav a:hover {
+    border-color: var(--lamp-line);
+    color: var(--ink);
+  }
+  .secnav a[aria-current='true'] {
+    border-color: var(--lamp);
+    color: var(--lamp);
+    background: var(--paper-deep);
+  }
+</style>

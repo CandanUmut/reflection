@@ -1,0 +1,140 @@
+---
+// S30 · "Our Lord is He who gave each thing its form and then guided [it]"
+// (20:50). DNA as a text in four letters. The page's figures: the complete
+// human sequence has 3.055 billion letters (T2T, Nurk et al. 2022); about
+// 20,000 protein-coding genes (2004 consortium count: 19,599). A strand of
+// letters runs by; a counter shows how long the text is. Illustrative letters,
+// not a real sequence. Runs in view; with reduced motion, still.
+import VizFrame from '../VizFrame.astro';
+import type { Locale } from '../../i18n/ui';
+interface Props {
+  lang: Locale;
+}
+const { lang } = Astro.props;
+const L =
+  lang === 'tr'
+    ? {
+        title: 'Dört harfle yazılmış bir metin',
+        letters: 'harf (baz çifti), tam insan dizisi',
+        genes: 'protein kodlayan gen',
+        illus: 'Harfler örnektir, gerçek bir dizi değildir.',
+        book: 'Saniyede bir harf okusanız, bu metni bitirmeniz yaklaşık 97 yıl sürerdi.',
+        text: 'DNA kalıtsal talimatları dört kimyasal "harf"le taşır. Bir insanın tam dizisi 3,055 milyar harftir (Nurk ve ark. 2022). Protein kodlayan genlerin sayısı yaklaşık 20.000\'dir (2004\'te 19.599 sayıldı). Saniyede bir harf okunsa bu metin yaklaşık 97 yılda biterdi.',
+      }
+    : {
+        title: 'A text written in four letters',
+        letters: 'letters (base pairs) in one complete human sequence',
+        genes: 'protein-coding genes',
+        illus: 'The letters are illustrative, not a real sequence.',
+        book: 'Reading one letter a second, you would need about 97 years to finish it.',
+        text: 'DNA carries inherited instructions in four chemical "letters". One complete human sequence has 3.055 billion letters (Nurk et al. 2022). There are about 20,000 protein-coding genes (19,599 counted in 2004). Reading one letter a second, the text would take about 97 years.',
+      };
+// A fixed pseudo-random strand so every build draws the same letters.
+let seed = 7;
+const rnd = () => (seed = (seed * 9301 + 49297) % 233280) / 233280;
+const strand = Array.from({ length: 64 }, () => 'ATGC'[Math.floor(rnd() * 4)]).join('');
+const pair: Record<string, string> = { A: 'T', T: 'A', G: 'C', C: 'G' };
+// Drawn twice so the running strand loops without a seam.
+const twice = (strand + strand).split('');
+const n = (v: number) => new Intl.NumberFormat(lang === 'tr' ? 'tr-TR' : 'en-US').format(v);
+---
+
+<VizFrame lang={lang} title={L.title} textVersion={L.text} kind="genome">
+  <div class="gt">
+    <div class="gt__window">
+      <div class="gt__row gt__row--top">
+        {twice.map((c) => (
+          <span class={`gt__${c}`}>{c}</span>
+        ))}
+      </div>
+      <div class="gt__row gt__row--bottom">
+        {twice.map((c) => (
+          <span class={`gt__${pair[c]}`}>{pair[c]}</span>
+        ))}
+      </div>
+    </div>
+    <dl class="gt__stats">
+      <div>
+        <dt>{n(3055000000)}</dt>
+        <dd>{L.letters}</dd>
+      </div>
+      <div>
+        <dt>≈ {n(20000)}</dt>
+        <dd>{L.genes}</dd>
+      </div>
+    </dl>
+    <p class="gt__note">{L.book}</p>
+    <p class="gt__note gt__note--soft">{L.illus}</p>
+  </div>
+</VizFrame>
+
+<style>
+  .gt__window {
+    overflow: hidden;
+    border-block: 1px solid var(--hairline);
+    padding: var(--space-2) 0;
+    mask-image: linear-gradient(90deg, transparent, #000 10%, #000 90%, transparent);
+  }
+  .gt__row {
+    display: flex;
+    width: max-content;
+    font-family: var(--font-mono);
+    font-size: 1.1rem;
+    letter-spacing: 0.35em;
+  }
+  .gt__row--bottom {
+    opacity: 0.55;
+  }
+  .gt__A {
+    color: var(--cobalt);
+  }
+  .gt__T {
+    color: var(--clay);
+  }
+  .gt__G {
+    color: var(--life);
+  }
+  .gt__C {
+    color: var(--lamp);
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .gt__row {
+      animation: gt-run 18s linear infinite;
+    }
+  }
+  @keyframes gt-run {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
+  .gt__stats {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+    gap: var(--space-3);
+    margin: var(--space-4) 0 var(--space-2);
+  }
+  .gt__stats dt {
+    font-family: var(--font-display);
+    font-size: clamp(1.6rem, 1.3rem + 1.6vw, 2.3rem);
+    color: var(--cobalt);
+    font-variant-numeric: tabular-nums;
+  }
+  .gt__stats dd {
+    margin: 0;
+    font-family: var(--font-ui);
+    font-size: var(--step--1);
+    color: var(--ink-soft);
+  }
+  .gt__note {
+    margin: var(--space-1) 0 0;
+    font-size: 0.95rem;
+  }
+  .gt__note--soft {
+    color: var(--ink-soft);
+    font-size: 0.8rem;
+    font-family: var(--font-ui);
+  }
+</style>

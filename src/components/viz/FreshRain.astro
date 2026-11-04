@@ -1,0 +1,189 @@
+---
+// S6 · "Is it you who brought it down from the clouds?" (56:69) and "If We
+// willed, We could make it bitter" (56:70). Water rises from the salty sea as
+// vapour; the salt stays behind; the cloud is fresh water and so is its rain.
+// A loop of drifting particles; with reduced motion, a still picture.
+import VizFrame from '../VizFrame.astro';
+import type { Locale } from '../../i18n/ui';
+interface Props {
+  lang: Locale;
+}
+const { lang } = Astro.props;
+const L =
+  lang === 'tr'
+    ? {
+        title: 'Tuz denizde kalır, yağmur tatlı iner',
+        sea: 'Tuzlu deniz',
+        salt: 'tuz geride kalır',
+        vapour: 'yükselen buhar tatlıdır',
+        cloud: 'bulut',
+        rain: 'yağmur: damıtılmış su',
+        text: 'Deniz suyu buharlaştığında tuz geride kalır; bulutu oluşturan buhar tatlı sudur. Bu yüzden yağmur içilebilir, deniz suyu içilemez (USGS).',
+      }
+    : {
+        title: 'The salt stays in the sea; the rain falls fresh',
+        sea: 'Salty sea',
+        salt: 'salt stays behind',
+        vapour: 'rising vapour is fresh',
+        cloud: 'cloud',
+        rain: 'rain: distilled water',
+        text: 'When seawater evaporates, the salt stays behind; the vapour that forms clouds is fresh water. That is why rain is drinkable and the sea is not (USGS).',
+      };
+// Fixed positions so every build draws the same picture.
+const salt = [
+  [28, 196],
+  [52, 208],
+  [76, 192],
+  [96, 214],
+  [118, 200],
+  [140, 210],
+  [62, 222],
+  [104, 226],
+  [36, 226],
+  [130, 224],
+];
+const vapour = [40, 70, 100, 130, 55, 115, 85];
+const drops = [228, 248, 268, 288, 238, 278, 258];
+---
+
+<VizFrame lang={lang} title={L.title} textVersion={L.text} kind="freshrain">
+  <svg viewBox="0 0 340 240" aria-hidden="true" focusable="false" class="fr">
+    <circle cx="40" cy="34" r="14" class="fr__sun" />
+    <path d="M0 184 Q40 178 80 184 T160 184 L160 240 L0 240 Z" class="fr__sea" />
+    <path d="M160 190 C200 180 240 176 340 172 L340 240 L160 240 Z" class="fr__land" />
+    {salt.map(([x, y]) => (
+      <circle cx={x} cy={y} r="2.2" class="fr__salt" />
+    ))}
+    {vapour.map((x, i) => (
+      <circle cx={x} cy="178" r="2.6" class="fr__vapour" style={`--d:${(i * 0.55).toFixed(2)}s`} />
+    ))}
+    <g class="fr__cloud">
+      <ellipse cx="250" cy="62" rx="44" ry="20" />
+      <ellipse cx="226" cy="54" rx="24" ry="18" />
+      <ellipse cx="272" cy="50" rx="26" ry="20" />
+    </g>
+    {drops.map((x, i) => (
+      <line x1={x} y1="86" x2={x - 2} y2="96" class="fr__drop" style={`--d:${(i * 0.3).toFixed(2)}s`} />
+    ))}
+    <path d="M150 120 C180 92 200 80 214 70" class="fr__arrow" marker-end="url(#fr-head)" />
+    <defs>
+      <marker id="fr-head" viewBox="0 0 6 6" refX="5" refY="3" markerWidth="6" markerHeight="6" orient="auto">
+        <path d="M0 0 L6 3 L0 6 Z" class="fr__head" />
+      </marker>
+    </defs>
+    <text x="80" y="234" class="v-text" text-anchor="middle">
+      {L.sea} — {L.salt}
+    </text>
+    <text x="70" y="128" class="v-text v-text--soft" text-anchor="middle">
+      ↑ {L.vapour}
+    </text>
+    <text x="250" y="66" class="v-text" text-anchor="middle">
+      {L.cloud}
+    </text>
+    <text x="262" y="160" class="v-text" text-anchor="middle">
+      {L.rain}
+    </text>
+  </svg>
+</VizFrame>
+
+<style>
+  .fr {
+    width: 100%;
+    max-width: 36rem;
+    display: block;
+    margin: 0 auto;
+  }
+  .fr__sun {
+    fill: var(--lamp-line);
+  }
+  .fr__sea {
+    fill: color-mix(in srgb, var(--water) 55%, var(--paper));
+  }
+  .fr__land {
+    fill: color-mix(in srgb, var(--life) 35%, var(--paper));
+  }
+  .fr__salt {
+    fill: var(--paper);
+    stroke: var(--ink-soft);
+    stroke-width: 0.6;
+  }
+  .fr__vapour {
+    fill: var(--turquoise);
+    opacity: 0;
+  }
+  .fr__cloud ellipse {
+    fill: var(--paper-deep);
+    stroke: var(--hairline-strong);
+    stroke-width: 0.8;
+  }
+  .fr__drop {
+    stroke: var(--water);
+    stroke-width: 1.6;
+    stroke-linecap: round;
+    opacity: 0;
+  }
+  .fr__arrow {
+    fill: none;
+    stroke: var(--turquoise);
+    stroke-width: 1;
+    stroke-dasharray: 3 3;
+  }
+  .fr__head {
+    fill: var(--turquoise);
+  }
+  .v-text {
+    font-family: var(--font-ui);
+    font-size: 9px;
+    fill: var(--ink);
+  }
+  .v-text--soft {
+    fill: var(--ink-soft);
+  }
+  @media (prefers-reduced-motion: no-preference) {
+    .fr__vapour {
+      animation: fr-rise 4s var(--d) ease-in infinite;
+    }
+    .fr__drop {
+      animation: fr-fall 1.6s var(--d) linear infinite;
+    }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .fr__vapour {
+      opacity: 0.8;
+      transform: translateY(-40px);
+    }
+    .fr__drop {
+      opacity: 0.9;
+      transform: translateY(40px);
+    }
+  }
+  @keyframes fr-rise {
+    0% {
+      opacity: 0;
+      transform: translate(0, 0);
+    }
+    15% {
+      opacity: 0.9;
+    }
+    85% {
+      opacity: 0.7;
+    }
+    100% {
+      opacity: 0;
+      transform: translate(110px, -120px);
+    }
+  }
+  @keyframes fr-fall {
+    0% {
+      opacity: 0;
+      transform: translateY(0);
+    }
+    20% {
+      opacity: 1;
+    }
+    100% {
+      opacity: 0;
+      transform: translateY(80px);
+    }
+  }
+</style>

@@ -10,6 +10,8 @@ import HelpCard from './HelpCard.astro';
 import Medallion from './motifs/Medallion.astro';
 import Sources from './Sources.astro';
 import DeepAnswer from './DeepAnswer.astro';
+import SectionNav from './SectionNav.astro';
+import { partHeading } from '../lib/parts';
 import { md, mdInline } from '../lib/md';
 import { t, type Locale, type UiKey } from '../i18n/ui';
 
@@ -22,6 +24,13 @@ const sections = (['teachings', 'hadith', 'scholarship', 'evidence', 'stories'] 
 const hundred = m.visualizations.find((v) => v.id === 'hundred-parts');
 // The deep page replaces the short sections in a language once all its parts exist there.
 const deep = !!m.fullAnswer?.length && m.fullAnswer.every((p) => p[lang]);
+const nav = deep
+  ? [
+      ...m.fullAnswer!.map((p, i) => ({ id: `part-${i}`, label: partHeading(p, lang, t) })),
+      ...(m.followUps?.some((f) => f.q[lang]) ? [{ id: 'deep-goDeeper-asked', label: t(lang, 'followUps') }] : []),
+      { id: 'sources-title', label: t(lang, 'sources') },
+    ]
+  : [];
 ---
 
 <article class="moral">
@@ -35,6 +44,7 @@ const deep = !!m.fullAnswer?.length && m.fullAnswer.every((p) => p[lang]);
     {m.verses.length > 1 && <VerseList refs={m.verses.slice(1)} lang={lang} />}
   </section>
   <Medallion />
+  <SectionNav lang={lang} items={nav} />
   <div class="wrap">
     {deep && m.fullAnswer && <DeepAnswer lang={lang} parts={m.fullAnswer} followUps={m.followUps} heading="goDeeper" />}
     {!deep &&

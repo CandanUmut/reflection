@@ -1,0 +1,29 @@
+---
+// The animations made for the deepened Reflect pages, by sign. (The earlier ones,
+// such as the sundial, are listed in each sign's Turkish source file instead.)
+import OrbitDance from './OrbitDance.astro';
+import FreshRain from './FreshRain.astro';
+import GibraltarExchange from './GibraltarExchange.astro';
+import CloudToRain from './CloudToRain.astro';
+import NectarToHoney from './NectarToHoney.astro';
+import AntAlarm from './AntAlarm.astro';
+import ProtectedRoof from './ProtectedRoof.astro';
+import GenomeText from './GenomeText.astro';
+import ExpandingSpace from './ExpandingSpace.astro';
+import type { Locale } from '../../i18n/ui';
+interface Props {
+  id: string;
+  lang: Locale;
+}
+const { id, lang } = Astro.props;
+---
+
+{id === 'S3' && <NectarToHoney lang={lang} />}
+{id === 'S5' && <OrbitDance lang={lang} />}
+{id === 'S6' && <FreshRain lang={lang} />}
+{id === 'S7' && <GibraltarExchange lang={lang} />}
+{id === 'S17' && <CloudToRain lang={lang} />}
+{id === 'S20' && <AntAlarm lang={lang} />}
+{id === 'S23' && <ExpandingSpace lang={lang} />}
+{id === 'S25' && <ProtectedRoof lang={lang} />}
+{id === 'S30' && <GenomeText lang={lang} />}

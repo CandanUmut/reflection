@@ -62,12 +62,16 @@ sources:
   - label: "J. H. Wortmann & C. L. Park, *Death Studies* 32 (2008): 703–736."
   - label: T. Cheung, P. H. Lee & P. S. F. Yip, *BMC Research Notes* 10:242 (2017). https://link.springer.com/article/10.1186/s13104-017-2588-7
     url: https://link.springer.com/article/10.1186/s13104-017-2588-7
-  - label:
+  - &a1
+    label:
       tr: Gazzâlî, *Faysal* (çev. S. Jackson 2002)
       en: al-Ghazālī, *Fayṣal* (tr. S. Jackson 2002)
-  - label: Muslim 976
-  - label: Khalil (2012)
-  - label:
+  - &a2
+    label: Muslim 976
+  - &a3
+    label: Khalil (2012)
+  - &a4
+    label:
       tr: İbn Kayyim, *Hâdi'l-ervâh* (Arapça)
       en: Ibn al-Qayyim, *Ḥādī al-arwāḥ* (Ar.)
 fullAnswer:
@@ -128,3 +132,8 @@ followUps:
       en: How do I live with missing them?
     a:
       en: Visit the grave, keep doing the good things they loved, be kind to the family who remain, and bring your grief to God, as the Prophet (pbuh) did at his mother's grave.
+legacySources:
+  - *a1
+  - *a2
+  - *a3
+  - *a4
