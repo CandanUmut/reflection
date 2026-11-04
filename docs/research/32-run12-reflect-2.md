@@ -22,7 +22,7 @@
 ### Classical tafsir
 **Ibn Kathir on 25:2.** "everything apart from Him is created and subject to Him" (as quoted on the current page).
 
-**Ibn Kathir on 54:49.** He reads the verse as a statement about decree, not about physics: "They used this Ayah and similar Ayat and Hadiths to refute the Qadariyyah sect, who started their sect during the latter time of the Companions." He cites a report from Abu Hurayra (ra), attributed on the page to Muslim, al-Tirmidhi and Ibn Majah: "The idolators of the Quraysh came to the Messenger of Allah… arguing with him and discounting the Qadar", after which the verses were revealed. (The *Qadariyya* were an early group who denied that God decrees human acts.)
+**Ibn Kathir on 54:49.** He reads the verse as a statement about decree, not about physics, and reports that the Imams of the Sunnah "used this Ayah and similar Ayat and Hadiths to refute the Qadariyyah sect, who started their sect during the latter time of the Companions." He cites a report from Abu Hurayra (ra), attributed on the page to Imam Ahmad, Muslim, al-Tirmidhi and Ibn Majah (the Muslim number was not confirmed for this run): "The idolators of the Quraysh came to the Messenger of Allah… arguing with him and discounting the Qadar", after which the verses were revealed. (The *Qadariyya* were an early group who denied that God decrees human acts.)
 
 **Al-Jalālayn on 54:49.** Its comment is grammatical: "everything read inna kulla shay'in is in the accusative". (This page's explanation, not al-Jalālayn's: the accusative supports reading "We created everything with a measure" rather than "everything that We created is with a measure".)
 
@@ -30,13 +30,13 @@
 
 ### How it works
 - **What "fine-tuning" means.** [Established, as a description] Physicists have found that some constants of nature and initial conditions of the universe sit in ranges that permit life, and that small changes would, on current models, make life impossible. The SEP lists fine-tuned constants, conditions of the early universe, and laws (Friederich).
-- **The most famous case.** [Established] The *cosmological constant* (the energy of empty space, which drives cosmic expansion): a naive estimate from quantum field theory overshoots the observed value "by a huge margin", between 10^50 and 10^123 depending on assumptions, "about 120 orders of magnitude" (SEP). Steven Weinberg (1987) argued that galaxies could form only if the vacuum energy was no more than a few orders of magnitude above its observed value (SEP).
+- **The most famous case.** [Established] The *cosmological constant* (the energy of empty space, which drives cosmic expansion): a naive estimate from quantum field theory is larger than the observed value "by an immense number of magnitudes" — "the discrepancy is between 10^50 and 10^123" depending on assumptions — "about 120 orders of magnitude" (SEP). Steven Weinberg (1987) argued that galaxies could form only if the vacuum energy was no more than a few orders of magnitude above its observed value (SEP).
 - **Three responses.** [Debated]
   1. *Design:* life-permitting constants are more probable if there is a designer (Bayesian versions in the SEP; Sober and others object that observation selection effects undercut this, Kotzen and Weisberg reply).
   2. *Multiverse:* if there are very many universes with varying constants, at least one would permit life, and observers would find themselves in it.
   3. *Brute fact or deeper law:* the constants may be fixed by a deeper theory not yet known.
 - **Problems with the probabilities.** [Debated] McGrew, McGrew and Vestrup (2001) argue that if a constant can take any real value, a uniform probability gives zero probability to any finite range, so "how unlikely" the life-permitting range is cannot be properly defined (SEP).
-- **Problems with the multiverse inference.** [Debated] Ian Hacking (1987) charged that inferring many universes from our fine-tuned one commits the "inverse gambler's fallacy" (inferring many past rolls from one lucky roll); Roger White (2000) and Manson and Thrush (2003) pressed related points; McGrath, Epstein and others dispute this (SEP). Friederich concludes that "established standards of rationality may not allow us to decide whether the inference from fine-tuning to a multiverse is fallacious or not".
+- **Problems with the multiverse inference.** [Debated] Ian Hacking (1987) charged that inferring many universes from our fine-tuned one commits the "inverse gambler's fallacy" (inferring many past rolls from one lucky roll); Roger White (2000) pressed a related point, that many other universes do not make it more likely that "this one" is life-permitting; McGrath, Manson and Thrush, Epstein and others defend the multiverse argument against the charge (SEP). Friederich concludes that "established standards of rationality may not allow us to decide whether the inference from fine-tuning to a multiverse is fallacious or not".
 
 ### Points of awe
 - The naive quantum estimate of the energy of empty space is wrong by about 120 orders of magnitude, and the observed value sits in a range compatible with galaxies (SEP).
@@ -52,7 +52,7 @@ The reflection is simpler than the debate. The world we live in has a measure, a
 A believer can hold both: the measure in the verse, and the honesty of the debate. Neither needs the other to be overstated. The fitting response to a measured world is to measure carefully, and to remember who set the measure.
 
 ### Honest notes
-- **The popular claim.** Fine-tuning is often presented as proof that God exists, and 25:2 or 54:49 as having foretold it. Neither is warranted. The verses speak of measure and decree; the commentators read them as about God's decree (Ibn Kathir uses 54:49 against the Qadariyya), not about physical constants.
+- **The popular claim.** Fine-tuning is often presented as proof that God exists, and 25:2 or 54:49 as having foretold it. Neither is warranted. The verses speak of measure and decree; the commentators read them as about God's decree (Ibn Kathir reports that the Imams of the Sunnah used 54:49 against the Qadariyya), not about physical constants.
 - **The science is real; the inference is debated.** That some constants are life-permitting only in narrow ranges is widely accepted. Whether this points to design, a multiverse or a deeper law is a philosophical question, and the probability calculations behind each are disputed (SEP).
 - **Weinberg's view.** The current page says Weinberg judged some cases "not so fine". That quotation was not found in the SEP text read for this run (see Corrections).
 
@@ -93,21 +93,21 @@ A believer can hold both: the measure in the verse, and the honesty of the debat
 
 **Al-Jalālayn on 67:19.** "Nothing sustains them from falling either when they are spreading them or closing them".
 
-**Where they differ.** Ibn Kathir names the means: God gave the birds "strength" and subjected "the air to carry them". Al-Jalālayn names only God's power. Neither denies that the air holds the bird; Ibn Kathir says it in so many words. For him, the means is part of what God does.
+**Where they agree.** Both name the means and credit God for them. Ibn Kathir: God gave the birds "strength" and subjected "the air to carry them". Al-Jalālayn, on the end of 16:79: the signs are "that they have been created in a way that enables them to fly as well as the creation of the air in such a way that it allows for flight and the holding of them up in the air so that they do not fall." For both, the means are part of what God does.
 
 ### How it works
 - **"Wings outspread" — gliding.** [Established] A spread wing deflects the air flowing past it downward; by Newton's third law, the air pushes the wing up. The pressure above the wing is also lower than below it. Together these produce *lift*. Soaring birds use rising columns of warm air (thermals) to gain height without flapping. (No named aerodynamics source was read for this run; this is textbook physics — see Gaps.)
 - **"Folded in" — flapping and diving.** [Established] Flapping adds forward thrust; folding the wings reduces drag for diving or bounding flight.
-- **How far the air can carry a bird.** [Established] On 13 October 2022, a bar-tailed godwit fitted with satellite tag 234684, "This five-month-old bird", left Alaska and landed at Ansons Bay in eastern Tasmania after flying "13,560 kilometres (8,435 miles)", in "11 days and one hour without the bird landing once", "without stopping for food or rest". Eric Woehler of BirdLife Tasmania estimated it lost "half or more of its body weight" on the way (Guinness World Records). It had never made the journey before.
+- **How far the air can carry a bird.** [Established] On 13 October 2022, a bar-tailed godwit fitted with satellite tag 234684, "This five-month-old bird", left Alaska and landed at Ansons Bay in eastern Tasmania after flying "13,560 kilometres (8,435 miles)", in "11 days and one hour without the bird landing once", "without stopping for food or rest". Eric Woehler of BirdLife Tasmania estimated it lost "half or more of its body weight" on the way (Guinness World Records).
 
 ### Points of awe
-- A five-month-old godwit flew 13,560 km without landing, on a route it had never flown (Guinness World Records).
+- A five-month-old juvenile godwit flew 13,560 km without landing (Guinness World Records).
 - It flew day and night for 11 days, losing perhaps half its body weight (Guinness World Records, quoting Eric Woehler).
 
 ### The reflection
 Look up, the verses say: "Do they not see the birds above them with wings outspread and [sometimes] folded in?" (67:19). We see birds every day, and we stop seeing them. The Quran asks us to look again at something we take for granted: a living body, heavier than air, held up in the sky.
 
-The commentators did not pretend the air does nothing. Ibn Kathir says God holds the birds up by "subjecting the air to carry them and support them". The physics of lift is part of the sign, not a rival to it. Al-Jalālayn simply says: nothing holds them, spread or folded, "except God by His power".
+The commentators did not pretend the air does nothing. Ibn Kathir says God holds the birds up by "subjecting the air to carry them and support them". The physics of lift is part of the sign, not a rival to it. Al-Jalālayn names both the bird's created ability to fly and "the creation of the air in such a way that it allows for flight".
 
 A young godwit that had never crossed an ocean flew from Alaska to Tasmania without landing. It was carried by air it did not make, steered by senses it did not design, and kept alive by fat its body had stored. In 67:19 the name used is *al-Raḥmān*, the Most Merciful. The verses before it warn that the ground could open and the sky could rain stones. Instead, the birds are held up.
 
@@ -149,7 +149,7 @@ The verse invites a double look: see the means clearly, and then see through the
 ### Classical tafsir
 **Ibn Kathir on 88:17.** "Indeed it is an amazing creation, and the way it has been fashioned is strange." The current page quotes his fuller description: it "is extremely powerful and strong, yet gentle, carrying heavy loads. It allows itself to be guided by a weak rider."
 
-**Ibn Kathir on the four signs together.** The sky: "how Allah raised it in such magnificence above the ground". The mountains: "firmly affixed so that the earth does not sway with its dwellers". The earth: "how it has been spread out, extended and made smooth". His summary: "He directs the bedouin to consider what he himself witnesses." He also cites the report of Dimam ibn Thaʿlaba, a Bedouin who asked the Prophet (pbuh), among other questions, "Who erected these mountains and placed in them whatever is in them?"
+**Ibn Kathir on the four signs together.** The sky: "how Allah raised it in such magnificence above the ground". The mountains: "firmly affixed so that the earth does not sway with its dwellers". The earth: "how it has been spread out, extended and made smooth". His summary: "He directs the bedouin to consider what he himself witnesses." He also cites, from Imam Ahmad via Anas, a Bedouin's question to the Prophet (pbuh), "Who erected these mountains and placed in them whatever is in them?" (Ibn Kathir's section heading names him Dimam). The same report is in Sahih Muslim through Anas, where the man is unnamed ("a man from the dwellers of the desert"): "Who raised these mountains and who created in them whatever is created there?" ({hadith:muslim:12}).
 
 **Al-Jalālayn on 88:17.** "Will they the Meccan disbelievers not consider by way of reflection the camels how they are created?" — naming the first audience and the kind of looking asked for: reflection.
 
@@ -160,7 +160,7 @@ Each point is tied to the verse's "how they are created".
 - **The hump.** [Established] "The humps in fact are reservoirs of fatty tissue, which can be used as a reserve source of calories, not water" (*Wikipedia*). In dehydrated camels, hump size shrinks (Ali et al. 2023).
 - **Surviving water loss.** [Established] "Camels can withstand losing 25% of their body weight in water", while most other mammals tolerate only about 12–14% before circulatory failure (*Wikipedia*). In a 2023 study, camels deprived of water for 20 days lost 31% of their initial body weight, from a mean of 363.6 kg to 251.8 kg (Ali et al.).
 - **Drinking it back.** [Established] Dehydrated camels "can drink up to 110 liters of water within 10 min to restore one-third of their body weight loss", and store "the water for up to 24 h in the gut with slow absorption", so the blood is not suddenly diluted (Ali et al., Introduction).
-- **Red blood cells.** [Established] "camels' red blood cells are oval rather than circular in shape" (*Wikipedia*), and "The RBCs of the dehydrated camels can swell up to 240% of the initial volume without rupture", against about 150% in other species (Ali et al.).
+- **Red blood cells.** [Established] "camels' red blood cells are oval rather than circular in shape" (*Wikipedia*), and "The RBCs of the dehydrated camels can swell up to 240% of the initial volume without rupture", against about 150% in other species (Ali et al., Introduction — background, not their own result).
 - **Saving water.** [Established] Body temperature ranges from "34 °C (93 °F) at dawn" to "40 °C (104 °F) by sunset" (*Wikipedia*), so the camel stores heat by day instead of sweating it away. "Camel urine comes out as a thick syrup, and camel faeces are so dry that they do not require drying when used to fuel fires" (*Wikipedia*).
 
 ### Points of awe
@@ -198,7 +198,7 @@ The lesson reaches beyond camels. Each of us lives among things we stopped seein
 ### Sources read
 - Saheeh International, via `src/data/quran.json` — 29:41.
 - Ibn Kathir, *Tafsir* (abridged English), and *Tafsīr al-Jalālayn* (English), on 29:41, https://surahquran.com/tafsir-english-aya-41-sora-29.html.
-- Blackledge, Kuntner & Agnarsson, "Bioprospecting Finds the Toughest Biological Material: Extraordinary Silk from a Giant Riverine Orb Spider", *PLoS ONE* 5(9) (2010), abstract via University of Akron IdeaExchange, https://ideaexchange.uakron.edu/biology_ideas/119.
+- Agnarsson, Kuntner & Blackledge, "Bioprospecting Finds the Toughest Biological Material: Extraordinary Silk from a Giant Riverine Orb Spider", *PLoS ONE* 5(9) (2010), abstract via University of Akron IdeaExchange, https://ideaexchange.uakron.edu/biology_ideas/119.
 - "The Quran on Spider Webs (part 2 of 2)", IslamReligion.com (14 November 2016), https://tel.islamreligion.com/en/articles/11086/viewall — a popular modern claim.
 - "Spider Web Miracle in the Quran", WikiIslam, https://www.wikiislam.net/wiki/Spider_Web_Miracle_in_the_Quran — a critic's reply.
 
@@ -219,13 +219,13 @@ The lesson reaches beyond camels. Each of us lives among things we stopped seein
 **Where they agree.** Both read the weakness as practical: the web gives no shelter. Ibn Kathir stresses the uselessness of holding on to it; al-Jalālayn names what it fails to keep out. Neither discusses which sex of spider builds webs, or spider family life.
 
 ### How it works
-- **The silk is strong.** [Established] The silk of Darwin's bark spider (*Caerostris darwini*, Madagascar) is the toughest biological material measured: "The toughness of forcibly silked fibers averages 350 MJ/m3, with some samples reaching 520 MJ/m3", "more than twice tougher than any previously described silk" and over ten times tougher than Kevlar (Blackledge, Kuntner & Agnarsson 2010). Its webs cover up to 2.8 m², anchored by threads up to 25 m long across rivers.
+- **The silk is strong.** [Established] The silk of Darwin's bark spider (*Caerostris darwini*, Madagascar) is the toughest biological material measured: "The toughness of forcibly silked fibers averages 350 MJ/m3, with some samples reaching 520 MJ/m3", "more than twice tougher than any previously described silk" and over ten times tougher than Kevlar (Agnarsson, Kuntner & Blackledge 2010). Its webs cover up to 2.8 m², anchored by threads up to 25 m long across rivers.
 - **The home is weak.** [Established] A web is a thin net, built to catch prey. It does not keep out wind, rain, heat, cold or predators. (This is ordinary observation; no named source on web function was read for this run.)
 - **So both are true.** The material is extraordinary; the shelter is not. That is exactly the gap the parable uses.
 
 ### Points of awe
-- Darwin's bark spider makes silk with toughness up to 520 MJ/m³, more than twice any other known silk (Blackledge et al. 2010).
-- Its web can be anchored across a river by threads 25 m long (Blackledge et al. 2010).
+- Darwin's bark spider makes silk with toughness up to 520 MJ/m³, more than twice any other known silk (Agnarsson et al. 2010).
+- Its web can be anchored across a river by threads 25 m long (Agnarsson et al. 2010).
 
 ### The reflection
 Spider silk is, strand for strand, one of the toughest materials known. And yet the verse says: "the weakest of homes is the home of the spider, if they only knew" (29:41). Both are true. The point is not that the silk is weak. It is that something cleverly made can still give no real shelter.
@@ -237,7 +237,7 @@ The parable is not only about idols of stone. Anything we lean on in God's place
 The verse ends with a quiet regret: "if they only knew". It is not mockery. It is an invitation to check what we are leaning on before we need it to hold.
 
 ### Honest notes
-- **The popular claims.** IslamReligion.com presents the verse as describing spider family life — "Females killing and eating males", spiderlings eating each other, mothers eaten by their young — and says God "mentioned that the worst household is that of a spider, long before naturalists and scientists started to study spider behavior in detail" (2016). Others argue that the feminine verb shows only female spiders build webs (as reported by WikiIslam).
+- **The popular claims.** IslamReligion.com presents the verse as describing spider family life — "both female and male spiders commonly kill and eat the other after mating", "aggressive females kill their mates indiscriminately", spiderlings eating each other, a mother who "sacrifices her own body as food for her young" — and says God "mentioned that the worst household is that of a spider, long before naturalists and scientists started to study spider behavior in detail" (parts 1–2, 2016). Others argue that the feminine verb shows only female spiders build webs (as reported by WikiIslam).
 - **Weighing them.** The verse's point, as both commentators read it, is the web's weakness as a shelter, not spider behaviour; the "household" reading goes beyond the text and the tafsir read here. On the feminine verb, the critic at WikiIslam points out that the grammatical gender follows the noun *ʿankabūt*, which Lane's lexicon describes as "generally fem., but sometimes masc.", and that male spiders also spin silk. The grammar does not settle biology. Sexual cannibalism occurs in some species, not all (the current page's note; no source read for this run).
 - **"Takes", not "builds".** Saheeh renders *ittakhadhat* as "takes": the same verb as "those who take allies". The parallel is the point.
 
@@ -282,7 +282,7 @@ The verse ends with a quiet regret: "if they only knew". It is not mockery. It i
 
 ### How it works
 Each point is tied to the verse's words "rest" (78:9) and "sign" (30:23).
-- **The brain cleans itself during sleep — in mice.** [Moderate: animal evidence] In a study led by Maiken Nedergaard (University of Rochester), published in *Science* in 2013, "The space between brain cells increased by 60% when mice were asleep or anesthetized"; dye injected into the cerebrospinal fluid flowed quickly through the brains of unconscious mice but barely moved when they were awake; and labelled beta-amyloid (a protein linked to Alzheimer's disease) "cleared faster" from the brains of sleeping mice (NIH/NINDS release on Xie et al. 2013). The fluid system involved is called the *glymphatic system*.
+- **The brain cleans itself during sleep — in mice.** [Moderate: animal evidence] In a study led by Maiken Nedergaard (University of Rochester), published in *Science* in 2013, "the space inside the brains increased by 60 percent when the mice were asleep or anesthetized"; dye injected into the cerebrospinal fluid flowed quickly through the brains of unconscious mice but barely moved when they were awake; and labelled beta-amyloid (a protein linked to Alzheimer's disease) "disappeared faster in mice brains when the mice were asleep" (NIH/NINDS release on Xie et al. 2013). The fluid system involved is called the *glymphatic system*.
 - **What this does and does not show.** Every experiment in the 2013 study was done in mice. How large this effect is in humans was not addressed in the source read.
 
 ### Points of awe
@@ -292,7 +292,7 @@ Each point is tied to the verse's words "rest" (78:9) and "sign" (30:23).
 ### The reflection
 Sleep is a daily, unchosen surrender. However strong or busy we are, each night we lie down, let go of control, and become unaware of everything — even of ourselves. And most mornings it is all given back.
 
-The Quran calls this a "taking": "Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep" (39:42). Ibn Kathir calls sleep "a lesser death". The Prophet (pbuh) taught words for both ends of the night: before sleep, "In Your name I die and live"; on waking, praise to the One who "gave us life after causing us to die".
+The Quran calls this a "taking": "Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep" (39:42). Ibn Kathir calls sleep "a lesser death". The Prophet (pbuh) taught words for both ends of the night: before sleep, "Bismika amutu wa ahya" (In Your name I die and live); on waking, praise to the One who gave us life after causing us to die (this page's translation of the Arabic).
 
 That makes every bedtime a small act of trust, and every morning a small resurrection. It also makes waking a gift, not a right: "He keeps those for which He has decreed death and releases the others for a specified term."
 
@@ -340,8 +340,8 @@ Today we know that sleep is busy work for the body — in mice, the brain even m
 ### How it works
 Each point is tied to the verse's words "extends", "stationary", "the sun… an indication" and "a brief grasp".
 - **"The sun for it an indication".** [Established] A shadow's length is set by the sun's height in the sky: the length equals the object's height divided by the tangent of the sun's elevation angle. When the sun is low, shadows are long; when it is high, short. (Standard geometry; no named source was read for this run.)
-- **"Extends… then… a brief grasp".** [Established] Shadows are longest at sunrise and sunset and shortest at local noon, so in the morning they shrink, steadily and gradually.
-- **"If He willed, He could have made it stationary".** [Established] Shadows move because the Earth turns. A world that did not turn relative to the sun would have fixed shadows and, on one side, endless day.
+- **How shadows change through the day.** [Established] Shadows are longest at sunrise and sunset and shortest at local noon. (Standard geometry; no named source was read.)
+- **Why shadows move.** [Established] Shadows move because the Earth turns relative to the sun. (The commentators read 25:45 as the shade before sunrise; neither mentions rotation, and this page does not read rotation into the verse.)
 - **Shadows as a clock in Islamic law.** [Established] The start of the afternoon prayer (ʿAṣr) is defined by shadows. For the Maliki, Shafiʿi and Hanbali schools it begins when "the length of any object's shadow equals the length of the object itself plus the length of that object's shadow at noon"; in "the dominant opinion in the Hanafi school", when the shadow "is twice the length of the object plus the length of that object's shadow at noon" (*Wikipedia*, "Asr prayer"). The basis is the hadith in which Ibn ʿAbbas (ra) reports that the Prophet (pbuh) said Jibril led him in prayer twice: once he "prayed Asr when everything was similar (to the length of) its shadow", and on the second day "when the shadow of everything was about twice as long as it" (Jamiʿ al-Tirmidhi 149; al-Albani: *ḥasan ṣaḥīḥ*). The schools differ on which end of this window marks the start.
 
 ### Points of awe
@@ -366,7 +366,7 @@ There is also something for the heart here. Change in our lives often comes like
 
 **Why does it say God "could have made it stationary"?** Because the shadow's movement is not necessary; it depends on the sun and the Earth's motion. A still shadow would mean an unchanging sky.
 
-**How are shadows used to time prayers?** ʿAṣr begins when a shadow equals the object's length plus its noon shadow (Maliki, Shafiʿi, Hanbali), or twice the length (the dominant Hanafi view), based on the hadith of Jibril (al-Tirmidhi 149).
+**How are shadows used to time prayers?** ʿAṣr begins when a shadow equals the object's length plus its noon shadow (Maliki, Shafiʿi, Hanbali), or twice the length plus the noon shadow (the dominant Hanafi view), based on the hadith of Jibril (al-Tirmidhi 149).
 
 **What does "a brief grasp" mean?** The gentle, gradual drawing-in of the shadow as the sun rises; Ibn Kathir says it "refers to the shade".
 
@@ -389,7 +389,7 @@ There is also something for the heart here. Change in our lives often comes like
 - **What the verse argues.** From something anyone sees — dry land turning green — to something no one sees: the raising of the dead.
 
 ### Classical tafsir
-**Ibn Kathir.** "Stilled" "means, lifeless, with nothing growing in it; it is dead." When rain comes, "it brings forth all kinds of crops and fruits". And the last part "means, signs of His ability to bring the dead back to life."
+**Ibn Kathir.** "Stilled" "means, lifeless, with nothing growing in it; it is dead." When rain comes, "it brings forth all kinds of crops and fruits". And on the opening, "And among His signs": it "means, signs of His ability to bring the dead back to life."
 
 **Al-Jalālayn.** "you see the earth desolate dried out without any vegetation"; when the rain falls, "it stirs it moves and swells swells and rises."
 
@@ -397,8 +397,8 @@ There is also something for the heart here. Change in our lives often comes like
 
 ### How it works
 Each point is tied to "the earth stilled" and "it quivers and grows".
-- **Waiting seeds.** [Established] In Death Valley, the driest place in North America, long-dormant seeds buried in the soil burst through after rain; desert plants "can go decades without water" while waiting for conditions to germinate (AP, 2026). The "stilled" earth is not empty; it is waiting.
-- **The 2026 bloom.** [Established] After "nearly a year's worth of rain since October", including the wettest November on record (1.76 inches, 4.47 cm, according to the National Park Service), Death Valley had its best bloom since 2016; such blooms come about once a decade (AP, quoting ecologists Loralee Larios of UC Riverside and Tiffany Pereira of the Desert Research Institute).
+- **Waiting seeds.** [Established] In Death Valley, the driest place in North America, long-dormant seeds buried in the soil burst through after rain; ecologist Tiffany Pereira (Desert Research Institute) says "desert plants have adapted to go decades without water" (AP, 2026).
+- **The 2026 bloom.** [Established] After "nearly a year's worth of rain since October", including the wettest November on record (1.76 inches, 4.47 cm, according to the National Park Service), Death Valley had, in park ranger Matthew Lamar's words, "the best the park has seen since 2016"; the AP calls such blooms "once-in-a-decade" (AP, 2026).
 
 ### Points of awe
 - Seeds in Death Valley's soil can wait for years — the AP report says plants can go "decades" — and then bloom after one wet season (AP, 2026).
@@ -469,7 +469,7 @@ There is a lesson for the heart as well. A life that feels dry and still is not 
 ### How it works
 Each point is tied to "stakes" and "firmly set".
 - **Mountains have roots.** [Established] *Isostasy* is "the state of gravitational equilibrium between Earth's crust (or lithosphere) and mantle": the crust "floats" at a height set by its thickness and density (*Wikipedia*). In the simple Airy model, mountain "roots will be about five times deeper than the height of the mountains", so an 8 km mountain would have a root about 32 km deep (*Wikipedia*). Crust in continental collision zones can reach about 80 km, against about 40 km for average continental crust (*Wikipedia*).
-- **How the roots were found.** [Established] Plumb lines near the Andes and in India were pulled sideways by mountains "less than expected"; in 1855 George Airy and John Henry Pratt each proposed an explanation: lighter roots beneath the mountains (*Wikipedia*).
+- **How the roots were found.** [Established] Plumb lines near the Andes and in India were pulled sideways by mountains "less than expected"; in 1855 George Airy and John Henry Pratt each proposed an explanation: Airy, roots of lighter crust beneath the mountains; Pratt, that the crust under mountains is less dense (*Wikipedia*).
 - **But mountain belts are earthquake zones.** [Established] The Himalaya formed, and is still forming, as the India and Eurasia plates converge "at a relative rate of 40–50 mm/yr"; "Northward underthrusting of India beneath Eurasia generates numerous earthquakes", making the region "one of the most seismically hazardous regions on Earth" (USGS). The same collisions that raise mountains cause earthquakes.
 
 ### Points of awe
@@ -508,7 +508,7 @@ But the verse is not a lesson in seismology, and it should not be made into one.
 ## Corrections to the current pages
 - **S9** — "One estimate puts the cosmological constant's fine-tuning at 1 part in 10^120 (Stanford Encyclopedia of Philosophy)." — stretched: the SEP gives the naive quantum estimate as overshooting by "between 10^50 and 10^123" depending on assumptions, "about 120 orders of magnitude"; it does not give "1 part in 10^120" as a probability. — Quote the SEP's wording.
 - **S9** — "Weinberg judged some cases 'not so fine'." — not found in the SEP text read. — Give the source (work and page) or remove.
-- **S9** — "Critics of that inference cite the 'inverse gambler's fallacy' and the 'this-universe objection' (Hacking, White); defenders dispute it." — the this-universe objection is Manson and Thrush (2003) in the SEP. — Name them; add Friederich's conclusion that it may not be decidable.
+- **S9** — "Critics of that inference cite the 'inverse gambler's fallacy' and the 'this-universe objection' (Hacking, White); defenders dispute it." — defensible: in the SEP the "this one" point is White's (2000); Manson and Thrush (2003) are listed among the defenders. — Keep (Hacking, White); add Friederich's conclusion that the question may not be decidable.
 - **S9** — "the *kalam* argument from particularisation (*takhsis*), used by al-Ghazali and al-Razi" — unsourced. — Cite a work and page, or remove.
 - **S9** — the honest note is one line ("Fine-tuning is an invitation, not proof"). — State the popular claim and the probability problem (McGrew et al., via the SEP).
 - **S10** — "Al-Razi makes the same point" — unsourced. — Replace with al-Jalālayn on 16:79 and 67:19, or cite al-Razi with work and page.
@@ -520,7 +520,7 @@ But the verse is not a lesson in seismology, and it should not be made into one.
 - **S11** — "A study cited secondhand reports she-camels drinking about 83 litres after six days without water." — secondhand. — Remove or cite the study.
 - **S12** — "Al-Razi and al-Qurtubi read the frailty as failure to shelter from heat, cold, wind or predators." — unsourced. — Al-Jalālayn says it "neither protects it from heat nor cold"; use that or cite the others.
 - **S12** — "Some note the feminine verb (*ittakhadhat*), matching that the female spider builds the web." — stated without weighing; grammatical gender follows the noun *ʿankabūt* (Lane: "generally fem., but sometimes masc.", as quoted by WikiIslam). — Add the caveat.
-- **S12** — "Garb et al., Communications Biology 2019" — not read for this run; the 350/520 MJ/m³ and "more than twice" figures are from Blackledge, Kuntner & Agnarsson (2010). — Check Garb et al. or cite only 2010.
+- **S12** — "Garb et al., Communications Biology 2019" — not read for this run; the 350/520 MJ/m³ and "more than twice" figures are from Agnarsson, Kuntner & Blackledge (2010). — Check Garb et al. or cite only 2010.
 - **S13** — "Al-Razi and al-Qurtubi likewise call sleep 'the lesser death' (*al-mawta al-sughra*)" — unsourced; Ibn Kathir's "lesser death" is on the page read. — Cite Ibn Kathir only, or give works.
 - **S13** — "Ibn Kathir links the verse to the Prophet's (pbuh) bedtime prayer, 'In Your name I die and live' (Bukhari 6312)." — Ibn Kathir's cited prayer is the Abu Hurayra one ("if You take my soul, have mercy on it…", Bukhari 6320), not 6312. — Correct the number or the wording.
 - **S13** — "cycles of roughly 90 minutes", "Sleep also consolidates memories", "set mainly by light reaching the eye" — no source on the page. — Cite a sleep-science source or remove.
@@ -532,9 +532,9 @@ But the verse is not a lesson in seismology, and it should not be made into one.
 - **S15** — "Death Valley averages a little under 2 inches (about 50 mm) of rain a year" — not in the AP report read. — Cite the National Park Service.
 - **S15** — "Many desert seeds carry a coating with germination inhibitors that only a soaking rain washes away." — not in the source read. — Cite a seed-ecology source.
 - **S15** — "Al-Razi notes that the earth is called *khashi'a*, a word also used for a humble, lowered heart" — unsourced as attributed. — Cite al-Razi with work and page, or present the word-meaning without the attribution.
-- **S15** — "Desert ecologists say some seeds can wait in the soil for a decade or more." — unnamed authorities; the AP report quotes Loralee Larios and Tiffany Pereira and says plants can go "decades". — Name them.
+- **S15** — "Desert ecologists say some seeds can wait in the soil for a decade or more." — unnamed authorities; the AP report quotes Tiffany Pereira: "desert plants have adapted to go decades without water". — Name her and quote exactly.
 - **S16** — "Classical commentators (al-Tabari, al-Qurtubi, Ibn Kathir) worked within their own picture of the world, in which some reports describe the earth as at first moving or tilting until God fixed it with mountains." — the Ibn Kathir pages read for 16:15 and 78:7 contain no such report; al-Tabari and al-Qurtubi were not read. — Cite the report (collection, number, grade) or remove.
-- **S16** — quotation "lest it sway with you" for 16:15 — Saheeh has "lest it shift with you". — Correct the quotation.
+- **S16** — quotation "lest it sway with you" for 16:15 (in the verse note and again in the honest note) — Saheeh has "lest it shift with you". — Correct both.
 - **S16** — "Under the Himalaya and Tibetan Plateau, the crust is about 70–75 km thick (some studies say up to 80 km)" — not in the sources read; *Wikipedia* ("Isostasy") gives "about 80 km" for collision zones against "about 40 km" average, and says the Himalaya is "not in isostatic equilibrium". — Cite a seismic study or use the *Wikipedia* figures with the caveat.
 - **S16** — "A century later, seismic surveys confirmed them." — unsourced. — Cite or remove.
 
@@ -546,4 +546,4 @@ But the verse is not a lesson in seismology, and it should not be made into one.
 - **S13:** human glymphatic studies; a sleep-science source on cycles, memory and circadian light; 6:60 in verified text.
 - **S14:** a geometry or astronomy source for shadow length; David A. King on qibla and the overhead sun; 25:47 in verified text.
 - **S15:** a seed-ecology source on dormancy and germination inhibitors; National Park Service rainfall data.
-- **S16:** a seismic source on Himalayan/Tibetan crustal thickness; the Press and Siever claim and the authors' response; classical reports on the earth's moving before the mountains, with grades.
+- **S16:** Jamiʿ al-Tirmidhi 3369 (Anas: when God created the earth "it started shaking. So He created the mountains"; Darussalam: *ḥasan*) with al-Albani's grade, before any use; a seismic source on Himalayan/Tibetan crustal thickness; the Press and Siever claim and the authors' response; classical reports on the earth's moving before the mountains, with grades.
