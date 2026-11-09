@@ -546,7 +546,6 @@ const englishOf = (id) => {
     if (new RegExp(`^## ${id} — `, 'm').test(read(`docs/research/${f}`))) return `docs/research/${f}`;
   return null;
 };
-const dirOf = { Q: 'questions', M: 'morals', S: 'signs' };
 const pageAudit = (r) => `## The task
 
 These deep answers are already live. Check each one line by line, as a checker applying rules 1–8 above: every quotation of a scholar, every figure and date, every attribution ("al-Ghazali says…", "the Hanafis hold…"), every hadith number and grade, and every verse's context (rule 4). Their full text is in this repository: the English research section in the file named below, and the page data under src/content/. List every claim you checked, including the correct ones, so the check is visible.
