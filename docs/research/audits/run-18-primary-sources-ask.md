@@ -1,10 +1,11 @@
-# Run 18 — Primary sources for Ask (first pass: Q22 and Q21)
+# Run 18 — Primary sources for Ask (first pass: Q22, Q21, Q4, Q6, Q24)
 
-Checked by Claude directly, 9 November 2026. **Partial run, by Umut's choice to work on the highest-impact items first.** This pass covers the two most sensitive pages in the run, Banu Qurayza (Q22) and slavery (Q21), and replaces *Wikipedia* with the primary text wherever one could be read. The other pages are listed at the end.
+Checked by Claude directly, 9 November 2026. **Partial run, by Umut's choice to work on the highest-impact items first.** This pass covers the most sensitive pages in the run — Banu Qurayza (Q22), slavery (Q21), and single claims on the Quran's preservation (Q4), women (Q6) and hijab (Q24) — and replaces *Wikipedia* with the primary text wherever one could be read. The other pages are listed at the end.
 
 **Summary for Umut.**
 - **The most important correction (Q22):** the page says one Qurayza woman was executed "reportedly for killing a Muslim by dropping a millstone", citing Abu Dawud. The hadith (Abu Dawud 2671, from ʿAʾisha) does not say that. It says only that she was killed "for an act I committed" / "I did a new act". The millstone story is a later comment by Ibn Hisham. An early commentator (al-Khattabi) gives a different reason. The page should say what each source says.
 - **Q22 numbers:** now from the primary texts. Ibn Ishaq (in Ibn Hisham) says "six hundred or seven hundred", with the highest estimate "between eight hundred and nine hundred". Ibn Kathir on 33:26 says "between seven hundred and eight hundred". The 25-day siege is in Ibn Kathir.
+- **Q4:** the Birmingham Quran's radiocarbon figure is "1456 ± 21 BP" on the University's own page, not "1465".
 - **Q21:** Mohsen Kadivar explicitly says his view is *not* "technical abrogation", so the page's "abrogation by reason" misdescribes him. The Kecia Ali quotation was not found where it is said to be. Mauritania's 1981 abolition is confirmed, and its 2007 criminalisation added.
 
 ---
@@ -63,8 +64,29 @@ Checked by Claude directly, 9 November 2026. **Partial run, by Umut's choice to 
 
 - **Other Q21 claims** (owners' duties; Ottoman 1847; the Prophet's household; Saudi Arabia 1962; Hijaz 1854; Morrow on Mariya; Tunisian reformers and Ameer Ali; captives; Gordon and Clarence-Smith; *dhimmī* protection): not checked in this pass.
 
+## Q4 — Was the Quran preserved?
+- **Claim:** "The Birmingham leaves… were radiocarbon-dated at Oxford to '1465±21 years BP (before 1950), which corresponds with 95.4% confidence to the calendar years CE 568–645…'"
+  **Section:** history
+  **Verdict:** Corrected
+  **Source:** University of Birmingham, Cadbury Research Library, "The Birmingham Qur'an Manuscript", https://www.birmingham.ac.uk/facilities/cadbury/TheBirminghamQuranManuscript: "1456 ± 21 BP"; "568 (95.4%) 645 calAD"; "Parts of Surahs 18 - 20"; the handwriting "was Hijazi"; dated by the "University of Oxford's Radiocarbon Accelerator Unit". The page's "1465" is not what the University's own page gives (the 2015 press release was not read).
+  **New text:** The University of Oxford's Radiocarbon Accelerator Unit dated the parchment to 1456 ± 21 years before 1950, which corresponds, with 95.4% probability, to the years 568–645 CE (University of Birmingham, Cadbury Research Library). The date is the parchment's, not the writing's.
+
+## Q6 — Does Islam treat women unequally?
+- **Claim:** "Ibn ʿAbbas (ra), asked what 'without severity' means, said: 'the siwak (tooth-stick) and the like' (via al-Tabari, as reported by *Wikipedia*); Ibn Kathir reports him and al-Hasan al-Basri as requiring 'a beating that is not violent' or 'not severe', and cites a hadith from Muʿawiya ibn Hayda forbidding 'striking her face or cursing her' ({hadith:abudawud:2142})"
+  **Section:** (fiqh / the hard verse 4:34)
+  **Verdict:** Confirmed for Ibn Kathir and Abu Dawud 2142; Not found for the siwak report (al-Tabari not reached)
+  **Source:** Ibn Kathir on 4:34 (abridged English, surahquran.com): "Ibn 'Abbas and several others said that the Ayah refers to a beating that is not violent"; "Al-Hasan Al-Basri said that it means, a beating that is not severe"; Muʿawiya ibn Hayda: "refrain from striking her face or cursing her" (Ibn Kathir gives no number). Sunan Abi Dawud 2142 (hadithunlocked.com): "do not strike her on the face, do not revile her or separate yourself from her except in the house"; al-Albani: *ḥasan ṣaḥīḥ*; Shuʿayb al-Arnaʾut: «إسناده حسن»; al-Daraqutni notes that one line of transmission is *mursal*.
+  **New text:** Ibn Kathir reports that "Ibn 'Abbas and several others said that the Ayah refers to a beating that is not violent", and al-Hasan al-Basri "a beating that is not severe". The Prophet (pbuh), asked about a wife's rights, said: "do not strike her on the face, do not revile her or separate yourself from her except in the house" ({hadith:abudawud:2142}; al-Albani: *ḥasan ṣaḥīḥ*). (The siwak report from Ibn ʿAbbas stays credited to al-Tabari via *Wikipedia* until al-Tabari's text is read.)
+
+## Q24 — Hijab and coercion
+- **Claim:** 2:256 was revealed, according to Ibn ʿAbbas (via Abu Dawud and al-Nasaʾi), when some Medinan families whose children had been raised Jewish wanted to keep them from leaving with the Banu Nadir; the verse forbade forcing them into Islam (Wikipedia, "Al-Baqarah 256").
+  **Section:** (Who may enforce it, and how?)
+  **Verdict:** Confirmed (primary source)
+  **Source:** Sunan Abi Dawud 2682 (sunnah.com; al-Albani: *ṣaḥīḥ*): Ibn ʿAbbas: "When the children of a woman (in pre-Islamic days) did not survive"… "When Banu an-Nadir were expelled (from Arabia), there were some children of the Ansar (Helpers) among them"… "So Allah the Exalted revealed; 'Let there be no compulsion in religion. Truth stands out clear from error.'" (The verse wording is the hadith translator's, not Saheeh International.)
+  **New text:** Ibn ʿAbbas reports that before Islam some women of Medina whose children did not survive vowed to raise a child as a Jew; when the Banu Nadir were expelled, some children of the Ansar were among them, and their families wanted to keep them back — and 2:256 was revealed: "There shall be no compulsion in [acceptance of] the religion" ({hadith:abudawud:2682}; al-Albani: *ṣaḥīḥ*).
+
 ## Not checked in this pass
-Q2, Q3, Q4, Q5, Q6, Q17, Q18, Q19, Q23, Q24, Q25, Q27, Q28, Q29, Q30, Q32, Q37, and the remaining Q21 and Q22 claims.
+Q2, Q3, Q5, Q17, Q18, Q19, Q23, Q25, Q27, Q28, Q29, Q30, Q32, Q37; the remaining Q4, Q6, Q21, Q22 and Q24 claims.
 
 ---
 ## Gaps
