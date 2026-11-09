@@ -17,3 +17,6 @@
 | 14 | [Reflect III](run-14-reflect-3.md) | S17, S18, S19, S20, S21, S22, S23, S24, S25 | `docs/research/34-run14-reflect-3.md` |
 | 15 | [Ask — religious people and sects](run-15-ask-community.md) | Q18, Q19 | `docs/research/35-run15-ask-community.md` |
 | 16 | [Reflect IV](run-16-reflect-4.md) | S26, S27, S28, S29, S30, S31, S32, S33 | `docs/research/36-run16-reflect-4.md` |
+| 17 | [Check the claims taken off the pages](run-17-verify-removed-claims.md) | 49 pages | `docs/research/audits/run-17-verify-removed-claims.md` |
+| 18 | [Primary sources for Ask](run-18-primary-sources-ask.md) | 19 pages | `docs/research/audits/run-18-primary-sources-ask.md` |
+| 19 | [Primary sources for Reflect and Live](run-19-primary-sources-reflect-live.md) | 14 pages | `docs/research/audits/run-19-primary-sources-reflect-live.md` |

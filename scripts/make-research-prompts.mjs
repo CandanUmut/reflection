@@ -226,6 +226,30 @@ const runs = [
     ids: ['S26', 'S27', 'S28', 'S29', 'S30', 'S31', 'S32', 'S33'],
     why: 'The last Reflect pages.',
   },
+  {
+    n: 17,
+    kind: 'verify',
+    slug: 'verify-removed-claims',
+    title: 'Check the claims taken off the pages',
+    items: 'run17',
+    why: 'In November 2026, 82 unchecked claims were taken off the pages (docs/CONTENT_GAPS.md), and M10 lost its scholars section. Those that hold up can go back, with a real source.',
+  },
+  {
+    n: 18,
+    kind: 'sources',
+    slug: 'primary-sources-ask',
+    title: 'Primary sources for Ask',
+    items: 'run18',
+    why: 'Sensitive Ask pages (slavery, Banu Qurayza, who created God, sects) lean on Wikipedia and other popular sites. Scientists, students and skeptics need the primary works.',
+  },
+  {
+    n: 19,
+    kind: 'sources',
+    slug: 'primary-sources-reflect-live',
+    title: 'Primary sources for Reflect and Live',
+    items: 'run19',
+    why: "Science claims on Reflect and Live pages cite Wikipedia, AntWiki, NASA's children's site and similar; the papers behind them are needed.",
+  },
 ];
 
 const rules = read('docs/research/prompts/_rules.md').replace(/^<!--[\s\S]*?-->\s*/, '');
@@ -237,8 +261,9 @@ const formats = Object.fromEntries(
     .map((s) => [s.slice(0, s.indexOf('\n')).trim(), s.slice(s.indexOf('\n') + 1).trim()]),
 );
 const nn = (n) => String(n).padStart(2, '0');
+// Audits and checking runs are not pages: they go in audits/, and Claude applies them by hand.
 const output = (r) =>
-  r.kind === 'audit'
+  ['audit', 'verify', 'sources'].includes(r.kind)
     ? `docs/research/audits/run-${nn(r.n)}-${r.slug}.md`
     : `docs/research/${20 + r.n}-run${nn(r.n)}-${r.slug}.md`;
 
@@ -295,6 +320,48 @@ ${r.scan.map((id) => `- ${id} — ${pages[id].title}: ${pages[id].url}`).join('\
 
 List only sentences with a problem in Part C; in Part A, list every claim you checked, including the correct ones, so the check is visible.`;
 
+const itemsOf = (r) => JSON.parse(read(`docs/research/prompts/_items-${r.items}.json`));
+const itemList = (r) =>
+  Object.entries(itemsOf(r))
+    .sort(([a], [b]) => a.localeCompare(b, 'en', { numeric: true }))
+    .map(
+      ([id, list]) =>
+        `### ${id} — ${pages[id].title}\nPage: ${pages[id].url}\n` +
+        list
+          .map((x) => (typeof x === 'string' ? `- "${x}"` : `- [${x.section || 'section not recorded'}] ${x.claim}`))
+          .join('\n'),
+    )
+    .join('\n\n');
+const checkFormat = (what) => `\`\`\`
+## <page id> — <page title>
+- **${what}:** <as listed>
+  **Section:** <the section it belongs in>
+  **Verdict:** Confirmed | Corrected | Not found
+  **Source:** <full reference to the source you read: work, author, edition and page, or URL; primary where possible>
+  **New text:** <the sentence(s) for the page, written for readers, naming the source in the sentence. Quote the Quran in Saheeh International exactly; cite hadith as {hadith:collection:number}. For "Not found", write: none.>
+
+---
+## Gaps
+- <what you could not check, and why>
+\`\`\``;
+const verify = (r) => `## The task
+
+These claims were taken off the site's pages because no one had checked them. For each, find a reliable source and read it. If the claim holds, write the sentence that puts it back, with its source. If the source says something different, write the corrected sentence. If you cannot find it, say so: it stays off the page. Apply rules 1–8 above as a checker. Read each page first (its URL is given), so the new text fits the section it goes back into.
+
+${itemList(r)}
+
+## Report format
+
+${checkFormat('Claim')}`;
+const sourcesTask = (r) => `## The task
+
+Each sentence below rests on a popular or secondary source: Wikipedia, AntWiki, NASA StarChild (a children's site), Universe Today, News-Medical, KQED and similar. For each, find and read the primary source behind it: the peer-reviewed paper, the official dataset, the scholarly book or edition, or the classical text itself. Then confirm, correct or narrow the sentence. Keep each claim's strength label honest ([Established], [Moderate], [Mixed], [Debated]); if the primary source is weaker than the sentence suggests, say so. Read each page first (its URL is given).
+
+${itemList(r)}
+
+## Report format
+
+${checkFormat('Sentence')}`;
 const content = (r) => `## The task
 
 Write the new, deeper version of each page below, in the report format at the end. The site already has these pages; readers found them too short or too vague. Read each current page first: keep what is correct and sourced, fix what is not (and list the fix under "Corrections to the current pages"), and answer what readers found missing.
@@ -327,12 +394,13 @@ Copy everything below the line into the deep-research tool, with deep research t
 
 ${rules.trim()}
 
-${(r.kind === 'audit' ? audit(r) : content(r)).trim()}
+${(r.kind === 'audit' ? audit(r) : r.kind === 'verify' ? verify(r) : r.kind === 'sources' ? sourcesTask(r) : content(r)).trim()}
 `;
   const file = `docs/research/prompts/run-${nn(r.n)}-${r.slug}.md`;
   fs.writeFileSync(P(file), body);
+  const ids = r.ids ?? Object.keys(itemsOf(r));
   readme.push(
-    `| ${r.n} | [${r.title}](run-${nn(r.n)}-${r.slug}.md) | ${r.ids.join(', ')}${r.scan ? ' (+ scan of M1–M15)' : ''} | \`${output(r)}\` |`,
+    `| ${r.n} | [${r.title}](run-${nn(r.n)}-${r.slug}.md) | ${r.items ? `${ids.length} pages` : ids.join(', ')}${r.scan ? ' (+ scan of M1–M15)' : ''} | \`${output(r)}\` |`,
   );
   console.log('wrote', file, `(${body.split(/\s+/).length} words)`);
 }
