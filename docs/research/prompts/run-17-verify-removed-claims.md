@@ -84,7 +84,7 @@ Never write "the verse asks / commands / means X" unless X is in the verse's wor
 
 ## The task
 
-These claims were taken off the site's pages because no one had checked them. For each, find a reliable source and read it. If the claim holds, write the sentence that puts it back, with its source. If the source says something different, write the corrected sentence. If you cannot find it, say so: it stays off the page. Apply rules 1–8 above as a checker. Read each page first (its URL is given), so the new text fits the section it goes back into.
+These claims were taken off the site's pages because no one had checked them. For each, find a reliable source and read it. If the claim holds, write the sentence that puts it back, with its source. If the source says something different, write the corrected sentence. If you cannot find it, say so: it stays off the page. Apply rules 1–8 above as a checker. Read each page first (its URL is given; its text is also in the repository under src/content/), so the new text fits the section it goes into.
 
 ### M1 — Justice even against oneself
 Page: https://candanumut.github.io/reflection/en/live/justice/

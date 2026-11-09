@@ -25,3 +25,23 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 | 17 | [Check the claims taken off the pages](run-17-verify-removed-claims.md) | Not started | | | |
 | 18 | [Primary sources for Ask](run-18-primary-sources-ask.md) | Not started | | | |
 | 19 | [Primary sources for Reflect and Live](run-19-primary-sources-reflect-live.md) | Not started | | | |
+| 20 | [Scholars quoted from their own books](run-20-scholars-from-their-books.md) | Not started | | | |
+| 21 | [What the Ask pages have not yet consulted](run-21-not-yet-consulted-ask.md) | Not started | | | |
+| 22 | [What the Reflect and Live pages have not yet consulted](run-22-not-yet-consulted-reflect-live.md) | Not started | | | |
+| 23 | [Line-by-line check of the earlier deep Ask answers](run-23-audit-older-ask.md) | Not started | | | |
+| 24 | [Deepen the shortest Reflect pages (A)](run-24-deepen-reflect-a.md) | Not started | | | |
+| 25 | [Deepen the shortest Reflect pages (B)](run-25-deepen-reflect-b.md) | Not started | | | |
+| 26 | [Deepen the shortest Live pages](run-26-deepen-live.md) | Not started | | | |
+| 27 | [Turkish 1 of 13](run-27-tr-01.md) | Not started | | | |
+| 28 | [Turkish 2 of 13](run-28-tr-02.md) | Not started | | | |
+| 29 | [Turkish 3 of 13](run-29-tr-03.md) | Not started | | | |
+| 30 | [Turkish 4 of 13](run-30-tr-04.md) | Not started | | | |
+| 31 | [Turkish 5 of 13](run-31-tr-05.md) | Not started | | | |
+| 32 | [Turkish 6 of 13](run-32-tr-06.md) | Not started | | | |
+| 33 | [Turkish 7 of 13](run-33-tr-07.md) | Not started | | | |
+| 34 | [Turkish 8 of 13](run-34-tr-08.md) | Not started | | | |
+| 35 | [Turkish 9 of 13](run-35-tr-09.md) | Not started | | | |
+| 36 | [Turkish 10 of 13](run-36-tr-10.md) | Not started | | | |
+| 37 | [Turkish 11 of 13](run-37-tr-11.md) | Not started | | | |
+| 38 | [Turkish 12 of 13](run-38-tr-12.md) | Not started | | | |
+| 39 | [Turkish 13 of 13](run-39-tr-13.md) | Not started | | | |
