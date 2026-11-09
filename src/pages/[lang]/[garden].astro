@@ -130,6 +130,20 @@ const lean = (id: string) => ((id.charCodeAt(1) * 7 + Number(id.slice(1)) * 13) 
       </ul>
     </section>
 
+    <section class="offline" aria-labelledby="offline-h" data-offline hidden>
+      <h2 id="offline-h">{t(lang, 'offlineTitle')}</h2>
+      <p>{t(lang, 'offlineText')}</p>
+      <div class="keep__actions">
+        {(lang === 'tr' ? ['tr', 'en'] : ['en', 'tr']).map((l) => (
+          <button class="btn" type="button" data-save={l}>
+            {t(lang, l === 'tr' ? 'offlineSaveTr' : 'offlineSaveEn')} <span class="offline__size" data-size={l} />
+          </button>
+        ))}
+      </div>
+      <p class="keep__status" aria-live="polite" data-offline-status></p>
+      <p class="offline__note">{t(lang, 'offlineIos')}</p>
+    </section>
+
     <section class="keep" aria-labelledby="keep-h">
       <h2 id="keep-h">{t(lang, 'gardenKeep')}</h2>
       <p>{t(lang, 'gardenKeepText')}</p>
@@ -155,6 +169,12 @@ const lean = (id: string) => ((id.charCodeAt(1) * 7 + Number(id.slice(1)) * 13) 
       items: questItems,
       imported: t(lang, 'gardenImported'),
       importFail: t(lang, 'gardenImportFail'),
+      offline: {
+        saving: t(lang, 'offlineSaving'),
+        saved: t(lang, 'offlineSaved'),
+        fail: t(lang, 'offlineFail'),
+        size: t(lang, 'offlineSize'),
+      },
     })}
   />
 </Base>
@@ -219,6 +239,57 @@ const lean = (id: string) => ((id.charCodeAt(1) * 7 + Number(id.slice(1)) * 13) 
   root?.querySelector<HTMLButtonElement>('[data-reset]')?.addEventListener('click', (e) => {
     if (confirm((e.currentTarget as HTMLElement).dataset.confirm)) reset();
   });
+
+  // "Read offline": every page of a language, and the scripts and fonts they use,
+  // put into the same caches the service worker reads (integrations/pwa.mjs).
+  const off = root?.querySelector<HTMLElement>('[data-offline]');
+  if (off && 'caches' in window && 'serviceWorker' in navigator) {
+    const T = (data as unknown as { offline: Record<string, string> }).offline;
+    const status = off.querySelector<HTMLElement>('[data-offline-status]')!;
+    const base = import.meta.env.BASE_URL.replace(/\/?$/, '/');
+    const mb = (b: number) => (b / 1e6).toFixed(0);
+    type Manifest = { langs: Record<string, { pages: string[]; bytes: number }>; assets: string[]; assetBytes: number };
+    fetch(base + 'offline-manifest.json')
+      .then((r) => r.json() as Promise<Manifest>)
+      .then((m) => {
+        off.hidden = false;
+        for (const l of Object.keys(m.langs))
+          off.querySelector(`[data-size="${l}"]`)!.textContent =
+            `(${T.size} ${mb(m.langs[l].bytes + m.assetBytes)} MB)`;
+        for (const btn of off.querySelectorAll<HTMLButtonElement>('[data-save]'))
+          btn.addEventListener('click', async () => {
+            const { pages } = m.langs[btn.dataset.save!];
+            const buttons = off.querySelectorAll<HTMLButtonElement>('[data-save]');
+            buttons.forEach((b) => (b.disabled = true));
+            const [pc, ac] = await Promise.all([caches.open('tefekkur-pages'), caches.open('tefekkur-assets')]);
+            let done = 0;
+            let failed = 0;
+            const save = async (cache: Cache, url: string) => {
+              try {
+                const res = await fetch(url, { cache: 'no-cache' });
+                if (!res.ok) throw new Error(String(res.status));
+                await cache.put(url, res);
+              } catch {
+                failed++;
+              }
+            };
+            await Promise.all(m.assets.map((a) => save(ac, a)));
+            // A few at a time, so a phone on a slow line is not flooded.
+            const queue = [...pages];
+            const worker = async () => {
+              for (let url = queue.shift(); url; url = queue.shift()) {
+                await save(pc, url);
+                done++;
+                status.textContent = `${T.saving}… ${done} / ${pages.length}`;
+              }
+            };
+            await Promise.all([worker(), worker(), worker(), worker()]);
+            status.textContent = failed ? T.fail : `${pages.length} ${T.saved}`;
+            buttons.forEach((b) => (b.disabled = false));
+          });
+      })
+      .catch(() => {});
+  }
 
   window.addEventListener(CHANGE, render);
   window.addEventListener('storage', render);
@@ -372,8 +443,17 @@ const lean = (id: string) => ((id.charCodeAt(1) * 7 + Number(id.slice(1)) * 13) 
     display: none;
   }
 
-  .keep {
+  .keep,
+  .offline {
     margin-top: var(--space-6);
+  }
+  .offline__size {
+    color: var(--ink-soft);
+    font-size: 0.85em;
+  }
+  .offline__note {
+    color: var(--ink-soft);
+    font-size: 0.85rem;
   }
   .keep__actions {
     display: flex;
