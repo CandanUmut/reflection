@@ -19,7 +19,12 @@ const pages = {};
 for (const [k, dir] of Object.entries(DIR))
   for (const f of fs.readdirSync(P('src/content', dir))) {
     const d = parse(read(`src/content/${dir}/${f}`));
-    pages[d.id] = { title: d.title.en, url: `${SITE}${SEG[k]}/${d.slugs.en}/`, verses: d.verses ?? [] };
+    pages[d.id] = {
+      title: d.title.en,
+      trTitle: d.title.tr,
+      url: `${SITE}${SEG[k]}/${d.slugs.en}/`,
+      verses: d.verses ?? [],
+    };
   }
 
 // What readers found missing. Ask: the baseline reader round (one JSON per page).
@@ -226,6 +231,196 @@ const runs = [
     ids: ['S26', 'S27', 'S28', 'S29', 'S30', 'S31', 'S32', 'S33'],
     why: 'The last Reflect pages.',
   },
+  {
+    n: 17,
+    kind: 'verify',
+    slug: 'verify-removed-claims',
+    title: 'Check the claims taken off the pages',
+    items: 'run17',
+    why: 'In November 2026, 82 unchecked claims were taken off the pages (docs/CONTENT_GAPS.md), and M10 lost its scholars section. Those that hold up can go back, with a real source.',
+  },
+  {
+    n: 18,
+    kind: 'sources',
+    slug: 'primary-sources-ask',
+    title: 'Primary sources for Ask',
+    items: 'run18',
+    why: 'Sensitive Ask pages (slavery, Banu Qurayza, who created God, sects) lean on Wikipedia and other popular sites. Scientists, students and skeptics need the primary works.',
+  },
+  {
+    n: 19,
+    kind: 'sources',
+    slug: 'primary-sources-reflect-live',
+    title: 'Primary sources for Reflect and Live',
+    items: 'run19',
+    why: "Science claims on Reflect and Live pages cite Wikipedia, AntWiki, NASA's children's site and similar; the papers behind them are needed.",
+  },
+  {
+    n: 20,
+    kind: 'sources',
+    slug: 'scholars-from-their-books',
+    title: 'Scholars quoted from their own books',
+    items: 'run20',
+    intro:
+      "Each sentence below quotes or reports a scholar through a Q&A or fatwa website (IslamQA, SeekersGuidance, AboutIslam, Yaqeen and similar) or another secondary page, not from the scholar's own work. For each, find the passage in the scholar's own book (an edition, a translation, or the Arabic on al-Maktaba al-Shamila or Wikisource), read it, and confirm, correct or narrow the sentence. Quote the scholar's own words where you can, with work, volume and page.",
+    why: 'The student of Islamic knowledge checks attributions. A scholar quoted through a website is the weakest link on the Ask and Live pages.',
+  },
+  {
+    n: 21,
+    kind: 'verify',
+    slug: 'not-yet-consulted-ask',
+    title: 'What the Ask pages have not yet consulted',
+    items: 'run21',
+    intro:
+      'Each sentence below tells readers that a work "has not yet been consulted" or a claim "has not yet been checked". For each, read that work or find a source for that claim, and write what it says on the point: the sentence or short paragraph to add to the page, and whether the honest limit can then be removed. If you cannot read it, say so: the limit stays.',
+    why: 'Ask pages tell readers 84 times that something was not yet read. Each one read is a gap closed.',
+  },
+  {
+    n: 22,
+    kind: 'verify',
+    slug: 'not-yet-consulted-reflect-live',
+    title: 'What the Reflect and Live pages have not yet consulted',
+    items: 'run22',
+    intro:
+      'Each sentence below tells readers that a work "has not yet been consulted" or a claim "has not yet been checked" (or is "not yet sourced"). For each, read that work or find a source for that claim, and write what it says on the point: the sentence or short paragraph to add to the page, and whether the honest limit can then be removed. If you cannot read it, say so: the limit stays.',
+    why: 'Reflect and Live pages carry 58 such limits, many on al-Razi and al-Qurtubi, which were not read for most Reflect pages.',
+  },
+  {
+    n: 23,
+    kind: 'pageaudit',
+    slug: 'audit-older-ask',
+    title: 'Line-by-line check of the earlier deep Ask answers',
+    ids: ['Q1', 'Q7', 'Q13', 'Q14', 'Q31'],
+    why: 'Run 1 could not open these pages, so their scholar quotations, figures and attributions were never checked one by one. The repository now has their text.',
+  },
+  {
+    n: 24,
+    kind: 'reflect',
+    slug: 'deepen-reflect-a',
+    title: 'Deepen the shortest Reflect pages (A)',
+    ids: ['S25', 'S23', 'S19', 'S15', 'S22', 'S24', 'S21', 'S18'],
+    why: 'The shortest pages on the site (about 600–900 words), below the 1,500-word target; most lack al-Razi and al-Qurtubi.',
+  },
+  {
+    n: 25,
+    kind: 'reflect',
+    slug: 'deepen-reflect-b',
+    title: 'Deepen the shortest Reflect pages (B)',
+    ids: ['S12', 'S14', 'S10', 'S13', 'S2', 'S17', 'S11', 'S16'],
+    why: 'The next shortest Reflect pages (about 900–1,100 words).',
+  },
+  {
+    n: 26,
+    kind: 'live',
+    slug: 'deepen-live',
+    title: 'Deepen the shortest Live pages',
+    ids: ['M7', 'M6', 'M11'],
+    why: 'The shortest Live pages (about 900–1,150 words); M6 and M7 were cut short for lack of sources read.',
+  },
+  {
+    n: 27,
+    kind: 'translate',
+    slug: 'tr-01',
+    title: 'Turkish 1 of 13',
+    ids: ['Q3', 'Q32', 'Q28', 'Q36', 'Q29'],
+    why: 'The Turkish pages still show the earlier, shorter text.',
+  },
+  {
+    n: 28,
+    kind: 'translate',
+    slug: 'tr-02',
+    title: 'Turkish 2 of 13',
+    ids: ['Q33', 'Q34', 'Q26', 'Q20'],
+    why: 'The Turkish pages still show the earlier, shorter text.',
+  },
+  {
+    n: 29,
+    kind: 'translate',
+    slug: 'tr-03',
+    title: 'Turkish 3 of 13',
+    ids: ['Q21', 'Q22', 'Q25', 'Q6'],
+    why: 'The Turkish pages still show the earlier, shorter text.',
+  },
+  {
+    n: 30,
+    kind: 'translate',
+    slug: 'tr-04',
+    title: 'Turkish 4 of 13',
+    ids: ['Q23', 'Q24', 'Q8', 'Q38', 'Q15'],
+    why: 'The Turkish pages still show the earlier, shorter text.',
+  },
+  {
+    n: 31,
+    kind: 'translate',
+    slug: 'tr-05',
+    title: 'Turkish 5 of 13',
+    ids: ['Q16', 'Q7', 'Q13', 'Q14', 'Q31', 'M1', 'M2'],
+    why: 'The Turkish pages still show the earlier, shorter text.',
+  },
+  {
+    n: 32,
+    kind: 'translate',
+    slug: 'tr-06',
+    title: 'Turkish 6 of 13',
+    ids: ['M3', 'M4', 'M5', 'M6', 'M7', 'M8', 'M9', 'M10', 'M11'],
+    why: 'The Turkish pages still show the earlier, shorter text.',
+  },
+  {
+    n: 33,
+    kind: 'translate',
+    slug: 'tr-07',
+    title: 'Turkish 7 of 13',
+    ids: ['M12', 'M13', 'M14', 'M15', 'Q27', 'Q4', 'Q11'],
+    why: 'The Turkish pages still show the earlier, shorter text.',
+  },
+  {
+    n: 34,
+    kind: 'translate',
+    slug: 'tr-08',
+    title: 'Turkish 8 of 13',
+    ids: ['Q12', 'Q2', 'Q5', 'Q17', 'Q30'],
+    why: 'The Turkish pages still show the earlier, shorter text.',
+  },
+  {
+    n: 35,
+    kind: 'translate',
+    slug: 'tr-09',
+    title: 'Turkish 9 of 13',
+    ids: ['Q37', 'Q35', 'Q10', 'Q9', 'Q18'],
+    why: 'The Turkish pages still show the earlier, shorter text.',
+  },
+  {
+    n: 36,
+    kind: 'translate',
+    slug: 'tr-10',
+    title: 'Turkish 10 of 13',
+    ids: ['Q19', 'S1', 'S2', 'S3', 'S4', 'S5', 'S6'],
+    why: 'The Turkish pages still show the earlier, shorter text.',
+  },
+  {
+    n: 37,
+    kind: 'translate',
+    slug: 'tr-11',
+    title: 'Turkish 11 of 13',
+    ids: ['S7', 'S8', 'S9', 'S10', 'S11', 'S12', 'S13', 'S14', 'S15', 'S16', 'S17'],
+    why: 'The Turkish pages still show the earlier, shorter text.',
+  },
+  {
+    n: 38,
+    kind: 'translate',
+    slug: 'tr-12',
+    title: 'Turkish 12 of 13',
+    ids: ['S18', 'S19', 'S20', 'S21', 'S22', 'S23', 'S24', 'S25', 'S26', 'S27', 'S28'],
+    why: 'The Turkish pages still show the earlier, shorter text.',
+  },
+  {
+    n: 39,
+    kind: 'translate',
+    slug: 'tr-13',
+    title: 'Turkish 13 of 13',
+    ids: ['S29', 'S30', 'S31', 'S32', 'S33'],
+    why: 'The Turkish pages still show the earlier, shorter text.',
+  },
 ];
 
 const rules = read('docs/research/prompts/_rules.md').replace(/^<!--[\s\S]*?-->\s*/, '');
@@ -237,10 +432,13 @@ const formats = Object.fromEntries(
     .map((s) => [s.slice(0, s.indexOf('\n')).trim(), s.slice(s.indexOf('\n') + 1).trim()]),
 );
 const nn = (n) => String(n).padStart(2, '0');
+// Audits and checking runs are not pages: they go in audits/, and Claude applies them by hand.
 const output = (r) =>
-  r.kind === 'audit'
-    ? `docs/research/audits/run-${nn(r.n)}-${r.slug}.md`
-    : `docs/research/${20 + r.n}-run${nn(r.n)}-${r.slug}.md`;
+  r.kind === 'translate'
+    ? 'docs/research/tr/<page id>.md, one file per page'
+    : ['audit', 'verify', 'sources', 'pageaudit'].includes(r.kind)
+      ? `docs/research/audits/run-${nn(r.n)}-${r.slug}.md`
+      : `docs/research/${20 + r.n}-run${nn(r.n)}-${r.slug}.md`;
 
 const pageBlock = (id) => {
   const p = pages[id];
@@ -295,6 +493,78 @@ ${r.scan.map((id) => `- ${id} — ${pages[id].title}: ${pages[id].url}`).join('\
 
 List only sentences with a problem in Part C; in Part A, list every claim you checked, including the correct ones, so the check is visible.`;
 
+const itemsOf = (r) => JSON.parse(read(`docs/research/prompts/_items-${r.items}.json`));
+const itemList = (r) =>
+  Object.entries(itemsOf(r))
+    .sort(([a], [b]) => a.localeCompare(b, 'en', { numeric: true }))
+    .map(
+      ([id, list]) =>
+        `### ${id} — ${pages[id].title}\nPage: ${pages[id].url}\n` +
+        list
+          .map((x) => (typeof x === 'string' ? `- "${x}"` : `- [${x.section || 'section not recorded'}] ${x.claim}`))
+          .join('\n'),
+    )
+    .join('\n\n');
+const checkFormat = (what) => `\`\`\`
+## <page id> — <page title>
+- **${what}:** <as listed>
+  **Section:** <the section it belongs in>
+  **Verdict:** Confirmed | Corrected | Not found
+  **Source:** <full reference to the source you read: work, author, edition and page, or URL; primary where possible>
+  **New text:** <the sentence(s) for the page, written for readers, naming the source in the sentence. Quote the Quran in Saheeh International exactly; cite hadith as {hadith:collection:number}. For "Not found", write: none.>
+
+---
+## Gaps
+- <what you could not check, and why>
+\`\`\``;
+const verify = (r) => `## The task
+
+${r.intro ?? "These claims were taken off the site's pages because no one had checked them. For each, find a reliable source and read it. If the claim holds, write the sentence that puts it back, with its source. If the source says something different, write the corrected sentence. If you cannot find it, say so: it stays off the page."} Apply rules 1–8 above as a checker. Read each page first (its URL is given; its text is also in the repository under src/content/), so the new text fits the section it goes into.
+
+${itemList(r)}
+
+## Report format
+
+${checkFormat('Claim')}`;
+const sourcesTask = (r) => `## The task
+
+${r.intro ?? "Each sentence below rests on a popular or secondary source: Wikipedia, AntWiki, NASA StarChild (a children's site), Universe Today, News-Medical, KQED and similar. For each, find and read the primary source behind it: the peer-reviewed paper, the official dataset, the scholarly book or edition, or the classical text itself. Then confirm, correct or narrow the sentence."} Keep each claim's strength label honest ([Established], [Moderate], [Mixed], [Debated]); if the primary source is weaker than the sentence suggests, say so. Read each page first (its URL is given).
+
+${itemList(r)}
+
+## Report format
+
+${checkFormat('Sentence')}`;
+// Where each page's current English lives: the newest research file with its section.
+const researchFiles = fs
+  .readdirSync(P('docs/research'))
+  .filter((f) => /^(0[7-9]|[1-9]\d)-.*\.md$/.test(f))
+  .sort()
+  .reverse();
+const englishOf = (id) => {
+  for (const f of researchFiles)
+    if (new RegExp(`^## ${id} — `, 'm').test(read(`docs/research/${f}`))) return `docs/research/${f}`;
+  return null;
+};
+const pageAudit = (r) => `## The task
+
+These deep answers are already live. Check each one line by line, as a checker applying rules 1–8 above: every quotation of a scholar, every figure and date, every attribution ("al-Ghazali says…", "the Hanafis hold…"), every hadith number and grade, and every verse's context (rule 4). Their full text is in this repository: the English research section in the file named below, and the page data under src/content/. List every claim you checked, including the correct ones, so the check is visible.
+
+${r.ids.map((id) => `- ${id} — ${pages[id].title}: ${pages[id].url} (English: the section "## ${id} — " in ${englishOf(id)})`).join('\n')}
+
+## Report format
+
+${checkFormat('Claim')}`;
+const translateRules = read('docs/research/prompts/_translate.md').replace(/^<!--[\s\S]*?-->\s*/, '');
+const translate = (r) => `${translateRules.trim()}
+
+## The task
+
+Translate these pages into Turkish, one file per page. The English to translate is the page's section in the research file named next to it, from its "## …" line up to the next "## " line or "---" (leave out "### Sources read"). Save each page as **docs/research/tr/<page id>.md** (for example docs/research/tr/${r.ids[0]}.md).
+
+${r.ids.map((id) => `- **${id}** — ${pages[id].title} · Turkish title on the site: "${pages[id].trTitle}" · English: the section "## ${id} — " in ${englishOf(id)}`).join('\n')}
+
+Each file starts with its "## <id> — <Turkish title>" line and keeps every heading as rule 7 says.`;
 const content = (r) => `## The task
 
 Write the new, deeper version of each page below, in the report format at the end. The site already has these pages; readers found them too short or too vague. Read each current page first: keep what is correct and sourced, fix what is not (and list the fix under "Corrections to the current pages"), and answer what readers found missing.
@@ -318,21 +588,22 @@ const readme = [];
 for (const r of runs) {
   const body = `# Run ${r.n} — ${r.title}
 
-**Save the report as:** \`${output(r)}\`
+**Save ${r.kind === 'translate' ? 'the translations' : 'the report'} as:** \`${output(r)}\`
 **Why this run comes here:** ${r.why}
 
 Copy everything below the line into the deep-research tool, with deep research turned on.
 
 ---
 
-${rules.trim()}
+${r.kind === 'translate' ? translate(r).trim() : rules.trim()}
 
-${(r.kind === 'audit' ? audit(r) : content(r)).trim()}
-`;
+${r.kind === 'translate' ? '' : (r.kind === 'audit' ? audit(r) : r.kind === 'verify' ? verify(r) : r.kind === 'sources' ? sourcesTask(r) : r.kind === 'pageaudit' ? pageAudit(r) : content(r)).trim()}
+`.replace(/\n{3,}$/, '\n');
   const file = `docs/research/prompts/run-${nn(r.n)}-${r.slug}.md`;
   fs.writeFileSync(P(file), body);
+  const ids = r.ids ?? Object.keys(itemsOf(r));
   readme.push(
-    `| ${r.n} | [${r.title}](run-${nn(r.n)}-${r.slug}.md) | ${r.ids.join(', ')}${r.scan ? ' (+ scan of M1–M15)' : ''} | \`${output(r)}\` |`,
+    `| ${r.n} | [${r.title}](run-${nn(r.n)}-${r.slug}.md) | ${r.items ? `${ids.length} pages` : ids.join(', ')}${r.scan ? ' (+ scan of M1–M15)' : ''} | \`${output(r)}\` |`,
   );
   console.log('wrote', file, `(${body.split(/\s+/).length} words)`);
 }

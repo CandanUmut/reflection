@@ -17,3 +17,26 @@
 | 14 | [Reflect III](run-14-reflect-3.md) | S17, S18, S19, S20, S21, S22, S23, S24, S25 | `docs/research/34-run14-reflect-3.md` |
 | 15 | [Ask — religious people and sects](run-15-ask-community.md) | Q18, Q19 | `docs/research/35-run15-ask-community.md` |
 | 16 | [Reflect IV](run-16-reflect-4.md) | S26, S27, S28, S29, S30, S31, S32, S33 | `docs/research/36-run16-reflect-4.md` |
+| 17 | [Check the claims taken off the pages](run-17-verify-removed-claims.md) | 49 pages | `docs/research/audits/run-17-verify-removed-claims.md` |
+| 18 | [Primary sources for Ask](run-18-primary-sources-ask.md) | 19 pages | `docs/research/audits/run-18-primary-sources-ask.md` |
+| 19 | [Primary sources for Reflect and Live](run-19-primary-sources-reflect-live.md) | 14 pages | `docs/research/audits/run-19-primary-sources-reflect-live.md` |
+| 20 | [Scholars quoted from their own books](run-20-scholars-from-their-books.md) | 24 pages | `docs/research/audits/run-20-scholars-from-their-books.md` |
+| 21 | [What the Ask pages have not yet consulted](run-21-not-yet-consulted-ask.md) | 34 pages | `docs/research/audits/run-21-not-yet-consulted-ask.md` |
+| 22 | [What the Reflect and Live pages have not yet consulted](run-22-not-yet-consulted-reflect-live.md) | 26 pages | `docs/research/audits/run-22-not-yet-consulted-reflect-live.md` |
+| 23 | [Line-by-line check of the earlier deep Ask answers](run-23-audit-older-ask.md) | Q1, Q7, Q13, Q14, Q31 | `docs/research/audits/run-23-audit-older-ask.md` |
+| 24 | [Deepen the shortest Reflect pages (A)](run-24-deepen-reflect-a.md) | S25, S23, S19, S15, S22, S24, S21, S18 | `docs/research/44-run24-deepen-reflect-a.md` |
+| 25 | [Deepen the shortest Reflect pages (B)](run-25-deepen-reflect-b.md) | S12, S14, S10, S13, S2, S17, S11, S16 | `docs/research/45-run25-deepen-reflect-b.md` |
+| 26 | [Deepen the shortest Live pages](run-26-deepen-live.md) | M7, M6, M11 | `docs/research/46-run26-deepen-live.md` |
+| 27 | [Turkish 1 of 13](run-27-tr-01.md) | Q3, Q32, Q28, Q36, Q29 | `docs/research/tr/<page id>.md, one file per page` |
+| 28 | [Turkish 2 of 13](run-28-tr-02.md) | Q33, Q34, Q26, Q20 | `docs/research/tr/<page id>.md, one file per page` |
+| 29 | [Turkish 3 of 13](run-29-tr-03.md) | Q21, Q22, Q25, Q6 | `docs/research/tr/<page id>.md, one file per page` |
+| 30 | [Turkish 4 of 13](run-30-tr-04.md) | Q23, Q24, Q8, Q38, Q15 | `docs/research/tr/<page id>.md, one file per page` |
+| 31 | [Turkish 5 of 13](run-31-tr-05.md) | Q16, Q7, Q13, Q14, Q31, M1, M2 | `docs/research/tr/<page id>.md, one file per page` |
+| 32 | [Turkish 6 of 13](run-32-tr-06.md) | M3, M4, M5, M6, M7, M8, M9, M10, M11 | `docs/research/tr/<page id>.md, one file per page` |
+| 33 | [Turkish 7 of 13](run-33-tr-07.md) | M12, M13, M14, M15, Q27, Q4, Q11 | `docs/research/tr/<page id>.md, one file per page` |
+| 34 | [Turkish 8 of 13](run-34-tr-08.md) | Q12, Q2, Q5, Q17, Q30 | `docs/research/tr/<page id>.md, one file per page` |
+| 35 | [Turkish 9 of 13](run-35-tr-09.md) | Q37, Q35, Q10, Q9, Q18 | `docs/research/tr/<page id>.md, one file per page` |
+| 36 | [Turkish 10 of 13](run-36-tr-10.md) | Q19, S1, S2, S3, S4, S5, S6 | `docs/research/tr/<page id>.md, one file per page` |
+| 37 | [Turkish 11 of 13](run-37-tr-11.md) | S7, S8, S9, S10, S11, S12, S13, S14, S15, S16, S17 | `docs/research/tr/<page id>.md, one file per page` |
+| 38 | [Turkish 12 of 13](run-38-tr-12.md) | S18, S19, S20, S21, S22, S23, S24, S25, S26, S27, S28 | `docs/research/tr/<page id>.md, one file per page` |
+| 39 | [Turkish 13 of 13](run-39-tr-13.md) | S29, S30, S31, S32, S33 | `docs/research/tr/<page id>.md, one file per page` |

@@ -2,7 +2,22 @@
 
 Sixteen runs, highest impact first. Each prompt file stands alone: the shared rules, the run's pages with their live URLs, what readers found missing, and the exact report format.
 
-## For Umut: one run at a time
+## For Umut: the message for the agent
+The agent has access to the repository, so the message can be one line:
+
+> Read docs/research/prompts/AGENT.md in candanumut/reflection, then do run 17.
+
+Change only the number for later runs. For a run the agent could not finish: "Continue run 17".
+
+## Runs 17–39 (November 2026)
+- **17–19:** check the claims taken off the pages, and replace popular sources with primary ones.
+- **20:** scholars quoted from their own books, not from Q&A websites.
+- **21–22:** read what the pages say "has not yet been consulted".
+- **23:** a line-by-line check of the earlier deep Ask answers.
+- **24–26:** deepen the shortest Reflect and Live pages.
+- **27–39:** the Turkish translation, in 13 batches of about 10,000–12,000 words, with its own rules (`_translate.md`).
+
+## By hand: one run at a time
 1. Open the next run in the table below (`run-NN-….md`).
 2. Copy everything below the line `---` into the deep-research tool, with deep research turned on.
 3. Save the report **unchanged** at the path the prompt names, at the top under "Save the report as". Upload it to the repository on any branch, or paste it to Claude.
@@ -48,6 +63,8 @@ The full table, with pages and file names, is in [runs.md](runs.md).
 - `_rules.md`: the shared rules. Each one comes from a real mistake on this site.
 - `_formats.md`: the three report formats (Ask, Live, Reflect). The heading names must stay exact.
 - `runs.md`: the table of runs (generated).
+- `AGENT.md`: the workflow for the research agent (branch, files, status, pull request).
+- `_translate.md`: the rules for the translation runs.
 - `status.md`: which runs are done. The research agent sets "Report in", and Claude sets "On the site".
 - `run-NN-*.md`: the prompts (generated).
 - `TRANSLATE-TR.md`: Turkish translation of a converted page.
