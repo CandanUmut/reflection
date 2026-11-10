@@ -42,6 +42,6 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 | 34 | [Turkish 8 of 13](run-34-tr-08.md) | Not started | | | |
 | 35 | [Turkish 9 of 13](run-35-tr-09.md) | Not started | | | |
 | 36 | [Turkish 10 of 13](run-36-tr-10.md) | Not started | | | |
-| 37 | [Turkish 11 of 13](run-37-tr-11.md) | Not started | | | |
+| 37 | [Turkish 11 of 13](run-37-tr-11.md) | Translated | 2026-11-10 | PRLINK | By Claude: S7–S17 in docs/research/tr/; Elmalılı text checked automatically; structure checked against the English; open points in each file's "Notes for Claude" |
 | 38 | [Turkish 12 of 13](run-38-tr-12.md) | Not started | | | |
 | 39 | [Turkish 13 of 13](run-39-tr-13.md) | Not started | | | |
