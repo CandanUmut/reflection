@@ -29,7 +29,7 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 | 21 | [What the Ask pages have not yet consulted](run-21-not-yet-consulted-ask.md) | Not started | | | |
 | 22 | [What the Reflect and Live pages have not yet consulted](run-22-not-yet-consulted-reflect-live.md) | Not started | | | |
 | 23 | [Line-by-line check of the earlier deep Ask answers](run-23-audit-older-ask.md) | Not started | | | |
-| 24 | [Deepen the shortest Reflect pages (A)](run-24-deepen-reflect-a.md) | Report in | 2026-11-10 | PRLINK | Written by Claude: all 8 pages (S25, S23, S19, S15, S22, S24, S21, S18); al-Tabari and al-Qurtubi added from the Arabic; science from primary or official sources; 68 Quran quotes checked; al-Razi still not read; see Corrections and Gaps |
+| 24 | [Deepen the shortest Reflect pages (A)](run-24-deepen-reflect-a.md) | Report in | 2026-11-10 | [#32](https://github.com/CandanUmut/reflection/pull/32) | Written by Claude: all 8 pages (S25, S23, S19, S15, S22, S24, S21, S18); al-Tabari and al-Qurtubi added from the Arabic; science from primary or official sources; 68 Quran quotes checked; al-Razi still not read; see Corrections and Gaps |
 | 25 | [Deepen the shortest Reflect pages (B)](run-25-deepen-reflect-b.md) | Not started | | | |
 | 26 | [Deepen the shortest Live pages](run-26-deepen-live.md) | Not started | | | |
 | 27 | [Turkish 1 of 13](run-27-tr-01.md) | Not started | | | |
