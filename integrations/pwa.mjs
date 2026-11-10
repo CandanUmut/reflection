@@ -12,7 +12,7 @@
 // and assets. Pages and assets survive updates, so what was read stays readable
 // offline; asset names are hashed, so old pages keep finding their own files.
 import { createHash } from 'node:crypto';
-import { readFileSync, writeFileSync, existsSync } from 'node:fs';
+import { readFileSync, writeFileSync, existsSync, readdirSync, statSync } from 'node:fs';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
 
@@ -56,6 +56,34 @@ export default function pwa() {
         const files = [...assets].sort();
         const version = hash.digest('hex').slice(0, 12);
         writeFileSync(path.join(out, 'sw.js'), sw(version, base, shell, files));
+        // The list behind "Save all pages for offline reading" (garden page): every
+        // page of each language, the scripts and fonts they use, and their sizes.
+        const all = { version, langs: {}, assets: [], assetBytes: 0 };
+        const used = new Set();
+        for (const lang of ['tr', 'en']) {
+          const pages = [];
+          let bytes = 0;
+          const walk = (dir) => {
+            for (const name of readdirSync(dir)) {
+              const p = path.join(dir, name);
+              if (statSync(p).isDirectory()) walk(p);
+              else if (name === 'index.html') {
+                const html = readFileSync(p, 'utf8');
+                bytes += Buffer.byteLength(html);
+                pages.push(base + path.relative(out, path.dirname(p)).split(path.sep).join('/') + '/');
+                for (const m of html.matchAll(/["'(]((?:\/[^"'()\s]*)?\/_astro\/[^"'()\s]+)["')]/g)) used.add(m[1]);
+              }
+            }
+          };
+          walk(path.join(out, lang));
+          all.langs[lang] = { pages: pages.sort(), bytes };
+        }
+        all.assets = [...used].sort();
+        all.assetBytes = all.assets.reduce((n, a) => {
+          const f = path.join(out, a.slice(base.length));
+          return n + (existsSync(f) ? statSync(f).size : 0);
+        }, 0);
+        writeFileSync(path.join(out, 'offline-manifest.json'), JSON.stringify(all));
         console.log(`pwa: sw.js (${version}), ${shell.length} pages and ${files.length} assets precached`);
       },
     },
@@ -92,19 +120,28 @@ self.addEventListener('fetch', (event) => {
   const url = new URL(req.url);
   if (req.method !== 'GET' || url.origin !== location.origin || !url.pathname.startsWith(BASE)) return;
 
+  // Saving a copy is wrapped in event.waitUntil: without it, iOS Safari may stop the
+  // worker before the copy is written, and the page is never available offline.
+  const keep = (cache, res) => {
+    if (res.ok && !res.redirected) {
+      const copy = res.clone();
+      event.waitUntil(caches.open(cache).then((c) => c.put(req, copy)));
+    }
+    return res;
+  };
+  // Never answer with nothing: Safari treats an empty answer as an error.
+  const orError = (hit) => hit || Response.error();
+
   if (req.mode === 'navigate') {
     // Pages: the latest when online; the saved copy, or the offline page, when not.
     event.respondWith(
       fetch(req)
-        .then((res) => {
-          if (res.ok) {
-            const copy = res.clone();
-            caches.open(PAGES).then((c) => c.put(req, copy));
-          }
-          return res;
-        })
+        .then((res) => keep(PAGES, res))
         .catch(() =>
-          caches.match(req, { ignoreSearch: true }).then((hit) => hit || caches.match(BASE + 'offline/')),
+          caches
+            .match(req, { ignoreSearch: true })
+            .then((hit) => hit || caches.match(BASE + 'offline/'))
+            .then(orError),
         ),
     );
     return;
@@ -112,23 +149,13 @@ self.addEventListener('fetch', (event) => {
 
   // Icons, the manifest and other unhashed files: fresh when online, saved copy offline.
   if (!url.pathname.startsWith(BASE + '_astro/')) {
-    event.respondWith(fetch(req).catch(() => caches.match(req)));
+    event.respondWith(fetch(req).catch(() => caches.match(req).then(orError)));
     return;
   }
 
   // Scripts and fonts in _astro/: their names change when their content does.
   event.respondWith(
-    caches.match(req).then(
-      (hit) =>
-        hit ||
-        fetch(req).then((res) => {
-          if (res.ok) {
-            const copy = res.clone();
-            caches.open(ASSETS).then((c) => c.put(req, copy));
-          }
-          return res;
-        }),
-    ),
+    caches.match(req).then((hit) => hit || fetch(req).then((res) => keep(ASSETS, res))),
   );
 });
 `;
