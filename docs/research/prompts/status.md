@@ -34,7 +34,7 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 | 26 | [Deepen the shortest Live pages](run-26-deepen-live.md) | Not started | | | |
 | 27 | [Turkish 1 of 13](run-27-tr-01.md) | Not started | | | |
 | 28 | [Turkish 2 of 13](run-28-tr-02.md) | Not started | | | |
-| 29 | [Turkish 3 of 13](run-29-tr-03.md) | Translated | 2026-11-09 | PRLINK | By Claude: Q21, Q22, Q25, Q6 in docs/research/tr/; Elmalılı text checked automatically; structure checked against the English; open points in each file's "Notes for Claude" |
+| 29 | [Turkish 3 of 13](run-29-tr-03.md) | Translated | 2026-11-09 | [#37](https://github.com/CandanUmut/reflection/pull/37) | By Claude: Q21, Q22, Q25, Q6 in docs/research/tr/; Elmalılı text checked automatically; structure checked against the English; open points in each file's "Notes for Claude" |
 | 30 | [Turkish 4 of 13](run-30-tr-04.md) | Not started | | | |
 | 31 | [Turkish 5 of 13](run-31-tr-05.md) | Not started | | | |
 | 32 | [Turkish 6 of 13](run-32-tr-06.md) | Not started | | | |
