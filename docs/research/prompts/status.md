@@ -40,7 +40,7 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 | 32 | [Turkish 6 of 13](run-32-tr-06.md) | Not started | | | |
 | 33 | [Turkish 7 of 13](run-33-tr-07.md) | Not started | | | |
 | 34 | [Turkish 8 of 13](run-34-tr-08.md) | Not started | | | |
-| 35 | [Turkish 9 of 13](run-35-tr-09.md) | Translated | 2026-11-10 | PRLINK | By Claude: Q37, Q35, Q10, Q9, Q18 in docs/research/tr/; Elmalılı text checked automatically; structure checked against the English; open points in each file's "Notes for Claude" |
+| 35 | [Turkish 9 of 13](run-35-tr-09.md) | Translated | 2026-11-10 | [#43](https://github.com/CandanUmut/reflection/pull/43) | By Claude: Q37, Q35, Q10, Q9, Q18 in docs/research/tr/; Elmalılı text checked automatically; structure checked against the English; open points in each file's "Notes for Claude" |
 | 36 | [Turkish 10 of 13](run-36-tr-10.md) | Not started | | | |
 | 37 | [Turkish 11 of 13](run-37-tr-11.md) | Not started | | | |
 | 38 | [Turkish 12 of 13](run-38-tr-12.md) | Not started | | | |
