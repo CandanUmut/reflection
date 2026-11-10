@@ -25,7 +25,7 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 | 17 | [Check the claims taken off the pages](run-17-verify-removed-claims.md) | Not started | | | |
 | 18 | [Primary sources for Ask](run-18-primary-sources-ask.md) | Not started | | | |
 | 19 | [Primary sources for Reflect and Live](run-19-primary-sources-reflect-live.md) | Not started | | | |
-| 20 | [Scholars quoted from their own books](run-20-scholars-from-their-books.md) | Not started | | | |
+| 20 | [Scholars quoted from their own books](run-20-scholars-from-their-books.md) | Report in (partial) | 2026-11-09 | PRLINK | By Claude, highest-impact items first: Q7, Q24, Q14, Q9, Q10, Q16, S27, M3, Q15, M8, Q20, Q8/Q13, S5; the rest listed as not checked |
 | 21 | [What the Ask pages have not yet consulted](run-21-not-yet-consulted-ask.md) | Not started | | | |
 | 22 | [What the Reflect and Live pages have not yet consulted](run-22-not-yet-consulted-reflect-live.md) | Not started | | | |
 | 23 | [Line-by-line check of the earlier deep Ask answers](run-23-audit-older-ask.md) | Not started | | | |
