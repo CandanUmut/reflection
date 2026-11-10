@@ -1,10 +1,11 @@
-# Run 17 — Check the claims taken off the pages (first pass)
+# Run 17 — Check the claims taken off the pages (two passes)
 
 Checked by Claude directly, 9 November 2026. **This is a partial run, by Umut's choice:** it covers the claims on sensitive pages (Q8, Q16, Q19, Q20, Q22), M10's empty scholars section, and the Reflect-page claims, which were already checked when the run was narrowed. The other claims are listed at the end under "Not checked in this pass". Every claim below is currently **off** the pages; "Confirmed" or "Corrected" means it can go back with the new text and source.
 
 **Summary for Umut.**
 - **Can go back now (M10's empty section):** al-Qurtubi on 4:36 says plainly that kindness to neighbours is commanded "whether Muslim or non-believer", reports the "forty houses" saying (with no chain given), and gives the hadith of the three kinds of neighbour, in which the non-Muslim neighbour has the right of neighbourhood. That fills the section with a primary source.
 - **Can go back, corrected:** Ibn Taymiyya on the 72 sects (from his own *Majmūʿ al-Fatāwā*); the "disagreement is a mercy" saying (al-Sakhawi: many imams said it has no basis); and nine Reflect claims, most with a better source than before.
+- **Second pass (same day):** can go back — the Birmingham sample number OxA-29418 (Q4); "Religion is sincere counsel" (Muslim 55, Q18); al-Ghazali's six inner meanings of prayer (Q10); al-Tahawi's "the decree is Allah's secret" (Q2); the Quran's verses on family reunion in Paradise (Q30); the Hanafi *ʿiṣma bi-l-ādamiyya* (M7); 7:12 (M11); kindness and giving research (Curry 2018; Dunn 2008, M8); forgiveness research (Wade 2014; *Child Development* 2022, M6); narcissism and aggression (M11). Corrected — Ibn ʿAbbas did not gloss 51:56 as "to know Me" in the sources read (Q9); the 13:4 "choosing Creator" argument is in Ibn Kathir and al-Qurtubi, not shown for al-Razi (S27); classical *khalīfa* readings (M12). The "earth was shaking" report is weak (Tirmidhi 3369; al-Albani: *ḍaʿīf*), S16.
 - **Stay off:** the Q8 scrupulosity percentages (no source found; the one Turkish study read gives no percentages), the "400 and 40" Banu Qurayza figures, the Diyanet "not consistent with our faith" quotation, al-Ghazali on neighbours, and the bee's "1/12 teaspoon" (only a popular source).
 
 ---
@@ -216,8 +217,135 @@ Checked by Claude directly, 9 November 2026. **This is a partial run, by Umut's 
 
 ---
 
+---
+
+# Second pass (9 November 2026)
+
+## Q4 — Birmingham lab sample number
+- **Claim:** The Oxford lab sample number is OxA-29418 (taken off the page because it was not found in the source read).
+  **Section:** history
+  **Verdict:** Confirmed
+  **Source:** University of Birmingham, Cadbury Research Library, "Birmingham Qur'an — FAQs": "OxA-29418 Parchment, MS1572 Cadbury Research Library, d13C=-21.04 1456 ± 21 BP"; "568 (95.4%) 645 calAD".
+  **New text:** The University of Oxford's radiocarbon laboratory (sample OxA-29418) dated the parchment to 1456 ± 21 years before 1950: 568–645 CE with 95.4% probability (University of Birmingham). (See run 18: the page's "1465" should be "1456".)
+
+## Q9 — "to worship Me" (51:56)
+- **Claim:** Ibn ʿAbbas, via al-Tabari, glossed "to worship Me" as "to know Me".
+  **Section:** scholars — How the commentators read "to worship Me"
+  **Verdict:** Corrected (al-Tabari not read; Ibn ʿAbbas's gloss in two other commentaries is different)
+  **Source:** Ibn Kathir on 51:56 (abridged English, quran.com), from ʿAli ibn Abi Talha, from Ibn ʿAbbas: "So that they worship Me, willingly or unwillingly." Ibn ʿAtiyya, *al-Muḥarrar al-Wajīz* on 51:56 (quran-tafsir.net): Ibn ʿAbbas and ʿAli: «وليقروا لي بالعبودية» ("and to acknowledge their servanthood to Me"); Ibn ʿAbbas: «ليتذللوا لي ولقدرتي» ("to humble themselves before Me and My power"). Neither gives "to know Me" from Ibn ʿAbbas.
+  **New text:** Ibn ʿAbbas, as reported by Ibn Kathir, read "to worship Me" as "so that they worship Me, willingly or unwillingly"; Ibn ʿAtiyya reports him as saying "to acknowledge their servanthood to Me". (The reading "to know Me" is credited elsewhere on the site to Mujahid; do not credit it to Ibn ʿAbbas.)
+
+## Q10 — al-Ghazali's inner meanings of prayer
+- **Claim:** al-Ghazali's *Asrār al-Ṣalāt* (in the *Iḥyāʾ*) gives six inner meanings of prayer — presence, understanding, reverence, awe, hope and shame.
+  **Section:** scholars
+  **Verdict:** Confirmed
+  **Source:** al-Ghazali, *Iḥyāʾ ʿUlūm al-Dīn*, "States conducive to perfecting the life in prayer", abridged by ʿAbd al-Salam Harun, trans. Ahmad A. Zidan (2001), as posted on islamqa.org: "they are well summed up in six words, namely: awareness; understanding; reverence; awe; hope; shame."
+  **New text:** Al-Ghazali sums up the inner life of prayer "in six words": awareness (presence of the heart), understanding, reverence, awe, hope and shame (*Iḥyāʾ*, Book 4, *Asrār al-Ṣalāt*, trans. Zidan).
+
+## Q18 — "Religion is sincere counsel"
+- **Claim:** The hadith "Religion is sincere counsel", including to "the leaders of the Muslims" (Muslim 55); it could not be opened.
+  **Section:** sunnah — What the Prophet (pbuh) taught
+  **Verdict:** Confirmed
+  **Source:** Sahih Muslim 55 (en.tohed.com; sunnah.com could not be reached), from Tamim al-Dari: "Al-Din is a name of sincerity and well wishing" — "For Allah, His Book, His Messenger and for the leaders and the general Muslims." It is in *Ṣaḥīḥ Muslim*.
+  **New text:** The Prophet (pbuh) said that religion is sincere good will (*naṣīḥa*): "For Allah, His Book, His Messenger and for the leaders and the general Muslims" ({hadith:muslim:55}). Sincere counsel to leaders is part of the religion, not disloyalty to it.
+
+## Q19 — additions to the first pass
+- **Claim:** Ibn Taymiyya held that the 72 are not thereby unbelievers (confirmed in the first pass from *Majmūʿ al-Fatāwā* 3/351).
+  **Section:** sunnah — The 73-sects hadith
+  **Verdict:** Confirmed, with a qualification that the page should keep
+  **Source:** Abdallah, *AFKAR* 7 (2006) 35–62, translating Ibn Taymiyya's answer on the hadith (*Kutub wa Rasāʾil wa Fatāwā Ibn Taymiyya fī-l-ʿAqīda*, ed. al-Najdi, 3/345–362): "Some of the deviant innovators are hypocrite heretics (zandaqa). These are infidels without any doubt"; "Among sectarian innovators (Ahl al-Bid'a), however, there are some who have strong Iman"; "Such people are neither hypocrites nor infidels."
+  **New text:** add after the first-pass text: He did not excuse everyone: some innovators, he wrote, are hidden heretics and so unbelievers, but others "have strong Iman" and "are neither hypocrites nor infidels" (trans. Abdallah, 2006).
+- **Claim:** al-Baghdadi's *al-Farq bayna al-firaq* forced known sects into the number (Gömbeyaz, 2018).
+  **Section:** sunnah
+  **Verdict:** Partly confirmed (first pass: not found)
+  **Source:** Abdallah 2006: "His al-Farq bayna al-Firaq has been used as the primary source for most works in this genre"; al-Baghdadi made the hadith the basis of his first chapter and judged it *ṣaḥīḥ*. Gömbeyaz (2018) still not read, so "forced… into the number" is not confirmed.
+  **New text:** Al-Baghdadi (d. 1037) built his *al-Farq bayna al-firaq*, the main source for later books on sects, around this hadith, starting from its first chapter (Abdallah, 2006).
+
+## M7 — inviolability by being human
+- **Claim:** The Hanafi principle that a person is protected (*maʿṣūm*) by being human (*bi-l-ādamiyya*).
+  **Section:** scholars
+  **Verdict:** Confirmed (secondary source)
+  **Source:** Recep Şentürk, "Adamiyyah (Humanity) and ʿIsmah (Inviolability): Humanity as the Ground for Universal Human Rights in Islamic Law", in *The Islamic Tradition and the Human Rights Discourse* (Atlantic Council; file posted September 2018): "the right to inviolability (Ismah) is due for humanity (adamiyyah)"; "All Hanafi jurists uphold this perspective"; it names Abu Hanifa as founder. No Hanafi primary text was read; Ibn ʿAshur and Jasser Auda were not checked.
+  **New text:** Many Hanafi jurists held that a person's inviolability — of life, property, religion, mind, family and honour — comes from simply being human (*ʿiṣma bi-l-ādamiyya*), not from religion (Şentürk).
+
+## M12 — *khalīfa* (2:30)
+- **Claim:** Classical tafsir mostly read *khalīfa* as succession of generations or as ruling with justice; "stewardship of the earth" is a modern reading.
+  **Section:** scholars
+  **Verdict:** Corrected (partly confirmed)
+  **Source:** Han Hsien Liew, "Sunni Tafsīr Commentaries on the Qurʾanic Term Khalīfah", *Arabica* 63 (2016) 1–29, as summarised by the author (IQSA blog, 14 March 2016): early exegetes (Mujahid, Muqatil, Sufyan al-Thawri, per Wadad al-Qadi) took it as humankind replacing the jinn or angels; al-Tabari: "the supreme ruler… is called khalīfah, because he replaces the one who was before him"; Ibn Kathir inclines to "humankind in general"; al-Razi and al-Qurtubi stress Adam as *khalīfat Allāh*, "deputy of God", and al-Qurtubi makes the verse "the basis for the appointment of an imam". The summary does not discuss "stewardship". 2:30 (Saheeh): "Indeed, I will make upon the earth a successive authority."
+  **New text:** Early commentators read *khalīfa* (2:30, "a successive authority") as humankind succeeding earlier beings on earth; al-Tabari explains it as one who "replaces the one who was before him"; later, al-Razi and al-Qurtubi read it as God's deputy who carries out His law (Liew, *Arabica*, 2016). (Keep "stewardship of the earth is a modern reading" off until a source says so.)
+
+## S16 — the earth "moving" before the mountains
+- **Claim:** Some classical reports describe the earth as at first moving until God fixed it with mountains.
+  **Section:** Honest notes
+  **Verdict:** Confirmed that the report exists; it is weak
+  **Source:** Jamiʿ al-Tirmidhi 3369 (hadithunlocked.com), from Anas ibn Malik: "When Allah created the earth, it started shaking. So He created the mountains…"; al-Tirmidhi: «هذا حديث غريب»; al-Albani: *ḍaʿīf* (weak); ʿAli Zaʾi: *ḥasan*. Ibn Kathir on 16:15 says only that mountains "make it stable and keep it from shaking". 16:15 (Saheeh): "firmly set mountains, lest it shift with you".
+  **New text:** A report in al-Tirmidhi (3369) says that when God created the earth "it started shaking", and He then created the mountains; al-Tirmidhi calls it *gharīb* (known by one route only), and al-Albani grades it weak. Nothing on this page rests on it.
+
+## S27 — "watered with one water" (13:4)
+- **Claim:** al-Rāzī uses this verse as a key argument for a choosing Creator.
+  **Section:** Honest notes
+  **Verdict:** Corrected (al-Razi not read; Ibn Kathir and al-Qurtubi make the argument)
+  **Source:** Ibn Kathir on 13:4 (quran.ksu.edu.sa): «وهذا من أعظم الدلالات على الفاعل المختار، الذي بقدرته فاوت بين الأشياء» ("this is among the greatest proofs of the Agent who chooses, who by His power made things differ"). al-Qurtubi on 13:4: «وهذا أدل دليل على بطلان القول بالطبع»; «إذ لو كان ذلك بالماء والتراب والفاعل له الطبيعة لما وقع الاختلاف» ("if it were from water and soil, with nature as the agent, the difference would not occur"). al-Razi's *Mafātīḥ al-Ghayb* could not be opened.
+  **New text:** Ibn Kathir calls the verse "among the greatest proofs of the Agent who chooses", and al-Qurtubi argues that if water, soil and nature alone were at work, plants watered with the same water would not differ. (Al-Razi's commentary was not read.)
+
+## M6 — forgiveness research
+- **Claim:** "Wade et al. (2014) found Δ = 0.56…" and "A 2022 *Child Development* meta-analysis found… g = 0.29".
+  **Section:** research
+  **Verdict:** Confirmed for the 2022 figure (anger), with its forgiveness figure added; Wade's exact Δ not found
+  **Source:** *Child Development* (2022) meta-analysis of forgiveness education (PubMed 35452524): "20 studies involving 1472 youth"; forgiveness "g = 0.54, 95% CI [0.36, 0.73]"; anger "g = 0.29, 95% CI [0.11, 0.47]" (author names not shown on the page read). Wade, Hoyt, Kidwell & Worthington, *J Consult Clin Psychol* 82(1):154–170 (2014), as reported by VanderWeele (*AJPH* 108(2), 2018): "54 intervention studies", "a fairly sizable average effect", effects on "decreasing depression and anxiety" and "increasing hope"; and by Toussaint et al. (*Frontiers in Psychology* 11:671, 2020): between-condition differences in forgiveness "of about 0.5", with effects rising with hours of intervention.
+  **New text:** A 2014 meta-analysis of 54 studies found that forgiveness interventions raised forgiveness by about half a standard deviation more than other treatments or no treatment, and also reduced depression and anxiety (Wade et al., 2014, as reported by VanderWeele, 2018, and Toussaint et al., 2020). In children and teenagers, forgiveness education in 20 studies (1,472 young people) raised forgiveness (g = 0.54) and lowered anger (g = 0.29) (*Child Development*, 2022).
+
+## M8 — kindness and giving
+- **Claim:** A meta-analysis of kindness experiments (Curry et al., 2018) and prosocial-spending studies (Dunn et al.).
+  **Section:** research
+  **Verdict:** Confirmed
+  **Source:** Curry, Rowland, Van Lissa, Zlotowitz, McAlaney & Whitehouse, "Happy to help?", *Journal of Experimental Social Psychology* 76 (2018) 320–329 (ora.ox.ac.uk): "24 (27 studies) met the inclusion criteria (total N = 4045)"; "the overall effect of kindness on the well-being of the actor is small-to-medium (δ = 0.28)"; "There was no indication of publication bias." Dunn, Aknin & Norton, "Spending money on others promotes happiness", *Science* 319 (2008) 1687–1688: spending on others "predicted greater happiness both cross-sectionally… and longitudinally"; "participants who were randomly assigned to spend money on others experienced greater happiness".
+  **New text:** In 27 experiments with 4,045 people, acts of kindness raised the doer's own well-being by a small-to-medium amount (δ = 0.28) (Curry et al., 2018). People who were randomly asked to spend money on others were happier than those asked to spend it on themselves (Dunn, Aknin & Norton, *Science*, 2008).
+
+## M11 — pride
+- **Claim:** Iblis's refusal to bow, claiming to be better than Adam (7:12), as the first example of *kibr*.
+  **Section:** scholars
+  **Verdict:** Confirmed (verse text)
+  **Source:** 7:12 (Saheeh International, Tanzil): "[Allah] said, 'What prevented you from prostrating when I commanded you?' [Satan] said, 'I am better than him. You created me from fire and created him from clay.'"
+  **New text:** The Quran's first example of pride is Iblis: "I am better than him. You created me from fire and created him from clay" (7:12). (Calling it "the classical first example" needs a named scholar; al-Ghazali's Book 29 was not read.)
+
+- **Claim:** al-Ghazali's list of what people take pride in — knowledge, worship, lineage, beauty, wealth, strength, followers (*Iḥyāʾ*, Book 29).
+  **Section:** scholars
+  **Verdict:** Not found (only partly visible in a review)
+  **Source:** Jules Janssens, review of Mohammed Rustom's translation of Book 29, *Ilahiyat Studies* 11(2) (2020) 319–323: mentions "pride because of lineage and noble descent" and pride in knowledge; no full list.
+  **New text:** none until Book 29 itself is read.
+
+- **Claim:** Narcissism and aggression (research).
+  **Section:** research
+  **Verdict:** Confirmed (press release of a meta-analysis)
+  **Source:** Ohio State University news (2021) on Kjærvik & Bushman, *Psychological Bulletin* (2021): "437 independent studies with a total of 123,043 participants"; narcissism "a significant risk factor for aggressive and violent behavior across the board"; "provocation is a key moderator". No effect size in the release. Humble-leadership studies: not checked.
+  **New text:** A review of 437 studies (123,043 people) found narcissism to be "a significant risk factor for aggressive and violent behavior", especially when the person feels provoked (Kjærvik & Bushman, *Psychological Bulletin*, 2021, as reported by Ohio State University).
+
+## Q2 — the decree as a "secret"
+- **Claim:** the tradition itself calls *qadar* a secret (*sirr*) not fully open to the mind.
+  **Section:** reasoning
+  **Verdict:** Confirmed (named source)
+  **Source:** al-Tahawi (d. 933), *al-ʿAqīda al-Ṭaḥāwiyya*, art. 45 (English translation, Zamzam Academy; translator not named): "The exact nature of the decree is Allah's secret in His creation"; "Delving into it and reflecting too much about it only leads to destruction and loss".
+  **New text:** The creed of al-Tahawi (d. 933), a short statement of Sunni belief, says: "The exact nature of the decree is Allah's secret in His creation", and warns against "delving into it" too far (art. 45).
+
+## Q30 — reunion with family
+- **Claim:** The Quran's verses on families joined in Paradise have not yet been consulted from verified data.
+  **Section:** quran
+  **Verdict:** Confirmed (verse texts)
+  **Source:** Saheeh International (Tanzil): 52:21 "And those who believed and whose descendants followed them in faith - We will join with them their descendants, and We will not deprive them of anything of their deeds"; 13:23 "Gardens of perpetual residence; they will enter them with whoever were righteous among their fathers, their spouses and their descendants"; 40:8 (the angels' prayer) "and whoever was righteous among their fathers, their spouses and their offspring".
+  **New text:** The Quran promises that believers will be joined by their believing descendants (52:21), and that the righteous among their "fathers, their spouses and their descendants" will enter the Gardens with them (13:23; also the angels' prayer in 40:8). The condition is stated: righteousness, or following "in faith".
+
+## Q12 — critics of "scientific miracles"
+- **Claim:** Amin al-Khuli, Mahmud Shaltut and Nidhal Guessoum criticised this genre.
+  **Section:** scholars
+  **Verdict:** Confirmed for Guessoum (review); al-Khuli and Shaltut not checked
+  **Source:** Ikram Hawramani, review of Guessoum, *Islam's Quantum Question* (hawramani.com, 2019): a "detailed critique of Iʿjāz literature and its supporters", naming Zaghloul El-Naggar among the supporters. The review does not mention al-Khuli or Shaltut.
+  **New text:** The astrophysicist Nidhal Guessoum gives a detailed critique of the "scientific miracles" literature in *Islam's Quantum Question* (2011), as described by Hawramani's review. (Al-Khuli and Shaltut stay off until their texts or a source on them is read.)
+
+
 ## Not checked in this pass
-Left for a later pass, by Umut's choice to focus on the highest-impact items: M1 (al-Shatibi; Arab Barometer), M3, M6 (Wade et al. 2014; *Child Development* 2022), M7, M8 (Curry 2018; Dunn), M9, M11 (al-Ghazali on pride; 7:12; narcissism and humble-leadership studies), M12, M13, M14, M15, Q2, Q4 (OxA-29418), Q5 and Q12 (Guessoum, al-Khuli, Shaltut, al-Jurjani, al-Baqillani, al-Shatibi), Q9, Q10, Q17, Q18, Q24 (Hüseyin Atay), Q29, Q30, Q33 (Griffel; "Cartwright and Mumford treat laws as idealisations"), Q34, Q35, Q37, Q38, S16 (classical "moving earth" reports), S27 (al-Razi).
+Still left: M1 (al-Shatibi; Arab Barometer), M3 (*ḥifẓ al-nasl*; family cohesion), M9, M11 (al-Ghazali's list of things people take pride in; humble-leadership studies), M12 (religion and pro-environmental behaviour), M13, M14, M15, Q5 (Guessoum on evolution), Q12 (al-Khuli, Shaltut, al-Jurjani, al-Baqillani, al-Shatibi), Q9 (Ashʿari/Maturidi on purpose; gratitude research), Q10 (ritual and anxiety research), Q17 (Ibn Sina on the attributes), Q24 (Hüseyin Atay), Q29 (Steger), Q30 (Mutahhari), Q33 (Griffel; Cartwright and Mumford), Q34 (al-Ṭabāṭabāʾī on *amr*), Q35, Q37, Q38.
 
 ---
 ## Gaps
