@@ -31,7 +31,7 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 | 23 | [Line-by-line check of the earlier deep Ask answers](run-23-audit-older-ask.md) | Not started | | | |
 | 24 | [Deepen the shortest Reflect pages (A)](run-24-deepen-reflect-a.md) | Not started | | | |
 | 25 | [Deepen the shortest Reflect pages (B)](run-25-deepen-reflect-b.md) | Not started | | | |
-| 26 | [Deepen the shortest Live pages](run-26-deepen-live.md) | Report in | 2026-11-09 | PRLINK | Written by Claude: M7, M6, M11 in the live format; classical tafsir from the Arabic; hadith with grades; research from primary sources; the four schools on qiṣāṣ and al-Ghazali Books 25 and 29 still not read; see Corrections and Gaps |
+| 26 | [Deepen the shortest Live pages](run-26-deepen-live.md) | Report in | 2026-11-09 | [#34](https://github.com/CandanUmut/reflection/pull/34) | Written by Claude: M7, M6, M11 in the live format; classical tafsir from the Arabic; hadith with grades; research from primary sources; the four schools on qiṣāṣ and al-Ghazali Books 25 and 29 still not read; see Corrections and Gaps |
 | 27 | [Turkish 1 of 13](run-27-tr-01.md) | Not started | | | |
 | 28 | [Turkish 2 of 13](run-28-tr-02.md) | Not started | | | |
 | 29 | [Turkish 3 of 13](run-29-tr-03.md) | Not started | | | |
