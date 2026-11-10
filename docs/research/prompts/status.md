@@ -26,7 +26,7 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 | 18 | [Primary sources for Ask](run-18-primary-sources-ask.md) | Not started | | | |
 | 19 | [Primary sources for Reflect and Live](run-19-primary-sources-reflect-live.md) | Not started | | | |
 | 20 | [Scholars quoted from their own books](run-20-scholars-from-their-books.md) | Not started | | | |
-| 21 | [What the Ask pages have not yet consulted](run-21-not-yet-consulted-ask.md) | Not started | | | |
+| 21 | [What the Ask pages have not yet consulted](run-21-not-yet-consulted-ask.md) | Report in (partial) | 2026-11-09 | PRLINK | By Claude, highest-impact first: Q7, Q23, Q13, Q15, Q8, Q5, Q19, Q20, Q33, Q10; items resolved in runs 17–20 cross-referenced; the rest listed as not checked |
 | 22 | [What the Reflect and Live pages have not yet consulted](run-22-not-yet-consulted-reflect-live.md) | Not started | | | |
 | 23 | [Line-by-line check of the earlier deep Ask answers](run-23-audit-older-ask.md) | Not started | | | |
 | 24 | [Deepen the shortest Reflect pages (A)](run-24-deepen-reflect-a.md) | Not started | | | |
