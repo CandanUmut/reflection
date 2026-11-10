@@ -36,7 +36,7 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 | 28 | [Turkish 2 of 13](run-28-tr-02.md) | Translated | 2026-11-09 | [#36](https://github.com/CandanUmut/reflection/pull/36) | By Claude: Q33, Q34, Q26, Q20 in docs/research/tr/; Elmalılı text checked automatically; structure checked against the English |
 | 29 | [Turkish 3 of 13](run-29-tr-03.md) | Translated | 2026-11-09 | [#37](https://github.com/CandanUmut/reflection/pull/37) | By Claude: Q21, Q22, Q25, Q6 in docs/research/tr/; Elmalılı text checked automatically; structure checked against the English; open points in each file's "Notes for Claude" |
 | 30 | [Turkish 4 of 13](run-30-tr-04.md) | Translated | 2026-11-10 | [#38](https://github.com/CandanUmut/reflection/pull/38) | By Claude: Q23, Q24, Q8, Q38, Q15 in docs/research/tr/; Elmalılı text checked automatically; structure checked against the English; open points in each file's "Notes for Claude" |
-| 31 | [Turkish 5 of 13](run-31-tr-05.md) | Not started | | | |
+| 31 | [Turkish 5 of 13](run-31-tr-05.md) | Translated | 2026-11-10 | [#39](https://github.com/CandanUmut/reflection/pull/39) | By Claude: Q16, Q7, Q13, Q14, Q31, M1, M2 in docs/research/tr/; Elmalılı text checked automatically; structure checked against the English; open points in each file's "Notes for Claude" |
 | 32 | [Turkish 6 of 13](run-32-tr-06.md) | Not started | | | |
 | 33 | [Turkish 7 of 13](run-33-tr-07.md) | Not started | | | |
 | 34 | [Turkish 8 of 13](run-34-tr-08.md) | Not started | | | |
