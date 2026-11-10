@@ -33,7 +33,7 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 | 25 | [Deepen the shortest Reflect pages (B)](run-25-deepen-reflect-b.md) | Report in | 2026-11-09 | [#33](https://github.com/CandanUmut/reflection/pull/33) | Written by Claude: all 8 pages (S12, S14, S10, S13, S2, S17, S11, S16); al-Tabari, al-Qurtubi and al-Saʿdi added from the Arabic; science from primary or official sources; 48 Quran quotes checked; al-Razi still not read; see Corrections and Gaps |
 | 26 | [Deepen the shortest Live pages](run-26-deepen-live.md) | Report in | 2026-11-09 | [#34](https://github.com/CandanUmut/reflection/pull/34) | Written by Claude: M7, M6, M11 in the live format; classical tafsir from the Arabic; hadith with grades; research from primary sources; the four schools on qiṣāṣ and al-Ghazali Books 25 and 29 still not read; see Corrections and Gaps |
 | 27 | [Turkish 1 of 13](run-27-tr-01.md) | Translated | 2026-11-09 | [#35](https://github.com/CandanUmut/reflection/pull/35) | By Claude: Q3, Q32, Q28, Q36, Q29 in docs/research/tr/; Elmalılı text checked automatically; structure checked against the English |
-| 28 | [Turkish 2 of 13](run-28-tr-02.md) | Not started | | | |
+| 28 | [Turkish 2 of 13](run-28-tr-02.md) | Translated | 2026-11-09 | [#36](https://github.com/CandanUmut/reflection/pull/36) | By Claude: Q33, Q34, Q26, Q20 in docs/research/tr/; Elmalılı text checked automatically; structure checked against the English |
 | 29 | [Turkish 3 of 13](run-29-tr-03.md) | Not started | | | |
 | 30 | [Turkish 4 of 13](run-30-tr-04.md) | Not started | | | |
 | 31 | [Turkish 5 of 13](run-31-tr-05.md) | Not started | | | |
