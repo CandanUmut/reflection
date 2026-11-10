@@ -33,7 +33,7 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 | 25 | [Deepen the shortest Reflect pages (B)](run-25-deepen-reflect-b.md) | Not started | | | |
 | 26 | [Deepen the shortest Live pages](run-26-deepen-live.md) | Not started | | | |
 | 27 | [Turkish 1 of 13](run-27-tr-01.md) | Not started | | | |
-| 28 | [Turkish 2 of 13](run-28-tr-02.md) | Not started | | | |
+| 28 | [Turkish 2 of 13](run-28-tr-02.md) | Translated | 2026-11-09 | PRLINK | By Claude: Q33, Q34, Q26, Q20 in docs/research/tr/; Elmalılı text checked automatically; structure checked against the English |
 | 29 | [Turkish 3 of 13](run-29-tr-03.md) | Not started | | | |
 | 30 | [Turkish 4 of 13](run-30-tr-04.md) | Not started | | | |
 | 31 | [Turkish 5 of 13](run-31-tr-05.md) | Not started | | | |
