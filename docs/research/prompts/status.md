@@ -23,12 +23,12 @@ Statuses: **Not started** · **Report in** (the agent opened a pull request with
 | 15 | [Ask — religious people and sects](run-15-ask-community.md) | Report in | 2026-11-04 | [#20](https://github.com/CandanUmut/reflection/pull/20) | Written by Claude directly; 12/12 Quran quotes checked; pages ~2,700–2,850 words; abuse-reporting guidance added; see Corrections and Gaps; independent source check done, 9 must-fix and most smaller fixes applied |
 | 16 | [Reflect IV](run-16-reflect-4.md) | Report in | 2026-11-04 | [#20](https://github.com/CandanUmut/reflection/pull/20) | Written by Claude directly; 25/25 Quran quotes checked; pages ~1,200–2,450 words (S31 below the 1,500 target); al-Rāzī and most of al-Qurṭubī not read; see Corrections and Gaps |
 | 17 | [Check the claims taken off the pages](run-17-verify-removed-claims.md) | Not started | | | |
-| 18 | [Primary sources for Ask](run-18-primary-sources-ask.md) | Not started | | | |
-| 19 | [Primary sources for Reflect and Live](run-19-primary-sources-reflect-live.md) | Not started | | | |
+| 18 | [Primary sources for Ask](run-18-primary-sources-ask.md) | Report in (most items) | 2026-11-09 | [#27](https://github.com/CandanUmut/reflection/pull/27) | Two passes by Claude: Q22, Q21, Q19, Q23, Q24, Q2, Q17, Q4/Q28 and single claims on Q5, Q6, Q18, Q25, Q27, Q29, Q30, Q32, Q37; remaining items listed as not checked |
+| 19 | [Primary sources for Reflect and Live](run-19-primary-sources-reflect-live.md) | Report in | 2026-11-09 | [#28](https://github.com/CandanUmut/reflection/pull/28) | By Claude: all 14 pages; most sentences confirmed from primary or official sources; corrections to S5, S7, S14, S16, S24, S30, S31; unreachable papers listed under Gaps |
 | 20 | [Scholars quoted from their own books](run-20-scholars-from-their-books.md) | Report in (partial) | 2026-11-09 | [#29](https://github.com/CandanUmut/reflection/pull/29) | By Claude, highest-impact items first: Q7, Q24, Q14, Q9, Q10, Q16, S27, M3, Q15, M8, Q20, Q8/Q13, S5; the rest listed as not checked |
 | 21 | [What the Ask pages have not yet consulted](run-21-not-yet-consulted-ask.md) | Not started | | | |
 | 22 | [What the Reflect and Live pages have not yet consulted](run-22-not-yet-consulted-reflect-live.md) | Not started | | | |
-| 23 | [Line-by-line check of the earlier deep Ask answers](run-23-audit-older-ask.md) | Not started | | | |
+| 23 | [Line-by-line check of the earlier deep Ask answers](run-23-audit-older-ask.md) | Report in | 2026-11-09 | [#25](https://github.com/CandanUmut/reflection/pull/25) | Done by Claude directly; 28 corrections or not-found items; Hanafi/Maliki primary texts and Hoover 2019 not read (see Gaps) |
 | 24 | [Deepen the shortest Reflect pages (A)](run-24-deepen-reflect-a.md) | Not started | | | |
 | 25 | [Deepen the shortest Reflect pages (B)](run-25-deepen-reflect-b.md) | Not started | | | |
 | 26 | [Deepen the shortest Live pages](run-26-deepen-live.md) | Not started | | | |
