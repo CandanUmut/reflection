@@ -14,16 +14,13 @@ helpCard: false
 verses:
   - 51:56
 steelman:
-  tr: |
-    Allah hiçbir şeye muhtaç değilse, yaratmak keyfî görünür ve "bana ibadet etsinler diye" (51:56) övgüye ihtiyaç gibi geliyor.
+  tr: "\"Hiçbir şeye ihtiyacı olmayan bir Tanrı'nın bir şey yapması için hiçbir sebebi yoktur. Bir eksiklikten dolayı yarattıysa kendine yeterli değildir; hiçbir sebep olmadan yarattıysa yaratılış keyfîdir ve hayatımın bir anlamı yoktur. Kur'an'ın kendi cevabı da — 'Ben cinleri ve insanları ancak bana ibadet etsinler diye yarattım' — durumu daha da kötüleştiriyor: Övgü isteyen bir hükümdar gibi geliyor. Daha da kötüsü, yarattığı varlıkların birçoğu acı çekecek, bazıları da cehennemde son bulacak. Buna nasıl cömertlik denebilir?\""
   en: "\"A God who needs nothing has no reason to do anything. If He created out of a lack, He is not self-sufficient; if He created for no reason, creation is arbitrary and my life has no point. And the Quran's own answer — 'I did not create the jinn and mankind except to worship Me' — makes it worse: it sounds like a ruler who wants praise. Worse still, many of the beings He made will suffer, and some will end in Hell. How can that be called generosity?\""
 whyAsked:
-  tr: |
-    Anlam krizleri.
+  tr: Bu soru anlam krizlerinde ortaya çıkar — bir kayıptan sonra, depresyonda ya da sadece biri "benim varlığımın anlamı ne?" diye sorduğunda. Felsefede de, kusursuz bir varlığın nasıl olup da bir şey yapabildiğine dair bir bilmece olarak ortaya çıkar.
   en: It comes up in crises of meaning — after a loss, in depression, or simply when someone asks "what is the point of me?" It also comes up in philosophy, as a puzzle about how a perfect being can act at all.
 shortAnswer:
-  tr: |
-    Allah ihtiyaçtan değil, cömertlik ve hikmetten yaratır. 51:56'daki *ibadet*, Allah'ı tanımak olarak okunur; bu da bizim gelişip serpilmemizdir.
+  tr: "Müslüman kelâmcılar Allah'ın ihtiyaçtan dolayı yaratmadığında hemfikirdir: \"Allah ise zengin\"dir (35:15) ve \"Ben onlardan herhangi bir rızık istemiyorum\" (51:57). O'nun sebeplerini nasıl tarif edecekleri konusunda ise ayrılırlar. Eş'arî ekol, Allah'ın iradesi ve hikmetiyle hareket ettiğini, ama kendisini tamamlayacak bir \"amaç için\" hareket etmediğini söyler; Mâtürîdî ekol O'nun fiillerinin asla boş olmadığını ve daima hikmetli olduğunu söyler. Her iki durumda da yaratılışın faydası Allah'a değil, yaratılmışlara gider. Bu görüşe göre ibadet, Allah'ın tahsil ettiği bir ödeme değil, kaynağına yönelmiş bir hayatın biçimidir — klasik âlimler de 51:56'yı birkaç şekilde okumuştur, en yaygını \"onlara bana ibadet etmelerini emretmek için\"dir. En zor kısım acı ve cehennemdir: İslam buna imtihan için yaratılmış bir dünya (67:2), \"her şeyi kaplamış ve kuşatmış\" bir rahmet (7:156) ve gazabı aşan bir merhamet, bir de mesaj gelmeden kimsenin cezalandırılmadığı bir kuralla (17:15) cevap verir. Bu cevap ciddidir, ama her zorluğu ortadan kaldırmaz."
   en: 'Muslim theologians agree that God does not create from need: "Allah is the Free of need" (35:15), and "I do not want from them any provision" (51:57). They disagree about how to describe His reasons. The Ashʿari school says God acts by His will and wisdom but not "for a purpose" that would complete Him; the Maturidi school says His acts are never futile and always wise. Either way, the benefit of creation goes to the creatures, not to God. Worship, in this view, is not a payment God collects but the shape of a life turned toward its source — and classical scholars read 51:56 in several ways, the most common being "to command them to worship Me". The hardest part is suffering and Hell: Islam answers with a creation made for testing (67:2), a mercy that "encompasses all things" (7:156) and outweighs anger, and a rule that no one is punished without a message (17:15). That answer is serious, but it does not remove every difficulty.'
 layers:
   - kind: religious
@@ -43,8 +40,7 @@ layers:
       Anlam soruları umutsuzlukla birlikte geliyorsa, profesyonel destek alınmalıdır.
     en: If questions of meaning come with hopelessness, seek professional care.
 honestLimits:
-  tr: |
-    Bir miktar sır kalır.
+  tr: Klasik ekoller Allah'ın ihtiyaç duymadan yarattığında hemfikirdir, ama O'nun sebeplerini farklı açıklarlar ve hiçbiri bunları tam olarak bildiğini iddia etmez. Acı ve cehennem sorusuna verilen cevap kısmen Allah'ın ilmine güvenmeye dayanır; bu da Allah'a zaten güvenmeyen birini ikna etmeyecektir. İbn Kayyim'in *Şifâü'l-Alîl*'ine ve Taberî'nin 51:56 tefsirine henüz başvurulmadı.
   en: The classical schools agree that God creates without need, but they explain His reasons differently, and none claims to know them fully. The answer to suffering and Hell relies partly on trusting God's knowledge, which will not persuade someone who does not already trust Him. Ibn al-Qayyim's *Shifāʾ al-ʿAlīl* and al-Tabari's tafsir of 51:56 have not yet been consulted.
 visualizations:
   - id: ideas
@@ -89,6 +85,13 @@ fullAnswer:
       **If you are asking because your own life feels pointless, that feeling deserves attention before any argument.** Meaning can feel absent even when it is there, especially in grief or depression. If the question comes with hopelessness, thoughts of not wanting to live, or weeks of numbness, speak to a doctor or a counsellor, and tell someone you trust today. In many countries you can call a local crisis line; findahelpline.com lists them by country. Faith and professional help are not rivals.
 
       **The Islamic answer is not "you exist to fill God's need".** It is closer to "you exist because you were given existence, and you were made able to know the One who gave it". You were wanted, not used.
+    tr: |-
+      **Bunu kendi hayatın anlamsız geldiği için soruyorsan, bu his herhangi bir argümandan önce ilgiyi hak eder.** Anlam, orada olduğu hâlde bile yokmuş gibi gelebilir; özellikle yasta ya da depresyonda. Soru umutsuzlukla, yaşamak istememe düşünceleriyle ya da haftalarca süren bir uyuşuklukla birlikte geliyorsa, bir doktorla ya da danışmanla konuş ve bugün güvendiğin birine söyle. Pek çok ülkede yerel bir kriz hattını arayabilirsin; findahelpline.com bunları ülkelere göre listeler. İman ve profesyonel yardım rakip değildir.
+
+      **İslam'ın cevabı "Allah'ın ihtiyacını karşılamak için varsın" değildir.** Daha çok şuna yakındır: "Sana varlık verildiği için varsın ve onu verene tanıyabilecek şekilde yaratıldın." İstendin, kullanılmadın.
+    title:
+      en: Kalp ve akıl için
+      tr: Kalp ve akıl için
   - kind: quran
     en: |-
       **God is free of need; people are the ones in need.** "O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy" (35:15). This is from Sura Fatir, a Meccan sura, addressed to all people.
@@ -98,11 +101,29 @@ fullAnswer:
       **Creation as a test.** "[He] who created death and life to test you [as to] which of you is best in deed" (67:2), from Sura al-Mulk, Meccan. This names a purpose that concerns the creature: the chance to do good.
 
       **Human beings as successors.** When God tells the angels, "Indeed, I will make upon the earth a successive authority", they ask, "Will You place upon it one who causes corruption therein and sheds blood…?" God answers: "Indeed, I know that which you do not know" (2:30). The verse (Sura al-Baqara, Medinan) admits the cost of making human beings — corruption and bloodshed — and answers it with God's knowledge rather than with a full explanation.
+    tr: |-
+      **Allah ihtiyaçtan münezzehtir; ihtiyaç içinde olan insanlardır.** "Ey insanlar! Siz Allah'a muhtaçsınız. Allah ise zengin ve her hamde lâyıktır." (35:15). Âyet Mekkî bir sûre olan Fâtır Sûresi'ndendir ve bütün insanlara hitap eder.
+
+      **Anahtar âyet ve ondan sonraki âyet.** "Ben cinleri ve insanları ancak bana ibadet etsinler diye yarattım." (51:56). Sonraki âyet ihtiyaç fikrini ortadan kaldırır: "Ben onlardan herhangi bir rızık istemiyorum. Beni yedirmelerini de istemiyorum." (51:57). İkisi de Mekkî Zâriyât Sûresi'ndendir. Onlardan önceki âyetler (51:50–55) dinleyeni "Allah'a koşmaya" çağırır ve Hz. Peygamber'e (s.a.v.) insanlara hatırlatmaya devam etmesini söyler. Yani bu pasaj Allah'tan şüphe eden ya da O'nu görmezden gelen insanlara söylenmiştir ve Allah'ın onlardan hiçbir şey kazanmadığını söyleyerek biter. İbn Kesîr 51:56'yı şöyle okur: "Ben, Allah, onları ancak kendime ibadet etmelerini emretmek için yarattım, onlara muhtaç olduğum için değil"; Allah'ın "yaratılmışlara muhtaç olmadığını, aksine onların her hâlükârda O'na muhtaç olduğunu" ekler.
+
+      **Bir imtihan olarak yaratılış.** "O, hanginizin daha güzel iş yapacağınızı denemek için ölümü ve hayatı yarattı." (67:2); Mekkî Mülk Sûresi'nden. Bu, yaratılmışı ilgilendiren bir amacı adlandırır: iyilik yapma imkânı.
+
+      **Halifeler olarak insanlar.** Allah meleklere "Ben yeryüzünde bir halife yaratacağım" dediğinde, onlar sorarlar: "A!.. Orada bozgunculuk yapacak ve kan dökecek birisini mi yaratacaksın?…" Allah cevap verir: "Ben sizin bilmediklerinizi bilirim." (2:30). Âyet (Medenî Bakara Sûresi) insanı yaratmanın bedelini — bozgunculuk ve kan dökmeyi — kabul eder ve buna tam bir açıklamayla değil, Allah'ın ilmiyle cevap verir.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **Mercy comes first.** The Prophet (pbuh) said: "When Allah completed the creation, He wrote in His Book which is with Him on His Throne, 'My Mercy overpowers My Anger'" ({hadith:bukhari:3194}, narrated by Abu Hurayra). This is the hadith most often quoted when Muslims explain what kind of Creator God is.
 
-      **The "hidden treasure" saying is not a hadith.** Many people quote: "I was a hidden treasure; I loved to be known. Hence I created the world so that I would be known" (one of several English versions given by *Wikipedia*). It has no chain of narrators. According to al-ʿAjluni's *Kashf al-Khafaʾ*, Ibn Taymiyya said that "it was not said by the Prophet (peace be upon him)" and that it has "neither Sahih (authentic) nor Daʿif (weak) Sanad (chain of narrators)", and that al-Zarkashi, Ibn Hajar, al-Suyuti and others agreed (as reported by *al-Feqh*). The Hadith Answers team calls it "a fabrication" and says one "should therefore abstain from quoting it", citing *al-Maqasid al-Hasana* (no. 838) and other works. It is popular because it puts into one sentence an idea many Sufis hold: that God created so that He would be known and loved (*Wikipedia*). Its meaning may be defended on other grounds, but it must not be presented as the Prophet's (pbuh) words.
+      **The "hidden treasure" saying is not a hadith.** Many people quote: "I was a hidden treasure; I loved to be known. Hence I created the world so that I would be known" (one of several English versions given by *Wikipedia*). It has no chain of narrators. According to al-ʿAjluni's *Kashf al-Khafaʾ*, Ibn Taymiyya said that "it was not said by the Prophet (peace be upon him)" and that it has "neither Sahih (authentic) nor Daʿif (weak) Sanad (chain of narrators)", and that al-Zarkashi, Ibn Hajar, al-Suyuti and others agreed (as reported by *al-Feqh* and by Islamweb, fatwa 14995). The Hadith Answers team calls it "a fabrication" and says one "should therefore abstain from quoting it", citing *al-Maqasid al-Hasana* (no. 838) and other works. It is popular because it puts into one sentence an idea many Sufis hold: that God created so that He would be known and loved (*Wikipedia*). Its meaning may be defended on other grounds, but it must not be presented as the Prophet's (pbuh) words.
+    tr: |-
+      **Önce rahmet gelir.** Hz. Peygamber (s.a.v.) şöyle buyurdu: "Allah yaratmayı tamamladığında, Arş'ın üzerinde, yanında bulunan Kitabına şunu yazdı: 'Rahmetim gazabıma galip gelmiştir.'" ({hadith:bukhari:3194}, Ebû Hüreyre rivayetiyle). Bu, Müslümanların Allah'ın nasıl bir Yaratıcı olduğunu anlatırken en sık zikrettiği hadistir.
+
+      **"Gizli hazine" sözü bir hadis değildir.** Pek çok kişi şunu nakleder: "Ben gizli bir hazineydim; bilinmeyi sevdim. Bu yüzden bilineyim diye dünyayı yarattım" (*Wikipedia*'nın verdiği birkaç İngilizce versiyondan biri). Hiçbir senedi yoktur. Aclûnî'nin *Keşfü'l-Hafâ*'sına göre İbn Teymiyye bunun "Hz. Peygamber (s.a.v.) tarafından söylenmediğini" ve "ne sahih ne de zayıf bir senedi" olduğunu söylemiş; Zerkeşî, İbn Hacer, Suyûtî ve diğerleri de buna katılmıştır (*al-Feqh*'in aktardığına göre). Hadith Answers ekibi bunu "uydurma" olarak niteler ve *el-Makāsıdü'l-Hasene*'yi (no. 838) ve başka eserleri göstererek "nakletmekten kaçınılması gerektiğini" söyler. Popülerdir, çünkü pek çok sûfînin benimsediği bir fikri tek cümlede ifade eder: Allah bilinmek ve sevilmek için yarattı (*Wikipedia*). Anlamı başka gerekçelerle savunulabilir, ama Hz. Peygamber'in (s.a.v.) sözü olarak sunulmamalıdır.
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: |-
       **What 51:56 means: several readings, not one.** According to the IslamWeb fatwa:
@@ -120,6 +141,25 @@ fullAnswer:
       - **The Maturidis** (the other main Sunni school, after al-Maturidi, d. 944) "affirm the non-futility of divine acts without reducing them to rational necessity" (Kuyucu, 2026).
 
       **Why it matters.** The Ashʿari position protects God's self-sufficiency: nothing outside God moves Him. The Maturidi position protects the sense that creation has meaning: nothing God does is pointless. A reader who fears that creation is "arbitrary" is closer to the Maturidi worry; a reader who fears that God "needed" us is closer to the Ashʿari one. Both schools deny that God gains anything, and both deny that creation is futile. Ibn al-Qayyim's *Shifāʾ al-ʿAlīl* defends God's wise purposes at length, but it has not yet been consulted.
+    tr: |-
+      **51:56 ne demek: tek değil, birkaç okuma.** IslamWeb fetvasına göre:
+      - **Mücâhid** (ö. y. 722, tefsirde önde gelen bir tâbiî), fetvanın sahih dediği bir senedle, âyetin "onlara emretmek ve yasaklamak için" anlamına geldiğini söyledi. Bu onun bilinen görüşü olarak aktarılır.
+      - **İbn Cüreyc** (ö. 767), İbn Ebî Hâtim'in rivayet ettiği ve İbn Teymiyye'nin *Der'ü Teâruzi'l-Akl ve'n-Nakl*'de zikrettiği üzere şöyle dedi: "Anlamı, beni tanımaları içindir."
+      - **Ali b. Ebî Tâlib** (r.a.), İbn Teymiyye'nin *Mecmû'u'l-Fetâvâ*'da aktardığına göre: "ancak onlara bana ibadet etmelerini emretmek ve onları bana ibadete çağırmak için". Dilci **Zeccâc** da "emir" okumasını tercih etti.
+      - **İbn Teymiyye** (ö. 1328) yedi okuma saydı ve şunu tercih etti: peygamberlerin öğrettiği ibadet; yani âyet, Allah'ın onları yalnızca kendisine ibadet etmelerini emretmek için yarattığı anlamına gelir. "İbadet"i sadece doğuştan gelen Allah bilgisi olarak okumayı reddetti.
+      - **İbn Abbâs** (r.a.), Ali b. Ebî Talha yoluyla, İbn Kesîr'in naklettiğine göre: "İsteyerek ya da istemeyerek bana ibadet etsinler diye."
+
+      Yani "beni tanımaları için" gerçek bir klasik okumadır, ama (sık sık söylendiği gibi) Mücâhid'e değil İbn Cüreyc'e aittir ve çoğunluğun okuması değildir. Modern bir yumuşatma da değildir. Okumalar birbiriyle bağdaşabilir: Peygamberlerin öğrettiği ibadet Allah'ı tanımayı içerir, çünkü insan tanımadığı Birine yönelemez.
+
+      **Allah "bir amaç için" mi hareket eder? Eş'arî–Mâtürîdî tartışması.** Kelâm (İslam'ın akli inanç ilmi), Allah'ın fiillerinin amaçları olup olmadığını sordu (*ta'lîlü'l-ef'âl*, "Allah'ın fiillerine sebep göstermek"). Üç tutum:
+      - **Mu'tezile** (erken dönem akılcı bir ekol) Allah'ın fiillerini "*salâh* ve *aslah* ilkeleriyle" (iyi ve en iyi) yorumladı ve "insanın yararını öne çıkardı" (Kuyucu, 2026).
+      - **Eş'arîler** (el-Eş'arî'ye, ö. 936, nispet edilen en büyük Sünnî kelâm ekolü) Allah'ın fiillerinin hikmetli olduğunu kabul eder, ama hikmeti fayda olarak değil, Allah'ın ilmine ve iradesine uygunluk olarak tanımlar. Allah'a bir amaç (*garaz*) atfetmenin ihtiyaç anlamına geleceğini savunurlar; bu yüzden Allah'ın iradesinden (*irâde*) söz etmeyi tercih ederler. Ayrıca fayda kural olsaydı, Allah'ın insanları hiçbir imtihan olmadan doğrudan cennette yaratmak zorunda kalacağını savundular (Gültekin, 2025, özette aktarıldığı şekliyle).
+      - **Mâtürîdîler** (el-Mâtürîdî'ye, ö. 944, nispet edilen diğer büyük Sünnî ekol) "ilahi fiillerin boş olmadığını, onları akli zorunluluğa indirgemeden kabul eder" (Kuyucu, 2026).
+
+      **Bu neden önemli?** Eş'arî tutum Allah'ın kendine yeterliliğini korur: Allah'ın dışındaki hiçbir şey O'nu harekete geçirmez. Mâtürîdî tutum yaratılışın bir anlamı olduğu duygusunu korur: Allah'ın yaptığı hiçbir şey anlamsız değildir. Yaratılışın "keyfî" olmasından korkan bir okur Mâtürîdî kaygıya daha yakındır; Allah'ın bize "muhtaç" olmasından korkan bir okur Eş'arî kaygıya. İki ekol de Allah'ın bir şey kazandığını reddeder, ikisi de yaratılışın boş olduğunu reddeder. İbn Kayyim'in *Şifâü'l-Alîl*'i Allah'ın hikmetli amaçlarını uzun uzun savunur, ama henüz ona başvurulmadı.
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: reasoning
     en: |-
       **An argument in five steps.**
@@ -130,6 +170,18 @@ fullAnswer:
       5. So a self-sufficient God creating is not a contradiction. It is what one would expect if God is good: goodness can give without needing.
 
       **Does "goodness shares itself" make creation necessary?** If goodness *must* share itself, then God *had to* create, and creation would be necessary — which would make God dependent on the world in a new way. Muslim theologians of all schools rejected this: God creates freely, by His will (Ashʿari) and wisdom (Maturidi). The phrase "goodness naturally shares itself" is best read as describing why creation *fits* God's goodness, not why He was forced to create. *Limit:* philosophers dispute whether "free but fitting" is a stable middle position; this page does not settle that.
+    tr: |-
+      **Beş adımlık bir argüman.**
+      1. Hiçbir şeyden yoksun olmayan bir varlık bir şey kazanmak için yaratamaz. Öyleyse Allah yaratıyorsa, yaratmanın amacı Allah'ın aldığı şeyde değildir.
+      2. O hâlde amaç verilen şeyde olmalıdır: varlık, hayat, bilme ve seçme gücü. Kazanmadan vermeye cömertlik deriz.
+      3. Anlayabilen varlıklara cömertlik, onların vereni tanımasına izin vermeyi de içerir. Kendine yeterli bir Allah'ın yine de insanları kendisini tanımaya ve kendisine ibadete çağırabilmesinin sebebi budur: Çağrı onların iyiliği içindir (51:57; İbn Kesîr).
+      4. Bu anlamda ibadet Allah'ın geliri değildir. Yaratılmışın gerçeklikle doğru ilişkisidir — sahip olduğu her şeyin kaynağına şükür. Kimseye teşekkür etmeyen bir insan daha özgür değildir; hakikatle bağı daha zayıftır.
+      5. Dolayısıyla kendine yeterli bir Allah'ın yaratması bir çelişki değildir. Allah iyiyse, beklenecek olan budur: İyilik ihtiyaç duymadan verebilir.
+
+      **"İyilik kendini paylaşır" demek yaratılışı zorunlu kılar mı?** İyilik kendini *paylaşmak zorundaysa*, Allah *yaratmak zorundaydı* ve yaratılış zorunlu olurdu — bu da Allah'ı yeni bir şekilde dünyaya bağımlı kılardı. Bütün ekollerden Müslüman kelâmcılar bunu reddetti: Allah iradesiyle (Eş'arî) ve hikmetiyle (Mâtürîdî) özgürce yaratır. "İyilik doğası gereği kendini paylaşır" ifadesi en iyi, O'nun yaratmaya neden zorlandığını değil, yaratılışın Allah'ın iyiliğine neden *yakıştığını* anlatan bir ifade olarak okunur. *Sınır:* Filozoflar "özgür ama yakışan" ifadesinin sağlam bir orta yol olup olmadığını tartışır; bu sayfa bunu çözmez.
+    title:
+      en: Filozoflar bu konuda nasıl akıl yürütür?
+      tr: Filozoflar bu konuda nasıl akıl yürütür?
   - kind: objection
     en: |-
       **"Commanding worship shows a need for praise."** *Reply:* the Quran denies that God gains anything (51:57; 35:15), and Ibn Kathir reads 51:56 in that light. A doctor who tells a patient to take medicine does not need the patient to recover; the command is for the patient. *Limit:* the analogy breaks where the Quran also threatens punishment for refusing, which a doctor does not do.
@@ -137,6 +189,15 @@ fullAnswer:
       **"If God gains nothing from my worship, why punish its absence?"** *Reply:* in the Quran, punishment follows wrongdoing and rejecting a message one has truly received, not failing to "pay" God: "never would We punish until We sent a messenger" (17:15), and "whoever wills — let him believe; and whoever wills — let him disbelieve" (18:29). Refusing worship, in this view, is refusing the truth about oneself, and the harm falls on the one who refuses ("whoever errs only errs against it", 17:15). *Limit:* many readers still find eternal punishment for unbelief hard to reconcile with this, and the site's page on eternal Hell takes up the question at length.
 
       **"If God creates from generosity, why create beings who will suffer, or go to Hell? Is that generous?"** *Reply:* the Islamic answer has three parts. First, a world with real choice and testing (67:2) is a world where harm is possible; the angels themselves raised this objection, and God answered that He knows what they do not (2:30). The Ashʿari argument that God could have created humans directly in Paradise — and chose not to — shows that the tradition saw this question clearly (Gültekin, 2025). Second, mercy is the governing attribute: "My mercy encompasses all things" (7:156), and "My Mercy overpowers My Anger" ({hadith:bukhari:3194}). Third, no one is punished without a message (17:15), and judgment of any person belongs to God. *Limit:* this is not a full explanation. It asks for trust that God's knowledge includes reasons we cannot see — the same move as "I know that which you do not know" (2:30). For someone who does not already trust God, that may not satisfy.
+    tr: |-
+      **"İbadeti emretmek övgüye ihtiyaç olduğunu gösterir."** *Cevap:* Kur'an Allah'ın bir şey kazandığını reddeder (51:57; 35:15); İbn Kesîr de 51:56'yı bu ışıkta okur. Hastasına ilaç almasını söyleyen bir doktorun hastanın iyileşmesine ihtiyacı yoktur; emir hastanın iyiliği içindir. *Sınır:* Benzetme, Kur'an'ın reddetmeye ceza da tehdit ettiği noktada bozulur; bir doktor bunu yapmaz.
+
+      **"Allah ibadetimden bir şey kazanmıyorsa, yokluğunu neden cezalandırsın?"** *Cevap:* Kur'an'da ceza, Allah'a "ödeme yapmamaya" değil, zulme ve gerçekten ulaşmış bir mesajı reddetmeye karşılık gelir: "Biz bir Peygamber göndermedikçe, hiç kimseye azab edecek değiliz." (17:15) ve "Artık dileyen iman etsin, dileyen inkâr etsin." (18:29). Bu görüşe göre ibadeti reddetmek kişinin kendisi hakkındaki hakikati reddetmesidir ve zarar reddedene düşer ("Kim de saparsa ancak kendi aleyhine sapar." 17:15). *Sınır:* Pek çok okur inkâra karşılık sonsuz cezayı bununla bağdaştırmakta hâlâ zorlanıyor; sitenin ebedi cehennem sayfası bu soruyu uzun uzun ele alıyor.
+
+      **"Allah cömertlikten yaratıyorsa, neden acı çekecek ya da cehenneme gidecek varlıklar yaratsın? Bu cömertlik mi?"** *Cevap:* İslami cevabın üç kısmı vardır. Birincisi: Gerçek seçimin ve imtihanın olduğu bir dünya (67:2), zararın mümkün olduğu bir dünyadır; melekler bu itirazı bizzat dile getirdi ve Allah onların bilmediklerini bildiğini söyleyerek cevap verdi (2:30). Allah'ın insanları doğrudan cennette yaratabileceği — ve bunu seçmediği — yönündeki Eş'arî argüman, geleneğin bu soruyu açıkça gördüğünü gösterir (Gültekin, 2025). İkincisi: Belirleyici sıfat rahmettir: "rahmetim de vardır, o ise her şeyi kaplamış ve kuşatmıştır" (7:156) ve "Rahmetim gazabıma galip gelmiştir" ({hadith:bukhari:3194}). Üçüncüsü: Mesaj gelmeden kimse cezalandırılmaz (17:15) ve herhangi bir kişi hakkındaki hüküm Allah'a aittir. *Sınır:* Bu tam bir açıklama değildir. Allah'ın ilminin bizim göremediğimiz sebepleri kapsadığına güvenmeyi ister — "Ben sizin bilmediklerinizi bilirim" (2:30) ile aynı hamle. Allah'a zaten güvenmeyen biri için bu tatmin edici olmayabilir.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Ashʿaris** — God acts by will and wisdom, not for a purpose that would complete Him (Gültekin; Kuyucu).
@@ -144,33 +205,55 @@ fullAnswer:
       - **Muʿtazila** — God acts for the good of creatures (*ṣalāḥ/aṣlaḥ*) (Kuyucu).
       - **On 51:56** — "to command them to worship Me" (ʿAli, Mujahid, al-Zajjaj, Ibn Taymiyya); "to know Me" (Ibn Jurayj); "willingly or unwillingly" (Ibn ʿAbbas, via Ibn Kathir).
       - **Sufi thought** — creation so that God might be known and loved, often expressed through the "hidden treasure" saying, which has no chain.
+    tr: |-
+      - **Eş'arîler** — Allah kendisini tamamlayacak bir amaç için değil, irade ve hikmetle hareket eder (Gültekin; Kuyucu).
+      - **Mâtürîdîler** — Allah'ın fiilleri asla boş değildir; akli zorunluluk olmadan hikmet (Kuyucu).
+      - **Mu'tezile** — Allah yaratılmışların iyiliği için hareket eder (*salâh/aslah*) (Kuyucu).
+      - **51:56 hakkında** — "onlara bana ibadet etmelerini emretmek için" (Ali, Mücâhid, Zeccâc, İbn Teymiyye); "beni tanımaları için" (İbn Cüreyc); "isteyerek ya da istemeyerek" (İbn Abbâs, İbn Kesîr yoluyla).
+      - **Tasavvuf düşüncesi** — Allah bilinmek ve sevilmek için yarattı; bu çoğu zaman senedi olmayan "gizli hazine" sözüyle ifade edilir.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: What does Islam mean by worship, beyond ritual prayer?
+      tr: İslam, namazın ötesinde ibadetten ne anlar?
     a:
       en: "In the classical readings above, worship (*ʿibāda*) is what the messengers taught: belief, prayer, and obedience to God's commands in daily life. Many scholars describe any good act done for God's sake as worship; that wider sense has not yet been checked in a named source."
+      tr: "Yukarıdaki klasik okumalarda ibadet (*ibâdet*), peygamberlerin öğrettiği şeydir: iman, namaz ve günlük hayatta Allah'ın emirlerine itaat. Pek çok âlim Allah rızası için yapılan her iyi işi ibadet olarak tarif eder; bu daha geniş anlam henüz adı verilen bir kaynakta kontrol edilmedi."
   - q:
       en: What is the "hidden treasure" saying?
+      tr: '"Gizli hazine" sözü nedir?'
     a:
       en: '"I was a hidden treasure; I loved to be known. Hence I created the world so that I would be known." Hadith experts (Ibn Taymiyya, al-Zarkashi, Ibn Hajar, al-Suyuti and others) say it has no chain and is not from the Prophet (pbuh).'
+      tr: "\"Ben gizli bir hazineydim; bilinmeyi sevdim. Bu yüzden bilineyim diye dünyayı yarattım.\" Hadis uzmanları (İbn Teymiyye, Zerkeşî, İbn Hacer, Suyûtî ve diğerleri) bunun senedi olmadığını ve Hz. Peygamber'e (s.a.v.) ait olmadığını söyler."
   - q:
       en: Who are the Ashʿaris and Maturidis?
+      tr: Eş'arîler ve Mâtürîdîler kimdir?
     a:
       en: The two main Sunni schools of theology, named after al-Ashʿari (d. 936) and al-Maturidi (d. 944). On this question, the Ashʿaris stress that God needs nothing; the Maturidis stress that nothing God does is pointless.
+      tr: El-Eş'arî (ö. 936) ve el-Mâtürîdî'ye (ö. 944) nispet edilen iki büyük Sünnî kelâm ekolü. Bu soruda Eş'arîler Allah'ın hiçbir şeye muhtaç olmadığını, Mâtürîdîler ise Allah'ın yaptığı hiçbir şeyin anlamsız olmadığını vurgular.
   - q:
       en: Is "worship means knowing God" a real reading?
+      tr: "\"İbadet Allah'ı tanımak demektir\" gerçek bir okuma mı?"
     a:
       en: Yes, from Ibn Jurayj (via Ibn Abi Hatim and Ibn Taymiyya). The more common reading is "to command them to worship Me".
+      tr: Evet; İbn Cüreyc'ten (İbn Ebî Hâtim ve İbn Teymiyye yoluyla). Daha yaygın okuma "onlara bana ibadet etmelerini emretmek için"dir.
   - q:
       en: Does God need me?
+      tr: Allah'ın bana ihtiyacı var mı?
     a:
       en: No. The Quran says the opposite (35:15; 51:57). You need Him, and He gives without needing.
+      tr: Hayır. Kur'an bunun tersini söyler (35:15; 51:57). Sen O'na muhtaçsın; O ise ihtiyaç duymadan verir.
   - q:
       en: If God knew some would go to Hell, why create them?
+      tr: Allah bazılarının cehenneme gideceğini biliyorduysa, onları neden yarattı?
     a:
       en: This is the hardest form of the question. The tradition answers with a real test (67:2), mercy that outweighs anger ({hadith:bukhari:3194}), no punishment without a message (17:15), and God's knowledge beyond ours (2:30). It does not claim to remove the difficulty entirely.
+      tr: Bu, sorunun en zor biçimidir. Gelenek gerçek bir imtihanla (67:2), gazabı aşan bir rahmetle ({hadith:bukhari:3194}), mesaj gelmeden ceza olmamasıyla (17:15) ve bizimkinin ötesindeki ilahi ilimle (2:30) cevap verir. Zorluğu tamamen ortadan kaldırdığını iddia etmez.
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
+translatedFrom: docs/research/tr/Q29.md

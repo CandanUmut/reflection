@@ -16,16 +16,13 @@ verses:
   - 59:7
   - 16:44
 steelman:
-  tr: |
-    Kanonik derlemeler Hz. Peygamber'den iki asır sonra oluşturuldu; klasik âlimlerin de kabul ettiği gibi uydurma oldu. Âişe'nin evlilik yaşı gibi sahih bir rivayetin, Oxford'daki bir doktora tezinde 8. yüzyılın bir ifadesi olduğu savunulabiliyorsa, hangisine güvenilir? "Yalnızca Kur'an" daha sadık değil mi?
+  tr: "\"Hadis külliyatları Peygamber'den (s.a.v.) iki yüzyıl sonra derlendi. Joseph Schacht gibi Batılı âlimler, pek çok hadisin hukuki görüşleri desteklemek için sonradan uydurulduğunu ve eski görünmeleri için onlara râvi zincirleri eklendiğini savundu. Müslüman âlimler bile binlerce uydurma hadis olduğunu kabul ediyor. Bazı 'sahih' hadisler ahlaken yanlış görünen şeyler içeriyor. Neden Türkiye'de ve başka yerlerde bazı Müslümanların artık savunduğu gibi yalnızca Kur'an'a uymayalım?\""
   en: "\"The hadith collections were compiled two centuries after the Prophet (pbuh). Western scholars like Joseph Schacht argued that many hadith were invented later to support legal positions, with chains of narrators added to make them look old. Even Muslim scholars admit there are thousands of fabricated hadith. Some 'authentic' ones contain things that seem morally wrong. Why not follow the Quran alone, as some Muslims in Türkiye and elsewhere now argue?\""
 whyAsked:
-  tr: |
-    Batılı kaynak eleştirisi (Goldziher, Schacht, Juynboll) ve Kur'ancı medya; ahlâken rahatsız edici hadisler; Türkiye'de "Kur'an İslamı", akılcı görünen bir İslam ve geleneksel otoritelerden bir sığınak sunar.
+  tr: Hadisler, İslam hukukunun ve uygulamasının büyük bir kısmının ve en zor metinlerin pek çoğunun kaynağıdır. Türkiye'de "Kur'an merkezli" bir hareket (*Kuran İslamı* ya da *Kur'an Müslümanlığı*) "son yıllarda" artan bir ilgi gördü. 2000'den itibaren öne çıkan isimleri inceleyen Hitit Üniversitesi çalışması (2024) buna *Kur'an merkezli din söylemi* ve *Kur'an Müslümanlığı* der ve kendisi bu görüşü "hadis inkârı" olarak değerlendirir.
   en: Hadith are the source of much of Islamic law and practice, and of many of the hardest texts. In Türkiye, a "Quran-centred" movement (*Kuran İslamı* or *Kur'an Müslümanlığı*) has drawn growing interest "in recent years". The Hitit University study (2024), which looks at figures from 2000 onwards, calls it *Kur'an merkezli din söylemi* and *Kur'an Müslümanlığı*, and itself assesses its view as "hadis inkarı" (rejection of hadith).
 shortAnswer:
-  tr: |
-    Hadislerin ne hepsi güvenilirdir ne hepsi uydurmadır. Müslüman âlimler ayrıntılı bir sınama sistemi kurdu ve binlerce rivayeti reddetti. Modern yöntemler pek çok hadisi hicrî 1. asra tarihlendirdi ve bazılarını sorguladı. Kur'an Peygamber'e itaati emreder (4:59, 59:7) ve namazın nasıl kılınacağı uygulamaya bağlıdır; bu yüzden "yalnızca Kur'an" görüşünün ciddi sorunları vardır. Dürüst tutum: derecelendirilmiş, eleştirel olarak incelenmiş bir delil bütünü.
+  tr: "*Hadis*, Hz. Peygamber'in (s.a.v.) söylediği, yaptığı ya da onayladığı şeyin rivayetidir; *Sünnet* ise esas olarak hadisler ve toplumun kesintisiz uygulaması aracılığıyla bilinen onun hayat tarzıdır. İlk Müslümanlar bazı hadisleri Hz. Peygamber'in (s.a.v.) hayatında yazıya geçirdi — Abdullah b. Amr'a (r.a.) \"Yaz\" dendi ({hadith:abudawud:3646}) — ve sonraki âlimler her rivayetin senedini (*isnâd*) ve metnini (*metn*) sınamak için ayrıntılı bir sistem kurdu. Schacht gibi Batılı eleştirmenler senetlerin çoğu zaman sonradan eklendiğini savundu; Harald Motzki gibi daha sonraki Batılı âlimler senetleri ve metinleri birlikte inceleyen bir yöntem geliştirdi ve Schacht'ın ardıllarının kullandığı \"ortak halka\" teorisinin kusurlu olduğunu savundu. Kur'an'ın kendisi müminlere Peygamber'e itaat etmelerini söyler (4:59; 59:7) ve onun vahyi açıklamak için gönderildiğini söyler (16:44); ana akım Müslümanların Kur'an'a Sünnet olmadan uyulamayacağını kabul etmesinin sebebi budur. Sistem yanılmaz değildir: Âlimler belirli hadisler konusunda ayrılır ve ahlaken rahatsız edici bir *sahih* hadis, körü körüne kabulü ya da kolayca reddedilmeyi değil, dikkatli bir incelemeyi hak eder."
   en: "A *hadith* is a report of what the Prophet (pbuh) said, did or approved; the *Sunna* is his way of life, known mainly through hadith and through the community's continuous practice. Early Muslims wrote down some hadith in the Prophet's (pbuh) lifetime — ʿAbdullah ibn ʿAmr (ra) was told, \"Write\" ({hadith:abudawud:3646}) — and later scholars built a detailed system for testing each report's chain (*isnād*) and text (*matn*). Western critics such as Schacht argued that chains were often added later; later Western scholars such as Harald Motzki developed a method that studies chains and texts together, and argued that the \"common link\" theory used by Schacht's successors is flawed. The Quran itself tells believers to obey the Messenger (4:59; 59:7) and says he was sent to explain the revelation (16:44), which is why mainstream Muslims hold that the Quran cannot be followed without the Sunna. The system is not infallible: scholars disagree about particular hadith, and a morally troubling *ṣaḥīḥ* hadith deserves careful study, not blind acceptance or easy dismissal."
 layers:
   - kind: religious
@@ -52,8 +49,7 @@ layers:
       Kur'ancılık çoğu zaman rahatsız edici metinlerden bir kurtuluştur. Bu rahatlama gerçektir; klasik araçlar (derecelendirme, bağlam, delil hiyerarşisi) ise Sünnet'i koruyan başka bir yol sunar.
     en: Quranism is often relief from troubling texts. That relief is real; the classical tools (grading, context, the hierarchy of evidence) offer another way, one that keeps the Sunna.
 honestLimits:
-  tr: |
-    Bazı sahih hadisler ciddi akademisyenlerce tartışılmaktadır; klasik derecelendirme güçlüdür ama yanılmaz değildir. İki uç da tutmaz: ne "Buhârî'deki her rivayet kesindir", ne de "bütün hadisler uydurmadır".
+  tr: Schacht'ın ve Juynboll'un kitaplarına, Motzki'nin kendi sonuçlarına ve insan hafızası ile sözlü aktarım üzerine araştırmalara henüz başvurulmadı. Buhârî ve Müslim'deki belirli hadislere yönelik klasik eleştiriler (örneğin Dârekutnî'ninki) ele alınmadı. Türkiye'deki Kur'an merkezli hareketin adı belli isimleri okunan kaynakta tespit edilmedi.
   en: Schacht's and Juynboll's books, Motzki's own results, and research on human memory and oral transmission have not yet been consulted. Classical criticism of particular hadith in Bukhari and Muslim (for example by al-Daraqutni) was not covered. Named figures of the Turkish Quran-centred movement were not identified in the source read.
 visualizations:
   - id: ideas
@@ -66,7 +62,7 @@ sources:
   - label: Saheeh International via the site's Tanzil data — 4:59, 59:7, 16:44.
   - label: Sunan Abi Dawud 3646 (sunnah.com), https://sunnah.com/abudawud:3646, with al-Albani's grade.
     url: https://sunnah.com/abudawud:3646
-  - label: Sahih al-Bukhari 5133, 5134 and Sahih Muslim 1422c — as checked for run 4.
+  - label: Sahih al-Bukhari 5133, 5134 and Sahih Muslim 1422c.
   - label: '"Grading Lens", ParallelQuran.com, https://parallelquran.com/grading-lens/ — definitions of grading terms.'
     url: https://parallelquran.com/grading-lens/
   - label: M. Mansur Ali, review of Harald Motzki, *Analysing Muslim Traditions* (Brill, 2010), IlmGate (21 April 2011), https://ilmgate.org/analysing-muslim-traditions-studies-in-legal-exegetical-and-maghazi-hadith-by-harald-motzki-review-by-dr-m-mansur-ali.
@@ -75,8 +71,8 @@ sources:
     url: https://akramnadwi.com/?p=4773
   - label: "*Kur'an merkezli din söylemi (Türkiye'de 2000'li yıllarda Kur'an Müslümanlığı)*, Hitit University (2024), abstract, https://earsiv.hitit.edu.tr/items/099670b1-306c-4275-871d-d2a186ca72f8 (author not listed on the page)."
     url: https://earsiv.hitit.edu.tr/items/099670b1-306c-4275-871d-d2a186ca72f8
-  - label: J. J. Little (2022) and W. A. Cheema (ICRAA, 2024) on the hadith of Aisha's age — as read for run 4.
-  - label: Jamiʿ al-Tirmidhi 2517 and Musnad Ahmad 11133 — as read for run 6 (sunnah.com; hadithunlocked.com), with details confirmed by the independent source check.
+  - label: J. J. Little (2022) and W. A. Cheema (ICRAA, 2024) on the hadith of Aisha's age —.
+  - label: Jamiʿ al-Tirmidhi 2517 and Musnad Ahmad 11133 —, with details confirmed by the independent source check.
   - &a1
     label: J.J. Little, The Hadith of ʿĀʾišah's Marital Age (Oxford DPhil)
   - &a2
@@ -104,15 +100,37 @@ fullAnswer:
       **"Whatever the Messenger has given you — take" (59:7).** "And whatever the Messenger has given you — take; and what he has forbidden you — refrain from" (59:7). The verse's setting is the distribution of *fayʾ* (property gained without fighting); Akram Nadwi, among many others, treats it as general evidence for the Prophet's (pbuh) authority. That general use is a scholarly extension of a verse about a specific distribution.
 
       **To make clear what was sent down (16:44).** "And We revealed to you the message that you may make clear to the people what was sent down to them and that they might give thought" (16:44), Meccan. The Prophet's (pbuh) role includes explaining the Quran.
+    tr: |-
+      **Allah'a ve Peygamber'e itaat edin (4:59).** "Ey iman edenler! Allah'a itaat edin, Peygambere de itaat edin ve sizden olan emir sahibine de itaat edin. Eğer herhangi bir şeyde anlaşmazlığa düşerseniz; Allah'a ve ahiret gününe gerçekten inanıyorsanız, onu Allah ve Resulüne arz edin." (4:59), Medenî. Âyet Allah'a itaati Peygamber'e itaatten ayırır ve ikisini de anar.
+
+      **"Peygamber size ne verdiyse onu alın" (59:7).** "Peygamber size ne verdiyse onu alın. … yasakladıysa ondan sakının" (59:7). Âyetin bağlamı *fey*in (savaşmadan elde edilen mal) dağıtımıdır; Ekrem Nedvî, diğer pek çokları gibi, onu Hz. Peygamber'in (s.a.v.) otoritesine genel bir delil olarak ele alır. Bu genel kullanım, belirli bir dağıtımla ilgili bir âyetin âlimlerce yapılmış bir genişletmesidir.
+
+      **İndirileni açıklamak için (16:44).** "Sana da Kur'ân'ı indirdik ki, insanlara vahyedileni açıklayasın. Belki onlar da düşünürler." (16:44), Mekkî. Hz. Peygamber'in (s.a.v.) görevi Kur'an'ı açıklamayı da içerir.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: '**Writing hadith in his lifetime.** ʿAbdullah ibn ʿAmr (ra) said he "used to write everything" he heard from the Prophet (pbuh), "to memorise it". The Quraysh objected that the Prophet (pbuh) "is a human being: he speaks in anger and pleasure", so he stopped and told the Prophet (pbuh), who pointed to his mouth and said: "Write, by Him in Whose hand my soul lies, only right comes out from it" ({hadith:abudawud:3646}; al-Albani: *ṣaḥīḥ*). Other reports discourage writing hadith early on; scholars reconcile them in different ways (not covered here).'
+    tr: "**Onun hayatında hadis yazmak.** Abdullah b. Amr (r.a.), Hz. Peygamber'den (s.a.v.) duyduğu \"her şeyi ezberlemek için yazdığını\" söyledi. Kureyş, Hz. Peygamber'in (s.a.v.) \"bir insan olduğunu: öfkeyle de hoşnutlukla da konuştuğunu\" söyleyerek itiraz etti; o da yazmayı bıraktı ve bunu Hz. Peygamber'e (s.a.v.) anlattı; Hz. Peygamber ağzını göstererek şöyle buyurdu: \"Yaz; canım elinde olana yemin ederim ki, ondan haktan başka bir şey çıkmaz\" ({hadith:abudawud:3646}; Elbânî: *sahih*). Başka rivayetler erken dönemde hadis yazmaktan sakındırır; âlimler bunları farklı şekillerde bağdaştırır (burada ele alınmadı)."
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: |-
       **Terms.** An *isnād* is "the chain of narration" — who heard it from whom; the *matn* is the text. A *ṣaḥīḥ* (sound) hadith has an unbroken chain in which "every narrator is known to be upright and precise in their transmission", with a text "free from hidden defects or irregularities". A *ḥasan* (good) hadith meets most criteria, but a narrator "may have slightly less precise memory". A *ḍaʿīf* (weak) hadith fails them, "typically because of a break in the chain, an unreliable narrator, or a textual irregularity". A *mawḍūʿ* (fabricated) hadith is "invented and falsely attributed to the Prophet" (ParallelQuran's summary). Scholars judged narrators using biographical dictionaries that recorded each person's teachers, students, reliability and memory.
 
       **Bukhari and Muslim.** Al-Bukhari and Muslim each compiled a collection limited to reports they judged sound. How later scholars ranked these collections, and where they criticised particular reports in them, was not covered here.
 
-      **A worked example of grading.** In run 6, the hadith "Tie it and rely (upon Allah)" (al-Tirmidhi 2517) was called *gharīb* by al-Tirmidhi: he knew it from Anas only by this one route, and he noted a similar report from ʿAmr b. Umayya al-Damri. Yahya al-Qattan called it *munkar* (rejected); Zubair ʿAli Zaʾi graded it *ḥasan* (good); and Ibn Hibban (no. 731) has a version graded *ḥasan li-ghayrihi* ("good because of support from other routes") by al-Arnaʾut. So a familiar saying can rest on a disputed chain. By contrast, the three-outcomes hadith on du'a (Musnad Ahmad 11133) has a chain al-Arnaʾut called *jayyid* (good), al-Hakim authenticated, and a parallel in al-Adab al-Mufrad (no. 710; *Ṣaḥīḥ al-Adab al-Mufrad* 547) graded *ṣaḥīḥ* by al-Albani. Grading is done chain by chain, and agreement between independent chains strengthens a report.
+      **A worked example of grading.** The hadith "Tie it and rely (upon Allah)", discussed on the page on earthquakes and disasters, (al-Tirmidhi 2517) was called *gharīb* by al-Tirmidhi: he knew it from Anas only by this one route, and he noted a similar report from ʿAmr b. Umayya al-Damri. Yahya al-Qattan called it *munkar* (rejected); Zubair ʿAli Zaʾi graded it *ḥasan* (good); and Ibn Hibban (no. 731) has a version graded *ḥasan li-ghayrihi* ("good because of support from other routes") by al-Arnaʾut. So a familiar saying can rest on a disputed chain. By contrast, the three-outcomes hadith on du'a (Musnad Ahmad 11133) has a chain al-Arnaʾut called *jayyid* (good), al-Hakim authenticated, and a parallel in al-Adab al-Mufrad (no. 710; *Ṣaḥīḥ al-Adab al-Mufrad* 547) graded *ṣaḥīḥ* by al-Albani. Grading is done chain by chain, and agreement between independent chains strengthens a report.
+    tr: |-
+      **Terimler.** *İsnâd*, "rivayet zinciri"dir — kimin kimden duyduğu; *metn* ise metindir. *Sahih* bir hadisin senedi kesintisizdir ve "her râvinin adaletli ve aktarımında zabt sahibi olduğu bilinir"; metni de "gizli kusurlardan ya da tuhaflıklardan uzaktır". *Hasen* (iyi) bir hadis ölçütlerin çoğunu karşılar, ama bir râvinin "hafızası biraz daha az zabtlı olabilir". *Zayıf* bir hadis bu ölçütleri karşılamaz, "genellikle senetteki bir kopukluk, güvenilmez bir râvi ya da metindeki bir tuhaflık yüzünden". *Mevzû* (uydurma) bir hadis "uydurulmuş ve yalan yere Hz. Peygamber'e nispet edilmiştir" (ParallelQuran'ın özeti). Âlimler râvileri, her kişinin hocalarını, öğrencilerini, güvenilirliğini ve hafızasını kaydeden biyografik sözlükleri kullanarak değerlendirdi.
+
+      **Buhârî ve Müslim.** Buhârî ve Müslim'in her biri yalnızca sahih saydıkları rivayetlerle sınırlı bir külliyat derledi. Sonraki âlimlerin bu külliyatları nasıl sıraladığı ve içlerindeki belirli rivayetleri nerede eleştirdiği burada ele alınmadı.
+
+      **Derecelendirmeye işlenmiş bir örnek.** 6. çalışmada, "Onu bağla ve (Allah'a) tevekkül et" hadisi (Tirmizî 2517), Tirmizî tarafından *garîb* olarak nitelendirildi: Onu Enes'ten yalnızca bu tek yoldan biliyordu ve Amr b. Ümeyye ed-Damrî'den benzer bir rivayeti not etti. Yahyâ el-Kattân ona *münker* (reddedilen) dedi; Zübeyr Ali Zeî onu *hasen* (iyi) olarak derecelendirdi; ve İbn Hibbân'da (no. 731) Arnaût'un *hasen li-gayrihî* ("başka yollardan gelen destek sebebiyle iyi") olarak derecelendirdiği bir versiyonu var. Yani bilinen bir söz tartışmalı bir senede dayanabilir. Buna karşılık dua hakkındaki üç sonuç hadisinin (Müsned-i Ahmed 11133) senedini Arnaût *ceyyid* (iyi) olarak niteledi, Hâkim sahih saydı ve *el-Edebü'l-Müfred*'de (no. 710; *Sahîhu'l-Edebi'l-Müfred* 547) Elbânî'nin *sahih* olarak derecelendirdiği bir paraleli var. Derecelendirme sened sened yapılır ve bağımsız senetler arasındaki uyum bir rivayeti güçlendirir.
+    title:
+      en: Sistem nasıl işliyor?
+      tr: Sistem nasıl işliyor?
   - kind: history
     en: |-
       **Schacht's argument (outline only).** Joseph Schacht (*The Origins of Muhammadan Jurisprudence*, 1950) is the best-known Western critic of hadith chains. Neither his book nor a summary of it was read, so his thesis is given here only as the question above states it: that many legal hadith arose later and their chains were extended back to the Prophet (pbuh). Mansur Ali's review discusses the "common link" theory of G. H. A. Juynboll, the method Little (2022) also uses: the narrator on whom many chains of one hadith converge is treated as its likely originator.
@@ -120,6 +138,15 @@ fullAnswer:
       **Motzki's response.** Harald Motzki developed the *isnād-cum-matn* method — "the chain of narrators should be studied in tandem with the text of a hadith" — first in his study of the *Muṣannaf* of ʿAbd al-Razzaq al-Sanʿani. Mansur Ali's review says Motzki's critique shows that Juynboll's common-link theory "nevertheless suffers from many methodological and epistemological flaws", while noting that accepting Motzki's conclusions "will depend on how much reliance one is willing to place on the chain of narrators". Motzki's own dating results have not yet been consulted.
 
       **A live example: Aisha's age.** Joshua Little (2022) used the common-link method to argue that the report of Aisha's age at marriage "appears to have been created and disseminated" by Hisham ibn ʿUrwa in Iraq; Cheema (2024) replied that it is corroborated by chains not through Hisham, including al-Zuhri's in Muslim 1422c (see "Aisha's age at marriage"). The case shows both methods at work on one hadith.
+    tr: |-
+      **Schacht'ın argümanı (yalnızca ana hatları).** Joseph Schacht (*The Origins of Muhammadan Jurisprudence*, 1950), hadis senetlerinin en bilinen Batılı eleştirmenidir. Ne kitabı ne de bir özeti okundu, dolayısıyla tezi burada yalnızca yukarıdaki sorunun ifade ettiği şekliyle veriliyor: pek çok hukuki hadisin sonradan ortaya çıktığı ve senetlerinin Hz. Peygamber'e (s.a.v.) kadar geriye uzatıldığı. Mansur Ali'nin incelemesi, Little'ın (2022) da kullandığı yöntem olan G. H. A. Juynboll'un "ortak halka" teorisini ele alır: Bir hadisin pek çok senedinin üzerinde birleştiği râvi, onun muhtemel kaynağı sayılır.
+
+      **Motzki'nin cevabı.** Harald Motzki, *isnâd-metin* yöntemini — "râviler zinciri bir hadisin metniyle birlikte incelenmelidir" — ilk olarak Abdürrezzâk es-San'ânî'nin *Musannef*'i üzerine yaptığı çalışmada geliştirdi. Mansur Ali'nin incelemesi, Motzki'nin eleştirisinin Juynboll'un ortak halka teorisinin "yine de pek çok yöntemsel ve epistemolojik kusurdan mustarip olduğunu" gösterdiğini söyler; ancak Motzki'nin sonuçlarını kabul etmenin "kişinin râviler zincirine ne kadar güvenmeye istekli olduğuna bağlı olacağını" da not eder. Motzki'nin kendi tarihlendirme sonuçlarına henüz başvurulmadı.
+
+      **Canlı bir örnek: Hz. Âişe'nin yaşı.** Joshua Little (2022), ortak halka yöntemini kullanarak Hz. Âişe'nin evlilik yaşıyla ilgili rivayetin Irak'ta Hişâm b. Urve tarafından "üretilmiş ve yayılmış gibi göründüğünü" savundu; Cheema (2024), rivayetin Hişâm'dan geçmeyen, Müslim 1422c'deki Zührî senedi dahil senetlerle desteklendiği cevabını verdi (bkz. "Hz. Âişe'nin evlilik yaşı"). Bu örnek iki yöntemin tek bir hadis üzerinde nasıl işlediğini gösterir.
+    title:
+      en: Batılı akademi
+      tr: Batılı akademi
   - kind: reasoning
     en: |-
       **What the Quran-centred view holds.** The Hitit University study (2024) describes it as the belief that the Quran is complete, clear and self-sufficient — "the sole source of Islamic teaching" — so that other sources are unnecessary.
@@ -129,6 +156,17 @@ fullAnswer:
       **Two different arguments.** The reliability of the *practice* (how Muslims pray, fast and give zakāh) rests on continuous transmission by whole communities, not on individual chains. The reliability of the *corpus* of individual hadith reports rests on the grading system. One can be more confident in the first than in every item of the second.
 
       *Limit:* Quran-centred Muslims reply that 4:59 and 59:7 refer to the Prophet's (pbuh) authority in his lifetime, not to reports collected later. This is a real disagreement about how the Prophet's (pbuh) authority reaches later generations.
+    tr: |-
+      **Kur'an merkezli görüş neyi savunur?** Hitit Üniversitesi çalışması (2024) onu Kur'an'ın eksiksiz, açık ve kendi kendine yeterli olduğu — "İslam öğretisinin tek kaynağı" — dolayısıyla başka kaynakların gereksiz olduğu inancı olarak tarif eder.
+
+      **Ana akımın cevabı.** Nedvî, vahyin Hz. Peygamber'in (s.a.v.) hidayete erdirilmiş sözlerini ve fiillerini de içerdiğini; Kur'an'ın ona itaati emrettiğini (4:59; 59:7); ve Kur'an'ın genel görevleri — namaz, zekât, hadler — ayrıntılar olmadan bildirdiğini, ayrıntıları ise Sünnet'in sağladığını savunur; onun sözleriyle: "Sünnet olmadan İslami uygulama yorumlayıcı çapasından kopar ve kişisel yeniden yorumlamaya, göreceliğe ve mezhepçiliğe açık hâle gelir." Bu sayfanın kendi örneği (Nedvî'nin makalesinde yok): Kur'an namazı pek çok kez emreder, ama nasıl kılınacağını tarif etmez; günlük namazların sayısı ve biçimi, toplumun aktardığı şekliyle Hz. Peygamber'in (s.a.v.) uygulamasından gelir.
+
+      **İki farklı argüman.** *Uygulamanın* (Müslümanların nasıl namaz kıldığı, oruç tuttuğu ve zekât verdiği) güvenilirliği tek tek senetlere değil, bütün toplulukların kesintisiz aktarımına dayanır. Tek tek hadis rivayetlerinden oluşan *külliyatın* güvenilirliği ise derecelendirme sistemine dayanır. Kişi birincisine, ikincisinin her bir öğesinden daha fazla güvenebilir.
+
+      *Sınır:* Kur'an merkezli Müslümanlar, 4:59 ve 59:7'nin sonradan toplanan rivayetlere değil, Hz. Peygamber'in (s.a.v.) hayatındaki otoritesine işaret ettiği cevabını verir. Bu, Hz. Peygamber'in (s.a.v.) otoritesinin sonraki nesillere nasıl ulaştığı konusunda gerçek bir anlaşmazlıktır.
+    title:
+      en: Yalnızca Kur'an argümanı
+      tr: Yalnızca Kur'an argümanı
   - kind: objection
     en: |-
       **"Compiled two centuries later."** *Reply:* the great collections are from the third Islamic century, but they drew on earlier written collections and on chains of teachers; writing began in the Prophet's (pbuh) lifetime ({hadith:abudawud:3646}). *Limit:* how much early writing survived into the collections is debated.
@@ -136,37 +174,66 @@ fullAnswer:
       **"Thousands of fabrications exist."** *Reply:* yes, and Muslim scholars themselves identified and catalogued them; that is what the grading system is for. *Limit:* a system can catch many fabrications and still miss some.
 
       **"What do I do with a *ṣaḥīḥ* hadith that seems morally wrong?"** *Reply:* first, check the text, context and translation — many difficulties dissolve. Second, ask whether the report describes a particular situation rather than a rule for all times (see the discussion of al-Qarafi and Ibn ʿAshur on "Aisha's age at marriage"). Third, scholars have sometimes judged a report's text problematic despite a strong chain; that is a recognised, though cautious, part of the tradition. *Limit:* where the tradition has accepted a report and its meaning, a reader may still find it hard, and the honest answer is to say so.
+    tr: |-
+      **"İki yüzyıl sonra derlendi."** *Cevap:* Büyük külliyatlar hicrî üçüncü yüzyıla aittir, ama daha önceki yazılı derlemelerden ve hocalar zincirlerinden yararlandılar; yazım Hz. Peygamber'in (s.a.v.) hayatında başladı ({hadith:abudawud:3646}). *Sınır:* Erken dönem yazılarının ne kadarının külliyatlara ulaştığı tartışmalıdır.
+
+      **"Binlerce uydurma var."** *Cevap:* Evet ve onları Müslüman âlimlerin kendileri tespit edip katalogladı; derecelendirme sistemi bunun içindir. *Sınır:* Bir sistem pek çok uydurmayı yakalayıp yine de bazılarını kaçırabilir.
+
+      **"Ahlaken yanlış görünen *sahih* bir hadisle ne yapmalıyım?"** *Cevap:* Önce metni, bağlamı ve çeviriyi kontrol et — pek çok güçlük ortadan kalkar. İkincisi, rivayetin bütün zamanlar için bir kural yerine belirli bir durumu anlatıp anlatmadığını sor (bkz. "Hz. Âişe'nin evlilik yaşı" sayfasında Karâfî ve İbn Âşûr tartışması). Üçüncüsü, âlimler güçlü bir senede rağmen bir rivayetin metnini bazen sorunlu buldu; bu, geleneğin tanınmış, ama ihtiyatlı bir parçasıdır. *Sınır:* Geleneğin bir rivayeti ve anlamını kabul ettiği yerde okuyucu onu yine de zor bulabilir ve dürüst cevap bunu söylemektir.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Mainstream Sunni scholarship** — the Sunna is binding; graded hadith are its main record; *ṣaḥīḥ* collections are highly reliable.
       - **Schacht, Juynboll** — many hadith, especially legal ones, arose in the second century.
       - **Motzki** — chains and texts must be studied together; the common-link theory is methodologically flawed (as reported by Mansur Ali; Motzki's own dating results have not yet been consulted).
       - **Quran-centred Muslims (e.g. *Kur'an Müslümanlığı* in Türkiye)** — the Quran alone is the source; hadith are not binding.
+    tr: |-
+      - **Ana akım Sünnî ilim** — Sünnet bağlayıcıdır; derecelendirilmiş hadisler onun başlıca kaydıdır; *sahih* külliyatlar son derece güvenilirdir.
+      - **Schacht, Juynboll** — pek çok hadis, özellikle hukuki olanlar, ikinci yüzyılda ortaya çıktı.
+      - **Motzki** — senetler ve metinler birlikte incelenmelidir; ortak halka teorisi yöntemsel olarak kusurludur (Mansur Ali'nin aktardığına göre; Motzki'nin kendi tarihlendirme sonuçlarına henüz başvurulmadı).
+      - **Kur'an merkezli Müslümanlar (ör. Türkiye'de *Kur'an Müslümanlığı*)** — tek kaynak Kur'an'dır; hadisler bağlayıcı değildir.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: Is the Aisha marital-age hadith authentic?
+      tr: Hz. Âişe'nin evlilik yaşıyla ilgili hadis sahih mi?
     a:
       en: By classical standards, yes; Little's thesis argues it originated with one narrator in Iraq, and Cheema replies with corroborating chains. See "Aisha's age at marriage".
+      tr: Klasik ölçütlere göre evet; Little'ın tezi onun Irak'ta tek bir râviyle başladığını savunur, Cheema ise destekleyici senetlerle cevap verir. Bkz. "Hz. Âişe'nin evlilik yaşı".
   - q:
       en: How did the testing system work?
+      tr: Sınama sistemi nasıl işliyordu?
     a:
       en: Scholars examined every narrator's reliability and memory using biographical records, checked that the chain was connected, and compared versions of the text.
+      tr: Âlimler biyografik kayıtları kullanarak her râvinin güvenilirliğini ve hafızasını inceledi, senedin bağlantılı olup olmadığını kontrol etti ve metnin versiyonlarını karşılaştırdı.
   - q:
       en: What do I do with a *ṣaḥīḥ* hadith that seems morally wrong?
+      tr: Ahlaken yanlış görünen *sahih* bir hadisle ne yapmalıyım?
     a:
       en: Check text and context; ask whether it is situational; study how scholars have read it; and be honest if it remains hard.
+      tr: Metni ve bağlamı kontrol et; duruma özgü olup olmadığını sor; âlimlerin onu nasıl okuduğunu incele; ve zor kalırsa bunu dürüstçe söyle.
   - q:
       en: What is a hadith, and how is it different from the Quran?
+      tr: Hadis nedir ve Kur'an'dan farkı ne?
     a:
       en: A hadith is a report about the Prophet (pbuh); the Quran is, for Muslims, God's own word. Hadith are graded; the Quran is not.
+      tr: Hadis, Hz. Peygamber (s.a.v.) hakkında bir rivayettir; Kur'an ise Müslümanlar için Allah'ın kendi sözüdür. Hadisler derecelendirilir; Kur'an derecelendirilmez.
   - q:
       en: What are Bukhari and Muslim?
+      tr: Buhârî ve Müslim nedir?
     a:
       en: Two hadith collections, each limited to reports its compiler judged sound.
+      tr: Her biri derleyicisinin sahih saydığı rivayetlerle sınırlı iki hadis külliyatı.
   - q:
       en: What is the Sunna?
+      tr: Sünnet nedir?
     a:
       en: "The Prophet's (pbuh) way: his words, acts and approvals, known through hadith and community practice."
+      tr: "Hz. Peygamber'in (s.a.v.) yolu: hadisler ve toplumun uygulaması aracılığıyla bilinen sözleri, fiilleri ve onayları."
 legacySources:
   - *a1
   - *a2
@@ -176,3 +243,4 @@ legacySources:
   - *a6
   - *a7
   - *a8
+translatedFrom: docs/research/tr/Q11.md

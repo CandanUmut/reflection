@@ -15,16 +15,13 @@ verses:
   - 2:170
   - 30:30
 steelman:
-  tr: |
-    Tamil Nadu'da doğsaydım Hindu olurdum. İnanç doğum yerini izliyor.
+  tr: "\"Tamil Nadu'da doğsaydım neredeyse kesin Hindu olurdum; Utah'ta Mormon; Riyad'da Müslüman. Gerekçelerim bana ikna edici geliyor, ama bir Hinduya da kendi gerekçeleri ikna edici geliyor. Yani gerekçelerimin iyi olduğu hissi, inancım sadece yetiştirilme tarzımdan gelseydi de tam olarak sahip olacağım histir. 'Bu köken safsatası' demek meseleyi kaçırıyor: İnancımın nereden geldiği için yanlış olduğunu söylemiyorum — içeriden bakarak gerekçelerimin gerçek mi yoksa sadece yetiştirilme tarzımın sesi mi olduğunu ayırt etmenin hiçbir yolu olmadığını söylüyorum.\""
   en: "\"If I had been born in Tamil Nadu, I would almost certainly be Hindu; in Utah, a Mormon; in Riyadh, a Muslim. My reasons feel convincing to me, but a Hindu's reasons feel convincing to him. So my feeling that my reasons are good is exactly what I would have if my belief came only from my upbringing. Saying 'that's the genetic fallacy' misses the point: I'm not saying my belief is false because of where it came from — I'm saying I have no way of telling, from the inside, whether my reasons are real or just my upbringing talking.\""
 whyAsked:
-  tr: |
-    Üniversite öğrencileri arasında yaygındır.
+  tr: Üniversite öğrencileri başka inançlarla yetişmiş insanlarla, çoğu zaman ilk kez, karşılaşıyor ve kendi inançlarının ne kadarının aileleriyle birlikte geldiğini fark ediyor. Soru Müslümanlar için daha keskindir, çünkü Kur'an'ın kendisi babalarının dinine uyan insanları eleştirir.
   en: University students meet people raised in other faiths, often for the first time, and notice how much of their own belief came with their family. The question is sharper for Muslims because the Quran itself criticises people who follow their fathers' religion.
 shortAnswer:
-  tr: |
-    Bir inancın nasıl ortaya çıktığı, doğru olup olmadığına karar vermez; öyle varsaymak köken safsatasıdır. Kur'an'ın kendisi de atalardan devralınan imanı kınar (2:170; 43:22–23). Allah'a doğal bir açıklık, *fıtrata*, yani doğuştan gelen yatkınlığa uyar. Asıl soru, şimdi sebeplerinin olup olmadığıdır.
+  tr: "Yetiştirilme tarzı inancı güçlü bir şekilde şekillendirir; hem veriler hem de Hz. Peygamber (s.a.v.) bunu söyler. İtirazın zayıf biçimi (\"bir inancın nereden geldiği onun yanlış olduğunu gösterir\") bir safsatadır. Güçlü biçimi (\"gerekçelerimin gerçek olup olmadığını ayırt edemiyorum\") ciddidir ve Gazzâlî'nin on birinci yüzyılda karşılaştığı sorudur: \"Hristiyan çocukların hep Hristiyan, Yahudi çocukların Yahudi, Müslüman çocukların Müslüman olarak yetiştiğini\" gördü, miras aldığı her şeyden şüphe etti ve sınanmış bir imanla çıktı. Cevap inanmayı bırakmak değildir — aynı şüphe, onlar da yetiştirilme tarzıyla şekillenen ahlaki, siyasi, hatta ateist inançları da sarsardı — gerekçelerini incelemektir. Kur'an miras alınan inancın kendisini değil, \"babalarımızı\" başka türlü \"bulduk\" diye delile bakmayı reddetmeyi kınar (2:170; 43:22–24). Klasik kelâmcıların çoğu da, üzerinde akıl yürütmemiş birinin imanının yine de geçerli olduğunu kabul etti, ama insanları düşünmeye teşvik etti."
   en: "Upbringing shapes belief strongly; the data and the Prophet (pbuh) both say so. The weak form of the objection (\"where a belief came from shows it is false\") is a fallacy. The strong form (\"I can't tell whether my reasons are real\") is serious, and it is the question al-Ghazali faced in the eleventh century: he saw that \"Christian youths always grew up to be Christians, Jewish youths to be Jews and Muslim youths to be Muslims\", doubted everything he had inherited, and came out with a faith he had tested. The answer is not to stop believing — the same doubt would undermine moral, political and even atheist beliefs, which are also shaped by upbringing — but to examine one's reasons. The Quran rebukes not inherited belief as such, but refusing to look at evidence because \"we found our fathers\" doing otherwise (2:170; 43:22–24). And most classical theologians held that the faith of someone who has not reasoned it through is still valid, though they urged people to think."
 layers:
   - kind: religious
@@ -44,8 +41,7 @@ layers:
       İmanı sahiplenmek, gelişimin normal bir evresidir.
     en: Owning one's faith is a normal stage of development.
 honestLimits:
-  tr: |
-    Yetiştirilme inancı gerçekten şekillendirir. *Fıtrat* verilerle uyuşur ama onlarla kanıtlanmaz.
+  tr: Yetiştirilme tarzı inancı gerçekten şekillendirir ve imanı incelemek bu etkiyi tamamen ortadan kaldıramaz. *Fıtrat* çocuklarla ilgili araştırmaya uyar, ama araştırma onu ispat etmez. Barrett'ın kitabı ve Pew makalesinin tam yöntemi yalnızca özetler aracılığıyla okundu. İbn Teymiyye'nin *Der'*'ine henüz başvurulmadı.
   en: Upbringing does shape belief, and examining one's faith cannot remove that influence entirely. *Fiṭra* fits the research on children, but the research does not prove it. Barrett's book and the Pew paper's full methods were read only through summaries. Ibn Taymiyya's *Darʾ* has not yet been consulted.
 visualizations:
   - id: ideas
@@ -57,7 +53,7 @@ sources:
   - label: Saheeh International via legacy.quran.com — 43:22–24.
   - label: Ibn Kathir, *Tafsir* (abridged English), on 43:22–24, https://surahquran.com/tafsir-english-aya-22-sora-43.html.
     url: https://surahquran.com/tafsir-english-aya-22-sora-43.html
-  - label: Sahih al-Bukhari 1385 (sunnah.com), as read for run 2.
+  - label: Sahih al-Bukhari 1385 (sunnah.com).
   - label: W. Montgomery Watt (trans.), al-Ghazali, *al-Munqidh min al-Dalal*, in *The Faith and Practice of al-Ghazali* (1953), https://www.ghazali.org/works/watt3.htm — sections I and II.
     url: https://www.ghazali.org/works/watt3.htm
   - label: Kamil Güneş, "Eşʿarî'de Mukallidin İmanı", *Marife* 7:2 (2007), pp. 7–35, https://zenodo.org/records/3343847/files/MARIFE.2007.2-20_GUNES.pdf.
@@ -67,8 +63,8 @@ sources:
     url: https://bycommonconsent.com/2012/03/08/review-justin-l-barrett-born-believers-the-science-of-childrens-religious-beliefs/
   - label: 'Hans Van Eyghen, "Debunking Arguments against Theistic Belief", ch. 5 in *Introduction to Philosophy: Philosophy of Religion* (Rebus Community), https://press.rebus.community/intro-to-phil-of-religion/chapter/debunking-arguments-against-theistic-belief/.'
     url: https://press.rebus.community/intro-to-phil-of-religion/chapter/debunking-arguments-against-theistic-belief/
-  - label: Liz Jackson, review of Guy Axtell, *Problems of Religious Luck* (2019), *Notre Dame Philosophical Reviews*, 2019.09.23 (as read for run 2).
-  - label: Pew Research Center, "10 key findings about the religious lives of U.S. teens and their parents" (10 September 2020) (as read for run 2).
+  - label: Liz Jackson, review of Guy Axtell, *Problems of Religious Luck* (2019), *Notre Dame Philosophical Reviews*, 2019.09.23 ().
+  - label: Pew Research Center, "10 key findings about the religious lives of U.S. teens and their parents" (10 September 2020) ().
   - &a1
     label: Barrett (2012)
   - &a2
@@ -96,6 +92,13 @@ fullAnswer:
       **If this question has unsettled you, you are in good company.** One of the greatest theologians in Islamic history began his search exactly here. Doubt that leads to examination is not a betrayal of faith.
 
       **Owning your faith does not mean starting from zero.** It means asking, of what you were given: what are my reasons now, and do they hold? Some of what you inherited may turn out to be custom rather than religion; some may turn out to be truer than you knew.
+    tr: |-
+      **Bu soru seni sarstıysa, iyi bir topluluğun içindesin.** İslam tarihinin en büyük kelâmcılarından biri arayışına tam da burada başladı. İncelemeye götüren şüphe, imana ihanet değildir.
+
+      **İmanını sahiplenmek sıfırdan başlamak demek değildir.** Sana verilenle ilgili şunu sormak demektir: Şimdi gerekçelerim neler ve ayakta duruyorlar mı? Miras aldıklarının bir kısmı dinden çok örf çıkabilir; bir kısmı da bildiğinden daha doğru çıkabilir.
+    title:
+      en: Kalp ve akıl için
+      tr: Kalp ve akıl için
   - kind: quran
     en: |-
       **The Quran criticises following fathers against evidence.** "And when it is said to them, 'Follow what Allah has revealed,' they say, 'Rather, we will follow that which we found our fathers doing.' Even though their fathers understood nothing, nor were they guided?" (2:170). This is Medinan, in Sura al-Baqara, about people who held to inherited practices.
@@ -105,8 +108,23 @@ fullAnswer:
       **What the verses criticise.** Not belief that one learned from one's parents, but refusing to consider "better guidance" when it is brought (43:24). This applies to Muslims too: a Muslim who would refuse to look at evidence because "this is what my family believes" is doing what the verse describes.
 
       **An innate disposition.** "[Adhere to] the fitrah of Allah upon which He has created [all] people" (30:30). *Fiṭra* means the original nature God gave people, which the tradition reads as an inclination toward God.
+    tr: |-
+      **Kur'an delile rağmen babalara uymayı eleştirir.** "Onlara: "Allah'ın indirdiğine uyun." dendiği vakit de: "Yok, atalarımızı neyin üzerinde bulduysak ona uyarız." dediler. Ya ataları bir şeye akıl erdiremez ve doğruyu seçemez idiyseler de mi onlara uyacaklar?" (2:170). Bu âyet Medenîdir, Bakara Sûresi'ndedir ve miras kalan âdetlere sarılan insanlar hakkındadır.
+
+      **Bunun her peygambere yaşandığını söyler.** "Hayır, onlar sadece: "Biz babalarımızı bu din üzerinde bulduk, biz de onların izinde gidiyoruz." dediler. Ey Muhammed! Yine böyle biz senden önce de hangi memlekete bir uyarıcı göndermişsek, mutlaka oranın şımarık varlıklı kimseleri: "Biz babalarımızı bir din üzerinde bulduk, biz de onların izlerine uyarız." dediler. Gönderilen uyarıcı; "Eğer size babalarınızı üzerinde bulduğunuz dinden daha doğrusunu getirmişsem de mi bana uymazsınız?" deyince…" (43:22–24), Zuhruf Sûresi'nden, Mekkî. İbn Kesîr bunu, "putperestlik inançları için babalarını taklit etmelerinden başka hiçbir dayanakları olmayan" ve iddialarını "hiçbir delil olmadan" ortaya koyan putperestlere hitap olarak okur.
+
+      **Âyetlerin eleştirdiği şey.** Kişinin anne babasından öğrendiği inanç değil, "daha doğrusu" getirildiğinde onu düşünmeyi reddetmektir (43:24). Bu Müslümanlar için de geçerlidir: "ailem buna inanıyor" diye delile bakmayı reddedecek bir Müslüman, âyetin anlattığı şeyi yapıyor demektir.
+
+      **Doğuştan bir yatkınlık.** "…Allah'ın insanları üzerine yaratmış olduğu fıtratına…" (30:30). *Fıtrat*, Allah'ın insanlara verdiği asıl yaratılış demektir; gelenek bunu Allah'a yönelik bir eğilim olarak okur.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: "**The Prophet (pbuh) himself said parents shape a child's religion.** \"Every child is born with a true faith of Islam (i.e. to worship none but Allah Alone) and his parents convert him to Judaism or Christianity or Magianism\" ({hadith:bukhari:1385}; the words in brackets are the translator's). This hadith *agrees* with the objection that upbringing shapes belief. What it adds is a claim about what lies underneath: a natural disposition (*fiṭra*) that upbringing builds on or redirects. On this view, upbringing explains the differences between religions, while *fiṭra* explains why belief in God is so widespread."
+    tr: "**Hz. Peygamber (s.a.v.) bizzat anne babanın çocuğun dinini şekillendirdiğini söyledi.** \"Her çocuk İslam'ın gerçek imanı üzere (yani yalnızca Allah'a ibadet etmek üzere) doğar; anne babası onu Yahudi, Hristiyan ya da Mecûsî yapar\" ({hadith:bukhari:1385}; parantez içindeki sözler çevirmenindir). Bu hadis, yetiştirilme tarzının inancı şekillendirdiği itirazıyla *aynı fikirdedir*. Eklediği şey, altta ne yattığına dair bir iddiadır: yetiştirilme tarzının üzerine inşa ettiği ya da yönünü değiştirdiği doğal bir yatkınlık (*fıtrat*). Bu görüşe göre yetiştirilme tarzı dinler arasındaki farkları açıklar; *fıtrat* ise Allah'a inancın neden bu kadar yaygın olduğunu açıklar."
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: |-
       **Al-Ghazali's story.** Al-Ghazali (d. 1111) tells in *al-Munqidh min al-Dalal* (*Deliverance from Error*) that from youth he wanted to know "the true meaning of things". He writes: "I saw that Christian youths always grew up to be Christians, Jewish youths to be Jews and Muslim youths to be Muslims", and recalled the hadith that everyone is born with a sound nature (Watt, section I). He resolved to find knowledge "in which the thing known is made so manifest that no doubt clings to it". He then tested every source of knowledge — first the senses (the eye sees a star as small, though it is larger than the earth), then reason itself — and fell into doubt for "almost two months". He says the doubt ended not by an argument but by "a light which God most high cast into my breast", which restored his trust in the basic truths of reason (section II). He then examined the theologians, the philosophers, the Ismaʿilis and the Sufis in turn. His faith after this was not inherited; it was tested, and partly given back to him.
@@ -118,6 +136,19 @@ fullAnswer:
       - **Al-Ashʿari's own view is disputed.** His surviving works contain no clear statement that the imitator's faith is invalid; later authors attributed it to him, and others (al-Baghdadi, al-Taftazani) read it as referring to *complete* faith (pp. 14, 24–25).
 
       So the mainstream answer is: the believer who has not reasoned is still a believer, but is urged to think. That is the opposite of "blind faith" being the ideal.
+    tr: |-
+      **Gazzâlî'nin hikâyesi.** Gazzâlî (ö. 1111), *el-Munkız mine'd-Dalâl* (*Dalâletten Kurtuluş*) adlı eserinde gençliğinden beri "şeylerin hakikatini" bilmek istediğini anlatır. Şöyle yazar: "Hristiyan çocukların hep Hristiyan, Yahudi çocukların Yahudi ve Müslüman çocukların Müslüman olarak yetiştiğini gördüm" ve herkesin sağlam bir yaratılış üzere doğduğunu bildiren hadisi hatırladı (Watt, I. bölüm). "Bilinen şeyin, ona hiçbir şüphe bulaşmayacak kadar açık hâle getirildiği" bir bilgi bulmaya karar verdi. Ardından her bilgi kaynağını sınadı — önce duyular (göz bir yıldızı küçük görür, oysa o dünyadan büyüktür), sonra aklın kendisi — ve "yaklaşık iki ay" şüpheye düştü. Şüphenin bir argümanla değil, "yüce Allah'ın göğsüme attığı bir nur" ile sona erdiğini ve bu nurun aklın temel doğrularına güvenini geri verdiğini söyler (II. bölüm). Sonra sırayla kelâmcıları, filozofları, İsmâilîleri ve sûfileri inceledi. Bundan sonraki imanı miras değildi; sınanmıştı ve kısmen ona geri verilmişti.
+
+      **Mukallidin imanı (*îmânü'l-mukallid*).** Klasik kelâmcılar yalnızca *taklit* ile (kişinin kendi akıl yürütmesi olmadan başkalarına uyarak) sahip olunan imanın geçerli olup olmadığını sordu. Kamil Güneş (2007) görüşleri şöyle özetler:
+      - **Geçerli, ama akıl yürütmeyi ihmal ettiği için günah** — Mâtürîdî ve Eş'arî kelâmcıların çoğunun ve İbn Teymiyye'nin görüşü (s. 10–11).
+      - **Geçerli** — Ebû Hanîfe, Süfyân es-Sevrî, Mâlik, Evzâî, Şâfiî, Ahmed b. Hanbel, Muhâsibî, Nesefî, Bağdâdî, Gazzâlî ve Teftâzânî; Teftâzânî neredeyse bütün fakihlerin bu görüşte olduğunu söyledi (s. 11).
+      - **Geçersiz** — Mu'tezile (Kâdî Abdülcebbâr) ve Eş'arîlerden Cüveynî ile İsferâyînî (s. 12–14).
+      - **Eş'arî'nin kendi görüşü tartışmalıdır.** Günümüze ulaşan eserlerinde mukallidin imanının geçersiz olduğuna dair açık bir ifade yoktur; sonraki yazarlar bunu ona atfetti, başkaları (Bağdâdî, Teftâzânî) ise bunu *kâmil* imana ilişkin olarak okudu (s. 14, 24–25).
+
+      Yani ana akım cevap şudur: Akıl yürütmemiş mümin yine de mümindir, ama düşünmeye teşvik edilir. Bu, "kör inancın" ideal olmasının tam tersidir.
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: reasoning
     en: |-
       **The weak form: the genetic fallacy.** "You believe X because of your upbringing, so X is false" confuses where a belief came from with whether it is true. Philosophers describe this as conflating "the context of discovery with the context of justification" (Jong and Visala, as reported by Van Eyghen).
@@ -127,6 +158,17 @@ fullAnswer:
       **Why debunking arguments "prove too much".** A debunking argument tries to show that a class of beliefs was formed by a process that does not track truth (Van Eyghen). The problem with using upbringing this way: almost all our deep beliefs are shaped by upbringing. Jackson's review lists the replies: some beliefs — such as that discrimination is wrong — we rightly keep despite their cultural origin; atheism and theism are equally affected by upbringing; and the same problem hits moral, political and philosophical beliefs. *Example:* someone raised in a family that believes in human equality would, if raised in a different time and place, perhaps not believe it. That does not make belief in human equality unjustified. If the argument worked against religion, it would also work against the belief in equality — and against the atheist's own atheism.
 
       **What actually answers the strong form.** Not the observation that everyone is affected, but checking one's reasons against ones that do *not* depend on upbringing: arguments that a person from any culture can examine (the existence and order of the world; the character and message of a prophet; the transmission of a scripture), and listening to the best case for other views. This is what al-Ghazali did. *Limit:* no one can fully step outside their upbringing; examination can reduce the role of luck, not remove it.
+    tr: |-
+      **Zayıf biçim: köken safsatası.** "X'e yetiştirilme tarzın yüzünden inanıyorsun, öyleyse X yanlıştır" demek, bir inancın nereden geldiğini onun doğru olup olmadığıyla karıştırır. Filozoflar bunu "keşif bağlamını gerekçelendirme bağlamıyla" karıştırmak olarak tarif eder (Jong ve Visala, Van Eyghen'in aktardığına göre).
+
+      **Güçlü biçim: dinî şans.** Filozof Guy Axtell, müminler başka yerde yetişselerdi muhtemelen zıt inançlara sahip olacakları için, dışlayıcı dinî inancın "kötü huylu bir epistemik şans damarından" mustarip olduğunu savunur (Jackson'ın incelemesi, *NDPR*). Bu, itirazın tam gücüyle hâlidir.
+
+      **Çürütme argümanları neden "fazlasını ispat eder"?** Bir çürütme argümanı, bir inanç sınıfının doğruyu izlemeyen bir süreçle oluştuğunu göstermeye çalışır (Van Eyghen). Yetiştirilme tarzını bu şekilde kullanmanın sorunu şudur: Neredeyse bütün derin inançlarımız yetiştirilme tarzıyla şekillenir. Jackson'ın incelemesi cevapları sıralar: Bazı inançları — örneğin ayrımcılığın yanlış olduğunu — kültürel kökenlerine rağmen haklı olarak koruruz; ateizm ve teizm yetiştirilme tarzından eşit derecede etkilenir; ve aynı problem ahlaki, siyasi ve felsefi inançları da vurur. *Örnek:* İnsan eşitliğine inanan bir ailede yetişmiş biri, başka bir zamanda ve yerde yetişseydi belki buna inanmazdı. Bu, insan eşitliğine inancı gerekçesiz kılmaz. Argüman dine karşı işleseydi, eşitlik inancına — ve ateistin kendi ateizmine — karşı da işlerdi.
+
+      **Güçlü biçimi gerçekte ne cevaplar?** Herkesin etkilendiği gözlemi değil, kişinin gerekçelerini yetiştirilme tarzına *bağlı olmayan* gerekçelerle karşılaştırması: Her kültürden bir insanın inceleyebileceği argümanlar (dünyanın varlığı ve düzeni; bir peygamberin karakteri ve mesajı; bir kutsal metnin aktarımı) ve diğer görüşlerin en iyi savunusunu dinlemek. Gazzâlî'nin yaptığı budur. *Sınır:* Hiç kimse yetiştirilme tarzının dışına tamamen çıkamaz; inceleme şansın rolünü azaltabilir, ortadan kaldıramaz.
+    title:
+      en: Filozoflar bu konuda nasıl akıl yürütür?
+      tr: Filozoflar bu konuda nasıl akıl yürütür?
   - kind: science
     en: |-
       **Belief is passed on in families.** [Established, for the US sample.] In a Pew survey of 1,811 pairs of US teens and their parents (2019), "Most teens share the religion of their parents", and 48% of teens said they have "all the same" religious beliefs as their parent.
@@ -136,6 +178,17 @@ fullAnswer:
       **Thinking analytically does not reliably reduce belief.** [Moderate.] A 2012 study in *Science* (Gervais and Norenzayan) reported that prompting analytic thinking reduced religious belief. A large, pre-registered, multi-site replication with 941 participants found "little to no effect on religious belief": d = 0.07, in the opposite direction, 95% CI [−0.12, 0.25] (Sanchez et al., *PLOS ONE*, 2017).
 
       **What this means.** Upbringing strongly shapes *which* religion people hold; a general openness to belief in God appears early in children; and the claim that thinking carefully makes people stop believing did not hold up in this replication. None of this shows that any religion is true or false.
+    tr: |-
+      **İnanç ailelerde aktarılır.** [Established, ABD örneklemi için.] Pew'in ABD'li 1.811 genç–ebeveyn çiftiyle yaptığı ankette (2019), "Gençlerin çoğu anne babalarının dinini paylaşıyor"; gençlerin %48'i anne ya da babalarıyla "tamamen aynı" dinî inançlara sahip olduğunu söyledi.
+
+      **Çocuklar bazı dinî fikirlere doğal olarak yatkındır.** [Orta.] O sırada Oxford'da bulunan psikolog Justin Barrett, *Born Believers* (*Doğuştan İnananlar*, 2012) adlı kitabında "tanrılara inancın doğal olarak ortaya çıkan bir insan olgusu gibi göründüğünü" savunur: Çocuklar failleri kolayca algılar, doğada amaç görür ("rastgele teleoloji") ve bir yaratıcı varsaymaya eğilimlidir. Kültürler arası bir "doğal din"i, "edinilmesi daha fazla zaman ve çaba gerektiren" ayrıntılı teolojiden ayırır (BHodges'un incelemesinin aktardığına göre). Bu, belirli bir dini öne çıkarmaz; incelemeyi yazan, Barrett'ın dinler arasında hüküm vermek için "bir pusula sunmadığını" not eder. Kitabın kendisine henüz doğrudan başvurulmadı.
+
+      **Analitik düşünmek inancı güvenilir şekilde azaltmıyor.** [Orta.] *Science* dergisinde 2012'de yayımlanan bir çalışma (Gervais ve Norenzayan), analitik düşünmeye teşvik etmenin dinî inancı azalttığını bildirdi. 941 katılımcıyla yapılan, önceden kaydedilmiş, çok merkezli büyük bir tekrar çalışması "dinî inanç üzerinde çok az ya da hiç etki" bulmadı: d = 0,07, ters yönde, %95 GA [−0,12, 0,25] (Sanchez ve ark., *PLOS ONE*, 2017).
+
+      **Bunun anlamı.** Yetiştirilme tarzı insanların *hangi* dine sahip olduğunu güçlü bir şekilde şekillendirir; Allah'a inanca genel bir açıklık çocuklarda erken ortaya çıkar; ve dikkatli düşünmenin insanları inanmaktan vazgeçirdiği iddiası bu tekrar çalışmasında doğrulanmadı. Bunların hiçbiri herhangi bir dinin doğru ya da yanlış olduğunu göstermez.
+    title:
+      en: Bilim ne diyor?
+      tr: Bilim ne diyor?
   - kind: objection
     en: |-
       **"I can't tell from the inside whether my reasons are real."** *Reply:* you can test them from the outside — against the best arguments of other views, and against reasons that do not depend on where you were born. *Limit:* most people never do this, and for them the objection stands.
@@ -143,6 +196,15 @@ fullAnswer:
       **"*Fiṭra* is just a religious name for a cognitive bias."** *Reply:* the research shows a natural tendency; whether it tracks something real or is a misfire is what is disputed. Van Eyghen notes the reply that belief-forming faculties can be "sensitive to something": if God exists, a faculty that leads people toward Him would be working properly. *Limit:* this reply works only if there are independent reasons to think God exists.
 
       **"Doesn't the Quran blame people of other faiths for following their parents?"** *Reply:* the verses blame refusing "better guidance" when it is brought (43:24), and the Quran says no one is punished until a messenger has come (17:15). Mainstream scholars apply this to individuals the message did not truly reach (see "Are good people of other faiths saved?"). *Limit:* who counts as having truly received the message is something only God knows.
+    tr: |-
+      **"Gerekçelerimin gerçek olup olmadığını içeriden ayırt edemem."** *Cevap:* Onları dışarıdan sınayabilirsin — diğer görüşlerin en iyi argümanlarına karşı ve nerede doğduğuna bağlı olmayan gerekçelere karşı. *Sınır:* Çoğu insan bunu hiç yapmaz ve onlar için itiraz geçerliliğini korur.
+
+      **"*Fıtrat*, bilişsel bir yanlılığın dinî adıdır."** *Cevap:* Araştırma doğal bir eğilim olduğunu gösteriyor; tartışılan, bunun gerçek bir şeyi mi izlediği yoksa bir yanılma mı olduğudur. Van Eyghen, inanç oluşturan yetilerin "bir şeye duyarlı" olabileceği cevabını not eder: Allah varsa, insanları O'na yönelten bir yeti doğru çalışıyor demektir. *Sınır:* Bu cevap ancak Allah'ın var olduğunu düşünmek için bağımsız gerekçeler varsa işe yarar.
+
+      **"Kur'an başka inançlardan insanları babalarına uydukları için suçlamıyor mu?"** *Cevap:* Âyetler, getirildiğinde "daha doğrusunu" reddetmeyi suçlar (43:24) ve Kur'an bir peygamber gelmedikçe kimsenin azaba uğratılmayacağını söyler (17:15). Ana akım âlimler bunu, mesajın gerçekten ulaşmadığı bireylere uygular (bkz. "Başka dinlerden iyi insanlar kurtulacak mı?"). *Sınır:* Mesajı gerçekten kimin almış sayılacağını yalnızca Allah bilir.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Mainstream Sunni theology** — faith by *taqlīd* is valid, though reasoning is urged (most Ashʿaris and Maturidis; the four imams; Güneş).
@@ -150,31 +212,52 @@ fullAnswer:
       - **Al-Ghazali** — inherited belief must be tested to become certainty (*al-Munqidh*).
       - **Axtell** — exclusivist religious belief is undermined by epistemic luck.
       - **Critics of Axtell** — the same argument undermines too much (Jackson's review).
+    tr: |-
+      - **Ana akım Sünnî kelâm** — *taklit* ile iman geçerlidir, ama akıl yürütmeye teşvik edilir (Eş'arîlerin ve Mâtürîdîlerin çoğu; dört imam; Güneş).
+      - **Mu'tezile, Cüveynî, İsferâyînî** — akıl yürütmeden iman geçerli değildir (Güneş).
+      - **Gazzâlî** — miras alınan inanç kesinliğe dönüşmek için sınanmalıdır (*el-Munkız*).
+      - **Axtell** — dışlayıcı dinî inanç epistemik şans tarafından sarsılır.
+      - **Axtell'in eleştirmenleri** — aynı argüman çok fazla şeyi sarsar (Jackson'ın incelemesi).
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: What does Bukhari 1385 actually say?
+      tr: Buhârî 1385 tam olarak ne diyor?
     a:
       en: '"Every child is born with a true faith of Islam… and his parents convert him to Judaism or Christianity or Magianism." It agrees that parents shape religion, and adds that a natural disposition lies underneath.'
+      tr: "\"Her çocuk İslam'ın gerçek imanı üzere doğar… anne babası onu Yahudi, Hristiyan ya da Mecûsî yapar.\" Anne babanın dini şekillendirdiğini kabul eder ve altta doğal bir yatkınlık bulunduğunu ekler."
   - q:
       en: How did al-Ghazali get out of his doubt?
+      tr: Gazzâlî şüphesinden nasıl çıktı?
     a:
       en: After about two months, by "a light which God most high cast into my breast" that restored his trust in reason; he then tested each school of thought in turn (*al-Munqidh*).
+      tr: Yaklaşık iki ay sonra, aklına güvenini geri veren "yüce Allah'ın göğsüme attığı bir nur" ile; sonra her düşünce okulunu sırayla sınadı (*el-Munkız*).
   - q:
       en: What are debunking arguments, and why do they "prove too much"?
+      tr: Çürütme argümanları nedir ve neden "fazlasını ispat eder"?
     a:
       en: Arguments that a belief came from an unreliable process. Used against religion because of upbringing, they would also undermine moral and political beliefs — and atheism.
+      tr: Bir inancın güvenilmez bir süreçten geldiğini gösteren argümanlar. Yetiştirilme tarzı yüzünden dine karşı kullanıldıklarında, ahlaki ve siyasi inançları — ve ateizmi — de sarsarlar.
   - q:
       en: Is a faith I never examined worth anything?
+      tr: Hiç incelemediğim bir imanın değeri var mı?
     a:
       en: Most classical scholars said it is valid faith; most also said you should examine it.
+      tr: Klasik âlimlerin çoğu bunun geçerli bir iman olduğunu söyledi; çoğu da onu incelemen gerektiğini söyledi.
   - q:
       en: How do I examine my faith?
+      tr: İmanımı nasıl incelerim?
     a:
       en: Read the strongest case for and against it; ask which of your reasons would convince someone raised elsewhere; separate religious teaching from family custom; and talk with someone who knows the arguments well.
+      tr: Onun lehine ve aleyhine en güçlü savunmaları oku; gerekçelerinden hangilerinin başka yerde yetişmiş birini ikna edeceğini sor; dinî öğretiyi aile örfünden ayır; ve argümanları iyi bilen biriyle konuş.
   - q:
       en: What is Barrett's 2012 work about?
+      tr: Barrett'ın 2012 çalışması ne hakkında?
     a:
       en: "*Born Believers*, a book arguing that young children are naturally inclined to believe in agents, purpose and a creator, though not in any particular religion."
+      tr: "*Born Believers*; küçük çocukların faillere, amaca ve bir yaratıcıya — ama belirli bir dine değil — inanmaya doğal olarak yatkın olduğunu savunan bir kitap."
 legacySources:
   - *a1
   - *a2
@@ -182,3 +265,4 @@ legacySources:
   - *a4
   - *a5
   - *a6
+translatedFrom: docs/research/tr/Q26.md

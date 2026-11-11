@@ -16,16 +16,13 @@ verses:
   - 4:1
   - 4:34
 steelman:
-  tr: |
-    Miras (4:11), şahitlik (2:282), 4:34 ve erkeğin önderliği yapısal olarak eşitsiz görünür.
+  tr: "\"Kur'an mirasta oğula kızın iki katı pay veriyor (4:11). Bir borç sözleşmesinde, bir erkeğin yeteceği yerde iki kadın şahit istiyor (2:282). 'Erkekler, kadın üzerine idareci ve hakimdirler' diyor ve kadın serkeşlik ederse kocasına onu 'dövme' izni veriyor (4:34). Bir erkek dört kadınla evlenebilir; bir kadın tek bir kocayla. Bir erkek sözüyle boşayabilir; bir kadının genellikle mahkemeye gitmesi gerekir. 'Değerde eşit ama rollerde farklı' demek, her eşitsiz sistemin kendisi hakkında söylediği şeye benziyor. Ve bu hükümler hâlâ milyonlarca kadının hayatını şekillendiriyor.\""
   en: "\"The Quran gives a son twice a daughter's share of inheritance (4:11). In a debt contract, it asks for two women witnesses where one man would do (2:282). It says 'men are in charge of women' and, if a wife is defiant, allows her husband to 'strike' her (4:34). A man may marry four wives; a woman, one husband. A man can divorce by his word; a woman usually needs a court. Saying 'equal in worth but different in roles' sounds like what every unequal system says about itself. And these rules still shape the lives of millions of women.\""
 whyAsked:
-  tr: |
-    Türk gençlerinin dört ana kaygısından biridir ve ataerkilliğin yaşanmış deneyimine bağlıdır.
+  tr: Pek çok kadın ve pek çok erkek bu âyetlerle kendi ataerkillik tecrübeleri aracılığıyla — ailelerde, mahkemelerde ve camilerde — karşılaşır ve sebebin dinin kendisi olup olmadığını sorar. Başkaları onlarla, onları bağlamından kopararak alıntılayan eleştirmenler aracılığıyla karşılaşır.
   en: Many women, and many men, meet these verses through their own experience of patriarchy — in families, courts and mosques — and ask whether the religion itself is the cause. Others meet them through critics who quote them without context.
 shortAnswer:
-  tr: |
-    Kur'an eşit manevî değeri (33:35; 16:97) ve tek bir nefisten yaratılışı (4:1) kabul eder. Bazı hükümler kocanın tam nafaka yükümlülüğüne bağlıdır. Pek çok âlim 4:34'ü sıkı biçimde sınırlar. Bazı haksızlıklar metinden değil örften gelir ve bazı sorular tartışmalı olmaya devam eder.
+  tr: "Kur'an, erkeklerin ve kadınların \"bir tek nefisten\" yaratıldığını (4:1), aynı manevi görevlere ve mükâfatlara sahip olduklarını (33:35; 16:97) ve kadınların \"üzerlerindeki meşru hak gibi, kendilerinin de hakları\" olduğunu (2:228) teyit eder. Erkeklere ve kadınlara farklı davranan hükümler de içerir: Çoğu durumda miras, mali sözleşmelerde şahitlik, kocanın liderliği ve nafaka yükümlülüğü (*kıvâme*) ve 4:34'te kocaya verilen \"dövme\" izni. Klasik âlimler bu farkları kocanın geçim sağlama yükümlülüğüne bağladı ve onları çeşitli şekillerde sınırladı; ancak modern öncesi bütün fakihler bir tür vurmaya izin verdi ve modern Müslüman âlimler bu âyetin bugün nasıl okunacağı konusunda ayrılıyor. Kadınların uğradığı bazı haksızlıklar metinden değil örften gelir; diğerleri klasik hukukun gerçek özellikleridir. Aile içi şiddet yanlıştır ve yardım kaynakları aşağıda listeleniyor."
   en: "The Quran affirms that men and women were created \"from one soul\" (4:1), that they have the same spiritual duties and rewards (33:35; 16:97), and that wives have rights \"similar to what is expected of them\" (2:228). It also contains rulings that treat men and women differently: inheritance in most cases, testimony in financial contracts, the husband's leadership and maintenance duty (*qiwāma*), and a husband's permission to \"strike\" in 4:34. Classical scholars tied these differences to the husband's duty to provide, and limited them in various ways; all pre-modern jurists, however, allowed some form of hitting, and modern Muslim scholars disagree on how to read that verse today. Some injustices that women suffer come from custom rather than text; others are real features of classical law. Domestic violence is wrong, and help is listed below."
 layers:
   - kind: religious
@@ -40,8 +37,7 @@ layers:
       Eşitlik ve aynılık. İtiraz: hükümler kendi ataerkil bağlamlarını yansıtıyor olabilir.
     en: "Equality vs. sameness. Objection: the rulings may encode their patriarchal context."
 honestLimits:
-  tr: |
-    Mirasla ilgili reform önerileri tartışmalıdır.
+  tr: Bazı hükümler erkeklere ve kadınlara gerçekten farklı davranır ve klasik gelenek kocaların sınırlar içinde vurmasına izin verdi. Bu hükümlerin bugün nasıl uygulanacağı Müslüman âlimler arasında tartışmalıdır. Birkaç esere (Kecia Ali, Tuksal, Barlas, Nedvî) burada yalnızca incelemeler ya da özetler aracılığıyla başvuruldu. Boşanma hukuku ele alınmadı.
   en: Some rulings do treat men and women differently, and the classical tradition allowed husbands to hit within limits. How those rulings apply today is contested among Muslim scholars. Several works (Kecia Ali, Tuksal, Barlas, Nadwi) were read here only through reviews or summaries. Divorce law was not covered.
 visualizations:
   - id: ideas
@@ -87,6 +83,13 @@ fullAnswer:
       **If you are being hurt at home, your safety comes first, and no verse requires you to stay in danger.** Call your local emergency number if you are in danger now. In the United States, the National Domestic Violence Hotline is 1-800-799-7233 (24 hours, with interpreters); Peaceful Families Project lists Muslim-specific services in the US and Canada, with a few international networks. In the UK, the Muslim Women's Network Helpline is 0800 999 5786 (weekdays, 10am–4pm). Elsewhere, findahelpline.com lists free services by country. The Prophet (pbuh) "never beat anyone with his hand, neither a woman nor a servant" (Muslim 2328), and said of husbands who beat their wives: "They… are not the best among you" (Abu Dawud 2146). Seeking help is not betraying your faith or your family.
 
       **If you are angry at what you have seen done to women in the name of Islam,** your anger is often justified. The question this page asks is narrower: what do the texts and the classical law actually say, and what do Muslim scholars do with them now.
+    tr: |-
+      **Evde zarar görüyorsan, önce senin güvenliğin gelir ve hiçbir âyet senin tehlikede kalmanı gerektirmez.** Şu anda tehlikedeysen bulunduğun yerdeki acil yardım numarasını ara. Amerika Birleşik Devletleri'nde Ulusal Aile İçi Şiddet Yardım Hattı (National Domestic Violence Hotline) 1-800-799-7233'tür (24 saat, tercümanlı); Peaceful Families Project, ABD ve Kanada'daki Müslümanlara özel hizmetleri ve birkaç uluslararası ağı listeler. Birleşik Krallık'ta Müslüman Kadınlar Ağı Yardım Hattı (Muslim Women's Network Helpline) 0800 999 5786'dır (hafta içi, 10.00–16.00). Başka yerlerde findahelpline.com ücretsiz hizmetleri ülkelere göre listeler. Hz. Peygamber (s.a.v.) "eliyle hiç kimseye, ne bir kadına ne de bir hizmetçiye vurmadı" (Müslim 2328) ve karılarını döven kocalar hakkında şöyle dedi: "Onlar… sizin en hayırlılarınız değildir" (Ebû Dâvûd 2146). Yardım istemek imanına ya da ailene ihanet etmek değildir.
+
+      **İslam adına kadınlara yapıldığını gördüğün şeylere öfkeliysen,** öfken çoğu zaman haklıdır. Bu sayfanın sorduğu soru daha dardır: Metinler ve klasik hukuk gerçekte ne diyor ve Müslüman âlimler bugün onlarla ne yapıyor?
+    title:
+      en: Kalp ve akıl için
+      tr: Kalp ve akıl için
   - kind: quran
     en: |-
       **Equal origin, equal worth, equal reward.** "O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women" (4:1), Medinan, addressed to all people. "Indeed, the Muslim men and Muslim women, the believing men and believing women…" (33:35) lists ten virtues for men and women alike and promises both "forgiveness and a great reward". "Whoever does righteousness, whether male or female, while he is a believer - We will surely cause him to live a good life" (16:97), Meccan.
@@ -98,6 +101,19 @@ fullAnswer:
       **4:34.** "Men are in charge of women by [right of] what Allah has given one over the other and what they spend [for maintenance] from their wealth. So righteous women are devoutly obedient, guarding in [the husband's] absence what Allah would have them guard. But those [wives] from whom you fear arrogance - [first] advise them; [then if they persist], forsake them in bed; and [finally], strike them. But if they obey you [once more], seek no means against them" (4:34), Medinan, addressed to husbands. The bracketed words are the translator's. The key words: *qawwāmūn* ("in charge", from a root meaning to stand up for, maintain), *nushūz* ("arrogance", rebellion, the wife's serious breach of the marriage), and *iḍribūhunna* ("strike them"). The next verse sets out arbitration: "send an arbitrator from his people and an arbitrator from her people" (4:35); and 4:128 addresses the case where the husband is the one at fault.
 
       **2:282 (testimony).** In the long verse on recording debts, the Quran asks for two male witnesses, or one man and two women, so that if one woman errs the other can remind her. The verse is about financial contracts.
+    tr: |-
+      **Eşit köken, eşit değer, eşit mükâfat.** "Ey insanlar! Sizi bir tek nefisten yaratan ve ondan eşini yaratıp ikisinden bir çok erkekler ve kadınlar üreten Rabbinizden korkun" (4:1), Medenî, bütün insanlara hitap eder. "Şüphe yok ki müslüman erkeklerle müslüman kadınlar, mümin erkeklerle mümin kadınlar…" (33:35), erkekler ve kadınlar için aynı olan on fazileti sayar ve ikisine de "bir mağfiret ve büyük bir mükâfat" vaat eder. "Erkekten ve dişiden, mümin olarak kim iyi amel işlerse muhakkak onu güzel bir hayat ile yaşatacağız" (16:97), Mekkî.
+
+      **Evlilikte karşılıklı haklar.** "Onlar, sizin için bir örtü, siz de onlar için bir örtü durumundasınız." (2:187). "O kadınların, üzerlerindeki meşru hak gibi, kendilerinin de hakları vardır. Yalnız erkekler için, onların üzerinde bir derece vardır." (2:228), Medenî, boşanmayla ilgili bir pasajda; Saheeh International "bir derece"nin ardına kendi okumasını köşeli parantez içinde ekler: "[in responsibility and authority]" ("sorumlulukta ve yetkide"). "Onlarla iyi geçinin." (4:19).
+
+      **Miras.** "Allah size evlatlarınızın miras taksimini şöyle emrediyor: Çocuklarınızda, erkeğe iki kadın payı kadar" (4:11). Aynı âyet, "Eğer ölen, ana ve baba ile birlikte çocuklar da bırakmışsa ana babanın her birine ölenin terekesinden altıda bir" verir; anne ve baba için aynı pay. 4:12, ana bir kardeşlere eşit pay verir: "bunlardan herbirinin miras payı terekenin altıda biridir".
+
+      **4:34.** "Erkekler, kadın üzerine idareci ve hakimdirler. Çünkü Allah birini (cihad, imamet, miras gibi işlerde) diğerinden üstün yaratmıştır. Bir de erkekler mallarından (aile fertlerine) harcamaktadırlar. İyi kadınlar, itaatkar olanlar ve Allah'ın korunmasını emrettiği şeyleri kocalarının bulunmadığı zamanlarda da koruyanlardır. Fenalık ve geçimsizliklerinden korktuğunuz kadınlara gelince: Önce kendilerine öğüt verin, yataklarından ayrılın. Bunlar da fayda vermezse dövün. Eğer size itaat ederlerse kendilerini incitmeye başka bir bahane aramayın." (4:34), Medenî, kocalara hitap eder. Parantez içindeki sözler çevirmenindir. Anahtar kelimeler: *kavvâmûn* ("idareci ve hakim"; ayağa kaldırmak, bakmak, geçimini sağlamak anlamına gelen bir kökten), *nüşûz* (Elmalılı'da "fenalık ve geçimsizlik"; serkeşlik, kadının evliliği ciddi şekilde ihlal etmesi) ve *idribûhunne* ("dövün"). Sonraki âyet hakemliği düzenler: "bir hakem erkeğin tarafından, bir hakem de kadının ailesinden kendilerine gönderin" (4:35); 4:128 ise kusurlu olanın koca olduğu durumu ele alır.
+
+      **2:282 (şahitlik).** Borçların yazılmasıyla ilgili uzun âyette Kur'an iki erkek şahit ya da bir erkek ve iki kadın ister; öyle ki kadınlardan biri yanılırsa diğeri ona hatırlatsın. Âyet mali sözleşmeler hakkındadır.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **He never struck a woman.** Aisha (ra) said that he "never beat anyone with his hand, neither a woman nor a servant" ({hadith:muslim:2328}).
@@ -105,33 +121,75 @@ fullAnswer:
       **He condemned husbands who did.** Iyas ibn ʿAbdullah reports that the Prophet (pbuh) said: "Do not beat Allah's handmaidens". When ʿUmar (ra) complained that "Women have become emboldened towards their husbands", the Prophet (pbuh) allowed it, then said: "Many women have gone round Muhammad's family complaining against their husbands. They (those husbands who take to beating their wives) are not the best among you" ({hadith:abudawud:2146}; al-Albani: *ṣaḥīḥ*). The words in brackets are the translator's.
 
       **Women as scholars.** Mohammad Akram Nadwi's *al-Muhaddithat* documents women scholars of hadith across Islamic history — among them Umm al-Dardaʾ and Hafsa bint Sirin — and a later Arabic dictionary of his has "around 10,000 entries" (Hashim's review). Women transmitted hadith on the same terms as men.
+    tr: |-
+      **Hiçbir kadına vurmadı.** Hz. Âişe (r.a.), onun "eliyle hiç kimseye, ne bir kadına ne de bir hizmetçiye vurmadığını" söyledi ({hadith:muslim:2328}).
+
+      **Vuran kocaları kınadı.** İyâs b. Abdullah, Hz. Peygamber'in (s.a.v.) şöyle dediğini aktarır: "Allah'ın kadın kullarını dövmeyin". Hz. Ömer (r.a.) "Kadınlar kocalarına karşı cüretkâr oldu" diye şikâyet edince, Hz. Peygamber (s.a.v.) buna izin verdi, sonra şöyle dedi: "Muhammed'in ailesinin etrafında pek çok kadın dolaşıp kocalarından şikâyet etti. Onlar (karılarını dövmeye başvuran kocalar) sizin en hayırlılarınız değildir" ({hadith:abudawud:2146}; Elbânî: *sahih*). Parantez içindeki sözler çevirmenindir.
+
+      **Âlim olarak kadınlar.** Muhammed Ekrem Nedvî'nin *el-Muhaddisât*'ı, İslam tarihi boyunca kadın hadis âlimlerini — aralarında Ümmü'd-Derdâ ve Hafsa bint Şîrîn — belgeler ve onun daha sonraki Arapça bir sözlüğü "yaklaşık 10.000 madde" içerir (Hashim'in incelemesi). Kadınlar hadisi erkeklerle aynı şartlarda rivayet etti.
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti ve ne yaptı?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti ve ne yaptı?
   - kind: scholars
     en: |-
       **What *qiwāma* means.** Ibn Kathir says the man is "responsible for the woman, and he is her maintainer, caretaker and leader who disciplines her if she deviates", giving as reasons men's suitability "for certain tasks" and the duty to pay the dowry and expenses. Shaykh Anas al-Musa (SeekersGuidance, 2024), citing al-Zuhayli's *al-Tafsir al-Munir*, says it means "managing the affairs of the family and home" and "does not entail unjust dominance or oppression". Asma Barlas argues in *"Believing Women" in Islam* that male authority over women conflicts with God's unity and justice, and that the Quran must be read as a whole against patriarchal exegesis (Egyptian Streets review).
 
       **What classical scholars said about "strike".** Ayesha Chaudhry's study of pre-colonial exegesis and law concludes that pre-modern scholars "unanimously interpreted *wadribuhunna* as hitting, striking or beating" and disagreed only on "the procedure and the extent" (Mariam Noor, review in *LUMS Law Journal* 3:1, 2016, pp. 110–118). The range of what was allowed ran "from hitting with a handkerchief to lashing the wife hundred or more times with a whip" (same review). Within that, they set limits:
-      - Ibn ʿAbbas (ra), asked what "without severity" means, said: "the siwak (tooth-stick) and the like" (via al-Tabari, as reported by *Wikipedia*); Ibn Kathir reports him and al-Hasan al-Basri as requiring "a beating that is not violent" or "not severe", and cites a hadith from Muʿawiya ibn Hayda forbidding "striking her face or cursing her" ({hadith:abudawud:2142}; al-Albani: *ḥasan ṣaḥīḥ*).
+      - Ibn ʿAbbas (ra), asked what "without severity" means, said: "the siwak (tooth-stick) and the like" (via al-Tabari, as reported by *Wikipedia*). Ibn Kathir reports that "Ibn 'Abbas and several others said that the Ayah refers to a beating that is not violent", and al-Hasan al-Basri "a beating that is not severe". The Prophet (pbuh), asked about a wife's rights, said: "do not strike her on the face, do not revile her or separate yourself from her except in the house" ({hadith:abudawud:2142}; al-Albani: *ḥasan ṣaḥīḥ*).
       - **Shafiʿi school:** al-Shafiʿi held that "hitting is permitted, but not hitting is preferable" (as reported by *Wikipedia*); the school classed it as discouraged (*makrūh*) (Chaudhry, per the review).
       - **Hanafi:** al-Jassas required "a non-violent blow with siwak" or similar (Wikipedia); the school gave the husband disciplinary power "with minimal legal accountability" (Chaudhry, per the review).
       - **Maliki:** made the husband liable for compensation if discipline caused harm (Chaudhry, per the review).
       - **ʿAtaʾ ibn Abi Rabah**, a leading Meccan scholar, advised a husband not to beat his wife even if she ignored him, and to express his anger another way (Jonathan Brown, as reported by *Wikipedia*).
       Chaudhry's summary of the pre-colonial tradition: "None of them believed it to be unacceptable or forbidden for husbands to hit their wives" (review).
 
-      **Modern readings.** Chaudhry identifies four strategies: traditionalists who keep the permission as a last resort; neo-traditionalists for whom "the hitting is meant to be symbolic rather than punitive"; progressives who hold "there is no room for husbands to hit their wives"; and reformists who read the word as "separation" (review). Laleh Bakhtiar's translation renders the verb "go away from them" (Wikipedia).
+      **Modern readings.** Chaudhry identifies four strategies: traditionalists who keep the permission as a last resort; neo-traditionalists for whom "the hitting is meant to be symbolic rather than punitive"; progressives who hold "there is no room for husbands to hit their wives"; and reformists who read the word as "separation" (review). Laleh Bakhtiar's translation, *The Sublime Quran* (2007), renders the verb "go away from them".
 
-      **Testimony.** Ibn Rushd reports general agreement on 2:282 in financial matters. Abu Hanifa accepted women's testimony in matters such as marriage and divorce; Malik did not; most scholars accepted women's testimony alone in matters men rarely witness, such as childbirth (Wikipedia, "Status of women's testimony"). Ibn al-Qayyim (d. 1350) argued that a second woman is added where forgetting is feared, while "the woman is equal to the man in honesty, trust, and piety"; Ibn Taymiyya said testimony where error is not feared is not "half of a man" (same source). Taha Jabir al-ʿAlwani (1996) argues that the verse's instructions were "recommended or merely instructional (*irshad*) and without legal import", and that such transactions "were not often matters of" women's concern under "the prevailing social conditions" (abstract).
+      **Testimony.** Ibn Rushd reports general agreement on 2:282 in financial matters. Abu Hanifa accepted women's testimony in matters such as marriage and divorce; Malik did not; most scholars accepted women's testimony alone in matters men rarely witness, such as childbirth (Wikipedia, "Status of women's testimony"). Ibn al-Qayyim (d. 1350) wrote that "the woman is equal to the man in truthfulness, honesty, and piety", and that a second woman is added only where forgetting is feared (*al-Ṭuruq al-Ḥukmiyya* 1/136, trans. Abu Amina Elias). Taha Jabir al-ʿAlwani (1996) argues that the verse's instructions were "recommended or merely instructional (*irshad*) and without legal import", and that such transactions "were not often matters of" women's concern under "the prevailing social conditions" (abstract).
 
       **Hadith criticism.** Hidayet Şefkatli Tuksal, a Turkish theologian, studied gender bias in the hadith literature and "has called for the resolution of contradictory assertions about the rights of women in the hadiths" (Wikipedia). Her book has not yet been consulted.
+    tr: |-
+      ***Kıvâme* ne demek?** İbn Kesîr, erkeğin "kadından sorumlu olduğunu, onun geçimini sağlayan, onu gözeten ve sapması hâlinde onu terbiye eden lideri olduğunu" söyler; gerekçe olarak erkeklerin "belirli görevlere" uygunluğunu ve mehir ile masrafları ödeme yükümlülüğünü verir. Şeyh Enes el-Mûsâ (SeekersGuidance, 2024), Zuhaylî'nin *et-Tefsîrü'l-Münîr*'ine atıfla, bunun "ailenin ve evin işlerini yönetmek" anlamına geldiğini ve "haksız bir tahakküm ya da zulüm içermediğini" söyler. Asma Barlas, *"Believing Women" in Islam* (*İslam'da "İnanan Kadınlar"*) adlı eserinde, erkeklerin kadınlar üzerindeki otoritesinin Allah'ın birliği ve adaletiyle çeliştiğini ve Kur'an'ın ataerkil tefsire karşı bir bütün olarak okunması gerektiğini savunur (Egyptian Streets incelemesi).
+
+      **Klasik âlimler "dövün" hakkında ne dedi?** Ayesha Chaudhry'nin sömürge öncesi tefsir ve hukuk üzerine çalışması, modern öncesi âlimlerin "*vadribûhunne*'yi ittifakla vurmak, darbe indirmek ya da dövmek olarak yorumladığı" ve yalnızca "usul ve ölçü" konusunda ayrıldığı sonucuna varır (Mariam Noor, *LUMS Law Journal* 3:1, 2016, s. 110–118'deki inceleme). İzin verilenin yelpazesi "bir mendille vurmaktan karıyı bir kırbaçla yüz ya da daha fazla kez kırbaçlamaya kadar" uzanıyordu (aynı inceleme). Bu yelpazenin içinde sınırlar koydular:
+      - İbn Abbâs'a (r.a.) "şiddetsiz"in ne demek olduğu sorulunca, "misvak (diş fırçası çubuğu) ve benzeri" dedi (Taberî yoluyla, *Wikipedia*'nın aktardığına göre); İbn Kesîr, onun ve Hasan-ı Basrî'nin "şiddetli olmayan" ya da "ağır olmayan bir dövme" şart koştuklarını aktarır ve Muâviye b. Hayde'den gelen, "yüzüne vurmayı ya da ona lanet etmeyi" yasaklayan bir hadisi zikreder ({hadith:abudawud:2142}; Elbânî: *hasen sahih*).
+      - **Şâfiî mezhebi:** Şâfiî, "vurmanın caiz olduğunu, ama vurmamanın daha iyi olduğunu" savundu (*Wikipedia*'nın aktardığına göre); mezhep bunu mekruh (*mekrûh*) saydı (Chaudhry, incelemeye göre).
+      - **Hanefî:** Cessâs "misvakla şiddetsiz bir darbe" ya da benzerini şart koştu (Wikipedia); mezhep kocaya "asgari hukuki sorumlulukla" terbiye yetkisi verdi (Chaudhry, incelemeye göre).
+      - **Mâlikî:** terbiye zarara yol açtıysa kocayı tazminatla yükümlü tuttu (Chaudhry, incelemeye göre).
+      - Mekke'nin önde gelen âlimlerinden **Atâ b. Ebî Rebâh**, bir kocaya, karısı onu umursamasa bile onu dövmemesini ve öfkesini başka bir şekilde ifade etmesini tavsiye etti (Jonathan Brown, *Wikipedia*'nın aktardığına göre).
+      Chaudhry'nin sömürge öncesi gelenek hakkındaki özeti: "Hiçbiri kocaların karılarına vurmasının kabul edilemez ya da haram olduğuna inanmıyordu" (inceleme).
+
+      **Modern okumalar.** Chaudhry dört strateji tespit eder: İzni son çare olarak koruyan gelenekçiler; "vurmanın cezalandırıcı değil sembolik olmasının amaçlandığı" yeni gelenekçiler; "kocaların karılarına vurmasına hiç yer olmadığını" savunan ilerlemeciler; ve kelimeyi "ayrılık" olarak okuyan reformcular (inceleme). Laleh Bakhtiar'ın çevirisi fiili "onlardan uzaklaşın" olarak verir (Wikipedia).
+
+      **Şahitlik.** İbn Rüşd, mali konularda 2:282 üzerinde genel bir ittifak olduğunu aktarır. Ebû Hanîfe kadınların şahitliğini nikâh ve boşanma gibi konularda kabul etti; Mâlik etmedi; âlimlerin çoğu erkeklerin nadiren tanık olduğu, doğum gibi konularda yalnızca kadınların şahitliğini kabul etti (Wikipedia, "Status of women's testimony"). İbn Kayyim (ö. 1350), ikinci kadının unutmadan korkulan yerde eklendiğini, oysa "kadının dürüstlükte, güvenilirlikte ve takvada erkeğe eşit olduğunu" savundu; İbn Teymiyye, yanılmadan korkulmayan yerdeki şahitliğin "bir erkeğin yarısı" olmadığını söyledi (aynı kaynak). Tâhâ Câbir el-Ulvânî (1996), âyetteki talimatların "tavsiye niteliğinde ya da yalnızca öğretici (*irşâd*) olduğunu ve hukuki bir sonucu bulunmadığını" ve bu tür işlemlerin "o dönemki sosyal şartlar" altında "çoğu zaman" kadınların ilgilendiği konular "olmadığını" savunur (özet).
+
+      **Hadis tenkidi.** Türk ilahiyatçı Hidayet Şefkatli Tuksal, hadis literatüründeki cinsiyet yanlılığını inceledi ve "hadislerde kadın haklarına ilişkin çelişkili ifadelerin çözülmesi çağrısında bulundu" (Wikipedia). Kitabına henüz başvurulmadı.
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: fiqh
     en: |-
       **Inheritance: how it actually works.** Dar al-Iftaʾ of Egypt explains that shares are set by three criteria — closeness of kinship, generation (the young inherit more than the old), and financial responsibility — and that "it is in this category alone that shares of inheritance differ according to gender". It counts "only four cases where a woman inherits half the share of a man", many where she inherits equally (for example maternal half-siblings; and, in 4:11 itself, father and mother each take a sixth when the deceased has children), "more than ten cases where a woman inherits more" than a male in a comparable position, and cases where she inherits and he gets nothing. The double share for a son over a daughter is the best-known case and is the one 4:11 names.
 
       **Maintenance.** The classical justification is that the husband must pay the dowry and maintain his wife and children (Ibn Kathir; al-Musa). That a wife's own property and earnings remain hers, and how each school enforces maintenance, have not yet been checked in a named source.
+    tr: |-
+      **Miras: gerçekte nasıl işliyor?** Mısır Dâru'l-İftâsı, payların üç ölçüte göre belirlendiğini açıklar — akrabalığın yakınlığı, nesil (gençler yaşlılardan daha fazla miras alır) ve mali sorumluluk — ve "miras paylarının cinsiyete göre farklılaştığı tek kategorinin bu olduğunu" söyler. "Kadının erkeğin payının yarısını aldığı yalnızca dört durum", eşit aldığı pek çok durum (örneğin ana bir kardeşler; ve 4:11'in kendisinde, ölenin çocukları varsa anne ve babanın her biri altıda bir alır), kadının benzer konumdaki bir erkekten "daha fazla aldığı ondan fazla durum" ve kadının miras alıp erkeğin hiçbir şey almadığı durumlar sayar. Oğulun kızın iki katı payı en bilinen durumdur ve 4:11'in adını andığı durumdur.
+
+      **Nafaka.** Klasik gerekçe, kocanın mehri ödemek ve karısının ve çocuklarının geçimini sağlamak zorunda olmasıdır (İbn Kesîr; el-Mûsâ). Kadının kendi malının ve kazancının kendisine ait kalması ve her mezhebin nafakayı nasıl uyguladığı, henüz adı belli bir kaynakta kontrol edilmedi.
+    title:
+      en: Hukuk ne diyor?
+      tr: Hukuk ne diyor?
   - kind: reasoning
     en: |-
       **What "equality vs. sameness" means.** Two people can be equal in worth and rights while having different duties — as parents, or as employer and employee. The classical argument is that the Quran gives men and women equal worth (4:1; 33:35) and a balance of different rights and duties in the family (2:228): the man pays the dowry and maintains the family; inheritance shares follow that balance. *Limit:* this argument depends on the husband actually providing. Where women earn, support families, or are left without support, the balance the classical rules assumed no longer holds — which is exactly the reader's question.
 
       **"What about today, when women earn and support families?"** This is the reader's strongest question. The shares are set out in the Quran's own words (4:11), and Tunisia has debated changing them; but no named scholar on either side of that debate was read, so the arguments are not set out here. This page does not claim the question is settled.
+    tr: |-
+      **"Eşitlik ile aynılık" ne demek?** İki kişi farklı görevlere sahipken değerde ve haklarda eşit olabilir — anne baba olarak ya da işveren ve çalışan olarak. Klasik argüman, Kur'an'ın erkeklere ve kadınlara eşit değer (4:1; 33:35) ve ailede farklı haklar ve görevlerden oluşan bir denge (2:228) verdiğidir: Erkek mehri öder ve ailenin geçimini sağlar; miras payları bu dengeyi izler. *Sınır:* Bu argüman kocanın gerçekten geçimi sağlamasına bağlıdır. Kadınların kazandığı, aileleri geçindirdiği ya da desteksiz bırakıldığı yerlerde, klasik hükümlerin varsaydığı denge artık geçerli değildir — ki okuyucunun sorusu tam olarak budur.
+
+      **"Peki bugün, kadınlar kazanıyor ve aileleri geçindiriyorken?"** Bu, okuyucunun en güçlü sorusudur. Paylar Kur'an'ın kendi sözleriyle belirlenmiştir (4:11) ve Tunus bunları değiştirmeyi tartıştı; ama bu tartışmanın iki tarafından da adı belli hiçbir âlim okunmadı, dolayısıyla argümanlar burada ortaya konmuyor. Bu sayfa sorunun çözüldüğünü iddia etmiyor.
+    title:
+      en: Eşitlik ve aynılık
+      tr: Eşitlik ve aynılık
   - kind: objection
     en: |-
       **"4:34 permits wife-beating."** *Reply:* the verse places hitting as the last of three steps, after advice and separation in bed, followed by arbitration (4:35); some classical scholars set tight limits (Ibn ʿAbbas: a toothstick; al-Shafiʿi: better not to hit), while others allowed much more (Chaudhry, per Noor's review); the Prophet (pbuh) never hit a woman and condemned those who did (Muslim 2328; Abu Dawud 2146). *Limit:* every pre-modern scholar studied by Chaudhry allowed some hitting, and some allowed far more than a toothstick. Modern readings that forbid it entirely are minority or modern views; they may be right, but they should not be presented as the classical consensus.
@@ -139,6 +197,15 @@ fullAnswer:
       **"Equal worth, different roles is how every patriarchy talks."** *Reply:* the Quran's affirmations of equal worth and mutual rights are strong and specific (4:1; 33:35; 2:228), and some differences favour women (the husband's duty to pay the dowry and maintenance). *Limit:* a framework can be internally coherent and still produce injustice when social conditions change; that is the reformers' point.
 
       **"Two women equal one man."** *Reply:* the verse concerns financial contracts; most schools accepted women's sole testimony in some matters, Ibn al-Qayyim held women equal to men "in honesty, trust, and piety", and Ibn Taymiyya held that women's testimony is not always "half of a man". *Limit:* in the areas where classical law applied the rule, it did count women's testimony as less than men's.
+    tr: |-
+      **"4:34 kadın dövmeye izin veriyor."** *Cevap:* Âyet vurmayı üç adımın sonuncusu olarak, öğüt ve yatakta ayrılıktan sonra yerleştirir ve ardından hakemlik gelir (4:35); bazı klasik âlimler sıkı sınırlar koydu (İbn Abbâs: bir misvak; Şâfiî: vurmamak daha iyidir), diğerleri ise çok daha fazlasına izin verdi (Chaudhry, Noor'un incelemesine göre); Hz. Peygamber (s.a.v.) hiçbir kadına vurmadı ve vuranları kınadı (Müslim 2328; Ebû Dâvûd 2146). *Sınır:* Chaudhry'nin incelediği modern öncesi her âlim bir miktar vurmaya izin verdi ve bazıları bir misvaktan çok daha fazlasına izin verdi. Bunu tamamen yasaklayan modern okumalar azınlık ya da modern görüşlerdir; doğru olabilirler, ama klasik icmâ olarak sunulmamalıdırlar.
+
+      **"'Değerde eşit, rollerde farklı' her ataerkilliğin konuşma biçimidir."** *Cevap:* Kur'an'ın eşit değeri ve karşılıklı hakları teyit eden ifadeleri güçlü ve belirlidir (4:1; 33:35; 2:228) ve bazı farklar kadınların lehinedir (kocanın mehri ve nafakayı ödeme yükümlülüğü). *Sınır:* Bir çerçeve kendi içinde tutarlı olup yine de sosyal şartlar değiştiğinde haksızlık üretebilir; reformcuların söylediği budur.
+
+      **"İki kadın bir erkeğe eşit."** *Cevap:* Âyet mali sözleşmeler hakkındadır; mezheplerin çoğu bazı konularda yalnızca kadınların şahitliğini kabul etti, İbn Kayyim kadınları "dürüstlükte, güvenilirlikte ve takvada" erkeklere eşit gördü ve İbn Teymiyye kadınların şahitliğinin her zaman "bir erkeğin yarısı" olmadığını savundu. *Sınır:* Klasik hukukun bu kuralı uyguladığı alanlarda kadınların şahitliğini gerçekten erkeklerinkinden daha az saydı.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Traditionalist** — qiwāma as leadership; hitting as a permitted last resort with limits.
@@ -146,33 +213,55 @@ fullAnswer:
       - **Progressive** (e.g. Barlas) — no male authority over women; no hitting.
       - **Reformist** — *iḍribūhunna* means "separate" or "go away" (Bakhtiar).
       - **On inheritance today** — fixed shares (majority) vs. adaptation where maintenance no longer operates (some reformers).
+    tr: |-
+      - **Gelenekçi** — liderlik olarak kıvâme; sınırlarla birlikte izin verilen bir son çare olarak vurma.
+      - **Yeni gelenekçi** — vurma yalnızca semboliktir; aile içi şiddet kınanır.
+      - **İlerlemeci** (ör. Barlas) — erkeklerin kadınlar üzerinde otoritesi yok; vurma yok.
+      - **Reformcu** — *idribûhunne* "ayrılın" ya da "uzaklaşın" demektir (Bakhtiar).
+      - **Bugün miras konusunda** — sabit paylar (çoğunluk) ile nafakanın artık işlemediği yerlerde uyarlama (bazı reformcular).
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: How does inheritance actually work?
+      tr: Miras gerçekte nasıl işliyor?
     a:
       en: Shares follow kinship, generation and financial duty. The "twice the share" rule applies in a few cases; in many others women inherit equally or more (Dar al-Iftaʾ).
+      tr: Paylar akrabalığı, nesli ve mali yükümlülüğü izler. "İki kat pay" kuralı birkaç durumda geçerlidir; diğer pek çok durumda kadınlar eşit ya da daha fazla miras alır (Dâru'l-İftâ).
   - q:
       en: What does 4:34 permit, and is any hitting allowed?
+      tr: 4:34 neye izin veriyor ve herhangi bir vurmaya izin var mı?
     a:
       en: All pre-modern scholars studied by Chaudhry allowed some hitting; some set tight limits (a toothstick), others allowed far more, and al-Shafiʿi said not hitting is better. Progressives such as Barlas say it is never allowed (Chaudhry, per Noor's review). The Prophet (pbuh) never hit a woman ({hadith:muslim:2328}).
+      tr: Chaudhry'nin incelediği bütün modern öncesi âlimler bir miktar vurmaya izin verdi; bazıları sıkı sınırlar koydu (bir misvak), diğerleri çok daha fazlasına izin verdi ve Şâfiî vurmamanın daha iyi olduğunu söyledi. Barlas gibi ilerlemeciler buna asla izin olmadığını söyler (Chaudhry, Noor'un incelemesine göre). Hz. Peygamber (s.a.v.) hiçbir kadına vurmadı ({hadith:muslim:2328}).
   - q:
       en: What does *ḍarb* mean, and why do some say "symbolic"?
+      tr: '*Darb* ne demek ve neden bazıları "sembolik" diyor?'
     a:
       en: It ordinarily means "to strike". Modern neo-traditionalists call the permitted act "symbolic", pointing to Ibn ʿAbbas's toothstick report (Chaudhry, per Noor's review). Other meanings of the root have not yet been checked in a lexicon.
+      tr: Normalde "vurmak" demektir. Modern yeni gelenekçiler, İbn Abbâs'ın misvak rivayetine dayanarak izin verilen fiili "sembolik" olarak adlandırır (Chaudhry, Noor'un incelemesine göre). Kökün diğer anlamları henüz bir sözlükte kontrol edilmedi.
   - q:
       en: What does *qiwāma* mean?
+      tr: "*Kıvâme* ne demek?"
     a:
       en: Responsibility for, maintenance of, and leadership in the family, tied in the verse to what the husband spends.
+      tr: Âyette kocanın harcamasına bağlanan, aileye karşı sorumluluk, geçimini sağlama ve ailede liderlik.
   - q:
       en: What about divorce, polygyny, hijab and marriage age?
+      tr: Boşanma, çok eşlilik, başörtüsü ve evlilik yaşı ne olacak?
     a:
       en: See the pages "Polygyny", "Hijab and coercion" and "Aisha's age at marriage". Divorce rules deserve their own page.
+      tr: "\"Çok eşlilik\", \"Başörtüsü ve zorlama\" ve \"Hz. Âişe'nin evlilik yaşı\" sayfalarına bak. Boşanma hükümleri kendi sayfalarını hak ediyor."
   - q:
       en: Is it Islam, or culture?
+      tr: Bu İslam mı, kültür mü?
     a:
       en: Some harms women suffer — honour violence, denial of inheritance, forced marriage — contradict the texts. Others, like the inheritance shares, are in the texts. Honest answers keep these apart.
+      tr: Kadınların uğradığı bazı zararlar — namus şiddeti, mirastan mahrum bırakma, zorla evlendirme — metinlerle çelişir. Miras payları gibi diğerleri ise metinlerde vardır. Dürüst cevaplar bunları birbirinden ayrı tutar.
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
+translatedFrom: docs/research/tr/Q6.md

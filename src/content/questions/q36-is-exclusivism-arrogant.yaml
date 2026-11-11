@@ -16,16 +16,13 @@ verses:
   - 10:99
   - 49:13
 steelman:
-  tr: |
-    Milyarlarca insan buna katılmıyor.
+  tr: '"İnsanların çoğu sonunda anne babasının dinine sahip oluyor. Başka bir ülkede doğsaydın, başka bir inançtan da aynı derecede emin olurdun. Yani kesinliğin nerede doğduğun tesadüfünden geliyor — sonra da milyarlarca samimi insanın yanıldığını, birçoğunun sonsuza dek cezalandırılacağını iddia ediyorsun. Hakikatin yalnızca senin grubunda olduğuna, diğer herkesin kaybolmuş olduğuna inanmak, kibrin ta kendisi gibi görünüyor."'
   en: '"Most people end up with the religion of their parents. If you were born in another country, you would be just as sure of another faith. So your certainty comes from the accident of where you were born — and you then claim that billions of sincere people are wrong, and that many of them will be punished forever. Believing that your group alone has the truth, and that everyone else is lost, looks like the very definition of arrogance."'
 whyAsked:
-  tr: |
-    Çoğulcu bir kültür.
+  tr: Karma toplumlarda insanlar başka inançlardan ya da hiçbir inancı olmayan arkadaşlarla yan yana yaşıyor. Birçoğu, dinî hakikate dair her iddiayı bir üstünlük iddiası olarak hissediyor. Soru, sonsuz cezayla birleştiğinde daha da keskinleşiyor.
   en: In mixed societies, people live alongside friends of other faiths and none. Many feel that any claim to religious truth is a claim to superiority. The question becomes sharper when it is tied to eternal punishment.
 shortAnswer:
-  tr: |
-    Her görüş, "bütün dinler eşittir" görüşü dâhil, başkalarını dışarıda bırakır. Kibir, bir inancın *tutulup tutulmamasıyla* değil, *nasıl* tutulduğuyla ilgilidir.
+  tr: "Başkalarının reddettiği bir inanca sahip olmak tek başına kibir değildir; her tutum — \"bütün dinler eşit derecede geçerlidir\" dahil — birilerinin görüşünü reddeder. Filozof Alvin Plantinga bunu şöyle ifade etti: \"Başkalarıyla çelişmek kibirli ve bencilce ise, ayrı düşmek de öyledir.\" Kibir, bir inancın *nasıl* taşındığıyla ilgilidir: küçümseyerek, dinlemeden ya da zorla. Kur'an dinde zorlamayı yasaklar (2:256), Hz. Peygamber'e (s.a.v.) inanmaya zorlamanın onun görevi olmadığını söyler (10:99) ve insanın değerini grup aidiyetine değil, takvaya dayandırır (49:13). \"Doğum tesadüfü\" sorunu gerçektir; Gazzâlî'nin yaptığı gibi, bütün inançları bırakmayı değil, inançları sınamayı gerektirir. Sonsuz ceza konusunda ise ana akım âlimler, kendisine gerçekten ulaşmamış bir mesajdan kimsenin sorumlu tutulmayacağını kabul eder (17:15)."
   en: "Holding a belief that others reject is not, in itself, arrogant; every position — including \"all religions are equally valid\" — rejects someone's view. The philosopher Alvin Plantinga put it this way: \"if contradicting others is arrogant and egoistical, so is dissenting.\" Arrogance is about *how* a belief is held: with contempt, without listening, or with force. The Quran forbids compulsion in religion (2:256), tells the Prophet (pbuh) that forcing belief is not his task (10:99), and grounds human worth in righteousness, not in group membership (49:13). The \"accident of birth\" problem is real; it calls for testing one's beliefs, as al-Ghazali did, rather than dropping all of them. And on eternal punishment, mainstream scholars hold that no one is held to account for a message that did not truly reach them (17:15)."
 layers:
   - kind: religious
@@ -45,8 +42,7 @@ layers:
       Alçakgönüllü bir güven, gruplar arası ilişkileri iyileştirir.
     en: Humble confidence improves relations between groups.
 honestLimits:
-  tr: |
-    Dışlayıcılık zaman zaman kibirli olmuştur.
+  tr: '"Doğum tesadüfü" sorunu, herkesin onunla karşı karşıya olduğunu söyleyerek tamamen cevaplanmış olmaz; ancak inançları sınamakla cevaplanır, insanların çoğu ise bunu yapmaz. Dışlayıcılık sonsuz cezayla birleştiğinde, kimin sorumlu tutulacağına dair klasik sınırlara rağmen pek çok okur için zor olmaya devam ediyor. Entelektüel tevazu bulgusu makaleden değil bir basın bülteninden alındı; gruplar arasındaki etkilere dair hiçbir delil okunmadı.'
   en: The "accident of birth" problem is not fully answered by pointing out that everyone faces it; it is answered only by testing beliefs, which most people do not do. Exclusivism combined with eternal punishment remains hard for many readers even with the classical limits on who is held to account. The intellectual-humility finding is from a press release, not the paper, and no evidence was read on effects between groups.
 visualizations:
   - id: ideas
@@ -84,6 +80,13 @@ fullAnswer:
       **If you love someone of another faith, conviction does not require coldness.** The Quran tells Muslims to speak to Jews and Christians "in a way that is best" and to begin with "our God and your God is one" (29:46). Whether a particular person will be saved is, in the words of the tradition, God's decision, not ours; the page "Are my non-Muslim loved ones lost?" takes this up with care.
 
       **If you feel guilty for believing at all, remember that dissent is also a belief.** You can hold your faith humbly — open to questions, kind to those who differ — without pretending you have no view.
+    tr: |-
+      **Başka bir inançtan birini seviyorsan, inanç soğukluk gerektirmez.** Kur'an Müslümanlara Yahudiler ve Hristiyanlarla "en güzel yoldan" konuşmalarını ve "Bizim ilâhımız da, sizin ilâhınız da birdir" diyerek başlamalarını söyler (29:46). Belirli bir kişinin kurtulup kurtulmayacağı, geleneğin ifadesiyle, bizim değil Allah'ın kararıdır; "Gayrimüslim sevdiklerim kaybolmuş mu?" sayfası bunu özenle ele alıyor.
+
+      **Bir inanca sahip olduğun için bile suçluluk duyuyorsan, ayrı düşmenin de bir inanç olduğunu hatırla.** İnancını tevazu ile taşıyabilirsin — sorulara açık, farklı düşünenlere nazik — hiçbir görüşün yokmuş gibi yapmadan.
+    title:
+      en: Kalp ve akıl için
+      tr: Kalp ve akıl için
   - kind: quran
     en: |-
       **"For you is your religion, and for me is my religion"** (109:6). This is the last verse of Sura al-Kafirun, a Meccan sura. Ibn Kathir reports ("it has been said") that the Quraysh had invited the Prophet (pbuh) to worship their idols for a year and they would worship his God for a year; the sura was the answer. He calls it "the Surah of disavowal from the deeds of the idolators". So the verse is not a statement that all religions are equally true: it is a refusal to mix worship, combined with leaving the others to their own. The verse does not command anything about how Muslims treat others; that comes from other verses.
@@ -93,6 +96,17 @@ fullAnswer:
       **Worth is not group membership.** "O mankind, indeed We have created you from male and female and made you peoples and tribes that you may know one another. Indeed, the most noble of you in the sight of Allah is the most righteous of you" (49:13), from Sura al-Hujurat, Medinan, addressed to all people. Ibn Kathir reads "that you may know one another" (with Mujahid) as the knowledge of lineage — so-and-so son of so-and-so of such a tribe — and says that "you earn honor with Allah the Exalted on account of Taqwa, not family lineage". He cites the hadith in Muslim that God "does not look at your shapes or wealth, but he looks at your hearts and actions".
 
       **The hard side stated plainly.** The Quran also says that a religion other than Islam will not be accepted (3:85), and the Prophet (pbuh) said that a Jew or Christian who "hears about me" and dies without believing is among the people of the Fire ({hadith:muslim:153}). How scholars limit this to those whom the message truly reached is set out on the salvation page; it is not hidden here, because the question of arrogance cannot be answered honestly without it.
+    tr: |-
+      **"Sizin dininiz size, benim dinim banadır."** (109:6). Bu, Mekkî bir sûre olan Kâfirûn Sûresi'nin son âyetidir. İbn Kesîr, Kureyş'in Hz. Peygamber'i (s.a.v.) bir yıl onların putlarına ibadet etmeye, karşılığında kendilerinin de bir yıl onun Rabbine ibadet etmeye davet ettiğini ("denildi ki") aktarır; sûre bunun cevabıydı. Onu "müşriklerin amellerinden uzak durma sûresi" olarak niteler. Dolayısıyla âyet bütün dinlerin eşit derecede doğru olduğunu söyleyen bir ifade değildir: İbadeti karıştırmayı reddetmekle diğerlerini kendi hâllerine bırakmayı birleştirir. Âyet Müslümanların başkalarına nasıl davranacağı hakkında bir şey emretmez; o, başka âyetlerden gelir.
+
+      **Zorlama yok, inanmaya mecbur etmek yok.** "Dinde zorlama yoktur. Çünkü doğruluk, sapıklıktan ayırd edilmiştir." (2:256). "Eğer Rabbin dileseydi, yeryüzünde kim varsa hepsi toptan iman ederlerdi. O halde insanları hep mümin olsunlar diye sen mi zorlayacaksın?" (10:99); Mekkî Yûnus Sûresi'nden, Hz. Peygamber'e (s.a.v.) hitaben. İbn Kesîr, Hz. Peygamber'in (s.a.v.) "bununla emrolunmadığını", hidayetin Allah'a ait olduğunu, Allah'ın "ilmi, hikmeti ve adaleti" ile hidayet verdiğini açıklar ve 2:272'yi zikreder: "Onları yola getirmek senin boynuna borç değildir…" (2:272).
+
+      **Değer, grup aidiyeti değildir.** "Ey insanlar! Doğrusu biz sizi bir erkekle bir dişiden yarattık. Ve birbirinizle tanışmanız için sizi milletlere ve kabilelere ayırdık. Muhakkak ki Allah yanında en değerli ve en üstününüz O'ndan en çok korkanınızdır." (49:13); Medenî Hucurât Sûresi'nden, bütün insanlara hitaben. İbn Kesîr "birbirinizle tanışmanız için" ifadesini (Mücâhid ile birlikte) soy bilgisi — falanın oğlu falan, şu kabileden — olarak okur ve "yüce Allah katında şerefi soy ile değil, takva ile kazandığınızı" söyler. Allah'ın "suretlerinize ve mallarınıza değil, kalplerinize ve amellerinize baktığını" bildiren Müslim'deki hadisi zikreder.
+
+      **Zor yüz, açıkça söylenmiş olarak.** Kur'an İslam dışında bir dinin kabul edilmeyeceğini de söyler (3:85); Hz. Peygamber (s.a.v.) de "benden haberdar olan" ve iman etmeden ölen bir Yahudi ya da Hristiyanın ateş ehlinden olduğunu söyledi ({hadith:muslim:153}). Âlimlerin bunu mesajın gerçekten ulaştığı kişilerle nasıl sınırladığı kurtuluş sayfasında anlatılıyor; burada gizlenmiyor, çünkü kibir sorusu bu olmadan dürüstçe cevaplanamaz.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: scholars
     en: |-
       **Plantinga: the charge applies to the critic too.** Alvin Plantinga (b. 1932), an American philosopher, discussed the charge that exclusivism involves "a sort of egoism, perhaps pride or hubris, in accepting beliefs" others reject. He calls such charges "a philosophical tar baby: get close enough to them to use them against the Christian believer, and you are likely to find them stuck fast to yourself", and concludes: "if *contradicting* others is arrogant and egoistical, so is *dissenting*" (*Warranted Christian Belief*, pp. 443–445). The pluralist who says "all religions are equally valid" also rejects what most believers in every religion hold.
@@ -100,11 +114,27 @@ fullAnswer:
       **Hick: all great religions as paths.** John Hick held that each major religion "constitutes a valid context of salvation/liberation; but none constitutes the one and only such context" (Basinger, SEP). His critics argue that this is itself a disputed position: Mark Heim calls such pluralists "inclusivists in disguise", and others say Hick's ethical test for which religions count is "as arbitrary as the standard for acceptable paths to salvation set forth by exclusivists or inclusivists" (Basinger, citing Meeker 2003).
 
       **Religious luck.** Guy Axtell's *Problems of Religious Luck* (2019) argues that because believers would probably have held opposite beliefs if raised elsewhere, exclusivist belief suffers from "a malignant strand of epistemic luck". Liz Jackson's review lists replies: some beliefs (that discrimination is wrong, for example) we rightly keep despite their cultural origin; atheism and theism are equally affected by upbringing; and the same problem hits moral, political and philosophical beliefs (*NDPR*, 2019). The same worry appears much earlier in al-Ghazali: "Christian youths always grew up to be Christians, Jewish youths to be Jews and Muslim youths to be Muslims" (*al-Munqidh*, Watt) — and his answer was to test what he had inherited.
+    tr: |-
+      **Plantinga: Suçlama eleştirmene de uygulanır.** Amerikalı filozof Alvin Plantinga (d. 1932), dışlayıcılığın başkalarının reddettiği inançları kabul etmekte "bir tür bencillik, belki gurur ya da kibir" içerdiği suçlamasını ele aldı. Bu tür suçlamaları "felsefi bir zift bebek" olarak adlandırır: "Hristiyan inanana karşı kullanmak için onlara yeterince yaklaşın, büyük ihtimalle onların kendinize sıkıca yapıştığını görürsünüz" der ve şu sonuca varır: "Başkalarıyla *çelişmek* kibirli ve bencilce ise, *ayrı düşmek* de öyledir" (*Warranted Christian Belief*, s. 443–445). "Bütün dinler eşit derecede geçerlidir" diyen çoğulcu da her dindeki inananların çoğunun benimsediği şeyi reddeder.
+
+      **Hick: Bütün büyük dinler birer yol.** John Hick, her büyük dinin "kurtuluş/özgürleşme için geçerli bir bağlam oluşturduğunu, ama hiçbirinin bu türden tek bağlam olmadığını" savundu (Basinger, SEP). Eleştirmenleri bunun da tartışmalı bir tutum olduğunu söyler: Mark Heim bu tür çoğulcuları "kılık değiştirmiş kapsayıcılar" olarak adlandırır; başkaları da Hick'in hangi dinlerin sayılacağına dair ahlaki ölçütünün "dışlayıcıların ya da kapsayıcıların kurtuluşa giden kabul edilebilir yollar için koyduğu ölçüt kadar keyfî" olduğunu söyler (Basinger, Meeker 2003'e atıfla).
+
+      **Dinî şans.** Guy Axtell'in *Problems of Religious Luck* (2019) adlı kitabı, inananlar başka yerde yetişselerdi büyük ihtimalle zıt inançlara sahip olacakları için, dışlayıcı inancın "epistemik şansın kötü huylu bir türünden" muzdarip olduğunu savunur. Liz Jackson'ın incelemesi cevapları sıralar: Bazı inançları (örneğin ayrımcılığın yanlış olduğunu) kültürel kökenlerine rağmen haklı olarak koruruz; ateizm ve teizm yetişme tarzından eşit derecede etkilenir; aynı sorun ahlaki, siyasi ve felsefi inançları da vurur (*NDPR*, 2019). Aynı kaygı çok daha önce Gazzâlî'de görülür: "Hristiyan çocukların hep Hristiyan, Yahudi çocukların Yahudi, Müslüman çocukların Müslüman olarak büyüdüğünü gördüm" (*el-Munkız*, Watt) — ve onun cevabı, devraldığını sınamak oldu.
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: science
     en: |-
       **Belief is strongly passed on in families.** [Established, for the US sample.] In a Pew survey of 1,811 pairs of US teens (13–17) and their parents (March–April 2019), "Most teens share the religion of their parents"; eight in ten evangelical Protestant parents had a teen who also identified as evangelical; 48% of teens said they have "all the same" religious beliefs as their parent; and 88% of parents who regularly attend services had a teen who reported attending that often.
 
       **Intellectual humility can be measured, and it matters for how we treat people who disagree.** [Moderate; from a university press release, not the paper.] Leary and colleagues (2017, four studies, *Personality and Social Psychology Bulletin*) found that intellectually humble people were less likely to judge the character of someone they disagreed with, and better at telling strong arguments from weak ones. They found essentially no difference in intellectual humility between religious and non-religious people. This supports the claim that arrogance is about how a belief is held. Whether humble confidence improves relations *between groups* was not shown in the material read.
+    tr: |-
+      **İnanç ailede güçlü biçimde aktarılır.** [Established, ABD örneklemi için.] Pew'in ABD'de 1.811 genç (13–17) ve ebeveyn çiftiyle yaptığı bir araştırmada (Mart–Nisan 2019), "Gençlerin çoğu ebeveynlerinin dinini paylaşıyor"; evanjelik Protestan ebeveynlerin onda sekizinin çocuğu da kendini evanjelik olarak tanımladı; gençlerin %48'i ebeveyniyle "tamamen aynı" dinî inançlara sahip olduğunu söyledi; ibadetlere düzenli katılan ebeveynlerin %88'inin çocuğu da o sıklıkta katıldığını bildirdi.
+
+      **Entelektüel tevazu ölçülebilir ve farklı düşünenlere nasıl davrandığımız için önemlidir.** [Orta; makaleden değil, bir üniversite basın bülteninden.] Leary ve arkadaşları (2017, dört çalışma, *Personality and Social Psychology Bulletin*), entelektüel olarak mütevazı insanların, aynı fikirde olmadıkları birinin karakteri hakkında hüküm vermeye daha az eğilimli olduğunu ve güçlü argümanları zayıf olanlardan ayırmakta daha başarılı olduğunu buldu. Entelektüel tevazu bakımından dindar ve dindar olmayan insanlar arasında neredeyse hiç fark bulmadılar. Bu, kibrin bir inancın nasıl taşındığıyla ilgili olduğu iddiasını destekler. Mütevazı bir güvenin *gruplar arasındaki* ilişkileri iyileştirip iyileştirmediği, okunan malzemede gösterilmedi.
+    title:
+      en: Araştırmalar ne diyor?
+      tr: Araştırmalar ne diyor?
   - kind: objection
     en: |-
       **"Every view excludes others" is a dodge.** *The objection:* it does not answer the accident-of-birth problem; it just says everyone has it. *Reply:* it answers the *arrogance* charge, not the luck problem. The luck problem is answered differently: by testing one's beliefs on their reasons, as al-Ghazali did, rather than abandoning all of them. *Limit:* most people never test their inherited beliefs, and for them the luck problem stands.
@@ -112,39 +142,69 @@ fullAnswer:
       **"Exclusivism plus eternal punishment is arrogance."** *Reply:* mainstream Muslim scholars hold that no one is punished for a message that did not truly reach them — "never would We punish until We sent a messenger" (17:15) — and they forbid declaring any particular person damned (salvation page). *Limit:* for someone who heard the message clearly and rejected it, the strict mainstream view gives no comfort, and that should be said honestly.
 
       **"Calling others to Islam is disrespectful."** *Reply:* sharing what one believes is true is a form of taking others seriously, as long as it is without force (2:256), with courtesy (29:46), and leaving the outcome to God (10:99). *Limit:* the history of every religion, Islam included, contains coercion; principles do not erase that record.
+    tr: |-
+      **"Her görüş başkalarını dışlar" demek bir kaçamaktır.** *İtiraz:* Bu, doğum tesadüfü sorununa cevap vermez; sadece herkesin bu sorunu yaşadığını söyler. *Cevap:* Bu, şans sorununa değil, *kibir* suçlamasına cevap verir. Şans sorunu farklı cevaplanır: Gazzâlî'nin yaptığı gibi, inançların hepsini bırakmak yerine onları gerekçeleri üzerinden sınamakla. *Sınır:* İnsanların çoğu devraldığı inançları hiç sınamaz; onlar için şans sorunu geçerliliğini korur.
+
+      **"Dışlayıcılık artı sonsuz ceza kibirdir."** *Cevap:* Ana akım Müslüman âlimler, kendisine gerçekten ulaşmamış bir mesaj yüzünden kimsenin cezalandırılmayacağını kabul eder — "Biz bir Peygamber göndermedikçe, hiç kimseye azab edecek değiliz." (17:15) — ve belirli bir kişinin cehennemlik olduğunu ilan etmeyi yasaklar (kurtuluş sayfası). *Sınır:* Mesajı açıkça işitip reddeden biri için katı ana akım görüş hiçbir teselli sunmaz; bu dürüstçe söylenmelidir.
+
+      **"Başkalarını İslam'a davet etmek saygısızlıktır."** *Cevap:* Doğru olduğuna inandığın şeyi paylaşmak, zorlama olmadığı (2:256), nezaketle yapıldığı (29:46) ve sonuç Allah'a bırakıldığı (10:99) sürece, başkalarını ciddiye almanın bir biçimidir. *Sınır:* İslam dahil her dinin tarihinde zorlama vardır; ilkeler bu sicili silmez.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Exclusivism (Plantinga; mainstream Muslim theology)** — one's own religion is true where it conflicts with others; this is not in itself arrogant.
       - **Pluralism (Hick)** — all major religions are valid paths; criticised as itself exclusive or arbitrary (Heim; Meeker, in Basinger).
       - **Religious-luck critique (Axtell)** — exclusivist belief is undermined by its dependence on upbringing; replies in Jackson's review.
       - **Classical Muslim view of the excused** — those the message did not truly reach are not held to account (salvation page).
+    tr: |-
+      - **Dışlayıcılık (Plantinga; ana akım Müslüman kelâmı)** — kişinin kendi dini, başkalarıyla çeliştiği yerde doğrudur; bu tek başına kibir değildir.
+      - **Çoğulculuk (Hick)** — bütün büyük dinler geçerli yollardır; bu görüş de dışlayıcı ya da keyfî olduğu gerekçesiyle eleştirilir (Heim; Meeker, Basinger'da).
+      - **Dinî şans eleştirisi (Axtell)** — dışlayıcı inanç, yetişme tarzına bağımlılığı yüzünden zayıflar; cevaplar Jackson'ın incelemesinde.
+      - **Mazur sayılanlara dair klasik Müslüman görüşü** — mesajın gerçekten ulaşmadığı kişiler sorumlu tutulmaz (kurtuluş sayfası).
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: What do "exclusivism" and "pluralism" mean?
+      tr: '"Dışlayıcılık" ve "çoğulculuk" ne demek?'
     a:
       en: "Exclusivism: one's own religion is true, or closer to the truth, where religions disagree. Pluralism: no single religion has primacy (Basinger, SEP)."
+      tr: "Dışlayıcılık: Dinlerin ayrıldığı yerde kişinin kendi dini doğrudur ya da hakikate daha yakındır. Çoğulculuk: Hiçbir dinin önceliği yoktur (Basinger, SEP)."
   - q:
       en: How can 109:6 fit with calling people to Islam?
+      tr: 109:6 insanları İslam'a davet etmekle nasıl bağdaşır?
     a:
       en: Ibn Kathir reads 109:6 as a refusal to mix worship with idolatry, not as saying all religions are equal. Calling others is allowed; compulsion is not (2:256; 10:99).
+      tr: İbn Kesîr 109:6'yı bütün dinlerin eşit olduğu şeklinde değil, ibadeti putperestlikle karıştırmayı reddetmek olarak okur. Davet etmek serbesttir; zorlamak değildir (2:256; 10:99).
   - q:
       en: Does Islam teach that all non-Muslims go to Hell?
+      tr: İslam bütün gayrimüslimlerin cehenneme gideceğini mi öğretir?
     a:
       en: No. Mainstream scholars excuse those the message did not truly reach; the strict view applies to those who understood and rejected it. Only God knows who that is.
+      tr: Hayır. Ana akım âlimler mesajın gerçekten ulaşmadığı kişileri mazur sayar; katı görüş, mesajı anlayıp reddedenlere uygulanır. Bunun kim olduğunu yalnızca Allah bilir.
   - q:
       en: What does intellectual humility look like in practice?
+      tr: Entelektüel tevazu pratikte neye benzer?
     a:
       en: Listening to the strongest form of the other view; not judging the person's character for disagreeing; admitting what you cannot answer.
+      tr: Karşı görüşün en güçlü biçimini dinlemek; birinin karakteri hakkında, sırf farklı düşündüğü için hüküm vermemek; cevaplayamadığın şeyi kabul etmek.
   - q:
       en: If I'm Muslim because my parents were, is my faith worth anything?
+      tr: Anne babam Müslüman olduğu için Müslümansam, inancımın bir değeri var mı?
     a:
       en: It is where you start, not where you must end. Testing it — as al-Ghazali did — can make it your own.
+      tr: Bu senin başladığın yerdir, bitirmen gereken yer değil. Onu sınamak — Gazzâlî'nin yaptığı gibi — onu senin inancın hâline getirebilir.
   - q:
       en: How do I love friends of other faiths without feeling I betray mine?
+      tr: Kendi inancıma ihanet ediyormuş gibi hissetmeden başka inançlardan arkadaşlarımı nasıl sevebilirim?
     a:
       en: Begin with what you share (29:46), be honest about what you don't, and leave judgment to God.
+      tr: Ortak olandan başla (29:46), ortak olmayan konusunda dürüst ol ve hükmü Allah'a bırak.
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
+translatedFrom: docs/research/tr/Q36.md

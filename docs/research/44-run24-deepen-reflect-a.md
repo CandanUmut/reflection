@@ -12,7 +12,7 @@ Written by Claude directly, November 2026. Every Quran quotation was checked aga
 - Ibn Kathir (abridged English), *Tafsīr al-Jalālayn* and *Tanwīr al-Miqbās* on 21:32, https://surahquran.com/tafsir-english-aya-32-sora-21.html — as on the current page.
 - US Environmental Protection Agency, ozone glossary (epa.gov) — where the ozone layer is, and which ultraviolet it absorbs.
 - NASA Scientific Visualization Studio, "Solar Wind Strips the Martian Atmosphere" (svs.gsfc.nasa.gov/4370) — Mars, without a global magnetic field, losing atmosphere to the solar wind.
-- NASA Science, "Meteors & Meteorites: Facts" (read for run 17) — "shooting stars", about 48.5 tons of material a day, "Less than 5% of the original object usually makes it down".
+- NASA Science, "Meteors & Meteorites: Facts" — "shooting stars", about 48.5 tons of material a day, "Less than 5% of the original object usually makes it down".
 
 ### In brief
 "And We made the sky a protected ceiling, but they, from its signs, are turning away" (21:32): the verse calls the sky a roof that is kept safe, and its real complaint is that people do not look at it.
@@ -84,7 +84,7 @@ We now know of protections the first listeners could not see: a thin band of ozo
 - Ibn Kathir (abridged English), with *Tanwīr al-Miqbās*, *al-Jalālayn* and Mawdudi, on 51:47, https://surahquran.com/tafsir-english-aya-47-sora-51.html.
 - al-Qurtubi on 51:47 (Arabic), https://ssr.quran.com/51:47/tafsirs/ar-tafseer-al-qurtubi — the meanings of *bi-ayd* and *mūsiʿūn* and who held each.
 - Hubble, "A Relation between Distance and Radial Velocity among Extra-Galactic Nebulae", *PNAS* 15(3):168 (1929) (NASA ADS record).
-- Kragh, "Hubble Law or Hubble–Lemaître Law? The IAU Resolution", arXiv 1809.02557 (2018) (read for run 17) — Lemaître 1927; the IAU's 2018 renaming.
+- Kragh, "Hubble Law or Hubble–Lemaître Law? The IAU Resolution", arXiv 1809.02557 (2018) — Lemaître 1927; the IAU's 2018 renaming.
 - Nobel Prize in Physics 2011, press release (nobelprize.org) — the accelerating expansion.
 - Planck Collaboration, "Planck 2018 results. VI. Cosmological parameters", arXiv 1807.06209 (*A&A* 641, A6, 2020) — H₀ = 67.4 ± 0.5.
 - Riess et al., "A Comprehensive Measurement of the Local Value of the Hubble Constant…", arXiv 2112.04510 (*ApJL* 934, L7, 2022) — H₀ = 73.04 ± 1.04; "a 5-sigma difference".
@@ -160,7 +160,7 @@ The passage itself moves quickly from the sky to the earth "spread out", to the 
 - Saheeh International (Tanzil): 57:25–26.
 - al-Tabari on 57:25 (Arabic), https://quran.ksu.edu.sa/tafseer/tabary/sura57-aya25.html.
 - al-Qurtubi on 57:25 (Arabic), https://ssr.quran.com/57:25/tafsirs/ar-tafseer-al-qurtubi.
-- Ibn Kathir (abridged English) and *Tafsīr al-Jalālayn* on 57:25, https://surahquran.com/tafsir-english-aya-25-sora-57.html (as on the current page).
+- Ibn Kathir (abridged English) and *Tafsīr al-Jalālayn* on 57:25, https://surahquran.com/tafsir-english-aya-25-sora-57.html.
 - IUPAC Commission on Isotopic Abundances and Atomic Weights (CIAAW), "Iron" (ciaaw.org) — isotopic composition of natural iron.
 - "Earth's accretion inferred from iron isotopic anomalies of supernova nuclear statistical equilibrium origin", arXiv 2110.06045 (2021; abstract) — iron isotopes made in supernovae, and where Earth's iron came from.
 - NIH Office of Dietary Supplements, "Iron: Fact Sheet for Health Professionals" — iron in haemoglobin and myoglobin; 3–4 g in an adult body.
@@ -235,9 +235,9 @@ A modern reader may add, as reflection, that the iron in our blood was made in s
 ### Sources read
 - Saheeh International (Tanzil): 41:37–39, 22:5, 35:9, 50:11, 30:19.
 - al-Tabari on 41:39 (Arabic), https://quran.ksu.edu.sa/tafseer/kortoby-tabary/sura41-aya39.html — *khāshiʿa*, *ihtazzat*, *rabat*, and the resurrection link (the page did not show al-Qurtubi's text).
-- Ibn Kathir (abridged English) and *Tafsīr al-Jalālayn* on 41:39, https://surahquran.com/tafsir-english-aya-39-sora-41.html (as on the current page).
+- Ibn Kathir (abridged English) and *Tafsīr al-Jalālayn* on 41:39, https://surahquran.com/tafsir-english-aya-39-sora-41.html.
 - USDA Natural Resources Conservation Service, "Vertisols" (nrcs.usda.gov) — clay soils that swell when wet and crack when dry.
-- Jessica Hill (Associated Press), "Wildflowers are blooming in the driest place in North America — but not for long", OPB (10 March 2026) (as on the current page).
+- Jessica Hill (Associated Press), "Wildflowers are blooming in the driest place in North America — but not for long", OPB (10 March 2026).
 
 ### In brief
 "And of His signs is that you see the earth stilled, but when We send down upon it rain, it quivers and grows" (41:39): the verse points from dry ground turning green to the God who will raise the dead.
@@ -282,7 +282,6 @@ There is a lesson for the heart as well, offered as reflection. A life that feel
 
 ### Honest notes
 - **An analogy, not botany.** The verse uses the revival of the earth as an argument for resurrection. It makes no claim about seed banks, clay chemistry or germination.
-- **Figures not sourced.** The current page says seeds carry "germination inhibitors that only a soaking rain washes away" and that "Death Valley averages a little under 2 inches (about 50 mm)" of rain a year. Neither was found in the sources read; they should stay off unless sourced.
 - **The popular claim.** No named source making a scientific-miracle claim about this verse was read.
 
 ### Questions readers ask next
@@ -303,9 +302,9 @@ There is a lesson for the heart as well, offered as reflection. A life that feel
 ### Sources read
 - Saheeh International (Tanzil): 75:1–5, 75:40.
 - Ibn Kathir, al-Qurtubi and al-Tabari on 75:4 (Arabic), https://quran.ksu.edu.sa/tafseer/ibn-katheer-qortobi-tabary/sura75-aya4.html.
-- Ibn Kathir (abridged English), *al-Jalālayn* and *Tanwīr al-Miqbās* on 75:3–4, https://surahquran.com/tafsir-english-aya-4-sora-75.html (as on the current page).
+- Ibn Kathir (abridged English), *al-Jalālayn* and *Tanwīr al-Miqbās* on 75:3–4, https://surahquran.com/tafsir-english-aya-4-sora-75.html.
 - Glover et al., "The developmental basis of fingerprint pattern formation and variation", *Cell* 186 (2023), doi 10.1016/j.cell.2023.01.015 (abstract, Cardiff University repository).
-- Glenn Langenburg, *Scientific American*, "Are one's fingerprints similar to those of his or her parents…?" (as on the current page).
+- Glenn Langenburg, *Scientific American*, "Are one's fingerprints similar to those of his or her parents…?".
 
 ### In brief
 "Does man think that We will not assemble his bones? Yes. [We are] Able [even] to proportion his fingertips" (75:3–4): the verse answers doubt about resurrection with the smallest bones of the hand.
@@ -372,9 +371,9 @@ The sura names the real obstacle a verse later: "But man desires to continue in 
 - Saheeh International (Tanzil): 41:9–12, 21:30, 79:27–30.
 - al-Tabari and al-Qurtubi on 21:30 (Arabic), https://quran.ksu.edu.sa/tafseer/ibn-tabary-saadi-qortobi/sura21-aya30.html — the four readings of *ratq* and *fatq*, and al-Tabari's choice.
 - al-Tabari on 41:11 (Arabic), https://quran.ksu.edu.sa/tafseer/tabary/sura41-aya11.html — Ibn ʿAbbas's reports on "Come, willingly or by compulsion".
-- Ibn Kathir (abridged English) and *al-Jalālayn* on 41:9–12 and 21:30, https://surahquran.com/tafsir-english-aya-11-sora-41.html and https://surahquran.com/tafsir-english-aya-30-sora-21.html (as on the current page).
+- Ibn Kathir (abridged English) and *al-Jalālayn* on 41:9–12 and 21:30, https://surahquran.com/tafsir-english-aya-11-sora-41.html and https://surahquran.com/tafsir-english-aya-30-sora-21.html.
 - Connelly et al., "The Absolute Chronology and Thermal Processing of Solids in the Solar Protoplanetary Disk", *Science* (2012), doi 10.1126/science.1226919, as reported by the University of Copenhagen (EurekAlert, 2 Nov. 2012) — the age of the first solids.
-- Las Cumbres Observatory, SpaceBook, "The Early Universe" (read for run 17) — a hot, dense early universe that expanded and cooled; atoms formed at about 3,000 K.
+- Las Cumbres Observatory, SpaceBook, "The Early Universe" — a hot, dense early universe that expanded and cooled; atoms formed at about 3,000 K.
 - NASA, Planetary Fact Sheet (nssdc.gsfc.nasa.gov) — planet masses.
 
 ### In brief
@@ -429,7 +428,6 @@ A modern reader brings another picture: a hot beginning, a cloud of gas and dust
 - **The popular claim.** "The Quran described the Big Bang." The classical readings of 21:30 are quite different — rain and plants (al-Tabari's choice), separation by air, or seven heavens from one — and the early universe was a hot plasma, not smoke. The modern reading is a reflection, not the verse's meaning (see also the Ask page on "scientific miracles").
 - **"Smoke-like" cloud.** Calling a gas-and-dust cloud "smoke-like" is a reasonable modern reflection [Debated], but the classical commentators read the smoke as vapour.
 - **The order of creation.** 41:9–12 and 79:27–30 seem to give different orders; Ibn ʿAbbas's reconciliation (earth created, then heavens, then the earth spread out) is reported by Ibn Kathir. It is an old discussion in tafsir, not something to hide.
-- **"Just under 99%".** The current page's "just under 99% of all the mass orbiting the Sun" has no primary source; the NASA figures give 99.6% of the planets' mass.
 
 ### Questions readers ask next
 **Does 21:30 describe the Big Bang?** The verse speaks of heaven and earth "joined" and "separated". Al-Tabari, the earliest great commentator, read it as a sky without rain and an earth without plants, opened by God; others read it as one mass separated by air. Reading it as the Big Bang is a modern reflection, not a classical meaning.
@@ -449,10 +447,10 @@ A modern reader brings another picture: a hot beginning, a cloud of gas and dust
 ### Sources read
 - Saheeh International (Tanzil): 10:5–6, 25:61–62, 71:16, 78:13.
 - al-Qurtubi on 10:5 (Arabic), https://quran.ksu.edu.sa/tafseer/qortobi/sura10-aya5.html — *ḍiyāʾ* and *nūr*; Ibn ʿAbbas on why there are two lights.
-- Ibn Kathir (abridged English) and *al-Jalālayn* on 10:5 and 78:13, https://surahquran.com/tafsir-english-aya-5-sora-10.html and https://surahquran.com/tafsir-english-aya-13-sora-78.html (as on the current page).
+- Ibn Kathir (abridged English) and *al-Jalālayn* on 10:5 and 78:13, https://surahquran.com/tafsir-english-aya-5-sora-10.html and https://surahquran.com/tafsir-english-aya-13-sora-78.html.
 - NASA, "Sun Fact Sheet" (nssdc.gsfc.nasa.gov) — luminosity and central temperature.
 - NASA, "Moon Fact Sheet" (nssdc.gsfc.nasa.gov) — albedo; revolution and synodic periods.
-- D. O'Brien, "Derived Light and Eclipses in the Fifth Century", *Journal of Hellenic Studies* 88 (1968) 114–127 (read for run 17) — Greek thinkers who knew the moon's light comes from the sun.
+- D. O'Brien, "Derived Light and Eclipses in the Fifth Century", *Journal of Hellenic Studies* 88 (1968) 114–127 — Greek thinkers who knew the moon's light comes from the sun.
 
 ### In brief
 "It is He who made the sun a shining light and the moon a derived light and determined for it phases - that you may know the number of years and account [of time]" (10:5): two lights, described differently, given to us as clocks.
@@ -523,7 +521,7 @@ Today we know the moon gives back only a tenth of the light that falls on it; Gr
 ### Sources read
 - Saheeh International (Tanzil): 36:78–81, 56:71–73.
 - al-Qurtubi on 36:80 (Arabic), https://quran.ksu.edu.sa/tafseer/qortobi/sura36-aya80.html — the fire-sticks *markh* and *ʿafār*, and the argument from opposites.
-- Ibn Kathir (abridged English) on 36:77–80 and 56:71–73, and *al-Jalālayn* on 56:71, https://surahquran.com/tafsir-english-aya-78-sora-36.html and https://surahquran.com/tafsir-english-aya-71-sora-56.html (as on the current page).
+- Ibn Kathir (abridged English) on 36:77–80 and 56:71–73, and *al-Jalālayn* on 56:71, https://surahquran.com/tafsir-english-aya-78-sora-36.html and https://surahquran.com/tafsir-english-aya-71-sora-56.html.
 
 ### In brief
 "[It is] He who made for you from the green tree, fire, and then from it you ignite" (36:80): fire from moist, living wood, offered as a sign that life can come from dry bones.
@@ -547,7 +545,7 @@ Today we know the moon gives back only a tenth of the light that falls on it; Gr
 ### How it works
 Each point is tied to "from the green tree, fire". These are modern facts set beside the verse.
 
-- **Stored sunlight.** [Established] Plants use sunlight to build sugars and wood from carbon dioxide and water (photosynthesis). Burning wood reverses this: the stored carbon combines with oxygen and releases the energy as heat and light. (Standard biology and chemistry; no named source was read in this run.)
+- **Stored sunlight.** [Established] Plants use sunlight to build sugars and wood from carbon dioxide and water (photosynthesis). Burning wood reverses this: the stored carbon combines with oxygen and releases the energy as heat and light. (Standard biology and chemistry; no specific source is cited here.)
 - **Friction fire.** [Established] Rubbing two pieces of wood together heats the fibres until they smoulder; this is the method al-Qurtubi describes. (No named source on the physics of friction fire was read.)
 
 ### Points of awe
@@ -568,7 +566,7 @@ Today we can add, as reflection, that the energy in that flame is sunlight caugh
 - **No photosynthesis claimed.** The verse refers to a known Arabian practice, fire-sticks of *markh* and *ʿafār* (al-Qurtubi; Ibn Kathir). Using photosynthesis as a reflection is fine; saying "the Quran revealed photosynthesis" is not.
 - **Two readings of "green tree".** Fire-sticks (al-Qurtubi; Ibn Kathir) or "the oil of green trees" (al-Jalālayn); the page should give both.
 - **The popular claim.** No named source making a scientific-miracle claim about 36:80 was read.
-- **Science sources.** The photosynthesis and friction points are standard but were not tied to a named source in this run.
+- **Science sources.** The photosynthesis and friction points are standard science, but no specific source is cited for them here.
 
 ### Questions readers ask next
 **What is the "green tree"?** al-Qurtubi and Ibn Kathir: the Arabian trees *markh* and *ʿafār*, whose green branches were rubbed together to make fire. al-Jalālayn: the oil of green trees.

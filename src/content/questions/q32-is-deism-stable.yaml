@@ -15,16 +15,13 @@ verses:
   - 6:91
   - 29:61-63
 steelman:
-  tr: |
-    Bir Yaratıcıya inanıyorum ama dini reddediyorum.
+  tr: "\"Kafam karışık değil, öfkeli de değilim. Sadece deizmin en dürüst tutum olduğunu düşünüyorum. Bir Yaratıcı, neden hiçbir şey yerine bir şeyin var olduğunu açıklar. Ama vahiy olduğu iddia edilen her metin, iyi bir Tanrı'nın söylemeyeceği şeyler içeriyor; vahiyler birbiriyle çelişiyor; Tanrı da meseleyi o kadar belirsiz bırakmış ki samimi insanlar her yerde ayrı düşüyor. Deizme 'istikrarsız' demek, beni bir din seçmeye zorlamanın bir yolu. 'Bir Yaratıcı, o kadar' neden yaşanacak bir yer olmasın?\""
   en: "\"I am not confused and I am not angry. I simply think deism is the most honest position. A Creator explains why there is something rather than nothing. But every claimed revelation contains things a good God would not say, the revelations contradict each other, and God has left the question so unclear that sincere people disagree everywhere. Calling deism 'unstable' is just a way of pressuring me to choose a religion. Why can't 'a Creator, and nothing more' be a place to live?\""
 whyAsked:
-  tr: |
-    Türkiye'deki 2018 tartışması, Konya'da 50 din kültürü öğretmeninin katıldığı "Gençlik ve İnanç" çalıştayında (4 Mart 2018) başladı. Kapanış bildirgesi, inanç sorunları yaşayan gençler arasında deizmin ön plana çıktığını söyledi. TİDA/Nişancı anketi (2023) gerçek deizmin %2'nin altında olduğunu buldu; ama 18–24 yaş arasındakilerin %11'i kendini bu etikete yakın hissediyor.
+  tr: Dindar aileler ve öğretmenler deizmi çoğu zaman, biri müdahale etmezse ateizmle biten bir dönem gibi görür; deistler de bunu baskı olarak duyar. 2018'de Türk din öğretmenlerinin bir çalıştayı, inanç sorunları yaşayan gençler arasında deizmin öne çıktığını bildirdi ve bu iddia ülke çapında bir tartışmaya dönüştü. Aynı soru, insanların bir dine değil de "yüce bir güce" inandığı her yerde vardır.
   en: Religious families and teachers often treat deism as a phase that ends in atheism unless someone intervenes, and deists hear that as pressure. In 2018 a workshop of Turkish religion teachers reported deism as prominent among young people with problems of belief, and the claim became a national debate. The same question exists wherever people believe in "a higher power" but not in a religion.
 shortAnswer:
-  tr: |
-    Deizm çoğu zaman bir varış noktası değil, bir mola yeridir. İyi bir Yaratıcı pek sessiz kalmaz. Türkiye'deki "deizmin" büyük kısmı dindarlara karşı bir protestodur.
+  tr: "Deizm bir ömür boyu taşınabilir; bunu yapan insanlar da vardır. Daha dar bir anlamda \"istikrarsız\"dır: Düzenli bir dünya yaratacak kadar hikmetli ve iyi bir Yaratıcıyı kabul eder, ama sonra bu Yaratıcının kendisi hakkında soru soran varlıklara söyleyecek hiçbir şeyi olmadığını varsayar. Müslüman kelâmcılar, hikmet sahibi bir Allah'ın yarattıklarına yol göstereceğini farklı yollardan savundular; Kur'an da vahyi inkâr etmenin \"Allah'ı gereği gibi\" tanıyamamak olduğunu söyler (6:91). Tarihte İngiliz deizmi yaklaşık 1689 ile 1742 arasında zirvesine ulaştı, sonra bir akım olarak geriledi; ama bunun sebepleri tartışmalıdır. Türkiye'de anket verileri, \"deist\" etiketine yakınlık duyan pek çok kişinin, işlenmiş bir felsefeye sahip olmaktan çok dindar insanlara itiraz ettiğini düşündürüyor. Sabır ve dürüst sohbet, baskıdan daha çok işe yarar."
   en: 'Deism can be held for a lifetime, and some people do. It is "unstable" in a narrower sense: it keeps a Creator who is wise and good enough to make an ordered world, but then assumes this Creator has nothing to say to the beings who ask about Him. Muslim theologians argued in different ways that a wise God would guide those He created, and the Quran says that denying revelation is a failure to "appraise Allah with true appraisal" (6:91). Historically, English deism had its high point between about 1689 and 1742 and then declined as a movement, though the reasons are debated. In Türkiye, survey data suggest that many who feel close to the "deist" label are protesting religious people more than holding a worked-out philosophy. Patience and honest conversation help more than pressure.'
 layers:
   - kind: religious
@@ -45,8 +42,7 @@ layers:
       Deist bir mola sabrı hak eder.
     en: A deist pause deserves patience.
 honestLimits:
-  tr: |
-    Bazı insanlar ömür boyu deist kalır.
+  tr: Bazı insanlar ömür boyu deist kalır ve burada söylenen hiçbir şey onların akıl dışı olduğunu göstermez. "İstikrarsızlık" argümanı felsefidir ve kişinin Allah'ın hikmetinden ne çıkardığına bağlıdır; Eş'arî geleneğin kendisi, aklın Allah'ın ne yapması gerektiğini temellendiremeyeceğini söyler. Deizmin gerileyiş tarihi ikincil özetlerden alındı. Türkiye rakamları, yöntemi eleştirilmiş tek bir anketten geliyor; tek tek insanların zaman içindeki yollarına dair veri bulunamadı.
   en: Some people remain deists for life, and nothing here shows they are irrational. The "instability" argument is philosophical and depends on what one thinks God's wisdom implies; the Ashʿari tradition itself denies that reason can establish what God must do. The history of deism's decline was taken from secondary summaries. The Turkish figures come from one survey whose method has been criticised, and no data were found on individual paths over time.
 visualizations:
   - id: ideas
@@ -95,16 +91,37 @@ fullAnswer:
       **If you are a deist, you are not in "no relationship" with God.** You already believe that He made you. That belief carries questions with it — gratitude, purpose, what He might want — and you can keep asking them.
 
       **If someone you love has become a deist, do not treat them as lost.** Listen to why. In the Konya teachers' report, the most-asked question was why God "does not intervene in evil on earth and remains silent" (*İktibas*, 2018). That is a real question; a lecture will not answer it. The pages on suffering and on religious hypocrisy may help you understand what they are carrying. Keep the relationship warm; the Quran tells even the Prophet (pbuh) that compelling belief is not his task (10:99, on the page "Is claiming one religion is true arrogant?").
+    tr: |-
+      **Deistsen, Allah'la "hiçbir ilişki içinde değil" sayılmazsın.** O'nun seni yarattığına zaten inanıyorsun. Bu inanç beraberinde sorular getirir — şükür, amaç, O'nun ne isteyebileceği — ve bu soruları sormaya devam edebilirsin.
+
+      **Sevdiğin biri deist olduysa, ona kaybolmuş biri gibi davranma.** Nedenini dinle. Konyalı öğretmenlerin raporunda en çok sorulan soru, Allah'ın neden "yeryüzündeki kötülüğe müdahale etmediği ve sessiz kaldığı"ydı (*İktibas*, 2018). Bu gerçek bir sorudur; bir nutuk ona cevap vermez. Acı ve dinî ikiyüzlülük üzerine sayfalar, onun neler taşıdığını anlamana yardım edebilir. İlişkiyi sıcak tut; Kur'an, inanmaya zorlamanın Hz. Peygamber'in (s.a.v.) bile görevi olmadığını söyler (10:99; bkz. "Tek bir dinin doğru olduğunu iddia etmek kibir mi?" sayfası).
+    title:
+      en: Kalp ve akıl için
+      tr: Kalp ve akıl için
   - kind: quran
     en: |-
       **The Quran calls denial of revelation a failure to value God rightly.** "And they did not appraise Allah with true appraisal when they said, 'Allah did not reveal to a human being anything.' Say, 'Who revealed the Scripture that Moses brought as light and guidance to the people?'" (6:91). The verse is in Sura al-Anʿam, a Meccan sura. Ibn Kathir reports that Ibn ʿAbbas, Mujahid and ʿAbdullah ibn Kathir said it was revealed about the Quraysh (the Prophet's Meccan opponents), and that "it was also said" to be about some Jews. He reads the phrase as meaning they "did not estimate Allah with an estimation due to Him" when they denied that He sends anything down; he gives no explicit preference between the two occasions. The verse's own argument is that revelation has already happened (the Torah of Moses), so a blanket denial ignores evidence.
 
       **The Quran addresses people who already accept a Creator.** "If you asked them, 'Who created the heavens and earth and subjected the sun and the moon?' they would surely say, 'Allah.' Then how are they deluded?" (29:61); "…but most of them do not reason" (29:63). These Meccan verses address the Quraysh, who believed in God as Creator but rejected His messenger. The Quran's complaint is not that they lack a Creator but that they stop there. Reading this as a description of modern deists is a modern application.
+    tr: |-
+      **Kur'an vahyi inkârı, Allah'ı gereği gibi değerlendirememek olarak niteler.** "Onlar: "Allah insanlara hiçbir şey göndermemiştir" demekle, Allah'ı gereği gibi tanıyamadılar. De ki: Musa'nın insanlara aydınlık ve hidayet olmak üzere getirdiği… Kitab'ı kim gönderdi?" (6:91). Âyet Mekkî bir sûre olan En'âm Sûresi'ndedir. İbn Kesîr, İbn Abbâs, Mücâhid ve Abdullah b. Kesîr'in âyetin Kureyş (Hz. Peygamber'in Mekkeli muhalifleri) hakkında indiğini söylediklerini, "bazı Yahudiler hakkında olduğunun da söylendiğini" aktarır. İfadeyi, Allah'ın bir şey indirdiğini inkâr ettiklerinde O'nu "hakkıyla takdir etmedikleri" şeklinde okur; iki nüzul sebebi arasında açık bir tercih yapmaz. Âyetin kendi argümanı, vahyin zaten gerçekleşmiş olduğudur (Mûsâ'nın Tevrat'ı); dolayısıyla toptan bir inkâr delili görmezden gelir.
+
+      **Kur'an, bir Yaratıcıyı zaten kabul eden insanlara hitap eder.** "Andolsun ki onlara, "Gökleri ve yeri yaratan, güneşi ve ayı buyruğu altında tutan kimdir?" diye sorsan "Allah" derler. O halde nasıl (haktan) çevrilip döndürülüyorlar?" (29:61); "…Fakat çokları akıllarını kullanmazlar." (29:63). Bu Mekkî âyetler, Allah'a Yaratıcı olarak inanan ama O'nun elçisini reddeden Kureyş'e hitap eder. Kur'an'ın şikâyeti onların bir Yaratıcıdan yoksun olması değil, orada durmalarıdır. Bunu modern deistlerin bir tasviri olarak okumak modern bir uygulamadır.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: scholars
     en: |-
       **The classical argument from grace and wisdom.** The Muʿtazila and later Shiʿi theologians held that God's grace (*luṭf*) — what moves people toward obedience without forcing them — is required of Him, and that sending prophets is an instance of it; Shaykh al-Mufid also grounded this in God's wisdom, since "the objective of creation is predicated on it" (Meghjee). The Ashʿaris denied that anything is required of God; al-Ghazali's *al-Iqtiṣād* argues that God sends prophets freely, not by obligation (Meghjee). The Maturidi position, which stresses God's wisdom (*ḥikma*), has not yet been checked.
 
       **What the argument shows.** All schools agree that a wise God *did* send prophets. Only the Muʿtazili and Shiʿi line says reason shows He *had to*. For a deist, the useful point is the shared one: a Creator who acts with wisdom is not a Creator who is indifferent to the creatures He gave reason.
+    tr: |-
+      **Lütuf ve hikmetten yapılan klasik argüman.** Mu'tezile ve sonraki Şiî kelâmcılar, Allah'ın lütfunun (*lütuf*) — insanları zorlamadan itaate yönelten şeyin — O'na vacip olduğunu, peygamber göndermenin de bunun bir örneği olduğunu savundular; Şeyh Müfîd bunu ayrıca Allah'ın hikmetine dayandırdı, çünkü "yaratılışın amacı ona bağlıdır" (Meghjee). Eş'arîler Allah'a herhangi bir şeyin vacip olduğunu reddettiler; Gazzâlî'nin *el-İktisâd*'ı Allah'ın peygamberleri bir mecburiyetle değil, serbestçe gönderdiğini savunur (Meghjee). Allah'ın hikmetini (*hikmet*) vurgulayan Mâtürîdî görüş henüz kontrol edilmedi.
+
+      **Argüman neyi gösterir?** Bütün ekoller, hikmet sahibi bir Allah'ın peygamber *gönderdiğinde* hemfikirdir. Yalnızca Mu'tezilî ve Şiî çizgi, aklın O'nun bunu *yapmak zorunda* olduğunu gösterdiğini söyler. Bir deist için yararlı olan ortak noktadır: Hikmetle iş gören bir Yaratıcı, akıl verdiği yaratıklara kayıtsız bir Yaratıcı değildir.
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: history
     en: |-
       **English deism.** Lord Herbert of Cherbury's *De Veritate* (1624) is usually called the first major statement of deism in English (Wikipedia). *Britannica* gives his five religious ideas "recognized as God-given and innate": a supreme being, the duty to worship him, a virtuous life as the best worship, repentance for sins, and rewards and punishments after death. John Toland's *Christianity Not Mysterious* (1696) stressed "the rational element in natural religion", and Matthew Tindal's *Christianity as Old as the Creation* (1730) became the centre of the controversy (*Britannica*; Wikipedia). *Britannica* puts "the high point of Deist thought" in England "from about 1689 through 1742"; by 1754–56 the controversy "had passed its peak". It notes that deism then "took deep root in 18th-century Germany". In France, Voltaire, who lived in England in 1726–1728, became the best-known deist (Wikipedia).
@@ -114,8 +131,23 @@ fullAnswer:
       **Türkiye as one example.** On 4 March 2018, about 50 religion teachers met in Konya, organised by the İKDAM Education Association and the International Pioneer Educators Association. Their closing statement said that among young people with problems of belief, deism — "the rejection of God's intervention in life" — "is especially prominent" (*İktibas*). Later survey data gave a more careful picture. In Zübeyir Nişancı's *Sayılarla Türkiye'de İnanç ve Dindarlık* (1,942 respondents, 35 provinces), 94.3% said they believe in God; 11% of 18–24-year-olds said they do not (2% of over-65s); and 11% of 18–24-year-olds felt close to the label "deist" (4% of over-65s). Nişancı called the debate about deism spreading "in some ways artificial" (VOA Türkçe). KONDA's survey (6,137 people; reported 31 May 2025) found "believer but not religious" rising from 31% in 2008 to 34%, "religious" falling from 55% to 46%, and "atheist or non-believer" rising from 2% to 8% (*Paraanaliz*).
 
       **Elsewhere.** In a Pew survey of US adults (December 2017), 56% believed in God "as described in the Bible", 33% in "another type of higher power or spiritual force", and about one in ten in neither; 72% of the religiously unaffiliated believed in "a higher power of some kind".
+    tr: |-
+      **İngiliz deizmi.** Lord Herbert of Cherbury'nin *De Veritate*'si (1624), genellikle deizmin İngilizcedeki ilk büyük ifadesi sayılır (Wikipedia). *Britannica*, onun "Tanrı vergisi ve doğuştan olarak kabul edilen" beş dinî fikrini verir: yüce bir varlık, O'na ibadet etme görevi, en iyi ibadet olarak erdemli bir hayat, günahlardan tövbe, ölümden sonra ödül ve ceza. John Toland'ın *Christianity Not Mysterious*'u (1696) "doğal dindeki akli unsur"u vurguladı; Matthew Tindal'ın *Christianity as Old as the Creation*'ı (1730) tartışmanın merkezi oldu (*Britannica*; Wikipedia). *Britannica*, İngiltere'de "deist düşüncenin zirvesi"ni "yaklaşık 1689'dan 1742'ye kadar" olarak verir; 1754–56'ya gelindiğinde tartışma "zirvesini geçmişti". Deizmin ardından "18. yüzyıl Almanya'sında derin kök saldığını" belirtir. Fransa'da 1726–1728 yıllarında İngiltere'de yaşamış olan Voltaire en tanınmış deist oldu (Wikipedia).
+
+      **Neden gerilediği tartışmalıdır.** Wikipedia, tarihçi Peter Gay'e dayanarak deizmin "1730'larda tanınabilir bir akım olarak yavaş bir düşüşe" girdiğini anlatır ve Mossner'e atfedilen sebepleri sayar: natüralizm ve materyalizmin artan etkisi; Hume ve Kant'ın aklın metafizik sorulara cevap verme gücünü sorgulaması; Fransız Devrimi'nin şiddeti; Pietizm ve Metodizm gibi Hristiyan uyanış hareketleri. Ayrıca deist fikirlerin liberal teolojiyi ve Üniteryanizmi beslediğini söyler. *Sınır:* Bunlar tarihçilerin ileri sürdüğü sebeplerdir ve ikincil bir özetten alınmıştır; deizmin zemin kaybettiğini gösterirler, çürütüldüğünü değil. Sebeplerin bir kısmı ateizme, bir kısmı vahye dayalı dine doğru iter.
+
+      **Bir örnek olarak Türkiye.** 4 Mart 2018'de, İKDAM Eğitim Derneği ve Uluslararası Öncü Eğitimciler Derneği'nin düzenlediği bir toplantıda yaklaşık 50 din öğretmeni Konya'da bir araya geldi. Sonuç bildirgeleri, inanç sorunları yaşayan gençler arasında deizmin — "Allah'ın hayata müdahalesinin reddi" — "özellikle öne çıktığını" söylüyordu (*İktibas*). Sonraki anket verileri daha dikkatli bir tablo çizdi. Zübeyir Nişancı'nın *Sayılarla Türkiye'de İnanç ve Dindarlık* çalışmasında (1.942 katılımcı, 35 il), katılımcıların %94,3'ü Allah'a inandığını söyledi; 18–24 yaş arasındakilerin %11'i inanmadığını söyledi (65 yaş üstünde %2); 18–24 yaş grubunun %11'i de kendini "deist" etiketine yakın hissetti (65 yaş üstünde %4). Nişancı, deizmin yayıldığına dair tartışmayı "bazı açılardan yapay" olarak nitelendirdi (VOA Türkçe). KONDA'nın araştırması (6.137 kişi; 31 Mayıs 2025'te duyuruldu), "inançlı ama dindar değil" diyenlerin 2008'de %31'den %34'e yükseldiğini, "dindar" diyenlerin %55'ten %46'ya düştüğünü, "ateist ya da inançsız" diyenlerin ise %2'den %8'e çıktığını buldu (*Paraanaliz*).
+
+      **Başka yerlerde.** Pew'in ABD'li yetişkinlerle yaptığı bir araştırmada (Aralık 2017), katılımcıların %56'sı Allah'a "Kitab-ı Mukaddes'te anlatıldığı şekliyle", %33'ü "başka bir tür yüce güce ya da manevi kuvvete" inanıyordu; yaklaşık onda biri ikisine de inanmıyordu; herhangi bir dine bağlı olmayanların %72'si "bir tür yüce güce" inanıyordu.
+    title:
+      en: Tarih
+      tr: Tarih
   - kind: reasoning
     en: "**Why \"a Creator, and nothing more\" is under pressure from both sides.** From the atheist side: if God never acts or speaks, what work does belief in Him do? From the theist side: the reasons that support a Creator — order, fine-tuning, the existence of minds — support a Creator who is purposeful, and purpose makes communication likely. The deist must say why the Creator cared enough to make minds, but not enough to address them. *Limit:* a deist can answer that a Creator's purposes may simply be beyond us — but that is close to the \"skeptical theism\" that believers use, and it weakens the deist's own objection to revelation."
+    tr: "**\"Bir Yaratıcı, o kadar\" neden iki taraftan da baskı altında?** Ateist taraftan: Allah hiçbir zaman etkide bulunmuyor ya da konuşmuyorsa, O'na inanmak ne işe yarar? Teist taraftan: Bir Yaratıcıyı destekleyen sebepler — düzen, ince ayar, zihinlerin varlığı — amaç sahibi bir Yaratıcıyı destekler; amaç da iletişimi muhtemel kılar. Deist, Yaratıcının zihinler yaratacak kadar ilgilendiğini ama onlara hitap edecek kadar ilgilenmediğini açıklamak zorundadır. *Sınır:* Bir deist, bir Yaratıcının amaçlarının bizim kavrayışımızın ötesinde olabileceğini söyleyerek cevap verebilir — ama bu, inananların kullandığı \"şüpheci teizm\"e yakındır ve deistin vahye karşı kendi itirazını zayıflatır."
+    title:
+      en: Filozoflar bu konuda nasıl akıl yürütür?
+      tr: Filozoflar bu konuda nasıl akıl yürütür?
   - kind: objection
     en: |-
       **"Calling deism unstable is just pressure."** *Reply:* the claim here is not that deists are confused, but that the position faces questions from both directions, as above. *Limit:* the history of deism's decline shows social change as much as argument; it does not show that any individual deist is wrong.
@@ -123,40 +155,70 @@ fullAnswer:
       **"Revelations contain things a good God would not say."** *Reply:* this is the strongest deist argument, and it has to be met case by case, as the site's pages on hard questions try to do (slavery, war, women, apostasy, Hell). *Limit:* some of those answers are partial, and the pages say so.
 
       **"God's hiddenness shows He does not communicate."** *Reply:* see the replies to Schellenberg on "Why believe the Creator is involved?". The Quran presents revelation as a test that can be refused, not as overwhelming proof. *Limit:* the hiddenness argument remains a live debate in philosophy (SEP).
+    tr: |-
+      **"Deizme istikrarsız demek sadece baskıdır."** *Cevap:* Buradaki iddia deistlerin kafasının karışık olduğu değil, yukarıda görüldüğü gibi bu tutumun iki yönden de sorularla karşılaştığıdır. *Sınır:* Deizmin gerileyişinin tarihi, argüman kadar toplumsal değişimi de gösterir; tek tek deistlerin yanıldığını göstermez.
+
+      **"Vahiyler iyi bir Tanrı'nın söylemeyeceği şeyler içeriyor."** *Cevap:* Bu en güçlü deist argümandır ve sitenin zor sorular üzerine sayfalarının yapmaya çalıştığı gibi (kölelik, savaş, kadın, irtidat, cehennem) tek tek ele alınmalıdır. *Sınır:* Bu cevapların bazıları kısmidir; sayfalar da bunu söyler.
+
+      **"Allah'ın gizliliği O'nun iletişim kurmadığını gösterir."** *Cevap:* "Yaratıcının dünyayla ilgilendiğine neden inanmalı?" sayfasında Schellenberg'e verilen cevaplara bakın. Kur'an vahyi, karşı konulamaz bir ispat olarak değil, reddedilebilecek bir imtihan olarak sunar. *Sınır:* Gizlilik argümanı felsefede canlı bir tartışma olmaya devam ediyor (SEP).
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Muʿtazila, Imami theologians (Shaykh al-Mufid, al-Ṭūsī)** — reason shows God sends prophets (*luṭf*) (Meghjee).
       - **Ashʿaris (al-Ghazali, *al-Iqtiṣād*)** — God sends prophets freely; reason cannot oblige Him (Meghjee).
       - **Historians (Gay; Mossner, as summarised)** — deism declined as a movement from the 1730s for several reasons, intellectual and social.
       - **Nişancı** — much Turkish "deism" is closeness to a label rather than a settled belief.
+    tr: |-
+      - **Mu'tezile, İmâmî kelâmcılar (Şeyh Müfîd, Tûsî)** — akıl Allah'ın peygamber gönderdiğini gösterir (*lütuf*) (Meghjee).
+      - **Eş'arîler (Gazzâlî, *el-İktisâd*)** — Allah peygamberleri serbestçe gönderir; akıl O'nu bir şeye mecbur edemez (Meghjee).
+      - **Tarihçiler (Gay; özetlendiği şekliyle Mossner)** — deizm bir akım olarak 1730'lardan itibaren fikrî ve toplumsal birçok sebeple geriledi.
+      - **Nişancı** — Türkiye'deki "deizm"in büyük kısmı, yerleşmiş bir inançtan çok bir etikete yakınlıktır.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: Is deism the same as atheism?
+      tr: Deizm ateizmle aynı şey mi?
     a:
       en: No. Deists believe in a Creator; atheists do not. Deists and Muslims share belief in a Creator; they differ on revelation.
+      tr: Hayır. Deistler bir Yaratıcıya inanır; ateistler inanmaz. Deistler ve Müslümanlar bir Yaratıcıya inanmakta ortaktır; vahiy konusunda ayrılırlar.
   - q:
       en: Do deists usually become atheists?
+      tr: Deistler genellikle ateist mi olur?
     a:
       en: No reliable data was found on what happens to individual deists over time. The surveys measure numbers at one moment, not paths.
+      tr: Tek tek deistlere zamanla ne olduğuna dair güvenilir bir veri bulunamadı. Anketler sayıları bir anda ölçer, yolları değil.
   - q:
       en: What did the Konya teachers actually say?
+      tr: Konyalı öğretmenler tam olarak ne söyledi?
     a:
       en: That among young people with problems of belief, deism — rejecting God's intervention in life — was especially prominent, and that the most-asked question was why God stays silent before evil (*İktibas*, 2018).
+      tr: İnanç sorunları yaşayan gençler arasında deizmin — Allah'ın hayata müdahalesini reddetmenin — özellikle öne çıktığını ve en çok sorulan sorunun Allah'ın kötülük karşısında neden sessiz kaldığı olduğunu (*İktibas*, 2018).
   - q:
       en: How should I talk to a family member who is a deist?
+      tr: Deist olan bir aile üyemle nasıl konuşmalıyım?
     a:
       en: Ask what brought them there and listen; separate questions about God from complaints about people; do not threaten. The Quran reminds the Prophet (pbuh) that compulsion is not his task (10:99).
+      tr: Onu oraya neyin getirdiğini sor ve dinle; Allah hakkındaki soruları insanlar hakkındaki şikâyetlerden ayır; tehdit etme. Kur'an, Hz. Peygamber'e (s.a.v.) zorlamanın onun görevi olmadığını hatırlatır (10:99).
   - q:
       en: Am I still in a relationship with God as a deist?
+      tr: Deist olarak hâlâ Allah'la bir ilişki içinde miyim?
     a:
       en: You believe He made you; that is already a relationship of creature to Creator. Gratitude and honest questions are ways of continuing it.
+      tr: O'nun seni yarattığına inanıyorsun; bu zaten yaratılmışın Yaratıcıyla bir ilişkisidir. Şükür ve dürüst sorular bunu sürdürmenin yollarıdır.
   - q:
       en: Why did English deism fade?
+      tr: İngiliz deizmi neden söndü?
     a:
       en: Historians give several reasons — naturalism, Hume's and Kant's critiques, the French Revolution, religious revival. They disagree on the weight of each.
+      tr: Tarihçiler birkaç sebep sayar — natüralizm, Hume'un ve Kant'ın eleştirileri, Fransız Devrimi, dinî uyanış. Her birinin ağırlığı konusunda ayrılırlar.
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
   - *a5
+translatedFrom: docs/research/tr/Q32.md

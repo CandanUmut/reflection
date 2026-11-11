@@ -64,6 +64,27 @@
     }
    ]
   },
+  "abudawud:2671": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Hasan",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Hasan",
+     "by": "Muhammad Muhyi Al-Din Abdul Hamid"
+    },
+    {
+     "grade": "Hasan",
+     "by": "Shuaib Al Arnaut"
+    },
+    {
+     "grade": "Isnaad Hasan",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
   "abudawud:2682": {
    "whole": false,
    "grades": [
@@ -81,6 +102,48 @@
     }
    ]
   },
+  "abudawud:2685": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Sahih",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Sahih",
+     "by": "Muhammad Muhyi Al-Din Abdul Hamid"
+    },
+    {
+     "grade": "Sahih",
+     "by": "Shuaib Al Arnaut"
+    },
+    {
+     "grade": "Sahih Bukhari (3044) Sahih Muslim (1357)",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
+  "abudawud:3535": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Hasan Sahih",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Hasan Sahih",
+     "by": "Muhammad Muhyi Al-Din Abdul Hamid"
+    },
+    {
+     "grade": "Daif",
+     "by": "Shuaib Al Arnaut"
+    },
+    {
+     "grade": "Daif",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
   "abudawud:3646": {
    "whole": false,
    "grades": [
@@ -94,6 +157,27 @@
     },
     {
      "grade": "Isnaad Sahih",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
+  "abudawud:4359": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Sahih",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Sahih",
+     "by": "Muhammad Muhyi Al-Din Abdul Hamid"
+    },
+    {
+     "grade": "Hasan",
+     "by": "Shuaib Al Arnaut"
+    },
+    {
+     "grade": "Hasan",
      "by": "Zubair Ali Zai"
     }
    ]
@@ -174,6 +258,44 @@
     }
    ]
   },
+  "abudawud:4777": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Hasan",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Hasan",
+     "by": "Muhammad Muhyi Al-Din Abdul Hamid"
+    },
+    {
+     "grade": "Hasan",
+     "by": "Shuaib Al Arnaut"
+    },
+    {
+     "grade": "Isnaad Hasan",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
+  "abudawud:4782": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Sahih",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Sahih",
+     "by": "Muhammad Muhyi Al-Din Abdul Hamid"
+    },
+    {
+     "grade": "Sahih",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
   "abudawud:4799": {
    "whole": false,
    "grades": [
@@ -217,6 +339,10 @@
    "grades": []
   },
   "bukhari:1303": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:1312": {
    "whole": true,
    "grades": []
   },
@@ -420,11 +546,11 @@
    "whole": true,
    "grades": []
   },
-  "bukhari:6312": {
+  "bukhari:6116": {
    "whole": true,
    "grades": []
   },
-  "bukhari:6320": {
+  "bukhari:6314": {
    "whole": true,
    "grades": []
   },
@@ -437,6 +563,10 @@
    "grades": []
   },
   "bukhari:6679": {
+   "whole": true,
+   "grades": []
+  },
+  "bukhari:676": {
    "whole": true,
    "grades": []
   },
@@ -510,11 +640,11 @@
    "whole": true,
    "grades": []
   },
-  "muslim:12": {
+  "muslim:127a": {
    "whole": true,
    "grades": []
   },
-  "muslim:127a": {
+  "muslim:132": {
    "whole": true,
    "grades": []
   },
@@ -562,6 +692,10 @@
    "whole": true,
    "grades": []
   },
+  "muslim:2588": {
+   "whole": true,
+   "grades": []
+  },
   "muslim:2589": {
    "whole": true,
    "grades": []
@@ -586,7 +720,15 @@
    "whole": true,
    "grades": []
   },
+  "muslim:55": {
+   "whole": true,
+   "grades": []
+  },
   "muslim:771": {
+   "whole": true,
+   "grades": []
+  },
+  "muslim:91": {
    "whole": true,
    "grades": []
   },
@@ -608,6 +750,23 @@
     {
      "grade": "Hasan",
      "by": "Bashar Awad Maarouf"
+    }
+   ]
+  },
+  "tirmidhi:149": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Hasan Sahih",
+     "by": "Ahmad Muhammad Shakir"
+    },
+    {
+     "grade": "Hasan Sahih",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Isnaad Hasan",
+     "by": "Zubair Ali Zai"
     }
    ]
   },
@@ -649,6 +808,48 @@
     },
     {
      "grade": "Hasan",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
+  "tirmidhi:2466": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Sahih",
+     "by": "Ahmad Muhammad Shakir"
+    },
+    {
+     "grade": "Sahih",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Hasan",
+     "by": "Bashar Awad Maarouf"
+    },
+    {
+     "grade": "Isnaad Hasan",
+     "by": "Zubair Ali Zai"
+    }
+   ]
+  },
+  "tirmidhi:2969": {
+   "whole": false,
+   "grades": [
+    {
+     "grade": "Sahih",
+     "by": "Ahmad Muhammad Shakir"
+    },
+    {
+     "grade": "Sahih",
+     "by": "Al-Albani"
+    },
+    {
+     "grade": "Hasan Sahih",
+     "by": "Bashar Awad Maarouf"
+    },
+    {
+     "grade": "Sahih",
      "by": "Zubair Ali Zai"
     }
    ]

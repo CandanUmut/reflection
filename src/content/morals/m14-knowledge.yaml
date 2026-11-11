@@ -16,7 +16,7 @@ verses:
   - 58:11
   - 35:28
 summary:
-  tr: "\"Rabbim, ilmimi artır\" (20:114) — Hz. Peygamber'e daha fazlasını istemesi söylenen tek şey."
+  tr: "İnen ilk kelime \"Oku\"ydu (96:1) ve Hz. Peygamber'e (s.a.v.) şöyle söylendi: \"\"Rabbim! benim ilmimi artır\" de.\" (20:114). Kur'an sorar: \"Hiç bilenlerle bilmeyenler bir olur mu?\" (39:9)."
   en: "The first word revealed was \"Recite\" (96:1), and the Prophet (pbuh) was told: \"say, 'My Lord, increase me in knowledge'\" (20:114). The Quran asks: \"Are those who know equal to those who do not know?\" (39:9)."
 teachings:
   tr: |
@@ -63,10 +63,7 @@ stories:
     - Scholars such as al-Khwārizmī (algebra), Ibn al-Haytham (optics and experimental method) and Ibn Sīnā (medicine).
     - Women scholars: Akram Nadwi documented thousands of women hadith transmitters (*al-Muḥaddithāt*).
 gaps:
-  tr: |
-    - Araştırma üretimi, okuryazarlık ve eğitim kalitesi Müslüman çoğunluklu ülkeler arasında büyük farklılıklar gösterir; bazıları 96:1–5'in uyandıracağı beklentinin çok altındadır. Güncel Güncel UNESCO verileri henüz burada yer almıyor.
-    - "İspanya bir yılda, Arap dünyasının bin yılda çevirdiği kadar kitap çevirir" şeklinde yaygın olarak paylaşılan iddia (ilk Arap İnsani Gelişme Raporu haberlerinden) **itiraz görmüştür**; burada tekrarlanmıyor.
-    - "Altın çağ" nostaljisi, bugün hiçbir şeyin değişmesi gerekmediğini yanlış biçimde ima edebilir.
+  tr: Gazzâlî'nin İlim Kitabı'na henüz başvurulmadı. Müslüman çoğunluklu ülkelerin eğitim istatistikleri henüz kontrol edilmedi. "Altın çağ" nostaljisi, bugün hiçbir şeyin değişmesi gerekmediğini yanlış bir şekilde ima edebilir.
   en: Al-Ghazali's Book of Knowledge has not yet been consulted. Education statistics for Muslim-majority countries have not yet been checked. "Golden age" nostalgia can wrongly imply nothing needs to change today.
 visualizations:
   - id: ideas
@@ -107,6 +104,10 @@ sources:
 fullAnswer:
   - kind: meaning
     en: '**ʿIlm.** Knowledge, from the root *ʿ-l-m*, "to know, to mark". In classical usage it covers both religious knowledge and knowledge of the world. *Farḍ ʿayn* is what each individual must know; *farḍ kifāya* is what the community must have, so that if enough people know it, the rest are excused.'
+    tr: '**İlim.** Bilgi; *a-l-m* kökünden, "bilmek, işaretlemek". Klasik kullanımda hem dinî bilgiyi hem de dünyaya dair bilgiyi kapsar. *Farz-ı ayn*, her bireyin bilmesi gerekendir; *farz-ı kifâye* ise toplumun sahip olması gerekendir; yeterli sayıda insan onu bildiğinde geri kalanlar sorumluluktan kurtulur.'
+    title:
+      en: Ne anlama geliyor?
+      tr: Ne anlama geliyor?
   - kind: quran
     en: |-
       **The first revelation (96:1–5).** "Recite in the name of your Lord who created — Created man from a clinging substance. Recite, and your Lord is the most Generous — Who taught by the pen — Taught man that which he knew not" (96:1–5), Meccan. ʿAʾisha (ra) tells how, in the cave of Hira, "The angel came to him and asked him to read", and he replied, "I do not know how to read"; after the angel pressed him, the verses came. He returned "with his heart beating severely" and said to Khadija, "Cover me! Cover me!" ({hadith:bukhari:3}). The first revelation is about reading and writing, given to a man who could not read.
@@ -114,15 +115,39 @@ fullAnswer:
       **Increase me in knowledge (20:114).** "And, [O Muhammad], do not hasten with [recitation of] the Qur'an before its revelation is completed to you, and say, 'My Lord, increase me in knowledge'" (20:114), Meccan. The setting is revelation: be patient with it, and ask for more understanding.
 
       **Those who know (39:9; 58:11; 35:28).** "Say, 'Are those who know equal to those who do not know?' Only they will remember [who are] people of understanding" (39:9). "Allah will raise those who have believed among you and those who were given knowledge, by degrees" (58:11). "Only those fear Allah, from among His servants, who have knowledge" (35:28) — the verse comes right after a description of the different colours of mountains, people and animals (35:27–28), so the "knowledge" in view includes knowledge of creation.
+    tr: |-
+      **İlk vahiy (96:1–5).** "Yaratan Rabbinin adıyla oku! O, insanı bir alekadan (embriyodan) yarattı. Oku! Rabbin sonsuz kerem sahibidir. O Rab ki kalemle yazmayı öğretti. İnsana bilmediği şeyleri öğretti." (96:1–5), Mekkî. Hz. Âişe (r.a.), Hira mağarasında "meleğin ona geldiğini ve okumasını istediğini", onun da "Ben okuma bilmem" diye cevap verdiğini anlatır; melek onu sıktıktan sonra âyetler geldi. O "kalbi şiddetle çarparak" döndü ve Hz. Hatice'ye, "Beni örtün! Beni örtün!" dedi ({hadith:bukhari:3}). İlk vahiy, okuma bilmeyen bir adama verilmiş, okuma ve yazma hakkında bir vahiydir.
+
+      **İlmimi artır (20:114).** "(Ey Muhammed!) Kur'ân sana vahyedilirken, vahiy bitmeden önce (unutma korkusu ile) Kur'ân'ı okumada acele etme; "Rabbim! benim ilmimi artır" de." (20:114), Mekkî. Bağlam vahiydir: Ona karşı sabırlı ol ve daha fazla anlayış iste.
+
+      **Bilenler (39:9; 58:11; 35:28).** "De ki: "Hiç bilenlerle bilmeyenler bir olur mu?" Ancak temiz akıl sahibi olanlar anlar." (39:9). "Allah sizden inananları ve kendilerine ilim verilenleri derecelerle yükseltsin" (58:11). "Kulları içinde Allah'tan ancak âlimler korkar." (35:28) — âyet, dağların, insanların ve hayvanların farklı renklerinin tarifinin hemen ardından gelir (35:27–28); dolayısıyla burada kastedilen "ilim" yaratılışa dair bilgiyi de içerir.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
-    en: "**\"Seeking knowledge is a duty upon every Muslim.\"** This often-quoted saying is in Sunan Ibn Majah 224, narrated by Anas (ra): \"Seeking knowledge is a duty upon every Muslim, and he who imparts knowledge to those who do not deserve it…\" — the rest compares that to putting jewels on swine. Its chain is graded *ḍaʿīf* (weak) by the Darussalam editors (thehouseofislam.com); other scholars have judged it acceptable through its many chains, but that has not yet been checked. Under this site's rules, no claim rests on it alone. The duty to learn what one needs for faith and practice is supported by the scholars below."
+    en: "**\"Seeking knowledge is a duty upon every Muslim.\"** This often-quoted saying is in Sunan Ibn Majah 224, narrated by Anas (ra): \"Seeking knowledge is a duty upon every Muslim, and he who imparts knowledge to those who do not deserve it…\" — the rest compares that to putting jewels on swine. Its grade is disputed: al-Albani accepted this first sentence as *ṣaḥīḥ* through its many routes, while al-Bayhaqi said its \"text is well known and its chains are weak\", and Zubayr ʿAli Zaʾi grades it weak. The second half of the same report is very weak by all accounts. Under this site's rules, no claim rests on it alone. The duty to learn what one needs for faith and practice is supported by the scholars below."
+    tr: "**\"İlim talep etmek her Müslümana farzdır.\"** Sıkça alıntılanan bu söz, Enes'ten (r.a.) rivayet edilen *Sünen-i İbn Mâce* 224'te yer alır: \"İlim talep etmek her Müslümana farzdır; ilmi ehli olmayana veren kimse…\" — devamı bunu domuzlara mücevher takmaya benzetir. Senedi Darussalam editörleri tarafından *zayıf* olarak derecelendirildi (thehouseofislam.com); başka âlimler onu pek çok senedi sebebiyle kabul edilebilir saydı, ama bu henüz kontrol edilmedi. Bu sitenin kurallarına göre hiçbir iddia yalnızca ona dayanmaz. Kişinin imanı ve ibadeti için gereken bilgiyi öğrenme yükümlülüğü aşağıdaki âlimler tarafından desteklenir."
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: |-
       **Individual and communal knowledge.** Shaykh Muhammad Abu Bakr Badhib explains that individually obligatory knowledge is "the knowledge that every Muslim, male or female, must acquire" — the meaning of the testimony of faith and the "essential rulings on purity, prayer, fasting, zakat, and pilgrimage" — and that communally obligatory knowledge includes "worldly sciences like medicine, engineering": "if some members of the community pursue it, others are exempt." He refers readers to al-Ghazali's *Iḥyāʾ* for detail; al-Ghazali's Book of Knowledge itself has not yet been consulted.
 
       **Ibn Rushd: the Law commands reasoned study.** Ibn Rushd (Averroes, d. 1198), the Andalusian judge and philosopher, opens his *Decisive Treatise* by arguing that the Quran commands reflection on created things — citing 59:2 — which Hourani's translation of Ibn Rushd renders as "Reflect, you have vision" (not the Saheeh wording) and verses on studying "the kingdom of the heavens and the earth" — and concludes that "we are under an obligation to carry on our study of beings by intellectual reasoning", so that "the Law commands philosophy": its study is "either obligatory or recommended".
+    tr: |-
+      **Bireysel ve toplumsal bilgi.** Şeyh Muhammed Ebû Bekir Bâzîb, farz-ı ayn olan bilginin "erkek ya da kadın her Müslümanın edinmesi gereken bilgi" olduğunu — kelime-i şehadetin anlamı ve "taharet, namaz, oruç, zekât ve hacla ilgili temel hükümler" — ve farz-ı kifâye olan bilginin "tıp, mühendislik gibi dünyevi ilimleri" içerdiğini açıklar: "Toplumun bazı üyeleri onunla uğraşırsa, diğerleri sorumluluktan kurtulur." Ayrıntı için okuyucuları Gazzâlî'nin *İhyâ*'sına yönlendirir; Gazzâlî'nin İlim Kitabı'nın kendisine henüz başvurulmadı.
+
+      **İbn Rüşd: Şeriat akılla inceleme yapmayı emreder.** Endülüslü kadı ve filozof İbn Rüşd (Averroes, ö. 1198), *Faslü'l-Makâl*'ine, Kur'an'ın yaratılmış şeyler üzerinde düşünmeyi emrettiğini savunarak başlar — 59:2'yi zikreder; Hourani'nin İbn Rüşd çevirisi bunu "Reflect, you have vision" ("Ey basiret sahipleri, ibret alın"; Saheeh'in ifadesi değil; Elmalılı: "Ey akıl sahipleri! İbret alın") olarak verir — ve "göklerin ve yerin melekûtunu" incelemekle ilgili âyetleri zikreder; ve "varlıkları akıl yürütme yoluyla incelemeyi sürdürmekle yükümlü olduğumuz", dolayısıyla "Şeriatın felsefeyi emrettiği" sonucuna varır: Onu incelemek "ya vacip ya da müstehaptır".
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: research
     en: "**Curiosity helps learning.** [Moderate.] In Gruber, Gelman and Ranganath (2014), people rated their curiosity about trivia answers. When they were curious, they learned the answers better and also remembered unrelated faces shown during the wait, even after 24 hours; brain scans showed more activity in the dopamine reward circuit and the hippocampus (Cell Press press release; numbers not given there)."
+    tr: "**Merak öğrenmeye yardımcı olur.** [Orta.] Gruber, Gelman ve Ranganath'ın (2014) çalışmasında insanlar bilgi yarışması sorularının cevaplarını ne kadar merak ettiklerini değerlendirdi. Meraklı olduklarında cevapları daha iyi öğrendiler ve bekleme sırasında gösterilen, konuyla ilgisiz yüzleri de 24 saat sonra bile daha iyi hatırladılar; beyin taramaları dopamin ödül devresinde ve hipokampüste daha fazla faaliyet gösterdi (Cell Press basın bülteni; rakamlar orada verilmiyor)."
+    title:
+      en: Araştırmalar ne gösteriyor?
+      tr: Araştırmalar ne gösteriyor?
   - kind: practice
     en: |-
       **Learn what you need for your faith first** — prayer, fasting, purity, the meaning of what you recite — then go further.
@@ -132,34 +157,63 @@ fullAnswer:
       **Ask "increase me in knowledge"** (20:114) and mean it: read, ask questions, admit what you don't know.
 
       **Follow your curiosity.** It is a gift that helps you learn.
+    tr: |-
+      **Önce imanın için gerekeni öğren** — namaz, oruç, taharet, okuduğunun anlamı — sonra daha ileri git.
+
+      **İnsanlara hizmet eden bir alanda ilerle** — tıp, mühendislik, öğretmenlik, araştırma — toplumsal bir görev olarak.
+
+      **"İlmimi artır" de** (20:114) ve bunu gerçekten kastet: oku, soru sor, bilmediğini kabul et.
+
+      **Merakının peşinden git.** Öğrenmene yardım eden bir armağandır.
+    title:
+      en: Günlük hayatta
+      tr: Günlük hayatta
   - kind: heart
     en: |-
       **If you struggle with reading or school**, the first revelation came to a man who said, "I do not know how to read" ({hadith:bukhari:3}). Learning is open to everyone at every pace.
 
       **If you were made to feel your questions were wrong**, the Quran praises "people of understanding" (39:9) and the Prophet (pbuh) asked for more knowledge. Asking is part of learning.
+    tr: |-
+      **Okumakta ya da okulda zorlanıyorsan**, ilk vahiy "Ben okuma bilmem" diyen bir adama geldi ({hadith:bukhari:3}). Öğrenmek herkese, her hızda açıktır.
+
+      **Sorularının yanlış olduğu hissettirildiyse**, Kur'an "temiz akıl sahiplerini" över (39:9) ve Hz. Peygamber (s.a.v.) daha fazla ilim istedi. Soru sormak öğrenmenin bir parçasıdır.
+    title:
+      en: Zorlanan kişi için
+      tr: Zorlanan kişi için
 followUps:
   - q:
       en: Is "seeking knowledge is an obligation on every Muslim" authentic?
+      tr: '"İlim talep etmek her Müslümana farzdır" sözü sahih mi?'
     a:
       en: It is in Ibn Majah 224; its chain is graded weak by the Darussalam editors. The obligation to learn what one needs for faith is supported by the scholars.
+      tr: İbn Mâce 224'te yer alır; senedi Darussalam editörleri tarafından zayıf olarak derecelendirildi. Kişinin imanı için gerekeni öğrenme yükümlülüğü âlimler tarafından desteklenir.
   - q:
       en: Does "knowledge" mean only religious knowledge?
+      tr: '"İlim" yalnızca dinî bilgi mi demek?'
     a:
       en: Classical scholars counted medicine and other sciences as communal duties (Badhib); 35:27–28 links knowledge to the study of creation.
+      tr: Klasik âlimler tıbbı ve diğer ilimleri farz-ı kifâye saydı (Bâzîb); 35:27–28 ilmi yaratılışın incelenmesine bağlar.
   - q:
       en: What did Ibn Rushd argue?
+      tr: İbn Rüşd neyi savundu?
     a:
       en: That the Quran commands reasoned study of creation, so philosophy is obligatory or recommended for those able (*Decisive Treatise*).
+      tr: Kur'an'ın yaratılışın akılla incelenmesini emrettiğini, dolayısıyla felsefenin buna gücü yetenler için vacip ya da müstehap olduğunu (*Faslü'l-Makâl*).
   - q:
       en: Why was the first word "Recite"?
+      tr: İlk kelime neden "Oku"ydu?
     a:
       en: The verses speak of the pen and of teaching what was not known (96:4–5); the tradition reads this as a call to knowledge.
+      tr: Âyetler kalemden ve bilinmeyenin öğretilmesinden söz eder (96:4–5); gelenek bunu ilme bir çağrı olarak okur.
   - q:
       en: Why do some Muslim-majority countries lag in education?
+      tr: Bazı Müslüman çoğunluklu ülkeler eğitimde neden geride?
     a:
       en: For many historical, economic and political reasons; no data were checked.
+      tr: Pek çok tarihî, iktisadi ve siyasi sebepten; hiçbir veri kontrol edilmedi.
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
+translatedFrom: docs/research/tr/M14.md

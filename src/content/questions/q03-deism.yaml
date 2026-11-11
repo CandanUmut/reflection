@@ -15,16 +15,13 @@ verses:
   - 20:50
   - 30:30
 steelman:
-  tr: |
-    Akıl bir İlk Sebebe ulaşabilir, ama kanun vahyeden ya da duaya cevap veren bir Tanrı'ya değil. Dinler kültürel olarak şekillenmiş görünür; bu yüzden uzak bir Yaratıcı akla uygun asgari kabul gibi görünür.
+  tr: "\"Evrenin bir sebebe ihtiyacı olduğu düşüncesini anlayabiliyorum. Ama bir İlk Sebep, yedinci yüzyıl Arabistan'ında bir adamı seçen, onun aracılığıyla bir kitap bildiren, sonra da benim dualarımı dinlemeyi bekleyen bir Tanrı değildir. Her din, Tanrı'nın *kendisiyle* konuştuğunu söylüyor; mesajlar da birbiriyle çelişiyor. Tanrı bilinmek isteseydi, kendini herkese açıkça gösterebilirdi; ama milyonlarca dürüst, açık fikirli insan O'nu hiç bulamıyor. Tanrı adına konuştuğunu söyleyenler de çoğu zaman tanıdığım en güvenilmez insanlar. O halde en dürüst tutum en küçük olanıdır: Bir Yaratıcı, evet; konuşan bir Tanrı, hayır.\""
   en: '"I can follow the argument that the universe needs a cause. But a First Cause is not a God who chooses a man in seventh-century Arabia, dictates a book through him, and then waits to hear my prayers. Every religion says God spoke to *it*, and the messages contradict each other. If God wanted to be known, He could make Himself plain to everyone, yet millions of honest, open people never find Him. And the people who claim to speak for God are often the least trustworthy people I know. So the most honest position is the smallest one: a Creator, yes; a God who speaks, no."'
 whyAsked:
-  tr: |
-    Türk gençliğinde baskın olan örüntüdür. Kökleri: din temsilcilerinden duyulan hayal kırıklığı, bilime karşı öğretilen din ve kötülük.
+  tr: "Tanrı'ya inancını koruyup dini bırakan pek çok kişi, bir argümandan çok dindar insanlarda gördüklerine tepki veriyor. Başkaları aynı noktaya felsefe yoluyla varıyor: Akıl bir Yaratıcıya ulaşıyor gibi görünüyor, ama bir vahye ulaşmıyor. Türkiye'de 2018'de din öğretmenlerinin bir çalıştayı, inanç sorunları yaşayan gençler arasında deizmin öne çıktığını söyledi; bu da ülke çapında bir tartışmaya dönüştü."
   en: "Many people who keep belief in God but drop religion are reacting to what they saw in religious people, more than to an argument. Others reach the same place through philosophy: reason seems to reach a Creator but not a revelation. In Türkiye, a 2018 workshop of religion teachers named deism as prominent among young people with problems of belief, and it became a national debate."
 shortAnswer:
-  tr: |
-    Anlam arayan zihinler yaratan bir Yaratıcının onlara kayıtsız olması pek olası değildir. Dünyayla ilgilendiğine dair gerekçe Allah'ın vasıflarına (deizmin sessizce bıraktığı rahmet ve hikmete), peygamberliğin tarihî delillerine ve vahyin insan fıtratına uyumuna (*fıtrat*, 30:30) dayanır.
+  tr: "Deizm bir Yaratıcıyı kabul eder, ama O'nun kendini bildirdiğini ya da dünyada etkin olduğunu reddeder. Müslümanların orada durmamak için öne sürdüğü gerekçe üç adımdır. Birincisi: Düzenli ve hayata elverişli bir dünyadan çıkardığımız Yaratıcı yalnızca güçlü değil, aynı zamanda amaç sahibidir; \"neden?\" diye soran varlıkları yaratan amaç sahibi bir Yaratıcının onlara cevap vermesi için bir sebebi vardır. İkincisi: O'nun cevap verip vermediği bir delil meselesidir. Gazzâlî, bir peygamberin bir doktorun tanındığı gibi tanındığını savundu: Tek bir harikadan değil, davranışındaki ve öğretisindeki pek çok işaretin bir araya gelmesinden. Üçüncüsü: Allah'ın kısmen gizli oluşu ve dindar insanların başarısızlıkları gerçek sorunlardır, ama Allah'ın sustuğunu göstermezler. Bu adımların hiçbiri inanmaya zorlamaz. Gösterdikleri şudur: Deizm akla yatkın tek durak değildir, belki de en sağlam olanı değildir."
   en: "Deism keeps a Creator but denies that He reveals Himself or acts in the world. The Muslim case against stopping there has three steps. First, the Creator we infer from an ordered, life-permitting world is not only powerful but purposeful; a purposeful Creator of beings who ask \"why?\" has reason to answer them. Second, whether He has answered is a question of evidence, and al-Ghazali argued that a prophet is known the way a doctor is known: from many signs in his conduct and teaching taken together, not from one wonder. Third, God's partial hiddenness and the failures of religious people are real problems, but they do not show that God is silent. None of these steps compels belief. They show that deism is not the only reasonable stopping point, and perhaps not the most stable one."
 layers:
   - kind: religious
@@ -54,8 +51,7 @@ layers:
       Konya çalıştayındaki öğretmenler, ikiyüzlülüğün ve eskimiş dinî söylemin gençleri uzaklaştırdığını belirtir. Deizm çoğu zaman ahlâkî bir protestodur; bu yüzden dürüst bir cevap yalnızca argümanlara değil, dürüstlüğe de değinmelidir.
     en: Konya teachers note that hypocrisy and outdated religious discourse push young people away. Deism is often a moral protest, so an honest answer has to speak to integrity, not only to arguments.
 honestLimits:
-  tr: |
-    Argümanlar zorunluluk değil, makuliyet verir.
+  tr: Bir Yaratıcı lehindeki argümanlar pek çok insan için güçlüdür ama kesin değildir; SEP maddeleri her birine verilmiş ciddi cevapları kaydeder. "Bir Yaratıcı"dan "konuşan bir Yaratıcı"ya geçiş, Allah'ın hikmeti hakkında bir beklentiye dayanır; Eş'arî geleneğin kendisi bu beklentiyi aklın temellendiremeyeceğini söyler. Gizlilik argümanı açık kalmaktadır. Belirli bir vahyin hakiki olup olmadığı, insanların farklı değerlendirdiği deliller üzerinden tartılmalıdır.
   en: Arguments for a Creator are strong for many people but not decisive; the SEP entries record serious replies to each. The step from "a Creator" to "a Creator who speaks" depends on an expectation about God's wisdom that the Ashʿari tradition itself says reason cannot establish. The hiddenness argument remains open. Whether a particular revelation is genuine has to be weighed on evidence that people judge differently.
 visualizations:
   - id: ideas
@@ -109,6 +105,15 @@ fullAnswer:
       **You can trust God without trusting every institution that speaks in His name.** The question this page asks is not "are religious people good?" but "has God spoken?". Those are different questions, and the second deserves to be asked on its own terms. Al-Ghazali, whose story is told below, spent years doubting the scholars of his own time before he found certainty.
 
       **A pause is not the end of the road.** Many people stay in a "Creator but not religion" position for a while. That is a place to think, not a verdict.
+    tr: |-
+      **Dini pratiği dindar insanların yaptıkları yüzünden bıraktıysan, öfken haklı olabilir.** Konyalı öğretmenlerin 2018'deki kendi raporu, gençlerin deizme, yani "Allah'ın hayata müdahalesinin reddi"ne yöneldiğini anlatıyor ve en sık sordukları sorunun Allah'ın neden "yeryüzündeki kötülüğe müdahale etmediği ve sessiz kaldığı" olduğunu söylüyordu (*İktibas*, 2018). Dindar insanların ikiyüzlülüğü ve istismarı ahlaki başarısızlıklardır; Kur'an da bunları sert bir dille kınar (bkz. "Dindarlar böyle davranıyorsa neden inanayım?" sayfası).
+
+      **Allah'a güvenip O'nun adına konuşan her kuruma güvenmeyebilirsin.** Bu sayfanın sorusu "dindarlar iyi mi?" değil, "Allah konuştu mu?" sorusudur. Bunlar ayrı sorulardır ve ikincisi kendi şartlarında sorulmayı hak eder. Hikâyesi aşağıda anlatılan Gazzâlî, kesinliğe ulaşmadan önce yıllarca kendi devrinin âlimlerinden şüphe etti.
+
+      **Bir duraklama, yolun sonu değildir.** Pek çok insan bir süre "Yaratıcı var ama din yok" noktasında kalır. Bu, bir hüküm değil, düşünme yeridir.
+    title:
+      en: Kalp ve akıl için
+      tr: Kalp ve akıl için
   - kind: quran
     en: |-
       **The Quran argues from creation to guidance.** When Pharaoh asked Moses (pbuh) who his Lord was, he answered: "Our Lord is He who gave each thing its form and then guided [it]" (20:50). The verse is from Sura Ta-Ha, a Meccan sura; it is Moses' reply to Pharaoh (20:49). The same pairing appears in Sura al-Aʿla: "Who created and proportioned / And who destined and [then] guided" (87:2–3). The words do not, by themselves, argue that God must send prophets; they describe a Creator whose work includes guidance. Reading them as an argument against deism is a modern use of the verses.
@@ -118,6 +123,17 @@ fullAnswer:
       **It describes a human nature turned toward God.** "So direct your face toward the religion, inclining to truth. [Adhere to] the fitrah of Allah upon which He has created [all] people" (30:30), from the Meccan Sura al-Rum, addressed to the Prophet (pbuh) and through him to the listener. The Prophet (pbuh) said: "Every child is born with a true faith of Islam (i.e. to worship none but Allah Alone) and his parents convert him to Judaism or Christianity or Magianism" ({hadith:bukhari:1385}).
 
       **It offers its own text as evidence, and invites testing.** "And if you are in doubt about what We have sent down upon Our Servant [Muhammad], then produce a surah the like thereof" (2:23), from Sura al-Baqara, Medinan, addressed to those who doubt. Whether this challenge has force is debated outside the Muslim tradition; the point here is that the Quran asks to be judged, not simply accepted.
+    tr: |-
+      **Kur'an yaratılıştan hidayete doğru akıl yürütür.** Firavun Hz. Mûsâ'ya (a.s.) Rabbinin kim olduğunu sorduğunda Mûsâ şöyle cevap verdi: "Bizim Rabbimiz her şeye şeklini veren, sonra da yolunu gösterendir." (20:50). Âyet Mekkî bir sûre olan Tâhâ Sûresi'ndendir; Mûsâ'nın Firavun'a cevabıdır (20:49). Aynı eşleşme A'lâ Sûresi'nde de geçer: "Yaratıp düzene koyan O'dur. Takdir edip hidayeti gösteren O'dur." (87:2–3). Bu sözler tek başına Allah'ın peygamber göndermesi gerektiğini savunmaz; işinin içinde hidayet de bulunan bir Yaratıcıyı anlatır. Bunları deizme karşı bir argüman olarak okumak, âyetlerin modern bir kullanımıdır.
+
+      **Kur'an peygamberleri adaletle ilişkilendirir.** "Andolsun biz peygamberlerimizi açık delillerle gönderdik ve insanların adaleti yerine getirmeleri için beraberlerinde kitabı ve ölçüyü indirdik." (57:25). Bu Medenî âyet vahiy için bir amaç belirtir: insanlar arasında adalet.
+
+      **Allah'a yönelmiş bir insan yaratılışından söz eder.** "O halde yüzünü, Allah'ı bir tanıyarak dine, Allah'ın insanları üzerine yaratmış olduğu fıtratına doğrult." (30:30). Âyet Mekkî Rûm Sûresi'ndendir; Hz. Peygamber'e (s.a.v.), onun aracılığıyla da dinleyene hitap eder. Hz. Peygamber (s.a.v.) şöyle buyurdu: "Her çocuk İslam'ın hak inancı üzere (yani yalnız Allah'a ibadet etmek üzere) doğar; anne babası onu Yahudi, Hristiyan ya da Mecusi yapar." ({hadith:bukhari:1385}).
+
+      **Kendi metnini delil olarak sunar ve sınanmaya davet eder.** "Eğer kulumuz (Muhammed)a indirdiğimiz (Kur'ân)den şüphe içinde iseniz, haydi onun gibi bir sûre getirin…" (2:23). Âyet Medenî Bakara Sûresi'ndendir ve şüphe edenlere hitap eder. Bu meydan okumanın gücü Müslüman geleneğin dışında tartışmalıdır; buradaki nokta, Kur'an'ın sadece kabul edilmeyi değil, değerlendirilmeyi istemesidir.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: scholars
     en: |-
       **What deism is.** *Encyclopaedia Britannica* defines deism as "natural religion": accepting religious knowledge "that is inborn in every person or that can be acquired by the use of reason", and rejecting religious knowledge acquired through "revelation or the teaching of any church". It differs from atheism (no God at all) and from Islamic theism, in which God creates, sustains every moment of existence, and speaks through prophets.
@@ -129,16 +145,43 @@ fullAnswer:
       **Al-Ghazali: from inherited belief to certainty.** Al-Ghazali (d. 1111), the most influential Sunni theologian of his age, describes in *al-Munqidh min al-Dalal* (*Deliverance from Error*) how his search began: "I saw that Christian youths always grew up to be Christians, Jewish youths to be Jews and Muslim youths to be Muslims", and he recalled the hadith that everyone is born with "a sound nature" (Watt, section I). He went through a period of radical doubt lasting "almost two months", which ended not by argument but by "a light which God most high cast into my breast" (section II). On prophecy, he argues that you know a prophet the way you know that someone is a physician or a lawyer: from his conduct and his work. "Certainty can only be reached by acquaintance with his conduct", he writes; seek certainty "about the prophetic office, and not from the transformation of a rod into a serpent". By testing the Prophet's teaching in many instances, "you will arrive at a necessary knowledge beyond all doubt" (Watt, passage before section V). This is a cumulative argument: no single sign settles it, but many together can.
 
       **Nursi: the alternatives to a Maker.** Said Nursi (d. 1960), the Turkish scholar whose *Risale-i Nur* is widely read, argues that when we see a living thing we have only a few explanations: it formed itself, causes produced it, nature required it, or it was made. Against self-formation he writes that "each particle or atom forming your body would have to have an eye to see your whole body". Against blind causes: "How can that which is deaf, blind, and unconscious bestow hearing, sight, and consciousness on something else?" Against "nature": "Nature cannot create because it is something supposed to exist" — for him "nature" is a name for an order, not a maker. His conclusion is that each creature points to one conscious Maker. Nursi's word *inayet* (Arabic *ʿināya*), "care" or "providence", names what he sees in that order: not only design but attention to each thing's needs. His argument reaches a caring Maker; it does not by itself reach revelation, which he defends elsewhere.
+    tr: |-
+      **Deizm nedir?** *Encyclopaedia Britannica* deizmi "doğal din" olarak tanımlar: "her insanda doğuştan bulunan ya da aklın kullanılmasıyla elde edilebilen" dinî bilgiyi kabul etmek, "vahiy ya da herhangi bir kilisenin öğretisi" yoluyla edinilen dinî bilgiyi reddetmek. Deizm ateizmden (hiç Tanrı olmaması) ve İslami teizmden ayrılır; İslami teizmde Allah yaratır, varlığı her an ayakta tutar ve peygamberler aracılığıyla konuşur.
+
+      **Kelâmın lütuf argümanı.** Kelâm, İslam'ın akli inanç ilmidir. Mu'tezile (erken dönem akılcı bir ekol) ve sonraki Şiî (İmâmî) kelâmcılar, *lütuf*un — Allah'ın "bir kişiyi itaate yönelten ve onu isyandan uzak tutan" fiilinin — Allah'a vacip olduğunu savundular ve hem ahlaki yükümlülüğü (*teklîf*) hem de peygamber göndermeyi (*irsâlü'r-rusul*) bunun örnekleri saydılar. Argümanları şöyleydi: Peygamber göndermek bir lütuftur; lütuf Allah'a vaciptir; öyleyse peygamber göndermek Allah'a vaciptir. Şeyh Müfîd ve Nasîruddîn Tûsî (*Tecrîdü'l-İ'tikād*'da) gibi Şiî kelâmcılar bunu geliştirdi (Meghjee).
+
+      **Eş'arî cevap: Peygamberlik bir borç değil, bir lütuftur.** Sünnî kelâmın en büyük ekolü olan Eş'arîler, Allah'a herhangi bir şeyin vacip olduğu iddiasını reddettiler; çünkü Allah'ın fiillerini O'nun dışındaki hiçbir şey yönetmez. Onlara göre Allah peygamber göndermek zorunda değildi; göndermeyi seçti. Meghjee bu görüş için Gazzâlî'nin *el-İktisâd fi'l-İ'tikād*'ını gösterir. İki taraf da peygamberlerin fiilen gönderildiğinde birleşti; aklın onların gönderilmesinin *zorunlu* olduğunu gösterip gösteremeyeceğinde ayrıldılar.
+
+      **Gazzâlî: Taklitten kesinliğe.** Kendi çağının en etkili Sünnî kelâmcısı Gazzâlî (ö. 1111), *el-Munkız mine'd-Dalâl* (*Dalaletten Kurtuluş*) adlı eserinde arayışının nasıl başladığını anlatır: "Hristiyan çocukların hep Hristiyan, Yahudi çocukların Yahudi, Müslüman çocukların Müslüman olarak büyüdüğünü gördüm" der ve herkesin "sağlam bir fıtrat" üzere doğduğunu bildiren hadisi hatırlar (Watt, I. bölüm). "Neredeyse iki ay" süren köklü bir şüphe döneminden geçti; bu dönem bir argümanla değil, "yüce Allah'ın göğsüme attığı bir nur" ile sona erdi (II. bölüm). Peygamberlik konusunda, bir peygamberi, birinin doktor ya da hukukçu olduğunu bildiğin gibi bildiğini savunur: davranışından ve işinden. "Kesinliğe ancak onun davranışını tanımakla ulaşılabilir" diye yazar; peygamberlik makamı hakkındaki kesinliği "asanın yılana dönüşmesinden" değil, bu yoldan ara. Peygamberin öğretisini pek çok durumda sınayarak "her türlü şüphenin ötesinde zorunlu bir bilgiye ulaşırsın" (Watt, V. bölümden önceki pasaj). Bu birikimli bir argümandır: Tek bir işaret meseleyi çözmez, ama pek çoğu birlikte çözebilir.
+
+      **Nursî: Bir Yapıcıya alternatifler.** *Risale-i Nur*'u geniş çevrelerce okunan Türk âlim Said Nursî (ö. 1960), canlı bir varlığı gördüğümüzde elimizde yalnızca birkaç açıklama olduğunu savunur: Kendi kendini oluşturdu, sebepler onu meydana getirdi, tabiat onu gerektirdi ya da yapıldı. Kendi kendine oluşmaya karşı, "vücudunu oluşturan her zerrenin ya da atomun bütün vücudunu görecek bir gözü olması gerekirdi" diye yazar. Kör sebeplere karşı: "Sağır, kör ve şuursuz olan bir şey, başka bir şeye nasıl işitme, görme ve şuur bahşedebilir?" "Tabiat"a karşı: "Tabiat yaratamaz, çünkü o var olduğu farz edilen bir şeydir" — ona göre "tabiat" bir düzenin adıdır, bir yapıcının değil. Vardığı sonuç, her yaratığın tek bir şuurlu Yapıcıyı gösterdiğidir. Nursî'nin *inayet* (Arapça *ʿinâye*), yani "özen" ya da "ilahi gözetim" kelimesi, o düzende gördüğü şeyi adlandırır: yalnızca tasarımı değil, her şeyin ihtiyacına gösterilen ilgiyi. Argümanı özen gösteren bir Yapıcıya ulaşır; tek başına vahye ulaşmaz; vahyi başka yerlerde savunur.
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: science
     en: |-
       **Some features of physics look finely balanced for life.** [Established for the numbers; Debated for what they mean.] The SEP entry by Simon Friederich gives examples. Had the strong nuclear force been "stronger by more than about 50 %", nearly all hydrogen would have burned in the early universe. Had the weak force been "weaker by a factor of about 10", the early universe would have had far more neutrons. The size of the density variations in the early universe, Q, is "roughly 2·10⁻⁵". The mismatch between the observed and the theoretically expected cosmological constant is "between 10⁵⁰ and 10¹²³", depending on assumptions. Roger Penrose estimated that the universe's initial low-entropy state occupies "one part in 10^(10^123)" of the possible states.
 
       **What the numbers do and do not show.** The design argument says such conditions are very improbable without a designer. Two main replies: the *observation-selection* reply (Elliott Sober: we could only observe a universe compatible with our existence), and the *multiverse* reply (if there are many universes, some will be life-friendly). Critics of the multiverse reply, following Ian Hacking and Roger White, call it an "inverse gambler's fallacy": other universes do not make it more likely that *this* one is life-friendly; defenders such as Epstein dispute that (Friederich, §§3–4). Fine-tuning is a reason to take a purposeful Creator seriously. It is not evidence that this Creator speaks.
+    tr: |-
+      **Fiziğin bazı özellikleri hayat için ince ayarlı görünür.** [Established, sayılar için; Debated, ne anlama geldikleri konusunda.] Simon Friederich'in SEP maddesi örnekler verir. Güçlü nükleer kuvvet "yaklaşık %50'den fazla daha güçlü" olsaydı, erken evrende hidrojenin neredeyse tamamı yanıp tükenirdi. Zayıf kuvvet "yaklaşık 10 kat daha zayıf" olsaydı, erken evrende çok daha fazla nötron bulunurdu. Erken evrendeki yoğunluk dalgalanmalarının büyüklüğü, Q, "yaklaşık 2·10⁻⁵"tir. Gözlenen kozmolojik sabit ile kuramsal olarak beklenen arasındaki uyumsuzluk, varsayımlara göre "10⁵⁰ ile 10¹²³ arasında"dır. Roger Penrose, evrenin başlangıçtaki düşük entropili durumunun olası durumların "10^(10^123)'te birini" kapladığını hesapladı.
+
+      **Sayılar neyi gösterir, neyi göstermez?** Tasarım argümanı, bu şartların bir tasarlayıcı olmadan son derece düşük ihtimalli olduğunu söyler. İki temel cevap vardır: *gözlem-seçilimi* cevabı (Elliott Sober: Yalnızca varlığımızla uyumlu bir evreni gözlemleyebilirdik) ve *çoklu evren* cevabı (çok sayıda evren varsa bazıları hayata elverişli olacaktır). Ian Hacking ve Roger White'ı izleyen çoklu evren eleştirmenleri bunu "ters kumarbaz yanılgısı" olarak adlandırır: Başka evrenler *bu* evrenin hayata elverişli olmasını daha olası kılmaz; Epstein gibi savunucular buna itiraz eder (Friederich, §§3–4). İnce ayar, amaç sahibi bir Yaratıcıyı ciddiye almak için bir sebeptir. Bu Yaratıcının konuştuğuna dair bir delil değildir.
+    title:
+      en: Bilim ne diyor?
+      tr: Bilim ne diyor?
   - kind: reasoning
     en: |-
       **From a purposeful Creator to a speaking one.** The step that deism refuses is this: if the Creator made beings who can understand, choose and ask about their purpose, then leaving them with no word about that purpose would be strange for a Creator who acts with wisdom. This is close to the Muʿtazili *luṭf* argument above, and to what the Maturidi and Hanbali traditions call God's wisdom (*ḥikma*). *Limit:* the Ashʿari tradition itself denies that reason can show what God must do; the step is a reasonable expectation, not a proof.
 
       **What would count as evidence of revelation.** Following al-Ghazali, the evidence is cumulative: the messenger's character before and after his claim; what his teaching does to people who live it; whether the message holds together and corrects earlier error; the survival and transmission of the text (see "Why Islam and not another religion?"). *Limit:* each strand can be disputed, and people weigh them differently.
+    tr: |-
+      **Amaç sahibi bir Yaratıcıdan konuşan bir Yaratıcıya.** Deizmin reddettiği adım şudur: Yaratıcı anlayabilen, seçebilen ve amaçları hakkında soru sorabilen varlıklar yarattıysa, onları bu amaç hakkında hiçbir söz olmadan bırakmak, hikmetle iş gören bir Yaratıcı için tuhaf olurdu. Bu, yukarıdaki Mu'tezilî lütuf argümanına ve Mâtürîdî ile Hanbelî geleneklerin Allah'ın hikmeti (*hikmet*) dediği şeye yakındır. *Sınır:* Eş'arî gelenek, aklın Allah'ın ne yapması gerektiğini gösterebileceğini bizzat reddeder; bu adım bir ispat değil, akla yatkın bir beklentidir.
+
+      **Vahyin delili ne sayılır?** Gazzâlî'yi izleyerek delil birikimlidir: elçinin iddiasından önceki ve sonraki karakteri; öğretisinin onu yaşayan insanlarda ne yaptığı; mesajın tutarlı olup olmadığı ve önceki hataları düzeltip düzeltmediği; metnin korunması ve aktarılması (bkz. "Neden başka bir din değil de İslam?"). *Sınır:* Her bir unsur tartışılabilir ve insanlar bunları farklı tartar.
+    title:
+      en: Filozoflar bu konuda nasıl akıl yürütür?
+      tr: Filozoflar bu konuda nasıl akıl yürütür?
   - kind: objection
     en: |-
       **"If God wanted to be known, He would not hide."** J. L. Schellenberg's argument, as the SEP states it: "There are people who are capable of relating personally to God but who, through no fault of their own, fail to believe. If there is a personal God who is unsurpassably great, then there are no such people. So, there is no such God." A *nonresistant nonbeliever* is someone who could relate to God, does not believe, and is not resisting God. *Reply:* the SEP lists several replies. One is that a world where God is obvious would remove the freedom and moral growth that a test needs (John Hick, Richard Swinburne). The Quran describes life as exactly such a test: God "created death and life to test you [as to] which of you is best in deed" (67:2). Another reply denies that there are truly nonresistant nonbelievers (Green, Wainwright), which fits the Islamic idea of an inborn disposition (*fiṭra*, 30:30). A third is "skeptical theism": we are not in a position to know whether God has reasons we cannot see (Howard-Snyder; McBrayer and Swenson). And the Quran says no one is punished for a message that did not reach them: "never would We punish until We sent a messenger" (17:15). *Limit:* Schellenberg replies that a loving relationship with God could develop alongside these goods, so the argument is not defeated, only contested. The "nonresistant nonbelievers do not exist" reply is the hardest to defend, because it says something about many sincere people that we cannot check.
@@ -146,6 +189,15 @@ fullAnswer:
       **"Religions contradict each other, so none of them is from God."** *Reply:* disagreement shows that not all can be right, not that none is. Islam's own account expects this: it presents earlier revelations as genuine but changed in transmission, and itself as their confirmation (5:48). Whether that account is true is the question of the page "Why Islam and not another religion?". *Limit:* every tradition can tell a similar story about the others; the comparison has to be made on evidence.
 
       **"Religious people are hypocrites, so their God is not real."** *Reply:* the behaviour of believers is evidence about believers. It is weak evidence about whether God has spoken, in the same way that a corrupt doctor is weak evidence against medicine. *Limit:* a religion that claims to transform people should show it in many of them; if it rarely does, that counts against it.
+    tr: |-
+      **"Allah bilinmek isteseydi, gizlenmezdi."** J. L. Schellenberg'in argümanı, SEP'in ifadesiyle: "Allah'la kişisel bir ilişki kurabilecek durumda olup kendi kusurları olmaksızın inanmayan insanlar vardır. Eşsiz derecede yüce, kişisel bir Tanrı varsa, böyle insanlar olmaz. Öyleyse böyle bir Tanrı yoktur." *Direnmeyen inançsız*, Allah'la ilişki kurabilecek, inanmayan ve Allah'a direnmeyen kişidir. *Cevap:* SEP birkaç cevap sayar. Biri, Allah'ın apaçık olduğu bir dünyanın bir imtihanın gerektirdiği özgürlüğü ve ahlaki gelişmeyi ortadan kaldıracağıdır (John Hick, Richard Swinburne). Kur'an hayatı tam da böyle bir imtihan olarak anlatır: Allah "hanginizin daha güzel iş yapacağınızı denemek için ölümü ve hayatı yarattı" (67:2). Bir başka cevap, gerçekten direnmeyen inançsızların bulunduğunu reddeder (Green, Wainwright); bu, İslam'daki doğuştan gelen yatkınlık (*fıtrat*, 30:30) fikrine uyar. Üçüncüsü "şüpheci teizm"dir: Allah'ın bizim göremediğimiz sebepleri olup olmadığını bilecek konumda değiliz (Howard-Snyder; McBrayer ve Swenson). Kur'an ayrıca kimsenin kendisine ulaşmamış bir mesaj yüzünden cezalandırılmayacağını söyler: "Biz bir Peygamber göndermedikçe, hiç kimseye azab edecek değiliz." (17:15). *Sınır:* Schellenberg, Allah'la sevgi dolu bir ilişkinin bu iyiliklerle birlikte gelişebileceğini söyleyerek cevap verir; yani argüman çürütülmüş değil, yalnızca tartışmalıdır. "Direnmeyen inançsız yoktur" cevabını savunmak en zor olanıdır, çünkü pek çok samimi insan hakkında doğrulayamayacağımız bir şey söyler.
+
+      **"Dinler birbiriyle çelişiyor, öyleyse hiçbiri Allah'tan değil."** *Cevap:* Anlaşmazlık hepsinin doğru olamayacağını gösterir, hiçbirinin doğru olmadığını değil. İslam'ın kendi anlatımı bunu bekler: Önceki vahiyleri hakiki ama aktarım sırasında değişmiş olarak, kendisini de onların tasdikçisi olarak sunar (5:48). Bu anlatımın doğru olup olmadığı, "Neden başka bir din değil de İslam?" sayfasının sorusudur. *Sınır:* Her gelenek diğerleri hakkında benzer bir hikâye anlatabilir; karşılaştırma delil üzerinden yapılmalıdır.
+
+      **"Dindarlar ikiyüzlü, öyleyse Tanrıları gerçek değil."** *Cevap:* İnananların davranışı inananlar hakkında bir delildir. Allah'ın konuşup konuşmadığı hakkında ise zayıf bir delildir; tıpkı yozlaşmış bir doktorun tıbba karşı zayıf bir delil olması gibi. *Sınır:* İnsanları dönüştürdüğünü iddia eden bir din bunu pek çoğunda göstermelidir; nadiren gösteriyorsa, bu onun aleyhine sayılır.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Muʿtazila and Imami theologians** (e.g. Shaykh al-Mufid; Naṣīr al-Dīn al-Ṭūsī, *Tajrīd al-Iʿtiqād*) — sending prophets is required of God as *luṭf* (Meghjee).
@@ -154,27 +206,47 @@ fullAnswer:
       - **Said Nursi** (*Risale-i Nur*) — the order of creation points to one caring Maker (*inayet*).
       - **Schellenberg** — divine hiddenness counts against a perfectly loving God (SEP).
       - **Hick, Swinburne, Howard-Snyder, Green** — various replies to hiddenness (SEP).
+    tr: |-
+      - **Mu'tezile ve İmâmî kelâmcılar** (ör. Şeyh Müfîd; Nasîruddîn Tûsî, *Tecrîdü'l-İ'tikād*) — peygamber göndermek, lütuf olarak Allah'a vaciptir (Meghjee).
+      - **Eş'arîler** (ör. Gazzâlî, *el-İktisâd*) — peygamberlik Allah'ın karşılıksız bir lütfudur; akıl Allah'ı bir şeye mecbur edemez (Meghjee).
+      - **Gazzâlî** (*el-Munkız*) — peygamberlik, tek bir mucizeyle değil, peygamberin davranışını ve öğretisini birikimli olarak tanımakla bilinir.
+      - **Said Nursî** (*Risale-i Nur*) — yaratılıştaki düzen, özen gösteren tek bir Yapıcıyı gösterir (*inayet*).
+      - **Schellenberg** — ilahi gizlilik, mükemmel derecede seven bir Tanrı aleyhine sayılır (SEP).
+      - **Hick, Swinburne, Howard-Snyder, Green** — gizlilik argümanına çeşitli cevaplar (SEP).
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: What exactly is deism?
+      tr: Deizm tam olarak nedir?
     a:
       en: The belief that a Creator exists but does not reveal Himself or intervene; religious truth comes from reason alone (*Britannica*). Islam agrees that reason can reach a Creator, but holds that God also speaks through prophets.
+      tr: Bir Yaratıcının var olduğu, ama kendini bildirmediği ve müdahale etmediği inancı; dinî hakikat yalnızca akıldan gelir (*Britannica*). İslam, aklın bir Yaratıcıya ulaşabileceğinde hemfikirdir; ama Allah'ın peygamberler aracılığıyla da konuştuğunu kabul eder.
   - q:
       en: Is the "deism wave" in Türkiye real?
+      tr: Türkiye'deki "deizm dalgası" gerçek mi?
     a:
       en: Partly. In Zübeyir Nişancı's survey (1,942 adults, 35 provinces), 94.3% said they believe in God, but among 18–24-year-olds 11% said they do not, against 2% of over-65s; and 11% of 18–24-year-olds felt close to the label "deist". Nişancı himself said the debate about deism spreading is "in some ways artificial" (VOA Türkçe). Feeling close to a label is not the same as holding deist beliefs.
+      tr: Kısmen. Zübeyir Nişancı'nın araştırmasında (1.942 yetişkin, 35 il), katılımcıların %94,3'ü Allah'a inandığını söyledi; ama 18–24 yaş arasındakilerin %11'i inanmadığını söyledi, 65 yaş üstündekilerde bu oran %2'ydi; 18–24 yaş grubunun %11'i de kendini "deist" etiketine yakın hissetti. Nişancı'nın kendisi, deizmin yayıldığına dair tartışmanın "bazı açılardan yapay" olduğunu söyledi (VOA Türkçe). Bir etikete yakın hissetmek, deist inançlara sahip olmakla aynı şey değildir.
   - q:
       en: Is this only a Turkish question?
+      tr: Bu yalnızca Türkiye'ye özgü bir soru mu?
     a:
       en: No. In a Pew survey of US adults (December 2017), 56% believed in God "as described in the Bible", and 33% in "another type of higher power or spiritual force" — a large group that believes in something without a revealed religion.
+      tr: Hayır. Pew'in ABD'li yetişkinlerle yaptığı bir araştırmada (Aralık 2017), katılımcıların %56'sı Allah'a "Kitab-ı Mukaddes'te anlatıldığı şekliyle", %33'ü ise "başka bir tür yüce güce ya da manevi kuvvete" inanıyordu — vahyedilmiş bir din olmadan bir şeye inanan büyük bir grup.
   - q:
       en: What did al-Ghazali say convinced him of prophecy?
+      tr: Gazzâlî'yi peygamberliğe neyin ikna ettiğini söyledi?
     a:
       en: Not a single miracle but long acquaintance with the Prophet's conduct and teaching, tested in practice, until he reached "a necessary knowledge beyond all doubt" (*al-Munqidh*).
+      tr: Tek bir mucize değil; "her türlü şüphenin ötesinde zorunlu bir bilgiye" ulaşana kadar, Hz. Peygamber'in (s.a.v.) davranışını ve öğretisini uzun süre tanımak ve pratikte sınamak (*el-Munkız*).
   - q:
       en: Can I believe in God and still be angry at religious people?
+      tr: Allah'a inanıp yine de dindarlara öfkeli olabilir miyim?
     a:
       en: Yes. The question of God and the question of religious institutions are different. The page on religious hypocrisy takes up the second.
+      tr: Evet. Allah meselesi ile dinî kurumlar meselesi ayrı sorulardır. İkincisini dinî ikiyüzlülük sayfası ele alıyor.
 legacySources:
   - *a1
   - *a2
@@ -182,3 +254,4 @@ legacySources:
   - *a4
   - *a5
   - *a6
+translatedFrom: docs/research/tr/Q3.md

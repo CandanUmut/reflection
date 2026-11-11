@@ -103,7 +103,127 @@ const cleanLabel = (label) =>
       /the current page's (longer )?(Ibn Kathir quotation[^;.(]*?)\s*(\(not re-read[^)]*\))?(?=[;.]|$)/g,
       'the $1$2',
     )
+    .replace(/,?\s*as (?:read|cited) (?:for|in) (?:this )?run(?: \d+)?(?: \([^)]*\))?/g, '')
+    .replace(/\s*\(as (?:read|cited) (?:for|in) run \d+\)/g, '')
+    .replace(/\s*—?\s*as cited on the current page(?: \([^)]*\))?/g, '')
+    .replace(/,?\s*—?\s*as on the current page/g, '')
     .replace(/the current page/g, 'an earlier version of this page');
+
+// Turkish (runs 27–39): docs/research/tr/<ID>.md mirrors the English section, with
+// the same headings (### in English, #### kind words kept) and Turkish text. It is
+// merged only where its shape matches the English exactly; otherwise the Turkish page
+// keeps its previous text, and the mismatch is reported (it was translated from an
+// older English version).
+const trResearch = path.join(root, 'docs/research/tr');
+const trBlocks = (id) => {
+  const f = path.join(trResearch, `${id}.md`);
+  if (!fs.existsSync(f)) return null;
+  const m = fs
+    .readFileSync(f, 'utf8')
+    .match(new RegExp(`^## ${id} — .*$([\\s\\S]*?)(?=^## [QMS]\\d+ — |^---\\s*$|(?![\\s\\S]))`, 'm'));
+  if (!m) return null;
+  const blocks = {};
+  for (const b of m[1].split(/^### /m).slice(1)) {
+    const nl = b.indexOf('\n');
+    blocks[b.slice(0, nl).trim()] = b.slice(nl + 1).trim();
+  }
+  return blocks;
+};
+const bullets = (src) =>
+  src
+    .split(/^- /m)
+    .map((x) => x.trim())
+    .filter(Boolean);
+const trSkipped = [];
+function withTurkish(id, enBlocks, out) {
+  const T = trBlocks(id);
+  if (!T) return out;
+  const fail = (why) => (trSkipped.push(`${id}: ${why}`), out);
+  // Same set of sections (Sources read is not translated).
+  const keys = (b) =>
+    Object.keys(b)
+      .filter((k) => k !== 'Sources read')
+      .sort()
+      .join('|');
+  if (keys(T) !== keys(enBlocks)) return fail('sections differ');
+  const fuT = followUps(T['Questions readers ask next'] ?? '');
+  const fuE = followUps(enBlocks['Questions readers ask next'] ?? '');
+  if (fuT.length !== fuE.length) return fail(`follow-ups ${fuT.length} vs ${fuE.length}`);
+  const partsKey = enBlocks['The full answer'] ? 'The full answer' : enBlocks['Go deeper'] ? 'Go deeper' : null;
+  let pT = [];
+  if (partsKey) {
+    pT = parts(T[partsKey]);
+    const pE = parts(enBlocks[partsKey]);
+    if (pT.length !== pE.length || pT.some((p, i) => p.kind !== pE[i].kind)) return fail('parts differ');
+  }
+  // Points of awe must match; the English may have extra honest notes at the end
+  // (added after translation): those show in English on the Turkish page until translated.
+  if (T['Points of awe'] && bullets(T['Points of awe']).length !== bullets(enBlocks['Points of awe']).length)
+    return fail('Points of awe differ');
+  if (T['Honest notes'] && bullets(T['Honest notes']).length > bullets(enBlocks['Honest notes']).length)
+    return fail('Honest notes differ');
+  const r = structuredClone(out);
+  const setTr = (key, heading) => {
+    if (T[heading] && r[key]) r[key] = { ...r[key], tr: T[heading] };
+  };
+  if (r.followUps)
+    r.followUps = r.followUps.map((f, i) => ({ q: { ...f.q, tr: fuT[i].q }, a: { ...f.a, tr: fuT[i].a } }));
+  if (partsKey && r.fullAnswer) {
+    // The parts, then any extra "### …" section (Q8, Q15), as on the English side.
+    const ask = new Set([
+      'Sources read',
+      'The question, at its strongest',
+      'Why people ask it',
+      'Short answer',
+      'The full answer',
+      'Questions readers ask next',
+      'Honest limits',
+    ]);
+    const titled = T[partsKey]
+      .split(/^#### /m)
+      .slice(1)
+      .map((x) => ({
+        title: x.slice(0, x.indexOf('\n')).split(' — ').slice(1).join(' — ').trim(),
+        text: x.slice(x.indexOf('\n') + 1).trim(),
+      }))
+      .filter((x) => x.text);
+    const extra =
+      id[0] === 'Q'
+        ? Object.keys(T)
+            .filter((h) => !ask.has(h))
+            .map((h) => ({ title: h, text: T[h] }))
+        : [];
+    const all = [...titled, ...extra];
+    if (all.length !== r.fullAnswer.length) return fail(`parts ${all.length} vs ${r.fullAnswer.length}`);
+    r.fullAnswer = r.fullAnswer.map((p, i) => ({
+      ...p,
+      tr: all[i].text,
+      ...(all[i].title ? { title: { ...(p.title ?? { en: all[i].title }), tr: all[i].title } } : {}),
+    }));
+  }
+  if (id[0] === 'S') {
+    setTr('summary', 'In brief');
+    setTr('verseNotes', 'Verse note');
+    setTr('tafsir', 'Classical tafsir');
+    setTr('howItWorks', 'How it works');
+    setTr('awe', 'Points of awe');
+    setTr('reflection', 'The reflection');
+    if (T['Honest notes']) {
+      const nT = bullets(T['Honest notes']);
+      r.honestNotes = r.honestNotes.map((n, i) => (nT[i] ? { ...n, tr: nT[i] } : n));
+    }
+  } else if (id[0] === 'M') {
+    setTr('summary', 'In brief');
+    setTr('gaps', 'Honest limits');
+  } else {
+    setTr('steelman', 'The question, at its strongest');
+    setTr('whyAsked', 'Why people ask it');
+    setTr('shortAnswer', 'Short answer');
+    setTr('honestLimits', 'Honest limits');
+  }
+  r.translatedFrom = 'docs/research/tr/' + id + '.md';
+  return r;
+}
 
 const dirs = { Q: 'questions', M: 'morals', S: 'signs' };
 // Every question with a v2 research section; Turkish from content-src/tr-v2
@@ -178,7 +298,10 @@ for (const id of [...ids].sort((a, b) => a.localeCompare(b) || a.slice(1) - b.sl
       .split('\n')
       .filter((l) => l.startsWith('#') && !l.includes('migrate-v2'))
       .join('\n');
-    fs.writeFileSync(path.join(dir, name), (prev ? prev + '\n' : '') + header + stringify(out, { lineWidth: 0 }));
+    fs.writeFileSync(
+      path.join(dir, name),
+      (prev ? prev + '\n' : '') + header + stringify(withTurkish(id, blocks, out), { lineWidth: 0 }),
+    );
     console.log('wrote', `signs/${name}`, '(deepened, English only)');
     continue;
   }
@@ -213,7 +336,7 @@ for (const id of [...ids].sort((a, b) => a.localeCompare(b) || a.slice(1) - b.sl
       ],
     };
     const header = `# Generated by scripts/migrate-v2.mjs — English verbatim from docs/research/${found.file} (${id}),\n# Turkish: the previous page, until its Turkish is added. Edit the research, then re-run migrate-content.mjs and migrate-v2.mjs.\n`;
-    fs.writeFileSync(path.join(dir, name), header + stringify(out, { lineWidth: 0 }));
+    fs.writeFileSync(path.join(dir, name), header + stringify(withTurkish(id, blocks, out), { lineWidth: 0 }));
     console.log('wrote', `morals/${name}`, '(v2, English only)');
     continue;
   }
@@ -281,6 +404,11 @@ for (const id of [...ids].sort((a, b) => a.localeCompare(b) || a.slice(1) - b.sl
     };
   }
   const header = `# Generated by scripts/migrate-v2.mjs — English verbatim from docs/research/${found.file} (${id}),\n# ${tr ? `Turkish from content-src/tr-v2/${file}` : 'Turkish: the previous page, until content-src/tr-v2/' + file + ' exists'}. Edit those, then re-run migrate-content.mjs and migrate-v2.mjs.\n`;
-  fs.writeFileSync(path.join(dir, name), header + stringify(out, { lineWidth: 0 }));
+  fs.writeFileSync(path.join(dir, name), header + stringify(withTurkish(id, blocks, out), { lineWidth: 0 }));
   console.log('wrote', `${dirs[id[0]]}/${name}`, tr ? '(v2)' : '(v2, English only)');
 }
+if (trSkipped.length)
+  console.log(
+    `Turkish kept as before for ${trSkipped.length} pages (shape differs from the English):\n  ` +
+      trSkipped.join('\n  '),
+  );

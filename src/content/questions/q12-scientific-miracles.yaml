@@ -15,16 +15,13 @@ verses:
   - 3:190
   - 2:2
 steelman:
-  tr: |
-    Popüler medya, Kur'an'ın embriyolojiyi, Büyük Patlama'yı, hatta ışık hızını önceden bildirdiğini iddia ediyor. Doğruysa ilahi kaynaklı olduğunu kanıtlar; zorlamaysa İslam'ı dürüst olmayan bir din gibi gösterir.
+  tr: "\"Videolar Kur'an'ın embriyolojiyi, Büyük Patlama'yı, genişleyen evreni, hatta ışık hızını önceden bildirdiğini söylüyor. Bu doğru olsaydı ilahi kökenin güçlü bir delili olurdu. Ama kontrol ettiğimde, iddialar Arapça kelimeleri zorlamaya, müfessirlerin bin yıl boyunca söylediklerini görmezden gelmeye ve 'kehaneti' ancak bilim insanları keşfi yaptıktan sonra ilan etmeye dayanıyor. Kur'an Allah'tansa neden böyle argümanlara ihtiyaç duysun — ve bunlar çökerse geriye ne kalır?\""
   en: "\"Videos say the Quran predicted embryology, the Big Bang, the expanding universe, even the speed of light. If that were true it would be strong evidence of divine origin. But when I check, the claims depend on stretching Arabic words, ignoring what commentators said for a thousand years, and announcing the 'prediction' only after scientists made the discovery. If the Quran is from God, why would it need such arguments — and if they collapse, what is left?\""
 whyAsked:
-  tr: |
-    Viral videolar (Zağlul en-Neccâr, Harun Yahya), bunları çürüten videolar ve bir iddia çöktüğünde kendini aldatılmış hisseden şüpheciler.
+  tr: Bu tür (*el-i'câzü'l-ilmî*, "bilimsel mucizevîlik") YouTube'da ve bazı kurumlarda popülerdir. Pek çok genç onunla ilk karşılaştığında ona inanır ve sonra bir iddia çöktüğünde kandırılmış hisseder.
   en: The genre (*al-iʿjāz al-ʿilmī*, "scientific miraculousness") is popular on YouTube and in some institutions. Many young people meet it first, believe it, and then feel misled when a claim collapses.
 shortAnswer:
-  tr: |
-    Kur'an doğa üzerine tefekküre davet eder ve pek çok âyet bilimle uyum içindedir. Ama âyetlerin belirli keşifleri *önceden bildirdiğini* iddia eden tür (i'câz-ı ilmî) çoğu zaman kelime anlamlarını zorlar, klasik tefsiri görmezden gelir ve Kur'an'ı değişebilen kuramlara bağlar. Pek çok Müslüman bilim insanı ve âlim, Kur'an'ı tamamen kabul ederken bu türü reddeder. Bu site âyetleri gizli bilim dersleri olarak değil, işaretler (âyât) olarak ele alır.
+  tr: "Kur'an doğayı üzerinde düşünülecek \"âyetlerle\" dolu olarak niteler (3:190) ve kendini \"hidayet\" olarak niteler (2:2); kendini bir bilim ders kitabı olarak sunmaz. Kur'an'ın keşifleri \"önceden bildirdiği\" yönündeki pek çok modern iddia, klasik müfessirlerin farklı anladığı kelimelere yeni anlamlar yükler: Örneğin İbn Kesîr, \"çok genişlik ve kudret sahibiyiz\" (51:47) ifadesini Allah'ın göğü geniş kılması olarak okudu ve İbn Abbâs'ın 21:30'daki \"bitişik\" hâli göğün henüz yağmur yağdırmaması ve yerin henüz bitki bitirmemesi olarak okuduğunu aktarır (İbn Kesîr'in kendi açıklaması: \"tek parça… üst üste yığılmış\") — Büyük Patlama olarak değil. Bazı tasvirler bildiklerimizle iyi bir uyum içindedir ve bu sitenin Tefekkür sayfalarında yaptığı gibi, dürüstçe üzerinde düşünülebilir; ama \"uyum\", \"kehanet\" değildir. Kur'an'ın taklit edilemezliğine dair klasik delil onun nazmı etrafında yoğunlaşıyordu; Bâkıllânî'nin üç yönü (nazım, gaybdan haberler, Hz. Peygamber'in *ümmî* olması) bilimi içermez (Divlekci 2019). Abartılı iddiaları bırakmanın maliyeti azdır: Amerikalı Müslümanlarla yapılan 2018 tarihli bir ankette şüpheyi en sık tetikleyen konular bilimsel değil, ahlaki ve sosyaldi."
   en: "The Quran calls nature full of \"signs\" for reflection (3:190) and calls itself \"guidance\" (2:2); it does not present itself as a science textbook. Many modern claims that it \"predicted\" discoveries read new meanings into words that classical commentators understood differently: Ibn Kathir, for example, read \"We are [its] expander\" (51:47) as God having made the sky vast, and he reports Ibn ʿAbbas reading 21:30's \"joined entity\" as the sky not yet raining and the earth not yet growing plants (Ibn Kathir's own gloss: \"one piece… piled up\") — not as the Big Bang. Some descriptions harmonise well with what we know, and can be reflected on honestly, as this site does on its Reflect pages; but \"harmony\" is not \"prediction\". The classical case for the Quran's inimitability centred on its composition; al-Baqillani's three aspects (composition, reports of the unseen, the Prophet's being *ummī*) do not include science (Divlekci 2019). Dropping overstated claims costs little: in a 2018 survey of Muslim Americans, the issues that most often triggered doubt were moral and social, not scientific."
 layers:
   - kind: religious
@@ -45,8 +42,7 @@ layers:
       Mucizeye dayalı iman kırılgandır; tek bir çöküş "hepsi yalan" genellemesine dönüşür. Yaqeen'in, bilimin şüphe tetikleyicileri arasında *alt sıralarda* olduğu bulgusu, abartılı iddiaları bırakmanın az şey kaybettirip güven kazandırdığı anlamına gelir.
     en: Miracle-based faith is brittle; one collapse generalizes to "it's all lies". Yaqeen's finding that science ranks *low* among triggers means dropping overclaims costs little and builds trust.
 honestLimits:
-  tr: |
-    Bazı Müslüman kurumlar hâlâ i'câz-ı ilmîyi destekliyor; bu sitenin tutumu ilmî bir görüştür, icma değildir.
+  tr: Guessoum'un makalesine, Şâtıbî'nin kendi metnine, klasik *i'câz* eserlerine, embriyoloji iddiasının eleştirilerine ve ışık hızı iddiasının herhangi bir değerlendirmesine henüz başvurulmadı. Şüphe anketi tek bir Amerikan örneklemine aittir.
   en: Guessoum's article, al-Shatibi's own text, the classical *iʿjāz* works, critiques of the embryology claim, and any assessment of the speed-of-light claim have not yet been consulted. The doubt survey is of one American sample.
 visualizations:
   - id: ideas
@@ -87,11 +83,22 @@ sources:
 fullAnswer:
   - kind: heart
     en: '**If a "miracle" you believed in turned out to be false, you were not foolish, and your faith was not foolish either.** You trusted people who presented a claim with confidence. The Quran never asked you to believe it because of modern science; it asks you to reflect, and it makes its own case.'
+    tr: "**İnandığın bir \"mucizenin\" yanlış çıktığını gördüysen, ne sen ne de imanın aptalca değildi.** Bir iddiayı kendinden emin bir şekilde sunan insanlara güvendin. Kur'an senden ona modern bilim yüzünden inanmanı hiçbir zaman istemedi; senden düşünmeni ister ve kendi savunmasını kendisi yapar."
+    title:
+      en: İmanı sarsılan kişi için
+      tr: İmanı sarsılan kişi için
   - kind: quran
     en: |-
       **Signs for reflection (3:190).** "Indeed, in the creation of the heavens and the earth and the alternation of the night and the day are signs for those of understanding" (3:190). Nature is a sign pointing to God, to be reflected on.
 
       **A book of guidance (2:2).** "This is the Book about which there is no doubt, a guidance for those conscious of Allah" (2:2). Its stated purpose is guidance.
+    tr: |-
+      **Düşünmek için âyetler (3:190).** "Göklerin ve yerin yaratılışında, gece ile gündüzün birbiri ardınca gelip gidişinde selim akıl sahipleri için gerçekten açık, ibretli deliller vardır." (3:190). Doğa, Allah'ı gösteren ve üzerinde düşünülecek bir işarettir.
+
+      **Bir hidayet kitabı (2:2).** "İşte o kitap, bunda şüphe yok, müttakiler (kötülükten korunacaklar) için hidayettir." (2:2). Bildirdiği amacı hidayettir.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: scholars
     en: |-
       **The verses.** "Have those who disbelieved not considered that the heavens and the earth were a joined entity, and We separated them and made from water every living thing?" (21:30), Meccan. "And the heaven We constructed with strength, and indeed, We are [its] expander" (51:47), Meccan.
@@ -101,6 +108,19 @@ fullAnswer:
       **Classical tafsir.** Ibn Kathir reports Ibn ʿAbbas on 21:30: "the heavens were joined together and it did not rain, and the earth was joined together and nothing grew", until "rain came forth from the heavens and vegetation came forth from the earth"; al-Hasan and Qatada: "They were joined together, then they were separated by this air"; and his own gloss: "in the beginning they were all one piece… piled up on top of one another", then separated. On 51:47 he explains "We constructed… with strength" with Ibn ʿAbbas, Mujahid, Qatada and al-Thawri, and *la-mūsiʿūn* ("expander") as: "We made it vast and We brought its roof higher without pillars to support it."
 
       **Assessment.** The words *ratq* (joined) and *fatq* (separated) and *mūsiʿūn* (making wide, or having the power to make wide) can be read as compatible with modern cosmology, and that compatibility can be a prompt for reflection. But Ibn Kathir, and the early authorities he reports, do not read these verses as describing an expanding universe or an initial singularity; the modern readings arose after the science. That is the pattern critics point to. So the honest statement is: these verses *can be read in harmony with* modern cosmology; they do not *predict* it.
+
+      The astrophysicist Nidhal Guessoum gives a detailed critique of the "scientific miracles" literature in *Islam's Quantum Question* (2011), as described by Hawramani's review.
+    tr: |-
+      **Âyetler.** "O kâfir olanlar, görmediler mi ki, göklerle yer bitişik bir halde iken biz onları ayırdık. Hayatı olan her şeyi sudan yarattık." (21:30), Mekkî. "Biz göğü kudretimizle bina ettik. Hiç şüphesiz biz, çok genişlik ve kudret sahibiyiz." (51:47), Mekkî.
+
+      **Modern iddia.** 21:30'un Büyük Patlama'yı (tek bir ilk hâl, sonra ayrılma), 51:47'nin ise genişleyen evreni anlattığı.
+
+      **Klasik tefsir.** İbn Kesîr, 21:30 hakkında İbn Abbâs'tan şunu aktarır: "Gökler bitişikti ve yağmur yağmıyordu, yer bitişikti ve hiçbir şey bitmiyordu", ta ki "gökten yağmur inip yerden bitki çıkana kadar"; Hasan ve Katâde'den: "Bitişiktiler, sonra bu hava ile ayrıldılar"; ve kendi açıklaması: "Başlangıçta hepsi tek parçaydı… üst üste yığılmıştı", sonra ayrıldılar. 51:47'de "kudretimizle bina ettik" ifadesini İbn Abbâs, Mücâhid, Katâde ve Sevrî ile açıklar ve *le-mûsiûn* ("genişletenleriz") ifadesini şöyle açıklar: "Onu geniş kıldık ve tavanını onu destekleyecek sütunlar olmadan daha yükseğe kaldırdık."
+
+      **Değerlendirme.** *Ratk* (bitişik) ve *fetk* (ayrılmış) ve *mûsiûn* (genişleten ya da genişletme gücüne sahip olan) kelimeleri modern kozmolojiyle bağdaşır şekilde okunabilir ve bu bağdaşma düşünmek için bir vesile olabilir. Ama İbn Kesîr ve aktardığı erken dönem otoriteler bu âyetleri genişleyen bir evreni ya da bir ilk tekilliği anlatan âyetler olarak okumaz; modern okumalar bilimden sonra ortaya çıktı. Eleştirmenlerin işaret ettiği örüntü budur. Dolayısıyla dürüst ifade şudur: Bu âyetler modern kozmolojiyle *uyum içinde okunabilir*; onu *önceden bildirmez*.
+    title:
+      en: "İşlenmiş bir örnek: 21:30 ve 51:47"
+      tr: "İşlenmiş bir örnek: 21:30 ve 51:47"
   - kind: scholars
     en: |-
       **The claim.** That 23:12–14 — "a sperm-drop in a firm lodging… a clinging clot… a lump [of flesh]… bones… covered the bones with flesh" — matches modern embryology so exactly that it must be from God. Its best-known supporter was the Canadian anatomist Keith Moore, who is quoted as saying he had worked "for the past three years" with an embryology committee at King Abdulaziz University in Jeddah. With Abdul-Majeed al-Zindani, named there as Director of the Project of Scientific Miracles at that university, he produced a special edition of his textbook, *The Developing Human*, "with Islamic Additions" (Saunders, 1982; Dar Al-Qiblah, 1983). He is quoted as saying the Quranic descriptions "cannot be based on scientific knowledge in the seventh century" (Islamic Awareness, a site that promotes the claims).
@@ -108,6 +128,15 @@ fullAnswer:
       **Assessment.** The stages named in 23:14 are the same words the site's sign page on the embryo (S4) examines, with their meanings and the classical readings. The current S4 page says the historian of science Joseph Needham noted parallels with Galen's Greek medicine; that has not yet been checked in Needham's text. The fair position is the site's general one: describe accurately, note what harmonises, and flag overclaims.
 
       **The speed of light.** A popular claim derives the speed of light from 32:5 and the Moon's orbit. No source assessing it was read, so this page makes no judgement on it.
+    tr: |-
+      **İddia.** 23:12–14'ün — "nutfe… emin ve sağlam bir karargahta… alaka… mudga… kemik… o kemiklere bir et giydirdik" — modern embriyolojiyle o kadar tam örtüştüğü ki Allah'tan gelmesi gerektiği. En bilinen savunucusu Kanadalı anatomist Keith Moore'du; onun Cidde'deki Kral Abdülaziz Üniversitesi'nde bir embriyoloji komitesiyle "son üç yıldır" çalıştığını söylediği aktarılır. Orada o üniversitedeki Bilimsel Mucizeler Projesi'nin Direktörü olarak anılan Abdülmecîd ez-Zindânî ile birlikte, ders kitabı *The Developing Human*'ın "İslami Eklerle" özel bir baskısını hazırladı (Saunders, 1982; Dar Al-Qiblah, 1983). Kur'an'daki tasvirlerin "yedinci yüzyıldaki bilimsel bilgiye dayanıyor olamayacağını" söylediği aktarılır (Islamic Awareness, bu iddiaları savunan bir site).
+
+      **Değerlendirme.** 23:14'te sayılan evreler, sitenin embriyo hakkındaki âyet sayfasının (S4) anlamları ve klasik okumalarıyla birlikte incelediği kelimelerin aynısıdır. Mevcut S4 sayfası, bilim tarihçisi Joseph Needham'ın Galenos'un Yunan tıbbıyla paralellikler not ettiğini söylüyor; bu, Needham'ın metninde henüz kontrol edilmedi. Adil tutum sitenin genel tutumudur: doğru tarif et, uyum içinde olanı not et ve abartıları işaretle.
+
+      **Işık hızı.** Popüler bir iddia ışık hızını 32:5'ten ve Ay'ın yörüngesinden çıkarır. Bunu değerlendiren hiçbir kaynak okunmadı, dolayısıyla bu sayfa onun hakkında hüküm vermiyor.
+    title:
+      en: Embriyoloji
+      tr: Embriyoloji
   - kind: scholars
     en: |-
       **Al-Shatibi and the Arabs' usage.** Muhammad Salim Abu ʿAsi, in his study of the Andalusian jurist al-Shatibi's *al-Muwāfaqāt*, writes in his own words that "the whole Quran was revealed in the established usage of the Arabs, without doubt" (translated). He says this in a section on why tafsir is still needed: Arabic words carry literal, figurative and implied meanings. The passage read says nothing about reading later sciences into the Quran.
@@ -115,13 +144,33 @@ fullAnswer:
       **Classical *iʿjāz*.** According to Divlekci (2019), al-Baqillani names three aspects of the Quran's inimitability: its reports of the unseen ("gâipten haberler"), the Prophet's (pbuh) being *ummī*, and the uniqueness of its composition (*naẓm*).
 
       **Modern critics.** Guessoum's 2008 article in *Zygon* could not be opened (blocked), so his arguments are not summarised here.
+    tr: |-
+      **Şâtıbî ve Arapların kullanımı.** Muhammed Sâlim Ebû Âsî, Endülüslü fakih Şâtıbî'nin *el-Muvâfakât*'ı üzerine çalışmasında, kendi sözleriyle, "Kur'an'ın tamamının şüphesiz Arapların yerleşik kullanımına göre indiğini" yazar (çeviri). Bunu tefsirin neden hâlâ gerekli olduğuna dair bir bölümde söyler: Arapça kelimeler lafzi, mecazi ve ima edilen anlamlar taşır. Okunan pasaj sonraki ilimleri Kur'an'a okumak hakkında hiçbir şey söylemiyor.
+
+      **Klasik *i'câz*.** Divlekci'ye (2019) göre Bâkıllânî, Kur'an'ın taklit edilemezliğinin üç yönünü sayar: gaybdan verdiği haberler ("gâipten haberler"), Hz. Peygamber'in (s.a.v.) *ümmî* olması ve nazmının (*nazm*) eşsizliği.
+
+      **Modern eleştirmenler.** Guessoum'un *Zygon*'daki 2008 tarihli makalesi açılamadı (engellendi), dolayısıyla argümanları burada özetlenmiyor.
+    title:
+      en: Klasik ve modern âlimler
+      tr: Klasik ve modern âlimler
   - kind: research
     en: "**Science is not what most often triggers doubt.** [Moderate; one US sample.] In Chouhoud's survey of 630 Muslim Americans (2017), \"the top four issues all come from the Moral and Social Concerns family of doubts\", led by \"The way that [some] insist there is only one 'right' way to practice faith\", while \"each of the four items that least trigger doubt are directly related to doctrinal belief\". The exact rank of the science item (evolution and creation) was not given in the text read."
+    tr: "**Şüpheyi en sık tetikleyen şey bilim değil.** [Orta; tek bir ABD örneklemi.] Chouhoud'un 630 Amerikalı Müslümanla yaptığı ankette (2017), \"ilk dört konunun hepsi Ahlaki ve Sosyal Kaygılar şüphe ailesinden geliyor\"; başta \"[bazılarının] dini yaşamanın yalnızca tek bir 'doğru' yolu olduğunda ısrar etmesi\" geliyor; \"şüpheyi en az tetikleyen dört maddenin her biri doğrudan akideyle ilgili\". Bilim maddesinin (evrim ve yaratılış) tam sırası okunan metinde verilmemişti."
+    title:
+      en: Araştırmalar ne gösteriyor?
+      tr: Araştırmalar ne gösteriyor?
   - kind: reasoning
     en: |-
       **The Quran's own case.** The Quran points to its language and its challenge (2:23), to the character of the messenger (10:16), to the coherence of its message, and to the signs in nature as prompts for reflection (3:190) — not as hidden proofs. These are the arguments on "Why believe Muhammad was a prophet?".
 
       **How apparent conflicts are handled.** If it describes nature as people saw it (the sun "setting", for example), that is the language of appearance, not a scientific claim. Ibn Rushd argued that demonstrated truth cannot contradict revelation, and that apparent conflicts call for interpretation (see "Knowledge and seeking it" for his *Decisive Treatise*).
+    tr: |-
+      **Kur'an'ın kendi savunması.** Kur'an kendi diline ve meydan okumasına (2:23), elçinin karakterine (10:16), mesajının tutarlılığına ve doğadaki âyetlere düşünme vesileleri olarak (3:190) işaret eder — gizli deliller olarak değil. Bunlar "Muhammed'in peygamber olduğuna neden inanmalı?" sayfasındaki argümanlardır.
+
+      **Görünüşteki çelişkiler nasıl ele alınır?** Kur'an doğayı insanların gördüğü gibi tarif ediyorsa (örneğin güneşin "batması"), bu bilimsel bir iddia değil, görünüşün dilidir. İbn Rüşd, ispatlanmış hakikatin vahiyle çelişemeyeceğini ve görünüşteki çelişkilerin yorumu gerektirdiğini savundu (onun *Faslü'l-Makâl*'i için bkz. "İlim ve ilim talebi").
+    title:
+      en: İddialar giderse geriye ne kalır?
+      tr: İddialar giderse geriye ne kalır?
   - kind: objection
     en: |-
       **"Without the miracles, there is no evidence."** *Reply:* the classical case for inimitability did not rest on them: al-Baqillani's three aspects are composition, reports of the unseen and the Prophet's (pbuh) being *ummī* (Divlekci 2019). *Limit:* for people who came to faith through these claims, losing them can still feel like losing the ground.
@@ -129,36 +178,64 @@ fullAnswer:
       **"Some harmonies are striking."** *Reply:* they can be noted and reflected on, as harmonies. *Limit:* critics will still say any rich text can be made to fit many things after the fact.
 
       **"Muslim institutions still promote *iʿjāz ʿilmī*."** *Reply:* yes; the view on this page is a scholarly position, not a consensus.
+    tr: |-
+      **"Mucizeler olmadan delil yok."** *Cevap:* Taklit edilemezliğe dair klasik delil onlara dayanmıyordu: Bâkıllânî'nin üç yönü nazım, gaybdan haberler ve Hz. Peygamber'in (s.a.v.) *ümmî* olmasıdır (Divlekci 2019). *Sınır:* Bu iddialar aracılığıyla imana gelen insanlar için onları kaybetmek yine de zemini kaybetmek gibi hissettirebilir.
+
+      **"Bazı uyumlar çarpıcı."** *Cevap:* Uyumlar olarak not edilebilir ve üzerinde düşünülebilir. *Sınır:* Eleştirmenler yine de zengin herhangi bir metnin olaydan sonra pek çok şeye uydurulabileceğini söyleyecektir.
+
+      **"Müslüman kurumlar hâlâ *i'câz-ı ilmî*yi savunuyor."** *Cevap:* Evet; bu sayfadaki görüş bir icmâ değil, ilmî bir görüştür.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Supporters** — Zaghloul El-Naggar, Keith Moore (1982/83 edition), Tantawi Jawhari.
       - **Critics** — Amin al-Khuli, Mahmud Shaltut, Nidhal Guessoum.
       - **This site** — verses as signs for reflection; harmony noted honestly, prediction not claimed.
+    tr: |-
+      - **Savunucular** — Zağlûl en-Neccâr, Keith Moore (1982/83 baskısı), Tantâvî Cevherî.
+      - **Eleştirmenler** — Emîn el-Hûlî, Mahmûd Şeltût, Nidhal Guessoum.
+      - **Bu site** — âyetler düşünmek için işaretlerdir; uyum dürüstçe not edilir, kehanet iddia edilmez.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: Which popular claims hold up?
+      tr: Hangi popüler iddialar ayakta kalıyor?
     a:
       en: None that was checked here holds up as a *prediction*. Some verses can be read in harmony with modern science (21:30; 51:47); classical commentators read them differently.
+      tr: Burada kontrol edilenlerin hiçbiri bir *kehanet* olarak ayakta kalmıyor. Bazı âyetler modern bilimle uyum içinde okunabilir (21:30; 51:47); klasik müfessirler onları farklı okudu.
   - q:
       en: If I drop these claims, what reason is left?
+      tr: Bu iddiaları bırakırsam, geriye hangi gerekçe kalır?
     a:
       en: "The Quran's own case: its language, its messenger, its message and its call to reflection."
+      tr: "Kur'an'ın kendi savunması: dili, elçisi, mesajı ve düşünmeye çağrısı."
   - q:
       en: Which verses "harmonise with science"?
+      tr: Hangi âyetler "bilimle uyum içinde"?
     a:
       en: 21:30 and 51:47 can be read in harmony with cosmology, and 23:12–14 with embryology, as discussed on the site's sign pages — with the caveats above.
+      tr: 21:30 ve 51:47 kozmolojiyle, 23:12–14 de embriyolojiyle uyum içinde okunabilir; sitenin âyet sayfalarında, yukarıdaki çekincelerle birlikte ele alındığı gibi.
   - q:
       en: What is tafsir, and why does classical tafsir matter here?
+      tr: Tefsir nedir ve klasik tefsir burada neden önemli?
     a:
       en: Tafsir is Quranic commentary. Classical tafsir shows how the words were understood before modern science, which is the test of whether a "prediction" is in the text or read into it.
+      tr: Tefsir Kur'an yorumudur. Klasik tefsir kelimelerin modern bilimden önce nasıl anlaşıldığını gösterir; bir "kehanetin" metinde mi olduğunun yoksa ona sonradan mı yüklendiğinin sınavı budur.
   - q:
       en: What does it mean that classical *iʿjāz* centred on composition?
+      tr: Klasik *i'câz*ın nazım etrafında yoğunlaşması ne demek?
     a:
       en: That al-Baqillani located the Quran's inimitability chiefly in its composition (*naẓm*), alongside its reports of the unseen and the Prophet's (pbuh) being *ummī* (Divlekci 2019).
+      tr: Bâkıllânî'nin Kur'an'ın taklit edilemezliğini, gaybdan verdiği haberler ve Hz. Peygamber'in (s.a.v.) *ümmî* olmasıyla birlikte, esas olarak nazmına (*nazm*) yerleştirdiği anlamına gelir (Divlekci 2019).
   - q:
       en: What does al-Shatibi say about the first audience?
+      tr: Şâtıbî ilk muhataplar hakkında ne diyor?
     a:
       en: His own text has not yet been consulted. Abu ʿAsi, writing about him, says the Quran was revealed "in the established usage of the Arabs", in a discussion of why tafsir is still needed.
+      tr: Kendi metnine henüz başvurulmadı. Onun hakkında yazan Ebû Âsî, tefsirin neden hâlâ gerekli olduğuna dair bir tartışmada, Kur'an'ın "Arapların yerleşik kullanımına göre" indiğini söylüyor.
 legacySources:
   - *a1
   - *a2
@@ -167,3 +244,4 @@ legacySources:
   - *a5
   - *a6
   - *a7
+translatedFrom: docs/research/tr/Q12.md

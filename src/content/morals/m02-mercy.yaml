@@ -14,7 +14,7 @@ title:
   tr: Rahmet ve ihsan
   en: Mercy and iḥsān
 summary:
-  tr: Allah'ın rahmeti her şeyi kuşatır (7:156). Kur'an Hz. Peygamber'i âlemlere rahmet olarak tanıtır ve onun kaba, katı yürekli olsaydı insanların etrafından dağılıp gideceğini söyler (3:159).
+  tr: "Allah kendisi hakkında şöyle der: \"rahmetim de vardır, o ise her şeyi kaplamış ve kuşatmıştır\" (7:156) ve Hz. Peygamber (s.a.v.) \"âlemlere rahmet olarak\" gönderildi (21:107). *İhsân* — işleri, Allah'ı görüyormuş gibi güzelce yapmak — rahmeti bir duygudan bir davranış biçimine dönüştürür; bir hayvanın nasıl kesildiğine kadar."
   en: 'God says of Himself: "My mercy encompasses all things" (7:156), and the Prophet (pbuh) was sent "as a mercy to the worlds" (21:107). *Iḥsān* — doing things beautifully, as if you see God — turns mercy from a feeling into a way of acting, down to how an animal is slaughtered.'
 hadith:
   tr: |
@@ -26,7 +26,7 @@ hadith:
     - God has prescribed iḥsān (doing things beautifully and well) in all things (Muslim 1955).
     - The woman who gave water to a thirsty dog (Bukhārī 3467).
 gaps:
-  tr: Sert vaaz dili, 3:159 ile çelişir. Âyet, Hz. Peygamber kaba ve katı yürekli olsaydı insanların etrafından dağılıp gideceğini söyler.
+  tr: Allah'ın rahmeti ile azabı arasındaki ilişki tartışmalıdır ve bu sayfa onu çözmüyor. Gazzâlî'nin ve İbn Kayyim'in rahmet üzerine yazılarına ve mezheplerin kesimle ilgili hükümlerine henüz başvurulmadı.
   en: The relation between God's mercy and punishment is debated, and this page does not settle it. Al-Ghazali's and Ibn al-Qayyim's writings on mercy, and the schools' rules on slaughter, have not yet been consulted.
 visualizations:
   - id: hundred-parts
@@ -54,6 +54,13 @@ fullAnswer:
       **Raḥma.** The root *r-ḥ-m* gives *raḥma* (mercy) and *raḥim* (womb). The two names of God at the start of almost every sura, *al-Raḥmān* and *al-Raḥīm*, both come from it; they are usually translated "the Entirely Merciful" and "the Especially Merciful".
 
       **Iḥsān.** From *ḥ-s-n*, "beauty, goodness". *Iḥsān* means doing something well and beautifully. In the Hadith Jibril it is the highest level of religion (below).
+    tr: |-
+      **Rahmet.** *R-h-m* kökünden *rahmet* (merhamet) ve *rahim* (ana rahmi) gelir. Neredeyse her sûrenin başındaki iki ilahi isim, *er-Rahmân* ve *er-Rahîm*, ikisi de bu kökten gelir; İngilizcede genellikle "the Entirely Merciful" ve "the Especially Merciful" ("tamamen merhametli" ve "özellikle merhametli") diye çevrilir.
+
+      **İhsân.** *H-s-n* kökünden, "güzellik, iyilik". *İhsân*, bir şeyi iyi ve güzel yapmak demektir. Cibrîl Hadisi'nde dinin en yüksek derecesidir (aşağıda).
+    title:
+      en: Ne anlama geliyor?
+      tr: Ne anlama geliyor?
   - kind: quran
     en: |-
       **"My mercy encompasses all things" — and the clause after it (7:156).** The verse is a dialogue. Moses (pbuh) prays: "And decree for us in this world [that which is] good and [also] in the Hereafter; indeed, we have turned back to You." God answers: "My punishment — I afflict with it whom I will, but My mercy encompasses all things. So I will decree it [especially] for those who fear Me and give zakah and those who believe in Our verses" (7:156), from the Meccan Sura al-Aʿraf. So the verse makes two claims: mercy reaches everything, and a special, written mercy is for those with *taqwa* (God-consciousness). Ibn Kathir says the first phrase "testifies to His encompassing mercy", and glosses the second: "I will ordain My mercy for them, as a favor and kindness from Me to them." He cites a hadith (from Salman, recorded by Imam Ahmad and Muslim): "Allah… has a hundred mercies", of which He "has kept ninety-nine mercies with Him for the Day of Resurrection." On this reading, everything receives some of God's mercy in this world, and the fullest mercy of the Hereafter is promised to those who turn to Him.
@@ -61,6 +68,15 @@ fullAnswer:
       **Gentleness as the source of the Prophet's influence (3:159).** "So by mercy from Allah, [O Muhammad], you were lenient with them. And if you had been rude [in speech] and harsh in heart, they would have disbanded from about you. So pardon them and ask forgiveness for them and consult them in the matter" (3:159). This Medinan verse comes in the passage about the battle of Uhud, where some of the Prophet's (pbuh) own followers had disobeyed orders and fled. The verse tells him to pardon *them*, pray for them, and still consult them.
 
       **"A mercy to the worlds" (21:107).** "And We have not sent you, [O Muhammad], except as a mercy to the worlds" (21:107), Meccan. "The worlds" (*al-ʿālamīn*) is the same word as in "Lord of the worlds": all creation, not only Muslims.
+    tr: |-
+      **"Rahmetim her şeyi kuşatmıştır" — ve ardından gelen ifade (7:156).** Âyet bir karşılıklı konuşmadır. Hz. Mûsâ (a.s.) şöyle dua eder: "Ve bize hem bu dünyada bir iyilik yaz, hem de ahirette. Biz gerçekten de tevbe edip senin hidayetine döndük." Allah cevap verir: "azabım var, onu dilediğime isabet ettiririm, rahmetim de vardır, o ise her şeyi kaplamış ve kuşatmıştır. Onu da özellikle korunanlara, zekatını verenlere ve âyetlerimize inananlara mahsus kılacağım." (7:156), Mekkî A'râf Sûresi'nden. Yani âyet iki iddiada bulunur: Rahmet her şeye ulaşır ve özel, yazılmış bir rahmet *takvâ* (Allah bilinci) sahipleri içindir. İbn Kesîr, ilk ifadenin "O'nun kuşatıcı rahmetine şahitlik ettiğini" söyler ve ikincisini şöyle açıklar: "Rahmetimi onlar için, benden onlara bir lütuf ve ihsan olarak takdir edeceğim." Bir hadis zikreder (Selmân'dan, İmam Ahmed ve Müslim kaydetmiştir): "Allah'ın… yüz rahmeti vardır", bunlardan "doksan dokuz rahmeti Kıyamet Günü için kendi katında saklamıştır." Bu okumaya göre her şey bu dünyada Allah'ın rahmetinden bir pay alır ve ahiretin en tam rahmeti O'na yönelenlere vaat edilir.
+
+      **Hz. Peygamber'in (s.a.v.) etkisinin kaynağı olarak yumuşaklık (3:159).** "Sen (o zaman), sırf Allah'ın rahmetiyle onlara karşı yumuşak davrandın. Eğer kaba, katı yürekli olsaydın, onlar senin etrafından dağılıp giderlerdi. Artık onları sen bağışla, onlar için Allah'dan mağfiret dile. (Yapacağın) işlerde onlara da danış" (3:159). Bu Medenî âyet, Hz. Peygamber'in (s.a.v.) kendi takipçilerinden bazılarının emirlere uymayıp kaçtığı Uhud Savaşı ile ilgili pasajda yer alır. Âyet ona *onları* bağışlamasını, onlar için dua etmesini ve yine de onlara danışmasını söyler.
+
+      **"Âlemlere rahmet" (21:107).** "(Ey Muhammed!) biz seni ancak âlemlere rahmet olarak gönderdik." (21:107), Mekkî. "Âlemler" (*el-âlemîn*), "âlemlerin Rabbi" ifadesindeki kelimenin aynısıdır: yalnızca Müslümanlar değil, bütün yaratılış.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **The definition of iḥsān.** In the Hadith Jibril, the angel Gabriel, appearing as a man, asked the Prophet (pbuh) about Islam, faith and iḥsān. Of iḥsān he said: "That you worship Allah as if you are seeing him, and even though you do not see Him, [you know] He sees you" (Sahih Muslim 8; Sahih al-Bukhari 50, as given by Hadith Answers). Iḥsān is living with the awareness that God sees — and so doing everything as well as you can.
@@ -70,12 +86,35 @@ fullAnswer:
       **Mercy to enemies: the day of Ṭāʾif.** ʿAʾisha (ra) asked the Prophet (pbuh) whether he had faced a day harder than the battle of Uhud. He said the worst was "the day of ʿAqaba when I presented myself to Ibn ʿAbd-Yalail bin ʿAbd-Kulal and he did not respond to my demand" — the leaders of Ṭāʾif had rejected him. "So I departed, overwhelmed with excessive sorrow." At Qarn al-Thaʿalib he saw Gabriel in a cloud, with the angel of the mountains, who said: "O Muhammad! Order what you wish. If you like, I will let Al-Akh-Shabain (i.e. two mountains) fall on them." He replied: "No but I hope that Allah will let them beget children who will worship Allah Alone, and will worship None besides Him" ({hadith:bukhari:3231}). Offered revenge on people who had just humiliated him, he chose hope for their children.
 
       **Mercy first.** "When Allah completed the creation, He wrote in His Book which is with Him on His Throne, 'My Mercy overpowers My Anger'" ({hadith:bukhari:3194}).
+    tr: |-
+      **İhsânın tanımı.** Cibrîl Hadisi'nde, insan suretinde görünen melek Cebrâil, Hz. Peygamber'e (s.a.v.) İslam'ı, imanı ve ihsânı sordu. İhsân hakkında şöyle buyurdu: "Allah'a, O'nu görüyormuş gibi ibadet etmendir; sen O'nu görmesen de [bilirsin ki] O seni görür" (*Sahîh-i Müslim* 8; *Sahîh-i Buhârî* 50, Hadith Answers'ın verdiği şekliyle). İhsân, Allah'ın gördüğü bilinciyle yaşamak — ve dolayısıyla her şeyi elinden geldiğince iyi yapmaktır.
+
+      **Her şeyde ihsân, kesimde bile.** Şeddâd b. Evs (r.a.) şöyle aktarır: "Şüphesiz Allah her şeye iyiliği farz kılmıştır; öyleyse öldürdüğünüzde güzel öldürün, kestiğinizde güzel kesin. Her biriniz bıçağını bilesin ve kesilen hayvanı rahatlatsın" ({hadith:muslim:1955a}). Burada "iyilik", *ihsân*ın karşılığıdır. Hadis bunu rahmetin en az var gibi göründüğü ana — bir canı almaya — uygular ve orada bile özen ister.
+
+      **Düşmanlara rahmet: Tâif günü.** Hz. Âişe (r.a.), Hz. Peygamber'e (s.a.v.) Uhud Savaşı'ndan daha zor bir gün yaşayıp yaşamadığını sordu. O, en kötüsünün "kendimi İbn Abdiyâlîl b. Abdikülâl'e arz ettiğim ve onun talebime cevap vermediği Akabe günü" olduğunu söyledi — Tâif'in önderleri onu reddetmişti. "Ben de aşırı bir kederle bunalmış olarak ayrıldım." Karnü's-Seâlib'de Cebrâil'i bir bulutun içinde, dağlar meleğiyle birlikte gördü; dağlar meleği şöyle dedi: "Ey Muhammed! Dilediğini emret. İstersen Ahşebeyn'i (yani iki dağı) onların üzerine kapatayım." O şöyle cevap verdi: "Hayır, ben Allah'ın onların soyundan yalnızca Allah'a ibadet eden ve O'na hiçbir şeyi ortak koşmayan çocuklar çıkarmasını umuyorum" ({hadith:bukhari:3231}). Kendisini az önce aşağılamış insanlardan intikam alma imkânı sunulduğunda, onların çocukları için umudu seçti.
+
+      **Önce rahmet.** "Allah yaratmayı tamamladığında, Arş'ın üzerinde katında bulunan Kitabı'na şunu yazdı: 'Rahmetim gazabıma galip gelir'" ({hadith:bukhari:3194}).
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: "**Readers asked for al-Ghazali and Ibn al-Qayyim on mercy.** Al-Ghazali's *al-Maqṣad al-Asnā* (on the names of God, translated by David Burrell and Nazih Daher) discusses *al-Raḥmān* and *al-Raḥīm*, and what share of each name a human being can have; Ibn al-Qayyim wrote widely on mercy. Neither text was read, so neither is quoted."
+    tr: "**Okuyucular Gazzâlî'nin ve İbn Kayyim'in rahmet hakkında ne dediğini sordu.** Gazzâlî'nin *el-Maksadü'l-Esnâ*'sı (Allah'ın isimleri üzerine; David Burrell ve Nazih Daher tarafından İngilizceye çevrildi) *er-Rahmân* ve *er-Rahîm*'i ve bir insanın her isimden ne kadar pay alabileceğini ele alır; İbn Kayyim rahmet hakkında kapsamlı yazılar yazdı. Hiçbir metin okunmadı, dolayısıyla ikisinden de alıntı yapılmıyor."
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: fiqh
     en: "**Slaughter (dhabḥ).** Muslim 1955 is the basis of the jurists' rules that the knife be sharp and the animal not be made to suffer needlessly. How each of the four schools details this (for example, not sharpening the knife in front of the animal, not slaughtering one animal in sight of another) has not yet been consulted in named works."
+    tr: "**Kesim (zebh).** Müslim 1955, fakihlerin bıçağın keskin olması ve hayvana gereksiz yere acı çektirilmemesi gerektiği yönündeki hükümlerinin dayanağıdır. Dört mezhebin her birinin bunu nasıl ayrıntılandırdığına (örneğin bıçağı hayvanın önünde bilememek, bir hayvanı diğerinin gözü önünde kesmemek) adı belli eserlerde henüz başvurulmadı."
+    title:
+      en: Fakihler ne diyor?
+      tr: Fakihler ne diyor?
   - kind: research
     en: "**No research specifically tests the Islamic teaching on mercy,** and studies of compassion have not yet been consulted. This page does not claim scientific support."
+    tr: "**Hiçbir araştırma İslam'ın rahmet öğretisini özel olarak sınamıyor** ve şefkat üzerine çalışmalara henüz başvurulmadı. Bu sayfa bilimsel destek iddia etmiyor."
+    title:
+      en: Araştırmalar ne gösteriyor?
+      tr: Araştırmalar ne gösteriyor?
   - kind: practice
     en: |-
       **Iḥsān in ordinary work.** Do the task as if it will be seen by the One who sees everything: the report no one will check, the repair no one will inspect, the meal for a guest.
@@ -85,35 +124,66 @@ fullAnswer:
       **Mercy to animals.** Feed them, do not overload them, and never cause needless pain (Muslim 1955).
 
       **For parents.** Correct children without harshness: 3:159 says harshness drives people away. Pardon, pray for them, and consult them about what concerns them.
+    tr: |-
+      **Sıradan işlerde ihsân.** İşi, her şeyi gören tarafından görülecekmiş gibi yap: kimsenin kontrol etmeyeceği rapor, kimsenin denetlemeyeceği tamir, bir misafir için hazırlanan yemek.
+
+      **Sana haksızlık edenlere rahmet.** Onlara yeniden güvenmek zorunda değilsin (bkz. "Affetmek ve öfkeyi yenmek"), ama Hz. Peygamber'in (s.a.v.) Tâif'te yaptığı gibi onlar için iyilik umabilirsin.
+
+      **Hayvanlara rahmet.** Onları besle, onlara aşırı yük yükleme ve asla gereksiz acı çektirme (Müslim 1955).
+
+      **Anne babalar için.** Çocukları sertlik olmadan düzelt: 3:159 sertliğin insanları uzaklaştırdığını söyler. Bağışla, onlar için dua et ve onları ilgilendiren konularda onlara danış.
+    title:
+      en: Günlük hayatta
+      tr: Günlük hayatta
   - kind: heart
     en: |-
       **If you feel beyond God's mercy**, 7:156 says it "encompasses all things", and the hadith says God kept ninety-nine parts of it for the Day of Resurrection. Turning back to God, which is what Moses (pbuh) does in the verse ("we have turned back to You"), is the door the verse names.
 
       **If someone who claims to be religious has been harsh with you**, that harshness contradicts the example the Quran praises (3:159).
+    tr: |-
+      **Kendini Allah'ın rahmetinin dışında hissediyorsan**, 7:156 onun "her şeyi kaplamış ve kuşatmış" olduğunu söyler ve hadis Allah'ın onun doksan dokuz parçasını Kıyamet Günü için sakladığını söyler. Allah'a dönmek — Hz. Mûsâ'nın (a.s.) âyette yaptığı şey ("Biz gerçekten de tevbe edip senin hidayetine döndük") — âyetin gösterdiği kapıdır.
+
+      **Dindar olduğunu iddia eden biri sana sert davrandıysa**, bu sertlik Kur'an'ın övdüğü örnekle çelişir (3:159).
+    title:
+      en: Zorlanan kişi için
+      tr: Zorlanan kişi için
 followUps:
   - q:
       en: How does "My mercy encompasses all things" fit with eternal punishment, and with the second half of 7:156?
+      tr: "\"Rahmetim her şeyi kuşatmıştır\" ebedî azapla ve 7:156'nın ikinci yarısıyla nasıl bağdaşır?"
     a:
       en: Ibn Kathir reads the first phrase as mercy reaching everything, and the second as the special, written mercy for those with *taqwa*. Whether mercy will finally reach even those in Hell is a long-debated question, discussed on the page on eternal Hell.
+      tr: İbn Kesîr ilk ifadeyi her şeye ulaşan rahmet, ikincisini ise *takvâ* sahiplerine özel, yazılmış rahmet olarak okur. Rahmetin sonunda cehennemdekilere bile ulaşıp ulaşmayacağı uzun süredir tartışılan bir sorudur ve ebedî cehennem sayfasında ele alınıyor.
   - q:
       en: Was the Prophet (pbuh) merciful to his enemies?
+      tr: Hz. Peygamber (s.a.v.) düşmanlarına merhametli miydi?
     a:
       en: At Ṭāʾif he refused revenge and hoped for their descendants ({hadith:bukhari:3231}); after Uhud he was told to pardon his own fleeing followers (3:159).
+      tr: Tâif'te intikamı reddetti ve onların soyu için umut etti ({hadith:bukhari:3231}); Uhud'dan sonra kendi kaçan takipçilerini bağışlaması söylendi (3:159).
   - q:
       en: What do iḥsān, al-Raḥmān and zakāh mean?
+      tr: İhsân, er-Rahmân ve zekât ne demek?
     a:
       en: "*Iḥsān*: worshipping as if you see God, and doing everything well. *Al-Raḥmān*: the Entirely Merciful. *Zakāh*: the obligatory annual alms."
+      tr: "*İhsân*: Allah'ı görüyormuş gibi ibadet etmek ve her şeyi iyi yapmak. *Er-Rahmân*: tamamen merhametli olan. *Zekât*: farz olan yıllık mali ibadet."
   - q:
       en: How does mercy fit with harsh punishments and war?
+      tr: Rahmet ağır cezalar ve savaşla nasıl bağdaşır?
     a:
       en: The tradition holds that justice and mercy both belong to God, and that law includes punishments; the pages on the Prophet's wars and on justice discuss these. This page does not claim the tension is easy.
+      tr: Gelenek, adaletin de rahmetin de Allah'a ait olduğunu ve hukukun cezaları içerdiğini kabul eder; Hz. Peygamber'in savaşları ve adalet üzerine sayfalar bunları ele alıyor. Bu sayfa gerilimin kolay olduğunu iddia etmiyor.
   - q:
       en: What is the full Hadith Jibril definition of iḥsān?
+      tr: Cibrîl Hadisi'ndeki ihsân tanımının tamamı nedir?
     a:
       en: '"That you worship Allah as if you are seeing him, and even though you do not see Him, [you know] He sees you."'
+      tr: "\"Allah'a, O'nu görüyormuş gibi ibadet etmendir; sen O'nu görmesen de [bilirsin ki] O seni görür.\""
   - q:
       en: How do jurists apply Muslim 1955 in slaughter?
+      tr: Fakihler Müslim 1955'i kesimde nasıl uygular?
     a:
       en: It is the basis for requiring a sharp knife and avoiding needless suffering; school-by-school detail has not yet been checked.
+      tr: Keskin bir bıçak gerektirmenin ve gereksiz acıdan kaçınmanın dayanağıdır; mezhep mezhep ayrıntılar henüz kontrol edilmedi.
 legacySources:
   - *a1
+translatedFrom: docs/research/tr/M2.md

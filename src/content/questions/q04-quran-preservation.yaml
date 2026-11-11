@@ -14,16 +14,13 @@ helpCard: false
 verses:
   - 15:9
 steelman:
-  tr: |
-    Eski metinler değişir. Kur'an Muhammed'in vefatından sonra toplandı, Osman tarafından standartlaştırıldı ve rakip nüshalar yakıldı.
+  tr: "\"Müslümanlar Kur'an'ın tek bir harfinin bile değişmediğini söylüyor. Ama erken dönem kaynakların kendisi, halife Osman'ın diğer nüshaları yaktırdığını, sahâbî İbn Mes'ûd'un ilk ve son iki sûreyi içermeyen bir nüshası olduğunu, recmle ilgili bir âyetin bir zamanlar okunduğunu ve kitapta olmadığını ve bugün hâlâ okunan farklı 'kıraatler' bulunduğunu söylüyor. En eski el yazmaları farklılıklar gösteriyor. Bu nasıl 'korunmuş' oluyor?\""
   en: "\"Muslims say not a letter of the Quran has changed. But the early sources themselves say that the caliph ʿUthman had the other copies burned, that the Companion Ibn Masʿud had a copy without the first and last two suras, that a verse on stoning was once recited and is not in the book, and that there are different 'readings' still recited today. The oldest manuscripts show variants. How is that 'preserved'?\""
 whyAsked:
-  tr: |
-    İnternetteki polemikler ve Kur'an ile hadisin güvenilirliğini birbirine karıştıran Türk Kur'ancı tartışmaları.
+  tr: Hristiyan ve ateist eleştirmenler bunu gündeme getirir; Müslümanlar "tek bir harf bile değişmedi" şeklindeki güçlü iddiayı duyar ve sonra erken dönem tarihini keşfeder.
   en: Christian and atheist critics raise it; Muslims hear the strong claim "not a letter changed" and then discover the early history.
 shortAnswer:
-  tr: |
-    Aktarım başından itibaren hem sözlü hem yazılıydı. Birmingham yapraklarının parşömeni, %95,4 olasılıkla MS 568–645 arasına, yani Hz. Peygamber'in hayatına yakın bir döneme radyokarbonla tarihlendi. İlmî çalışmalar, belgelenmiş kıraat farklarıyla birlikte istikrarlı bir ünsüz metin bulur. "Hiçbir yazmada tek bir harf bile farklı değildir" demek abartıdır.
+  tr: "Kur'an'ın metni çok erken sabitlendi: Radyokarbon yöntemiyle Hz. Peygamber'in (s.a.v.) vefatından sonraki birkaç on yıl içine tarihlenen el yazmaları standart metinle yakından örtüşür ve geleneğin kendisi, metnin Hz. Ebû Bekir döneminde nasıl toplandığını ve Hz. Osman döneminde nasıl standart hâle getirildiğini açıkça kaydeder. Klasik Müslüman anlamında korunmuşluk, başka hiçbir lafzın hiç var olmadığı anlamına gelmez. Gelenek erken dönemdeki farklı nüshaları (İbn Mes'ûd'unki gibi), artık okunmadığı bildirilen âyetleri ve aynı ünsüz metnin birkaç kabul görmüş okunuş biçimini (*kırâat*) kaydeder. Osman nüshası çizgisinin dışından erken bir tanık olan San'â palimpsestinin alt metni, lafızda ve sûre sıralamasında farklılıklar içerir; *Wikipedia*, kaynak göstermeden, bunların \"temel anlamdan nadiren saptığı\" kanaatindedir. Yani \"Osman'dan beri tek bir harf bile değişmedi\" sözü delillere yakındır; \"hiçbir zaman farklılık olmadı\" sözü değildir."
   en: "The Quran's text was fixed very early: manuscripts radiocarbon-dated to within a few decades of the Prophet's (pbuh) death match the standard text closely, and the tradition itself records, openly, how it was collected under Abu Bakr and standardised under ʿUthman. Preservation in the classical Muslim sense does not mean that no other wording ever existed. The tradition records early variant copies (such as Ibn Masʿud's), verses reported as no longer recited, and several accepted ways of reading the same consonantal text (*qirāʾāt*). An early witness from outside the ʿUthmanic line, the lower text of the Sanaa palimpsest, has variants in wording and sura order; *Wikipedia* judges, without a citation, that they \"rarely diverge from the fundamental meaning\". So \"not a letter has changed since ʿUthman\" is close to the evidence; \"there were never any variants\" is not."
 layers:
   - kind: religious
@@ -53,8 +50,7 @@ layers:
       Üç soruyu (korunma, kimin sözü olduğu, yorum) birbirinden ayırmak kaygıyı azaltır.
     en: Separating three questions (preservation, authorship, interpretation) lowers anxiety.
 honestLimits:
-  tr: |
-    İbn Mes'ûd'unki gibi erken mushaflar küçük farklılıklar gösterir.
+  tr: "\"Tek bir harf bile değişmedi\" sözü el yazmaları boyunca Osman metni için doğrudur; her erken nüsha için doğru değildir. San'â ve İbn Mes'ûd delilleri, *Wikipedia*'nın Sadeghi, Bergmann, Goudarzi ve Harvey özetleri aracılığıyla okundu. Hafıza ve sözlü aktarım üzerine araştırmalara ve İbn Mes'ûd'un eksik sûrelerine ilişkin klasik açıklamalara henüz başvurulmadı."
   en: "\"Not a letter has changed\" is true of the ʿUthmanic text across the manuscripts; it is not true of every early copy. The Sanaa and Ibn Masʿud evidence was read through *Wikipedia*'s summaries of Sadeghi, Bergmann, Goudarzi and Harvey. Research on memory and oral transmission, and the classical explanations of Ibn Masʿud's omissions, have not yet been consulted."
 visualizations:
   - id: ideas
@@ -70,7 +66,7 @@ sources:
   - label: Saheeh International via the site's Tanzil data — 15:9.
   - label: Sahih al-Bukhari 4986 (sunnah.com), https://sunnah.com/bukhari:4986 — Abu Bakr's collection.
     url: https://sunnah.com/bukhari:4986
-  - label: Sahih al-Bukhari 4987 (sunnah.com, as read for run 2) — ʿUthman's standardisation.
+  - label: Sahih al-Bukhari 4987 (sunnah.com) — ʿUthman's standardisation.
   - label: Sahih al-Bukhari 6829 (sunnah.com), https://sunnah.com/bukhari:6829 — the verse of stoning.
     url: https://sunnah.com/bukhari:6829
   - label: '"Birmingham Quran manuscript", *Wikipedia*, https://en.wikipedia.org/wiki/Birmingham_Quran_manuscript.'
@@ -81,7 +77,7 @@ sources:
     url: https://en.wikipedia.org/wiki/Codex_of_Ibn_Mas%27ud
   - label: "\"Versions Of The Qur'an?\", Islamic Awareness (updated 15 January 2002), https://islamic-awareness.org/quran/text/qiraat/hafs — summarising Adrian Brockett, \"The Value of Hafs and Warsh Transmissions for the Textual History of the Qur'an\", in A. Rippin (ed.), *Approaches to the History of the Interpretation of the Qur'an* (Oxford, 1988), pp. 33–45."
     url: https://islamic-awareness.org/quran/text/qiraat/hafs
-  - label: "\"Qur'an fragment Tübingen University Library Ma VI 165\", *Medieval.eu* (11 November 2014) (as read for run 2)."
+  - label: "\"Qur'an fragment Tübingen University Library Ma VI 165\", *Medieval.eu* (11 November 2014) ()."
   - &a1
     label:
       tr: Birmingham Üniversitesi, Cadbury Araştırma Kütüphanesi
@@ -102,6 +98,10 @@ sources:
 fullAnswer:
   - kind: quran
     en: "**\"We will be its guardian\" (15:9).** \"Indeed, it is We who sent down the Qur'an and indeed, We will be its guardian\" (15:9), from the Meccan Sura al-Hijr, answering those who mocked the Prophet (pbuh) (15:6). The promise is God's; how it was fulfilled through human transmission is a historical question."
+    tr: "**\"Onu yine biz koruyacağız\" (15:9).** \"Hiç şüphe yok ki, Kur'ân'ı biz indirdik, elbette onu yine biz koruyacağız.\" (15:9), Mekkî Hicr Sûresi'nden; Hz. Peygamber (s.a.v.) ile alay edenlere cevap verir (15:6). Vaat Allah'ındır; bunun insan aktarımı yoluyla nasıl gerçekleştiği tarihî bir sorudur."
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: history
     en: |-
       **Under Abu Bakr.** After the battle of Yamama, ʿUmar told Abu Bakr that "Casualties were heavy among the Qurra' of the Qur'an" — the memorisers — and feared more would die. Abu Bakr charged Zayd ibn Thabit (ra), the Prophet's (pbuh) scribe, to "search for (the fragmentary scripts of) the Qur'an and collect it in one book." Zayd says: "I started looking for the Qur'an and collecting it from (what was written on) palme stalks, thin white stones and also from the men who knew it by heart." He found the last verses of Sura al-Tawba only with Abu Khuzayma al-Ansari. The sheets stayed with Abu Bakr, then ʿUmar, then ʿUmar's daughter Hafsa (ra) ({hadith:bukhari:4986}).
@@ -109,15 +109,37 @@ fullAnswer:
       **Under ʿUthman.** Hudhayfa urged ʿUthman to "Save this nation before they differ about the Book"; ʿUthman had copies made from Hafsa's sheets, told the copyists that where they differed they should "write it in the dialect of Quraish", sent copies to the provinces, and ordered other Quranic materials "burnt" ({hadith:bukhari:4987}).
 
       **Why the burning?** The report gives no explicit reason for the burning itself; ʿUthman acted after Hudhayfa's warning that people would "differ about the Book". The burned materials were other written copies. Their full contents are unknown, because most were destroyed; the reports about Ibn Masʿud's copy (below) and the Sanaa lower text give partial glimpses.
+    tr: |-
+      **Hz. Ebû Bekir döneminde.** Yemâme savaşından sonra Hz. Ömer, Hz. Ebû Bekir'e "Kur'an kurrâları arasında kayıpların ağır olduğunu" — yani hafızların — söyledi ve daha fazlasının öleceğinden korktu. Hz. Ebû Bekir, Hz. Peygamber'in (s.a.v.) kâtibi Zeyd b. Sâbit'i (r.a.), "Kur'an'ı (dağınık yazılı parçalarını) arayıp tek bir kitapta toplamakla" görevlendirdi. Zeyd şöyle der: "Kur'an'ı aramaya ve onu hurma dallarından, ince beyaz taşlardan ve onu ezbere bilen adamlardan toplamaya başladım." Tevbe Sûresi'nin son âyetlerini yalnızca Ebû Huzeyme el-Ensârî'de buldu. Sayfalar Hz. Ebû Bekir'de, sonra Hz. Ömer'de, sonra Hz. Ömer'in kızı Hz. Hafsa'da (r.a.) kaldı ({hadith:bukhari:4986}).
+
+      **Hz. Osman döneminde.** Huzeyfe, Hz. Osman'a "Bu ümmeti Kitap hakkında ihtilafa düşmeden önce kurtar" diye ısrar etti; Hz. Osman, Hz. Hafsa'nın sayfalarından nüshalar yaptırdı, kâtiplere ayrıldıkları yerde "onu Kureyş lehçesiyle yazmalarını" söyledi, nüshaları vilayetlere gönderdi ve diğer Kur'an malzemelerinin "yakılmasını" emretti ({hadith:bukhari:4987}).
+
+      **Neden yakıldı?** Rivayet yakmanın kendisi için açık bir sebep vermez; Hz. Osman, Huzeyfe'nin insanların "Kitap hakkında ihtilafa düşeceği" uyarısından sonra harekete geçti. Yakılan malzemeler başka yazılı nüshalardı. Tam içerikleri bilinmiyor, çünkü çoğu yok edildi; İbn Mes'ûd'un nüshasıyla ilgili haberler (aşağıda) ve San'â alt metni kısmi ipuçları verir.
+    title:
+      en: Metin nasıl toplandı?
+      tr: Metin nasıl toplandı?
   - kind: history
     en: |-
-      **The Birmingham leaves.** Two leaves in the University of Birmingham, in Hijazi script (the early Arabic script of Mecca and Medina, with no short-vowel marks and some consonants marked with "oblique dashes"), containing parts of suras 18–20, were radiocarbon-dated at Oxford to "1465±21 years BP (before 1950), which corresponds with 95.4% confidence to the calendar years CE 568–645 when calibrated" (*Wikipedia*). *BP* means "before present", where "present" is fixed at 1950. The range begins before the Quran's revelation began — which shows the limits of the method: radiocarbon dates the death of the animal whose skin became the parchment, not the writing. David Thomas notes the text "could have been written as late as 650–655"; François Déroche has "expressed reservations about the reliability of the radiocarbon dates" (*Wikipedia*).
+      **The Birmingham leaves.** The University of Oxford's Radiocarbon Accelerator Unit dated the parchment to 1456 ± 21 years before 1950, which corresponds, with 95.4% probability, to the years 568–645 CE (University of Birmingham, Cadbury Research Library). The date is the parchment's, not the writing's. *BP* means "before present", where "present" is fixed at 1950. The range begins before the Quran's revelation began — which shows the limits of the method: radiocarbon dates the death of the animal whose skin became the parchment, not the writing. David Thomas notes the text "could have been written as late as 650–655"; François Déroche has "expressed reservations about the reliability of the radiocarbon dates" (*Wikipedia*).
 
       **Tübingen.** A fragment in Tübingen University Library (Ma VI 165) was dated to AD 649–675 with 95.4% probability (*Medieval.eu*).
 
-      **The Sanaa palimpsest.** A *palimpsest* is a manuscript whose first text was scraped off and written over. In the Sanaa manuscript, both layers are Quran. *Wikipedia* gives the parchment's radiocarbon range as 578–669 CE, citing Sadeghi & Bergmann (2010, p. 348); its sentence "95% accuracy to before 669 CE, and 75% probability from before 646 CE" has no citation. The lower text "contains many variations from the standard text", and its sura order "corresponds to no known Quranic order". Two examples: at 2:196, where the standard text has *fa-man kāna minkum* ("whoever among you"), the lower text has *fa-in kāna aḥadun minkum* ("if one of you"); at 9:125, where the standard text has "in their hearts is *disease*" (*maraḍ*), the lower text has "in their hearts is *filth*" (*rijs*). *Wikipedia*'s own judgement, without a citation, is that the variants "rarely diverge from the fundamental meaning". It also cites Éléonore Cellard as finding "numerous similarities" with the sura orders reported for Ibn Masʿud and Ubayy. Sadeghi and Goudarzi find some overlap with Ibn Masʿud's reported variants but "the differences much outnumbering the correspondences"; Asma Hilali argues both layers may be "school exercises", a view Nicolai Sinai has criticised.
+      **The Sanaa palimpsest.** A *palimpsest* is a manuscript whose first text was scraped off and written over. In the Sanaa manuscript, both layers are Quran. Sadeghi and Bergmann found "a 95% probability that the parchment was produced… between 578 and 669 CE", and a 91.8% probability that it is older than 655.5 CE (as summarised by Nicolai Sinai, *BSOAS*, 2014). The lower text "contains many variations from the standard text", and its sura order "corresponds to no known Quranic order". Two examples: at 2:196, where the standard text has *fa-man kāna minkum* ("whoever among you"), the lower text has *fa-in kāna aḥadun minkum* ("if one of you"); at 9:125, where the standard text has "in their hearts is *disease*" (*maraḍ*), the lower text has "in their hearts is *filth*" (*rijs*). *Wikipedia*'s own judgement, without a citation, is that the variants "rarely diverge from the fundamental meaning". It also cites Éléonore Cellard as finding "numerous similarities" with the sura orders reported for Ibn Masʿud and Ubayy. Sadeghi and Goudarzi find some overlap with Ibn Masʿud's reported variants but "the differences much outnumbering the correspondences"; Asma Hilali argues both layers may be "school exercises", a view Nicolai Sinai has criticised.
+    tr: |-
+      **Birmingham yaprakları.** Birmingham Üniversitesi'ndeki, Hicâzî yazıyla (Mekke ve Medine'nin, kısa ünlü işaretleri bulunmayan ve bazı ünsüzleri "eğik çizgilerle" işaretlenmiş erken Arap yazısı) yazılmış ve 18–20. sûrelerin bazı kısımlarını içeren iki yaprak, Oxford'da radyokarbon yöntemiyle "1465±21 yıl BP (1950'den önce)" olarak tarihlendi; bu da "kalibre edildiğinde %95,4 güvenle MS 568–645 takvim yıllarına karşılık gelir" (*Wikipedia*). *BP*, "şimdiden önce" demektir; "şimdi" 1950 olarak sabitlenmiştir. Aralık, Kur'an'ın inişi başlamadan önce başlar — bu da yöntemin sınırlarını gösterir: Radyokarbon, yazıyı değil, derisi parşömen yapılan hayvanın ölümünü tarihler. David Thomas, metnin "650–655 kadar geç bir tarihte yazılmış olabileceğini" not eder; François Déroche "radyokarbon tarihlerinin güvenilirliği konusunda çekincelerini ifade etmiştir" (*Wikipedia*).
+
+      **Tübingen.** Tübingen Üniversitesi Kütüphanesi'ndeki bir parça (Ma VI 165), %95,4 olasılıkla MS 649–675'e tarihlendi (*Medieval.eu*).
+
+      **San'â palimpsesti.** Bir *palimpsest*, ilk metni kazınıp üzerine yeniden yazılmış bir el yazmasıdır. San'â el yazmasında her iki katman da Kur'an'dır. *Wikipedia*, Sadeghi ve Bergmann'a (2010, s. 348) atıfla parşömenin radyokarbon aralığını MS 578–669 olarak verir; "%95 doğrulukla 669'dan önce ve %75 olasılıkla 646'dan önce" cümlesi ise kaynaksızdır. Alt metin "standart metinden pek çok farklılık içerir" ve sûre sıralaması "bilinen hiçbir Kur'an sıralamasına karşılık gelmez". İki örnek: Standart metnin *fe-men kâne minküm* ("sizden kim") dediği 2:196'da alt metin *fe-in kâne ehadün minküm* ("sizden biri ... ise") der; standart metnin "kalplerinde *hastalık* (*maraz*) vardır" dediği 9:125'te alt metin "kalplerinde *pislik* (*rics*) vardır" der. *Wikipedia*'nın kendi kaynaksız kanaati, farklılıkların "temel anlamdan nadiren saptığı"dır. Ayrıca Éléonore Cellard'ın, İbn Mes'ûd'a ve Übey'e atfedilen sûre sıralamalarıyla "çok sayıda benzerlik" bulduğunu zikreder. Sadeghi ve Goudarzi, İbn Mes'ûd'a atfedilen farklılıklarla bir miktar örtüşme bulur, ama "farklılıklar örtüşmelerden çok daha fazladır"; Asma Hilali her iki katmanın da "okul alıştırmaları" olabileceğini savunur; Nicolai Sinai bu görüşü eleştirmiştir.
+    title:
+      en: El yazmaları ne gösteriyor?
+      tr: El yazmaları ne gösteriyor?
   - kind: history
     en: '**What is reported.** Reports say his copy "excludes the first chapter, as well as the two chapters known as Al-Muʿawwidhatayn" — suras 1, 113 and 114 (*Wikipedia*, citing Sadeghi & Bergmann 2010 and Harvey 2017). But "historical accounts are inconsistent regarding the details", the variant "has not been definitively found in any existing early Quranic manuscript", and his reading had supporters in Kufa "as late as the 9th century". Classical explanations of the omission have not yet been consulted.'
+    tr: "**Ne aktarılıyor?** Haberler onun nüshasının \"ilk sûreyi ve Muavvizeteyn olarak bilinen iki sûreyi\" — 1, 113 ve 114. sûreleri — \"içermediğini\" söyler (*Wikipedia*, Sadeghi ve Bergmann 2010 ile Harvey 2017'ye atıfla). Ama \"tarihî kayıtlar ayrıntılar konusunda tutarsızdır\", farklılık \"mevcut hiçbir erken Kur'an el yazmasında kesin olarak bulunmamıştır\" ve onun kıraatinin Kûfe'de \"9. yüzyıl kadar geç bir tarihte\" taraftarları vardı. Bu eksikliğin klasik açıklamalarına henüz başvurulmadı."
+    title:
+      en: İbn Mes'ûd'un mushafı
+      tr: İbn Mes'ûd'un mushafı
   - kind: history
     en: |-
       **The consonantal text.** Early Arabic script wrote consonants without vowels and often without the dots that distinguish letters. This written skeleton is the *rasm*; the ʿUthmanic copies fixed it.
@@ -125,10 +147,27 @@ fullAnswer:
       **Readings.** A *qirāʾa* is an accepted way of reciting that skeleton, with particular vowels and pronunciation, traced back through chains of teachers. *Ḥafṣ* and *Warsh* are two transmissions of two of these readings. Brockett, comparing them closely, concluded that "the limits of their variation clearly establish that they are a single text" (Islamic Awareness, quoting Brockett, 1988). Islamic Awareness's own example of an acceptable difference is dot placement: *taʿlamūn* ("you know") against *yaʿlamūn* ("they know").
 
       **Modes.** The *aḥruf* ("seven modes") of a well-known hadith are, in one common explanation, the dialectal forms in which the Quran was first allowed to be recited, reduced to the dialect of Quraysh under ʿUthman (Islamic Awareness). Scholars differ on what the seven *aḥruf* were; that debate was not covered here.
+    tr: |-
+      **Ünsüz metin.** Erken Arap yazısı ünsüzleri ünlüler olmadan ve çoğu zaman harfleri birbirinden ayıran noktalar olmadan yazardı. Bu yazılı iskelet *resm*dir; Osman nüshaları onu sabitledi.
+
+      **Kıraatler.** Bir *kırâat*, o iskeleti belirli harekeler ve telaffuzla okumanın, hocalar zinciri yoluyla geriye doğru izlenen kabul görmüş bir yoludur. *Hafs* ve *Verş*, bu kıraatlerden ikisinin iki rivayetidir. Brockett, onları yakından karşılaştırarak, "farklılıklarının sınırlarının onların tek bir metin olduğunu açıkça ortaya koyduğu" sonucuna vardı (Islamic Awareness, Brockett 1988'den alıntıyla). Islamic Awareness'ın kabul edilebilir bir farka kendi örneği nokta yerleşimidir: *ta'lemûn* ("bilirsiniz") ile *ya'lemûn* ("bilirler").
+
+      **Harfler.** Bilinen bir hadisteki *ahruf* ("yedi harf"), yaygın bir açıklamaya göre, Kur'an'ın ilk başta okunmasına izin verilen lehçe biçimleridir; Hz. Osman döneminde Kureyş lehçesine indirildi (Islamic Awareness). Âlimler yedi *ahruf*un ne olduğu konusunda ayrılır; bu tartışma burada ele alınmadı.
+    title:
+      en: Kıraatler ve harfler (*ahruf*)
+      tr: Kıraatler ve harfler (*ahruf*)
   - kind: history
     en: "**The verse of stoning.** Ibn ʿAbbas (ra) reports ʿUmar (ra) saying: \"I am afraid that after a long time has passed, people may say, 'We do not find the Verses of the Rajam (stoning to death) in the Holy Book'\", and so leave \"an obligation that Allah has revealed\" ({hadith:bukhari:6829}). The tradition has a category for this: *naskh al-tilāwa dūna al-ḥukm*, a verse whose wording was abrogated (no longer part of the recited Quran) while its ruling remained. Which classical scholars applied it to this report, and how, has not yet been consulted in a named source. Critics see it as evidence that the text lost material. Both sides read the same report."
+    tr: "**Recm âyeti.** İbn Abbâs (r.a.), Hz. Ömer'in (r.a.) şöyle dediğini aktarır: \"Uzun bir zaman geçtikten sonra insanların, 'Kutsal Kitap'ta Recm (taşlanarak öldürülme) âyetlerini bulamıyoruz' demesinden\" ve böylece \"Allah'ın indirdiği bir farzı\" terk etmesinden \"korkuyorum\" ({hadith:bukhari:6829}). Geleneğin bunun için bir kategorisi vardır: *neshü't-tilâve dûne'l-hükm*, lafzı neshedilmiş (artık okunan Kur'an'ın parçası olmayan) ama hükmü kalmış âyet. Hangi klasik âlimlerin bunu bu habere uyguladığına ve nasıl uyguladığına henüz adı belli bir kaynakta başvurulmadı. Eleştirmenler bunu metnin malzeme kaybettiğinin delili olarak görür. İki taraf da aynı haberi okur."
+    title:
+      en: Artık okunmayan âyetler
+      tr: Artık okunmayan âyetler
   - kind: reasoning
     en: "**Memory and writing together.** Zayd's method used both written fragments and \"the men who knew it by heart\" ({hadith:bukhari:4986}). Recitation in prayer, every day, by many people, meant that a change in one copy would be noticed by others."
+    tr: "**Hafıza ve yazı birlikte.** Zeyd'in yöntemi hem yazılı parçaları hem de \"onu ezbere bilen adamları\" kullandı ({hadith:bukhari:4986}). Pek çok insanın her gün namazda okuması, bir nüshadaki değişikliğin başkaları tarafından fark edileceği anlamına geliyordu."
+    title:
+      en: Sözlü aktarım nasıl işledi?
+      tr: Sözlü aktarım nasıl işledi?
   - kind: objection
     en: |-
       **"ʿUthman burned the evidence."** *Reply:* the tradition records the burning openly, after Hudhayfa's warning ({hadith:bukhari:4987}); the copies sent out were made from Hafsa's sheets, collected under Abu Bakr; and an early witness that escaped (Sanaa) differs mainly in order and wording, not in content. *Limit:* we cannot compare the burned copies, so "nothing was lost" cannot be proved.
@@ -136,39 +175,68 @@ fullAnswer:
       **"The variant readings show the text was fluid."** *Reply:* the readings vary within the fixed consonantal skeleton, and Brockett found Hafs and Warsh to be "a single text". *Limit:* the pre-ʿUthmanic variants (Sanaa, Ibn Masʿud) are real differences in wording.
 
       **"Verses were lost."** *Reply:* the classical category of abrogated recitation explains the stoning report within the tradition. *Limit:* to someone outside the tradition, that explanation can look like a way of covering a gap.
+    tr: |-
+      **"Osman delilleri yaktı."** *Cevap:* Gelenek yakmayı, Huzeyfe'nin uyarısından sonra, açıkça kaydeder ({hadith:bukhari:4987}); gönderilen nüshalar Hz. Ebû Bekir döneminde toplanmış Hz. Hafsa'nın sayfalarından yapıldı; ve yakılmaktan kurtulan erken bir tanık (San'â) içerikte değil, esas olarak sıralamada ve lafızda farklılık gösterir. *Sınır:* Yakılan nüshaları karşılaştıramayız, dolayısıyla "hiçbir şey kaybolmadı" ispat edilemez.
+
+      **"Farklı kıraatler metnin akışkan olduğunu gösteriyor."** *Cevap:* Kıraatler sabit ünsüz iskelet içinde farklılık gösterir ve Brockett Hafs ile Verş'i "tek bir metin" olarak buldu. *Sınır:* Osman öncesi farklılıklar (San'â, İbn Mes'ûd) lafızda gerçek farklılıklardır.
+
+      **"Âyetler kayboldu."** *Cevap:* Tilâveti neshedilmiş âyet şeklindeki klasik kategori recm haberini gelenek içinde açıklar. *Sınır:* Geleneğin dışındaki biri için bu açıklama bir boşluğu örtmenin yolu gibi görünebilir.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Classical Muslim view** — the Quran was preserved by God through memory and writing; the ʿUthmanic text is the revealed text; readings are revealed variants; some recitation was abrogated by God.
       - **Sadeghi and others** — the standard text goes back to the Prophet's (pbuh) time or very near it; the Sanaa lower text is an independent early tradition.
       - **More sceptical historians** — the text was fixed later or with more change; Joseph Lumbard (*Huffington Post*, as cited by *Wikipedia*) argues that the Birmingham dates weaken this view; *Wikipedia* also reports opposing views.
+    tr: |-
+      - **Klasik Müslüman görüşü** — Kur'an Allah tarafından hafıza ve yazı yoluyla korundu; Osman metni indirilen metindir; kıraatler indirilmiş farklılıklardır; bazı tilâvetler Allah tarafından neshedildi.
+      - **Sadeghi ve diğerleri** — standart metin Hz. Peygamber'in (s.a.v.) zamanına ya da ona çok yakın bir zamana gider; San'â alt metni bağımsız erken bir gelenektir.
+      - **Daha şüpheci tarihçiler** — metin daha geç ya da daha fazla değişiklikle sabitlendi; Joseph Lumbard (*Huffington Post*, *Wikipedia*'nın aktardığına göre) Birmingham tarihlerinin bu görüşü zayıflattığını savunur; *Wikipedia* karşıt görüşleri de aktarır.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: What did the burned codices contain, and why were they burned?
+      tr: Yakılan mushaflar neyi içeriyordu ve neden yakıldılar?
     a:
       en: Other written copies; their full contents are unknown. ʿUthman ordered them burned after Hudhayfa warned that people would "differ about the Book" ({hadith:bukhari:4987}).
+      tr: Başka yazılı nüshaları; tam içerikleri bilinmiyor. Hz. Osman, Huzeyfe insanların "Kitap hakkında ihtilafa düşeceği" uyarısında bulunduktan sonra onların yakılmasını emretti ({hadith:bukhari:4987}).
   - q:
       en: What does a variant reading look like?
+      tr: Farklı bir okuyuş neye benzer?
     a:
       en: In the Sanaa lower text at 9:125, "filth" (*rijs*) instead of "disease" (*maraḍ*). Between Hafs and Warsh, differences such as "you know" / "they know".
+      tr: San'â alt metninde 9:125'te "hastalık" (*maraz*) yerine "pislik" (*rics*). Hafs ile Verş arasında "bilirsiniz" / "bilirler" gibi farklar.
   - q:
       en: What does the Sanaa palimpsest show?
+      tr: San'â palimpsesti neyi gösteriyor?
     a:
       en: An early Quran text on parchment radiocarbon-dated to 578–669 CE (Sadeghi & Bergmann, via *Wikipedia*) — the date is the parchment's, not the writing's — with variants in wording and sura order.
+      tr: Radyokarbon yöntemiyle MS 578–669'a tarihlenen (Sadeghi ve Bergmann, *Wikipedia* yoluyla) parşömen üzerinde erken bir Kur'an metni — tarih yazının değil, parşömenindir — lafızda ve sûre sıralamasında farklılıklarla.
   - q:
       en: What is a consonantal text, and what are *qirāʾāt*?
+      tr: Ünsüz metin nedir ve *kırâat* nedir?
     a:
       en: The written skeleton of consonants; the accepted ways of vowelling and reciting it.
+      tr: Ünsüzlerden oluşan yazılı iskelet; onu harekelemenin ve okumanın kabul görmüş yolları.
   - q:
       en: How did oral transmission work?
+      tr: Sözlü aktarım nasıl işledi?
     a:
       en: Daily recitation by many people, alongside written copies; Zayd used both.
+      tr: Yazılı nüshaların yanında, pek çok insanın her gün okuması; Zeyd ikisini de kullandı.
   - q:
       en: What do BP, OxA-29418 and Hijazi script mean?
+      tr: BP, OxA-29418 ve Hicâzî yazı ne demek?
     a:
       en: 'BP: years "before present", i.e. before 1950. Hijazi: the early script of western Arabia.'
+      tr: "BP: \"şimdiden önce\", yani 1950'den önceki yıllar. Hicâzî: Batı Arabistan'ın erken yazısı."
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
   - *a5
+translatedFrom: docs/research/tr/Q4.md

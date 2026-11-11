@@ -62,3 +62,4 @@ A bilingual (Turkish / English) website that invites reflection (*tefekkür*): t
 - Suggested keyboard shortcuts, even though I paint on a tablet.
 - Wrote my preferences for me without asking. Anything that speaks for me must come from my own answers.
 - Made the installed app always open in Turkish, ignoring the device's language and the reader's own choice. Defaults that affect every user (language, start page) need the same thought as anything else.
+- Applied hundreds of research corrections with a loose automatic matcher that also deleted sentences it should not have touched (some "Limit:" lines among them). Caught before pushing by comparing every removed sentence with the original; redone strictly. Automated edits to content must be followed by a check of exactly what they removed.

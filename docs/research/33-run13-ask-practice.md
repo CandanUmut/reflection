@@ -35,7 +35,7 @@ Islam agrees that the heart comes first: faith is, at its root, what the heart a
 **The minimum, from a man who asked for it.** A man from Najd asked the Prophet (pbuh) what Islam required. He was told: "You have to offer prayers perfectly five times in a day and night (24 hours)", "You have to observe fasts during the month of Ramadan", and "You have to pay the Zakat (obligatory charity)". After each duty he asked whether there was more; each time the answer was no, unless he wished to do more voluntarily — for prayer, "No, but if you want to offer the Nawafil prayers (you can)"; for zakat, "No, unless you want to give alms of your own". He vowed to do exactly that, no more and no less, and the Prophet (pbuh) said: "If what he said is true, then he will be successful (i.e. he will be granted Paradise)" ({hadith:bukhari:46}, narrated by Talha ibn ʿUbaydullah (ra)). Islam's required core is small.
 
 #### scholars — Are deeds part of faith? The classical debate
-**Why it mattered.** In the first Islamic century, the Kharijites held that a person who commits a grave sin leaves Islam (*Wikipedia*, "Murji'ah"). Others, the Murjiʾa, "prioritized the importance of one's professed faith over the acts, deeds, or rituals they performed", holding that deeds do not affect faith (*Wikipedia*). The later schools took positions between these.
+**Why it mattered.** In the first Islamic century, the Kharijites held that a person who commits a grave sin leaves Islam (*Wikipedia*, "Murji'ah"). The Kharijites held "that serious sinners should be ousted from the community"; the Murjiʾa answered that "no one who once professed Islam could be declared kāfir (infidel), mortal sins notwithstanding", and left judgment to God (*Britannica*, "Murjiʾah"). The later schools took positions between these.
 
 **The Hanafi–Maturidi view.** In the creed attributed to Abu Hanifa (*al-Fiqh al-Akbar*), faith is "affirmation by the heart (tasdiq bil-qalb) and attestation by the tongue (iqrar bil-lisan)"; "actions are not part of the definition of iman, though they are obligatory requirements and indicators of its strength"; and "iman does not increase or decrease" (islam.wiki's explanatory chapter). Abu Hanifa "was often associated with the Murji'ah" (*Wikipedia*), but this view still treats deeds as obligatory.
 
@@ -232,7 +232,7 @@ Feeling nothing in prayer is common, has been discussed for a thousand years, an
 
 **What prayer does (29:45).** "Recite, [O Muhammad], what has been revealed to you of the Book and establish prayer. Indeed, prayer prohibits immorality and wrongdoing, and the remembrance of Allah is greater" (29:45), Meccan. Prayer's effect is described in behaviour — it holds a person back from wrong — not in feelings.
 
-**Prayer times.** The Quran names times of prayer in several verses (e.g. 11:114; 17:78; 30:17–18, none quoted from verified data here) but does not state the number five.
+**Prayer times.** The Quran names times of prayer in several verses: "And establish prayer at the two ends of the day and at the approach of the night" (11:114); "Establish prayer at the decline of the sun [from its meridian] until the darkness of the night and [also] the Qur'an of dawn" (17:78); see also 30:17–18. It does not state the number five.
 
 #### sunnah — Where "five" comes from
 **The Miʿrāj.** The *Miʿrāj* is the Prophet's (pbuh) ascension through the heavens, during the Night Journey. In the report of Anas ibn Malik from Abu Dharr (ra), God first enjoined fifty prayers; Moses (pbuh) told the Prophet (pbuh), "Go back to your Lord (and appeal for reduction) for your followers will not be able to bear it"; after several returns the number was reduced, and God said: "These are five prayers and they are all (equal to) fifty (in reward) for My Word does not change" ({hadith:bukhari:349}; graded "Agreed Upon" — in both Bukhari and Muslim — by ʿAbd al-Baqi). The man from Najd was likewise told: "You have to offer prayers perfectly five times in a day and night" ({hadith:bukhari:46}).
@@ -249,6 +249,7 @@ The person who feels dry but keeps praying, and keeps pulling the mind back, is 
 
 **Al-Qushayri on dry phases.** Rabbani reports al-Qushayri's account of *qabḍ* (contraction) and *basṭ* (expansion) as states of the present moment, which are "neither achievements nor failures. They are visitations, and they alternate."
 
+Al-Ghazali sums up the inner life of prayer "in six words": awareness (presence of the heart), understanding, reverence, awe, hope and shame (*Iḥyāʾ*, Book 4, *Asrār al-Ṣalāt*, trans. Zidan).
 
 #### reasoning — The three-prayers argument, and the reply
 **The argument.** Some Quran-centred Muslims argue that the Quran mentions only three prayer times (no named holder or work was read), so three prayers are enough; five, on this view, rests on hadith they do not accept.
@@ -301,7 +302,7 @@ No study was read, so no claim about prayer's measurable effects is made here.
 **What are *qabḍ* and *basṭ*, and who was al-Qushayrī?** Contraction and expansion of the heart, states that come and go; al-Qushayri, author of the Sufi manual *al-Risāla*, described them (as reported by Rabbani).
 
 ### Honest limits
-No technique guarantees feeling. Al-Ghazali's *Asrār al-Ṣalāt*, al-Qushayri's own text, the Quran's prayer-time verses (11:114; 17:78) in verified text, and any study of prayer's physiological effects have not yet been consulted. The practical steps beyond Rabbani's are general teaching, not sourced here.
+No technique guarantees feeling. Al-Qushayri's own text and any study of prayer's physiological effects have not yet been consulted. The practical steps beyond Rabbani's are general teaching, not sourced here.
 
 ---
 
@@ -340,7 +341,7 @@ The Quran agrees that God needs nothing: "O mankind, you are those in need of Al
 **Gratitude (14:7).** "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe'" (14:7), Meccan, in Moses' (pbuh) words to his people. Gratitude increases the one who is grateful.
 
 #### scholars — How the commentators read "to worship Me"
-**Ibn Kathir.** "I, Allah, only created them so that I order them to worship Me, not that I need them." He reports Ibn ʿAbbas: "So that they worship Me, willingly or unwillingly." He also cites a hadith in which God says: "O Son of Adam! Busy yourself in worshipping Me, and I will fill your chest with riches and dissipate your meekness" (recorded by Ahmad, al-Tirmidhi and Ibn Majah; Tirmidhi 2466, Abu Hurayra (ra); al-Tirmidhi: *ḥasan gharīb*; al-Albani: *ṣaḥīḥ*, per hadithunlocked).
+**Ibn Kathir.** "I, Allah, only created them so that I order them to worship Me, not that I need them." He reports Ibn ʿAbbas: "So that they worship Me, willingly or unwillingly." He also cites a hadith in which God says: "O Son of Adam! "O son of Adam! Devote yourself to My worship, I will fill your chest with riches and alleviate your poverty" ({hadith:tirmidhi:2466}; al-Tirmidhi: *ḥasan gharīb*; al-Albani: *ṣaḥīḥ*).
 
 **Al-Jalālayn.** It addresses the obvious objection — that many do not worship — and says "the fact that disbelievers do not worship God does not contradict this statement", comparing it to a pencil sharpened for writing: its purpose is writing, even if it is never used.
 

@@ -15,16 +15,13 @@ verses:
   - 90:12-13
   - 24:33
 steelman:
-  tr: |
-    Kur'an köleliği ve cariyeliği (*mâ meleket eymânüküm*, "ellerinizin sahip olduğu") düzenler, ama ikisini de hiçbir zaman kaldırmaz. Kölelik Avrupa baskısıyla kaldırıldı.
+  tr: "\"Kur'an 'ellerinizin altında bulunanlar'dan söz eder ve erkeklerin sahip oldukları kadınlarla cinsel ilişkiye girmesine izin verir. Köleliği düzenler, ama hiçbir zaman kaldırmaz. Peygamber'in kendisi köle sahibiydi ve bir cariyesi vardı. Müslüman toplumlar on iki yüzyıl boyunca köle tuttu ve köleliğin kaldırılması Avrupa baskısıyla geldi; bazı Müslüman âlimler buna direndi. 2014'te IŞİD Ezidi kadınları köleleştirdi ve klasik metinleri alıntıladı. Adil bir Allah'ın son hukuku buna nasıl izin vermiş olabilir ve birinin bunu geri getirmesini ne engelliyor?\""
   en: "\"The Quran speaks of 'those your right hands possess' and permits men to have sex with women they own. It regulates slavery but never abolishes it. The Prophet himself owned slaves and had a concubine. Muslim societies held slaves for twelve centuries, and abolition came under European pressure, with some Muslim scholars resisting it. In 2014, ISIS enslaved Yazidi women and quoted the classical texts. How can a just God's final law have allowed this, and what stops someone from bringing it back?\""
 whyAsked:
-  tr: |
-    IŞİD 2014'te köleleştirmeyi yeniden canlandırdı ve modern ahlâkî kesinlik bu metinleri sarsıcı kılıyor.
+  tr: IŞİD'in 2014'te Ezidi kadınları köleleştirmesi soruyu acil hâle getirdi. Modern okuyucular köleliği haklı olarak tarihin büyük haksızlıklarından biri olarak görür ve metinleri sarsıcı bulur. Afrika'da, Orta Doğu'da ve başka yerlerde köleleştirilmiş insanların torunları bu soruyu kendi tarihleri hakkında sorar.
   en: ISIS's enslavement of Yazidi women in 2014 made the question urgent. Modern readers rightly see slavery as one of history's great wrongs, and find the texts jarring. Descendants of enslaved people, in Africa, the Middle East and elsewhere, ask it about their own history.
 shortAnswer:
-  tr: |
-    Kur'an köleliği kaldırmadı. Köle azat etmeyi tekrar tekrar bir ibadet ve günahlara keffaret yaptı ve özgürlüğe giden hukukî yollar açtı. Köleliğin kaldırılması çok sonra geldi ve klasik hukuktan doğmadı. Bugün Müslüman âlimlerin ezici çoğunluğu köleliğin yasak olduğunu kabul eder.
+  tr: Kur'an köleliği kaldırmadı. Köle azat etmeyi yüksek bir fazilet ve birkaç günah için zorunlu bir kefaret yaptı, kölelere hürriyetlerini satın alma hakkı tanıdı ve insanların köleleştirilebileceği yolları sınırladı. Klasik hukuk, efendinin cariyesiyle onun rızası olmadan cinsel ilişkiye girmesine izin verdi ve Hz. Peygamber'in (s.a.v.) kendisinin köleleri ve en az bir cariyesi vardı. Müslümanların öncülük ettiği kölelik karşıtlığı geç geldi; on dokuzuncu ve yirminci yüzyıllarda ve büyük ölçüde dış baskıyla. Bugün Müslüman âlimler, âlimlerin icmâı, bağlayıcı antlaşmalar ve Şerîat'ın hürriyet amacı gerekçesiyle köleliğin haram olduğunu ezici çoğunlukla kabul ediyor. Bu modern tutum gerçektir ve geniş çapta paylaşılır, ama klasik tutum değildir ve dürüstlük ikisini de söylemeyi gerektirir.
   en: The Quran did not abolish slavery. It made freeing slaves an act of high virtue and a required atonement for several sins, gave slaves a right to buy their freedom, and limited the ways people could be enslaved. Classical law allowed a master to have sex with his female slave without her consent, and the Prophet (pbuh) himself had slaves and at least one concubine. Muslim-led abolition came late, in the nineteenth and twentieth centuries, largely under outside pressure. Today, Muslim scholars overwhelmingly hold slavery to be forbidden, on the grounds of scholarly consensus, binding treaties, and the Sharia's aim of freedom. That modern position is real and widely shared, but it is not the classical one, and honesty requires saying both.
 layers:
   - kind: religious
@@ -68,8 +65,7 @@ layers:
       Köleleştirilmiş insanların torunları, örneğin Afro-Türkler, bunu kişisel olarak hissedebilir. Dürüstlük onlara saygıdır.
     en: Descendants of enslaved people, such as Afro-Turks, may feel this personally. Honesty respects them.
 honestLimits:
-  tr: |
-    "İslam köleliği kaldırdı" demek yanlıştır. "İslam'daki kölelik yumuşaktı" demek işine geleni seçmektir. Ana akım âlimler IŞİD'i kınadı (Bağdadî'ye Açık Mektup, 2014).
+  tr: "\"İslam köleliği kaldırdı\" sözü yanlıştır. \"İslam'daki kölelik yumuşaktı\" sözü dürüst değildir. Rıza olmadan cinsel ilişkiye klasik iznin tam olarak tatmin edici bir cevabı yoktur ve Müslüman âlimler onu nasıl değerlendirecekleri konusunda ayrılır. Modern yasak gerçektir ve güçlü temellere dayanır, ama modern bir gelişmedir. Brown'ın kitabı yalnızca iki inceleme aracılığıyla okundu; ticaret yollarına ilişkin sayılar belirsizliğini koruyor."
   en: "\"Islam abolished slavery\" is false. \"Islamic slavery was gentle\" is not honest. The classical permission of sex without consent has no fully satisfying answer, and Muslim scholars disagree on how to judge it. The modern prohibition is real and strongly grounded, but it is a modern development. Brown's book was read only through two reviews; numbers for the trades remain uncertain."
 visualizations:
   - id: ideas
@@ -117,6 +113,13 @@ fullAnswer:
       **If you are descended from enslaved people, your history is not a footnote.** Your ancestors were people "honored" by God (17:70), whatever their legal status, and no defence of a legal system should make their suffering smaller. You are right to want the truth told without softening. You may also find meaning in the Quran's insistence that "the most noble of you in the sight of Allah is the most righteous of you" (49:13), and in the many freed slaves the tradition honours, such as Zayd ibn Haritha and Bilal.
 
       **If you are a Muslim and this topic shakes you,** that is a sign of a working conscience. You do not have to defend everything in history to keep your faith.
+    tr: |-
+      **Köleleştirilmiş insanların soyundan geliyorsan, tarihin bir dipnot değildir.** Ataların, hukuki statüleri ne olursa olsun, Allah'ın "şan ve şeref sahibi" kıldığı insanlardı (17:70) ve hiçbir hukuk sisteminin savunması onların acısını küçültmemelidir. Gerçeğin yumuşatılmadan söylenmesini istemekte haklısın. Kur'an'ın "Allah yanında en değerli ve en üstününüz O'ndan en çok korkanınızdır" (49:13) diye ısrar etmesinde ve geleneğin onurlandırdığı, Zeyd b. Hârise ve Bilâl gibi pek çok azatlı kölede de bir anlam bulabilirsin.
+
+      **Müslümansan ve bu konu seni sarsıyorsa,** bu, çalışan bir vicdanın işaretidir. İmanını korumak için tarihteki her şeyi savunmak zorunda değilsin.
+    title:
+      en: Kalp ve akıl için
+      tr: Kalp ve akıl için
   - kind: quran
     en: |-
       **Freeing slaves as virtue and atonement.** "And what can make you know what is [breaking through] the difficult pass? It is the freeing of a slave" (90:12–13), from Sura al-Balad, Meccan. Righteousness includes giving wealth "for freeing slaves" (2:177). Other verses (4:92; 5:89; 58:3; not quoted here) make freeing a slave an atonement for manslaughter, broken oaths and a pre-Islamic form of divorce.
@@ -126,11 +129,29 @@ fullAnswer:
       **Captives.** "So when you meet those who disbelieve [in battle], strike [their] necks until, when you have inflicted slaughter upon them, then secure their bonds, and either [confer] favor afterwards or ransom [them] until the war lays down its burdens" (47:4), Medinan. The verse names release ("favour") or ransom for prisoners of war; it does not mention enslavement. Classical jurists nonetheless allowed the ruler to enslave captives as well (Wikipedia, "Islamic views on slavery", citing classical law).
 
       **Sex with female slaves.** The Quran praises believers "who guard their private parts / Except from their wives or those their right hands possess, for indeed, they will not be blamed - / But whoever seeks beyond that, then those are the transgressors" (23:5–7), Meccan. It forbids "married women except those your right hands possess" (4:24), Medinan — classical scholars read this as allowing a captive woman whose husband remained on the other side. To the Prophet (pbuh) it says: "We have made lawful to you your wives… and those your right hand possesses from what Allah has returned to you [of captives]" (33:50). And: "marry those that please you of [other] women… But if you fear that you will not be just, then [marry only] one or those your right hand possesses" (4:3). These verses permit sexual relations with women one owns. That is what they say, and the page should not soften it.
+    tr: |-
+      **Fazilet ve kefaret olarak köle azat etmek.** "Bildin mi sen, o sarp yokuş nedir? Köle azat etmek," (90:12–13), Beled Sûresi'nden, Mekkî. Erdem, "esirleri kurtarmaya" mal vermeyi de içerir (2:177). Başka âyetler (4:92; 5:89; 58:3; burada alıntılanmadı) köle azat etmeyi hataen öldürme, bozulan yeminler ve İslam öncesi bir boşama biçimi için kefaret yapar.
+
+      **Hürriyeti satın alma hakkı.** "Ellerinizin altında bulunanlardan (köleler ve cariyelerden) mükatebe yapmak isteyenlerle, eğer kendilerinde (hürriyete kavuşmalarında kendileri için) bir iyilik görüyorsanız, hemen mükatebe yapın. Allah'ın size vermiş olduğu malından siz de onlara verin. Dünya hayatının geçici menfaatlerini elde edeceksiniz diye, namuslu kalmak isteyen cariyelerinizi fuhşa zorlamayın." (24:33), Nûr Sûresi'nden, Medenî. Bu, bir kölenin hürriyetinin bedelini ödediği bir sözleşme olan *mükâtebe*dir.
+
+      **Esirler.** "Savaşta inkâr edenlerle karşılaştığınız zaman hemen boyunlarını vurun. Nihayet onlara üstün geldiğiniz zaman bağı sıkı bağlayıp esir alın. Sonra harp ağırlıklarını atıp, savaş bitince de onları ya karşılıksız olarak, ya da fidye ile salıverin." (47:4), Medenî. Âyet savaş esirleri için salıvermeyi ("karşılıksız") ya da fidyeyi sayar; köleleştirmeden söz etmez. Klasik fakihler yine de yöneticinin esirleri köleleştirmesine de izin verdi (Wikipedia, "Islamic views on slavery", klasik hukuka atıfla).
+
+      **Cariyelerle cinsel ilişki.** Kur'an iffetlerini koruyan müminleri över: "Ve onlar ki, iffetlerini korurlar. Ancak eşleri ve ellerinin sahip olduğu (cariyeleri) hariç. (Bunlarla ilişkilerinden dolayı) kınanmış değillerdir. Şu halde, kim bunun ötesine gitmeyi isterse, işte bunlar, haddi aşan kimselerdir" (23:5–7), Mekkî. "Bir de harb esiri olarak sahibi bulunduğunuz cariyeler müstesna, evli kadınlarla evlenmeniz de size haram kılındı" der (4:24), Medenî — klasik âlimler bunu, kocası karşı tarafta kalmış esir bir kadına izin veren bir hüküm olarak okudu. Hz. Peygamber'e (s.a.v.) şöyle der: "Biz bilhassa sana şunları helâl kıldık: Mehirlerini vermiş olduğun eşlerini, Allah'ın sana ganimet olarak ihsan buyurduklarından sahip olduğun cariyeleri…" (33:50). Ve: "…hoşunuza giden diğer kadınlardan… Eğer adaleti gözetmemekten korkarsanız, o zaman bir tane ile veya elinizin altındakiyle (sahip olduğunuz câriye ile) yetinin." (4:3). Bu âyetler, kişinin sahip olduğu kadınlarla cinsel ilişkiye izin verir. Söyledikleri budur ve sayfa bunu yumuşatmamalıdır.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **"Your slaves are your brothers."** Al-Maʿrur reports that he saw Abu Dharr (ra) wearing a cloak like his slave's. Abu Dharr explained that he had insulted a man's mother, and the Prophet (pbuh) told him: "You still have some characteristics of ignorance. Your slaves are your brothers and Allah has put them under your command. So whoever has a brother under his command should feed him of what he eats and dress him of what he wears. Do not ask them (slaves) to do things beyond their capacity (power) and if you do so, then help them" ({hadith:bukhari:30}). The hadith demands equal food and clothing and limits work; it does not abolish ownership.
 
       **The Prophet's household.** According to the sources summarised by *Wikipedia* ("Islamic views on slavery"; "Maria al-Qibtiyya"), the Prophet (pbuh): freed Zayd ibn Haritha and adopted him as a son; married Safiyya bint Huyayy, a captive of Khaybar; had Mariya al-Qibtiyya, sent to him as a gift in 628 by al-Muqawqis, the Christian governor of Alexandria; and freed Mariya's sister Sirin and married her to the poet Hassan ibn Thabit. Mariya bore him a son, Ibrahim, who died in infancy. Ibn Ishaq, Ibn Saʿd and al-Tabari list Mariya among his wives, while Abu ʿUbayda listed her among his concubines; there is a scholarly debate on which she was. Ibn ʿAbbas (ra) is reported as saying, "Her son has set her free" — in classical law, a slave woman who bore her master's child (*umm walad*) could not be sold and became free at his death. A few historians (John Morrow, 2023, as cited by *Wikipedia*) doubt that Mariya existed; that is a minority view and has not yet been checked. The Shafiʿi jurist al-Mawardi (*al-Hawi al-Kabir*) is cited by Sedick as treating her as a lawful concubine.
+    tr: |-
+      **"Köleleriniz kardeşlerinizdir."** Ma'rûr, Ebû Zer'i (r.a.) kölesininkine benzer bir elbise giymiş gördüğünü anlatır. Ebû Zer, bir adamın annesine hakaret ettiğini, Hz. Peygamber'in (s.a.v.) de ona şöyle dediğini açıkladı: "Sende hâlâ cahiliye huylarından bazıları var. Köleleriniz kardeşlerinizdir ve Allah onları sizin emrinize vermiştir. Öyleyse kimin emrinde bir kardeşi varsa, ona yediğinden yedirsin, giydiğinden giydirsin. Onlardan (kölelerden) güçlerinin yetmeyeceği işler istemeyin; eğer isterseniz, onlara yardım edin" ({hadith:bukhari:30}). Hadis eşit yiyecek ve giyecek ister ve işi sınırlar; mülkiyeti kaldırmaz.
+
+      **Hz. Peygamber'in (s.a.v.) hane halkı.** *Wikipedia*'nın özetlediği kaynaklara göre ("Islamic views on slavery"; "Maria al-Qibtiyya") Hz. Peygamber (s.a.v.): Zeyd b. Hârise'yi azat etti ve onu evlat edindi; Hayber esirlerinden Safiyye bint Huyey ile evlendi; İskenderiye'nin Hristiyan valisi Mukavkıs'ın 628'de kendisine hediye olarak gönderdiği Mâriye el-Kıbtiyye'yi yanına aldı; ve Mâriye'nin kız kardeşi Şîrîn'i azat edip şair Hassân b. Sâbit ile evlendirdi. Mâriye ona bir oğul, İbrâhim'i doğurdu; İbrâhim bebekken vefat etti. İbn İshâk, İbn Sa'd ve Taberî Mâriye'yi onun eşleri arasında sayar, Ebû Ubeyde ise onu cariyeleri arasında saymıştır; hangisi olduğu konusunda akademik bir tartışma vardır. İbn Abbâs'ın (r.a.) "Oğlu onu hür kıldı" dediği rivayet edilir — klasik hukukta efendisinden çocuk doğuran bir cariye (*ümmü veled*) satılamaz ve efendisinin ölümüyle hür olurdu. Birkaç tarihçi (John Morrow, 2023, *Wikipedia*'nın aktardığına göre) Mâriye'nin var olduğundan şüphe eder; bu bir azınlık görüşüdür ve henüz kontrol edilmedi. Sedick, Şâfiî fakih Mâverdî'nin (*el-Hâvi'l-Kebîr*) onu helal bir cariye olarak ele aldığını aktarır.
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti ve ne yaptı?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti ve ne yaptı?
   - kind: scholars
     en: |-
       **How people became slaves.** In classical law, enslavement was allowed through "capture in war (on the condition that the prisoner is non-Muslim)"; children of a slave mother (not fathered by her owner) were born slaves; slaves could be bought, and received as tribute. Non-Muslims living under Muslim rule (*dhimmīs*) "could not be enslaved", and "a free person could not sell himself or his children into slavery" (Wikipedia, "Islamic views on slavery", citing classical sources and Sikainga). In practice, many slaves were bought from outside the Muslim world, which the law's restrictions did not stop.
@@ -140,13 +161,33 @@ fullAnswer:
       **Consent in concubinage.** Kecia Ali (2017) concludes that premodern Sunni jurists did not require a master to obtain his slave's consent before sex. She writes that she recalls "no instance in any Maliki, Hanafi, Shafiʿi, or Hanbali text" of the eighth to tenth centuries requiring it, adds that "the mere absence of discussion proves nothing, of course", and argues that the silence is nonetheless telling because the same jurists did discuss consent to marriage. Jurists agreed that an owner could marry off his female slave without her consent; al-Shafiʿi (d. 820) says he may do so "whether she is a virgin or non-virgin" (p. 149). Forced sex within these relationships fell outside the legal category of *zinā*; quoting Hina Azam, Ali writes that "concerns about consent in sex acts were secondary" to the legal status of the act (p. 150). Ali herself states that "meaningful consent is a prerequisite for ethical sexual relationships" (p. 148).
 
       **Scale.** [Moderate; estimates are uncertain.] Rönnbäck summarises current estimates: about 12.5 million people were carried across the Atlantic from the sixteenth to the nineteenth centuries (Transatlantic Slave Trade Database); "around 5 million people" were taken from sub-Saharan Africa through the trans-Saharan, Red Sea and Indian Ocean trades in the same centuries, about two-thirds across the Sahara; and before 1500, numbers "can only be guessed at", with scholars suggesting "a couple of million people in total" for 650–1400. Earlier claims of tens or hundreds of millions "are now generally recognized to have been vastly inflated". The Atlantic trade took mostly men and boys for plantation labour; the Red Sea and Indian Ocean trades took comparatively more young women, as domestic workers or concubines. Enslaved people also came to Muslim lands from Europe, Central Asia and elsewhere; those numbers are not covered here.
+    tr: |-
+      **İnsanlar nasıl köle oluyordu?** Klasik hukukta köleleştirmeye "savaşta esir alma (esirin gayrimüslim olması şartıyla)" yoluyla izin veriliyordu; köle bir annenin (efendisinden olmayan) çocukları köle doğardı; köleler satın alınabilir ve haraç olarak alınabilirdi. Müslüman yönetimi altında yaşayan gayrimüslimler (*zimmîler*) "köleleştirilemezdi" ve "hür bir kişi kendisini ya da çocuklarını köle olarak satamazdı" (Wikipedia, "Islamic views on slavery", klasik kaynaklara ve Sikainga'ya atıfla). Uygulamada pek çok köle Müslüman dünyasının dışından satın alındı ve hukukun kısıtlamaları bunu durdurmadı.
+
+      **Hukuki haklar.** Sahipler "geçim… barınak, yiyecek, giyecek ve tıbbi bakım" sağlamakla yükümlüydü ve köleler mülk miras alamazdı (Wikipedia). Azzuhri'nin özetine göre Brown'ın kitabı köleliği (*rık*) tek bir ahlaki kategori olarak değil, hukuki bir statü olarak ele alır; aksi ispat edilmedikçe her insanın hür olduğu karinesine dikkat çeker ve efendinin bir *mükâtebe* sözleşmesini reddedemeyeceğini söyler (s. 110–111). Efendinin cariyesinden doğan çocuk hürdü ve anne *ümmü veled* olurdu.
+
+      **Cariyelikte rıza.** Kecia Ali (2017), modern öncesi Sünnî fakihlerin efendinin cinsel ilişkiden önce cariyesinin rızasını almasını şart koşmadığı sonucuna varır. Sekizinci ile onuncu yüzyıllar arasında bunu şart koşan "herhangi bir Mâlikî, Hanefî, Şâfiî ya da Hanbelî metinde tek bir örnek" hatırlamadığını yazar, "tartışmanın yokluğu tek başına elbette hiçbir şey ispat etmez" diye ekler ve aynı fakihler evliliğe rızayı tartıştıkları için bu sessizliğin yine de anlamlı olduğunu savunur. Fakihler, sahibin cariyesini onun rızası olmadan evlendirebileceği konusunda hemfikirdi; Şâfiî (ö. 820) bunu "ister bakire ister dul olsun" yapabileceğini söyler (s. 149). Bu ilişkiler içindeki zorla cinsel ilişki, *zina*nın hukuki kategorisinin dışında kalıyordu; Ali, Hina Azam'dan alıntı yaparak "cinsel fiillerde rızayla ilgili kaygıların" fiilin hukuki statüsüne göre "ikincil olduğunu" yazar (s. 150). Ali'nin kendisi "anlamlı rızanın ahlaki cinsel ilişkilerin ön şartı olduğunu" belirtir (s. 148).
+
+      **Ölçek.** [Orta; tahminler belirsizdir.] Rönnbäck güncel tahminleri özetler: On altıncı ile on dokuzuncu yüzyıllar arasında yaklaşık 12,5 milyon insan Atlantik'in öbür yakasına taşındı (Transatlantic Slave Trade Database); aynı yüzyıllarda Sahra-altı Afrika'dan Sahra ötesi, Kızıldeniz ve Hint Okyanusu ticaret yolları aracılığıyla "yaklaşık 5 milyon insan" götürüldü, bunların yaklaşık üçte ikisi Sahra üzerinden; 1500'den önceki sayılar ise "ancak tahmin edilebilir" ve âlimler 650–1400 arası için "toplamda birkaç milyon insan" öngörüyor. Onlarca ya da yüzlerce milyonluk eski iddiaların "artık genel olarak aşırı derecede şişirilmiş olduğu kabul ediliyor". Atlantik ticareti plantasyon işçiliği için çoğunlukla erkekleri ve oğlan çocuklarını götürdü; Kızıldeniz ve Hint Okyanusu ticaretleri ise ev işçisi ya da cariye olarak görece daha fazla genç kadın götürdü. Müslüman topraklarına Avrupa'dan, Orta Asya'dan ve başka yerlerden de köleleştirilmiş insanlar geldi; bu sayılar burada ele alınmıyor.
+    title:
+      en: Sistem nasıl işliyordu?
+      tr: Sistem nasıl işliyordu?
   - kind: history
     en: |-
-      **The Ottoman steps.** Sultan Abdülmecid I closed Istanbul's public slave market in 1847 (from December 1846), but the trade "simply moved indoors" (Toledano, as cited by *Wikipedia*). A ban on the Circassian and Georgian slave trade in 1854 contributed to a rebellion in the Hijaz, which led to the Hijaz being exempted (Miers, cited by *Wikipedia*). The firman of 1857 "formally prohibited the import of African slaves" but "did not prohibit slavery as such", excluded the Hijaz, and "was never enforced in practice". The Kanunname of 1889 formally banned the trade.
+      **The Ottoman steps.** The public slave market in Istanbul was closed in 1846–47, but the trade went on in private, reportedly even among the highest officials (Karamursel, *IJMES*, 2025). A ban on the Circassian and Georgian slave trade in 1854 contributed to a rebellion in the Hijaz, which led to the Hijaz being exempted (Miers, cited by *Wikipedia*). The firman of 1857 "formally prohibited the import of African slaves" but "did not prohibit slavery as such", excluded the Hijaz, and "was never enforced in practice". The Kanunname of 1889 formally banned the trade.
 
-      **The twentieth century.** Saudi Arabia formally abolished slavery in 1962: a June 1962 royal decree banned the sale and purchase of people, and in November 1962 King Faisal prohibited owning slaves (Miers, cited by *Wikipedia*). Mauritania abolished slavery in 1981, and slavery has been documented there since (Wikipedia).
+      **The twentieth century.** Saudi Arabia formally abolished slavery in 1962: a June 1962 royal decree banned the sale and purchase of people, and in November 1962 King Faisal prohibited owning slaves (Miers, cited by *Wikipedia*). Mauritania abolished slavery in 1981 but made it a crime only in 2007; at that time Anti-Slavery International reported that "Thousands of people in Mauritania are enslaved as a result of being born into an established slave class."
 
-      **Did Islam produce an abolitionist movement?** Kecia Ali (cited by *Wikipedia*) writes that "there has not been a strong internally developed critique of past or present slaveholding practices". Brown's book contrasts the Euro-American tradition, where abolitionism arose, with others, including Islam, which "did not consensually abolish slavery" (Azzuhri). But there were Muslim abolitionist arguments: Tunisian reformers argued for abolition "on the basis of Islamic law", and Ameer Ali argued that "the Qur'an disapproved of slavery, but Muhammad could not abolish the institution overnight" (Wikipedia).
+      **Did Islam produce an abolitionist movement?** Kecia Ali (cited by *Wikipedia*) writes that "there has not been a strong internally developed critique of past or present slaveholding practices". Brown's book contrasts the Euro-American tradition, where abolitionism arose, with others, including Islam, which "did not consensually abolish slavery" (Azzuhri). But there were Muslim abolitionist arguments: Tunisian reformers argued for abolition "on the basis of Islamic law", and Ameer Ali argued that "the Qur'an disapproved of slavery, but Muhammad could not abolish the institution overnight" (Wikipedia). In the late Ottoman Empire, the writer Ahmed Midhat "saw slavery as an incorrigible wrong that was best abolished altogether", and Sezai's novel *Sergüzeşt* attacked the trade (Karamursel, *IJMES*, 2025). These were writers, not jurists, and they did not end slavery.
+    tr: |-
+      **Osmanlı adımları.** Sultan Abdülmecid, İstanbul'un açık esir pazarını 1847'de (Aralık 1846'dan itibaren) kapattı, ama ticaret "sadece kapalı mekânlara taşındı" (Toledano, *Wikipedia*'nın aktardığına göre). 1854'te Çerkez ve Gürcü köle ticaretinin yasaklanması Hicaz'da bir isyana katkıda bulundu ve bu da Hicaz'ın muaf tutulmasına yol açtı (Miers, *Wikipedia*'nın aktardığına göre). 1857 fermanı "Afrikalı köle ithalatını resmen yasakladı", ama "köleliğin kendisini yasaklamadı", Hicaz'ı kapsam dışı bıraktı ve "uygulamada hiçbir zaman yürürlüğe konmadı". 1889 Kanunnâmesi ticareti resmen yasakladı.
+
+      **Yirminci yüzyıl.** Suudi Arabistan köleliği 1962'de resmen kaldırdı: Haziran 1962 tarihli bir kraliyet kararnamesi insan alım satımını yasakladı ve Kasım 1962'de Kral Faysal köle sahibi olmayı yasakladı (Miers, *Wikipedia*'nın aktardığına göre). Moritanya köleliği 1981'de kaldırdı ve o tarihten sonra orada kölelik belgelendi (Wikipedia).
+
+      **İslam bir kölelik karşıtı hareket doğurdu mu?** Kecia Ali (*Wikipedia*'nın aktardığına göre), "geçmişteki ya da bugünkü kölelik uygulamalarına yönelik içeriden gelişmiş güçlü bir eleştiri olmadığını" yazar. Brown'ın kitabı, kölelik karşıtlığının doğduğu Avrupa-Amerikan geleneğini, "köleliği icmâ ile kaldırmamış" olan İslam da dahil olmak üzere başka geleneklerle karşılaştırır (Azzuhri). Ama Müslüman kölelik karşıtı argümanlar da vardı: Tunuslu reformcular köleliğin kaldırılmasını "İslam hukuku temelinde" savundu ve Ameer Ali "Kur'an'ın köleliği onaylamadığını, ama Muhammed'in bu kurumu bir gecede kaldıramadığını" savundu (Wikipedia).
+    title:
+      en: Köleliğin kaldırılmasının tarihi
+      tr: Köleliğin kaldırılmasının tarihi
   - kind: reasoning
     en: |-
       **Step 1: the Sharia's aim of freedom.** Ibn ʿAshur names freedom (*ḥurriyya*), in its first meaning "the opposite of slavery", as an aim of the Sharia. He argues that the Sharia was "prevented from abolishing the factors of slavery all at once", so "it combated slavery's causes by reducing its numbers" and "abolished many factors leading to slavery" (*Treatise*, "Universal Principles"). On this reading, the direction of the law points to abolition.
@@ -157,9 +198,24 @@ fullAnswer:
 
       **Step 4: the permission was never a command.** Owning slaves was permitted, not required; the ruler could always choose release or ransom for captives (47:4). A permitted act can be restricted for the public good.
 
-      **Brown's view.** As Aammari summarises it, Brown holds that "God wishes freedom" (p. 264), so abolition is the best way to realise that wish, and that modern norms of consent make concubinage a "dead letter" in Islamic law and ethics. The Iranian scholar Mohsen Kadivar argues that slavery is "no longer permissible in Islam" by "abrogation by reason" (Wikipedia).
+      **Brown's view.** As Aammari summarises it, Brown holds that "God wishes freedom" (p. 264), so abolition is the best way to realise that wish, and that modern norms of consent make concubinage a "dead letter" in Islamic law and ethics. The Iranian scholar Mohsen Kadivar argues that slavery is now "forbidden and illegitimate", because "the reasonable people consider it to be detested and oppressive". He treats its earlier permission as a temporary ruling "whose era has passed", and says explicitly that this is not "technical abrogation" ("The Issue of Slavery in Contemporary Islam", 2018).
 
       **Could ISIS bring it back legitimately?** On the Open Letter's argument, no: it holds that a later group cannot overturn the modern consensus or the treaties Muslim states have signed, and cannot claim a permission that the community, through its scholars and states, has closed. *Limit:* ISIS rejected exactly these premises — the authority of modern consensus and of treaties — and quoted the classical texts. The strongest defence against a revival is that Muslims say clearly why the classical permission no longer holds, not that they pretend it never existed.
+    tr: |-
+      **1. adım: Şerîat'ın hürriyet amacı.** İbn Âşûr, ilk anlamıyla "köleliğin zıddı" olan hürriyeti (*hürriyye*) Şerîat'ın bir amacı olarak sayar. Şerîat'ın "köleliğin etkenlerini bir anda kaldırmaktan alıkonulduğunu", bu yüzden "sayısını azaltarak köleliğin sebepleriyle mücadele ettiğini" ve "köleliğe yol açan pek çok etkeni kaldırdığını" savunur (*Makâsıd risalesi*, "Küllî ilkeler"). Bu okumaya göre hukukun yönü köleliğin kaldırılmasını gösterir.
+
+      **2. adım: icmâ.** Pek çok ülkeden Müslüman âlimlerin imzaladığı 2014 tarihli Bağdâdî'ye Açık Mektup şöyle der: "Köleliğin yeniden getirilmesi İslam'da haramdır. Evrensel icmâ ile kaldırılmıştır" ve "köleliğin yasaklanması konusunda bir asırlık Müslüman icmâına" atıfta bulunur. Mektubun argümanı, âlimlerin icmâının (*icmâ*) sonraki nesilleri bağladığıdır. *İtiraz:* Klasik icmâ köleliğin caiz olduğu yönündeydi ve yaklaşık bir asırlık modern bir icmâın klasik anlamda bağlayıcı *icmâ* sayılıp sayılamayacağı tam da tartışılan şeydir.
+
+      **3. adım: antlaşmalar.** Aynı mektup, "dünyadaki bütün Müslüman ülkelerin kölelik karşıtı sözleşmeleri imzaladığını" not eder. Klasik hukuk Müslümanların antlaşmalarına bağlı kalmasını gerektirir.
+
+      **4. adım: izin hiçbir zaman emir değildi.** Köle sahibi olmak caizdi, zorunlu değildi; yönetici esirler için her zaman salıvermeyi ya da fidyeyi seçebilirdi (47:4). Caiz bir fiil kamu yararı için kısıtlanabilir.
+
+      **Brown'ın görüşü.** Aammari'nin özetine göre Brown, "Allah'ın hürriyeti dilediğini" (s. 264), dolayısıyla köleliğin kaldırılmasının bu dileği gerçekleştirmenin en iyi yolu olduğunu ve modern rıza normlarının cariyeliği İslam hukuku ve ahlakında "ölü bir hüküm" hâline getirdiğini savunur. İranlı âlim Muhsin Kediver, köleliğin "akıl yoluyla nesh" ile "artık İslam'da caiz olmadığını" savunur (Wikipedia).
+
+      **IŞİD bunu meşru olarak geri getirebilir mi?** Açık Mektup'un argümanına göre hayır: Sonraki bir grubun modern icmâı ya da Müslüman devletlerin imzaladığı antlaşmaları bozamayacağını ve toplumun âlimleri ve devletleri aracılığıyla kapattığı bir izni talep edemeyeceğini savunur. *Sınır:* IŞİD tam da bu öncülleri — modern icmâın ve antlaşmaların otoritesini — reddetti ve klasik metinleri alıntıladı. Yeniden canlandırmaya karşı en güçlü savunma, Müslümanların klasik iznin neden artık geçerli olmadığını açıkça söylemesidir; o iznin hiç var olmamış gibi davranması değil.
+    title:
+      en: Bugünkü yasağın gerekçesi
+      tr: Bugünkü yasağın gerekçesi
   - kind: objection
     en: |-
       **"If God allowed slavery and sex with captives, was it ever morally right?"** This is the hardest question. Three positions are held by Muslims. Some, like Brown, argue that slavery was not always "a gross, intrinsic moral evil at all points in history" (Aammari, quoting p. 269), and that its moral weight depended on what it meant in a given society. Others, like Kecia Ali, hold that sex without meaningful consent is wrong, and that the tradition must face this. A third view, Ibn ʿAshur's, is that the law accepted an institution it could not end at once while moving toward freedom. *Limit:* none of these answers fully settles the moral question, and readers should know that serious Muslim scholars disagree. The concubinage rules, in particular, have no fully satisfying answer.
@@ -167,6 +223,15 @@ fullAnswer:
       **"Gradual abolition is a myth: it stalled for twelve centuries."** *Reply:* the critic is largely right that the movement did not come from within classical law. Critics such as Gordon (cited by *Wikipedia*) argue that the Prophet's example gave slavery Islamic legitimacy, and Clarence-Smith criticises Mawdudi's "dogged refusal" to give up on slavery. *Limit:* the gradualist reading is a modern interpretation of the law's direction, not a description of what happened.
 
       **"Islamic slavery was gentle."** *Reply:* there were real protections — *mukātaba*, the *umm walad*, equal food and clothing in the hadith — and some slaves rose to great power. *Limit:* many enslaved people died in raids and on the way; women had no right to refuse sex; and the law was often ignored. "Gentle" is not an honest summary.
+    tr: |-
+      **"Allah köleliğe ve esirlerle cinsel ilişkiye izin verdiyse, bu hiç ahlaken doğru muydu?"** Bu en zor sorudur. Müslümanlar üç görüş savunur. Brown gibi bazıları, köleliğin "tarihin her noktasında ağır ve özünde bir ahlaki kötülük" olmadığını (Aammari, s. 269'dan alıntıyla) ve ahlaki ağırlığının belirli bir toplumda ne anlama geldiğine bağlı olduğunu savunur. Kecia Ali gibi diğerleri, anlamlı rıza olmadan cinsel ilişkinin yanlış olduğunu ve geleneğin bununla yüzleşmesi gerektiğini savunur. Üçüncü bir görüş olan İbn Âşûr'un görüşü, hukukun bir anda sona erdiremediği bir kurumu kabul ettiği, ama hürriyete doğru ilerlediğidir. *Sınır:* Bu cevapların hiçbiri ahlaki soruyu tam olarak çözmez ve okuyucular ciddi Müslüman âlimlerin bu konuda ayrıldığını bilmelidir. Özellikle cariyelik hükümlerinin tam olarak tatmin edici bir cevabı yoktur.
+
+      **"Kademeli kaldırma bir efsanedir: on iki yüzyıl boyunca durdu."** *Cevap:* Eleştirmen, hareketin klasik hukukun içinden gelmediği konusunda büyük ölçüde haklıdır. Gordon gibi eleştirmenler (*Wikipedia*'nın aktardığına göre) Peygamber'in örneğinin köleliğe İslami meşruiyet kazandırdığını savunur ve Clarence-Smith, Mevdûdî'nin kölelikten vazgeçmeyi "inatla reddetmesini" eleştirir. *Sınır:* Kademecilik okuması, olanın bir tarifi değil, hukukun yönüne dair modern bir yorumdur.
+
+      **"İslam'daki kölelik yumuşaktı."** *Cevap:* Gerçek korumalar vardı — *mükâtebe*, *ümmü veled*, hadisteki eşit yiyecek ve giyecek — ve bazı köleler büyük güce yükseldi. *Sınır:* Köleleştirilmiş pek çok insan baskınlarda ve yolda öldü; kadınların cinsel ilişkiyi reddetme hakkı yoktu; ve hukuk çoğu zaman göz ardı edildi. "Yumuşak" dürüst bir özet değildir.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Classical law** — slavery and concubinage permitted, with rights and paths to freedom; consent to sex not required (Kecia Ali, 2017).
@@ -174,33 +239,56 @@ fullAnswer:
       - **Brown (2019)** — abolition not indigenous to Islam, but consistent with God's wish for freedom; concubinage a "dead letter" today.
       - **Kecia Ali** — the tradition must face the absence of consent.
       - **The Open Letter (2014)** — reintroducing slavery is forbidden by consensus.
-      - **Kadivar** — slavery no longer permissible, by "abrogation by reason".
+      - **Kadivar** — slavery is now "forbidden and illegitimate"; its earlier permission was temporary, "whose era has passed", not abrogated (2018).
       - **Mawdudi** (as criticised by Clarence-Smith) — refused to give up slavery in principle.
+    tr: |-
+      - **Klasik hukuk** — kölelik ve cariyelik caizdi; haklar ve hürriyete giden yollarla birlikte; cinsel ilişki için rıza şart değildi (Kecia Ali, 2017).
+      - **İbn Âşûr** — Şerîat hürriyeti amaçlar ve köleliğin sebeplerini azalttı.
+      - **Brown (2019)** — köleliğin kaldırılması İslam'ın kendi içinden doğmadı, ama Allah'ın hürriyet dileğiyle tutarlıdır; cariyelik bugün "ölü bir hüküm"dür.
+      - **Kecia Ali** — gelenek rızanın yokluğuyla yüzleşmelidir.
+      - **Açık Mektup (2014)** — köleliği yeniden getirmek icmâ ile haramdır.
+      - **Kediver** — kölelik "akıl yoluyla nesh" ile artık caiz değildir.
+      - **Mevdûdî** (Clarence-Smith'in eleştirdiği şekliyle) — ilke olarak kölelikten vazgeçmeyi reddetti.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: Did the Prophet (pbuh) own slaves or concubines?
+      tr: Hz. Peygamber'in (s.a.v.) köleleri ya da cariyeleri var mıydı?
     a:
       en: Yes, according to the sources. He freed several, including Zayd and Sirin; he had Mariya, whose status as wife or concubine is debated.
+      tr: Kaynaklara göre evet. Zeyd ve Şîrîn dahil birkaçını azat etti; eş mi cariye mi olduğu tartışılan Mâriye onun yanındaydı.
   - q:
       en: How did people become slaves?
+      tr: İnsanlar nasıl köle oluyordu?
     a:
       en: Through capture in war (non-Muslims only), birth to a slave mother, or purchase from outside. Free Muslims and *dhimmīs* could not be enslaved.
+      tr: Savaşta esir alınarak (yalnızca gayrimüslimler), köle bir anneden doğarak ya da dışarıdan satın alınarak. Hür Müslümanlar ve *zimmîler* köleleştirilemezdi.
   - q:
       en: What does *maqāṣid* mean?
+      tr: "*Makâsıd* ne demek?"
     a:
       en: The aims of the Sharia — the goods the law exists to protect. Ibn ʿAshur counts freedom among them.
+      tr: Şerîat'ın amaçları — hukukun korumak için var olduğu iyilikler. İbn Âşûr hürriyeti bunlar arasında sayar.
   - q:
       en: How does it compare with the Atlantic trade?
+      tr: Atlantik ticaretiyle nasıl karşılaştırılır?
     a:
       en: "Current estimates: about 12.5 million across the Atlantic (16th–19th centuries) and about 5 million out of Africa through the Muslim world's trade routes in the same centuries, plus earlier and non-African enslavement. The patterns differed: plantation labour in one, more domestic and military slavery in the other."
+      tr: "Güncel tahminler: Atlantik üzerinden yaklaşık 12,5 milyon (16.–19. yüzyıllar) ve aynı yüzyıllarda Müslüman dünyasının ticaret yolları üzerinden Afrika'dan yaklaşık 5 milyon; buna daha önceki ve Afrika dışı köleleştirmeler de eklenir. Örüntüler farklıydı: Birinde plantasyon işçiliği, diğerinde daha çok ev ve askerî kölelik."
   - q:
       en: Was slavery in Muslim lands always racial?
+      tr: Müslüman topraklarında kölelik hep ırka dayalı mıydı?
     a:
       en: The law did not make it racial, but the trades out of Africa created strong links between blackness and slavery in many Muslim societies — a legacy that descendants still face.
+      tr: Hukuk onu ırka dayalı kılmadı, ama Afrika'dan yapılan ticaretler pek çok Müslüman toplumda siyahlık ile kölelik arasında güçlü bağlar oluşturdu — torunların hâlâ yüzleştiği bir miras.
   - q:
       en: What do Muslims think now?
+      tr: Müslümanlar bugün ne düşünüyor?
     a:
       en: Muslim scholars and states overwhelmingly hold slavery to be forbidden (Open Letter, 2014).
+      tr: Müslüman âlimler ve devletler ezici çoğunlukla köleliğin haram olduğunu kabul ediyor (Açık Mektup, 2014).
 legacySources:
   - *a1
   - *a2
@@ -208,3 +296,4 @@ legacySources:
   - *a4
   - *a5
   - *a6
+translatedFrom: docs/research/tr/Q21.md

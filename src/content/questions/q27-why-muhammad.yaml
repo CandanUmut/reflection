@@ -16,21 +16,13 @@ verses:
   - 2:23
   - 30:2-4
 steelman:
-  tr: |
-    Pek çok insan peygamber olduğunu iddia etti ve kaynakları onun kendi takipçileri yazdı.
+  tr: "\"Tarihte pek çok insan Allah'tan mesaj aldığını iddia etti. Bazıları sahtekârdı; pek çoğu samimiydi. Muhammed'den şüphe etmek için onun yalan söylediğini düşünmek zorunda değilim: Tamamen samimi olup yine de yanılmış olabilir — kendi derin düşüncelerini vahiy olarak yaşayan, yetenekli, manevi bir adam. Hayatının sonraki dönemi savaşları, siyasi gücü ve pek çok evliliği de içeriyordu; bunlar bir elçiden çok başarılı bir liderin hayatına benziyor. Ve duyduğum argümanlar — Kur'an taklit edilemez, o okuma yazma bilmiyordu, bazı şeyleri önceden bildirdi — ya sınanamaz ya da ondan çok sonra yazılmış Müslüman kaynaklara dayanıyor.\""
   en: "\"Many people in history have claimed to receive messages from God. Some were frauds; many were sincere. I don't have to think Muhammad was lying to doubt him: he could have been completely sincere and still mistaken — a gifted, spiritual man who experienced his own deep thoughts as revelation. His later life also included war, political power and many marriages, which look like the career of a successful leader more than of a messenger. And the arguments I hear — the Quran is inimitable, he was illiterate, he predicted things — are either untestable or depend on Muslim sources written long after him.\""
 whyAsked:
-  tr: |
-    Allah'a inanan ama vahiyden şüphe eden insanlar için bir sonraki adımdır.
+  tr: "Bu soru diğer bütün soruların altında yatar: O bir peygamberse, İslam'ın geri kalanı bundan çıkar; değilse, hiçbiri çıkmaz. İnsanlar \"yalancı, deli ya da peygamber\" argümanıyla, çoğu zaman samimi ama yanılmış olma seçeneğini görmezden gelen zayıf bir biçimiyle karşılaşır."
   en: 'The question underlies all the others: if he was a prophet, the rest of Islam follows; if not, none of it does. People meet the "liar, lunatic or prophet" argument, often in a weak form that ignores the sincere-but-mistaken option.'
 shortAnswer:
-  tr: |
-    Gerekçe birikimlidir; iplikler bir araya gelince sağlam bir halat oluşturur:
-    - risaletten önceki dürüstlüğü (*el-Emîn*, "güvenilir");
-    - yazı yazmayan bir adamdan gelen bir Kur'an;
-    - sade bir hayat;
-    - dönüşen takipçiler;
-    - gerçekleşen bazı öngörüler.
+  tr: "630'larda Arap hareketine Muhammed adında bir adamın önderlik ettiği, ölümünden birkaç yıl sonra yazılmış gayrimüslim kaynaklarca doğrulanır; bu kaynakların doğrulamadığı şey onun peygamberliğidir. Peygamberliği lehindeki delil birikimlidir: Herhangi bir iddiada bulunmadan önceki dürüstlük ünü (Hz. Hatice'nin onun karakterine başvurması, {hadith:bukhari:3}); eleştirel tarihçi W. Montgomery Watt'ın bile samimiyetinin delili saydığı, yıllarca süren zulüm altındaki metaneti; kendi meydan okumasına göre taklit edilemeyen (2:23) ve klasik okumaların çoğuna göre resmî eğitimi olmayan bir adam aracılığıyla gelen bir kutsal kitap; ve çevresindeki insanların ahlaki dönüşümü. \"Samimi ama yanılmış\" seçeneği ciddi olanıdır ve yalnızca argümanla dışlanamaz. Müslümanlar için ona karşı ağır basan şey, mesajın kendi içeriği ve meyveleridir. Bazı popüler \"kehanetler\" abartılıdır; 30:2–4'teki Bizans kehaneti en bilinenidir ve açıkça söylenmesi gereken gerçek güçlükleri vardır."
   en: "That a man named Muhammad led the Arab movement in the 630s is confirmed by non-Muslim sources written within a few years of his death; what those sources do not confirm is his prophethood. The case for it is cumulative: his reputation for honesty before he claimed anything (Khadija's appeal to his character, {hadith:bukhari:3}); his steadiness under years of persecution, which even the critical historian W. Montgomery Watt took as evidence of sincerity; a scripture that, by its own challenge, cannot be imitated (2:23), and which came, by most classical readings, through a man without formal learning; and the moral transformation of the people around him. The \"sincere but mistaken\" option is the serious one, and it cannot be ruled out by argument alone. What weighs against it, for Muslims, is the content of the message itself and its fruits. Some popular \"prophecies\" are overstated; the Byzantine prediction of 30:2–4 is the best-known, and it has real complications that should be stated."
 layers:
   - kind: religious
@@ -50,8 +42,7 @@ layers:
       Hayatından hikâyeler kıyaslardan daha ikna edicidir.
     en: Stories from his life persuade more than syllogisms do.
 honestLimits:
-  tr: |
-    Bazı kehanetler abartılıyor ve "bilimsel mucizeler" zayıf.
+  tr: Hiçbir argüman Allah'ın onunla konuştuğunu ispat etmez; delil birikimlidir ve farklı insanlar tarafından farklı değerlendirilir. Hoyland'ın kitabına, Watt'ın kitabına ve 30:2–4'ün farklı kıraatine henüz doğrudan başvurulmadı; savaşın tarihleri yalnızca *Wikipedia*'dan geliyor. Şüphe anketi (Chouhoud, 2018) "bilimsel mucizeler" sayfasında ele alınıyor.
   en: No argument proves that God spoke to him; the case is cumulative and judged differently by different people. Hoyland's book, Watt's book and the variant reading of 30:2–4 have not yet been consulted directly; the war's dates come from *Wikipedia* only. The doubt survey (Chouhoud, 2018) is discussed on the "scientific miracles" page.
 visualizations:
   - id: ideas
@@ -96,6 +87,10 @@ sources:
 fullAnswer:
   - kind: heart
     en: '**This is a question worth taking slowly.** Believing that someone spoke for God is a large step, and Islam does not ask you to take it on hearsay. The Quran itself says: "Then will you not reason?" (10:16).'
+    tr: "**Bu, yavaş yavaş ele alınmaya değer bir soru.** Birinin Allah adına konuştuğuna inanmak büyük bir adımdır ve İslam senden bu adımı kulaktan dolma bilgiyle atmanı istemez. Kur'an'ın kendisi şöyle der: \"Siz hâlâ aklınızı başınıza toplamayacak mısınız?\" (10:16)."
+    title:
+      en: Kalp ve akıl için
+      tr: Kalp ve akıl için
   - kind: quran
     en: |-
       **"A lifetime before it" (10:16).** "Say, 'If Allah had willed, I would not have recited it to you, nor would He have made it known to you, for I had remained among you a lifetime before it. Then will you not reason?'" (10:16), Meccan, addressed to the Quraysh. The argument: they had known him for forty years; nothing in his past prepared them for the Quran.
@@ -104,7 +99,18 @@ fullAnswer:
 
       **The Byzantine prediction (30:2–4).** "The Byzantines have been defeated In the nearest land. But they, after their defeat, will overcome. Within three to nine years" (30:2–4), Meccan. "Three to nine years" is Saheeh's rendering of *biḍʿi sinīn*, which Saʿid ibn Jubayr explained as "less than ten" (Ibn Kathir). Ibn Kathir says the verses "were revealed about the victory of Sabur, the king of Persia, over Ash-Sham", and records a wager: Abu Bakr (ra) bet the idolaters that Rome would win; they agreed on six years; the Romans won "when the seventh year came" (Ibn Kathir's abridgement: "This is a Hasan Hadith"). On sunnah.com the report, narrated by Niyar b. Mukram al-Aslami, is {hadith:tirmidhi:3194}; al-Tirmidhi calls it *ḥasan ṣaḥīḥ gharīb*, known only through ʿAbd al-Rahman b. Abi al-Zinad, and Darussalam grades it *ṣaḥīḥ*. A report from Ibn ʿAbbas in al-Tirmidhi (graded *ḥasan gharīb*) gives five years instead of six.
 
-      **What is complicated about it.** First, the dates: the Persians took Jerusalem "following a three weeks siege in 614"; Heraclius counter-attacked from 622 to 626, defeated the Persians at Nineveh on 12 December 627, and the war ended about 628 (*Wikipedia*, "Byzantine–Sasanian War of 602–628", read by the independent source check). The Ibn Kathir page read does not give dates. Second, an old variant reading vowels the verbs the other way — the Byzantines "have overcome… and will be defeated" — reported in the tafsir literature; the Ibn Kathir page read here does not mention it, so it is noted as unverified. A fair reader will say: the prediction was made in Mecca, at a time when Rome looked beaten; it came true; and the reports about it come from Muslim sources.
+      **What is complicated about it.** The Persians took Jerusalem in 614; Heraclius defeated them near Nineveh on "Saturday, 12 December", as the Byzantine chronicler Theophanes records (trans. Mango & Scott, 1997) — in 627 by modern reckoning; the war ended in 628. The Ibn Kathir page read does not give dates. Second, an old variant reading vowels the verbs the other way — the Byzantines "have overcome… and will be defeated" — reported in the tafsir literature; the Ibn Kathir page read here does not mention it, so it is noted as unverified. A fair reader will say: the prediction was made in Mecca, at a time when Rome looked beaten; it came true; and the reports about it come from Muslim sources.
+    tr: |-
+      **"Bundan önce yıllarca" (10:16).** "De ki, "Eğer Allah dileseydi ben onu size okumazdım. O da onu hiçbir şekilde size bildirmezdi. Bilirsiniz ki, ben sizin içinizde bundan önce yıllarca bulundum. Siz hâlâ aklınızı başınıza toplamayacak mısınız?"" (10:16), Mekkî, Kureyş'e hitap eder. Argüman şudur: Onu kırk yıldır tanıyorlardı; geçmişindeki hiçbir şey onları Kur'an'a hazırlamamıştı.
+
+      **Meydan okuma (2:23; 17:88).** "Eğer kulumuz (Muhammed)a indirdiğimiz (Kur'ân)den şüphe içinde iseniz, haydi onun gibi bir sûre getirin, Allah'tan başka güvendiklerinizin hepsini çağırın; eğer doğru iseniz." (2:23), Medenî, şüphe edenlere hitap eder. Başka bir yerde: "Ey Muhammed! De ki: "Yemin olsun, eğer insanlar ve cinler bu Kur'ân'ın benzerini getirmek üzere toplansalar ve birbirlerine yardımcı olsalar bile, yine onun bir benzerini meydana getiremeyeceklerdir…" (17:88). Meydan okuma, aynı türden bir şey ortaya koymaktır. Bâkıllânî'nin Kur'an'ın taklit edilemezliğine (*i'câz*) dair klasik açıklamasında bu, esas olarak onun eşsiz nazmında (*nazm*), gaybdan verdiği haberlerle ve Hz. Peygamber'in (s.a.v.) *ümmî* olmasıyla birlikte yatar (Divlekci 2019; bkz. "Kur'an'daki "bilimsel mucizeler" gerçek mi?").
+
+      **Bizans kehaneti (30:2–4).** "Rumlar yenildi. (Arapların bulunduğu bölgeye) en yakın bir yerde onlar, bu yenilgilerinin ardından mutlaka galib geleceklerdir. (Bu da) birkaç yıl içinde (olacaktır)." (30:2–4), Mekkî. Elmalılı'nın "birkaç yıl" dediği *bid'i sinîn* ifadesini Saheeh International İngilizceye "three to nine years" ("üç ila dokuz yıl") olarak çevirir; Saîd b. Cübeyr bunu "ondan az" olarak açıkladı (İbn Kesîr). İbn Kesîr âyetlerin "Pers kralı Şâbûr'un Şam üzerindeki zaferi hakkında indiğini" söyler ve bir bahsi kaydeder: Hz. Ebû Bekir (r.a.) müşriklerle Rumların kazanacağına dair bahse girdi; altı yıl üzerinde anlaştılar; Rumlar "yedinci yıl geldiğinde" kazandı (İbn Kesîr'in muhtasarı: "Bu hasen bir hadistir"). sunnah.com'da Niyâr b. Mükrem el-Eslemî'nin rivayet ettiği bu haber {hadith:tirmidhi:3194}'tür; Tirmizî ona *hasen sahih garîb* der, yalnızca Abdurrahman b. Ebi'z-Zinâd yoluyla bilinir; Darussalam onu *sahih* olarak derecelendirir. Tirmizî'deki İbn Abbâs'tan bir rivayet (*hasen garîb* olarak derecelendirildi) altı yerine beş yıl verir.
+
+      **Bunun güç tarafı nedir?** Birincisi, tarihler: Persler Kudüs'ü "614'te üç haftalık bir kuşatmanın ardından" aldı; Herakleios 622'den 626'ya kadar karşı saldırıya geçti, 12 Aralık 627'de Ninova'da Persleri yendi ve savaş yaklaşık 628'de sona erdi (*Wikipedia*, "602–628 Bizans–Sâsânî Savaşı", bağımsız kaynak denetimi tarafından okundu). Okunan İbn Kesîr sayfası tarih vermiyor. İkincisi, eski bir kıraat fiillerin harekelerini tersine okur — Rumlar "galip geldi… ve yenilecekler" — tefsir literatüründe aktarılır; burada okunan İbn Kesîr sayfası bundan söz etmiyor, dolayısıyla doğrulanmamış olarak not ediliyor. Adil bir okuyucu şunu söyleyecektir: Kehanet Mekke'de, Roma'nın yenilmiş göründüğü bir zamanda yapıldı; gerçekleşti; ve onunla ilgili haberler Müslüman kaynaklardan geliyor.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: history
     en: |-
       **Early non-Muslim sources confirm that he existed and led the movement.** Bishop's survey (drawing on Hoyland) lists, among others:
@@ -115,11 +121,30 @@ fullAnswer:
       - **The Doctrina Jacobi** (c. 634–640), in which a Jew hears that "the prophet had appeared" among the Saracens; Bishop notes that its identification is disputed.
 
       **What they do not confirm.** These sources say little about his life in Mecca, and nothing that could prove or disprove revelation. They confirm a monotheist leader and lawgiver; the claim that God spoke to him rests on other grounds. Most detailed biographical information comes from later Muslim sources (Bishop).
+    tr: |-
+      **Erken gayrimüslim kaynaklar onun var olduğunu ve harekete önderlik ettiğini doğrular.** Bishop'un (Hoyland'a dayanan) taraması, diğerlerinin yanı sıra şunları sayar:
+      - **Thomas the Presbyter** (yaklaşık 640), 634'te Gazze yakınlarında "Muhammed'in Arapları"na karşı yapılan bir savaşı anlatıyor.
+      - **Huzistan Kroniği** (en geç 660'lar): Arap kuvvetleri, "önderleri (*mdabbrānā*) Muhammed olan".
+      - **Sebeos**, Ermeni bir piskopos (yedinci yüzyılın ikinci yarısı); onu tek bir Allah'a inanmaya başlayan, kavmine vaaz eden ve Kur'an'dakilere paralel kanunlar — leşe, şaraba, yalana ve zinaya karşı — koyan bir tüccar olarak tasvir eder.
+      - **John bar Penkaye** (688); Arapların "Muhammed'in geleneğine bağlı kaldığını" söyler.
+      - **Doctrina Jacobi** (yaklaşık 634–640); burada bir Yahudi, Sarakenler arasında "peygamberin ortaya çıktığını" duyar; Bishop bu tanımlamanın tartışmalı olduğunu not eder.
+
+      **Neyi doğrulamıyorlar?** Bu kaynaklar onun Mekke'deki hayatı hakkında çok az şey söyler ve vahyi ispat edebilecek ya da çürütebilecek hiçbir şey söylemez. Tek tanrıcı bir önderi ve kanun koyucuyu doğrularlar; Allah'ın onunla konuştuğu iddiası başka temellere dayanır. Ayrıntılı biyografik bilgilerin çoğu sonraki Müslüman kaynaklardan gelir (Bishop).
+    title:
+      en: "Tarih: Gayrimüslim kaynaklar ne diyor?"
+      tr: "Tarih: Gayrimüslim kaynaklar ne diyor?"
   - kind: scholars
     en: |-
       **What "ummī" means.** The Quran calls the Prophet (pbuh) *al-nabī al-ummī* (7:157, not quoted from verified data here). The word is debated. Ibn Manzur's dictionary defines *ummī* as "someone unable to read or write"; al-Tabari and Fakhr al-Din al-Razi suggest it refers to "Arabs without a holy scripture"; al-Razi and others also proposed "the people of Makkah", a reading that is "debated due to linguistic reasons, as discussed by Al-Zamakhshari and Al-Qurtubi"; al-Suyuti and al-Tabatabaʾi read 62:2 as "a lack of formal religious education rather than literal illiteracy" (IslamOnWeb). The same article reports that "the majority of commentators, including Fakhr al-Din al-Razi and Shaykh Tusi, interpret 'Ummiyy' as indicating a lack of formal education in the scriptures". So "he could not read or write" is one classical reading among several. The account of the first revelation is consistent with it: when the angel told him to read, he answered, "I do not know how to read" ({hadith:bukhari:3}).
 
       **A critical historian on his sincerity.** W. Montgomery Watt (1909–2006), a Scottish historian of Islam, wrote in *Muhammad at Mecca*: "His readiness to undergo persecutions for his beliefs, the high moral character of the men who believed in him…" — evidence, for Watt, of fundamental integrity — and that "none of the great figures of history is so poorly appreciated in the West as Muhammad" (quoted on Goodreads; page not given). Watt held the Prophet (pbuh) to be sincere. On revelation his view does not fit a simple "accepted" or "rejected": *Wikipedia* (citing an interview) reports that he regarded the Quran as "divinely inspired", though not "infallibly" true, and WikiShia reports that in *Muhammad: Prophet and Statesman* he described revelation in terms of "creative imagination" (both pages read by the independent source check).
+    tr: |-
+      **"Ümmî" ne demek?** Kur'an Hz. Peygamber'i (s.a.v.) *en-nebiyyü'l-ümmî* olarak adlandırır (7:157; burada doğrulanmış veriden alıntılanmadı). Kelime tartışmalıdır. İbn Manzûr'un sözlüğü *ümmî*yi "okuyup yazamayan kimse" olarak tanımlar; Taberî ve Fahreddin er-Râzî onun "kutsal kitabı olmayan Araplar"a işaret ettiğini öne sürer; Râzî ve diğerleri "Mekke halkı" anlamını da önerdi; bu okuma "Zemahşerî'nin ve Kurtubî'nin tartıştığı gibi dilsel sebeplerle tartışmalıdır"; Suyûtî ve Tabâtabâî 62:2'yi "kelimenin tam anlamıyla okuma yazma bilmemekten çok resmî dinî eğitim eksikliği" olarak okur (IslamOnWeb). Aynı makale, "Fahreddin er-Râzî ve Şeyh Tûsî dahil müfessirlerin çoğunluğunun 'ümmî' kelimesini kutsal kitaplarda resmî eğitim eksikliğini gösteren bir kelime olarak yorumladığını" aktarır. Yani "okuyup yazamıyordu" birkaç klasik okumadan biridir. İlk vahyin anlatımı bununla tutarlıdır: Melek ona okumasını söylediğinde o, "Ben okuma bilmem" diye cevap verdi ({hadith:bukhari:3}).
+
+      **Eleştirel bir tarihçinin gözünden samimiyeti.** İskoç İslam tarihçisi W. Montgomery Watt (1909–2006), *Muhammad at Mecca*'da şunu yazdı: "İnançları uğruna zulümlere katlanmaya hazır olması, ona inanan insanların yüksek ahlaki karakteri…" — Watt için temel bir dürüstlüğün delili — ve "tarihin büyük şahsiyetlerinden hiçbirinin Batı'da Muhammed kadar az takdir edilmediğini" (Goodreads'te alıntılanmış; sayfa verilmemiş). Watt, Hz. Peygamber'i (s.a.v.) samimi kabul ediyordu. Vahiy konusundaki görüşü basit bir "kabul etti" ya da "reddetti"ye uymuyor: *Wikipedia* (bir röportaja atıfla), onun Kur'an'ı "ilahi ilhamlı" ama "yanılmaz" olarak değil, doğru saydığını aktarır; WikiShia ise onun *Muhammad: Prophet and Statesman*'de vahyi "yaratıcı hayal gücü" terimleriyle tarif ettiğini aktarır (her iki sayfa da bağımsız kaynak denetimi tarafından okundu).
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: reasoning
     en: |-
       **The trilemma, done properly.** If someone claims revelation, there are more than three options: he lied; he was mentally ill; he was sincere but mistaken (his own mind produced what he took to be revelation); or he was telling the truth. Watt, a non-Muslim historian, rejected the first: he took the Prophet (pbuh) to be sincere. The third is the serious alternative.
@@ -133,6 +158,21 @@ fullAnswer:
       *Limit:* each of these can be explained in other ways by someone who already doubts revelation: sincere visionaries can be honest, frightened and gifted; movements can be transformed by charismatic leaders. The "sincere but mistaken" view is not refuted; for many people it is outweighed.
 
       **His later power.** Critics point out that in Medina he became a ruler and military leader and had several wives. Muslims reply that the Quran presents this as part of his mission — a prophet who also governs. The specific questions are treated on other pages ("The Prophet's wars and Banu Qurayza"; "Aisha's age"; "Polygyny"). *Limit:* for some readers these features remain the strongest reason to doubt.
+    tr: |-
+      **Üçleme, doğru yapılmış hâliyle.** Biri vahiy iddia ederse, üçten fazla seçenek vardır: yalan söyledi; akıl hastasıydı; samimi ama yanılmıştı (kendi zihni, vahiy sandığı şeyi üretti); ya da doğruyu söylüyordu. Müslüman olmayan bir tarihçi olan Watt birincisini reddetti: Hz. Peygamber'i (s.a.v.) samimi kabul etti. Üçüncüsü ciddi alternatiftir.
+
+      **"Samimi ama yanılmış" görüşüne karşı.** Bu görüş birkaç şeyi birlikte açıklamak zorundadır:
+      1. **İddiadan önceki karakter.** Hz. Hatice'nin teselli edici sözleri — "Allah seni asla utandırmaz. Sen akrabalarınla iyi ilişkiler sürdürürsün, fakire ve muhtaca yardım edersin, misafirlerine cömertçe hizmet edersin" ({hadith:bukhari:3}) — kırk yıllık bilinen davranışa başvuruyordu.
+      2. **Şaşkınlığı ve korkusu.** İlk vahiy onu "kalbi şiddetle çarparak", "Beni örtün! Beni örtün!" derken bıraktı ({hadith:bukhari:3}): bir rol arayan birinin tepkisi değil.
+      3. **Metin.** Yaygın okumaya göre resmî eğitimi olmayan bir adamdan, 23 yıl boyunca açık ortamda tebliğ edilen, kendi taklit edilemezliğini delil olarak sunan (2:23) uzun ve çeşitli bir kutsal kitap.
+      4. **Meyve.** Gayrimüslim kaynaklarda da katı bir tek tanrıcılığa ve kanuna bağlı kalan bir hareket (Sebeos; John bar Penkaye).
+
+      *Sınır:* Bunların her biri, vahiyden zaten şüphe eden biri tarafından başka şekillerde açıklanabilir: Samimi vizyonerler dürüst, korkmuş ve yetenekli olabilir; hareketler karizmatik önderler tarafından dönüştürülebilir. "Samimi ama yanılmış" görüşü çürütülmüş değildir; pek çok insan için diğer taraf ağır basar.
+
+      **Sonraki gücü.** Eleştirmenler, Medine'de onun bir yönetici ve askerî önder olduğunu ve birkaç eşi olduğunu belirtir. Müslümanlar, Kur'an'ın bunu onun görevinin bir parçası olarak — aynı zamanda yöneten bir peygamber — sunduğu cevabını verir. Belirli sorular diğer sayfalarda ele alınıyor ("Hz. Peygamber'in savaşları ve Benî Kurayza"; "Hz. Âişe'nin evlilik yaşı"; "Çok eşlilik"). *Sınır:* Bazı okuyucular için bu özellikler şüphe etmenin en güçlü sebebi olarak kalır.
+    title:
+      en: Filozoflar bu konuda nasıl akıl yürütür?
+      tr: Filozoflar bu konuda nasıl akıl yürütür?
   - kind: objection
     en: |-
       **"The sources are all late and Muslim."** *Reply:* the main source, the Quran, is very early (see "Was the Quran preserved?"), and non-Muslim sources confirm the outline. *Limit:* most of the detail about his life comes from biographies written a century or more later.
@@ -140,36 +180,64 @@ fullAnswer:
       **"No one met the challenge of 2:23 because it is undefined."** *Reply:* in the classical understanding the challenge concerns above all the Quran's composition — a text of its kind, in its language — and it was issued to people who spoke that language. *Limit:* literary judgement is not measurable, and critics say the challenge cannot be tested objectively.
 
       **"Many prophecies are stretched."** *Reply:* yes. Claims that the Quran predicted modern scientific discoveries are often overstated (see the next page). The Byzantine prediction is the clearest case, and even it depends on Muslim reports. *Limit:* prophecy alone should not carry the argument.
+    tr: |-
+      **"Kaynakların hepsi geç ve Müslüman."** *Cevap:* Ana kaynak olan Kur'an çok erkendir (bkz. "Kur'an korundu mu?") ve gayrimüslim kaynaklar ana hatları doğrular. *Sınır:* Hayatıyla ilgili ayrıntıların çoğu bir asır ya da daha sonra yazılmış biyografilerden gelir.
+
+      **"2:23'ün meydan okumasını kimse karşılamadı, çünkü tanımsızdır."** *Cevap:* Klasik anlayışta meydan okuma her şeyden önce Kur'an'ın nazmıyla — kendi dilinde, kendi türünde bir metinle — ilgilidir ve o dili konuşan insanlara yöneltilmişti. *Sınır:* Edebî yargı ölçülebilir değildir ve eleştirmenler meydan okumanın nesnel olarak sınanamayacağını söyler.
+
+      **"Pek çok kehanet zorlanarak yorumlanıyor."** *Cevap:* Evet. Kur'an'ın modern bilimsel keşifleri önceden bildirdiğine dair iddialar çoğu zaman abartılıdır (bkz. sonraki sayfa). Bizans kehaneti en açık örnektir ve o bile Müslüman haberlerine dayanır. *Sınır:* Argüman yalnızca kehanete dayandırılmamalıdır.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Muslim scholars** — prophethood is known by the Quran, his character and his message (see al-Ghazali's argument, on "Why believe the Creator is involved?").
       - **Watt** — sincere; the Quran "divinely inspired" but not infallible (*Wikipedia*, citing an interview).
       - **Critics** — sincere but mistaken, or worse; his political career counts against him.
+    tr: |-
+      - **Müslüman âlimler** — peygamberlik Kur'an'la, karakteriyle ve mesajıyla bilinir (bkz. "Yaratıcının dünyayla ilgilendiğine neden inanmalı (deizm)?" sayfasındaki Gazzâlî'nin argümanı).
+      - **Watt** — samimi; Kur'an "ilahi ilhamlı" ama yanılmaz değil (*Wikipedia*, bir röportaja atıfla).
+      - **Eleştirmenler** — samimi ama yanılmış ya da daha kötüsü; siyasi kariyeri onun aleyhine sayılır.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: What about someone who sincerely believed he received revelation but was mistaken?
+      tr: Vahiy aldığına samimiyetle inanan ama yanılmış biri ne olacak?
     a:
       en: It is the serious alternative. Muslims answer that his prior character, his fear at the first revelation, the text and its fruits together make it less likely; it cannot be disproved.
+      tr: Ciddi alternatif budur. Müslümanlar, önceki karakterinin, ilk vahiydeki korkusunun, metnin ve meyvelerinin birlikte bunu daha az olası kıldığı cevabını verir; çürütülemez.
   - q:
       en: Which predictions were fulfilled besides the Byzantine one, and which are overstated?
+      tr: Bizans kehaneti dışında hangi kehanetler gerçekleşti, hangileri abartılı?
     a:
       en: Only the Byzantine one was examined. Modern "scientific prophecies" are often overstated (see the next page).
+      tr: Yalnızca Bizans kehaneti incelendi. Modern "bilimsel kehanetler" çoğu zaman abartılıdır (bkz. sonraki sayfa).
   - q:
       en: What exactly is the challenge of 2:23?
+      tr: 2:23'ün meydan okuması tam olarak nedir?
     a:
       en: "To \"produce a surah the like thereof\": a text of the Quran's kind. For al-Baqillani, its inimitability lay chiefly in its composition, alongside its reports of the unseen and the Prophet's (pbuh) being *ummī* (Divlekci 2019)."
+      tr: "\"Onun gibi bir sûre getirin\": Kur'an türünden bir metin. Bâkıllânî'ye göre taklit edilemezliği, esas olarak nazmında, gaybdan verdiği haberlerle ve Hz. Peygamber'in (s.a.v.) *ümmî* olmasıyla birlikte yatıyordu (Divlekci 2019)."
   - q:
       en: Which seventh-century non-Muslim sources mention him?
+      tr: Yedinci yüzyılın hangi gayrimüslim kaynakları ondan söz ediyor?
     a:
       en: Thomas the Presbyter (c. 640), the Khuzistan Chronicle (by the 660s), Sebeos (later seventh century), and the disputed Doctrina Jacobi (c. 634–640).
+      tr: Thomas the Presbyter (yaklaşık 640), Huzistan Kroniği (660'lara kadar), Sebeos (yedinci yüzyılın sonları) ve tartışmalı Doctrina Jacobi (yaklaşık 634–640).
   - q:
       en: Is it established that he could not read or write?
+      tr: Okuyup yazamadığı kesin mi?
     a:
       en: It is one classical reading of *ummī*, consistent with the first-revelation hadith ("I do not know how to read"). IslamOnWeb reports that most commentators, including al-Razi, read *ummī* as lacking formal education in the scriptures, and others as "without a scripture".
+      tr: '*Ümmî* kelimesinin, ilk vahiy hadisiyle ("Ben okuma bilmem") tutarlı olan klasik bir okumasıdır. IslamOnWeb, Râzî dahil müfessirlerin çoğunun *ümmî*yi kutsal kitaplarda resmî eğitim eksikliği, başkalarının ise "kitabı olmayan" olarak okuduğunu aktarır.'
   - q:
       en: What did his followers' transformation look like?
+      tr: Takipçilerinin dönüşümü neye benziyordu?
     a:
       en: Non-Muslim sources describe a monotheistic community that kept his laws strictly (Sebeos; John bar Penkaye). More detailed accounts come from Muslim sources.
+      tr: Gayrimüslim kaynaklar, onun kanunlarına sıkıca bağlı kalan tek tanrıcı bir topluluğu anlatır (Sebeos; John bar Penkaye). Daha ayrıntılı anlatımlar Müslüman kaynaklardan gelir.
 legacySources:
   - *a1
   - *a2
@@ -177,3 +245,4 @@ legacySources:
   - *a4
   - *a5
   - *a6
+translatedFrom: docs/research/tr/Q27.md

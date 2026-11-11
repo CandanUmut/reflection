@@ -16,10 +16,17 @@ title:
   tr: İnce ayar
   en: Fine-tuning
 summary:
-  tr: Bazı sabitler hayata izin veren dar aralıklarda durur. İnce ayar bir kanıt değil, bir davettir.
+  tr: "25:2, Allah'ın \"her şeyi yaratıp bir ölçüye göre düzenleyerek takdir etmiş\" olduğunu söyler: Âyet ölçüyle yapılmış bir dünyadan söz eder."
   en: '25:2 says God "has created each thing and determined it with [precise] determination": the verse speaks of a world made to measure.'
 tafsir:
-  tr: Arka plan, Gazzâlî ve Râzî'nin kullandığı kelâmdaki tahsis (belirleme) delilidir.
+  tr: |-
+    **İbn Kesîr, 25:2 hakkında.** "O'nun dışındaki her şey yaratılmıştır ve O'na tâbidir".
+
+    **İbn Kesîr, 54:49 hakkında.** Âyeti fizik hakkında değil, kader hakkında bir ifade olarak okur ve Sünnet imamlarının "bu âyeti ve benzeri âyetleri ve hadisleri, Sahâbe'nin son döneminde fırkalarını başlatan Kaderiyye fırkasını reddetmek için kullandığını" aktarır. Sayfada İmam Ahmed'e, Müslim'e, Tirmizî'ye ve İbn Mâce'ye nispet edilen, Ebû Hüreyre'den (r.a.) bir rivayet zikreder (Müslim numarası doğrulanmadı): "Kureyş müşrikleri Allah'ın Resûlü'ne geldiler… onunla tartışıp kaderi inkâr ettiler", bunun üzerine âyetler indi. (*Kaderiyye*, Allah'ın insanın fiillerini takdir ettiğini inkâr eden erken bir gruptu.)
+
+    ***Celâleyn*, 54:49 hakkında.** Yorumu dilbilgiseldir: "*inne külle şey'in* diye okunan 'her şey' mansuptur". (Bu, *Celâleyn*'in değil bu sayfanın açıklamasıdır: Mansup okuma, "yarattığımız her şey bir ölçüyledir" yerine "her şeyi bir ölçüyle yarattık" okumasını destekler.)
+
+    **Nerede birleşiyorlar ve ne söylemediler?** İkisi de *kader*i Allah'ın her şey üzerindeki ölçmesi ve hükmü olarak okur. Hiçbiri tabiat sabitlerinden ya da hayata izin veren bir evrenden söz etmez; bu okuma moderndir.
   en: |-
     **Ibn Kathir on 25:2.** "everything apart from Him is created and subject to Him".
 
@@ -29,16 +36,15 @@ tafsir:
 
     **Where they agree, and what they did not say.** Both read *qadar* as God's measuring and decree over all things. Neither speaks of constants of nature or of a life-permitting universe; that reading is modern.
 howItWorks:
-  tr: |
-    [Established] — çıkarımlar ise [Debated]
-
-    - Bazı sabitler hayata izin veren dar aralıklarda durur. Bir tahmine göre kozmolojik sabitin ince ayarı 10^120'de 1'dir (Stanford Felsefe Ansiklopedisi).
-
-    **Cevaplar:**
-
-    - Çoklu evren: şişme (enflasyon) artı sicim manzarası.
-    - Bu çıkarımın eleştirmenleri "ters kumarbaz yanılgısı"nı ve "bu evren itirazı"nı (Hacking, White) öne sürer; savunucular buna itiraz eder.
-    - Weinberg bazı örneklerin "o kadar da ince olmadığına" hükmetti.
+  tr: |-
+    - **"İnce ayar" ne demek?** [Established, bir tarif olarak] Fizikçiler, tabiatın bazı sabitlerinin ve evrenin bazı başlangıç koşullarının hayata izin veren aralıklarda bulunduğunu ve küçük değişikliklerin, bugünkü modellere göre, hayatı imkânsız kılacağını buldu. SEP ince ayarlı sabitleri, erken evrenin koşullarını ve yasaları sayar (Friederich).
+    - **En ünlü örnek.** [Established] *Kozmolojik sabit* (boş uzayın enerjisi; kozmik genişlemeyi yönlendirir): Kuantum alan teorisinden yapılan saf bir tahmin, gözlenen değerden "muazzam sayıda büyüklük mertebesi" daha büyüktür; varsayımlara göre "uyuşmazlık 10^50 ile 10^123 arasındadır", "yaklaşık 120 büyüklük mertebesi" (SEP). Steven Weinberg (1987), galaksilerin ancak boşluk enerjisi gözlenen değerinin en fazla birkaç büyüklük mertebesi üstündeyse oluşabileceğini savundu (SEP).
+    - **Üç cevap.** [Debated]
+      1. *Tasarım:* Bir tasarımcı varsa hayata izin veren sabitler daha olasıdır (SEP'teki Bayesçi versiyonlar; Sober ve başkaları gözlem seçilim etkilerinin bunu zayıflattığını söyleyerek itiraz eder, Kotzen ve Weisberg cevap verir).
+      2. *Çoklu evren:* Sabitleri farklı olan çok sayıda evren varsa, en az biri hayata izin verir ve gözlemciler kendilerini onun içinde bulur.
+      3. *Çıplak olgu ya da daha derin bir yasa:* Sabitler henüz bilinmeyen daha derin bir teoriyle belirlenmiş olabilir.
+    - **Olasılıklarla ilgili sorunlar.** [Debated] McGrew, McGrew ve Vestrup (2001), bir sabit herhangi bir gerçel değeri alabiliyorsa, düzgün bir olasılığın her sonlu aralığa sıfır olasılık vereceğini, dolayısıyla hayata izin veren aralığın "ne kadar olasılık dışı" olduğunun düzgün biçimde tanımlanamayacağını savunur (SEP).
+    - **Çoklu evren çıkarımıyla ilgili sorunlar.** [Debated] Ian Hacking (1987), bizim ince ayarlı evrenimizden çok sayıda evren çıkarmanın "ters kumarbaz yanılgısı" (şanslı tek bir atıştan çok sayıda geçmiş atış çıkarmak) olduğunu ileri sürdü; Roger White (2000) ilgili bir noktayı öne çıkardı: Başka pek çok evrenin varlığı "bu evrenin" hayata izin vermesini daha olası kılmaz; McGrath, Manson ve Thrush, Epstein ve başkaları çoklu evren argümanını bu suçlamaya karşı savunur (SEP). Friederich şu sonuca varır: "Yerleşik akılcılık standartları, ince ayardan çoklu evrene yapılan çıkarımın yanlış olup olmadığına karar vermemize izin vermeyebilir."
   en: |-
     - **What "fine-tuning" means.** [Established, as a description] Physicists have found that some constants of nature and initial conditions of the universe sit in ranges that permit life, and that small changes would, on current models, make life impossible. The SEP lists fine-tuned constants, conditions of the early universe, and laws (Friederich).
     - **The most famous case.** [Established] The *cosmological constant* (the energy of empty space, which drives cosmic expansion): a naive estimate from quantum field theory is larger than the observed value "by an immense number of magnitudes" — "the discrepancy is between 10^50 and 10^123" depending on assumptions — "about 120 orders of magnitude" (SEP). Steven Weinberg (1987) argued that galaxies could form only if the vacuum energy was no more than a few orders of magnitude above its observed value (SEP).
@@ -50,7 +56,10 @@ howItWorks:
     - **Problems with the multiverse inference.** [Debated] Ian Hacking (1987) charged that inferring many universes from our fine-tuned one commits the "inverse gambler's fallacy" (inferring many past rolls from one lucky roll); Roger White (2000) pressed a related point, that many other universes do not make it more likely that "this one" is life-permitting; McGrath, Manson and Thrush, Epstein and others defend the multiverse argument against the charge (SEP). Friederich concludes that "established standards of rationality may not allow us to decide whether the inference from fine-tuning to a multiverse is fallacious or not".
 honestNotes:
   - en: "**The popular claim.** Fine-tuning is often presented as proof that God exists, and 25:2 or 54:49 as having foretold it. Neither is warranted. The verses speak of measure and decree; the commentators read them as about God's decree (Ibn Kathir reports that the Imams of the Sunnah used 54:49 against the Qadariyya), not about physical constants."
+    tr: "**Popüler iddia.** İnce ayar çoğu zaman Allah'ın var olduğunun ispatı olarak, 25:2 ya da 54:49 da onu önceden bildirmiş gibi sunulur. İkisi de yerinde değildir. Âyetler ölçüden ve hükümden söz eder; müfessirler onları fiziksel sabitler hakkında değil, Allah'ın hükmü hakkında okudu (İbn Kesîr, Sünnet imamlarının 54:49'u Kaderiyye'ye karşı kullandığını aktarır)."
   - en: "**The science is real; the inference is debated.** That some constants are life-permitting only in narrow ranges is widely accepted. Whether this points to design, a multiverse or a deeper law is a philosophical question, and the probability calculations behind each are disputed (SEP)."
+    tr: "**Bilim gerçektir; çıkarım tartışmalıdır.** Bazı sabitlerin yalnızca dar aralıklarda hayata izin verdiği yaygın olarak kabul edilir. Bunun tasarıma mı, çoklu evrene mi yoksa daha derin bir yasaya mı işaret ettiği felsefi bir sorudur ve her birinin arkasındaki olasılık hesapları tartışmalıdır (SEP)."
+  - en: The physicist Steven Weinberg, examining the famous carbon-12 case, concluded that "the fine-tuning of the constants of nature here does not seem so fine" — while granting that the cosmological constant "does seem remarkably well adjusted in our favor" (*New York Review of Books*, 1999).
 visualizations:
   - id: ideas
     tr: '"Kozmik kadranlar" ve yanında üç yönlü bir panel: tasarım, çoklu evren, geleceğin fiziği.'
@@ -69,23 +78,39 @@ sources:
 followUps:
   - q:
       en: Does fine-tuning prove God exists?
+      tr: İnce ayar Allah'ın var olduğunu ispat eder mi?
     a:
       en: No. It is one of the stronger pointers in modern design arguments, but philosophers dispute the probabilities and the alternatives (multiverse, deeper law). The SEP sets out both sides.
+      tr: Hayır. Modern tasarım argümanlarındaki güçlü işaretlerden biridir, ama filozoflar olasılıkları ve alternatifleri (çoklu evren, daha derin yasa) tartışıyor. SEP iki tarafı da ortaya koyar.
   - q:
       en: What does *qadar* mean in 54:49?
+      tr: 54:49'da *kader* ne demek?
     a:
       en: Measure and decree. Ibn Kathir reads the verse as affirming God's decree over all things, against the Qadariyya who denied it.
+      tr: Ölçü ve hüküm. İbn Kesîr âyeti, Allah'ın her şey üzerindeki hükmünü, onu inkâr eden Kaderiyye'ye karşı teyit eden bir âyet olarak okur.
   - q:
       en: What is the "inverse gambler's fallacy"?
+      tr: '"Ters kumarbaz yanılgısı" nedir?'
     a:
       en: Inferring many earlier trials from one surprising result — like assuming many dice were thrown before because the roll you saw was a double six. Hacking argued the multiverse inference makes this mistake; others dispute it.
+      tr: Tek bir şaşırtıcı sonuçtan çok sayıda önceki deneme çıkarmak; gördüğünüz atış düşeş olduğu için daha önce çok sayıda zar atıldığını varsaymak gibi. Hacking çoklu evren çıkarımının bu hatayı yaptığını savundu; başkaları buna itiraz ediyor.
   - q:
       en: Is the multiverse a scientific theory?
+      tr: Çoklu evren bilimsel bir teori mi?
     a:
       en: Some versions follow from theories such as inflation, but there is no direct evidence for other universes; the SEP treats the inference to them as debated.
+      tr: Bazı versiyonları şişme gibi teorilerden çıkar, ama başka evrenler için doğrudan bir delil yoktur; SEP onlara yapılan çıkarımı tartışmalı olarak ele alır.
 legacySources:
   - *a1
 reflection:
+  tr: |-
+    Kur'an, Allah'ın "her şeyi yaratıp bir ölçüye göre düzenleyerek takdir etmiş" olduğunu söyler (25:2). Arapça kelime *kadr*, yani ölçüdür. Şeyler sadece yapılmamıştır; bir ölçüye göre yapılmıştır.
+
+    Bugün fizikçiler de ölçüden söz ediyor. Tabiatın bazı sayıları yıldızlara, kimyaya ve hayata izin veren dar aralıklarda bulunuyor. Bunun ne anlama geldiği tartışılıyor: bir tasarımcı, pek çok evren ya da henüz bilmediğimiz daha derin bir yasa. Bu sayfa bilimin Allah'ı ispat ettiğini iddia etmiyor; dürüst notlar argümanın neden tartışmalı olduğunu gösteriyor.
+
+    Tefekkür tartışmadan daha sadedir. Yaşadığımız dünyanın bir ölçüsü var ve bu ölçü okunabiliyor. Yer çekiminin gücünü ve boş uzayın enerjisini yazabiliyor ve onları hayatın ihtiyaç duyduklarıyla karşılaştırabiliyoruz. Müfessirler için *kader*, hiçbir şeyin Allah'ın ölçmesinden ve hükmünden kaçmadığı demekti. Bugünün okuyucusu için bu, dünyanın anlaşılabilir olduğu anlamına da gelebilir: bir aklın izleyebileceği bir biçimde kurulmuş.
+
+    Bir mümin ikisini birden tutabilir: âyetteki ölçüyü ve tartışmanın dürüstlüğünü. Hiçbiri diğerinin abartılmasına ihtiyaç duymaz. Ölçülü bir dünyaya yakışan karşılık, dikkatle ölçmek ve ölçüyü kimin koyduğunu hatırlamaktır.
   en: |-
     The Quran says God "created each thing and determined it with [precise] determination" (25:2). The Arabic word is *qadr*, measure. Things are not just made; they are made to a measure.
 
@@ -95,6 +120,15 @@ reflection:
 
     A believer can hold both: the measure in the verse, and the honesty of the debate. Neither needs the other to be overstated. The fitting response to a measured world is to measure carefully, and to remember who set the measure.
 verseNotes:
+  tr: |-
+    "O öyle bir ilâhtır ki, göklerin ve yerin hükümranlığı kendisinindir. O hiç çocuk edinmedi, hükümranlıkta ortağı yoktur. O, her şeyi yaratıp bir ölçüye göre düzenleyerek takdir etmiştir." (25:2), Furkân Sûresi'nin ikinci âyeti, Mekkî. Âyet Allah'ın tek başına Rab oluşu hakkındadır: Çocuk yok, ortak yok ve her şey O'nun tarafından yapılmış ve ölçülmüş.
+
+    "Haberiniz olsun ki, biz her şeyi bir kadere göre yarattık." (54:49), Mekkî, Kamer Sûresi'nin sonuna doğru, Kıyamet'i inkâr edenlere yapılan uyarılardan sonra.
+
+    "Yeryüzünü düzgün bir şekilde yarattık ve oraya sabit dağlar yerleştirdik. Orada hikmetle ölçülmüş her şeyden bitkiler bitirdik." (15:19), Mekkî.
+
+    - **Anahtar kelimeler.** *Kaddarahû takdîrâ* (25:2): "bir ölçüye göre düzenleyerek takdir etmiştir"; ölçü anlamındaki *kadr*den. *Bi-kader* (54:49): "bir kadere göre"; aynı kök, hem ölçü hem hüküm anlamına gelir. *Mevzûn* (15:19): "hikmetle ölçülmüş", kelimenin tam anlamıyla "tartılmış".
+    - **Âyetler ne diyor?** Her şeyin bir ölçüyle yapıldığını ve bu ölçünün Allah'a ait olduğunu. Fiziksel sabitlerden söz etmezler.
   en: |-
     "He to whom belongs the dominion of the heavens and the earth and who has not taken a son and has not had a partner in dominion and has created each thing and determined it with [precise] determination" (25:2), the second verse of Sura al-Furqān, Meccan. The verse is about God's sole lordship: no son, no partner, and everything made and measured by Him.
 
@@ -105,9 +139,13 @@ verseNotes:
     - **Key words.** *Qaddarahu taqdīran* (25:2): "determined it with [precise] determination", from *qadr*, measure. *Bi-qadar* (54:49): "with predestination" — the same root, meaning both measure and decree. *Mawzūn* (15:19): "well-balanced", literally "weighed".
     - **What the verses say.** That everything is made with a measure, and that this measure is God's. They do not mention physical constants.
 awe:
+  tr: |-
+    - Boş uzayın enerjisine dair saf kuantum tahmini yaklaşık 120 büyüklük mertebesi yanlıştır ve gözlenen değer galaksilerle bağdaşan bir aralıktadır (SEP).
+    - Tabiatın sabitleri ölçülebiliyor: Evren matematikle tarif edilebiliyor ve sayıları hayatın gerektirdikleriyle karşılaştırılabiliyor.
   en: |-
     - The naive quantum estimate of the energy of empty space is wrong by about 120 orders of magnitude, and the observed value sits in a range compatible with galaxies (SEP).
     - The constants of nature are measurable at all: the universe can be described in mathematics, and its numbers can be compared to what life requires.
 legacyHonestNotes:
   - tr: İnce ayar bir kanıt değil, bir davettir.
     en: Fine-tuning is an invitation, not proof.
+translatedFrom: docs/research/tr/S9.md

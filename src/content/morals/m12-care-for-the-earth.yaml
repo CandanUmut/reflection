@@ -17,7 +17,7 @@ verses:
   - 2:205
   - 2:30
 summary:
-  tr: '"Kıyamet kopmak üzereyken birinizin elinde bir hurma fidanı varsa, onu diksin."'
+  tr: "\"yiyin, için, fakat israf etmeyin, Çünkü Allah israf edenleri sevmez.\" (7:31). Hz. Peygamber (s.a.v.), bir kişi bir ağaç diktiğinde ve ondan bir kuş, bir insan ya da bir hayvan yediğinde bunun \"onun için bir sadaka sayıldığını\" öğretti — canlılara özen gösterme öğretisi; ancak Kur'an'daki \"mizan\"ın (55:7–9) ekolojiyle ilgili olup olmadığı klasik değil, modern bir okumadır."
   en: "\"Eat and drink, but be not excessive. Indeed, He likes not those who commit excess\" (7:31). The Prophet (pbuh) taught that when a person plants a tree and a bird, a person or an animal eats from it, it is \"regarded as a charitable gift for him\" — a teaching of care for living things, though whether the Quran's \"balance\" (55:7–9) is about ecology is a modern reading, not the classical one."
 teachings:
   tr: |
@@ -60,10 +60,7 @@ stories:
     - Ottoman waqfs paid for the care of storks and migratory birds, and for "bird palaces" (*kuş köşkleri*) built into mosque walls.
     - Traditional *ḥimā* systems are being revived in parts of the Middle East as community conservation.
 gaps:
-  tr: |
-    - Orta Doğu ve Kuzey Afrika dünyanın su sıkıntısı en yüksek bölgesidir; pek çok Müslüman çoğunluklu ülkede su israfı ve kirliliği ciddi sorunlardır.
-    - Gıda israfı, plastik kullanımı ve aşırı tüketim, Ramazan dâhil pek çok yerde yüksektir.
-    - Müslümanların doğal olarak daha iyi çevreci olduğunu söylemenin bir dayanağı yoktur; burada gösterilen, öğreti ve onunla uygulama arasındaki dürüst boşluktur.
+  tr: Lynn White'ın makalesinin kendisine henüz başvurulmadı, yalnızca bir özete. Din ve çevre davranışı üzerine hiçbir çalışma açılamadı. *Halîfe*nin klasik okuması henüz yeniden kontrol edilmedi. Pek çok Müslüman çoğunluklu ülkede israf ve kirlilik ciddidir; bu sayfa Müslümanların doğal olarak daha iyi çevreciler olduğunu iddia etmiyor.
   en: Lynn White's article itself has not yet been consulted, only a summary. No study of religion and environmental behaviour could be opened. The classical reading of *khalīfa* has not yet been checked again. Waste and pollution are serious in many Muslim-majority countries; this page does not claim Muslims are naturally better environmentalists.
 visualizations:
   - id: ideas
@@ -108,6 +105,10 @@ sources:
 fullAnswer:
   - kind: meaning
     en: '**Isrāf and fasād.** *Isrāf* is excess, going beyond the right measure. *Fasād* is corruption or ruin — in people, society or the land. **Khalīfa** (2:30) means "successor" or "deputy"; many modern writers translate it as "steward". **Ḥimā** is a protected area, closed to private grazing or use.'
+    tr: '**İsraf ve fesat.** *İsraf*, aşırılık, doğru ölçüyü aşmaktır. *Fesat*, insanlarda, toplumda ya da yeryüzünde bozulma ya da yıkımdır. **Halîfe** (2:30) "ardıl" ya da "vekil" demektir; pek çok modern yazar onu "emanetçi" olarak çevirir. **Himâ**, özel otlatmaya ya da kullanıma kapatılmış koruma alanıdır.'
+    title:
+      en: Ne anlama geliyor?
+      tr: Ne anlama geliyor?
   - kind: quran
     en: |-
       **Do not be excessive (7:31; 6:141).** "O children of Adam, take your adornment at every masjid, and eat and drink, but be not excessive" (7:31). And: "Eat of [each of] its fruit when it yields and give its due [zakah] on the day of its harvest. And be not excessive. Indeed, He does not like those who commit excess" (6:141), Meccan. Ibn Kathir reports two readings of "be not excessive" in 6:141: one, that it forbids "excessive charity beyond normal amounts", with Ibn Jurayj's report of Thabit ibn Qays giving away his whole harvest until "he ended up with no dates"; and the "apparent meaning", which he prefers, that it "refers to eating, meaning, do not waste in eating because this spoils the mind and the body". On "its due on the day of its harvest", Mujahid said: "When the poor people are present (on the day of harvest), give them some of the produce", and Saʿid ibn Jubayr said this "was before Zakah became obligatory".
@@ -119,6 +120,19 @@ fullAnswer:
       **The balance (55:7–9).** "And the heaven He raised and imposed the balance That you not transgress within the balance. And establish weight in justice and do not make deficient the balance" (55:7–9), Sura al-Rahman. Ibn Kathir reads *al-mīzān* as "the justice" (citing 57:25) and 55:9 as "do not cheat in the weights and measures, but rather observe justice and fairness". He gives no ecological reading. Reading "the balance" as ecological balance is a modern extension and should be labelled as such.
 
       **Successor on earth (2:30).** "Indeed, I will make upon the earth a successive authority" (2:30).
+    tr: |-
+      **İsraf etmeyin (7:31; 6:141).** "Ey Âdemoğulları! Her mescide gidişinizde güzel giysilerinizi giyin ve yiyin, için, fakat israf etmeyin" (7:31). Ve: "Her biri meyve verince meyvesinden yiyin, hasat günü de hakkını (zekat ve sadakasını) verin; … israf etmeyin, çünkü O, israf edenleri sevmez." (6:141), Mekkî. İbn Kesîr 6:141'deki "israf etmeyin" ifadesinin iki okumasını aktarır: Biri, bunun "normal miktarların ötesinde aşırı sadaka vermeyi" yasakladığıdır; İbn Cüreyc, Sâbit b. Kays'ın bütün hasadını "elinde hiç hurma kalmayana kadar" dağıttığını aktarır. Diğeri, İbn Kesîr'in tercih ettiği "zâhir anlam"dır: Bu ifade "yemeye işaret eder, yani yemekte israf etmeyin, çünkü bu aklı ve bedeni bozar". "Hasat günü de hakkını verin" hakkında Mücâhid şöyle dedi: "(Hasat günü) yoksullar hazır olduğunda, onlara üründen biraz verin"; Saîd b. Cübeyr ise bunun "zekât farz olmadan önce" olduğunu söyledi.
+
+      **Ekini ve hayvanları helâk etmek (2:205).** "İş başına geçti mi yeryüzünde bozgunculuk çıkarmak, ekini ve nesli helak etmek için koşar. Allah ise bozgunculuğu sevmez." (2:205), Medenî. İbn Kesîr, Süddî'den 2:204–205'in "Ahnes b. Şerîk es-Sekafî hakkında indiğini" aktarır, ama Katâde'nin, Mücâhid'in ve Rebî' b. Enes'in, âyetlerin "genel olarak münafıklar ve müminler" hakkında olduğu görüşünü doğru kabul eder. Amacı "hayvanların ürettikleri de dahil olmak üzere ekinleri ve nesli yok etmek" olarak açıklar ve Mücâhid'i zikreder: Allah o zaman "yağmurun yağmasını engeller ve böylece ekinler ve nesil helâk olur." Âyet bozgunculuk yayan insanlar hakkındadır; ekine ve hayvanlara verilen zarar onun sonucudur.
+
+      **İnsanların elleriyle gelen fesat (30:41).** "Yaptıklarının bir kısmını tatsınlar diye insanların kendi ellerinin kazandığı şeyler yüzünden karada ve denizde fesat ortaya çıktı. Umulur ki onlar hakka dönerler." (30:41), Mekkî. Bunu modern kirlilik hakkında bir ifade olarak okumak modern bir uygulamadır; âyet insanların yanlışlarının yol açtığı fesattan, bir uyarı amacıyla söz eder.
+
+      **Mizan (55:7–9).** "Göğü yükseltti ve mizanı koydu. Sakın tartıda taşkınlık etmeyin. Tartıyı adaletle yapın, terazide eksiklik yapmayın." (55:7–9), Rahmân Sûresi. İbn Kesîr *el-mîzân*ı "adalet" olarak okur (57:25'e atıfla) ve 55:9'u "tartılarda ve ölçülerde hile yapmayın, aksine adaleti ve hakkaniyeti gözetin" olarak okur. Ekolojik bir okuma vermez. "Mizan"ı ekolojik denge olarak okumak modern bir genişletmedir ve öyle etiketlenmelidir.
+
+      **Yeryüzünde halife (2:30).** "Ben yeryüzünde bir halife yaratacağım" (2:30).
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **Planting is charity.** Anas (ra) reports: "There is none amongst the Muslims who plants a tree or sows seeds, and then a bird, or a person or an animal eats from it, but is regarded as a charitable gift for him" ({hadith:bukhari:2320}).
@@ -126,6 +140,15 @@ fullAnswer:
       **Plant even at the end.** "If the Hour comes while one of you has a seedling in his hand", he should plant it (al-Adab al-Mufrad 479, narrated by Anas; graded *ṣaḥīḥ* by al-Albani; the rest of the text is summarised here).
 
       **Protected land.** Al-Ṣaʿb ibn Jaththama reports the Prophet's (pbuh) ruling, "No Hima except for Allah and His Apostle"; he designated al-Naqiʿ as a protected area, and later ʿUmar designated al-Sharaf and al-Rabadha for grazing the animals of zakāh ({hadith:bukhari:2370}). The ruling ended private, exclusive enclosures of common pasture, and reserved protection for the public good.
+    tr: |-
+      **Ağaç dikmek sadakadır.** Enes (r.a.) şöyle aktarır: "Müslümanlardan bir ağaç diken ya da tohum eken, sonra ondan bir kuşun, bir insanın ya da bir hayvanın yediği hiç kimse yoktur ki bu onun için bir sadaka sayılmasın" ({hadith:bukhari:2320}).
+
+      **Sonda bile dik.** "Kıyamet koptuğunda birinizin elinde bir fidan varsa" onu diksin (*el-Edebü'l-Müfred* 479, Enes'ten; Elbânî tarafından *sahih* olarak derecelendirildi; metnin geri kalanı burada özetleniyor).
+
+      **Korunan arazi.** Sa'b b. Cessâme, Hz. Peygamber'in (s.a.v.) "Himâ ancak Allah'a ve Resulü'ne aittir" hükmünü aktarır; o, Nakî'yi koruma alanı ilan etti ve daha sonra Hz. Ömer, Şeref'i ve Rebeze'yi zekât hayvanlarının otlatılması için ayırdı ({hadith:bukhari:2370}). Hüküm, ortak meraların özel ve münhasır olarak çevrilmesine son verdi ve korumayı kamu yararına ayırdı.
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: |-
       **The critique at full strength.** In 1967 the historian Lynn White argued in *Science* that the Western ecological crisis has religious roots: that Christianity, by teaching that humans are made to rule nature and by stripping nature of its sacredness, allowed people to exploit it "with indifference". In the summary read, he calls Christianity "the most anthropocentric religion the world has ever seen", says it "bears a huge burden of guilt", and proposes Francis of Assisi as a model. The critique can be applied to Islam too: the Quran says God "subjected" what is in the heavens and earth to humans, and makes humans *khalīfa*.
@@ -133,11 +156,29 @@ fullAnswer:
       **A reply.** First, in the Quran humans are not owners. The earth and what is in it belong to God; humans receive it as a trust (*amāna*, 33:72; see "Amāna") and will be asked about it. Second, the Quran repeatedly condemns excess (7:31; 6:141) and ruin of crops and animals (2:205), and the Prophet (pbuh) made planting a charity and protected land from private seizure (Bukhari 2320, 2370). Third, the Quran does not empty nature of meaning: creation is full of "signs" (*āyāt*) pointing to God (see the Reflect pages), which is closer to reverence than to indifference.
 
       *Limit:* the reply shows what the texts teach; it does not show that Muslims have lived this way. Muslim-majority countries have serious problems of waste and pollution, and the classical commentators read some key verses (55:7–9; 2:30) as about justice and succession, not ecology. "Islam has always been green" would overstate the case.
+
+      Early commentators read *khalīfa* (2:30, "a successive authority") as humankind succeeding earlier beings on earth; al-Tabari explains it as one who "replaces the one who was before him"; later, al-Razi and al-Qurtubi read it as God's deputy who carries out His law (Liew, *Arabica*, 2016).
+    tr: |-
+      **Eleştiri tam gücüyle.** 1967'de tarihçi Lynn White, *Science* dergisinde Batı'nın ekolojik krizinin dinî kökleri olduğunu savundu: Hristiyanlığın, insanların doğaya hükmetmek için yaratıldığını öğreterek ve doğayı kutsallığından soyarak, insanların onu "kayıtsızlıkla" sömürmesine izin verdiğini. Okunan özette Hristiyanlığı "dünyanın gördüğü en insanmerkezci din" olarak niteler, onun "büyük bir suç yükü taşıdığını" söyler ve Assisili Francesco'yu bir model olarak önerir. Eleştiri İslam'a da uygulanabilir: Kur'an, Allah'ın göklerde ve yerde olanları insanlara "musahhar kıldığını" söyler ve insanları *halîfe* yapar.
+
+      **Bir cevap.** Birincisi, Kur'an'da insanlar sahip değildir. Yeryüzü ve onda olanlar Allah'ındır; insanlar onu bir emanet olarak alır (*emânet*, 33:72; bkz. "Emanet: güven, doğruluk, sözü tutmak") ve ondan sorumlu tutulacaklardır. İkincisi, Kur'an israfı (7:31; 6:141) ve ekinin ve hayvanların helâk edilmesini (2:205) tekrar tekrar kınar ve Hz. Peygamber (s.a.v.) ağaç dikmeyi sadaka yaptı ve araziyi özel el koymaya karşı korudu (Buhârî 2320, 2370). Üçüncüsü, Kur'an doğayı anlamdan boşaltmaz: Yaratılış Allah'ı gösteren "âyetlerle" (*âyât*) doludur (Tefekkür sayfalarına bak); bu kayıtsızlıktan çok saygıya yakındır.
+
+      *Sınır:* Cevap metinlerin ne öğrettiğini gösterir; Müslümanların bu şekilde yaşadığını göstermez. Müslüman çoğunluklu ülkelerin ciddi israf ve kirlilik sorunları var ve klasik müfessirler bazı anahtar âyetleri (55:7–9; 2:30) ekoloji değil, adalet ve halefiyet hakkında okudu. "İslam her zaman yeşildi" demek durumu abartmak olur.
+    title:
+      en: "En zor eleştiri: Lynn White"
+      tr: "En zor eleştiri: Lynn White"
   - kind: research
     en: |-
       **Water stress.** [Established for the figures.] The World Resources Institute's Aqueduct data (2023) find that "25 countries or a quarter of the world's population are currently exposed to extremely high water stress annually", and that in West Asia and North Africa "83 per cent of the population is exposed to extremely high water stress" (*Down To Earth*, 2023). Many of these countries are Muslim-majority; 7:31 and 6:141 speak directly to waste.
 
       **Religion and environmental behaviour.** No named study could be opened (two were blocked), so no figures are given. *Time in nature* (White et al., 2019) has not yet been checked again.
+    tr: |-
+      **Su stresi.** [Established, rakamlar için.] Dünya Kaynakları Enstitüsü'nün Aqueduct verileri (2023), "25 ülkenin ya da dünya nüfusunun dörtte birinin şu anda her yıl aşırı yüksek su stresine maruz kaldığını" ve Batı Asya ile Kuzey Afrika'da "nüfusun yüzde 83'ünün aşırı yüksek su stresine maruz kaldığını" buluyor (*Down To Earth*, 2023). Bu ülkelerin çoğu Müslüman çoğunluklu; 7:31 ve 6:141 doğrudan israftan söz eder.
+
+      **Din ve çevre davranışı.** Adı belli hiçbir çalışma açılamadı (ikisi engellendi), dolayısıyla rakam verilmiyor. *Doğada geçirilen zaman* (White ve ark., 2019) henüz yeniden kontrol edilmedi.
+    title:
+      en: Araştırmalar ne gösteriyor?
+      tr: Araştırmalar ne gösteriyor?
   - kind: practice
     en: |-
       **Use water as if it were scarce**, because for most people in the region it is: shorter showers, fix leaks, take only what you need in ablution.
@@ -147,32 +188,58 @@ fullAnswer:
       **Plant something** — a tree, a garden, a pot on a balcony (Bukhari 2320).
 
       **Support public goods** — parks, protected areas, clean water — as the *ḥimā* did.
+    tr: |-
+      **Suyu kıtmış gibi kullan**, çünkü bölgedeki çoğu insan için öyledir: daha kısa duşlar, sızıntıları tamir et, abdestte yalnızca ihtiyacın kadarını al.
+
+      **İsraf etmeden ye** (7:31): yiyeceğin kadar pişir, artanı paylaş ya da sakla.
+
+      **Bir şey dik** — bir ağaç, bir bahçe, balkonda bir saksı (Buhârî 2320).
+
+      **Kamu mallarını destekle** — parklar, koruma alanları, temiz su — *himâ*nın yaptığı gibi.
+    title:
+      en: Günlük hayatta
+      tr: Günlük hayatta
   - kind: heart
     en: "**If you feel despair about climate change**, the hadith of the seedling speaks to you: even at the end, plant it. Your action matters even if you cannot see its result."
+    tr: "**İklim değişikliği karşısında umutsuzluk hissediyorsan**, fidan hadisi sana seslenir: Sonda bile onu dik. Sonucunu göremesen bile eylemin önemlidir."
+    title:
+      en: Zorlanan kişi için
+      tr: Zorlanan kişi için
 followUps:
   - q:
       en: Is "the balance" in 55:7–9 about ecology?
+      tr: 55:7–9'daki "mizan" ekolojiyle mi ilgili?
     a:
       en: Ibn Kathir reads it as justice and honest weights. The ecological reading is modern.
+      tr: İbn Kesîr onu adalet ve dürüst tartı olarak okur. Ekolojik okuma moderndir.
   - q:
       en: What does "be not excessive" mean in 6:141?
+      tr: 6:141'deki "israf etmeyin" ne demek?
     a:
       en: Ibn Kathir prefers "do not waste in eating"; another reading is "do not give away everything".
+      tr: İbn Kesîr "yemekte israf etmeyin" anlamını tercih eder; başka bir okuma "her şeyi dağıtmayın"dır.
   - q:
       en: Is 2:205 about environmental destruction?
+      tr: 2:205 çevre tahribatıyla mı ilgili?
     a:
       en: Classically it describes hypocrites who spread ruin, with crops and livestock destroyed as a result (Ibn Kathir); using it for environmental harm is an extension.
+      tr: Klasik olarak, sonucunda ekinlerin ve hayvanların helâk olduğu, bozgunculuk yayan münafıkları anlatır (İbn Kesîr); onu çevreye verilen zarar için kullanmak bir genişletmedir.
   - q:
       en: How should a Muslim answer Lynn White?
+      tr: Bir Müslüman Lynn White'a nasıl cevap vermeli?
     a:
       en: By pointing to trust, accountability, the condemnation of excess and the protected *ḥimā* — and by admitting that practice has often fallen short.
+      tr: Emanete, hesap vermeye, israfın kınanmasına ve korunan *himâ*ya işaret ederek — ve uygulamanın çoğu zaman bunun gerisinde kaldığını kabul ederek.
   - q:
       en: What is a *ḥimā*?
+      tr: "*Himâ* nedir?"
     a:
       en: A protected area. The Prophet (pbuh) ruled that only public authority, not private owners, could create one ({hadith:bukhari:2370}).
+      tr: Bir koruma alanı. Hz. Peygamber (s.a.v.), özel sahiplerin değil, yalnızca kamu otoritesinin bir himâ oluşturabileceğine hükmetti ({hadith:bukhari:2370}).
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
   - *a5
+translatedFrom: docs/research/tr/M12.md

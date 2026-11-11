@@ -14,16 +14,13 @@ helpCard: false
 verses:
   - 103:1-3
 steelman:
-  tr: |
-    İmanı neden kişisel tutmayayım?
+  tr: "\"Allah'a inanıyorum. Bazen kendi sözlerimle dua ediyorum. Ama cami yargılandığım yer, kurallar bitmek bilmiyor gibi ve din hakkında en yüksek sesle konuşanlar çoğu zaman en nazik olanlar değil. İman bir kalp meselesidir. Neden kalbi tutup kurumu bırakamıyorum? Samimi inanç, şekli yerine getirmekten daha değerli değil mi?\""
   en: "\"I believe in God. I pray sometimes, in my own words. But the mosque is where I was judged, the rules seem endless, and the people most loud about religion are often not the kindest. Faith is a matter of the heart. Why can't I keep the heart and leave the institution? Isn't sincere belief worth more than going through the motions?\""
 whyAsked:
-  tr: |
-    KONDA 2025: "inançlı ama dindar değil" diyenler %31'den %34'e yükseldi.
+  tr: "Bazıları dinî topluluklarda incindi — utandırıldı, kontrol edildi ya da ikiyüzlülükle karşılaştı. Bazıları kuralları katı, ruhu ise eksik buluyor. Bazıları kişisel maneviyatın norm olduğu bir kültürde yaşıyor: Amerika Birleşik Devletleri'nde yetişkinlerin %27'si 2017'de kendini dindar değil ama manevi biri olarak tanımladı; bu oran beş yılda 8 puan arttı (Pew)."
   en: "Some were hurt in religious communities — shamed, controlled, or met with hypocrisy. Some find rules rigid and the spirit missing. Some live in a culture where personal spirituality is the norm: in the United States, 27% of adults described themselves as spiritual but not religious in 2017, up 8 points in five years (Pew)."
 shortAnswer:
-  tr: |
-    Kalpteki iman temeldir; beden ve ruh birlikte olduğu gibi, pratik de onu ayakta tutar. Küçük başla.
+  tr: "İslam kalbin önce geldiği konusunda hemfikirdir: İman, özünde, kalbin tasdik ettiği şeydir. Kur'an imanı çoğu zaman amellerle birlikte anar; örneğin: \"İnsan mutlaka ziyandadır. Ancak iman edenler, salih amel (iyi işler) işleyenler, birbirlerine hakkı tavsiye eden ve sabrı tavsiye edenler bunun dışındadır\" (103:2–3). Cibrîl hadisi dini üç katman hâlinde tarif eder — dış uygulama (*islâm*), iç inanç (*îmân*) ve güzellik (*ihsân*, \"Allah'a O'nu görüyormuş gibi ibadet etmek\") — ve üçüne birlikte \"dinleri\" der. Sünnî mezhepler amellerin imanın *parçası* olup olmadığı konusunda ayrıldı, ama hiçbiri amellerin önemsiz olduğunu savunmadı (buna en çok yaklaşan erken dönem bir grup olan Mürcie'ydi; aşağıya bak). İslam'ın istediği asgari şey küçük ve açıktır (Buhârî 46). Bir topluluk seni incittiyse, bu sana yapılmış bir haksızlıktır, Allah hakkında bir hüküm değil; uygulamanı yavaş yavaş, küçük başlayarak yeniden kurabilir ve nerede ve kiminle olacağını seçebilirsin."
   en: 'Islam agrees that the heart comes first: faith is, at its root, what the heart affirms. The Quran often pairs faith with deeds, as in: "Indeed, mankind is in loss, Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience" (103:2–3). The hadith of Jibril describes religion in three layers — outward practice (*islām*), inward belief (*īmān*) and excellence (*iḥsān*, "To worship Allah as if you see Him") — and calls all three together "their religion". The Sunni schools disagreed on whether deeds are *part* of faith, but none of them held that deeds do not matter (an early group, the Murjiʾa, came closest; see below). The minimum Islam asks is small and clear (Bukhari 46). If a community hurt you, that is a wrong done to you, not a verdict on God; you can rebuild practice slowly, starting small, and choose where and with whom.'
 layers:
   - kind: religious
@@ -43,8 +40,7 @@ layers:
       Arada kalmış bir evre sağlıklı olabilir.
     en: An in-between stage can be healthy.
 honestLimits:
-  tr: |
-    KONDA'nın "inançlı" kategorisi geniştir.
+  tr: Amellerin imanın parçası olduğu görüşüne henüz onu savunanların kendi sözleriyle başvurulmadı. Müslim 8'e, KONDA verilerine ve Heelas ve Woodhead'in kitabının kendisine henüz başvurulmadı. "Dindar değil ama manevi" insanlar arasında iyi oluş üzerine hiçbir çalışma okunmadı.
   en: The position that deeds are part of faith has not yet been consulted in its holders' own words. Muslim 8, the KONDA data, and Heelas & Woodhead's book itself have not yet been consulted. No study of wellbeing among "spiritual but not religious" people was read.
 visualizations:
   - id: ideas
@@ -84,16 +80,34 @@ fullAnswer:
       **What was done to you was wrong, and God is not the one who did it.** The Quran says God is close to the person who calls on Him, without any middleman: "And when My servants ask you, [O Muhammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me" (2:186). You can begin there: alone, in your own words.
 
       **You do not have to go back to the same place.** Practice is owed to God, not to a particular mosque or group. Many people rebuild their practice at home first, then find a smaller, kinder community, a teacher they trust, or one friend to pray with. If what happened to you was abuse, talk to someone outside that community; Find A Helpline (findahelpline.com) lists free, confidential support lines in many countries.
+    tr: |-
+      **Sana yapılan yanlıştı ve onu yapan Allah değildi.** Kur'an, Allah'ın kendisine dua edene hiçbir aracı olmadan yakın olduğunu söyler: "Şayet kullarım, sana benden sordularsa, gerçekten ben çok yakınımdır. Bana dua edince, duacının duasını kabul ederim." (2:186). Oradan başlayabilirsin: yalnız, kendi sözlerinle.
+
+      **Aynı yere geri dönmek zorunda değilsin.** İbadet belirli bir camiye ya da gruba değil, Allah'a borçludur. Pek çok insan uygulamasını önce evde yeniden kurar, sonra daha küçük, daha nazik bir topluluk, güvendiği bir hoca ya da birlikte namaz kılacağı bir arkadaş bulur. Başına gelen istismarsa, o topluluğun dışından biriyle konuş; Find A Helpline (findahelpline.com) pek çok ülkede ücretsiz ve gizli destek hatlarını listeler.
+    title:
+      en: İncindiğin yer dindar insanlarsa
+      tr: İncindiğin yer dindar insanlarsa
   - kind: quran
     en: "**Faith and deeds together (103).** \"By time, Indeed, mankind is in loss, Except for those who have believed and done righteous deeds and advised each other to truth and advised each other to patience\" (103:1–3), a short Meccan sura. It names four things that save from loss: belief, righteous deeds, and two things done *with others* — urging one another to truth and to patience. The sura's picture of salvation is not private."
+    tr: '**İman ve amel birlikte (103).** "Asra yemin olsun ki, İnsan mutlaka ziyandadır. Ancak iman edenler, salih amel (iyi işler) işleyenler, birbirlerine hakkı tavsiye eden ve sabrı tavsiye edenler bunun dışındadır" (103:1–3), kısa bir Mekkî sûre. Ziyandan kurtaran dört şeyi sayar: iman, salih amel ve *başkalarıyla birlikte* yapılan iki şey — birbirine hakkı ve sabrı tavsiye etmek. Sûrenin kurtuluş tablosu bireysel değildir.'
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **The hadith of Jibril.** A stranger came to the Prophet (pbuh) and asked about faith, Islam and excellence. In Abu Hurayra's (ra) report: "Faith is to believe in Allah, His angels, (the) meeting with Him, His Apostles, and to believe in Resurrection"; Islam is "To worship Allah Alone and none else, to offer prayers perfectly", to pay zakat and to fast Ramadan; and *iḥsān* is "To worship Allah as if you see Him", and if you cannot, to know that He sees you. Afterwards the Prophet (pbuh) said: "That was Gabriel who came to teach the people their religion" ({hadith:bukhari:50}). The point for this question: "religion" here is all three layers at once — the outward, the inward, and the spirit that joins them.
 
       **The minimum, from a man who asked for it.** A man from Najd asked the Prophet (pbuh) what Islam required. He was told: "You have to offer prayers perfectly five times in a day and night (24 hours)", "You have to observe fasts during the month of Ramadan", and "You have to pay the Zakat (obligatory charity)". After each duty he asked whether there was more; each time the answer was no, unless he wished to do more voluntarily — for prayer, "No, but if you want to offer the Nawafil prayers (you can)"; for zakat, "No, unless you want to give alms of your own". He vowed to do exactly that, no more and no less, and the Prophet (pbuh) said: "If what he said is true, then he will be successful (i.e. he will be granted Paradise)" ({hadith:bukhari:46}, narrated by Talha ibn ʿUbaydullah (ra)). Islam's required core is small.
+    tr: |-
+      **Cibrîl hadisi.** Bir yabancı Hz. Peygamber'e (s.a.v.) geldi ve ona iman, İslam ve ihsanı sordu. Ebû Hüreyre'nin (r.a.) rivayetinde: "İman, Allah'a, meleklerine, O'na kavuşmaya, peygamberlerine inanmak ve dirilişe inanmaktır"; İslam "Yalnızca Allah'a ibadet etmek ve başkasına etmemek, namazı tam olarak kılmak", zekâtı vermek ve Ramazan orucunu tutmaktır; ve *ihsân* "Allah'a O'nu görüyormuş gibi ibadet etmektir"; buna gücün yetmiyorsa, O'nun seni gördüğünü bilmektir. Sonra Hz. Peygamber (s.a.v.) şöyle buyurdu: "Bu, insanlara dinlerini öğretmeye gelen Cebrâil'di" ({hadith:bukhari:50}). Bu soru açısından önemli nokta: Burada "din", üç katmanın hepsidir — dış, iç ve onları birleştiren ruh.
+
+      **Asgari olanı soran bir adamdan.** Necid'den bir adam Hz. Peygamber'e (s.a.v.) İslam'ın neyi gerektirdiğini sordu. Ona şöyle denildi: "Bir gün ve gecede (24 saatte) beş vakit namazı tam olarak kılmalısın", "Ramazan ayında oruç tutmalısın" ve "Zekâtı (farz sadakayı) vermelisin". Her görevden sonra daha fazlası olup olmadığını sordu; her seferinde cevap, gönüllü olarak daha fazlasını yapmak istemedikçe hayırdı — namaz için, "Hayır, ama nafile namaz kılmak istersen (kılabilirsin)"; zekât için, "Hayır, kendi isteğinle sadaka vermek istemedikçe". Tam olarak bunu, ne fazla ne eksik yapacağına yemin etti ve Hz. Peygamber (s.a.v.) şöyle buyurdu: "Dediği doğruysa, kurtuluşa erecektir (yani ona cennet verilecektir)" ({hadith:bukhari:46}, Talha b. Ubeydullah'tan (r.a.)). İslam'ın farz olan özü küçüktür.
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: |-
-      **Why it mattered.** In the first Islamic century, the Kharijites held that a person who commits a grave sin leaves Islam (*Wikipedia*, "Murji'ah"). Others, the Murjiʾa, "prioritized the importance of one's professed faith over the acts, deeds, or rituals they performed", holding that deeds do not affect faith (*Wikipedia*). The later schools took positions between these.
+      **Why it mattered.** In the first Islamic century, the Kharijites held that a person who commits a grave sin leaves Islam (*Wikipedia*, "Murji'ah"). The Kharijites held "that serious sinners should be ousted from the community"; the Murjiʾa answered that "no one who once professed Islam could be declared kāfir (infidel), mortal sins notwithstanding", and left judgment to God (*Britannica*, "Murjiʾah"). The later schools took positions between these.
 
       **The Hanafi–Maturidi view.** In the creed attributed to Abu Hanifa (*al-Fiqh al-Akbar*), faith is "affirmation by the heart (tasdiq bil-qalb) and attestation by the tongue (iqrar bil-lisan)"; "actions are not part of the definition of iman, though they are obligatory requirements and indicators of its strength"; and "iman does not increase or decrease" (islam.wiki's explanatory chapter). Abu Hanifa "was often associated with the Murji'ah" (*Wikipedia*), but this view still treats deeds as obligatory.
 
@@ -102,6 +116,19 @@ fullAnswer:
       **What both sides agree on.** No Sunni school taught that prayer and fasting are optional for someone who believes. Even the Hanafi side, which keeps deeds out of the definition, holds (in islam.wiki's explanation of *al-Fiqh al-Akbar*, ch. 3) that "actions are not part of the definition of iman, though they are obligatory requirements"; the same chapter gives the other side — Shafiʿi and Hanbali scholars and the hadith scholars — as holding that faith "increases through acts of obedience and decreases through sin". The disagreement is about definitions — whether a believer who neglects deeds is a sinful believer or someone whose faith is damaged — not about whether deeds matter.
 
       **Al-Qushayri on inner and outer religion.** Al-Qushayri, the author of the classic Sufi manual *al-Risāla*, is cited by Rabbani for the distinction between states of the heart: fear and hope concern what is to come, while contraction (*qabḍ*) and expansion (*basṭ*) concern the present moment. Rabbani's summary: these states are "neither achievements nor failures. They are visitations, and they alternate." In this tradition, inner life is lived *through* steady practice, not instead of it: "worship carried out without sweetness is frequently weightier than worship carried by feeling" (Rabbani's words).
+    tr: |-
+      **Neden önemliydi?** İslam'ın ilk yüzyılında Hâricîler, büyük günah işleyen kişinin İslam'dan çıktığını savundu (*Wikipedia*, "Murji'ah"). Diğerleri, Mürcie, "kişinin dile getirdiği imanı yaptığı fiillerin, amellerin ya da ibadetlerin önüne koydu" ve amellerin imanı etkilemediğini savundu (*Wikipedia*). Sonraki mezhepler bunların arasında tutumlar aldı.
+
+      **Hanefî–Mâtürîdî görüşü.** Ebû Hanîfe'ye nispet edilen akide metninde (*el-Fıkhu'l-Ekber*), iman "kalple tasdik (tasdîk bi'l-kalb) ve dille ikrardır (ikrâr bi'l-lisân)"; "ameller imanın tanımının parçası değildir, ama farz olan gereklilikler ve gücünün göstergeleridir"; ve "iman artmaz ve eksilmez" (islam.wiki'nin açıklayıcı bölümü). Ebû Hanîfe "çoğu zaman Mürcie ile ilişkilendirildi" (*Wikipedia*), ama bu görüş amelleri yine de farz sayar.
+
+      **Diğer görüş.** Başka Sünnî âlimler, özellikle hadis âlimleri, imanın amelleri içerdiğini ve onlarla birlikte artıp eksildiğini savundu. (Bu görüşü savunanların kendi sözleriyle ortaya koyan hiçbir kaynak okunmadı.)
+
+      **İki tarafın da hemfikir olduğu şey.** Hiçbir Sünnî mezhep, inanan biri için namazın ve orucun isteğe bağlı olduğunu öğretmedi. Amelleri tanımın dışında tutan Hanefî taraf bile (islam.wiki'nin *el-Fıkhu'l-Ekber* açıklamasında, 3. bölüm) "amellerin imanın tanımının parçası olmadığını, ama farz olan gereklilikler olduğunu" kabul eder; aynı bölüm diğer tarafı — Şâfiî ve Hanbelî âlimleri ve hadis âlimlerini — imanın "itaat amelleriyle arttığını ve günahla eksildiğini" savunan taraf olarak verir. Anlaşmazlık tanımlarla ilgilidir — amelleri ihmal eden bir mümin günahkâr bir mümin midir, yoksa imanı zarar görmüş biri mi — amellerin önemli olup olmadığıyla değil.
+
+      **Kuşeyrî iç ve dış din üzerine.** Klasik tasavvuf el kitabı *er-Risâle*'nin yazarı Kuşeyrî, Rabbani tarafından kalbin hâlleri arasındaki ayrım için zikredilir: Havf ve recâ gelecek olanla ilgilidir, *kabz* (daralma) ve *bast* (genişleme) ise şimdiki anla. Rabbani'nin özeti: Bu hâller "ne başarı ne de başarısızlıktır. Ziyaretlerdir ve birbirini izler." Bu gelenekte iç hayat, düzenli uygulamanın yerine değil, onun *aracılığıyla* yaşanır: "Tatsız yapılan ibadet, çoğu zaman duyguyla taşınan ibadetten daha ağırdır" (Rabbani'nin sözleri).
+    title:
+      en: Ameller imanın parçası mı? Klasik tartışma
+      tr: Ameller imanın parçası mı? Klasik tartışma
   - kind: reasoning
     en: |-
       **1. Faith that is never acted on fades.** Trust between people is kept alive by acts — a call, a visit, a promise kept. The Quran's pairing of "believed and done righteous deeds" (103:3) treats faith the same way: belief is shown and strengthened in what one does. This is an argument from ordinary experience, not a proof.
@@ -111,6 +138,17 @@ fullAnswer:
       **3. Religion includes other people.** 103:3 ends with "advised each other to truth and advised each other to patience". No one can do that alone. A community, at its best, is where someone notices you are struggling.
 
       *Limit:* the argument shows why practice and community help faith; it does not show that a particular community is healthy. A community can also damage faith. The answer to that is to choose carefully, not to give up practice.
+    tr: |-
+      **1. Hiç uygulanmayan iman söner.** İnsanlar arasındaki güven eylemlerle canlı tutulur — bir telefon, bir ziyaret, tutulan bir söz. Kur'an'ın "iman edenler, salih amel işleyenler" eşleştirmesi (103:3) imana aynı şekilde yaklaşır: İnanç, yapılanlarda görünür ve güçlenir. Bu bir ispat değil, gündelik tecrübeden bir argümandır.
+
+      **2. Uygulama seni dürüst tutar.** Kişisel maneviyat kolayca ruh hâllerimize uyacak şekilde biçimlenir. Sabit uygulama — belli vakitlerde namaz, bir ay oruç, servetten bir pay vermek — bizden canımız istemediğinde de bir şeyler ister. Karakter orada oluşur.
+
+      **3. Din başka insanları da içerir.** 103:3 "birbirlerine hakkı tavsiye eden ve sabrı tavsiye edenler" ile biter. Bunu kimse tek başına yapamaz. Bir topluluk, en iyi hâlinde, birinin senin zorlandığını fark ettiği yerdir.
+
+      *Sınır:* Argüman, uygulamanın ve topluluğun imana neden yardım ettiğini gösterir; belirli bir topluluğun sağlıklı olduğunu göstermez. Bir topluluk imana zarar da verebilir. Buna cevap uygulamayı bırakmak değil, dikkatle seçmektir.
+    title:
+      en: Uygulama imanı neden ayakta tutar?
+      tr: Uygulama imanı neden ayakta tutar?
   - kind: science
     en: |-
       **In the United States.** Pew's 2017 survey found 27% of adults spiritual but not religious, 48% both religious and spiritual, 6% religious but not spiritual, and 18% neither. The share calling themselves religious fell 11 points since 2012, to 54%; the share calling themselves spiritual held at 75%. Most of the growth came from people who had previously called themselves both (Pew). [Established, for the US] The sample size was not stated on the page read.
@@ -118,6 +156,15 @@ fullAnswer:
       **In Britain.** Paul Heelas and Linda Woodhead's *The Spiritual Revolution* (2005) studied the town of Kendal. They contrasted "life-as" religion (living by others' expectations) with "subjective-life" spirituality (living by one's inner path), and the "congregational domain" with the "holistic milieu". The holistic milieu grew by about "300%" in the 1990s, yet in 2001 the congregational side still had five times as many participants. The authors predicted that "in 40 or so years time the congregational domain and holistic milieu of Britain will have become much the same size"; the reviewer called this "optimistic, at best" (*Catholic Books Review*, 2006).
 
       **Wellbeing.** No study comparing the wellbeing of religious and "spiritual but not religious" people was read.
+    tr: |-
+      **Amerika Birleşik Devletleri'nde.** Pew'in 2017 anketi yetişkinlerin %27'sini dindar değil ama manevi, %48'ini hem dindar hem manevi, %6'sını dindar ama manevi değil ve %18'ini hiçbiri olarak buldu. Kendini dindar olarak tanımlayanların oranı 2012'den bu yana 11 puan düşerek %54'e indi; kendini manevi olarak tanımlayanların oranı %75'te sabit kaldı. Artışın çoğu daha önce kendini her ikisi olarak tanımlayan insanlardan geldi (Pew). [Established, ABD için] Okunan sayfada örneklem büyüklüğü belirtilmemişti.
+
+      **Britanya'da.** Paul Heelas ve Linda Woodhead'in *The Spiritual Revolution* (*Manevi Devrim*, 2005) adlı çalışması Kendal kasabasını inceledi. "Hayat-olarak" dini (başkalarının beklentilerine göre yaşamak) "öznel-hayat" maneviyatıyla (kişinin iç yoluna göre yaşamak) ve "cemaat alanını" "bütüncül çevreyle" karşılaştırdılar. Bütüncül çevre 1990'larda yaklaşık "%300" büyüdü, ama 2001'de cemaat tarafının hâlâ beş kat daha fazla katılımcısı vardı. Yazarlar "40 kadar yıl sonra Britanya'nın cemaat alanı ile bütüncül çevresinin aşağı yukarı aynı büyüklükte olacağını" öngördü; inceleme yazarı bunu "en iyi ihtimalle iyimser" olarak nitelendirdi (*Catholic Books Review*, 2006).
+
+      **İyi oluş.** Dindar insanlar ile "dindar değil ama manevi" insanların iyi oluşunu karşılaştıran hiçbir çalışma okunmadı.
+    title:
+      en: '"Dindar değil ama manevi" üzerine araştırmalar ne gösteriyor?'
+      tr: '"Dindar değil ama manevi" üzerine araştırmalar ne gösteriyor?'
   - kind: objection
     en: |-
       **"Sincere belief is worth more than empty ritual."** *Reply:* Islam agrees that ritual without sincerity is hollow — the Prophet (pbuh) said a fast that does not stop false speech is not needed by God ({hadith:bukhari:1903}). But the answer to hollow practice is sincere practice, not no practice. *Limit:* someone may still feel that their sincerity is better kept outside structures; the tradition's reply is that this is a stage, not a home.
@@ -125,6 +172,15 @@ fullAnswer:
       **"Religious communities are full of hypocrites."** *Reply:* some are; the Quran itself condemns hypocrisy at length. Other people's failures do not cancel your own relationship with God. *Limit:* if the hurt is deep, the practical way back may take years, and that is acceptable.
 
       **"Isn't this just about control?"** *Reply:* the required core is small (Bukhari 46); much of what feels like control is culture or one group's rules, not the religion's minimum. *Limit:* some rules are clear and binding, and a person who rejects them is disagreeing with Islam, not only with a mosque.
+    tr: |-
+      **"Samimi inanç boş ritüelden daha değerlidir."** *Cevap:* İslam samimiyetsiz ritüelin boş olduğu konusunda hemfikirdir — Hz. Peygamber (s.a.v.), yalan sözü bırakmayan bir oruca Allah'ın ihtiyacı olmadığını söyledi ({hadith:bukhari:1903}). Ama boş uygulamanın cevabı uygulamasızlık değil, samimi uygulamadır. *Sınır:* Biri yine de samimiyetini yapıların dışında tutmanın daha iyi olduğunu hissedebilir; geleneğin cevabı bunun bir durak olduğu, bir yurt olmadığıdır.
+
+      **"Dinî topluluklar ikiyüzlülerle dolu."** *Cevap:* Bazıları öyle; Kur'an'ın kendisi ikiyüzlülüğü uzun uzun kınar. Başka insanların başarısızlıkları senin Allah'la kendi ilişkini iptal etmez. *Sınır:* Yara derinse, pratikte geri dönüş yıllar alabilir ve bu kabul edilebilir.
+
+      **"Bu sadece kontrolle ilgili değil mi?"** *Cevap:* Farz olan öz küçüktür (Buhârî 46); kontrol gibi hissettiren şeylerin çoğu dinin asgarisi değil, kültür ya da bir grubun kurallarıdır. *Sınır:* Bazı kurallar açık ve bağlayıcıdır ve onları reddeden biri yalnızca bir camiyle değil, İslam'la da anlaşmazlık içindedir.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Mainstream Sunni teaching** — faith and practice belong together; the required core is the five prayers, Ramadan, zakat (and Hajj for those able).
@@ -132,33 +188,55 @@ fullAnswer:
       - **Hadith scholars and others** — deeds are part of faith.
       - **Sufi tradition (e.g. al-Qushayri)** — inner states matter, but are lived through steady practice.
       - **"Spiritual but not religious" in the West** — inner spirituality without institutional practice (Pew; Heelas & Woodhead).
+    tr: |-
+      - **Ana akım Sünnî öğreti** — iman ve uygulama birbirine aittir; farz olan öz beş vakit namaz, Ramazan orucu ve zekâttır (ve gücü yetenler için hac).
+      - **Hanefî–Mâtürîdî akidesi** — ameller imanın tanımının parçası değildir, ama farzdır.
+      - **Hadis âlimleri ve diğerleri** — ameller imanın parçasıdır.
+      - **Tasavvuf geleneği (ör. Kuşeyrî)** — iç hâller önemlidir, ama düzenli uygulama aracılığıyla yaşanır.
+      - **Batı'da "dindar değil ama manevi"** — kurumsal uygulama olmadan iç maneviyat (Pew; Heelas ve Woodhead).
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: Why can't faith in the heart be enough?
+      tr: Kalpteki iman neden yeterli olamaz?
     a:
       en: For the Hanafi–Maturidi school, faith *is* in the heart and on the tongue — but deeds are still obligatory. For others, deeds are part of faith. Either way, the Quran ties salvation to belief *and* deeds (103:3). Practice is how faith is kept alive and tested.
+      tr: Hanefî–Mâtürîdî mezhebi için iman *kalpte* ve dildedir — ama ameller yine de farzdır. Diğerleri için ameller imanın parçasıdır. Her iki durumda da Kur'an kurtuluşu iman *ve* amellere bağlar (103:3). Uygulama, imanın canlı tutulmasının ve sınanmasının yoludur.
   - q:
       en: What is the minimum Islam asks of me, and what does "start small" mean?
+      tr: İslam'ın benden istediği asgari şey nedir ve "küçük başla" ne demek?
     a:
       en: 'The core, as in Bukhari 46: the five daily prayers, fasting Ramadan, zakat (Hajj, for those able, is in other reports not read). "Start small" can mean: one prayer on time each day, then two; learning the meaning of al-Fātiḥa; one voluntary act a week. "the most beloved deed to Allah is the most regular and constant even if it were little" ({hadith:bukhari:6464}, narrated by ʿĀʾisha (ra)).'
+      tr: "Buhârî 46'daki öz: beş vakit namaz, Ramazan orucu, zekât (gücü yetenler için hac, okunmayan başka rivayetlerde geçer). \"Küçük başla\" şu anlama gelebilir: Her gün bir namazı vaktinde kıl, sonra iki; Fâtiha'nın anlamını öğren; haftada bir gönüllü amel. \"Allah'a en sevimli amel, az da olsa en düzenli ve devamlı olanıdır\" ({hadith:bukhari:6464}, Hz. Âişe'den (r.a.))."
   - q:
       en: What if mosques and religious communities are where I was hurt?
+      tr: Ya camiler ve dinî topluluklar incindiğim yerse?
     a:
       en: Start privately with God, who says "I am near" (2:186). Find one safe person or small group later. If it was abuse, seek outside help.
+      tr: "\"Ben çok yakınımdır\" diyen Allah'la (2:186) önce baş başa başla. Daha sonra güvenli bir kişi ya da küçük bir grup bul. İstismar söz konusuysa dışarıdan yardım al."
   - q:
       en: What is the hadith of Jibril, and what does it say about *islām*, *īmān* and *iḥsān*?
+      tr: Cibrîl hadisi nedir ve *islâm*, *îmân* ve *ihsân* hakkında ne der?
     a:
       en: A report in which Jibril, in human form, asked the Prophet (pbuh) about religion. *Islām* is outward practice; *īmān* is belief; *iḥsān* is "To worship Allah as if you see Him" ({hadith:bukhari:50}).
+      tr: Cebrâil'in insan suretinde Hz. Peygamber'e (s.a.v.) dini sorduğu bir rivayet. *İslâm* dış uygulamadır; *îmân* inançtır; *ihsân* "Allah'a O'nu görüyormuş gibi ibadet etmektir" ({hadith:bukhari:50}).
   - q:
       en: Who was al-Qushayrī, and what did he say about inner and outer religion?
+      tr: Kuşeyrî kimdi ve iç ve dış din hakkında ne dedi?
     a:
       en: A Sufi scholar, author of *al-Risāla*. Rabbani reports his distinction between fear and hope (about the future) and contraction and expansion (states of the present), which come and go; the response to them is steady practice.
+      tr: "*Er-Risâle*'nin yazarı olan bir sûfi âlim. Rabbani, onun havf ve recâ (gelecekle ilgili) ile kabz ve bast (şimdiki anın hâlleri) arasındaki ayrımını aktarır; bunlar gelip gider; onlara verilecek karşılık düzenli uygulamadır."
   - q:
       en: How do Muslims see Sufism?
+      tr: Müslümanlar tasavvufa nasıl bakar?
     a:
       en: As the tradition of inner purification within Islam, not outside it; al-Qushayri's *Risāla* is a classic of that tradition. Its relation to the law was debated by some, but its main authors insisted on practice. (No survey of Muslim views of Sufism was read.)
+      tr: İslam'ın dışında değil, içinde bir iç arınma geleneği olarak; Kuşeyrî'nin *Risâle*'si bu geleneğin bir klasiğidir. Şeriatla ilişkisi bazıları tarafından tartışıldı, ama ana yazarları uygulamada ısrar etti. (Müslümanların tasavvufa bakışına dair hiçbir anket okunmadı.)
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
+translatedFrom: docs/research/tr/Q37.md

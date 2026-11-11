@@ -14,16 +14,13 @@ helpCard: suffering
 verses:
   - 2:260
 steelman:
-  tr: |
-    Kesinliğim gitti. Rol yapmadan nasıl geri dönerim?
+  tr: "\"Eskiden emindim. Sonra bir şey kırıldı — cevaplayamadığım bir argüman, bir trajedi, dindar insanların davranışları ya da sadece yavaş bir sönme. Şimdi namaz kılarken rol yapıyormuşum gibi hissediyorum. İnsanlar bana 'iman et' diyor, ama kaybettiğim şey tam da iman. Sahte bir kesinlik takınmak istemiyorum ve her şeyi bir kenara atmak da istemiyorum. Dürüst bir dönüş yolu var mı?\""
   en: "\"I used to be sure. Then something broke — an argument I couldn't answer, a tragedy, the behaviour of religious people, or just a slow fading. Now when I pray I feel I'm pretending. People tell me to 'have faith', but faith is exactly what I've lost. I don't want to fake certainty, and I don't want to throw everything away. Is there an honest way back?\""
 whyAsked:
-  tr: |
-    ABD'deki bir örneklemde yetişkinlerin %45,4'ü şüpheyle ilgili mücadeleler bildirdi (Exline ve ark.).
+  tr: İman krizleri yaygındır ve çoğu zaman gizli yaşanır. Kişi bunu ailesine ya da bir camiye söylemekten utanabilir ve tek seçeneğin rol yapmak ya da ayrılmak olduğunu hissedebilir.
   en: Crises of faith are common and often private. The person may be ashamed to tell family or a mosque, and may feel that the only options are pretending or leaving.
 shortAnswer:
-  tr: |
-    Eski kesinliğine bir anda geri dönmen gerekmiyor. Gazzâlî iki kriz yaşadı ve daha derinleşerek geri döndü. Dürüst ol, bir rehber bul, küçük pratiklere geri dön, iyi insanlarla ol ve gerekirse terapi al.
+  tr: Evet, dürüst bir dönüş yolu var ve bu yol eski kesinliğini bir anda geri kazanmakla başlamıyor. Nerede olduğun konusunda doğruyu söylemekle, sorularını seni utandırmadan dinleyebilecek bir iki kişi bulmakla, küçük ibadetleri tam hissettirmelerini beklemeden sürdürmekle ve en zor soruları birer birer ele almakla başlıyor. En büyük Müslüman âlimlerden biri olan Gazzâlî iki kriz yaşadı — biri akılda, biri kalpte — ve daha derin bir imanla çıktı; ilk şüphesinin "yüce Allah'ın göğsüme attığı bir nur" ile sona erdiğini, ikincisinin ise ancak yaşama biçimini değiştirdikten sonra bittiğini yazdı. Araştırmalar manevi sıkıntıların, ortalamada, zamanla biraz daha fazla psikolojik sıkıntıyı öngördüğünü gösteriyor; bu yüzden destek almak önemlidir. Herkes geri dönmez ve buna saygı gösterilmelidir.
   en: Yes, there is an honest way back, and it does not start with recovering your old certainty all at once. It starts with telling the truth about where you are, finding one or two people who can hear your questions without shaming you, keeping small practices without demanding that they feel full, and taking the hardest questions one at a time. Al-Ghazali, one of the greatest Muslim scholars, went through two crises — one of the mind, one of the heart — and came out with a deeper faith; he wrote that his first doubt ended "by a light which God most high cast into my breast", and his second only after he changed how he lived. Research suggests that spiritual struggles predict somewhat more distress over time, on average, so getting support matters. Not everyone returns, and that should be respected.
 layers:
   - kind: religious
@@ -43,8 +40,7 @@ layers:
       Umutsuzluk ya da dinî OKB için yardım iste: 112 ya da bir Toplum Ruh Sağlığı Merkezi (TRSM).
     en: "Seek help for hopelessness or religious OCD: 112 or a community mental health centre (TRSM)."
 honestLimits:
-  tr: |
-    Herkes geri dönmez ve buna saygı duyulmalıdır.
+  tr: Herkes geri dönmez ve buna saygı gösterilmelidir. Araştırma bireysel kaderleri değil, küçük ortalama etkileri gösterir. Tedeschi ve Calhoun'a (1996), Behr'e (2018), APA materyaline ve Templeton raporuna henüz başvurulmadı. Exline ve ark. (2014) yalnızca onun ölçeğini kullanan sonraki bir makale aracılığıyla okundu.
   en: Not everyone returns, and that should be respected. The research shows small average effects, not individual destinies. Tedeschi and Calhoun (1996), Behr (2018), the APA material and the Templeton white paper have not yet been consulted. Exline et al. (2014) was read only through a later paper that uses its scale.
 visualizations:
   - id: ideas
@@ -92,6 +88,15 @@ fullAnswer:
       **You don't have to solve everything this month.** Faith that comes back is often slower and quieter than the faith that left. That is not weaker; it is often more your own.
 
       **If the crisis comes with hopelessness** — you can't sleep, can't eat, or think life is not worth living — that is a reason to see a doctor or counsellor now, not later. Naseeha (North America, 1-866-627-3342), Samaritans (UK, 116 123), 112 in Türkiye in an emergency, or findahelpline.com elsewhere.
+    tr: |-
+      **Şüphe ederken namaz kıldığın için ikiyüzlü değilsin.** Emin olmadığı hâlde Allah'a yönelmeye devam eden biri dürüst bir şey yapıyordur: kapıyı açık tutuyordur. Allah'ın dostu Hz. İbrâhim (a.s.), Allah'ın ölüleri nasıl dirilttiğini görmek istedi. "İnanmadın mı ki?" diye sorulunca şöyle cevap verdi: "İnandım, fakat kalbim iyice yatışsın diye istiyorum." (2:260). İman ile daha fazla kesinlik özlemi bir arada durabilir.
+
+      **Her şeyi bu ay çözmek zorunda değilsin.** Geri dönen iman, giden imandan çoğu zaman daha yavaş ve daha sessizdir. Bu daha zayıf olduğu anlamına gelmez; çoğu zaman daha çok senindir.
+
+      **Kriz umutsuzlukla birlikte geliyorsa** — uyuyamıyorsan, yiyemiyorsan ya da hayatın yaşamaya değmediğini düşünüyorsan — bu, sonra değil şimdi bir doktora ya da danışmana gitmek için bir sebeptir. Naseeha (Kuzey Amerika, 1-866-627-3342), Samaritans (Birleşik Krallık, 116 123), Türkiye'de acil durumda 112 ya da başka yerlerde findahelpline.com.
+    title:
+      en: Kalp ve akıl için
+      tr: Kalp ve akıl için
   - kind: scholars
     en: |-
       **The first crisis: can I know anything?** Al-Ghazali (d. 1111) was the most famous teacher in Baghdad. In *al-Munqidh min al-Dalal* (*Deliverance from Error*), written late in life, he tells how he began to ask whether anything he believed was certain. He noticed that "Christian youths always grew up to be Christians, Jewish youths to be Jews and Muslim youths to be Muslims", and tested even his senses and reason. He fell into a doubt that "lasted almost two months". It did not end by argument: "but by a light which God most high cast into my breast" (Watt, sections I–II).
@@ -103,13 +108,37 @@ fullAnswer:
       **What he found.** He concluded that the Sufis "were men who had real experiences, not men of words", and that their path is "something which cannot be apprehended by study" — only by living it. *Dhawq* ("tasting") is his word for this direct experience.
 
       **What this means for you.** Al-Ghazali's two crises are two kinds that people still have. One is a crisis of the mind, which needs honest answers and time. The other is a crisis of the heart and of how one lives, which needs changes in practice, company and attention more than arguments. Many people have both.
+    tr: |-
+      **İlk kriz: Herhangi bir şeyi bilebilir miyim?** Gazzâlî (ö. 1111) Bağdat'ın en ünlü hocasıydı. Hayatının sonlarında yazdığı *el-Munkız mine'd-Dalâl* (*Dalâletten Kurtuluş*) adlı eserinde, inandığı herhangi bir şeyin kesin olup olmadığını nasıl sormaya başladığını anlatır. "Hristiyan çocukların hep Hristiyan, Yahudi çocukların Yahudi ve Müslüman çocukların Müslüman olarak yetiştiğini" fark etti ve duyularını ve aklını bile sınadı. "Yaklaşık iki ay süren" bir şüpheye düştü. Bu şüphe bir argümanla bitmedi: "yüce Allah'ın göğsüme attığı bir nur ile" bitti (Watt, I–II. bölümler).
+
+      **Bu "nur" pratikte ne demekti?** Onu aklın temel doğrularına — ispat edilemeyen ama herhangi bir şeyi ispat etmek için güvenilmesi gereken şeylere — güvenin geri dönüşü olarak tarif eder. Krizdeki pek çok insan benzer bir şey bulur: Yeni bir argüman değil, güvenmeyi bıraktıkları şeye güvenin yavaşça geri dönüşünü — dünyanın bir anlamı olduğuna, iyiliğin gerçek olduğuna, kendi akıllarının onlara yalan söylemediğine.
+
+      **İkinci kriz: Bilmek yetmez.** Yıllar sonra, entelektüel soruları cevaplanmışken, Gazzâlî hayatının bildikleriyle örtüşmediğini fark etti. İki güç arasında çekiştirildiğini anlatır: "Dünyevi arzular beni zincirleriyle tam olduğum yerde tutmaya çalışıyordu." Mücadele "488 yılı Receb ayından (=Temmuz 1095) başlayarak yaklaşık altı ay" sürdü. Sonra "Allah dilimi kuruttu, öyle ki ders vermekten alıkonuldum" ve "tek bir lokmayı bile güçlükle yutabiliyor ya da sindirebiliyordum." Doktorlar şöyle dedi: "Tek tedavi yolu, kalbe çöken sıkıntının dindirilmesidir." Bağdat'tan ayrıldı — insanlara Mekke'ye gittiğini söyleyip gizlice Suriye'ye gitmeyi planlayarak —, servetinin çoğunu dağıttı ve Şam'da "yaklaşık iki yıl" inziva ve ibadet içinde geçirdi (Watt, sûfiler bölümü).
+
+      **Ne buldu?** Sûfilerin "söz adamları değil, gerçek tecrübeleri olan insanlar" olduğu ve yollarının "çalışarak kavranamayacak bir şey" olduğu — ancak yaşanarak — sonucuna vardı. *Zevk* ("tatma"), bu doğrudan tecrübe için kullandığı kelimedir.
+
+      **Bunun senin için anlamı.** Gazzâlî'nin iki krizi, insanların bugün de yaşadığı iki türdür. Biri akıl krizidir ve dürüst cevaplara ve zamana ihtiyaç duyar. Diğeri kalbin ve yaşama biçiminin krizidir ve argümanlardan çok ibadette, arkadaşlıkta ve dikkatte değişikliklere ihtiyaç duyar. Pek çok insan ikisini de yaşar.
+    title:
+      en: Gazzâlî'nin iki krizi, bir hikâye olarak
+      tr: Gazzâlî'nin iki krizi, bir hikâye olarak
   - kind: quran
     en: |-
       **Ease comes with hardship.** "For indeed, with hardship [will be] ease. Indeed, with hardship [will be] ease" (94:5–6). Sura al-Sharh is Meccan and addressed to the Prophet (pbuh) in a hard period; the repetition is its own reassurance. It does not promise when the ease comes.
 
       **God does not burden beyond capacity.** 2:286 (see "Is doubting a sin?") includes the prayer: "Our Lord, do not impose blame upon us if we have forgotten or erred."
+    tr: |-
+      **Zorlukla birlikte kolaylık gelir.** "Demek ki, zorlukla beraber bir kolaylık vardır. Evet, zorlukla beraber bir kolaylık vardır." (94:5–6). İnşirâh Sûresi Mekkîdir ve zor bir dönemde Hz. Peygamber'e (s.a.v.) hitap eder; tekrarın kendisi bir güvencedir. Kolaylığın ne zaman geleceğini vaat etmez.
+
+      **Allah gücün üstünde yük yüklemez.** 2:286 (bkz. "Şüphe etmek günah mı?") şu duayı içerir: "Ey Rabbimiz, eğer unuttuk ya da yanıldıysak bizi tutup sorguya çekme!"
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: "**Distress at doubt is a sign of faith.** When Companions told the Prophet (pbuh) they had thoughts \"too grave to express\", he said: \"That is the faith manifest\" ({hadith:muslim:132a}). This applies most directly to unwanted thoughts (see \"Is doubting a sin?\"), but it also shows that the Prophet (pbuh) did not meet his Companions' inner struggles with condemnation."
+    tr: "**Şüpheden duyulan sıkıntı imanın bir işaretidir.** Sahâbîler Hz. Peygamber'e (s.a.v.) \"söylemeyi çok ağır buldukları\" düşünceleri olduğunu söylediklerinde, o şöyle buyurdu: \"İşte bu imanın ta kendisidir\" ({hadith:muslim:132a}). Bu en doğrudan istenmeyen düşüncelere uygulanır (bkz. \"Şüphe etmek günah mı?\"), ama aynı zamanda Hz. Peygamber'in (s.a.v.) sahâbîlerinin iç mücadelelerini kınamayla karşılamadığını da gösterir."
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: science
     en: |-
       **Spiritual struggles predict a little more distress later, on average.** [Moderate.] A meta-analysis by Bockrath and colleagues (published online in 2021; a 2022 print citation has not yet been checked) combined 32 longitudinal studies with 5,729 participants. Struggles at the start "significantly predicted increases in negative psychological adjustment" (Zr = 0.08; the paper gives the 95% CI as 0.04–0.10 in the abstract and 0.05–0.10 in the results). That is a small effect: struggles are a risk factor, not a sentence. The link to *positive* adjustment (well-being, growth) was not significant (12 studies; Zr = −0.04).
@@ -117,9 +146,19 @@ fullAnswer:
       **Doubt itself is not always the harmful part.** [Mixed.] The Religious and Spiritual Struggles (RSS) scale (Exline et al., 2014) measures six kinds of struggle: divine (with God), demonic, interpersonal, moral, ultimate meaning, and doubt. In one sample of atheist undergraduates, Sedlar and colleagues (2018) found that doubt struggles *negatively* predicted depressive symptoms after other factors were controlled (β about −0.18), though not in a second sample of adults. (2014) has not yet been checked against that paper itself; the effect, where found, is small and not consistent.
 
       **What this means.** Struggling is common, it is not a sign that you are broken, and it carries a modest risk of distress. Support — a trusted person, a counsellor, a community — is a sensible response to a real risk.
+    tr: |-
+      **Manevi sıkıntılar, ortalamada, sonradan biraz daha fazla psikolojik sıkıntıyı öngörür.** [Orta.] Bockrath ve arkadaşlarının bir meta-analizi (2021'de çevrimiçi yayımlandı; 2022 tarihli basılı künyesi henüz kontrol edilmedi), 5.729 katılımcılı 32 boylamsal çalışmayı birleştirdi. Başlangıçtaki sıkıntılar "olumsuz psikolojik uyumdaki artışları anlamlı şekilde öngördü" (Zr = 0,08; makale %95 GA'yı özette 0,04–0,10, bulgular bölümünde 0,05–0,10 olarak veriyor). Bu küçük bir etkidir: Sıkıntılar bir hüküm değil, bir risk etkenidir. *Olumlu* uyumla (iyi oluş, gelişim) ilişki anlamlı değildi (12 çalışma; Zr = −0,04).
+
+      **Şüphenin kendisi her zaman zararlı kısım değildir.** [Karışık.] Dinî ve Manevi Mücadeleler (RSS) ölçeği (Exline ve ark., 2014) altı tür mücadeleyi ölçer: ilahi (Allah'la), şeytani, kişiler arası, ahlaki, nihai anlam ve şüphe. Ateist üniversite öğrencilerinden oluşan bir örneklemde Sedlar ve arkadaşları (2018), diğer etkenler kontrol edildikten sonra şüphe mücadelelerinin depresif belirtileri *ters yönde* öngördüğünü buldu (β yaklaşık −0,18); ancak yetişkinlerden oluşan ikinci bir örneklemde bu görülmedi. (2014) henüz o makalenin kendisiyle karşılaştırılarak kontrol edilmedi; etki, bulunduğu yerde, küçüktür ve tutarlı değildir.
+
+      **Bunun anlamı.** Mücadele yaygındır, bozuk olduğunun işareti değildir ve mütevazı bir psikolojik sıkıntı riski taşır. Destek — güvenilir bir insan, bir danışman, bir topluluk — gerçek bir riske karşı makul bir cevaptır.
+    title:
+      en: Araştırmalar ne diyor?
+      tr: Araştırmalar ne diyor?
   - kind: practice
     title:
       en: What to do
+      tr: Ne yapmalı?
     en: |-
       **Be honest about where you are.** Write down, privately, what you actually believe now, what you doubt, and what you miss. Many people find that the doubt is narrower than it felt: one question, not everything.
 
@@ -134,36 +173,69 @@ fullAnswer:
       **Keep good company.** Spend time with people whose faith is calm and kind, not anxious or harsh.
 
       **Get therapy if needed.** If the doubt comes in loops you cannot stop (see "Is doubting a sin?"), or with depression, a therapist can help — ideally one who respects your faith.
+    tr: |-
+      **Nerede olduğun konusunda dürüst ol.** Kendine özel olarak, şu an gerçekte neye inandığını, neden şüphe ettiğini ve neyi özlediğini yaz. Pek çok insan şüphenin hissettirdiğinden daha dar olduğunu fark eder: her şey değil, tek bir soru.
+
+      **Sorularını utandırmayacak bir rehber bul.** Şöyle birini ara: cevap vermeden önce sorunun tamamını dinleyen; bilmediğinde "bilmiyorum" diyen; seni tehdit etmeyen; güven talep etmek yerine seni kaynaklara yönlendiren; ve başkalarıyla konuşmandan memnun olan. Soruları ihanet olarak gören herkesten uzak dur. Bir üniversite din görevlisi, gençlerle tecrübesi olan bir âlim ya da bir Müslüman danışman (örneğin Kuzey Amerika'da Khalil Center aracılığıyla) iyi bir başlangıç olabilir.
+
+      **Küçük ibadetleri sürdür ve küçük kalmalarına izin ver.** Boş hissettirse bile, yapabiliyorsan farz namazları kıl. Kur'an'dan biraz, bir mealiyle oku. Her gün kendi sözlerinle kısa bir dua et. Bunlar, hissetmediğin şeyi hissediyormuş gibi yapmadan bağı açık tutar.
+
+      **"Namaza dönersem ve boş hissettirirse ne olacak?"** Bu normaldir ve namazın boş olduğunun ispatı değildir. Gazzâlî'nin ikinci krizi tam da bilmek ile hissetmek arasındaki bu boşlukla ilgiliydi. Biçimi koru; his geldiğinde gelsin; ve Allah'a durumun nasıl olduğunu dürüstçe söyle — Kur'an, Hz. Yâkûb'un (a.s.) şu sözlerini korur: "Ben hüznümü, kederimi ancak Allah'a şikayet ederim" (12:86).
+
+      **Soruları birer birer ele al.** Bu sitenin Sor sayfaları en zor sorulara dürüst cevaplar vermeye çalışır. Seni en çok rahatsız edeni oku, sonra onu rehberinle konuş.
+
+      **İyi arkadaşlar edin.** İmanı kaygılı ya da sert değil, sakin ve nazik olan insanlarla vakit geçir.
+
+      **Gerekirse terapi al.** Şüphe durduramadığın döngüler hâlinde geliyorsa (bkz. "Şüphe etmek günah mı?") ya da depresyonla birlikte geliyorsa, bir terapist yardımcı olabilir — ideal olarak imanına saygı gösteren biri.
   - kind: objection
     en: |-
       **"This is just a way of talking myself back into belief."** *Reply:* honesty means following the evidence where it leads, and this site does not ask you to ignore it. But it also means noticing that a crisis is often driven by pain, exhaustion or other people's behaviour, not only by arguments; dealing with those first lets you see the arguments more clearly. *Limit:* some people, after honest searching, do not return. Their search was honest too.
 
       **"Al-Ghazali's 'light' is not something I can do."** *Reply:* that is true; he says himself it was not an argument. What one can do is what he did around it: keep searching, change what needs changing in one's life, and ask. *Limit:* there is no method that guarantees the outcome.
+    tr: |-
+      **"Bu sadece kendimi yeniden inanmaya ikna etmenin bir yolu."** *Cevap:* Dürüstlük, delili götürdüğü yere kadar izlemek demektir ve bu site senden onu görmezden gelmeni istemiyor. Ama aynı zamanda bir krizin çoğu zaman yalnızca argümanlarla değil, acıyla, yorgunlukla ya da başkalarının davranışlarıyla beslendiğini fark etmek demektir; önce bunlarla ilgilenmek argümanları daha açık görmeni sağlar. *Sınır:* Bazı insanlar dürüst bir arayıştan sonra geri dönmez. Onların arayışı da dürüsttü.
+
+      **"Gazzâlî'nin 'nur'u benim yapabileceğim bir şey değil."** *Cevap:* Bu doğru; bizzat kendisi bunun bir argüman olmadığını söyler. Yapılabilecek olan, onun bunun etrafında yaptıklarıdır: aramaya devam etmek, kişinin hayatında değişmesi gerekeni değiştirmek ve istemek. *Sınır:* Sonucu garanti eden bir yöntem yoktur.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
 followUps:
   - q:
       en: What were al-Ghazali's two crises?
+      tr: Gazzâlî'nin iki krizi neydi?
     a:
       en: A crisis of knowledge (about two months of radical doubt) and, years later, a crisis of how to live (about six months, ending with his leaving Baghdad in 1095).
+      tr: Bir bilgi krizi (yaklaşık iki aylık radikal şüphe) ve yıllar sonra bir yaşama biçimi krizi (yaklaşık altı ay; 1095'te Bağdat'tan ayrılmasıyla sona erdi).
   - q:
       en: What is the *Munqidh*?
+      tr: "*Munkız* nedir?"
     a:
       en: "*Al-Munqidh min al-Dalal* (*Deliverance from Error*), al-Ghazali's short account of his search for certainty."
+      tr: "*El-Munkız mine'd-Dalâl* (*Dalâletten Kurtuluş*), Gazzâlî'nin kesinlik arayışını anlattığı kısa eseri."
   - q:
       en: How do I find a guide I can trust?
+      tr: Güvenebileceğim bir rehberi nasıl bulurum?
     a:
       en: Look for someone who listens fully, admits what they don't know, never threatens, and is happy for you to read and ask others.
+      tr: Sonuna kadar dinleyen, bilmediğini kabul eden, asla tehdit etmeyen ve okumandan ve başkalarına sormandan memnun olan birini ara.
   - q:
       en: Do Muslims see doubt as sinful?
+      tr: Müslümanlar şüpheyi günah olarak mı görür?
     a:
       en: Unwanted doubts are not sins ({hadith:bukhari:5269}). Honest questions are not sins either; choosing to reject God after the truth is clear is what the Quran condemns.
+      tr: İstenmeyen şüpheler günah değildir ({hadith:bukhari:5269}). Dürüst sorular da günah değildir; Kur'an'ın kınadığı şey, hakikat açıkça ortaya çıktıktan sonra Allah'ı reddetmeyi seçmektir.
   - q:
       en: What is "religious OCD"?
+      tr: '"Dinî OKB" nedir?'
     a:
       en: 'Scrupulosity: obsessive doubts and compulsive checking about religious matters. It is a treatable condition (see "Is doubting a sin?").'
+      tr: 'Dinî vesvese (skrupülozite): dinî konularda saplantılı şüpheler ve zorlantılı kontrol. Tedavi edilebilir bir durumdur (bkz. "Şüphe etmek günah mı?").'
   - q:
       en: What if I never get my old certainty back?
+      tr: Eski kesinliğimi hiç geri kazanamazsam ne olacak?
     a:
       en: Many people find a different, quieter faith instead. Some do not return. Either way, honesty and kindness to yourself matter.
+      tr: Pek çok insan bunun yerine farklı, daha sessiz bir iman bulur. Bazıları geri dönmez. Her iki durumda da dürüstlük ve kendine karşı nazik olmak önemlidir.
 legacySources:
   - *a1
   - *a2
@@ -172,3 +244,4 @@ legacySources:
   - *a5
   - *a6
   - *a7
+translatedFrom: docs/research/tr/Q38.md

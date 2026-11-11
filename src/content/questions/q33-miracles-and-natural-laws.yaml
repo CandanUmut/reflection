@@ -13,16 +13,13 @@ sensitivity: normal
 helpCard: false
 verses: []
 steelman:
-  tr: |
-    Hume, bir mucizeye dair tanıklığın her zaman bir hatadan daha az olası olduğunu savundu.
+  tr: '"Bilim, tabiat düzenli olduğu için işler. Ne zaman kontrol ettiysek, ölüler ölü kaldı, su şaraba dönüşmedi, ay yarılmadı. Hume, bir mucize haberinin makul bir insanı asla ikna etmemesi gerektiğini gösterdi: Tanıkların yanılmış ya da yalan söylemiş olma ihtimali, tabiat kanunlarının çiğnenmiş olma ihtimalinden her zaman daha büyüktür. Her din mucizeler bildirir ve bunlar birbirini götürür. Hem Allah kanunları koyduysa, onları neden çiğnesin?"'
   en: '"Science works because nature is regular. Every time we have checked, dead people stay dead, water does not turn into wine, and the moon does not split. Hume showed that a report of a miracle should never convince a reasonable person: the chance that the witnesses were mistaken or lying is always greater than the chance that the laws of nature were broken. Every religion reports miracles, and they cancel each other out. And if God made the laws, why would He break them?"'
 whyAsked:
-  tr: |
-    Fen, teknoloji, mühendislik ve matematik öğrencileri arasında yaygındır.
+  tr: Fen ve mühendislik öğrencileri tabiatın kanunlara uyduğunu öğreniyor, sonra bunu inkâr ediyor gibi görünen dinî hikâyeler duyuyor. Hume'un denemesi yaygın biçimde okutuluyor ve internette, çoğu zaman tek bir cümleyle, sık sık alıntılanıyor.
   en: Students in science and engineering learn that nature follows laws, then hear religious stories that seem to deny this. Hume's essay is widely taught and widely quoted online, often in one sentence.
 shortAnswer:
-  tr: |
-    Gazzâlî'ye göre tabiattaki düzenlilik Allah'ın âdetidir (*âdet*) ve mucizeler anlamlı işaretlerdir. Hume, kanıtlaması gereken şeyi varsayar.
+  tr: "Hume'un argümanı tek bir cümleden daha güçlüdür, ama mucizelerin imkânsız olduğunu göstermez; en fazla, mucize haberlerine inanmak için yüksek bir çıta koyar ve çıtanın yüksekliği, kişinin zaten Allah'ın var olduğunu düşünüp düşünmediğine bağlıdır. Önde gelen bir Hume uzmanı olan filozof Peter Millican, Hume'un ilkesinin ifade edildiği hâliyle yanlış olduğu, ama haberlerin ne sıklıkla yanlış çıktığına yaptığı vurgunun değerli olduğu sonucuna varır. İslam geleneğinin kendi açıklaması vardır: Eş'arî kelâmcılara ve Gazzâlî'ye göre tabiatın düzenliliği Allah'ın âdetidir (*âdet*); dolayısıyla bir mucize bozulmuş bir makine değil, Allah'ın bir işaret olarak alışılmışın dışında davranmasıdır. Kur'an'ın kendisi talep edilen pek çok mucizeyi reddeder, mucizelerin yalnızca Allah'tan geldiğini söyler ve Kur'an'ı \"yeten\" mucize olarak sunar (29:51). Bir mucize gerçekleşirse, fiziğin kullandığı anlamda bir korunum kanununu çiğnemesi gerekmez, çünkü bu kanunlar kapalı sistemleri tarif eder."
   en: "Hume's argument is stronger than one sentence, but it does not show that miracles are impossible; at most, it sets a high bar for believing reports of them, and the height of the bar depends on whether one already thinks God exists. The philosopher Peter Millican, a leading Hume scholar, concludes that Hume's maxim as stated is mistaken, though his stress on how often reports go wrong is valuable. The Islamic tradition has its own account: for the Ashʿari theologians and al-Ghazali, the regularity of nature is God's custom (*ʿāda*), so a miracle is not a broken machine but God acting otherwise than usual, as a sign. The Quran itself refuses many demanded miracles, says that signs come only from God, and presents the Quran as the sign that is \"sufficient\" (29:51). A miracle, if it happens, need not break a conservation law in the sense physics uses, since those laws describe closed systems."
 layers:
   - kind: religious
@@ -42,8 +39,7 @@ layers:
       Yalnızca mucizelere dayanan iman kırılgandır.
     en: Faith that rests only on miracles is fragile.
 honestLimits:
-  tr: |
-    Mucizeleri kabul etmek, önceden Allah'a inanmaya bağlıdır.
+  tr: Bir mucizeyi kabul etmek büyük ölçüde kişinin Allah'a inanmak için zaten sebeplerinin olup olmadığına bağlıdır; bu sayfa aksini iddia etmiyor. Kur'an'ın talep edilen mucizeleri göstermeyi reddetmesi, şüphecilerin bizzat işaret ettiği bir şeydir. Gazzâlî'nin on yedinci meseledeki kendi sözlerine henüz bir çeviriden başvurulmadı; görüşü Lee ve Adamson aracılığıyla verildi. Hadislerdeki mucize haberleri değerlendirilmedi.
   en: Accepting a miracle depends heavily on whether one already has reasons to believe in God; this page does not claim otherwise. The Quran's refusal to perform demanded miracles is itself something skeptics point to. Al-Ghazali's exact words in the seventeenth discussion have not yet been consulted in translation; his view is given through Lee and Adamson. The miracle reports in hadith were not assessed.
 visualizations:
   - id: ideas
@@ -94,13 +90,26 @@ fullAnswer:
     en: |-
       **The Quran calls miracles "signs" (*āyāt*).** The same word, *āya*, is used for a verse of the Quran, for a miracle and for a feature of nature that points to God. A miracle in the Quran is a sign that addresses people, not a show of power for its own sake.
 
-      **It records demands for miracles, and refuses them.** In Sura al-Isra (Meccan), the Prophet's (pbuh) opponents say: "We will not believe you until you break open for us from the ground a spring. / Or [until] you have a garden of palm tress and grapes and make rivers gush forth within them in force [and abundance] / Or you make the heaven fall upon us in fragments as you have claimed or you bring Allah and the angels before [us] / Or you have a house of gold or you ascend into the sky. And [even then], we will not believe in your ascension…" (17:90–93). The end of 17:93, with the Prophet's (pbuh) reply, have not yet been consulted in full.
+      **It records demands for miracles, and refuses them.** In Sura al-Isra (Meccan), the Prophet's (pbuh) opponents say: "We will not believe you until you break open for us from the ground a spring. / Or [until] you have a garden of palm tress and grapes and make rivers gush forth within them in force [and abundance] / Or you make the heaven fall upon us in fragments as you have claimed or you bring Allah and the angels before [us] / Or you have a house of gold or you ascend into the sky. And [even then], we will not believe in your ascension…" (17:90–93). To the demands for a spring, a garden, a house of gold and a ladder to the sky (17:90–93), the reply the Prophet (pbuh) is told to give is: "Exalted is my Lord! Was I ever but a human messenger?" (17:93).
 
       **It gives a reason for the refusal.** "And nothing has prevented Us from sending signs except that the former peoples denied them. And We gave Thamud the she-camel as a visible sign, but they wronged her. And We send not the signs except as a warning" (17:59). Ibn Kathir reports from Imam Ahmad that Ibn ʿAbbas (ra) said the Quraysh asked: "Ask your Lord to turn As-Safa' into gold and we will believe in you", and that God offered the Prophet (pbuh) a choice, warning that if they then disbelieved, "they will be destroyed as the nations before them were destroyed"; the Prophet (pbuh) chose to give them more time. So in the Quran's own account, a demanded miracle is dangerous for those who demand it.
 
       **It says miracles do not force belief.** "And they swear by Allah their strongest oaths that if a sign came to them, they would surely believe in it. Say, 'The signs are only with Allah.' And what will make you perceive that even if a sign came, they would not believe" (6:109); "And even if We had sent down to them the angels [with the message] and the dead spoke to them [of it] and We gathered together every [created] thing in front of them, they would not believe unless Allah should will" (6:111). These are Meccan verses about the Prophet's (pbuh) opponents.
 
       **It presents the Quran as the central sign.** "But they say, 'Why are not signs sent down to him from his Lord?' Say, 'The signs are only with Allah, and I am only a clear warner.' And is it not sufficient for them that We revealed to you the Book which is recited to them?" (29:50–51), from Sura al-ʿAnkabut, Meccan. And: "Say, 'If mankind and the jinn gathered in order to produce the like of this Qur'an, they could not produce the like of it…'" (17:88); compare 2:23. The Quran also tells of miracles given to earlier prophets — Moses' (pbuh) staff, Jesus' (pbuh) healing of the sick — but in the Prophet's (pbuh) own case it points first to the Book.
+    tr: |-
+      **Kur'an mucizelere "âyetler" der.** Aynı kelime, *âyet*, Kur'an'ın bir âyeti, bir mucize ve tabiatta Allah'ı gösteren bir özellik için kullanılır. Kur'an'da bir mucize, kendi başına bir güç gösterisi değil, insanlara hitap eden bir işarettir.
+
+      **Mucize taleplerini kaydeder ve reddeder.** İsrâ Sûresi'nde (Mekkî) Hz. Peygamber'in (s.a.v.) muhalifleri şöyle der: "Sen, bizim için yerden suyu kesilmeyen bir kaynak fışkırtmadıkça sana asla inanmayacağız. Veyahut hurmalıklardan ve üzümlüklerden senin bir bahçen olsun da ortasından şarıl şarıl ırmaklar akıtmalısın. Yahut söyleyip zannettiğin gibi, göğü başımıza parça parça düşüresin veya Allah'ı ve melekleri söylediğine şahit getiresin. Yahut altından bir evin olsun, ya da göğe çıkmalısın. Ona çıktığına da asla inanmayız…" (17:90–93). 17:93'ün sonu, Hz. Peygamber'in (s.a.v.) cevabıyla birlikte, henüz tam olarak incelenmedi.
+
+      **Reddin bir sebebini verir.** "Bizi, âyetler (mucizeler) ve peygamber göndermekten alıkoyan şey, ancak öncekilerin onları yalanlamış olmalarıdır. Semûd'a, açık bir mucize olarak o dişi deveyi vermiştik de ona zulmetmişlerdi (deveyi boğazlayarak kendilerine yazık etmişlerdi). Oysa biz, o mucizeleri ancak korkutmak için göndeririz." (17:59). İbn Kesîr, İmam Ahmed'den, İbn Abbâs'ın (r.a.) Kureyş'in şöyle istediğini söylediğini aktarır: "Rabbinden Safâ'yı altına çevirmesini iste, sana inanalım." Allah, Hz. Peygamber'e (s.a.v.) bir seçenek sundu ve eğer bundan sonra inkâr ederlerse "kendilerinden önceki milletlerin helak edildiği gibi helak edileceklerini" bildirdi; Hz. Peygamber (s.a.v.) onlara daha fazla zaman tanınmasını seçti. Yani Kur'an'ın kendi anlatımında, talep edilen bir mucize onu talep edenler için tehlikelidir.
+
+      **Mucizelerin inanmaya zorlamadığını söyler.** "Müşrikler, kendilerine bir mucize gelirse ona mutlaka iman edeceklerine dair en ağır yeminleriyle Allah'a yemin ettiler. De ki: "Mucizeler ancak Allah katındadır". Onlara mucizeler geldiğinde de iman etmeyeceklerini siz nerden bileceksiniz" (6:109); "Eğer biz onlara melekleri indirseydik, ölüler de kendileriyle konuşsaydı ve her şeyi toplayıp karşılarına getirseydik, Allah'ın diledikleri hariç, yine de inanacak değillerdi…" (6:111). Bunlar Hz. Peygamber'in (s.a.v.) muhalifleri hakkındaki Mekkî âyetlerdir.
+
+      **Kur'an'ı merkezî mucize olarak sunar.** "Ona Rabbinden (başkaca) mucize indirilmeli değil miydi?" derler. Cevaben de ki: "Mucizeler ancak Allah'ın katındadır. Ben ise sadece apaçık bir uyarıcıyım. Sana indirdiğimiz ve onlara okunmakta olan kitap, kendilerine yetmedi mi?" (29:50–51); Mekkî Ankebût Sûresi'nden. Ve: "Ey Muhammed! De ki: "Yemin olsun, eğer insanlar ve cinler bu Kur'ân'ın benzerini getirmek üzere toplansalar ve birbirlerine yardımcı olsalar bile, yine onun bir benzerini meydana getiremeyeceklerdir…" (17:88); karşılaştırın 2:23. Kur'an önceki peygamberlere verilen mucizeleri de anlatır — Hz. Mûsâ'nın (a.s.) asası, Hz. Îsâ'nın (a.s.) hastaları iyileştirmesi — ama Hz. Peygamber'in (s.a.v.) kendi durumunda önce Kitab'ı gösterir.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: scholars
     en: |-
       **Occasionalism in plain words.** Occasionalism is the view that God is "the one and only true cause" (Lee, SEP). When fire touches cotton and the cotton burns, the fire is the occasion; God creates the burning. Al-Ghazali (d. 1111) argued this in the seventeenth discussion of *Tahāfut al-Falāsifa* (*The Incoherence of the Philosophers*), a book attacking the Aristotelian philosophers of his day, especially Ibn Sina. His point, as Lee summarises it: observation shows that two events happen together, not that one *necessarily* produces the other; a fire could, if God willed, fail to burn dry cotton. The connections we see are "due to the prior decree of God" (Lee).
@@ -112,6 +121,19 @@ fullAnswer:
       **Ibn Rushd's reply.** Ibn Rushd (Averroes, d. 1198), the Andalusian philosopher and judge, answered in *Tahāfut al-Tahāfut* (*The Incoherence of the Incoherence*). As Adamson presents it, his key principle is that "certain (*yaqīnī*) knowledge is the knowledge of the thing according to what it is in itself"; if things have no fixed natures, then, he charges, "there is no fixed (*thābit*) knowledge of anything". In other words: deny causes, and you lose science.
 
       **Why this matters to Muslims today.** The debate frames two ways a Muslim can relate faith and science. One stresses God's freedom, and treats laws as reliable habits. The other stresses fixed natures, and treats God as the giver of those natures. Both accept miracles; both accept science. They differ on what a "law of nature" is.
+    tr: |-
+      **Sade bir dille vesilecilik (occasionalism).** Vesilecilik, Allah'ın "tek ve yegâne gerçek sebep" olduğu görüşüdür (Lee, SEP). Ateş pamuğa değip pamuk yandığında, ateş vesiledir; yanmayı Allah yaratır. Gazzâlî (ö. 1111) bunu, döneminin Aristotelesçi filozoflarına, özellikle İbn Sînâ'ya yönelik bir eleştiri olan *Tehâfütü'l-Felâsife*'nin (*Filozofların Tutarsızlığı*) on yedinci meselesinde savundu. Lee'nin özetlediği şekliyle noktası şudur: Gözlem iki olayın birlikte meydana geldiğini gösterir, birinin diğerini *zorunlu olarak* ürettiğini değil; ateş, Allah dilerse kuru pamuğu yakmayabilir. Gördüğümüz bağlantılar "Allah'ın önceden takdiri sebebiyledir" (Lee).
+
+      **Zorunluluk değil, âdet.** Eş'arî kelâmcılar tabiatın düzenliliğine Allah'ın âdeti (*âdet*) dedi. Allah'ın âdeti sabit olduğu için ona güvenebilir ve bilim yapabiliriz; zorunluluk değil âdet olduğu için de Allah, peygamberlerin mucizelerinde olduğu gibi, başka türlü davranabilir. Gazzâlî'nin *Tehâfüt*'teki kendi örneği, ateşe atılıp yanmayan Hz. İbrâhîm'dir (a.s.) (Kur'an, 21:68–69; burada alıntılanmıyor).
+
+      **Gazzâlî bütün tabii sebepleri inkâr etti mi?** Âlimler ayrılır. Michael Marmura onu tam bir vesileci olarak okudu; başkaları onun "yaratılmışlarda bir tür gerçek sebepliliğin imkânını açık bıraktığını" savunur (Lee, SEP). Adamson onun tabii sebepler hakkındaki görüşünü şöyle çevirir: "Onların etkileri ancak onlara tabiatlarını veren gerçek Fâil dilerse ortaya çıkar." Bu okumaya göre şeylerin gerçek tabiatları vardır, ama bu tabiatlar yalnızca Allah'ın iradesiyle işler.
+
+      **İbn Rüşd'ün cevabı.** Endülüslü filozof ve kadı İbn Rüşd (Averroes, ö. 1198), *Tehâfütü't-Tehâfüt*'te (*Tutarsızlığın Tutarsızlığı*) cevap verdi. Adamson'ın sunduğu şekliyle temel ilkesi, "kesin (*yakînî*) bilginin, şeyin kendisinde ne ise ona göre bilinmesi" olduğudur; şeylerin sabit tabiatları yoksa, diye itiraz eder, "hiçbir şeyin sabit (*sâbit*) bilgisi olmaz". Başka bir deyişle: Sebepleri inkâr edersen bilimi kaybedersin.
+
+      **Bu, bugün Müslümanlar için neden önemli?** Bu tartışma, bir Müslümanın iman ile bilimi ilişkilendirmesinin iki yolunu çerçeveler. Biri Allah'ın özgürlüğünü vurgular ve kanunları güvenilir âdetler olarak görür. Diğeri sabit tabiatları vurgular ve Allah'ı bu tabiatları veren olarak görür. İkisi de mucizeleri kabul eder; ikisi de bilimi kabul eder. "Tabiat kanunu"nun ne olduğu konusunda ayrılırlar.
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: reasoning
     en: |-
       **Hume's argument, in full.** Hume (1711–1776) defines a miracle as "a violation of the laws of nature", and argues that because those laws are established by "a uniform experience", there "must, therefore, be a uniform experience against every miraculous event" (E 10.12). His example: "it is a miracle, that a dead man should come to life; because that has never been observed, in any age or country" (E 10.12). His maxim: "That no testimony is sufficient to establish a miracle, unless the testimony be of such a kind, that its falsehood would be more miraculous, than the fact, which it endeavours to establish" (E 10.13). In Part 2 he adds four reasons why, in practice, the testimony never meets that bar:
@@ -128,11 +150,36 @@ fullAnswer:
       **So where does Hume "assume what he needs to prove"?** In treating "uniform experience against every miraculous event" as already known. Whether experience is uniform is exactly what a miracle report disputes. Hume's Part 2 points are stronger: they are real reasons to be cautious about miracle stories, and Muslim hadith scholars, who judged reports by the reliability and number of their narrators, would agree with much of that caution.
 
       **Why would God break His own habits?** In the Islamic view, a miracle is not a repair of a faulty machine. It is a sign that addresses people at a particular moment, usually to confirm a messenger, and the Quran says, "We send not the signs except as a warning" (17:59). A habit that is never broken teaches that God is reliable; a rare, meaningful exception teaches that He is free and present. Both are part of the message.
+    tr: |-
+      **Hume'un argümanı, bütünüyle.** Hume (1711–1776) mucizeyi "tabiat kanunlarının ihlali" olarak tanımlar ve bu kanunlar "tekdüze bir tecrübe" ile kurulduğu için "her mucizevi olaya karşı tekdüze bir tecrübe bulunması gerektiğini" savunur (E 10.12). Örneği: "Ölü bir adamın hayata dönmesi bir mucizedir, çünkü bu hiçbir çağda ya da ülkede gözlemlenmemiştir" (E 10.12). İlkesi: "Hiçbir tanıklık, yanlışlığı kanıtlamaya çalıştığı olaydan daha mucizevi olacak türden olmadıkça, bir mucizeyi kanıtlamaya yetmez" (E 10.13). İkinci bölümde tanıklığın pratikte bu çıtaya neden hiçbir zaman ulaşmadığına dair dört sebep ekler:
+      1. Tarihte hiçbir mucize, sağduyu, eğitim ve dürüstlük sahibi "yeterli sayıda insan tarafından tasdik edilmiş" değildir (E 10.15).
+      2. "Mucizelerden doğan şaşkınlık ve hayret duygusu hoş bir duygu olduğundan", insanları bu tür hikâyelere inanmaya ve onları tekrarlamaya hevesli kılar (E 10.16).
+      3. Mucize hikâyelerinin "esas olarak cahil ve barbar milletler arasında bol olduğu gözlemlenir" (E 10.20).
+      4. Farklı dinlerin mucizeleri birbirini götürür: "farklı dinlerin bütün harikaları birbirine zıt olgular olarak görülmelidir" (E 10.24).
+
+      **Hume nerede itiraza açıktır?** *Enquiry*'yi Oxford için yayına hazırlayan Millican dikkatli bir değerlendirme yapar:
+      - **İlke, ifade edildiği hâliyle başarısızdır.** Hume tanıkların güvenilirliğini olayın düşük ihtimaliyle karşılaştırır. Millican bu kuralın, piyango sonuçları gibi sıradan düşük ihtimalli olaylar için yanlış cevaplar verdiğini gösterir, çünkü yanlış bir haberin kaç farklı şekilde ortaya çıkabileceğini hesaba katmaz. Onun yerine "Gözden Geçirilmiş Humecu İlke"yi önerir (§§2–3).
+      - **Kanıtlanacak olanı varsayma (question-begging) suçlaması.** "Tekdüze tecrübe", ölü bir adamın dirildiğini *hiç kimsenin* görmediği anlamına geliyorsa, bunu bir diriliş haberine karşı öne sürmek haberin yanlış olduğunu varsaymak olur. Millican, daha iyi olan noktanın Hristiyanın (ya da Müslümanın) özel bir ilahi müdahale iddia etmesi olduğunu söyler; bu, ölülerin normalde ölü kaldığını kabul etmekle bağdaşır (§4). Bir mucizenin delili tanık haberleri ve fiziksel izlerdir, tabiat kanununun delili değil: "Burada ciddi bir ikilem yok, sadece ayrı delil kümeleri var" (§4).
+      - **Asıl mesele önceden sahip olunan inançtır.** Millican, bir mucize haberinin kabul edilip edilmeyeceğinin genel olarak doğaüstü müdahaleye dair iyi bir delil olup olmamasına bağlı olduğu ve natüralizm ile teizm arasındaki anlaşmazlığın "yalnızca tümevarımsal delille çözülemeyeceği" sonucuna varır. Allah lehine başarılı bir argüman, bir mucizenin önsel olasılığını artırır (§6).
+
+      **Peki Hume "kanıtlaması gerekeni" nerede varsayıyor?** "Her mucizevi olaya karşı tekdüze tecrübe"yi zaten bilinen bir şey gibi ele aldığı yerde. Tecrübenin tekdüze olup olmadığı tam da bir mucize haberinin itiraz ettiği şeydir. Hume'un ikinci bölümdeki noktaları daha güçlüdür: Mucize hikâyeleri konusunda temkinli olmak için gerçek sebeplerdir ve haberleri râvilerinin güvenilirliğine ve sayısına göre değerlendiren Müslüman hadis âlimleri bu temkinin büyük kısmına katılırdı.
+
+      **Allah kendi âdetlerini neden bozsun?** İslami görüşte mucize, arızalı bir makinenin tamiri değildir. Belirli bir anda insanlara hitap eden, genellikle bir elçiyi doğrulayan bir işarettir; Kur'an da "Oysa biz, o mucizeleri ancak korkutmak için göndeririz." der (17:59). Hiç bozulmayan bir âdet Allah'ın güvenilir olduğunu öğretir; nadir ve anlamlı bir istisna O'nun özgür ve hazır olduğunu öğretir. İkisi de mesajın parçasıdır.
+    title:
+      en: Filozoflar bu konuda nasıl akıl yürütür?
+      tr: Filozoflar bu konuda nasıl akıl yürütür?
   - kind: science
     en: |-
       **Laws describe; they do not command.** [Established, as a point about scientific practice.] A law of nature, in the sense scientists use, is a description of how systems behave, tested by observation. It says what happens when nothing else intervenes. Whether there is anything that *could* intervene is a philosophical question, not one a law can answer.
 
       **Conservation laws and miracles.** [Debated, as philosophy of physics.] The best-known worry is that a miracle would break the conservation of energy. Cucu and Pitts (2019), in a paper on the parallel question for the mind, note that energy conservation follows from a symmetry in time (Noether's theorem) and holds for closed systems. Their conclusion for the mind is that "energy is conserved when and where minds do not act on bodies, but is not conserved when and where minds act on bodies", and that no *a priori* objection from conservation survives. *Extension (not their claim):* the same reasoning would apply to God acting in the world: a conservation law says what happens in a closed system; a miracle is, by definition, the system not being closed. Physics cannot show that such an event happened, but its laws do not show that it cannot.
+    tr: |-
+      **Kanunlar tarif eder; emretmez.** [Established, bilimsel pratiğe dair bir nokta olarak.] Bilim insanlarının kullandığı anlamda bir tabiat kanunu, sistemlerin nasıl davrandığının gözlemle sınanmış bir tarifidir. Başka hiçbir şey müdahale etmediğinde ne olduğunu söyler. Müdahale *edebilecek* bir şeyin olup olmadığı ise bir kanunun cevaplayabileceği değil, felsefi bir sorudur.
+
+      **Korunum kanunları ve mucizeler.** [Debated, fizik felsefesi olarak.] En bilinen kaygı, bir mucizenin enerjinin korunumunu çiğneyeceğidir. Cucu ve Pitts (2019), zihin için benzer soruyu ele alan bir makalede, enerjinin korunumunun zamandaki bir simetriden (Noether teoremi) çıktığını ve kapalı sistemler için geçerli olduğunu belirtir. Zihin için vardıkları sonuç, "enerjinin, zihinlerin bedenler üzerinde etkide bulunmadığı zaman ve yerde korunduğu, ama zihinlerin bedenler üzerinde etkide bulunduğu zaman ve yerde korunmadığı" ve korunumdan kaynaklanan hiçbir *a priori* itirazın ayakta kalmadığıdır. *Genişletme (onların iddiası değil):* Aynı akıl yürütme Allah'ın dünyada etkide bulunması için de geçerli olur: Bir korunum kanunu kapalı bir sistemde ne olduğunu söyler; mucize ise tanımı gereği sistemin kapalı olmamasıdır. Fizik böyle bir olayın gerçekleştiğini gösteremez, ama kanunları da gerçekleşemeyeceğini göstermez.
+    title:
+      en: Bilim ne diyor?
+      tr: Bilim ne diyor?
   - kind: objection
     en: |-
       **"Uniform experience shows the dead stay dead."** *Reply:* uniform experience shows what happens without God's special action. A miracle claim is a claim about God's special action, and has to be judged by the evidence for it and by the prior case for God (Millican, §§4, 6). *Limit:* if you have no prior reason to believe in God, Hume's caution remains reasonable.
@@ -140,6 +187,15 @@ fullAnswer:
       **"Every religion reports miracles, so they cancel out."** *Reply:* the Quran itself does not rest the case for Islam on reported wonders; it rests it first on the Book (29:51) and on the character of the message. Competing miracle reports show that people are credulous, which Islam agrees is a danger. *Limit:* Muslims do report miracles of the Prophet (pbuh) in hadith (for example the splitting of the moon, linked to 54:1), and those reports face Hume's challenge like any others. They were not examined.
 
       **"Occasionalism destroys science."** *Reply:* the Ashʿari view keeps the regularity that science needs — God's custom is constant — and only denies that it is necessary. Many readers of al-Ghazali hold that he allowed real natures acting by God's will (Lee; Adamson). *Limit:* Ibn Rushd's objection, that knowledge needs fixed natures, still has defenders, and the debate continues.
+    tr: |-
+      **"Tekdüze tecrübe ölülerin ölü kaldığını gösterir."** *Cevap:* Tekdüze tecrübe, Allah'ın özel bir fiili olmadan ne olduğunu gösterir. Bir mucize iddiası Allah'ın özel fiili hakkında bir iddiadır ve onun lehindeki delille ve Allah lehindeki önsel gerekçeyle değerlendirilmelidir (Millican, §§4, 6). *Sınır:* Allah'a inanmak için önceden hiçbir sebebin yoksa, Hume'un temkini makul olmaya devam eder.
+
+      **"Her din mucize bildiriyor, dolayısıyla birbirlerini götürüyorlar."** *Cevap:* Kur'an'ın kendisi İslam'ın gerekçesini bildirilen harikalara dayandırmaz; onu önce Kitab'a (29:51) ve mesajın niteliğine dayandırır. Birbiriyle yarışan mucize haberleri insanların saf olduğunu gösterir; İslam da bunun bir tehlike olduğunu kabul eder. *Sınır:* Müslümanlar hadislerde Hz. Peygamber'in (s.a.v.) mucizelerini de bildirir (örneğin 54:1 ile ilişkilendirilen ayın yarılması); bu haberler de diğerleri gibi Hume'un meydan okumasıyla karşı karşıyadır. Bunlar incelenmedi.
+
+      **"Vesilecilik bilimi yok eder."** *Cevap:* Eş'arî görüş bilimin ihtiyaç duyduğu düzenliliği korur — Allah'ın âdeti sabittir — ve yalnızca bunun zorunlu olduğunu reddeder. Gazzâlî'yi okuyan pek çok kişi onun, Allah'ın iradesiyle işleyen gerçek tabiatlara yer bıraktığını savunur (Lee; Adamson). *Sınır:* İbn Rüşd'ün, bilginin sabit tabiatlara ihtiyaç duyduğu itirazının hâlâ savunucuları vardır ve tartışma sürmektedir.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Hume** — testimony can never establish a miracle as a basis for religion (*Enquiry* §10).
@@ -147,31 +203,52 @@ fullAnswer:
       - **Al-Ghazali and the Ashʿaris** — natural regularity is God's custom; miracles are signs.
       - **Ibn Rushd** — things have real natures; denying causes undermines knowledge.
       - **The Quran** — miracles are signs from God, do not compel belief, and the Book is the central sign.
+    tr: |-
+      - **Hume** — tanıklık bir mucizeyi din için bir temel olarak asla kanıtlayamaz (*Enquiry* §10).
+      - **Millican** — Hume'un ilkesi ifade edildiği hâliyle başarısızdır; asıl soru doğaüstü fiile dair önceden var olan delildir.
+      - **Gazzâlî ve Eş'arîler** — tabiattaki düzenlilik Allah'ın âdetidir; mucizeler işaretlerdir.
+      - **İbn Rüşd** — şeylerin gerçek tabiatları vardır; sebepleri inkâr etmek bilgiyi çökertir.
+      - **Kur'an** — mucizeler Allah'tan gelen işaretlerdir, inanmaya zorlamaz; merkezî işaret Kitap'tır.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: What is the *Tahāfut*?
+      tr: "*Tehâfüt* nedir?"
     a:
       en: "*Tahāfut al-Falāsifa* (*The Incoherence of the Philosophers*), al-Ghazali's attack on the Aristotelian philosophers. Ibn Rushd answered with *Tahāfut al-Tahāfut*. Their debate on causality is still read today."
+      tr: "*Tehâfütü'l-Felâsife* (*Filozofların Tutarsızlığı*), Gazzâlî'nin Aristotelesçi filozoflara yönelik eleştirisi. İbn Rüşd buna *Tehâfütü't-Tehâfüt* ile cevap verdi. Sebeplilik üzerine tartışmaları bugün hâlâ okunuyor."
   - q:
       en: What are occasionalism and "secondary causality"?
+      tr: Vesilecilik ve "ikincil sebeplilik" nedir?
     a:
       en: "Occasionalism: God alone truly causes; created things are occasions. Secondary causality: created things truly cause, but only because God gave them their natures and sustains them."
+      tr: "Vesilecilik: Gerçek anlamda yalnızca Allah sebep olur; yaratılmış şeyler vesiledir. İkincil sebeplilik: Yaratılmış şeyler gerçekten sebep olur, ama yalnızca Allah onlara tabiatlarını verdiği ve onları ayakta tuttuğu için."
   - q:
       en: Which miracles does Islam actually claim?
+      tr: İslam aslında hangi mucizeleri iddia eder?
     a:
       en: The Quran describes miracles of earlier prophets (Moses' staff, Abraham in the fire, Jesus' healing). For the Prophet (pbuh), it points to the Quran itself (29:51; 17:88). Hadith reports describe others; their evidence was not assessed here.
+      tr: Kur'an önceki peygamberlerin mucizelerini anlatır (Mûsâ'nın asası, ateşteki İbrâhîm, Îsâ'nın iyileştirmesi). Hz. Peygamber (s.a.v.) için ise Kur'an'ın kendisini gösterir (29:51; 17:88). Hadis rivayetleri başkalarını da anlatır; bunların delili burada değerlendirilmedi.
   - q:
       en: Do Muslims see the Quran as the main miracle?
+      tr: Müslümanlar Kur'an'ı ana mucize olarak mı görür?
     a:
       en: The Quran presents itself that way (29:50–51; 2:23), and the classical study of the Quran's inimitability (*iʿjāz*) was mainly about its language (see "Are 'scientific miracles' in the Quran real?").
+      tr: Kur'an kendini böyle sunar (29:50–51; 2:23) ve Kur'an'ın taklit edilemezliğine (*i'câz*) dair klasik çalışmalar esas olarak onun diliyle ilgiliydi (bkz. "Kur'an'daki 'bilimsel mucizeler' gerçek mi?").
   - q:
       en: Does a miracle break the law of conservation of energy?
+      tr: Bir mucize enerjinin korunumu kanununu çiğner mi?
     a:
       en: "Not in the sense physics uses: those laws describe closed systems, and a miracle claims that the system was not closed. Physics cannot confirm that; it does not rule it out either."
+      tr: "Fiziğin kullandığı anlamda hayır: Bu kanunlar kapalı sistemleri tarif eder; mucize ise sistemin kapalı olmadığını iddia eder. Fizik bunu doğrulayamaz; ama dışlamaz da."
   - q:
       en: If God works through habits, why break them?
+      tr: Allah âdetler yoluyla işliyorsa, onları neden bozsun?
     a:
       en: As a sign, at a moment that matters, usually to confirm a messenger — and, in the Quran, as a warning (17:59).
+      tr: Bir işaret olarak, önemli bir anda, genellikle bir elçiyi doğrulamak için — ve Kur'an'da bir uyarı olarak (17:59).
 legacySources:
   - *a1
   - *a2
@@ -179,3 +256,4 @@ legacySources:
   - *a4
   - *a5
   - *a6
+translatedFrom: docs/research/tr/Q33.md

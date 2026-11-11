@@ -9,7 +9,7 @@ Written by Claude directly, November 2026. Every Quran quotation was checked aga
 ### Sources read
 - Saheeh International (Tanzil): 29:38–43.
 - al-Tabari on 29:41 (Arabic), https://quran.ksu.edu.sa/tafseer/tabary/sura29-aya41.html.
-- Ibn Kathir (abridged English) and *al-Jalālayn* on 29:41, https://surahquran.com/tafsir-english-aya-41-sora-29.html (as on the current page).
+- Ibn Kathir (abridged English) and *al-Jalālayn* on 29:41, https://surahquran.com/tafsir-english-aya-41-sora-29.html.
 - Agnarsson, Kuntner & Blackledge, "Bioprospecting finds the toughest biological material: extraordinary silk from a giant riverine orb spider", *PLoS ONE* 5(9): e11234 (2010), abstract (DOAJ record).
 - N. W. Burke, "Sexual cannibalism as a female resistance trait: a new hypothesis", *Evolution* 78(4) (2024) — what is and is not claimed about sexual cannibalism.
 
@@ -77,10 +77,10 @@ That is the parable. People take "allies other than Allah" — idols, then; mone
 ### Sources read
 - Saheeh International (Tanzil): 25:45–47.
 - al-Qurtubi on 25:45 (Arabic), https://quran.ksu.edu.sa/tafseer/qortobi/sura25-aya45.html.
-- Ibn Kathir (abridged English) and *al-Jalālayn* on 25:45–46, https://surahquran.com/tafsir-english-aya-45-sora-25.html (as on the current page).
+- Ibn Kathir (abridged English) and *al-Jalālayn* on 25:45–46, https://surahquran.com/tafsir-english-aya-45-sora-25.html.
 - US Naval Observatory, "Rise, Set, and Twilight Definitions" (aa.usno.navy.mil).
-- Jamiʿ al-Tirmidhi 149 (hadithunlocked.com) — the hadith of Gabriel and the prayer times (read for run 19).
-- Gibril F. Haddad, "Time of ʿAsr in the Hanafi Madhab" (islamqa.org) (read for run 19).
+- Jamiʿ al-Tirmidhi 149 (hadithunlocked.com) — the hadith of Gabriel and the prayer times.
+- Gibril F. Haddad, "Time of ʿAsr in the Hanafi Madhab" (islamqa.org).
 
 ### In brief
 "Have you not considered your Lord - how He extends the shadow, and if He willed, He could have made it stationary?" (25:45): the verse asks us to watch the shadow and see in its movement the hand of God.
@@ -124,7 +124,8 @@ The commentators placed the scene in the quiet before sunrise (al-Qurtubi, with 
 ### Honest notes
 - **The popular claim.** It is sometimes claimed that the verse "reveals Earth's rotation". The verse describes what anyone can see; the classical commentators read it as the light before sunrise and as God's power to stop the sun. No named source for the claim was read.
 - **Two readings of "extends the shadow".** Dawn to sunrise (al-Hasan, Qatada; al-Qurtubi: "more correct") or sunset to sunrise (unattributed). The page should give both.
-- **The Hanafi Asr time.** Abu Hanifa held two shadow-lengths; his two students and the other schools held one; later Hanafis differ on which view the school follows (Haddad; see run 19).
+- **The Hanafi Asr time.** Abu Hanifa held two shadow-lengths; his two students and the other schools held one; later Hanafis differ on which view the school follows (Haddad).
+- Twice a year, around 27–28 May and 15–16 July, the noon sun stands directly over the Kaaba, and shadows everywhere it is day point towards Mecca; astronomers such as Jaghmini (c. 1221) and Nasir al-Din al-Tusi already described this way of finding the qibla (*Wikipedia*, "Qibla observation by shadows").
 
 ### Questions readers ask next
 **What is the "extended shadow"?** Most commentators say the time between dawn and sunrise (al-Hasan and Qatada, in al-Qurtubi; Ibn ʿAbbas, Ibn ʿUmar, Mujahid and Qatada, in Ibn Kathir), when the light is spread out and there are no sharp shadows.
@@ -144,10 +145,10 @@ The commentators placed the scene in the quiet before sunrise (al-Qurtubi, with 
 ### Sources read
 - Saheeh International (Tanzil): 16:78–80, 67:19–20, 24:41.
 - al-Tabari and al-Qurtubi on 67:19 (Arabic), https://quran.ksu.edu.sa/tafseer/ibn-tabary-qortobi/sura67-aya19.html.
-- Ibn Kathir (abridged English) and *al-Jalālayn* on 16:79 and 67:19, https://surahquran.com/tafsir-english-aya-79-sora-16.html and https://surahquran.com/tafsir-english-aya-19-sora-67.html (as on the current page).
+- Ibn Kathir (abridged English) and *al-Jalālayn* on 16:79 and 67:19, https://surahquran.com/tafsir-english-aya-79-sora-16.html and https://surahquran.com/tafsir-english-aya-19-sora-67.html.
 - NASA Glenn Research Center, "What is Lift?" (www1.grc.nasa.gov).
 - Weimerskirch et al., "Frigate birds track atmospheric conditions over months-long transoceanic flights", *Science* (2016), as reported by Phys.org (July 2016).
-- Guinness World Records (January 2023) on the bar-tailed godwit's 13,560 km flight (read for run 17).
+- Guinness World Records (January 2023) on the bar-tailed godwit's 13,560 km flight.
 
 ### In brief
 "Do they not see the birds above them with wings outspread and [sometimes] folded in? None holds them [aloft] except the Most Merciful" (67:19): the verse asks us to look up at something ordinary and see who holds it.
@@ -194,7 +195,7 @@ The verse chooses the name "the Most Merciful". Holding birds in the sky is an a
 ### Honest notes
 - **No aerodynamics in the verse.** The verses describe what anyone can see: birds gliding and flapping, held in the air. Claims that they "predicted" lift go beyond the words; the commentators did not read them that way, though Ibn Kathir names the air as the means.
 - **The popular claim.** No named source making a scientific-miracle claim about these verses was read.
-- **Distance figures.** The godwit record (13,560 km) was "not yet published or peer reviewed" when reported (run 17).
+- **Distance figures.** The godwit record (13,560 km) was "not yet published or peer reviewed" when reported.
 
 ### Questions readers ask next
 **What do "outspread" and "folded in" mean?** Gliding with wings spread, and flapping or folding them; Qatada and Mujahid (in al-Tabari) and al-Qurtubi describe exactly this.
@@ -214,10 +215,10 @@ The verse chooses the name "the Most Merciful". Holding birds in the sky is an a
 ### Sources read
 - Saheeh International (Tanzil): 30:23, 78:9, 39:42–43, 6:60, 25:47.
 - al-Tabari on 39:42 (Arabic), https://quran.ksu.edu.sa/tafseer/tabary/sura39-aya42.html.
-- Ibn Kathir (abridged English) on 39:42, https://surahquran.com/tafsir-english-aya-42-sora-39.html (as on the current page).
+- Ibn Kathir (abridged English) on 39:42, https://surahquran.com/tafsir-english-aya-42-sora-39.html.
 - Sahih al-Bukhari 6314 (hadithunlocked.com), from Hudhayfa — the words at sleeping and waking.
-- NIH/NINDS release (via ScienceDaily, 18 Oct. 2013) on Xie et al., "Sleep Drives Metabolite Clearance from the Adult Brain", *Science* 342:373 (2013) (as on the current page).
-- Ringstad et al., *JCI Insight* 3(13): e121537 (2018); NINDS, "Brain Basics: Understanding Sleep" (read for run 17).
+- NIH/NINDS release (via ScienceDaily, 18 Oct. 2013) on Xie et al., "Sleep Drives Metabolite Clearance from the Adult Brain", *Science* 342:373 (2013).
+- Ringstad et al., *JCI Insight* 3(13): e121537 (2018); NINDS, "Brain Basics: Understanding Sleep".
 
 ### In brief
 "Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep" (39:42): every night, the Quran says, we pass through a small likeness of death and are given back.
@@ -283,9 +284,9 @@ Science now adds, as reflection, that sleep is not idle: it orders memory, sets 
 ### Sources read
 - Saheeh International (Tanzil): 16:65–67.
 - Ibn Kathir, al-Tabari and al-Saʿdi on 16:66 (Arabic), https://quran.ksu.edu.sa/tafseer/ibn-katheer-tabary-saadi/sura16-aya66.html.
-- Ibn Kathir (abridged English) and *al-Jalālayn* on 16:66, https://surahquran.com/tafsir-english-aya-66-sora-16.html (as on the current page).
+- Ibn Kathir (abridged English) and *al-Jalālayn* on 16:66, https://surahquran.com/tafsir-english-aya-66-sora-16.html.
 - Renaudeau, Lebreton, Noblet & Dourmad, "Measurement of blood flow through the mammary gland in lactating sows: methodological aspects", *Journal of Animal Science* 80(1):196–201 (2002), abstract.
-- "Anatomy of the Mammary Gland", Cornell University (adapted from DeLaval material) (as on the current page).
+- "Anatomy of the Mammary Gland", Cornell University (adapted from DeLaval material).
 
 ### In brief
 "We give you drink from what is in their bellies - between excretion and blood - pure milk, palatable to drinkers" (16:66): purity drawn out from between two impurities, as a lesson.
@@ -310,7 +311,7 @@ Science now adds, as reflection, that sleep is not idle: it orders memory, sets 
 Each point is tied to "between excretion and blood" and "pure milk".
 
 - **From food, through blood, to milk.** [Established] Nutrients from digested food pass into the blood; the cells of the mammary gland take their raw materials from the blood and make milk (Cornell University, "Anatomy of the Mammary Gland").
-- **How much blood.** [Moderate; measured in sows] In lactating sows, "blood flow through the entire mammary gland averages 3.6 L/min" and "about 470 L of blood are required to produce 1 kg of milk" — an estimate that assumes the measured artery drains a quarter of the gland (Renaudeau et al., *Journal of Animal Science*, 2002). For dairy cows the current page gives about 500 litres of blood per litre of milk (Cornell University); such figures are rules of thumb, not constants.
+- **How much blood.** [Moderate; measured in sows] In lactating sows, "blood flow through the entire mammary gland averages 3.6 L/min" and "about 470 L of blood are required to produce 1 kg of milk" — an estimate that assumes the measured artery drains a quarter of the gland (Renaudeau et al., *Journal of Animal Science*, 2002). For dairy cows a figure of about 500 litres of blood per litre of milk is often given, attributed to Cornell University (that source has not yet been consulted); such figures are rules of thumb, not constants.
 
 ### Points of awe
 - Around 470 litres of blood pass through a sow's mammary glands for each kilogram of milk (Renaudeau et al., 2002).
@@ -349,9 +350,9 @@ The surrounding verses build the same picture: rain from the sky reviving dead e
 ### Sources read
 - Saheeh International (Tanzil): 24:41–44, 30:48, 15:22.
 - al-Tabari and al-Qurtubi on 24:43 (Arabic), https://quran.ksu.edu.sa/tafseer/ibn-tabary-qortobi/sura24-aya43.html.
-- Ibn Kathir (abridged English) on 24:43 and 15:22, https://surahquran.com/tafsir-english-aya-43-sora-24.html and https://surahquran.com/tafsir-english-aya-22-sora-15.html (as on the current page).
+- Ibn Kathir (abridged English) on 24:43 and 15:22, https://surahquran.com/tafsir-english-aya-43-sora-24.html and https://surahquran.com/tafsir-english-aya-22-sora-15.html.
 - NOAA National Severe Storms Laboratory, "Hail Basics" (archived page).
-- USGS Water Science School, "How much does a cloud weigh?" (as on the current page).
+- USGS Water Science School, "How much does a cloud weigh?".
 
 ### In brief
 "Do you not see that Allah drives clouds? Then He brings them together, then He makes them into a mass, and you see the rain emerge from within it" (24:43): the verse walks us through a storm, step by step, and asks us to see who drives it.
@@ -421,9 +422,9 @@ The next verse turns from storm to time: "Allah alternates the night and the day
 ### Sources read
 - Saheeh International (Tanzil): 88:17–21.
 - al-Qurtubi, al-Tabari and al-Saʿdi on 88:17 (Arabic), https://quran.ksu.edu.sa/tafseer/ibn-qortobi-tabary-saadi/sura88-aya17.html.
-- Ibn Kathir (abridged English) on 88:17–20, https://surahquran.com/tafsir-english-aya-17-sora-88.html (as on the current page).
-- Ali et al., "Effects of long-term dehydration on stress markers, blood parameters, and tissue morphology in the dromedary camel", *Frontiers in Veterinary Science* (2023), doi 10.3389/fvets.2023.1236425 (read for run 19).
-- Schmidt-Nielsen, Schroter & Shkolnik, "Desaturation of exhaled air in camels", *Proc. R. Soc. Lond. B* 211 (1981) 305–319 (read for run 19).
+- Ibn Kathir (abridged English) on 88:17–20, https://surahquran.com/tafsir-english-aya-17-sora-88.html.
+- Ali et al., "Effects of long-term dehydration on stress markers, blood parameters, and tissue morphology in the dromedary camel", *Frontiers in Veterinary Science* (2023), doi 10.3389/fvets.2023.1236425.
+- Schmidt-Nielsen, Schroter & Shkolnik, "Desaturation of exhaled air in camels", *Proc. R. Soc. Lond. B* 211 (1981) 305–319.
 
 ### In brief
 "Then do they not look at the camels - how they are created?" (88:17): the verse sends its first listeners to the animal they knew best, and asks them to look again.
@@ -493,11 +494,11 @@ The verse then lifts our eyes: the sky raised, the mountains set, the earth spre
 ### Sources read
 - Saheeh International (Tanzil): 78:6–7, 16:15, 79:32–33, 13:3, 88:19.
 - al-Tabari, Ibn Kathir and *al-Muyassar* on 78:7 (Arabic), https://quranislam.github.io/tafsir/sura78-aya7.html.
-- Ibn Kathir (abridged English) on 78:6–7 and 16:15, https://surahquran.com/tafsir-english-aya-7-sora-78.html and https://surahquran.com/tafsir-english-aya-15-sora-16.html (as on the current page).
-- Jamiʿ al-Tirmidhi 3369 (hadithunlocked.com) — the report that the earth shook until the mountains were made (read for run 17).
-- UC San Diego, Scripps IGPP, Lecture 2 "Gravity, Isostasy and Flexure" (after Kearey, Klepeis & Vine 2009) (read for run 19).
-- USGS, *Seismicity of the Earth 1900–2010: Himalaya and vicinity*, Open-File Report 2010-1083-J (as on the current page).
-- IslamQA, Question 223428 (as on the current page) — the popular claim.
+- Ibn Kathir (abridged English) on 78:6–7 and 16:15, https://surahquran.com/tafsir-english-aya-7-sora-78.html and https://surahquran.com/tafsir-english-aya-15-sora-16.html.
+- Jamiʿ al-Tirmidhi 3369 (hadithunlocked.com) — the report that the earth shook until the mountains were made.
+- UC San Diego, Scripps IGPP, Lecture 2 "Gravity, Isostasy and Flexure" (after Kearey, Klepeis & Vine 2009).
+- USGS, *Seismicity of the Earth 1900–2010: Himalaya and vicinity*, Open-File Report 2010-1083-J.
+- IslamQA, Question 223428 — the popular claim.
 
 ### In brief
 "Have We not made the earth a resting place? And the mountains as stakes?" (78:6–7): mountains are offered as pegs that keep the earth a fit place to live.
@@ -546,8 +547,8 @@ What the verse asks is not a lecture in tectonics. It is a question — "Have We
 ### Honest notes
 - **The popular claim.** IslamQA writes: "Geological research proves that the mountains are fixed firmly in the earth and that they stabilise the earth", and "The roots of the mountains beneath the surface of the earth are several times deeper than the height of that which appears above the surface" (Question 223428).
 - **Weighing it.** *Roots:* true, and the Airy model (about 5.6 times the height) supports "several times deeper". *"Stabilise the earth":* not in the sense of preventing earthquakes; mountain belts are among the most earthquake-prone places on Earth (USGS). The classical commentators read the verses as the earth made a steady home, not as a claim about seismology.
-- **The current page's numbers.** "About five times… so an 8 km mountain would have a root about 32 km deep" is inconsistent (32 is four times 8); with the source's 5.6, it is about 45 km (see run 19).
 - **The weak report.** The report that the earth shook until the mountains were made (Tirmidhi 3369) is graded weak by al-Albani; it should not be presented as established.
+- A widely shared article cites the geology textbook *Earth* (Press and Siever) for mountains' "roots" and concludes that "modern geology has confirmed the truth of the Quranic verses"; that conclusion is the article's own, not the textbook authors' (IslamReligion.com, article 215).
 
 ### Questions readers ask next
 **Do mountains really have roots?** Yes. Under isostasy, high mountains are balanced by thick roots of lighter crust; in the simple Airy model, about 5.6 times their height (Scripps lecture).

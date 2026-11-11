@@ -15,16 +15,13 @@ verses:
   - 20:14
   - 23:1-2
 steelman:
-  tr: |
-    Yabancı bir dilde, belirli beş namaz mekanik hissettirebilir. Hiçbir şey hissetmiyorsam, bu boş bir ritüel, hatta ikiyüzlülük değil mi?
+  tr: "\"Günde beş kez, zar zor anladığım bir dilde, sabit sözler ve hareketlerle. Kılıyorum ve hiçbir şey hissetmiyorum. Namaz Allah'la bir konuşma olacaksa ve kalbim onda değilse, boş değil mi — hatta ikiyüzlülük değil mi? Ve neden beş? Kur'an hiçbir zaman 'beş' demiyor. Bazıları Kur'an'ın yalnızca üç namaz vaktinden söz ettiğini söylüyor.\""
   en: "\"Five times a day, in a language I barely understand, with fixed words and movements. I do it, and I feel nothing. If prayer is supposed to be a conversation with God and my heart isn't in it, isn't it hollow — even hypocrisy? And why five? The Quran never says 'five'. Some people say the Quran mentions only three prayer times.\""
 whyAsked:
-  tr: |
-    Ritüelin akıl dışı görülmesi; manevî kuruluk ve suçluluk; anlamı öğretilmeden bir görev olarak öğretilen namaz. TİDA'ya göre Türkiye'de 25 yaş altındakilerin yalnızca yaklaşık beşte biri namaz kılıyor.
+  tr: Çünkü düzenli namaz kılan hemen herkesin kuru dönemleri olur. Ve beş sayısı erken öğretilir, Kur'an'ın namaz vakitleriyle ilgili âyetleri ise öğretilmez; bu yüzden Kur'an'ı "beş" arayarak açan bir okuyucu şaşırır.
   en: Because almost everyone who prays regularly has dry periods. And because the number five is taught early, while the Quran's verses on prayer times are not, so a reader who opens the Quran looking for "five" is surprised.
 shortAnswer:
-  tr: |
-    Hiçbir şey hissetmemek yaygındır ve bin yıldır tartışılır; namazın boş olduğunu kanıtlamaz. Namaz önce, duyguyla ya da duygusuz, Allah'a dönmenin bir ritmidir (20:14). Kalp huzuru (*huşû*), kelimeleri anlamakla, yavaşlamakla ve sabırla büyür. Kuraklık dönemlerinde ritmi sürdürmek ikiyüzlülük değil, vefadır.
+  tr: "Namazda hiçbir şey hissetmemek yaygındır, bin yıldır tartışılır ve namazı değersiz kılmaz. Kur'an'ın namaz için belirttiği ilk amaç zikirdir: \"beni anmak için namaz kıl\" (20:14). İbn Kayyim namazdaki insanları beş derecede tarif etti; dikkatsizden kalbi tamamen Allah'ın huzurunda olana kadar; dalgınlıkla mücadele ederek namaza devam eden kişi en alt derecede değil, ortadadır ve dalgınlığa direnen kişi \"kefaret bulmuş\"tur. Hz. Peygamber (s.a.v.), Kur'an'ı güçlükle okuyanın iki kat sevap alacağını söyledi ({hadith:bukhari:4937}). Kalbin huzuru (*huşû*), sözleri anlamakla, yavaşlamakla ve hazırlanmakla büyür. Beş sayısı Buhârî ve Müslim'deki Mi'rac rivayetinden ve kesintisiz uygulamadan gelir; Kur'an namaz vakitlerini sayısını vermeden anar."
   en: "Feeling nothing in prayer is common, has been discussed for a thousand years, and does not make the prayer worthless. The Quran's first purpose for prayer is remembrance: \"establish prayer for My remembrance\" (20:14). Ibn al-Qayyim described five grades of people in prayer, from the careless to those whose heart is fully before God; the one who keeps praying while struggling with distraction is not the lowest but in the middle, and the one who resists distraction is \"redeemed\". The Prophet (pbuh) said that the one who recites the Quran with difficulty gets a double reward ({hadith:bukhari:4937}). Presence of heart (*khushūʿ*) grows with understanding the words, slowing down and preparation. The number five comes from the report of the Miʿrāj in Bukhari and Muslim and from unbroken practice; the Quran names prayer times without counting them."
 layers:
   - kind: religious
@@ -51,9 +48,8 @@ layers:
       "Hiçbir şey hissetmemek" her şeyi kapsıyorsa (yemek, arkadaşlar), bir ruh sağlığı kontrolü yardımcı olabilir. Abdesti tekrarlamak ya da namazın geçersiz olmasından korkmak klasik vesvesedir; klasik kural, bitirdikten sonraki aşırı şüpheyi dikkate almamaktır.
     en: If "feeling nothing" covers everything (food, friends), a mental-health check can help. Repeating ablution or fearing invalid prayer is classic vesvese; the classical rule ignores excessive doubt after finishing.
 honestLimits:
-  tr: |
-    Beş sayısı, açık bir Kur'an sayısına değil, hadise ve uygulamaya dayanır. Hiçbir teknik duyguyu garanti etmez.
-  en: No technique guarantees feeling. Al-Ghazali's *Asrār al-Ṣalāt*, al-Qushayri's own text, the Quran's prayer-time verses (11:114; 17:78) in verified text, and any study of prayer's physiological effects have not yet been consulted. The practical steps beyond Rabbani's are general teaching, not sourced here.
+  tr: Hiçbir teknik duyguyu garanti etmez. Gazzâlî'nin *Esrârü's-Salât*'ına, Kuşeyrî'nin kendi metnine, Kur'an'ın namaz vakti âyetlerine (11:114; 17:78) doğrulanmış metinde ve namazın fizyolojik etkileri üzerine herhangi bir çalışmaya henüz başvurulmadı. Rabbani'ninkilerin ötesindeki pratik adımlar genel öğretimdir, burada kaynaklandırılmadı.
+  en: No technique guarantees feeling. Al-Qushayri's own text and any study of prayer's physiological effects have not yet been consulted. The practical steps beyond Rabbani's are general teaching, not sourced here.
 visualizations:
   - id: ideas
     tr: |
@@ -102,6 +98,17 @@ fullAnswer:
       **Do not chase the feeling.** Rabbani advises not to chase it — "Chasing it is how people end up performing a state rather than living one" — to keep practice steady and small, and to pray, in his wording, "O Turner of hearts, make my heart firm upon Your religion" (the hadith is Tirmidhi 3522, narrated by Umm Salama (ra); al-Tirmidhi: *ḥasan*; al-Albani: *ṣaḥīḥ*, per hadithunlocked).
 
       **When to get help.** If "feeling nothing" covers your whole life — food, friends, work — that may be depression, not a spiritual problem, and a doctor can help. If you repeat your ablution or prayer again and again from fear that it is invalid, that may be religious OCD (scrupulosity); the International OCD Foundation (iocdf.org) describes it and its treatment.
+    tr: |-
+      **Kendini kuru hissederken namaz kıldığın için ikiyüzlü değilsin.** İkiyüzlü, inanmadığı şeye inanıyormuş gibi yapan kişidir. Sen inanıyorsun ve zor olsa da namaz kılıyorsun. Bu rol yapmak değil, sadakattir. Rabbani bunu açıkça söyler: "Tatsız yapılan ibadet, çoğu zaman duyguyla taşınan ibadetten daha ağırdır."
+
+      **Hadiste bir umut işareti.** Hz. Peygamber (s.a.v.), Kur'an'ı güçlükle, onunla mücadele ederek okuyanın "iki kat sevabı olacağını" söyledi ({hadith:bukhari:4937}, Hz. Âişe'den (r.a.); tırnak içindeki sözler dışında özetlenmiştir) — mücadelenin kendisi için sevap.
+
+      **Duygunun peşinden koşma.** Rabbani onun peşinden koşmamayı tavsiye eder — "Onun peşinden koşmak, insanların bir hâli yaşamak yerine onu sahnelemeye başlamasının yoludur" — uygulamayı düzenli ve küçük tutmayı ve onun ifadesiyle şöyle dua etmeyi önerir: "Ey kalpleri çeviren, kalbimi dinin üzerine sabit kıl" (hadis Tirmizî 3522'dir, Ümmü Seleme'den (r.a.); Tirmizî: *hasen*; Elbânî: *sahih*, hadithunlocked'a göre).
+
+      **Ne zaman yardım almalı?** "Hiçbir şey hissetmemek" bütün hayatını — yemeği, arkadaşları, işi — kapsıyorsa, bu manevi bir sorun değil, depresyon olabilir ve bir doktor yardımcı olabilir. Abdestini ya da namazını geçersiz olduğu korkusuyla tekrar tekrar yeniliyorsan, bu dinî OKB (dinî vesvese, skrupülozite) olabilir; Uluslararası OKB Vakfı (iocdf.org) onu ve tedavisini anlatır.
+    title:
+      en: Hiçbir şey hissetmiyorsan
+      tr: Hiçbir şey hissetmiyorsan
   - kind: quran
     en: |-
       **Prayer as remembrance (20:14).** "Indeed, I am Allah. There is no deity except Me, so worship Me and establish prayer for My remembrance" (20:14), Meccan — God's words to Moses (pbuh) at the fire in the valley of Ṭuwā (20:10–12). The first purpose named is *dhikr*, remembrance: turning the mind back to God, whether or not one feels moved.
@@ -110,9 +117,24 @@ fullAnswer:
 
       **What prayer does (29:45).** "Recite, [O Muhammad], what has been revealed to you of the Book and establish prayer. Indeed, prayer prohibits immorality and wrongdoing, and the remembrance of Allah is greater" (29:45), Meccan. Prayer's effect is described in behaviour — it holds a person back from wrong — not in feelings.
 
-      **Prayer times.** The Quran names times of prayer in several verses (e.g. 11:114; 17:78; 30:17–18, none quoted from verified data here) but does not state the number five.
+      **Prayer times.** The Quran names times of prayer in several verses: "And establish prayer at the two ends of the day and at the approach of the night" (11:114); "Establish prayer at the decline of the sun [from its meridian] until the darkness of the night and [also] the Qur'an of dawn" (17:78); see also 30:17–18. It does not state the number five.
+    tr: |-
+      **Zikir olarak namaz (20:14).** "Şüphesiz ben Allah'ım, benden başka hiçbir ilâh yoktur. Onun için bana kulluk et ve beni anmak için namaz kıl." (20:14), Mekkî — Allah'ın Tuvâ vadisindeki ateşin yanında Hz. Mûsâ'ya (a.s.) söylediği sözler (20:10–12). Adı geçen ilk amaç *zikir*, anmaktır: Kişi etkilenmiş hissetse de hissetmese de zihni Allah'a döndürmek.
+
+      **Huşû (23:1–2).** "Gerçekten müminler kurtuluşa ermiştir, Onlar ki, namazlarında huşû içindedirler," (23:1–2), Mekkî. *Hâşiûn*, *huşû* kelimesinin köküdür. Müminlerin nitelikleri arasında ilk sırada sayılır: doğru büyünecek bir hedef.
+
+      **Namaz ne yapar (29:45).** "Sana vahyedilen Kitabı oku ve namazı kıl. Muhakkak ki namaz hayasızlıktan ve kötülükten alıkoyar. Allah'ı anmak elbette en büyük ibadettir." (29:45), Mekkî. Namazın etkisi duygularla değil, davranışla tarif edilir — kişiyi yanlıştan alıkoyar.
+
+      **Namaz vakitleri.** Kur'an birkaç âyette namaz vakitlerini anar (ör. 11:114; 17:78; 30:17–18; hiçbiri burada doğrulanmış veriden alıntılanmadı), ama beş sayısını belirtmez.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: "**The Miʿrāj.** The *Miʿrāj* is the Prophet's (pbuh) ascension through the heavens, during the Night Journey. In the report of Anas ibn Malik from Abu Dharr (ra), God first enjoined fifty prayers; Moses (pbuh) told the Prophet (pbuh), \"Go back to your Lord (and appeal for reduction) for your followers will not be able to bear it\"; after several returns the number was reduced, and God said: \"These are five prayers and they are all (equal to) fifty (in reward) for My Word does not change\" ({hadith:bukhari:349}; graded \"Agreed Upon\" — in both Bukhari and Muslim — by ʿAbd al-Baqi). The man from Najd was likewise told: \"You have to offer prayers perfectly five times in a day and night\" ({hadith:bukhari:46})."
+    tr: "**Mi'rac.** *Mi'rac*, Hz. Peygamber'in (s.a.v.) İsrâ gecesinde göklere yükselişidir. Enes b. Mâlik'in Ebû Zer'den (r.a.) rivayetinde Allah önce elli namaz farz kıldı; Hz. Mûsâ (a.s.) Hz. Peygamber'e (s.a.v.) şöyle dedi: \"Rabbine geri dön (ve azaltılmasını iste), çünkü ümmetin buna dayanamaz\"; birkaç kez dönüşten sonra sayı azaltıldı ve Allah şöyle buyurdu: \"Bunlar beş namazdır ve (sevapta) elliye denktir, çünkü benim sözüm değişmez\" ({hadith:bukhari:349}; Abdülbâkî tarafından \"müttefekun aleyh\" — hem Buhârî'de hem Müslim'de — olarak derecelendirildi). Necidli adama da aynı şekilde şöyle denildi: \"Bir gün ve gecede beş vakit namazı tam olarak kılmalısın\" ({hadith:bukhari:46})."
+    title:
+      en: '"Beş" nereden geliyor?'
+      tr: '"Beş" nereden geliyor?'
   - kind: scholars
     en: |-
       Ibn al-Qayyim (a 14th-century Damascene scholar), in *al-Wābil al-Ṣayyib*, describes five kinds of people in prayer (as presented by Sedick):
@@ -125,6 +147,22 @@ fullAnswer:
       The person who feels dry but keeps praying, and keeps pulling the mind back, is in the third grade: "redeemed".
 
       **Al-Qushayri on dry phases.** Rabbani reports al-Qushayri's account of *qabḍ* (contraction) and *basṭ* (expansion) as states of the present moment, which are "neither achievements nor failures. They are visitations, and they alternate."
+
+      Al-Ghazali sums up the inner life of prayer "in six words": awareness (presence of the heart), understanding, reverence, awe, hope and shame (*Iḥyāʾ*, Book 4, *Asrār al-Ṣalāt*, trans. Zidan).
+    tr: |-
+      İbn Kayyim (14. yüzyıl Şamlı âlim), *el-Vâbilü's-Sayyib*'de namazdaki beş tür insanı tarif eder (Sedick'in sunduğu şekliyle):
+      1. "Nefsine zulmeden" (Sedick, 35:32'ye atıfla): abdeste, vakitlere ve temel rükünlere karşı özensiz — "cezalandırılan".
+      2. Vakitleri, sınırları, dış rükünleri ve abdesti koruyan, ama direnmediği vesveselere kapılan — "kınanan".
+      3. Sınırları ve rükünleri koruyan ve vesveselere karşı *mücadele eden* — "kefaret bulan".
+      4. Namazın haklarını, sınırlarını ve rükünlerini kemale erdiren, kalbi bunu yapmaya dalmış olan — "mükâfatlandırılan".
+      5. Dördüncü gibi namaz kılan, ama kalbi Rabbinin huzurunda olan, "Rabbini müşahede eden" — "Rabbine yaklaştırılan".
+
+      Kendini kuru hisseden ama namaz kılmaya ve zihnini geri çekmeye devam eden kişi üçüncü derecededir: "kefaret bulan".
+
+      **Kuşeyrî kuru dönemler hakkında.** Rabbani, Kuşeyrî'nin *kabz* (daralma) ve *bast*ı (genişleme) şimdiki anın hâlleri olarak anlatışını aktarır; bunlar "ne başarı ne de başarısızlıktır. Ziyaretlerdir ve birbirini izler."
+    title:
+      en: İbn Kayyim'in namazdaki insanların beş derecesi
+      tr: İbn Kayyim'in namazdaki insanların beş derecesi
   - kind: reasoning
     en: |-
       **The argument.** Some Quran-centred Muslims argue that the Quran mentions only three prayer times (no named holder or work was read), so three prayers are enough; five, on this view, rests on hadith they do not accept.
@@ -135,6 +173,18 @@ fullAnswer:
       3. The Quran's verses name times without claiming to list all of them.
 
       *Limit:* for someone who rejects hadith altogether, the first point carries no weight, and the second becomes a question of whether community practice can be trusted (see "Are hadith reliable?").
+    tr: |-
+      **Argüman.** Bazı Kur'an merkezli Müslümanlar, Kur'an'ın yalnızca üç namaz vaktinden söz ettiğini, dolayısıyla üç namazın yeterli olduğunu savunur (adı belli hiçbir savunucu ya da eser okunmadı); bu görüşe göre beş, kabul etmedikleri hadislere dayanır.
+
+      **Cevap.**
+      1. Beş namaz, hem Buhârî'de hem Müslim'de bulunan Mi'rac rivayetinde ({hadith:bukhari:349}) ve Buhârî 46 gibi başka rivayetlerde vardır.
+      2. Daha önemlisi, beş vakit namaz en eski kayıtlardan bu yana her bölgede bütün Müslüman toplumu tarafından kılınmaktadır — tek bir râvi zinciriyle değil, milyonlarca insan tarafından aktarılan bir uygulama.
+      3. Kur'an'ın âyetleri vakitleri adlandırır, ama hepsini saydığını iddia etmez.
+
+      *Sınır:* Hadisi tamamen reddeden biri için ilk noktanın hiçbir ağırlığı yoktur ve ikincisi toplumun uygulamasına güvenilip güvenilemeyeceği sorusuna dönüşür (bkz. "Hadisler güvenilir mi?").
+    title:
+      en: Üç namaz argümanı ve cevabı
+      tr: Üç namaz argümanı ve cevabı
   - kind: heart
     en: |-
       (These are common teaching points; only the first two are drawn from sources read.)
@@ -144,48 +194,96 @@ fullAnswer:
       4. **Slow down.** Pause in each position long enough to say its words calmly.
       5. **Prepare.** Make ablution without hurry; pause for a moment before starting; put the phone away.
       6. **Pick one point of focus each prayer** — one verse, one phrase — rather than trying to feel everything.
+    tr: |-
+      (Bunlar yaygın öğretim noktalarıdır; yalnızca ilk ikisi okunan kaynaklardan alınmıştır.)
+      1. **Ritmi koru, kuru olsa bile.** Düzenli, küçük uygulama (Rabbani).
+      2. **Duyguların peşinden koşma; sabit bir kalp için dua et** (Rabbani).
+      3. **Söylediğinin anlamını öğren.** Fâtiha ile başla, sonra rükû ve secde ifadeleriyle devam et. Anlamadığın bir dildeki namaz, her ifadenin bir anlamı olduğunda farklılaşır.
+      4. **Yavaşla.** Her duruşta, sözlerini sakince söyleyecek kadar dur.
+      5. **Hazırlan.** Abdesti acele etmeden al; başlamadan önce bir an dur; telefonu kaldır.
+      6. **Her namazda tek bir odak noktası seç** — bir âyet, bir ifade — her şeyi hissetmeye çalışmak yerine.
+    title:
+      en: "*Huşû* inşa etmek: somut adımlar"
+      tr: "*Huşû* inşa etmek: somut adımlar"
   - kind: fiqh
     en: |-
       The five prayers are at dawn (*fajr*), just after midday (*ẓuhr*), the afternoon (*ʿaṣr*), just after sunset (*maghrib*) and night (*ʿishāʾ*). Each prayer is made of units (*rakʿa*): standing and reciting al-Fātiḥa and other verses, bowing, standing again, two prostrations, and sitting. It is said in Arabic, which keeps the same words across the whole world. (This description is general; no source describing prayer step by step was read.)
 
       **The Arabic-language concern.** The fixed Arabic of the prayer is part of what makes it shared; personal prayer (*duʿāʾ*) can be in any language, at any time — "I respond to the invocation of the supplicant when he calls upon Me" (2:186).
+    tr: |-
+      Beş namaz şafakta (*sabah*), öğleden hemen sonra (*öğle*), ikindide (*ikindi*), gün batımından hemen sonra (*akşam*) ve gecedir (*yatsı*). Her namaz rekâtlardan (*rek'at*) oluşur: ayakta durup Fâtiha'yı ve diğer âyetleri okumak, rükûa eğilmek, yeniden doğrulmak, iki secde ve oturmak. Arapça okunur; bu da bütün dünyada aynı sözleri korur. (Bu tarif geneldir; namazı adım adım anlatan hiçbir kaynak okunmadı.)
+
+      **Arapça dil kaygısı.** Namazın sabit Arapçası onu ortak kılan şeyin bir parçasıdır; kişisel dua (*dua*) herhangi bir dilde, herhangi bir zamanda yapılabilir — "Bana dua edince, duacının duasını kabul ederim." (2:186).
+    title:
+      en: Bir Müslüman beş vakit namazda ne yapar? (Yeni başlayanlar için)
+      tr: Bir Müslüman beş vakit namazda ne yapar? (Yeni başlayanlar için)
   - kind: objection
     en: |-
       **"Prayer without feeling is hypocrisy."** *Reply:* hypocrisy is pretending to believe; praying while dry is keeping faith without reward of feeling. Ibn al-Qayyim's third grade ("redeemed") and Bukhari 4937 ("a double reward" for the one who struggles to recite) treat the struggle itself as rewarded, and better than giving in to distraction. They do not rank it highest: in Ibn al-Qayyim the present heart (grades 4–5) is above it, and the commentators on Bukhari 4937, as quoted by hadeethenc.com ("the Qadi", i.e. Qadi ʿIyad), say the skilled reciter is still better and has the greater reward. *Limit:* prayer that is *only* habit, with no attempt at presence, is Ibn al-Qayyim's second grade — "admonished" — so the reply is not an excuse for carelessness.
 
       **"Five times is too much."** *Reply:* each prayer takes minutes; spread through the day, they are short returns to God. *Limit:* for a new Muslim or someone returning, five can feel heavy; many teachers advise building up gradually (no named source read).
+    tr: |-
+      **"Duygusuz namaz ikiyüzlülüktür."** *Cevap:* İkiyüzlülük inanıyormuş gibi yapmaktır; kuru hissederken namaz kılmak, duygunun mükâfatı olmadan imanı korumaktır. İbn Kayyim'in üçüncü derecesi ("kefaret bulan") ve Buhârî 4937 (okumakta zorlanana "iki kat sevap") mücadelenin kendisini mükâfatlandırılmış ve dalgınlığa teslim olmaktan daha iyi sayar. Onu en üste koymazlar: İbn Kayyim'de huzur içindeki kalp (4–5. dereceler) onun üstündedir ve hadeethenc.com'un aktardığı Buhârî 4937 şârihleri ("Kadı", yani Kadı İyâz), maharetli okuyucunun yine de daha iyi olduğunu ve daha büyük sevabı olduğunu söyler. *Sınır:* *Yalnızca* alışkanlıktan ibaret olan, huzura hiçbir çaba göstermeyen namaz İbn Kayyim'in ikinci derecesidir — "kınanan" — dolayısıyla cevap özensizlik için bir mazeret değildir.
+
+      **"Beş kez çok fazla."** *Cevap:* Her namaz birkaç dakika sürer; güne yayıldığında Allah'a kısa dönüşlerdir. *Sınır:* Yeni Müslüman olan ya da geri dönen biri için beş vakit ağır gelebilir; pek çok hoca yavaş yavaş artırmayı tavsiye eder (adı belli bir kaynak okunmadı).
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: science
     en: No study was read, so no claim about prayer's measurable effects is made here.
+    tr: Hiçbir çalışma okunmadı, dolayısıyla burada namazın ölçülebilir etkileri hakkında hiçbir iddiada bulunulmuyor.
+    title:
+      en: Araştırmalar ne gösteriyor?
+      tr: Araştırmalar ne gösteriyor?
   - kind: views
     en: |-
       - **Sunni and Shiʿi Muslims** — five daily prayers, as practised from the beginning (the Shiʿi practice of combining them into three time-slots is a timing difference, not a reduction; no source read).
       - **Some Quran-centred Muslims** — three prayers, from the Quran's named times.
       - **Sufi tradition (al-Qushayri)** — dry and full states alternate; steady practice through both.
+    tr: |-
+      - **Sünnî ve Şiî Müslümanlar** — başlangıçtan beri kılındığı şekliyle günde beş vakit namaz (Şiîlerin onları üç vakit dilimine cem etmesi bir azaltma değil, bir zamanlama farkıdır; kaynak okunmadı).
+      - **Bazı Kur'an merkezli Müslümanlar** — Kur'an'ın adlandırdığı vakitlerden, üç namaz.
+      - **Tasavvuf geleneği (Kuşeyrî)** — kuru ve dolu hâller birbirini izler; ikisinde de düzenli uygulama.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: If prayer without feeling is acceptable, what does it actually do for me right now?
+      tr: Duygusuz namaz kabul edilebilirse, şu anda benim için gerçekte ne yapıyor?
     a:
       en: It keeps you returning to God several times a day (20:14), it holds you back from wrong (29:45), and the struggle is itself rewarded (Bukhari 4937; Ibn al-Qayyim's third grade).
+      tr: Seni günde birkaç kez Allah'a döndürür (20:14), seni yanlıştan alıkoyar (29:45) ve mücadelenin kendisi mükâfatlandırılır (Buhârî 4937; İbn Kayyim'in üçüncü derecesi).
   - q:
       en: Why five and not three? How strong is the Miʿrāj evidence?
+      tr: Neden üç değil de beş? Mi'rac delili ne kadar güçlü?
     a:
       en: The Miʿrāj report is in both Bukhari and Muslim ("Agreed Upon"), and five prayers have been the practice of the whole community from the earliest times.
+      tr: Mi'rac rivayeti hem Buhârî'de hem Müslim'dedir ("müttefekun aleyh") ve beş namaz en eski zamanlardan beri bütün toplumun uygulamasıdır.
   - q:
       en: What concrete steps build *khushūʿ*?
+      tr: "*Huşû*yu hangi somut adımlar inşa eder?"
     a:
       en: Keep the rhythm; learn the meaning of al-Fātiḥa and the main phrases; slow down; prepare; focus on one phrase at a time; pray for a firm heart.
+      tr: Ritmi koru; Fâtiha'nın ve ana ifadelerin anlamını öğren; yavaşla; hazırlan; bir seferde tek bir ifadeye odaklan; sabit bir kalp için dua et.
   - q:
       en: What does a Muslim do and say in the five prayers, and when?
+      tr: Bir Müslüman beş vakit namazda ne yapar ve söyler, ve ne zaman?
     a:
       en: See "What a Muslim does in the five prayers".
+      tr: '"Bir Müslüman beş vakit namazda ne yapar?" bölümüne bak.'
   - q:
       en: What is the Miʿrāj?
+      tr: Mi'rac nedir?
     a:
       en: The Prophet's (pbuh) ascension through the heavens, in which the five daily prayers were given (Bukhari 349).
+      tr: Hz. Peygamber'in (s.a.v.) göklere yükselişi; beş vakit namaz bu sırada verildi (Buhârî 349).
   - q:
       en: What are *qabḍ* and *basṭ*, and who was al-Qushayrī?
+      tr: "*Kabz* ve *bast* nedir ve Kuşeyrî kimdi?"
     a:
       en: Contraction and expansion of the heart, states that come and go; al-Qushayri, author of the Sufi manual *al-Risāla*, described them (as reported by Rabbani).
+      tr: Kalbin gelip giden daralma ve genişleme hâlleri; tasavvuf el kitabı *er-Risâle*'nin yazarı Kuşeyrî bunları tarif etti (Rabbani'nin aktardığına göre).
 legacySources:
   - *a1
   - *a2
@@ -195,3 +293,4 @@ legacySources:
   - *a6
   - *a7
   - *a8
+translatedFrom: docs/research/tr/Q10.md
