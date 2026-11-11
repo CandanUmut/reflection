@@ -87,7 +87,6 @@ honestNotes:
   - en: "**The popular claim.** \"The Quran described the Big Bang.\" The classical readings of 21:30 are quite different — rain and plants (al-Tabari's choice), separation by air, or seven heavens from one — and the early universe was a hot plasma, not smoke. The modern reading is a reflection, not the verse's meaning (see also the Ask page on \"scientific miracles\")."
   - en: '**"Smoke-like" cloud.** Calling a gas-and-dust cloud "smoke-like" is a reasonable modern reflection [Debated], but the classical commentators read the smoke as vapour.'
   - en: "**The order of creation.** 41:9–12 and 79:27–30 seem to give different orders; Ibn ʿAbbas's reconciliation (earth created, then heavens, then the earth spread out) is reported by Ibn Kathir. It is an old discussion in tafsir, not something to hide."
-  - en: "**\"Just under 99%\".** The current page's \"just under 99% of all the mass orbiting the Sun\" has no primary source; the NASA figures give 99.6% of the planets' mass."
 visualizations:
   - id: ideas
     tr: |
@@ -102,10 +101,10 @@ sources:
     url: https://quran.ksu.edu.sa/tafseer/ibn-tabary-saadi-qortobi/sura21-aya30.html
   - label: al-Tabari on 41:11 (Arabic), https://quran.ksu.edu.sa/tafseer/tabary/sura41-aya11.html — Ibn ʿAbbas's reports on "Come, willingly or by compulsion".
     url: https://quran.ksu.edu.sa/tafseer/tabary/sura41-aya11.html
-  - label: Ibn Kathir (abridged English) and *al-Jalālayn* on 41:9–12 and 21:30, https://surahquran.com/tafsir-english-aya-11-sora-41.html and https://surahquran.com/tafsir-english-aya-30-sora-21.html (as on an earlier version of this page).
+  - label: Ibn Kathir (abridged English) and *al-Jalālayn* on 41:9–12 and 21:30, https://surahquran.com/tafsir-english-aya-11-sora-41.html and https://surahquran.com/tafsir-english-aya-30-sora-21.html.
     url: https://surahquran.com/tafsir-english-aya-11-sora-41.html
   - label: Connelly et al., "The Absolute Chronology and Thermal Processing of Solids in the Solar Protoplanetary Disk", *Science* (2012), doi 10.1126/science.1226919, as reported by the University of Copenhagen (EurekAlert, 2 Nov. 2012) — the age of the first solids.
-  - label: Las Cumbres Observatory, SpaceBook, "The Early Universe" (read for run 17) — a hot, dense early universe that expanded and cooled; atoms formed at about 3,000 K.
+  - label: Las Cumbres Observatory, SpaceBook, "The Early Universe" — a hot, dense early universe that expanded and cooled; atoms formed at about 3,000 K.
   - label: NASA, Planetary Fact Sheet (nssdc.gsfc.nasa.gov) — planet masses.
   - &a1
     label:

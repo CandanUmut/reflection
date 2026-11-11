@@ -421,6 +421,35 @@ const runs = [
     ids: ['S29', 'S30', 'S31', 'S32', 'S33'],
     why: 'The Turkish pages still show the earlier, shorter text.',
   },
+  {
+    n: 40,
+    kind: 'translate',
+    slug: 'tr-update',
+    title: 'Turkish for the deepened pages, and for the paragraphs changed after translation',
+    ids: [
+      'S2',
+      'S10',
+      'S11',
+      'S12',
+      'S13',
+      'S14',
+      'S15',
+      'S16',
+      'S17',
+      'S18',
+      'S19',
+      'S21',
+      'S22',
+      'S23',
+      'S24',
+      'S25',
+      'M6',
+      'M7',
+      'M11',
+    ],
+    updates: 'run40',
+    why: 'Runs 24–26 deepened these 19 pages after their translation prompts were written, so their Turkish is of the older English; and runs 17–23 changed 64 paragraphs on 36 pages that were already translated.',
+  },
 ];
 
 const rules = read('docs/research/prompts/_rules.md').replace(/^<!--[\s\S]*?-->\s*/, '');
@@ -564,7 +593,26 @@ Translate these pages into Turkish, one file per page. The English to translate 
 
 ${r.ids.map((id) => `- **${id}** — ${pages[id].title} · Turkish title on the site: "${pages[id].trTitle}" · English: the section "## ${id} — " in ${englishOf(id)}`).join('\n')}
 
-Each file starts with its "## <id> — <Turkish title>" line and keeps every heading as rule 7 says.`;
+Each file starts with its "## <id> — <Turkish title>" line and keeps every heading as rule 7 says.${
+  r.updates
+    ? `
+
+**These pages already have a Turkish file, so translate them again in full** (replace the file): their English was rewritten after they were translated.
+
+## Also: paragraphs changed after translation
+
+The English paragraphs below were corrected or added after these pages were translated (runs 17–23). In each page's existing file, docs/research/tr/<page id>.md, find the matching paragraph in the section named and replace its Turkish with a translation of the new English. Where a paragraph is new (no Turkish counterpart), add its translation at the same place. A new honest note goes at the end of "### Honest notes". Do not change the number of headings, parts or follow-up questions.
+
+${Object.entries(itemsOf({ items: r.updates }))
+  .sort(([a], [b]) => a.localeCompare(b, 'en', { numeric: true }))
+  .map(
+    ([id, list]) =>
+      `### ${id} — ${pages[id].title} (docs/research/tr/${id}.md)\n` +
+      list.map((x) => `- [${x.section}] ${x.paragraph}`).join('\n'),
+  )
+  .join('\n\n')}`
+    : ''
+}`;
 const content = (r) => `## The task
 
 Write the new, deeper version of each page below, in the report format at the end. The site already has these pages; readers found them too short or too vague. Read each current page first: keep what is correct and sourced, fix what is not (and list the fix under "Corrections to the current pages"), and answer what readers found missing.

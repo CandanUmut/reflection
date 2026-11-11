@@ -53,7 +53,7 @@ Each point is tied to the verse's picture: "darknesses within an unfathomable se
 - **Waves inside the sea.** [Established] Where layers of different density meet (warmer or fresher water over colder or saltier water), waves can travel along the boundary below the surface. In the South China Sea such internal waves "can top 200 meters in height" (Alford et al., *Nature*, 2015, via *Physics Today*). They were first noticed through "dead water": in 1893 Fridtjof Nansen's ship "was slowed by a mysterious force", and in 1904 Vagn Walfrid Ekman linked the drag to "waves formed under the surface at the interface between the salt water and freshwater layers" (CNRS, 2020).
 
 ### Points of awe
-- Below about 1,000 m no sunlight arrives at all (NOAA), yet in one long survey about three in four animals seen could make their own light (Martini & Haddock).
+- In 17 years of video surveys off California, from the surface to 3,900 m, 76% of the animals seen could make light, and the share was about the same at every depth (Martini & Haddock, *Scientific Reports*, 2017).
 - Red is the first colour the sea takes away; by 100 m it is gone, and a red fish looks black (NOAA).
 - In clear ocean the lit layer can reach about 200 m; in murky water, as little as 15 m (*Wikipedia*).
 
@@ -105,7 +105,7 @@ Science adds one quiet image. Even where no sunlight reaches, most of the creatu
 ### Classical tafsir
 **Ibn Kathir.** The plots are "next to each other, some of them are fertile and produce what benefits people, while others are dead, salty and do not produce anything." *Ṣinwān* "means, growing into two or three from a single stem, such as figs, pomegranate and dates", and *ghayru ṣinwān* "means, having one stem for every tree, as is the case with most plants." The point: "all these variances and complex diversities are watered by the same water", and "Therefore, there are differences between plants and fruits with regards to shape, color, taste, scent, blossoms" and the shape of their leaves.
 
-**A hadith Ibn Kathir cites.** Abu Hurayra (ra) reports that the Prophet (pbuh), on "some of them We make more excellent than others to eat", named kinds of dates: "The Daqal, the Persian …, the sweet, the bitter" ({hadith:tirmidhi:3118}). Al-Tirmidhi graded it *ḥasan gharīb*; al-Albani *ḥasan*; Zubayr ʿAlī Zaʾī *ḍaʿīf* (weak), and one narrator in the chain, Sayf ibn Muḥammad, was accused of lying (hadithunlocked). Because its grade is disputed, nothing on this page rests on it.
+**A hadith Ibn Kathir cites.** Abu Hurayra (ra) reports that the Prophet (pbuh), on "some of them We make more excellent than others to eat", named kinds of dates: "The Daqal, the Persian …, the sweet, the bitter" ({hadith:tirmidhi:3118}). Al-Tirmidhi graded it *ḥasan gharīb*, and al-Albani *ḥasan*. Zubayr ʿAli Zaʾi graded it weak, because one narrator, al-Aʿmash, reports it with the vague "from" (*ʿan*) ({hadith:tirmidhi:3118}). Because its grade is disputed, nothing on this page rests on it.
 
 **Al-Jalālayn.** The plots are "some good some briny some of little yield and some fruitful"; "sinwān is the plural of sinw which are date-palms belonging to the same root but with many offshoots"; they are watered "by the same source of water".
 
@@ -137,6 +137,7 @@ Today we can describe some of the causes: a soil that holds water and one that l
 - **Science and the verse.** The vineyard study shows that neighbouring soils differ, which fits the commentators' picture. It does not test the verse and should not be presented as confirming it.
 - **Al-Rāzī.** That may well be so, but his commentary on 13:4 has not yet been consulted, so the claim cannot stay unsourced.
 - **The hadith of the dates** (Tirmidhi 3118) has a disputed grade; it is reported, not relied on.
+- Ibn Kathir calls the verse "among the greatest proofs of the Agent who chooses", and al-Qurtubi argues that if water, soil and nature alone were at work, plants watered with the same water would not differ. Al-Razi's commentary has not yet been consulted.
 
 ### Questions readers ask next
 **Doesn't soil science explain the differences?** It explains some of the *how*: in one vineyard, soil depth and water-holding changed yield and grape colour (CORDIS). The verse's question is a different one — why the world is ordered so that one water gives such variety — and it leaves that to the reader's reasoning.
@@ -328,7 +329,7 @@ Modern science has walked a long way into the brain. It can map which activity c
 Each point is tied to "gave each thing its form" and "destined" (a measure set in advance).
 - **A written set of instructions.** [Established] DNA carries an organism's inherited instructions in four chemical "letters". "One complete set of genomic instructions is about 3 billion base pairs" (NHGRI, *Human Genome Project FAQ*).
 - **The full text, finally read.** [Established] In 2022 the Telomere-to-Telomere Consortium published a "complete 3.055 billion-base pair sequence" of one human genome (T2T-CHM13). It filled "the remaining 8% of the genome", adding "nearly 200 million base pairs" (Nurk et al., *Science*).
-- **Fewer genes than expected.** [Established] In 2004 the International Human Genome Sequencing Consortium counted "19,599 protein-coding genes", with a headline estimate of "20,000-25,000" — far fewer than had been predicted (News-Medical, reporting the *Nature* paper). Much of the rest of the genome helps control when and where genes are used.
+- **Fewer genes than expected.** In 2004 the International Human Genome Sequencing Consortium confirmed 19,599 protein-coding genes and estimated 20,000–25,000 in all — far below the "about 100,000" most scientists had expected a decade earlier (NHGRI, 2004, on the consortium's *Nature* paper). Much of the rest of the genome helps control when and where genes are used.
 
 ### Points of awe
 - About 3 billion letters make one set of human instructions; a complete, gap-free reading came only in 2022 (NHGRI; Nurk et al.).
@@ -345,9 +346,10 @@ What the verse offers everyone is the question Moses (pbuh) put to Pharaoh: when
 
 ### Honest notes
 - **The popular claim.** It is often said that DNA proves design. The best-known version is Stephen Meyer's *Signature in the Cell* (2009), which argues that "intelligent design is therefore the best explanation for the emergence of life on this planet", because chance and chemistry have not been shown able to produce the information in DNA and proteins (*Wikipedia* summary). [Debated]
-- **The reply.** Critics such as the chemist Stephen Fletcher (Loughborough) argue that natural selection is itself a chemical process that operated before cells existed, and that research on RNA undercuts Meyer's case ("reality has overtaken Meyer's book"); the biologist Darrel Falk (BioLogos) also rejected the argument (*Wikipedia*). In the US, a federal district court ruled in *Kitzmiller v. Dover* (20 December 2005, Judge John E. Jones III) that "intelligent design is not science" (*Wikipedia*). *Limit:* a court ruling on what may be taught in schools does not settle the philosophical question of whether information points to a mind.
+- **The reply.** The chemist Stephen Fletcher replied in the *Times Literary Supplement* (December 2009) that "natural selection is a chemical as well as a biological process", so it could act before the first cells (as quoted in Meyer's reply). In the US, a federal district court ruled in *Kitzmiller v. Dover* (20 December 2005, Judge John E. In 2005 a US federal judge, John E. Jones III, ruled that "ID is not science and cannot be adjudged a valid, accepted scientific theory" (*Kitzmiller v. Dover*, p. 89). A court ruling settles a question of law, not of science. *Limit:* a court ruling on what may be taught in schools does not settle the philosophical question of whether information points to a mind.
 - **A Muslim alternative.** Shoaib Ahmed Malik argues, using al-Ghazālī's framework, that "his ideas can be used to reach an alignment between Islam and Neo-Darwinian evolution" (*Islam and Evolution*, Routledge, 2021, abstract). On this view, belief in God does not depend on gaps in biology.
 - **This page's position.** DNA is presented as a sign that invites wonder, not as proof, and not as something the verses predicted.
+- Stretched out, the DNA in one human cell is about two metres long, folded into a nucleus about a thousandth of a millimetre across (Salk Institute, 2017). Copying is extremely accurate: in the bacterium *E. coli*, about one error per ten billion letters per copy (Fijalkowska et al., 2012).
 
 ### Questions readers ask next
 **Is "guided" a reference to DNA?** No classical commentator read it that way. They read it as guidance to food, drink and mates (al-Jalālayn), to pasture and to happiness or misery (Mujahid), or to a measure set in advance (Ibn Kathir). The DNA link is a modern reflection.
@@ -394,7 +396,7 @@ What the verse offers everyone is the question Moses (pbuh) put to Pharaoh: when
 ### How it works
 These are modern facts about balance in nature. They connect to the verses only by reflection; the verses' own subject is justice.
 - **One predator, a whole coast.** [Established] Comparing "western Aleutian Islands with and without sea otter populations", Estes and Palmisano found that "Sea otters control herbivorous invertebrate populations", and that "Removal of sea otters causes increased herbivory and ultimately results in the destruction of macrophyte associations" (large seaweeds such as kelp) (*Science*, 1974). Ecologists call such animals "keystone" species.
-- **Yellowstone, and why simple stories fail.** [Debated] After wolves returned to Yellowstone in 1995, it was widely said they set off a "trophic cascade" (a chain of effects down the food web) that restored willows. A 2025 study by Ripple and colleagues reported a 1,500% rise in willow crown volume. In a formal reply, Daniel MacNulty (Utah State) and colleagues argued that this estimate "relies on circular reasoning", because "height was used both to compute and to predict volume", and that the data show a "more modest and spatially variable response". David Cooper (Colorado State): "there is no evidence that predator recovery caused a large or system-wide increase in willow growth". MacNulty: "Predator effects in Yellowstone are real but context-dependent". The release also notes Hobbs et al. (2024), whose roughly 20 years of field experiments found only weak cascade effects (*ScienceDaily*, 2026). The debate continues.
+- **Yellowstone, and why simple stories fail.** [Debated] After wolves returned to Yellowstone in 1995, it was widely said they set off a "trophic cascade" (a chain of effects down the food web) that restored willows. A 2025 study by Ripple and colleagues reported a 1,500% rise in willow crown volume. In a formal reply, Daniel MacNulty (Utah State) and colleagues argued that this estimate "relies on circular reasoning", because "height was used both to compute and to predict volume", and that the data show a "more modest and spatially variable response". David Cooper (Colorado State): "there is no evidence that predator recovery caused a large or system-wide increase in willow growth". MacNulty: "Predator effects in Yellowstone are real but context-dependent". The release also notes Hobbs et al. A Yellowstone experiment lasting more than twenty years found that once heavy elk browsing had turned willow stands into grassland, the landscape "resisted returning to previous conditions once the carnivores were restored" (Hobbs, Cooper et al., *Ecological Monographs*, 2024). The debate continues.
 
 ### Points of awe
 - On islands without sea otters, the kelp forests were destroyed by grazers; with otters, they stood (Estes & Palmisano, 1974).
@@ -534,7 +536,7 @@ Each point is tied to "of varying colors".
 ### Points of awe
 - The Morpho's blue is made by shape alone; fill the shape with alcohol instead of air and the blue turns greenish (KQED; Kuntzleman).
 - Most animals cannot make blue pigment at all (KQED).
-- Human skin colour tracks sunlight closely: a balance between protecting folate and making vitamin D (Jablonski & Chaplin).
+- Human skin colour follows sunlight closely: darker skin protects folate from ultraviolet light, lighter skin lets enough UV-B in to make vitamin D, and each population's colour is "a compromise" between the two (Jablonski & Chaplin, *Journal of Human Evolution*, 2000).
 
 ### The reflection
 35:27 asks a simple question: "Do you not see?" Then it shows us the world as a painter's palette. One rain falls; fruits come out yellow, red, green and white. Mountains run in white and red tracts, and some are "extremely black". People and animals, too, come in "various colors similarly".

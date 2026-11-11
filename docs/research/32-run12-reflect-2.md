@@ -54,6 +54,7 @@ A believer can hold both: the measure in the verse, and the honesty of the debat
 ### Honest notes
 - **The popular claim.** Fine-tuning is often presented as proof that God exists, and 25:2 or 54:49 as having foretold it. Neither is warranted. The verses speak of measure and decree; the commentators read them as about God's decree (Ibn Kathir reports that the Imams of the Sunnah used 54:49 against the Qadariyya), not about physical constants.
 - **The science is real; the inference is debated.** That some constants are life-permitting only in narrow ranges is widely accepted. Whether this points to design, a multiverse or a deeper law is a philosophical question, and the probability calculations behind each are disputed (SEP).
+- The physicist Steven Weinberg, examining the famous carbon-12 case, concluded that "the fine-tuning of the constants of nature here does not seem so fine" — while granting that the cosmological constant "does seem remarkably well adjusted in our favor" (*New York Review of Books*, 1999).
 
 ### Questions readers ask next
 **Does fine-tuning prove God exists?** No. It is one of the stronger pointers in modern design arguments, but philosophers dispute the probabilities and the alternatives (multiverse, deeper law). The SEP sets out both sides.

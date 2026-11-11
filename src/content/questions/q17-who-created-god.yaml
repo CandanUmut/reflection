@@ -216,14 +216,14 @@ fullAnswer:
       tr: 'En güçlü karşı argüman: Neden zorunlu ya da "kaba olgu" bir evren olmasın?'
   - kind: science
     en: |-
-      **The Borde–Guth–Vilenkin theorem (2003).** It shows that a universe that has, on average, been expanding "cannot be infinite in the past but must have a past spacetime boundary" (*Wikipedia*). [Established, within its assumptions]
+      **The Borde–Guth–Vilenkin theorem (2003).** Borde, Guth and Vilenkin (2003) showed that a universe that has on average been expanding "must be incomplete in null and timelike past directions" — in plain words, its history cannot be followed back forever. Their argument needs no assumption about the kind of energy in the universe. Some later physicists dispute how far the result reaches (e.g. *Physical Review D* 107:044024, 2023). [Established, within its assumptions]
 
       **Its assumptions and limits.** [Debated]
       - It applies to classical spacetime; it "does not allow to tell when the singularity takes place", and "does not tell if it is associated to any other event in the past" (*Wikipedia*).
       - Sean Carroll argues it "may not hold under consideration of a complete theory of quantum gravity"; Lesnefsky, Easson and Davies have built classical models that satisfy its condition yet are past-complete (*Wikipedia*).
       - Its authors disagree on what it means: Vilenkin thinks the universe had a beginning; Guth, according to Carroll, does not (*Wikipedia*).
 
-      **The quantum-causation challenge.** Critics such as Paul Davies doubt that cause and effect can be defined consistently in fundamental physics; Quentin Smith cites virtual particles as uncaused; Lawrence Krauss proposes that quantum fluctuations could produce a universe. William Lane Craig replies that such events still have "many physically necessary conditions" (*Wikipedia*, "Kalam cosmological argument"). *Limit:* this debate is unresolved; and Vilenkin himself, replying to Craig in 2015, said of the universe's origin, "No cause is needed" (*Wikipedia*, "Borde–Guth–Vilenkin theorem").
+      **The quantum-causation challenge.** Critics such as Paul Davies doubt that cause and effect can be defined consistently in fundamental physics; Quentin Smith cites virtual particles as uncaused; Lawrence Krauss proposes that quantum fluctuations could produce a universe. William Lane Craig replies that such events still have "many physically necessary conditions" (*Wikipedia*, "Kalam cosmological argument"). *Limit:* this debate is unresolved; and Vilenkin himself, in a 2015 essay, asked "What causes the universe to pop out of nothing?" and answered "No cause is needed" ("The Beginning of the Universe", *Inference*, 2015, as quoted by Craig).
 
       **The upshot.** Cosmology fits a beginning but does not prove one. The kalām argument gains support from it; the contingency argument (Ibn Sina's) does not depend on it at all, since it works even for a beginningless universe.
     tr: |-

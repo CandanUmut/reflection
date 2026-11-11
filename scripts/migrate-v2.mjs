@@ -103,6 +103,10 @@ const cleanLabel = (label) =>
       /the current page's (longer )?(Ibn Kathir quotation[^;.(]*?)\s*(\(not re-read[^)]*\))?(?=[;.]|$)/g,
       'the $1$2',
     )
+    .replace(/,?\s*as (?:read|cited) (?:for|in) (?:this )?run(?: \d+)?(?: \([^)]*\))?/g, '')
+    .replace(/\s*\(as (?:read|cited) (?:for|in) run \d+\)/g, '')
+    .replace(/\s*—?\s*as cited on the current page(?: \([^)]*\))?/g, '')
+    .replace(/,?\s*—?\s*as on the current page/g, '')
     .replace(/the current page/g, 'an earlier version of this page');
 
 // Turkish (runs 27–39): docs/research/tr/<ID>.md mirrors the English section, with
@@ -152,8 +156,12 @@ function withTurkish(id, enBlocks, out) {
     const pE = parts(enBlocks[partsKey]);
     if (pT.length !== pE.length || pT.some((p, i) => p.kind !== pE[i].kind)) return fail('parts differ');
   }
-  for (const k of ['Honest notes', 'Points of awe'])
-    if (T[k] && bullets(T[k]).length !== bullets(enBlocks[k]).length) return fail(`${k} differ`);
+  // Points of awe must match; the English may have extra honest notes at the end
+  // (added after translation): those show in English on the Turkish page until translated.
+  if (T['Points of awe'] && bullets(T['Points of awe']).length !== bullets(enBlocks['Points of awe']).length)
+    return fail('Points of awe differ');
+  if (T['Honest notes'] && bullets(T['Honest notes']).length > bullets(enBlocks['Honest notes']).length)
+    return fail('Honest notes differ');
   const r = structuredClone(out);
   const setTr = (key, heading) => {
     if (T[heading] && r[key]) r[key] = { ...r[key], tr: T[heading] };
@@ -202,7 +210,7 @@ function withTurkish(id, enBlocks, out) {
     setTr('reflection', 'The reflection');
     if (T['Honest notes']) {
       const nT = bullets(T['Honest notes']);
-      r.honestNotes = r.honestNotes.map((n, i) => ({ ...n, tr: nT[i] }));
+      r.honestNotes = r.honestNotes.map((n, i) => (nT[i] ? { ...n, tr: nT[i] } : n));
     }
   } else if (id[0] === 'M') {
     setTr('summary', 'In brief');

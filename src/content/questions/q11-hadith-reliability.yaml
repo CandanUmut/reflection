@@ -62,7 +62,7 @@ sources:
   - label: Saheeh International via the site's Tanzil data — 4:59, 59:7, 16:44.
   - label: Sunan Abi Dawud 3646 (sunnah.com), https://sunnah.com/abudawud:3646, with al-Albani's grade.
     url: https://sunnah.com/abudawud:3646
-  - label: Sahih al-Bukhari 5133, 5134 and Sahih Muslim 1422c — as checked for run 4.
+  - label: Sahih al-Bukhari 5133, 5134 and Sahih Muslim 1422c.
   - label: '"Grading Lens", ParallelQuran.com, https://parallelquran.com/grading-lens/ — definitions of grading terms.'
     url: https://parallelquran.com/grading-lens/
   - label: M. Mansur Ali, review of Harald Motzki, *Analysing Muslim Traditions* (Brill, 2010), IlmGate (21 April 2011), https://ilmgate.org/analysing-muslim-traditions-studies-in-legal-exegetical-and-maghazi-hadith-by-harald-motzki-review-by-dr-m-mansur-ali.
@@ -71,8 +71,8 @@ sources:
     url: https://akramnadwi.com/?p=4773
   - label: "*Kur'an merkezli din söylemi (Türkiye'de 2000'li yıllarda Kur'an Müslümanlığı)*, Hitit University (2024), abstract, https://earsiv.hitit.edu.tr/items/099670b1-306c-4275-871d-d2a186ca72f8 (author not listed on the page)."
     url: https://earsiv.hitit.edu.tr/items/099670b1-306c-4275-871d-d2a186ca72f8
-  - label: J. J. Little (2022) and W. A. Cheema (ICRAA, 2024) on the hadith of Aisha's age — as read for run 4.
-  - label: Jamiʿ al-Tirmidhi 2517 and Musnad Ahmad 11133 — as read for run 6 (sunnah.com; hadithunlocked.com), with details confirmed by the independent source check.
+  - label: J. J. Little (2022) and W. A. Cheema (ICRAA, 2024) on the hadith of Aisha's age —.
+  - label: Jamiʿ al-Tirmidhi 2517 and Musnad Ahmad 11133 —, with details confirmed by the independent source check.
   - &a1
     label: J.J. Little, The Hadith of ʿĀʾišah's Marital Age (Oxford DPhil)
   - &a2
@@ -121,7 +121,7 @@ fullAnswer:
 
       **Bukhari and Muslim.** Al-Bukhari and Muslim each compiled a collection limited to reports they judged sound. How later scholars ranked these collections, and where they criticised particular reports in them, was not covered here.
 
-      **A worked example of grading.** In run 6, the hadith "Tie it and rely (upon Allah)" (al-Tirmidhi 2517) was called *gharīb* by al-Tirmidhi: he knew it from Anas only by this one route, and he noted a similar report from ʿAmr b. Umayya al-Damri. Yahya al-Qattan called it *munkar* (rejected); Zubair ʿAli Zaʾi graded it *ḥasan* (good); and Ibn Hibban (no. 731) has a version graded *ḥasan li-ghayrihi* ("good because of support from other routes") by al-Arnaʾut. So a familiar saying can rest on a disputed chain. By contrast, the three-outcomes hadith on du'a (Musnad Ahmad 11133) has a chain al-Arnaʾut called *jayyid* (good), al-Hakim authenticated, and a parallel in al-Adab al-Mufrad (no. 710; *Ṣaḥīḥ al-Adab al-Mufrad* 547) graded *ṣaḥīḥ* by al-Albani. Grading is done chain by chain, and agreement between independent chains strengthens a report.
+      **A worked example of grading.** The hadith "Tie it and rely (upon Allah)", discussed on the page on earthquakes and disasters, (al-Tirmidhi 2517) was called *gharīb* by al-Tirmidhi: he knew it from Anas only by this one route, and he noted a similar report from ʿAmr b. Umayya al-Damri. Yahya al-Qattan called it *munkar* (rejected); Zubair ʿAli Zaʾi graded it *ḥasan* (good); and Ibn Hibban (no. 731) has a version graded *ḥasan li-ghayrihi* ("good because of support from other routes") by al-Arnaʾut. So a familiar saying can rest on a disputed chain. By contrast, the three-outcomes hadith on du'a (Musnad Ahmad 11133) has a chain al-Arnaʾut called *jayyid* (good), al-Hakim authenticated, and a parallel in al-Adab al-Mufrad (no. 710; *Ṣaḥīḥ al-Adab al-Mufrad* 547) graded *ṣaḥīḥ* by al-Albani. Grading is done chain by chain, and agreement between independent chains strengthens a report.
     tr: |-
       **Terimler.** *İsnâd*, "rivayet zinciri"dir — kimin kimden duyduğu; *metn* ise metindir. *Sahih* bir hadisin senedi kesintisizdir ve "her râvinin adaletli ve aktarımında zabt sahibi olduğu bilinir"; metni de "gizli kusurlardan ya da tuhaflıklardan uzaktır". *Hasen* (iyi) bir hadis ölçütlerin çoğunu karşılar, ama bir râvinin "hafızası biraz daha az zabtlı olabilir". *Zayıf* bir hadis bu ölçütleri karşılamaz, "genellikle senetteki bir kopukluk, güvenilmez bir râvi ya da metindeki bir tuhaflık yüzünden". *Mevzû* (uydurma) bir hadis "uydurulmuş ve yalan yere Hz. Peygamber'e nispet edilmiştir" (ParallelQuran'ın özeti). Âlimler râvileri, her kişinin hocalarını, öğrencilerini, güvenilirliğini ve hafızasını kaydeden biyografik sözlükleri kullanarak değerlendirdi.
 

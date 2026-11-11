@@ -34,7 +34,7 @@ tafsir:
   en: |-
     **Ibn Kathir.** The plots are "next to each other, some of them are fertile and produce what benefits people, while others are dead, salty and do not produce anything." *Ṣinwān* "means, growing into two or three from a single stem, such as figs, pomegranate and dates", and *ghayru ṣinwān* "means, having one stem for every tree, as is the case with most plants." The point: "all these variances and complex diversities are watered by the same water", and "Therefore, there are differences between plants and fruits with regards to shape, color, taste, scent, blossoms" and the shape of their leaves.
 
-    **A hadith Ibn Kathir cites.** Abu Hurayra (ra) reports that the Prophet (pbuh), on "some of them We make more excellent than others to eat", named kinds of dates: "The Daqal, the Persian …, the sweet, the bitter" ({hadith:tirmidhi:3118}). Al-Tirmidhi graded it *ḥasan gharīb*; al-Albani *ḥasan*; Zubayr ʿAlī Zaʾī *ḍaʿīf* (weak), and one narrator in the chain, Sayf ibn Muḥammad, was accused of lying (hadithunlocked). Because its grade is disputed, nothing on this page rests on it.
+    **A hadith Ibn Kathir cites.** Abu Hurayra (ra) reports that the Prophet (pbuh), on "some of them We make more excellent than others to eat", named kinds of dates: "The Daqal, the Persian …, the sweet, the bitter" ({hadith:tirmidhi:3118}). Al-Tirmidhi graded it *ḥasan gharīb*, and al-Albani *ḥasan*. Zubayr ʿAli Zaʾi graded it weak, because one narrator, al-Aʿmash, reports it with the vague "from" (*ʿan*) ({hadith:tirmidhi:3118}). Because its grade is disputed, nothing on this page rests on it.
 
     **Al-Jalālayn.** The plots are "some good some briny some of little yield and some fruitful"; "sinwān is the plural of sinw which are date-palms belonging to the same root but with many offshoots"; they are watered "by the same source of water".
 
@@ -85,6 +85,7 @@ honestNotes:
     tr: "**Râzî.** Bu pekâlâ doğru olabilir, ama 13:4 hakkındaki tefsirine henüz başvurulmadı; dolayısıyla iddia kaynaksız kalamaz."
   - en: "**The hadith of the dates** (Tirmidhi 3118) has a disputed grade; it is reported, not relied on."
     tr: "**Hurmalar hadisi** (Tirmizî 3118) tartışmalı bir dereceye sahiptir; aktarılır, ona dayanılmaz."
+  - en: Ibn Kathir calls the verse "among the greatest proofs of the Agent who chooses", and al-Qurtubi argues that if water, soil and nature alone were at work, plants watered with the same water would not differ. Al-Razi's commentary has not yet been consulted.
 visualizations:
   - id: ideas
     tr: |

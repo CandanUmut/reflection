@@ -73,7 +73,7 @@ reflection:
 honestNotes:
   - en: '**No aerodynamics in the verse.** The verses describe what anyone can see: birds gliding and flapping, held in the air. Claims that they "predicted" lift go beyond the words; the commentators did not read them that way, though Ibn Kathir names the air as the means.'
   - en: "**The popular claim.** No named source making a scientific-miracle claim about these verses was read."
-  - en: '**Distance figures.** The godwit record (13,560 km) was "not yet published or peer reviewed" when reported (run 17).'
+  - en: '**Distance figures.** The godwit record (13,560 km) was "not yet published or peer reviewed" when reported.'
 visualizations:
   - id: ideas
     tr: Gün sayacı ve azalan bir yakıt göstergesiyle bir küre üzerinde rota.
@@ -113,11 +113,11 @@ sources:
   - label: "Saheeh International (Tanzil): 16:78–80, 67:19–20, 24:41."
   - label: al-Tabari and al-Qurtubi on 67:19 (Arabic), https://quran.ksu.edu.sa/tafseer/ibn-tabary-qortobi/sura67-aya19.html.
     url: https://quran.ksu.edu.sa/tafseer/ibn-tabary-qortobi/sura67-aya19.html
-  - label: Ibn Kathir (abridged English) and *al-Jalālayn* on 16:79 and 67:19, https://surahquran.com/tafsir-english-aya-79-sora-16.html and https://surahquran.com/tafsir-english-aya-19-sora-67.html (as on an earlier version of this page).
+  - label: Ibn Kathir (abridged English) and *al-Jalālayn* on 16:79 and 67:19, https://surahquran.com/tafsir-english-aya-79-sora-16.html and https://surahquran.com/tafsir-english-aya-19-sora-67.html.
     url: https://surahquran.com/tafsir-english-aya-79-sora-16.html
   - label: NASA Glenn Research Center, "What is Lift?" (www1.grc.nasa.gov).
   - label: Weimerskirch et al., "Frigate birds track atmospheric conditions over months-long transoceanic flights", *Science* (2016), as reported by Phys.org (July 2016).
-  - label: Guinness World Records (January 2023) on the bar-tailed godwit's 13,560 km flight (read for run 17).
+  - label: Guinness World Records (January 2023) on the bar-tailed godwit's 13,560 km flight.
   - &a1
     label: ScienceBlog — juvenile bar-tailed godwit, 13,560 km Alaska–Tasmania
     url: https://scienceblog.com/t-juvenile-bar-tailed-godwit-13560km-alaska-tasmania/

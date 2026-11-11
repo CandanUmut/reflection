@@ -10,9 +10,9 @@ Written by Claude directly, November 2026. Every Quran quotation was checked aga
 - Saheeh International (Tanzil): 17:70, 49:11–13, 5:27–32, 30:22, 4:1.
 - al-Tabari and al-Qurtubi on 17:70 (Arabic), https://quran.ksu.edu.sa/tafseer/ibn-tabary-qortobi/sura17-aya70.html — in what the honour consists.
 - Ibn Kathir on 49:13 (Arabic), https://quran.ksu.edu.sa/tafseer/katheer/sura49-aya13.html — equal origin; honour by *taqwā*; the hadith he cites.
-- Musnad Ahmad 23489 (hadithunlocked.com), with al-Arnaʾut's grade (as on the current page).
+- Musnad Ahmad 23489 (hadithunlocked.com), with al-Arnaʾut's grade.
 - Sahih al-Bukhari 1312 (hadithunlocked.com) — the Prophet (pbuh) standing for a Jewish funeral.
-- Recep Şentürk, "Adamiyyah (Humanity) and ʿIsmah (Inviolability): Humanity as the Ground for Universal Human Rights in Islamic Law", in *The Islamic Tradition and the Human Rights Discourse* (Atlantic Council; file posted 2018) (read for run 17).
+- Recep Şentürk, "Adamiyyah (Humanity) and ʿIsmah (Inviolability): Humanity as the Ground for Universal Human Rights in Islamic Law", in *The Islamic Tradition and the Human Rights Discourse* (Atlantic Council; file posted 2018).
 - T. F. Pettigrew and L. R. Tropp, "How does intergroup contact reduce prejudice? Meta-analytic tests of three mediators", *European Journal of Social Psychology* 38 (2008) 922–934 — summarising their 2006 meta-analysis.
 
 ### In brief
@@ -100,13 +100,13 @@ Muslim history and present societies include racism and slavery; this page state
 - Saheeh International (Tanzil): 3:133–135, 42:36–43, 24:22, 2:178, 5:45, 41:34, 16:126, 64:14.
 - Ibn Kathir, al-Qurtubi and al-Saʿdi on 3:134 (Arabic), https://quran.ksu.edu.sa/tafseer/ibn-saadi-katheer-qortobi/sura3-aya134.html.
 - Sahih al-Bukhari 6116 (en.tohed.com) — "Do not become angry."
-- Sahih al-Bukhari 6114 and 3231 (hadithunlocked.com) (as on the current page).
+- Sahih al-Bukhari 6114 and 3231 (hadithunlocked.com).
 - Sahih al-Bukhari 6679 (en.tohed.com) — Abu Bakr, Mistah and 24:22.
 - Sunan Abi Dawud 4777 and 4782 (hadithunlocked.com) — restraining anger; sitting down.
 - Sahih Muslim 2588 (hadithunlocked.com) — "no one forgives another except that Allah increases his honor".
-- Wade, Hoyt, Kidwell & Worthington, *J Consult Clin Psychol* 82(1):154–170 (2014), as reported by VanderWeele, *AJPH* 108(2) (2018), and Toussaint et al., *Frontiers in Psychology* 11:671 (2020) (read for run 17).
-- *Child Development* (2022) meta-analysis of forgiveness education, PubMed 35452524 (read for run 17).
-- Harper et al., *Journal of Clinical Psychology* (2014) (as on the current page).
+- Wade, Hoyt, Kidwell & Worthington, *J Consult Clin Psychol* 82(1):154–170 (2014), as reported by VanderWeele, *AJPH* 108(2) (2018), and Toussaint et al., *Frontiers in Psychology* 11:671 (2020).
+- *Child Development* (2022) meta-analysis of forgiveness education, PubMed 35452524.
+- Harper et al., *Journal of Clinical Psychology* (2014).
 - Brad J. Bushman, "Does venting anger feed or extinguish the flame?", *Personality and Social Psychology Bulletin* 28(6):724–731 (2002).
 
 ### In brief
@@ -155,7 +155,7 @@ The Quran praises those "who restrain anger and who pardon the people" (3:134), 
 **Redress is a right; pardon is the victim's choice.** "Prescribed for you is legal retribution for those murdered… But whoever overlooks from his brother anything, then there should be a suitable follow-up and payment to him with good conduct. This is an alleviation from your Lord and a mercy" (2:178); "for wounds is legal retribution. But whoever gives [up his right as] charity, it is an expiation for him" (5:45). On this basis the victim of bodily harm, or the family of someone killed, may demand retaliation (*qiṣāṣ*), accept compensation (*diya*), or pardon. That choice belongs to the victim or family. *The four schools' detailed rules were not read for this page*; they should be added from named works.
 
 #### history — History
-**Ṭāʾif.** After the people of Ṭāʾif rejected and stoned him, the Prophet (pbuh) refused the offer to have them destroyed and hoped that their descendants would worship God ({hadith:bukhari:3231}, as on the current page).
+**Ṭāʾif.** After the people of Ṭāʾif rejected and stoned him, the Prophet (pbuh) refused the offer to have them destroyed and hoped that their descendants would worship God ({hadith:bukhari:3231}).
 
 #### research — What research shows
 **Forgiveness interventions work, moderately.** [Established; moderate effect.] A 2014 meta-analysis of 54 studies found that forgiveness interventions raised forgiveness by about half a standard deviation more than other treatments or no treatment, and reduced depression and anxiety while increasing hope (Wade et al., 2014, as reported by VanderWeele, 2018, and Toussaint et al., 2020). The more hours of intervention, the larger the effect.
@@ -206,9 +206,9 @@ The four schools' detailed rules on *qiṣāṣ*, *diya* and pardon were not rea
 - Sahih Muslim 91 (hadithunlocked.com) — the definition of pride.
 - Sahih Muslim 2588 (hadithunlocked.com) — humility raises.
 - Sahih al-Bukhari 676 (en.tohed.com) and Musnad Ahmad 25710 (hadithunlocked.com) — the Prophet (pbuh) at home.
-- Jules Janssens, review of Mohammed Rustom's translation of al-Ghazali's Book 29, *Ilahiyat Studies* 11(2) (2020) 319–323 (read for run 17).
-- T. Porter et al., "Predictors and consequences of intellectual humility", *Nature Reviews Psychology* 1 (2022) 524–536 (as on the current page).
-- Ohio State University news (2021) on Kjærvik & Bushman, *Psychological Bulletin* (2021) — narcissism and aggression (read for run 17).
+- Jules Janssens, review of Mohammed Rustom's translation of al-Ghazali's Book 29, *Ilahiyat Studies* 11(2) (2020) 319–323.
+- T. Porter et al., "Predictors and consequences of intellectual humility", *Nature Reviews Psychology* 1 (2022) 524–536.
+- Ohio State University news (2021) on Kjærvik & Bushman, *Psychological Bulletin* (2021) — narcissism and aggression.
 - Owens, Johnson & Mitchell, "Expressed Humility in Organizations: Implications for Performance, Teams, and Leadership", *Organization Science* 24(5):1517–1538 (2013), abstract (RePEc).
 
 ### In brief
@@ -253,7 +253,7 @@ The Prophet (pbuh) defined arrogance precisely: "Pride is disdaining the truth (
 
 **Narcissism and aggression.** [Established.] A review of 437 studies with 123,043 participants found narcissism "a significant risk factor for aggressive and violent behavior across the board", especially when narcissistic people feel provoked (Kjærvik & Bushman, *Psychological Bulletin*, 2021, as reported by Ohio State University). This fits the second half: "contempt for the people".
 
-**Humble leaders.** [Not established from what was read.] Owens, Johnson and Mitchell (2013) studied "leader-expressed humility" in eight samples, including its links to employee retention, job satisfaction and engagement; the abstract reports one result — that "expressed humility may compensate for lower general mental ability" — and the others were not read. The current page's claim that humble leaders have "more engaged teams" should stay off until the full results are read.
+**Humble leaders.** [Not established from what was read.] Owens, Johnson and Mitchell (2013) studied "leader-expressed humility" in eight samples, including its links to employee retention, job satisfaction and engagement; the abstract reports one result — that "expressed humility may compensate for lower general mental ability" — and the others were not read.
 
 #### practice — In daily life
 **When you are corrected, say "you may be right" and check.** Rejecting the truth because of who says it is the first half of the hadith's definition.

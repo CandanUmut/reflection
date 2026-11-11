@@ -208,7 +208,7 @@ In the Quran, kindness to parents comes straight after the worship of God: "your
 
 **Some exceptions for the child's interest.** He adds that some scholars exempt matters "due to what is best in the child's interests", such as "travelling to attain knowledge, even if recommended". Otherwise, in what is permissible, the child should comply.
 
-**Marriage and career.** Readers ask whether a parent can choose their spouse or career. The source read does not address these directly, and the other schools' positions have not yet been consulted. On marriage, the page "Does Islam treat women unequally?" and the run 4 research on guardianship (*wilāya*) discuss whose consent is required.
+**Marriage and career.** Readers ask whether a parent can choose their spouse or career. The source read does not address these directly, and the other schools' positions have not yet been consulted. On marriage, the page "Does Islam treat women unequally?" discusses whose consent is required.
 
 #### research — What research shows
 **Family cohesion and adolescent wellbeing.** No named study was read, so no numbers are given.
@@ -357,7 +357,7 @@ The source for al-Nawawi's six cases is an English e-book whose translator and o
 **The Prophet (pbuh) wept for his son.** Anas (ra) reports that when the Prophet's (pbuh) infant son Ibrahim was dying, his eyes filled with tears. ʿAbd al-Rahman ibn ʿAwf asked about it, and he said: "O Ibn ʿAuf, this is mercy." Then: "The eyes are shedding tears and the heart is grieved, and we will not say except what pleases our Lord, O Ibrahim! Indeed we are grieved by your separation" ({hadith:bukhari:1303}). Patience in Islam is not the absence of tears; it is not letting grief turn into words against God.
 
 #### scholars — How scholars have understood it
-**Al-Ghazali's book on patience and gratitude.** Book 32 of al-Ghazali's *Iḥyāʾ ʿUlūm al-Dīn* is devoted to the two; its first part explains patience and why it is "considered to be half of faith", and its second explains gratitude (publisher's description of Littlejohn's translation). The well-known saying that faith is "half patience and half gratitude" is often attributed to this book or quoted as a hadith; neither the passage nor the hadith's grading was checked.
+**Al-Ghazali's book on patience and gratitude.** Book 32 of al-Ghazali's *Iḥyāʾ ʿUlūm al-Dīn* is devoted to the two; its first part explains patience and why it is "considered to be half of faith", and its second explains gratitude (publisher's description of Littlejohn's translation). The Companion ʿAbdullah ibn Masʿud said: "Patience is half of faith" (al-Hakim, *al-Mustadrak*; al-Dhahabi: sound); these are his words, not the Prophet's (pbuh). The popular form "faith is half patience and half gratitude" was not found with a sound chain.
 
 #### research — What research shows
 **Gratitude exercises raise wellbeing a little.** [Moderate; small effect.] Kirca, Malouf and Meynadier (2023) combined 25 randomised trials (about 6,700 participants) of "expressed gratitude" exercises — such as writing thank-you letters. Compared with neutral activities, they improved happiness, life satisfaction and positive feelings slightly (g = 0.22, 95% CI 0.11–0.33). Compared with other active exercises, the difference was small and not statistically significant (g = 0.12, CI −0.02 to 0.26). The review did not measure depression or anxiety.
@@ -387,7 +387,7 @@ The source for al-Nawawi's six cases is an English e-book whose translator and o
 
 **What does "without account" in 39:10 mean?** Al-Awzaʿi: the reward "will not be weighed or measured".
 
-**Is "faith is half patience and half gratitude" a hadith?** It is widely quoted; its authenticity has not yet been checked. Al-Ghazali's Book 32 discusses patience as "half of faith".
+**Is "faith is half patience and half gratitude" a hadith?** Not in that form: no sound chain was found for it. The Companion ʿAbdullah ibn Masʿud said "Patience is half of faith" (al-Hakim; al-Dhahabi: sound), as his own words, and al-Ghazali builds Book 32 on the idea.
 
 **What is the full story behind "patience is at the first stroke"?** See the woman at the grave above ({hadith:bukhari:1283}).
 
@@ -569,6 +569,7 @@ Wealth in Islam is a trust: earned fairly, shared — the needy have a right in 
 #### research — What research shows
 **Zakat programmes report people lifted out of poverty, but the evidence is weak.** [Mixed.] Indonesia's national zakat agency BAZNAS reports that in 2024 zakat programmes lifted 1,350,227 people out of poverty, including 721,748 from extreme poverty, measured by an annual "Zakat Impact Assessment survey" against five poverty standards. The summary does not explain how the effect was attributed to zakat, gives no comparison group, and its provider breakdown (adding to about 1,486,920) does not match the total. These are self-reported programme figures, not independent evaluations.
 
+In 27 experiments with 4,045 people, acts of kindness raised the doer's own well-being by a small-to-medium amount (δ = 0.28) (Curry et al., 2018). People who were randomly asked to spend money on others were happier than those asked to spend it on themselves (Dunn, Aknin & Norton, *Science*, 2008).
 
 #### practice — In daily life
 **Calculate zakāh each year**: savings, gold and silver above the *niṣāb*, business stock; 2.5%. Ask a local scholar which school's rule on jewellery you follow.

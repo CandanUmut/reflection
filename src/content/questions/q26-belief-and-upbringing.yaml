@@ -53,7 +53,7 @@ sources:
   - label: Saheeh International via legacy.quran.com — 43:22–24.
   - label: Ibn Kathir, *Tafsir* (abridged English), on 43:22–24, https://surahquran.com/tafsir-english-aya-22-sora-43.html.
     url: https://surahquran.com/tafsir-english-aya-22-sora-43.html
-  - label: Sahih al-Bukhari 1385 (sunnah.com), as read for run 2.
+  - label: Sahih al-Bukhari 1385 (sunnah.com).
   - label: W. Montgomery Watt (trans.), al-Ghazali, *al-Munqidh min al-Dalal*, in *The Faith and Practice of al-Ghazali* (1953), https://www.ghazali.org/works/watt3.htm — sections I and II.
     url: https://www.ghazali.org/works/watt3.htm
   - label: Kamil Güneş, "Eşʿarî'de Mukallidin İmanı", *Marife* 7:2 (2007), pp. 7–35, https://zenodo.org/records/3343847/files/MARIFE.2007.2-20_GUNES.pdf.
@@ -63,8 +63,8 @@ sources:
     url: https://bycommonconsent.com/2012/03/08/review-justin-l-barrett-born-believers-the-science-of-childrens-religious-beliefs/
   - label: 'Hans Van Eyghen, "Debunking Arguments against Theistic Belief", ch. 5 in *Introduction to Philosophy: Philosophy of Religion* (Rebus Community), https://press.rebus.community/intro-to-phil-of-religion/chapter/debunking-arguments-against-theistic-belief/.'
     url: https://press.rebus.community/intro-to-phil-of-religion/chapter/debunking-arguments-against-theistic-belief/
-  - label: Liz Jackson, review of Guy Axtell, *Problems of Religious Luck* (2019), *Notre Dame Philosophical Reviews*, 2019.09.23 (as read for run 2).
-  - label: Pew Research Center, "10 key findings about the religious lives of U.S. teens and their parents" (10 September 2020) (as read for run 2).
+  - label: Liz Jackson, review of Guy Axtell, *Problems of Religious Luck* (2019), *Notre Dame Philosophical Reviews*, 2019.09.23 ().
+  - label: Pew Research Center, "10 key findings about the religious lives of U.S. teens and their parents" (10 September 2020) ().
   - &a1
     label: Barrett (2012)
   - &a2

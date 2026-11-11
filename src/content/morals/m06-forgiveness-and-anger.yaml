@@ -40,13 +40,13 @@ sources:
   - label: Ibn Kathir, al-Qurtubi and al-Saʿdi on 3:134 (Arabic), https://quran.ksu.edu.sa/tafseer/ibn-saadi-katheer-qortobi/sura3-aya134.html.
     url: https://quran.ksu.edu.sa/tafseer/ibn-saadi-katheer-qortobi/sura3-aya134.html
   - label: Sahih al-Bukhari 6116 (en.tohed.com) — "Do not become angry."
-  - label: Sahih al-Bukhari 6114 and 3231 (hadithunlocked.com) (as on an earlier version of this page).
+  - label: Sahih al-Bukhari 6114 and 3231 (hadithunlocked.com).
   - label: Sahih al-Bukhari 6679 (en.tohed.com) — Abu Bakr, Mistah and 24:22.
   - label: Sunan Abi Dawud 4777 and 4782 (hadithunlocked.com) — restraining anger; sitting down.
   - label: Sahih Muslim 2588 (hadithunlocked.com) — "no one forgives another except that Allah increases his honor".
-  - label: Wade, Hoyt, Kidwell & Worthington, *J Consult Clin Psychol* 82(1):154–170 (2014), as reported by VanderWeele, *AJPH* 108(2) (2018), and Toussaint et al., *Frontiers in Psychology* 11:671 (2020) (read for run 17).
-  - label: "*Child Development* (2022) meta-analysis of forgiveness education, PubMed 35452524 (read for run 17)."
-  - label: Harper et al., *Journal of Clinical Psychology* (2014) (as on an earlier version of this page).
+  - label: Wade, Hoyt, Kidwell & Worthington, *J Consult Clin Psychol* 82(1):154–170 (2014), as reported by VanderWeele, *AJPH* 108(2) (2018), and Toussaint et al., *Frontiers in Psychology* 11:671 (2020).
+  - label: "*Child Development* (2022) meta-analysis of forgiveness education, PubMed 35452524."
+  - label: Harper et al., *Journal of Clinical Psychology* (2014).
   - label: Brad J. Bushman, "Does venting anger feed or extinguish the flame?", *Personality and Social Psychology Bulletin* 28(6):724–731 (2002).
   - &a1
     label: Ṣaḥīḥ al-Bukhārī 6114
@@ -97,7 +97,7 @@ fullAnswer:
   - kind: fiqh
     en: "**Redress is a right; pardon is the victim's choice.** \"Prescribed for you is legal retribution for those murdered… But whoever overlooks from his brother anything, then there should be a suitable follow-up and payment to him with good conduct. This is an alleviation from your Lord and a mercy\" (2:178); \"for wounds is legal retribution. But whoever gives [up his right as] charity, it is an expiation for him\" (5:45). On this basis the victim of bodily harm, or the family of someone killed, may demand retaliation (*qiṣāṣ*), accept compensation (*diya*), or pardon. That choice belongs to the victim or family. *The four schools' detailed rules were not read for this page*; they should be added from named works."
   - kind: history
-    en: "**Ṭāʾif.** After the people of Ṭāʾif rejected and stoned him, the Prophet (pbuh) refused the offer to have them destroyed and hoped that their descendants would worship God ({hadith:bukhari:3231}, as on the current page)."
+    en: "**Ṭāʾif.** After the people of Ṭāʾif rejected and stoned him, the Prophet (pbuh) refused the offer to have them destroyed and hoped that their descendants would worship God ({hadith:bukhari:3231})."
   - kind: research
     en: |-
       **Forgiveness interventions work, moderately.** [Established; moderate effect.] A 2014 meta-analysis of 54 studies found that forgiveness interventions raised forgiveness by about half a standard deviation more than other treatments or no treatment, and reduced depression and anxiety while increasing hope (Wade et al., 2014, as reported by VanderWeele, 2018, and Toussaint et al., 2020). The more hours of intervention, the larger the effect.

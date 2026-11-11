@@ -60,7 +60,7 @@ stories:
     - ʿUmar's governors were audited; he compared their wealth before and after office.
 gaps:
   tr: '*El-Emîn* lakabına ilişkin belirli rivayet ve "sana hıyanet edene hıyanet etme" hadisinin derecesi henüz kontrol edilmedi. Ülkeler arası güven araştırmaları korelasyoneldir. Müslüman çoğunluklu ülkelerin yolsuzluk puanları henüz kontrol edilmedi.'
-  en: The specific report of the title *al-Amīn* and the grade of "do not betray those who betrayed you" have not yet been checked. Cross-country trust research is correlational. Corruption scores for Muslim-majority countries have not yet been checked.
+  en: The grade of "do not betray those who betrayed you" has not yet been checked. Cross-country trust research is correlational. Corruption scores for Muslim-majority countries have not yet been checked.
 visualizations:
   - id: ideas
     tr: |
@@ -109,7 +109,7 @@ sources:
 fullAnswer:
   - kind: meaning
     en: |-
-      **Amāna and amīn.** The root *ʾ-m-n* gives *amn* (safety), *īmān* (faith) and *amāna* (trust). A trustworthy person (*amīn*) is someone with whom others feel safe. Before his prophethood, the Prophet (pbuh) was known among the Quraysh as *al-Amīn*, "the trustworthy" (reported widely in the *sīra*; the specific report has not yet been checked).
+      **Amāna and amīn.** The root *ʾ-m-n* gives *amn* (safety), *īmān* (faith) and *amāna* (trust). A trustworthy person (*amīn*) is someone with whom others feel safe. Before his prophethood, the Prophet (pbuh) was known among the Quraysh as *al-Amīn*, "the trustworthy". When the Quraysh were rebuilding the Kaʿba and disputed who would set the Black Stone, they said as he arrived: "The trustworthy one (*al-Amīn*) has come to you" (Musnad Ahmad 15504; Darussalam: chain *ṣaḥīḥ*).
 
       **ʿAhd.** A commitment or promise (17:34). Keeping it is part of *amāna*.
     tr: |-
@@ -139,7 +139,7 @@ fullAnswer:
     en: |-
       **The signs of a hypocrite.** "The signs of a hypocrite are three: 1. Whenever he speaks, he tells a lie. 2. Whenever he promises, he always breaks it (his promise). 3. If you trust him, he proves to be dishonest. (If you keep something as a trust with him, he will not return it.)" ({hadith:bukhari:33}, narrated by Abu Hurayra). The hadith does not say such a person has left Islam; it names behaviour that contradicts faith.
 
-      **Do not betray even the betrayer.** Ibn Kathir cites a hadith from al-Hasan via Samura: "Return the trust to those who entrusted you, and do not betray those who betrayed you", saying that "Imam Ahmad and the collectors of Sunan recorded this Hadith"; its grade has not yet been checked.
+      **Do not betray even the betrayer.** "Pay the deposit to him who deposited it with you, and do not betray him who betrayed you" ({hadith:abudawud:3535}; al-Albani: *ḥasan ṣaḥīḥ*; al-Tirmidhi: *ḥasan gharīb*; al-Bayhaqi judged its chain weak).
 
       **Character before prophethood.** When the Prophet (pbuh) came home shaken after the first revelation, his wife Khadija (ra) reassured him: "Never! By Allah, Allah will never disgrace you. You keep good relations with your kith and kin, help the poor and the destitute, serve your guests generously…" ({hadith:bukhari:3}, narrated by ʿAʾisha). Her argument was his character.
     tr: |-

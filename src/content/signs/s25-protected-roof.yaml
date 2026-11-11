@@ -96,11 +96,11 @@ sources:
   - label: "Saheeh International (Tanzil): 21:30–33, 2:22, 35:41, 22:65, 15:16–18, 37:6–7."
   - label: al-Tabari, *Jāmiʿ al-Bayān*, and al-Qurtubi, *al-Jāmiʿ li-Aḥkām al-Qurʾān*, on 21:32 (Arabic), https://quran.ksu.edu.sa/tafseer/ibn-tabary-qortobi-saadi/sura21-aya32.html — the meanings of *maḥfūẓ* and of "its signs".
     url: https://quran.ksu.edu.sa/tafseer/ibn-tabary-qortobi-saadi/sura21-aya32.html
-  - label: Ibn Kathir (abridged English), *Tafsīr al-Jalālayn* and *Tanwīr al-Miqbās* on 21:32, https://surahquran.com/tafsir-english-aya-32-sora-21.html — as on an earlier version of this page.
+  - label: Ibn Kathir (abridged English), *Tafsīr al-Jalālayn* and *Tanwīr al-Miqbās* on 21:32, https://surahquran.com/tafsir-english-aya-32-sora-21.html.
     url: https://surahquran.com/tafsir-english-aya-32-sora-21.html
   - label: US Environmental Protection Agency, ozone glossary (epa.gov) — where the ozone layer is, and which ultraviolet it absorbs.
   - label: NASA Scientific Visualization Studio, "Solar Wind Strips the Martian Atmosphere" (svs.gsfc.nasa.gov/4370) — Mars, without a global magnetic field, losing atmosphere to the solar wind.
-  - label: 'NASA Science, "Meteors & Meteorites: Facts" (read for run 17) — "shooting stars", about 48.5 tons of material a day, "Less than 5% of the original object usually makes it down".'
+  - label: 'NASA Science, "Meteors & Meteorites: Facts" — "shooting stars", about 48.5 tons of material a day, "Less than 5% of the original object usually makes it down".'
   - &a1
     label:
       tr: NASA StarChild — Göktaşları

@@ -67,7 +67,8 @@ reflection:
 honestNotes:
   - en: "**The popular claim.** It is sometimes claimed that the verse \"reveals Earth's rotation\". The verse describes what anyone can see; the classical commentators read it as the light before sunrise and as God's power to stop the sun. No named source for the claim was read."
   - en: '**Two readings of "extends the shadow".** Dawn to sunrise (al-Hasan, Qatada; al-Qurtubi: "more correct") or sunset to sunrise (unattributed). The page should give both.'
-  - en: "**The Hanafi Asr time.** Abu Hanifa held two shadow-lengths; his two students and the other schools held one; later Hanafis differ on which view the school follows (Haddad; see run 19)."
+  - en: "**The Hanafi Asr time.** Abu Hanifa held two shadow-lengths; his two students and the other schools held one; later Hanafis differ on which view the school follows (Haddad)."
+  - en: Twice a year, around 27–28 May and 15–16 July, the noon sun stands directly over the Kaaba, and shadows everywhere it is day point towards Mecca; astronomers such as Jaghmini (c. 1221) and Nasir al-Din al-Tusi already described this way of finding the qibla (*Wikipedia*, "Qibla observation by shadows").
 visualizations:
   - id: ideas
     tr: |
@@ -133,11 +134,11 @@ sources:
   - label: "Saheeh International (Tanzil): 25:45–47."
   - label: al-Qurtubi on 25:45 (Arabic), https://quran.ksu.edu.sa/tafseer/qortobi/sura25-aya45.html.
     url: https://quran.ksu.edu.sa/tafseer/qortobi/sura25-aya45.html
-  - label: Ibn Kathir (abridged English) and *al-Jalālayn* on 25:45–46, https://surahquran.com/tafsir-english-aya-45-sora-25.html (as on an earlier version of this page).
+  - label: Ibn Kathir (abridged English) and *al-Jalālayn* on 25:45–46, https://surahquran.com/tafsir-english-aya-45-sora-25.html.
     url: https://surahquran.com/tafsir-english-aya-45-sora-25.html
   - label: US Naval Observatory, "Rise, Set, and Twilight Definitions" (aa.usno.navy.mil).
-  - label: Jamiʿ al-Tirmidhi 149 (hadithunlocked.com) — the hadith of Gabriel and the prayer times (read for run 19).
-  - label: Gibril F. Haddad, "Time of ʿAsr in the Hanafi Madhab" (islamqa.org) (read for run 19).
+  - label: Jamiʿ al-Tirmidhi 149 (hadithunlocked.com) — the hadith of Gabriel and the prayer times.
+  - label: Gibril F. Haddad, "Time of ʿAsr in the Hanafi Madhab" (islamqa.org).
   - &a1
     label:
       tr: İbn Kesîr ve Taberî'nin 25:45–46 tefsirleri

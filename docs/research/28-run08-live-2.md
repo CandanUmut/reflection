@@ -13,7 +13,7 @@
 
 ### Go deeper
 #### meaning — What it means
-**Amāna and amīn.** The root *ʾ-m-n* gives *amn* (safety), *īmān* (faith) and *amāna* (trust). A trustworthy person (*amīn*) is someone with whom others feel safe. Before his prophethood, the Prophet (pbuh) was known among the Quraysh as *al-Amīn*, "the trustworthy" (reported widely in the *sīra*; the specific report has not yet been checked).
+**Amāna and amīn.** The root *ʾ-m-n* gives *amn* (safety), *īmān* (faith) and *amāna* (trust). A trustworthy person (*amīn*) is someone with whom others feel safe. Before his prophethood, the Prophet (pbuh) was known among the Quraysh as *al-Amīn*, "the trustworthy". When the Quraysh were rebuilding the Kaʿba and disputed who would set the Black Stone, they said as he arrived: "The trustworthy one (*al-Amīn*) has come to you" (Musnad Ahmad 15504; Darussalam: chain *ṣaḥīḥ*).
 
 **ʿAhd.** A commitment or promise (17:34). Keeping it is part of *amāna*.
 
@@ -27,7 +27,7 @@
 #### sunnah — What the Prophet (pbuh) taught
 **The signs of a hypocrite.** "The signs of a hypocrite are three: 1. Whenever he speaks, he tells a lie. 2. Whenever he promises, he always breaks it (his promise). 3. If you trust him, he proves to be dishonest. (If you keep something as a trust with him, he will not return it.)" ({hadith:bukhari:33}, narrated by Abu Hurayra). The hadith does not say such a person has left Islam; it names behaviour that contradicts faith.
 
-**Do not betray even the betrayer.** Ibn Kathir cites a hadith from al-Hasan via Samura: "Return the trust to those who entrusted you, and do not betray those who betrayed you", saying that "Imam Ahmad and the collectors of Sunan recorded this Hadith"; its grade has not yet been checked.
+**Do not betray even the betrayer.** "Pay the deposit to him who deposited it with you, and do not betray him who betrayed you" ({hadith:abudawud:3535}; al-Albani: *ḥasan ṣaḥīḥ*; al-Tirmidhi: *ḥasan gharīb*; al-Bayhaqi judged its chain weak).
 
 **Character before prophethood.** When the Prophet (pbuh) came home shaken after the first revelation, his wife Khadija (ra) reassured him: "Never! By Allah, Allah will never disgrace you. You keep good relations with your kith and kin, help the poor and the destitute, serve your guests generously…" ({hadith:bukhari:3}, narrated by ʿAʾisha). Her argument was his character.
 
@@ -65,7 +65,7 @@
 **What does "trustworthy" (*al-Amīn*) mean for the Prophet (pbuh)?** It was his reputation in Mecca before prophethood; Khadija (ra) appealed to his character when he was afraid ({hadith:bukhari:3}).
 
 ### Honest limits
-The specific report of the title *al-Amīn* and the grade of "do not betray those who betrayed you" have not yet been checked. Cross-country trust research is correlational. Corruption scores for Muslim-majority countries have not yet been checked.
+The grade of "do not betray those who betrayed you" has not yet been checked. Cross-country trust research is correlational. Corruption scores for Muslim-majority countries have not yet been checked.
 
 ---
 
@@ -93,6 +93,8 @@ The Quran describes faith in social terms: the one "who denies the Recompense" i
 **The rings of care (4:36).** "Worship Allah and associate nothing with Him, and to parents do good, and to relatives, orphans, the needy, the near neighbor, the neighbor farther away, the companion at your side, the traveler, and those whom your right hands possess. Indeed, Allah does not like those who are self-deluding and boastful" (4:36), Medinan.
 
 **Feeding without wanting thanks (76:8–9).** "And they give food in spite of love for it to the needy, the orphan, and the captive, [Saying], 'We feed you only for the countenance of Allah. We wish not from you reward or gratitude'" (76:8–9). In the Prophet's (pbuh) time the captives were non-Muslim prisoners of war, so the verse includes feeding enemies in captivity.
+
+Al-Qurtubi (d. 1273, Córdoba and Egypt), commenting on 4:36, explains "the neighbor farther away" (*al-jār al-junub*) as "the stranger", following Ibn ʿAbbas, and reports the early view of Nawf al-Shami that it means a Jewish or Christian neighbour. His own judgement: care for the neighbour is "commanded and recommended, whether the neighbour is a Muslim or a non-believer — and that is the correct view." He cites a hadith of three kinds of neighbour, in which the neighbour with one right "is the unbeliever: he has the right of neighbourhood". He also reports, without giving its chain, the saying "Forty houses are neighbours", and that al-Awzaʿi and Ibn Shihab al-Zuhri counted "forty houses in every direction". Ibn Kathir gives the three-neighbours hadith from al-Bazzar, through Jabir; its grade has not yet been checked, so nothing rests on it.
 
 #### sunnah — What the Prophet (pbuh) taught
 **The neighbour.** Ibn ʿUmar (ra) reports the Prophet (pbuh) as saying: "Gabriel kept on recommending me about treating the neighbors in a kind and polite manner so much so that I thought that he would order (me) to make them (my) heirs" ({hadith:bukhari:6015}).
@@ -242,6 +244,8 @@ Al-Ghazali's book on pride, and research on narcissism and humble leadership, ha
 
 *Limit:* the reply shows what the texts teach; it does not show that Muslims have lived this way. Muslim-majority countries have serious problems of waste and pollution, and the classical commentators read some key verses (55:7–9; 2:30) as about justice and succession, not ecology. "Islam has always been green" would overstate the case.
 
+Early commentators read *khalīfa* (2:30, "a successive authority") as humankind succeeding earlier beings on earth; al-Tabari explains it as one who "replaces the one who was before him"; later, al-Razi and al-Qurtubi read it as God's deputy who carries out His law (Liew, *Arabica*, 2016).
+
 #### research — What research shows
 **Water stress.** [Established for the figures.] The World Resources Institute's Aqueduct data (2023) find that "25 countries or a quarter of the world's population are currently exposed to extremely high water stress annually", and that in West Asia and North Africa "83 per cent of the population is exposed to extremely high water stress" (*Down To Earth*, 2023). Many of these countries are Muslim-majority; 7:31 and 6:141 speak directly to waste.
 
@@ -341,7 +345,7 @@ The legal rights of spouses by school have not yet been consulted either.
 
 **Is the 5:1 ratio scientific?** It comes from Gottman's research, reported by his institute; the strong prediction claims are debated.
 
-**What rights do spouses have in Islamic law?** Not covered in detail here; see the run 5 research and a future page on marriage law.
+**What rights do spouses have in Islamic law?** Not covered in detail here; the page "Does Islam treat women unequally?" discusses the main rights and duties.
 
 ### Honest limits
 Al-Ghazali's book on marriage and the schools' rules on spouses' rights have not yet been consulted. The Gottman figures come from the Gottman Institute. Domestic violence and rising divorce are serious problems in many societies, Muslim-majority ones included; no data on this were read.
@@ -373,7 +377,7 @@ The first word revealed was "Recite" (96:1), and the Prophet (pbuh) was told: "s
 **Those who know (39:9; 58:11; 35:28).** "Say, 'Are those who know equal to those who do not know?' Only they will remember [who are] people of understanding" (39:9). "Allah will raise those who have believed among you and those who were given knowledge, by degrees" (58:11). "Only those fear Allah, from among His servants, who have knowledge" (35:28) — the verse comes right after a description of the different colours of mountains, people and animals (35:27–28), so the "knowledge" in view includes knowledge of creation.
 
 #### sunnah — What the Prophet (pbuh) taught
-**"Seeking knowledge is a duty upon every Muslim."** This often-quoted saying is in Sunan Ibn Majah 224, narrated by Anas (ra): "Seeking knowledge is a duty upon every Muslim, and he who imparts knowledge to those who do not deserve it…" — the rest compares that to putting jewels on swine. Its chain is graded *ḍaʿīf* (weak) by the Darussalam editors (thehouseofislam.com); other scholars have judged it acceptable through its many chains, but that has not yet been checked. Under this site's rules, no claim rests on it alone. The duty to learn what one needs for faith and practice is supported by the scholars below.
+**"Seeking knowledge is a duty upon every Muslim."** This often-quoted saying is in Sunan Ibn Majah 224, narrated by Anas (ra): "Seeking knowledge is a duty upon every Muslim, and he who imparts knowledge to those who do not deserve it…" — the rest compares that to putting jewels on swine. Its grade is disputed: al-Albani accepted this first sentence as *ṣaḥīḥ* through its many routes, while al-Bayhaqi said its "text is well known and its chains are weak", and Zubayr ʿAli Zaʾi grades it weak. The second half of the same report is very weak by all accounts. Under this site's rules, no claim rests on it alone. The duty to learn what one needs for faith and practice is supported by the scholars below.
 
 #### scholars — How scholars have understood it
 **Individual and communal knowledge.** Shaykh Muhammad Abu Bakr Badhib explains that individually obligatory knowledge is "the knowledge that every Muslim, male or female, must acquire" — the meaning of the testimony of faith and the "essential rulings on purity, prayer, fasting, zakat, and pilgrimage" — and that communally obligatory knowledge includes "worldly sciences like medicine, engineering": "if some members of the community pursue it, others are exempt." He refers readers to al-Ghazali's *Iḥyāʾ* for detail; al-Ghazali's Book of Knowledge itself has not yet been consulted.
@@ -438,7 +442,7 @@ Al-Ghazali's Book of Knowledge has not yet been consulted. Education statistics 
 
 **Striving and guidance (29:69).** "And those who strive for Us — We will surely guide them to Our ways. And indeed, Allah is with the doers of good" (29:69). The effort comes first, and guidance follows.
 
-**The self that urges evil (12:53).** "And I do not acquit myself. Indeed, the soul is a persistent enjoiner of evil, except those upon which my Lord has mercy" (12:53). In Sura Yusuf, this is spoken at the end of the story of the minister's wife (Ibn Kathir and others differ on whether the speaker is Joseph or the woman; that discussion has not yet been consulted).
+**The self that urges evil (12:53).** "And I do not acquit myself. Indeed, the soul is a persistent enjoiner of evil, except those upon which my Lord has mercy" (12:53). Ibn Kathir holds that the speaker is the minister's wife, admitting her fault before the king — "the most viable" reading of the story — while al-Tabari and Ibn Abi Hatim report it as Joseph's words. Either way, the sentence is a confession that the self pulls towards wrong.
 
 **Change begins inside (13:11).** "Indeed, Allah will not change the condition of a people until they change what is in themselves" (13:11). The verse is about a *people*; applying it to an individual's habits is a common extension.
 

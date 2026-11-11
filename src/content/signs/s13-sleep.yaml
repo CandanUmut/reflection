@@ -92,11 +92,11 @@ sources:
   - label: "Saheeh International (Tanzil): 30:23, 78:9, 39:42–43, 6:60, 25:47."
   - label: al-Tabari on 39:42 (Arabic), https://quran.ksu.edu.sa/tafseer/tabary/sura39-aya42.html.
     url: https://quran.ksu.edu.sa/tafseer/tabary/sura39-aya42.html
-  - label: Ibn Kathir (abridged English) on 39:42, https://surahquran.com/tafsir-english-aya-42-sora-39.html (as on an earlier version of this page).
+  - label: Ibn Kathir (abridged English) on 39:42, https://surahquran.com/tafsir-english-aya-42-sora-39.html.
     url: https://surahquran.com/tafsir-english-aya-42-sora-39.html
   - label: Sahih al-Bukhari 6314 (hadithunlocked.com), from Hudhayfa — the words at sleeping and waking.
-  - label: NIH/NINDS release (via ScienceDaily, 18 Oct. 2013) on Xie et al., "Sleep Drives Metabolite Clearance from the Adult Brain", *Science* 342:373 (2013) (as on an earlier version of this page).
-  - label: 'Ringstad et al., *JCI Insight* 3(13): e121537 (2018); NINDS, "Brain Basics: Understanding Sleep" (read for run 17).'
+  - label: NIH/NINDS release (via ScienceDaily, 18 Oct. 2013) on Xie et al., "Sleep Drives Metabolite Clearance from the Adult Brain", *Science* 342:373 (2013).
+  - label: 'Ringstad et al., *JCI Insight* 3(13): e121537 (2018); NINDS, "Brain Basics: Understanding Sleep".'
   - &a1
     label: Xie et al., "Sleep Drives Metabolite Clearance from the Adult Brain," Science 2013 (PDF)
     url: https://www.polyu.edu.hk/cbs/rclcn/images/cdl_articles/X/Xie_et_al._2013.pdf

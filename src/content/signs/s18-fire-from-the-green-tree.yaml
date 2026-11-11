@@ -55,7 +55,7 @@ howItWorks:
   en: |-
     Each point is tied to "from the green tree, fire". These are modern facts set beside the verse.
 
-    - **Stored sunlight.** [Established] Plants use sunlight to build sugars and wood from carbon dioxide and water (photosynthesis). Burning wood reverses this: the stored carbon combines with oxygen and releases the energy as heat and light. (Standard biology and chemistry; no named source was read in this run.)
+    - **Stored sunlight.** [Established] Plants use sunlight to build sugars and wood from carbon dioxide and water (photosynthesis). Burning wood reverses this: the stored carbon combines with oxygen and releases the energy as heat and light. (Standard biology and chemistry; no specific source is cited here.)
     - **Friction fire.** [Established] Rubbing two pieces of wood together heats the fibres until they smoulder; this is the method al-Qurtubi describes. (No named source on the physics of friction fire was read.)
 awe:
   tr: |
@@ -81,7 +81,7 @@ honestNotes:
   - en: '**No photosynthesis claimed.** The verse refers to a known Arabian practice, fire-sticks of *markh* and *ʿafār* (al-Qurtubi; Ibn Kathir). Using photosynthesis as a reflection is fine; saying "the Quran revealed photosynthesis" is not.'
   - en: '**Two readings of "green tree".** Fire-sticks (al-Qurtubi; Ibn Kathir) or "the oil of green trees" (al-Jalālayn); the page should give both.'
   - en: "**The popular claim.** No named source making a scientific-miracle claim about 36:80 was read."
-  - en: "**Science sources.** The photosynthesis and friction points are standard but were not tied to a named source in this run."
+  - en: "**Science sources.** The photosynthesis and friction points are standard science, but no specific source is cited for them here."
 visualizations:
   - id: ideas
     tr: |
@@ -94,7 +94,7 @@ sources:
   - label: "Saheeh International (Tanzil): 36:78–81, 56:71–73."
   - label: al-Qurtubi on 36:80 (Arabic), https://quran.ksu.edu.sa/tafseer/qortobi/sura36-aya80.html — the fire-sticks *markh* and *ʿafār*, and the argument from opposites.
     url: https://quran.ksu.edu.sa/tafseer/qortobi/sura36-aya80.html
-  - label: Ibn Kathir (abridged English) on 36:77–80 and 56:71–73, and *al-Jalālayn* on 56:71, https://surahquran.com/tafsir-english-aya-78-sora-36.html and https://surahquran.com/tafsir-english-aya-71-sora-56.html (as on an earlier version of this page).
+  - label: Ibn Kathir (abridged English) on 36:77–80 and 56:71–73, and *al-Jalālayn* on 56:71, https://surahquran.com/tafsir-english-aya-78-sora-36.html and https://surahquran.com/tafsir-english-aya-71-sora-56.html.
     url: https://surahquran.com/tafsir-english-aya-78-sora-36.html
   - &a1
     label:

@@ -36,7 +36,7 @@ howItWorks:
     Each point is tied to "between excretion and blood" and "pure milk".
 
     - **From food, through blood, to milk.** [Established] Nutrients from digested food pass into the blood; the cells of the mammary gland take their raw materials from the blood and make milk (Cornell University, "Anatomy of the Mammary Gland").
-    - **How much blood.** [Moderate; measured in sows] In lactating sows, "blood flow through the entire mammary gland averages 3.6 L/min" and "about 470 L of blood are required to produce 1 kg of milk" — an estimate that assumes the measured artery drains a quarter of the gland (Renaudeau et al., *Journal of Animal Science*, 2002). For dairy cows the current page gives about 500 litres of blood per litre of milk (Cornell University); such figures are rules of thumb, not constants.
+    - **How much blood.** [Moderate; measured in sows] In lactating sows, "blood flow through the entire mammary gland averages 3.6 L/min" and "about 470 L of blood are required to produce 1 kg of milk" — an estimate that assumes the measured artery drains a quarter of the gland (Renaudeau et al., *Journal of Animal Science*, 2002). For dairy cows a figure of about 500 litres of blood per litre of milk is often given, attributed to Cornell University (that source has not yet been consulted); such figures are rules of thumb, not constants.
 awe:
   tr: Bir litre süt için geçen kan miktarı 400 ile 600 litre arasındadır.
   en: |-
@@ -65,10 +65,10 @@ sources:
   - label: "Saheeh International (Tanzil): 16:65–67."
   - label: Ibn Kathir, al-Tabari and al-Saʿdi on 16:66 (Arabic), https://quran.ksu.edu.sa/tafseer/ibn-katheer-tabary-saadi/sura16-aya66.html.
     url: https://quran.ksu.edu.sa/tafseer/ibn-katheer-tabary-saadi/sura16-aya66.html
-  - label: Ibn Kathir (abridged English) and *al-Jalālayn* on 16:66, https://surahquran.com/tafsir-english-aya-66-sora-16.html (as on an earlier version of this page).
+  - label: Ibn Kathir (abridged English) and *al-Jalālayn* on 16:66, https://surahquran.com/tafsir-english-aya-66-sora-16.html.
     url: https://surahquran.com/tafsir-english-aya-66-sora-16.html
   - label: 'Renaudeau, Lebreton, Noblet & Dourmad, "Measurement of blood flow through the mammary gland in lactating sows: methodological aspects", *Journal of Animal Science* 80(1):196–201 (2002), abstract.'
-  - label: '"Anatomy of the Mammary Gland", Cornell University (adapted from DeLaval material) (as on an earlier version of this page).'
+  - label: '"Anatomy of the Mammary Gland", Cornell University (adapted from DeLaval material).'
   - &a1
     label: CSIRO Publishing (2005)
   - &a2

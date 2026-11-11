@@ -101,6 +101,7 @@ honestNotes:
         - Adil tutum: Âyetler genel düzeyde embriyolojiyle uyum içinde okunabilir; bir ders kitabı değildir ve burada okunan müfessirler onları öyle okumadı.
   - en: "**The forty-day hadith.** {hadith:bukhari:3208} speaks of forty-day stages. How its timings relate to modern embryology is disputed among Muslim scholars; that debate has not yet been consulted in a named source."
     tr: "**Kırk gün hadisi.** {hadith:bukhari:3208} kırkar günlük evrelerden söz eder. Zamanlamalarının modern embriyolojiyle nasıl ilişkilendiği Müslüman âlimler arasında tartışmalıdır; bu tartışmaya henüz adı belli bir kaynakta bakılmadı."
+  - en: The historian of science Joseph Needham, quoting the Quran's embryological verses, described them as "A seventh-century echo of Aristotle" (*A History of Embryology*, 1959) — a judgement this page weighs in its notes on 23:14.
 visualizations:
   - id: ideas
     tr: 1.–10. haftaları kapsayan bir embriyo kaydırması; arada bir "âyet / embriyoloji" ayracı.
@@ -117,7 +118,7 @@ sources:
     url: https://wp-assets.lecturio.com/concepts/development-of-limbs/
   - label: LifeMap Discovery, *Review of Medical Embryology*, ch. 69, "Development of the Limbs", https://discovery.lifemapsc.com/library/review-of-medical-embryology/chapter-69-development-of-the-limbs (no author shown on the page).
     url: https://discovery.lifemapsc.com/library/review-of-medical-embryology/chapter-69-development-of-the-limbs
-  - label: "\"Scientists' Comments On The Qur'an\", Islamic Awareness, https://islamic-awareness.org/quran/science/scientists — Keith Moore (a site that promotes the claims), as read for run 9."
+  - label: "\"Scientists' Comments On The Qur'an\", Islamic Awareness, https://islamic-awareness.org/quran/science/scientists — Keith Moore (a site that promotes the claims)."
     url: https://islamic-awareness.org/quran/science/scientists
   - &a1
     label: Ṣaḥīḥ al-Bukhārī 3208

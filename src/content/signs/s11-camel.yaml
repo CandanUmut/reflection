@@ -86,10 +86,10 @@ sources:
   - label: "Saheeh International (Tanzil): 88:17–21."
   - label: al-Qurtubi, al-Tabari and al-Saʿdi on 88:17 (Arabic), https://quran.ksu.edu.sa/tafseer/ibn-qortobi-tabary-saadi/sura88-aya17.html.
     url: https://quran.ksu.edu.sa/tafseer/ibn-qortobi-tabary-saadi/sura88-aya17.html
-  - label: Ibn Kathir (abridged English) on 88:17–20, https://surahquran.com/tafsir-english-aya-17-sora-88.html (as on an earlier version of this page).
+  - label: Ibn Kathir (abridged English) on 88:17–20, https://surahquran.com/tafsir-english-aya-17-sora-88.html.
     url: https://surahquran.com/tafsir-english-aya-17-sora-88.html
-  - label: Ali et al., "Effects of long-term dehydration on stress markers, blood parameters, and tissue morphology in the dromedary camel", *Frontiers in Veterinary Science* (2023), doi 10.3389/fvets.2023.1236425 (read for run 19).
-  - label: Schmidt-Nielsen, Schroter & Shkolnik, "Desaturation of exhaled air in camels", *Proc. R. Soc. Lond. B* 211 (1981) 305–319 (read for run 19).
+  - label: Ali et al., "Effects of long-term dehydration on stress markers, blood parameters, and tissue morphology in the dromedary camel", *Frontiers in Veterinary Science* (2023), doi 10.3389/fvets.2023.1236425.
+  - label: Schmidt-Nielsen, Schroter & Shkolnik, "Desaturation of exhaled air in camels", *Proc. R. Soc. Lond. B* 211 (1981) 305–319.
   - &a1
     label: Camel (Wikipedia)
     url: https://en.wikipedia.org/wiki/Camel

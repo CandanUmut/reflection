@@ -49,7 +49,7 @@ layers:
     en: If "feeling nothing" covers everything (food, friends), a mental-health check can help. Repeating ablution or fearing invalid prayer is classic vesvese; the classical rule ignores excessive doubt after finishing.
 honestLimits:
   tr: Hiçbir teknik duyguyu garanti etmez. Gazzâlî'nin *Esrârü's-Salât*'ına, Kuşeyrî'nin kendi metnine, Kur'an'ın namaz vakti âyetlerine (11:114; 17:78) doğrulanmış metinde ve namazın fizyolojik etkileri üzerine herhangi bir çalışmaya henüz başvurulmadı. Rabbani'ninkilerin ötesindeki pratik adımlar genel öğretimdir, burada kaynaklandırılmadı.
-  en: No technique guarantees feeling. Al-Ghazali's *Asrār al-Ṣalāt*, al-Qushayri's own text, the Quran's prayer-time verses (11:114; 17:78) in verified text, and any study of prayer's physiological effects have not yet been consulted. The practical steps beyond Rabbani's are general teaching, not sourced here.
+  en: No technique guarantees feeling. Al-Qushayri's own text and any study of prayer's physiological effects have not yet been consulted. The practical steps beyond Rabbani's are general teaching, not sourced here.
 visualizations:
   - id: ideas
     tr: |
@@ -117,7 +117,7 @@ fullAnswer:
 
       **What prayer does (29:45).** "Recite, [O Muhammad], what has been revealed to you of the Book and establish prayer. Indeed, prayer prohibits immorality and wrongdoing, and the remembrance of Allah is greater" (29:45), Meccan. Prayer's effect is described in behaviour — it holds a person back from wrong — not in feelings.
 
-      **Prayer times.** The Quran names times of prayer in several verses (e.g. 11:114; 17:78; 30:17–18, none quoted from verified data here) but does not state the number five.
+      **Prayer times.** The Quran names times of prayer in several verses: "And establish prayer at the two ends of the day and at the approach of the night" (11:114); "Establish prayer at the decline of the sun [from its meridian] until the darkness of the night and [also] the Qur'an of dawn" (17:78); see also 30:17–18. It does not state the number five.
     tr: |-
       **Zikir olarak namaz (20:14).** "Şüphesiz ben Allah'ım, benden başka hiçbir ilâh yoktur. Onun için bana kulluk et ve beni anmak için namaz kıl." (20:14), Mekkî — Allah'ın Tuvâ vadisindeki ateşin yanında Hz. Mûsâ'ya (a.s.) söylediği sözler (20:10–12). Adı geçen ilk amaç *zikir*, anmaktır: Kişi etkilenmiş hissetse de hissetmese de zihni Allah'a döndürmek.
 
@@ -147,6 +147,8 @@ fullAnswer:
       The person who feels dry but keeps praying, and keeps pulling the mind back, is in the third grade: "redeemed".
 
       **Al-Qushayri on dry phases.** Rabbani reports al-Qushayri's account of *qabḍ* (contraction) and *basṭ* (expansion) as states of the present moment, which are "neither achievements nor failures. They are visitations, and they alternate."
+
+      Al-Ghazali sums up the inner life of prayer "in six words": awareness (presence of the heart), understanding, reverence, awe, hope and shame (*Iḥyāʾ*, Book 4, *Asrār al-Ṣalāt*, trans. Zidan).
     tr: |-
       İbn Kayyim (14. yüzyıl Şamlı âlim), *el-Vâbilü's-Sayyib*'de namazdaki beş tür insanı tarif eder (Sedick'in sunduğu şekliyle):
       1. "Nefsine zulmeden" (Sedick, 35:32'ye atıfla): abdeste, vakitlere ve temel rükünlere karşı özensiz — "cezalandırılan".

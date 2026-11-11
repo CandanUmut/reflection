@@ -169,7 +169,10 @@ fullAnswer:
       en: Dört mezhep ne diyor?
       tr: Dört mezhep ne diyor?
   - kind: research
-    en: "**Zakat programmes report people lifted out of poverty, but the evidence is weak.** [Mixed.] Indonesia's national zakat agency BAZNAS reports that in 2024 zakat programmes lifted 1,350,227 people out of poverty, including 721,748 from extreme poverty, measured by an annual \"Zakat Impact Assessment survey\" against five poverty standards. The summary does not explain how the effect was attributed to zakat, gives no comparison group, and its provider breakdown (adding to about 1,486,920) does not match the total. These are self-reported programme figures, not independent evaluations."
+    en: |-
+      **Zakat programmes report people lifted out of poverty, but the evidence is weak.** [Mixed.] Indonesia's national zakat agency BAZNAS reports that in 2024 zakat programmes lifted 1,350,227 people out of poverty, including 721,748 from extreme poverty, measured by an annual "Zakat Impact Assessment survey" against five poverty standards. The summary does not explain how the effect was attributed to zakat, gives no comparison group, and its provider breakdown (adding to about 1,486,920) does not match the total. These are self-reported programme figures, not independent evaluations.
+
+      In 27 experiments with 4,045 people, acts of kindness raised the doer's own well-being by a small-to-medium amount (δ = 0.28) (Curry et al., 2018). People who were randomly asked to spend money on others were happier than those asked to spend it on themselves (Dunn, Aknin & Norton, *Science*, 2008).
     tr: "**Zekât programları insanları yoksulluktan kurtardığını bildiriyor, ama delil zayıf.** [Karışık.] Endonezya'nın ulusal zekât kurumu BAZNAS, 2024'te zekât programlarının 721.748'i aşırı yoksulluktan olmak üzere 1.350.227 kişiyi yoksulluktan kurtardığını bildiriyor; bu, beş yoksulluk ölçütüne göre yıllık bir \"Zekât Etki Değerlendirmesi anketi\" ile ölçülmüş. Özet etkinin zekâta nasıl atfedildiğini açıklamıyor, bir karşılaştırma grubu vermiyor ve kuruluşlara göre dağılımı (toplamı yaklaşık 1.486.920) toplamla uyuşmuyor. Bunlar bağımsız değerlendirmeler değil, programın kendi bildirdiği rakamlardır."
     title:
       en: Araştırmalar ne gösteriyor?

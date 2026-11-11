@@ -40,3 +40,4 @@
 | 37 | [Turkish 11 of 13](run-37-tr-11.md) | S7, S8, S9, S10, S11, S12, S13, S14, S15, S16, S17 | `docs/research/tr/<page id>.md, one file per page` |
 | 38 | [Turkish 12 of 13](run-38-tr-12.md) | S18, S19, S20, S21, S22, S23, S24, S25, S26, S27, S28 | `docs/research/tr/<page id>.md, one file per page` |
 | 39 | [Turkish 13 of 13](run-39-tr-13.md) | S29, S30, S31, S32, S33 | `docs/research/tr/<page id>.md, one file per page` |
+| 40 | [Turkish for the deepened pages, and for the paragraphs changed after translation](run-40-tr-update.md) | S2, S10, S11, S12, S13, S14, S15, S16, S17, S18, S19, S21, S22, S23, S24, S25, M6, M7, M11 | `docs/research/tr/<page id>.md, one file per page` |

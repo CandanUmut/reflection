@@ -75,7 +75,7 @@ sources:
     url: https://en.wikipedia.org/wiki/2016_Turkey_coup
   - label: "Female Scholars Network, \"Addressing Spiritual Abuse in Our Community: A Community Call In and Leadership Directives\", by \"over 100 female Islamic scholars, teachers, and daa'iyyas\" (November 2024), https://muslimmatters.org/wp-content/uploads/Female-Scholars-Against-Spiritual-Abuse.pdf."
     url: https://muslimmatters.org/wp-content/uploads/Female-Scholars-Against-Spiritual-Abuse.pdf
-  - label: Youssef Chouhoud, "What Causes Muslims to Doubt Islam? A Quantitative Analysis", Yaqeen Institute (2018; updated 2024), as read for run 9.
+  - label: Youssef Chouhoud, "What Causes Muslims to Doubt Islam? A Quantitative Analysis", Yaqeen Institute (2018; updated 2024).
   - &a1
     label: Chouhoud (Yaqeen 2018)
     url: https://yaqeeninstitute.org/read/paper/what-causes-muslims-to-doubt-islam-a-quantitative-analysis
@@ -131,7 +131,10 @@ fullAnswer:
       en: Kur'an ne diyor?
       tr: Kur'an ne diyor?
   - kind: sunnah
-    en: '**The signs of a hypocrite.** Abu Hurayra (ra) reports three: "Whenever he speaks, he tells a lie", whenever he promises he breaks it, and whenever he is trusted he betrays ({hadith:bukhari:33}). These are tests anyone can apply to a teacher.'
+    en: |-
+      **The signs of a hypocrite.** Abu Hurayra (ra) reports three: "Whenever he speaks, he tells a lie", whenever he promises he breaks it, and whenever he is trusted he betrays ({hadith:bukhari:33}). These are tests anyone can apply to a teacher.
+
+      The Prophet (pbuh) said that religion is sincere good will (*naṣīḥa*): "For Allah, His Book, His Messenger and for the leaders and the general Muslims" ({hadith:muslim:55}). Sincere counsel to leaders is part of the religion, not disloyalty to it.
     tr: '**Münafığın alametleri.** Ebû Hüreyre (r.a.) üç alamet aktarır: "Konuştuğunda yalan söyler", söz verdiğinde sözünden döner ve kendisine güvenildiğinde hıyanet eder ({hadith:bukhari:33}). Bunlar herkesin bir hocaya uygulayabileceği sınavlardır.'
     title:
       en: Hz. Peygamber (s.a.v.) ne öğretti?
@@ -192,7 +195,7 @@ fullAnswer:
     en: |-
       **What is Diyanet?** The Presidency of Religious Affairs is "a state institution established in 1924" in Türkiye, created "to administer the affairs related to faith and worship of the religion of Islam". It writes a weekly sermon read in about 85,000 mosques, trains and employs Türkiye's imams as civil servants, and follows the Hanafi school. Starting from 2006, its staff "doubled to nearly 150,000" and its budget "quadrupled to over $2 billion by 2015"; critics have accused it of "serving for the ruling AKP party" (Wikipedia, citing Cornell 2015). Separately, and earlier, Wikipedia records that "During the Government of Süleyman Demirel, the Diyanet's approach towards the Alevi became denialist in nature", and that under its president Mehmet Görmez the Alevi question "was acknowledged for the first time".
 
-      **The 2016 coup attempt.** On the night of 15 July 2016, "over 300 people were killed" and "more than 2,100 were injured". President Erdoğan said the plotters were "linked to the Gülen movement", which the government later designated "FETÖ". Fethullah Gülen said: "I categorically deny such accusations." Germany's intelligence chief said Germany was unconvinced, and a British parliamentary committee found "no hard evidence that Fethullah Gülen masterminded the failed coup", though some Gülenists were involved. In the aftermath, "150,000 government officials and workers" were suspended (*Wikipedia*). This page takes no side in Turkish party politics. Whether, and how much, these events damaged young people's trust in religion is a question for survey data, and none was read.
+      **The 2016 coup attempt.** In 2017 the UK House of Commons Foreign Affairs Committee reportedly accepted that some Gülenists were involved, but found that the claim that the movement as a whole and its leadership were behind the coup "is not substantiated by hard, publicly available evidence" (as reported by Al Jazeera, 25 March 2017). About 300 people were killed. President Erdoğan said the plotters were "linked to the Gülen movement", which the government later designated "FETÖ". Fethullah Gülen said: "I categorically deny such accusations." Germany's intelligence chief said Germany was unconvinced, and a British parliamentary committee found "no hard evidence that Fethullah Gülen masterminded the failed coup", though some Gülenists were involved. In the aftermath, "150,000 government officials and workers" were suspended (*Wikipedia*). This page takes no side in Turkish party politics. Whether, and how much, these events damaged young people's trust in religion is a question for survey data, and none was read.
     tr: |-
       **Diyanet nedir?** Diyanet İşleri Başkanlığı, Türkiye'de "İslam dininin inanç ve ibadetiyle ilgili işlerini yürütmek" için "1924'te kurulmuş bir devlet kurumudur". Yaklaşık 85.000 camide okunan haftalık bir hutbe yazar, Türkiye'nin imamlarını devlet memuru olarak yetiştirir ve istihdam eder ve Hanefî mezhebini izler. 2006'dan itibaren personeli "yaklaşık 150.000'e iki katına çıktı" ve bütçesi "2015'e kadar dört katına çıkarak 2 milyar doları aştı"; eleştirmenler onu "iktidardaki AKP'ye hizmet etmekle" suçladı (Wikipedia, Cornell 2015'e atıfla). Ayrı olarak ve daha önce, Wikipedia "Süleyman Demirel hükümeti döneminde Diyanet'in Alevilere yaklaşımının inkârcı bir nitelik kazandığını" ve başkanı Mehmet Görmez döneminde Alevi meselesinin "ilk kez kabul edildiğini" kaydeder.
 

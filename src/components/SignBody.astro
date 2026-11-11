@@ -40,7 +40,9 @@ const nav = [
   ...(sign.followUps?.some((f) => f.q[lang]) ? [{ id: 'deep-fullAnswer-asked', label: t(lang, 'followUps') }] : []),
   { id: 'sources-title', label: t(lang, 'sources') },
 ];
-const notes = lang === 'tr' && !sign.honestNotes.every((n) => n.tr) ? (sign.legacyHonestNotes ?? []) : sign.honestNotes;
+// A page whose new notes are partly translated shows them all: a note not yet
+// translated appears in English (marked lang="en"), never hidden.
+const notes = lang === 'tr' && !sign.honestNotes.some((n) => n.tr) ? (sign.legacyHonestNotes ?? []) : sign.honestNotes;
 const notesInline = notes.some((n) => n.en.length > 280 || /^\s*-/m.test(n.en));
 ---
 
@@ -108,7 +110,9 @@ const notesInline = notes.some((n) => n.en.length > 280 || /^\s*-/m.test(n.en));
         {notesInline &&
           notes.map((note) => (
             <HonestNote lang={lang} important={note.important}>
-              <Fragment set:html={md(note[lang] ?? note.en, lang)} />
+              <div lang={note[lang] ? undefined : 'en'}>
+                <Fragment set:html={md(note[lang] ?? note.en, note[lang] ? lang : 'en')} />
+              </div>
             </HonestNote>
           ))}
       </div>
@@ -116,7 +120,9 @@ const notesInline = notes.some((n) => n.en.length > 280 || /^\s*-/m.test(n.en));
         {!notesInline &&
           notes.map((note) => (
             <HonestNote lang={lang} important={note.important}>
-              <Fragment set:html={md(note[lang] ?? note.en, lang)} />
+              <div lang={note[lang] ? undefined : 'en'}>
+                <Fragment set:html={md(note[lang] ?? note.en, note[lang] ? lang : 'en')} />
+              </div>
             </HonestNote>
           ))}
       </div>

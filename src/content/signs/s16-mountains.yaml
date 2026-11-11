@@ -84,8 +84,8 @@ reflection:
 honestNotes:
   - en: '**The popular claim.** IslamQA writes: "Geological research proves that the mountains are fixed firmly in the earth and that they stabilise the earth", and "The roots of the mountains beneath the surface of the earth are several times deeper than the height of that which appears above the surface" (Question 223428).'
   - en: '**Weighing it.** *Roots:* true, and the Airy model (about 5.6 times the height) supports "several times deeper". *"Stabilise the earth":* not in the sense of preventing earthquakes; mountain belts are among the most earthquake-prone places on Earth (USGS). The classical commentators read the verses as the earth made a steady home, not as a claim about seismology.'
-  - en: "**The current page's numbers.** \"About five times… so an 8 km mountain would have a root about 32 km deep\" is inconsistent (32 is four times 8); with the source's 5.6, it is about 45 km (see run 19)."
   - en: "**The weak report.** The report that the earth shook until the mountains were made (Tirmidhi 3369) is graded weak by al-Albani; it should not be presented as established."
+  - en: A widely shared article cites the geology textbook *Earth* (Press and Siever) for mountains' "roots" and concludes that "modern geology has confirmed the truth of the Quranic verses"; that conclusion is the article's own, not the textbook authors' (IslamReligion.com, article 215).
 visualizations:
   - id: ideas
     tr: |
@@ -127,12 +127,12 @@ sources:
   - label: "Saheeh International (Tanzil): 78:6–7, 16:15, 79:32–33, 13:3, 88:19."
   - label: al-Tabari, Ibn Kathir and *al-Muyassar* on 78:7 (Arabic), https://quranislam.github.io/tafsir/sura78-aya7.html.
     url: https://quranislam.github.io/tafsir/sura78-aya7.html
-  - label: Ibn Kathir (abridged English) on 78:6–7 and 16:15, https://surahquran.com/tafsir-english-aya-7-sora-78.html and https://surahquran.com/tafsir-english-aya-15-sora-16.html (as on an earlier version of this page).
+  - label: Ibn Kathir (abridged English) on 78:6–7 and 16:15, https://surahquran.com/tafsir-english-aya-7-sora-78.html and https://surahquran.com/tafsir-english-aya-15-sora-16.html.
     url: https://surahquran.com/tafsir-english-aya-7-sora-78.html
-  - label: Jamiʿ al-Tirmidhi 3369 (hadithunlocked.com) — the report that the earth shook until the mountains were made (read for run 17).
-  - label: UC San Diego, Scripps IGPP, Lecture 2 "Gravity, Isostasy and Flexure" (after Kearey, Klepeis & Vine 2009) (read for run 19).
-  - label: "USGS, *Seismicity of the Earth 1900–2010: Himalaya and vicinity*, Open-File Report 2010-1083-J (as on an earlier version of this page)."
-  - label: IslamQA, Question 223428 (as on an earlier version of this page) — the popular claim.
+  - label: Jamiʿ al-Tirmidhi 3369 (hadithunlocked.com) — the report that the earth shook until the mountains were made.
+  - label: UC San Diego, Scripps IGPP, Lecture 2 "Gravity, Isostasy and Flexure" (after Kearey, Klepeis & Vine 2009).
+  - label: "USGS, *Seismicity of the Earth 1900–2010: Himalaya and vicinity*, Open-File Report 2010-1083-J."
+  - label: IslamQA, Question 223428 — the popular claim.
   - &a1
     label:
       tr: Vikipedi, "İzostazi" (kaynaklarıyla)

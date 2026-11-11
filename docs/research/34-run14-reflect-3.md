@@ -464,7 +464,7 @@ What strikes a reader first may be the answer of heaven and earth: "We have come
 Modern science describes our solar system forming from a vast cloud of gas and dust. A reader may notice a resonance with "smoke". But the verse's own question is not about physics. It ends: "Then will they not believe?" The beginning of everything is offered as a reason to trust the One who began it.
 
 ### Honest notes
-- **The popular claim.** "The Quran described the Big Bang" overstates. The classical readings of 21:30 are quite different (rain and plants; separation by air), and the early universe was a hot plasma, not smoke (see run 9, Q12).
+- **The popular claim.** "The Quran described the Big Bang" overstates. The classical readings of 21:30 are quite different (rain and plants; separation by air), and the early universe was a hot plasma, not smoke (, Q12).
 - **A modern reflection.** Calling a gas-and-dust cloud "smoke-like" is a reasonable modern reflection [Debated], but it is a reflection, and is labelled as one.
 - **The order of creation.** 41:9–12 gives a sequence (earth, then heaven) that commentators discussed at length alongside 79:27–30; Ibn Kathir reports Ibn ʿAbbas's reconciliation. It is an old discussion in tafsir, not something to hide.
 

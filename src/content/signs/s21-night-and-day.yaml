@@ -140,11 +140,11 @@ sources:
   - label: "Saheeh International (Tanzil): 10:5–6, 25:61–62, 71:16, 78:13."
   - label: al-Qurtubi on 10:5 (Arabic), https://quran.ksu.edu.sa/tafseer/qortobi/sura10-aya5.html — *ḍiyāʾ* and *nūr*; Ibn ʿAbbas on why there are two lights.
     url: https://quran.ksu.edu.sa/tafseer/qortobi/sura10-aya5.html
-  - label: Ibn Kathir (abridged English) and *al-Jalālayn* on 10:5 and 78:13, https://surahquran.com/tafsir-english-aya-5-sora-10.html and https://surahquran.com/tafsir-english-aya-13-sora-78.html (as on an earlier version of this page).
+  - label: Ibn Kathir (abridged English) and *al-Jalālayn* on 10:5 and 78:13, https://surahquran.com/tafsir-english-aya-5-sora-10.html and https://surahquran.com/tafsir-english-aya-13-sora-78.html.
     url: https://surahquran.com/tafsir-english-aya-5-sora-10.html
   - label: NASA, "Sun Fact Sheet" (nssdc.gsfc.nasa.gov) — luminosity and central temperature.
   - label: NASA, "Moon Fact Sheet" (nssdc.gsfc.nasa.gov) — albedo; revolution and synodic periods.
-  - label: D. O'Brien, "Derived Light and Eclipses in the Fifth Century", *Journal of Hellenic Studies* 88 (1968) 114–127 (read for run 17) — Greek thinkers who knew the moon's light comes from the sun.
+  - label: D. O'Brien, "Derived Light and Eclipses in the Fifth Century", *Journal of Hellenic Studies* 88 (1968) 114–127 — Greek thinkers who knew the moon's light comes from the sun.
   - &a1
     label:
       tr: NASA Güneş ve Ay bilgi sayfaları (güneş ışıması, ay albedosu)
