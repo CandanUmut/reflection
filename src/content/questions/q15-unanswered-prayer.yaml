@@ -16,16 +16,13 @@ verses:
   - 2:186
   - 12:86
 steelman:
-  tr: |
-    "Bana dua edin, size icabet edeyim" (40:60). Annemin iyileşmesi için dua ettim ve o öldü. Ya vaat yanlış, ya Allah umursamıyor, ya da kimse dinlemiyor.
+  tr: "\"Kur'an, 'Bana yalvarın, dua edin ki size karşılık vereyim' diyor (40:60). Her gece annemin iyileşmesi için dua ettim. Oruç tuttum, sadaka verdim, yalvardım. Öldü. Şimdi bana Allah'ın yine de 'karşılık verdiği' söyleniyor — benim için bir mükâfat saklayarak ya da hiç göremeyeceğim başka bir zararı uzaklaştırarak. Ama her sonuç bir karşılık sayılıyorsa, vaat asla boşa çıkamaz ve asla boşa çıkamayacak bir vaat bana hiçbir şey söylemez. Ya Allah sözünü tutmuyor, ya umursamıyor, ya da dinleyen kimse yoktu.\""
   en: "\"The Quran says, 'Call upon Me; I will respond to you' (40:60). I prayed every night for my mother to recover. I fasted, I gave charity, I begged. She died. Now I'm told that God 'answered' anyway — by storing a reward for me, or by turning away some other harm I'll never see. But if every outcome counts as an answer, then the promise can never fail, and a promise that can never fail tells me nothing. Either God doesn't keep His word, or He doesn't care, or no one was listening.\""
 whyAsked:
-  tr: |
-    Kişisel travma; Yaqeen, bir yakının ölümünü tetikleyiciler arasında sayar ve travmayı belki de en yaygın yol olarak görür.
+  tr: "Genellikle bir kayıp yüzünden: Ölen bir sevdik, sona eren bir evlilik, gelmeyen bir çocuk. Kaybın acısına, Allah tarafından duyulmadığını hissetmenin acısı eklenir."
   en: "Usually because of a loss: a loved one who died, a marriage that ended, a child who did not come. The pain of the loss is joined by the pain of feeling unheard by God."
 shortAnswer:
-  tr: |
-    Hz. Peygamber hiçbir samimi duanın boşa gitmediğini öğretti: Allah ya onu çabucak verir, ya karşılığını âhiret için saklar, ya da ona denk bir kötülüğü uzaklaştırır. Sahâbe daha çok dua edeceklerini söylediğinde, Allah'ın daha da fazlasını verdiğini söyledi. "İcabet", "her zaman istendiği gibi vermek" değil, "karşılık vermek" demektir. Bu, yası silmeden duayı bir otomat değil, bir ilişki olarak yeniden çerçeveler.
+  tr: "Kur'an Allah'ın *karşılık verdiğini* (*ecâbe*/*istecâbe*) vaat eder ve Hz. Peygamber (s.a.v.), samimi her duaya üç yoldan biriyle karşılık verildiğini açıkladı: istediğin şey, ahiret için saklanan bir mükâfat ya da ona denk bir zararın uzaklaştırılması. Taberî'den Râzî'ye klasik âlimler tam olarak senin itirazınla karşılaştı ve pek çoğu vaadin, her isteği istendiği gibi yerine getirmenin değil, bir karşılığın vaadi olduğu sonucuna vardı. Bu vaadi boş kılmaz: O, Allah'ın ilgisi hakkında bir vaattir; ona güvenebilir ya da güvenmeyebilirsin, ama o hiçbir zaman bir ilaç gibi kontrol edebileceğin bir öngörü değildi. Annen için ettiğin dualar boşa gitmedi ve çok zayıf değildi; onun ölümü de senin suçun değildi. Keder, hatta öfke bile Allah'a getirilebilir; Kur'an, Hz. Yâkûb'un kederi içinde Allah'a şikâyetini korur."
   en: "The Quran promises that God *responds* (*ajāba*/*istajāba*), and the Prophet (pbuh) explained that every sincere du'a is answered in one of three ways: what you asked for, a reward stored for the Hereafter, or the turning away of an equal harm. Classical scholars from al-Tabari to al-Razi faced exactly your objection, and many concluded that the promise is of a response, not of granting every request as asked. That does not make the promise empty: it is a promise about God's care, which you can trust or not, but which was never a prediction you could check like a medicine. Your prayers for your mother were not wasted and were not too weak, and her death was not your fault. Grief and even anger can be brought to God; the Quran preserves the prophet Jacob's complaint to God in his grief."
 layers:
   - kind: religious
@@ -45,8 +42,7 @@ layers:
       Yas içinde Allah'a öfke, dinî başa çıkma araştırmalarında yaygındır. Kur'an Yakub'un yakarışını korur: "Ben derdimi ve hüznümü yalnız Allah'a arz ediyorum" (12:86). Yakarışı iman olarak kabul etmek gerekir.
     en: "Anger at God in grief is common in religious-coping research. The Quran preserves Jacob's lament: \"I complain of my grief to God\" (12:86). Validate lament as faith."
 honestLimits:
-  tr: |
-    Üç sonuç hadisi teselli verir ama sınanamaz; onu güvenilecek bir vaat olarak sunmak gerekir.
+  tr: Üç sonuç hadisi teselli eder, ama sınanamaz; güvenilecek bir vaattir. Bilimsel deneyler Allah'ın varlığı hakkında ne lehte ne aleyhte hiçbir şey söylemez. Pargament'in dinî başa çıkma üzerine çalışmalarına ve Yaqeen'in "Modern Pathways" raporuna henüz başvurulmadı.
   en: The three-outcome hadith comforts, but it cannot be tested; it is a promise to be trusted. The scientific trials say nothing about God's existence one way or the other. Pargament's work on religious coping and the Yaqeen "Modern Pathways" report have not yet been consulted.
 visualizations:
   - id: ideas
@@ -100,6 +96,17 @@ fullAnswer:
       **You are allowed to be angry, and to say so to God.** The prophet Jacob (pbuh), after losing Joseph, said: "I only complain of my suffering and my grief to Allah, and I know from Allah that which you do not know" (12:86). He complained — to God, not about God. Lament is a form of faith.
 
       **If the grief is overwhelming**, talk to someone. Bereavement counselling helps many people, and grief that does not ease after many months, or that comes with thoughts of not wanting to live, deserves professional care (see the support box on this page).
+    tr: |-
+      **Duaların boşa gitmedi.** Hz. Peygamber'in (s.a.v.) öğretisinde samimi hiçbir dua kaybolmaz (Müsned-i Ahmed 11133, aşağıda). O gecelerde Allah'a söylediklerin duyuldu ve saklanıyor.
+
+      **Senin suçun değildi.** Çok az dua etmedin, çok az imanla ya da yanlış sözlerle dua etmedin. İnsanlar her hayatın bir sonu olduğu için ölür ve Allah'ın en sevdiği insanlar — aralarında peygamberler de — sevdiklerini kaybetti.
+
+      **Öfkelenmene ve bunu Allah'a söylemene izin var.** Hz. Yâkûb (a.s.), Hz. Yûsuf'u kaybettikten sonra şöyle dedi: "Ben hüznümü, kederimi ancak Allah'a şikayet ederim ve Allah tarafından sizin bilmediğiniz şeyleri de bilirim." (12:86). Şikâyet etti — Allah'a, Allah'tan değil. Ağıt, imanın bir biçimidir.
+
+      **Keder dayanılmaz hâle gelirse**, biriyle konuş. Yas danışmanlığı pek çok insana yardımcı olur ve aylar sonra hafiflemeyen ya da yaşamak istememe düşünceleriyle gelen keder profesyonel bakımı hak eder (bu sayfadaki destek kutusuna bak).
+    title:
+      en: Sevdiği kişi dualarına rağmen ölen kişi için
+      tr: Sevdiği kişi dualarına rağmen ölen kişi için
   - kind: quran
     en: |-
       **"Call upon Me; I will respond to you."** "And your Lord says, 'Call upon Me; I will respond to you.' Indeed, those who disdain My worship will enter Hell [rendered] contemptible" (40:60). Sura Ghafir is Meccan. The second half links du'a to worship: the people condemned are those too proud to call on God at all, not those whose requests were refused.
@@ -107,6 +114,15 @@ fullAnswer:
       **"I am near."** "And when My servants ask you, [O Muhammad], concerning Me — indeed I am near. I respond to the invocation of the supplicant when he calls upon Me. So let them respond to Me [by obedience] and believe in Me that they may be [rightly] guided" (2:186). This Medinan verse sits in the middle of the verses on fasting in Ramadan. It uses the same word twice: God *responds* (*ujību*), and people should *respond* to Him (*fal-yastajībū*).
 
       **What "respond" means.** The Arabic verb *ajāba* and its form *istajāba* mean to answer or respond to a call. Saheeh International translates them as "respond". Classical scholars discussed whether this means granting the request or something wider. Khalil (2011) shows that al-Tabari, al-Razi and al-Qurtubi all raised the problem of "many calling upon God without receiving a response", and that several exegetes explained the "response" (*ijāba*) as God's reward (*thawāb*) for the act of calling — given "even though He may not grant the request" (Khalil, p. 96).
+    tr: |-
+      **"Bana dua edin ki size karşılık vereyim."** "Halbuki Rabbiniz: "Bana yalvarın, dua edin ki size karşılık vereyim. Çünkü bana ibadet etmekten kibirlenip yüz çevirenler yarın horlanmış olarak cehenneme gireceklerdir." buyurdu." (40:60). Mü'min (Gâfir) Sûresi Mekkîdir. Âyetin ikinci yarısı duayı ibadete bağlar: Kınanan insanlar, istekleri geri çevrilenler değil, Allah'a dua etmeyi hiç kibirlerine yediremeyenlerdir.
+
+      **"Ben çok yakınımdır."** "Şayet kullarım, sana benden sordularsa, gerçekten ben çok yakınımdır. Bana dua edince, duacının duasını kabul ederim. O halde onlar da benim davetime koşsunlar ve bana hakkıyla iman etsinler ki, doğru yola gidebilsinler." (2:186). Bu Medenî âyet, Ramazan orucuyla ilgili âyetlerin ortasında yer alır. Arapçada aynı kelimeyi iki kez kullanır: Allah *karşılık verir* (*ucîbu*) ve insanlar da O'na *karşılık vermelidir* (*fel-yestecîbû*). Elmalılı bu iki kelimeyi "kabul ederim" ve "davetime koşsunlar" diye çevirir.
+
+      **"Karşılık vermek" ne demek?** Arapça *ecâbe* fiili ve onun *istecâbe* biçimi, bir çağrıya cevap vermek ya da karşılık vermek anlamına gelir. Saheeh International bunları İngilizcede "respond" (karşılık vermek) olarak çevirir. Klasik âlimler bunun isteği yerine getirmek mi yoksa daha geniş bir şey mi olduğunu tartıştı. Khalil (2011), Taberî'nin, Râzî'nin ve Kurtubî'nin hepsinin "pek çok kişinin Allah'a dua edip karşılık almaması" problemini gündeme getirdiğini ve birkaç müfessirin "karşılığı" (*icâbe*), dua etme fiili için Allah'ın verdiği sevap (*sevâb*) olarak açıkladığını — "isteği yerine getirmese bile" verilen — gösterir (Khalil, s. 96).
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **Three ways every du'a is answered.** Abu Saʿid al-Khudri (ra) reports the Prophet (pbuh) as saying that no Muslim calls on God, without sin or cutting family ties, except that God gives him one of three: "He will quickly fulfill his supplication", "He will store it for him in the Hereafter", or "He will divert an evil from him similar to it". The Companions said: "In that case we will ask for more." He replied: "Allah has even more" (Musnad Ahmad 11133; al-Arnaʾut: *isnāduhu jayyid*, "its chain is good"; authenticated by al-Hakim; al-Mundhiri: "with good chains"; also in al-Adab al-Mufrad 710 from the same Companion, graded *ṣaḥīḥ* by al-Albani — as reported on hadithunlocked.com. Al-Tirmidhi 3573, from ʿUbada ibn al-Samit, is a partial parallel with two outcomes — granting, or turning away a similar harm — graded *ḥasan ṣaḥīḥ gharīb* by al-Tirmidhi).
@@ -118,6 +134,19 @@ fullAnswer:
       **What can block a du'a.** The Prophet (pbuh) described "a person who travels widely, his hair disheveled and covered with dust", who "lifts his hand towards the sky (and thus makes the supplication): "O Lord, O Lord," whereas his diet is unlawful, his drink is unlawful, and his clothes are unlawful and his nourishment is unlawful. How can then his supplication be accepted?" ({hadith:muslim:1015}). Sins and unlawful earnings are named as obstacles; the hadith of the three outcomes also names sin and cutting family ties.
 
       **Du'a and salah.** *Salah* is the ritual prayer, five times a day, with set words and movements. *Du'a* is calling on God in your own words, at any time, for anything. The saying "du'a is worship" (*al-duʿāʾ huwa al-ʿibāda*) is widely cited by the exegetes as a hadith (Khalil, p. 96); its collection and grade have not yet been checked. Its point is that calling on God is itself an act of worship, whatever the outcome.
+    tr: |-
+      **Her duaya üç yoldan biriyle karşılık verilir.** Ebû Saîd el-Hudrî (r.a.), Hz. Peygamber'in (s.a.v.) şöyle buyurduğunu aktarır: Günah ya da akrabalık bağını koparma içermeyen bir duayla Allah'a yalvaran hiçbir Müslüman yoktur ki Allah ona şu üçten birini vermesin: "Duasını çabucak yerine getirir", "Onu ahirette onun için saklar" ya da "Ondan ona denk bir kötülüğü uzaklaştırır". Sahâbîler, "O hâlde daha çok isteriz" dediler. O da şöyle cevap verdi: "Allah'ın (lütfu) daha da çoktur" (Müsned-i Ahmed 11133; Arnaût: *isnâdühû ceyyid*, "senedi iyidir"; Hâkim sahih saydı; Münzirî: "iyi senetlerle"; ayrıca aynı sahâbîden *el-Edebü'l-Müfred* 710'da, Elbânî tarafından *sahih* olarak derecelendirildi — hadithunlocked.com'un aktardığına göre. Ubâde b. Sâmit'ten gelen Tirmizî 3573, iki sonuçla — yerine getirme ya da benzer bir zararı uzaklaştırma — kısmi bir paralel rivayettir ve Tirmizî tarafından *hasen sahih garîb* olarak derecelendirildi).
+
+      **"Arnaût tarafından *ceyyid* olarak derecelendirildi" ne demek?** Hadis âlimleri her rivayeti râviler zincirine göre değerlendirir. *Sahih*, her râvinin güvenilir ve zincirin kesintisiz olduğu anlamına gelir; *hasen* (güzel, iyi) ise zincirin kabul edilebilir olduğu, ama bir râvinin zabtının biraz daha zayıf olduğu anlamına gelir. Şuayb el-Arnaût (ö. 2016) ve Muhammed Nâsırüddîn el-Elbânî (ö. 1999), büyük külliyatları derecelendiren modern hadis âlimleriydi. *Ceyyid* ("iyi"), *sahih* düzeyinde ya da ona yakın bir sened için kullanılır. *Hasen* ya da *ceyyid* bir hadis delil olarak kabul edilir; birkaç değerlendiricinin ittifakı ve paralel senetler bu hadisi güçlendirir.
+
+      **Vazgeçme.** "Sizden birinin duası, acele etmediği sürece ('Allah'a dua ettim ama isteğim yerine getirilmedi' diyerek) (Allah tarafından) kabul edilir" ({hadith:bukhari:6340}).
+
+      **Duayı ne engelleyebilir?** Hz. Peygamber (s.a.v.), "uzun yolculuk yapan, saçı başı dağınık ve toza bulanmış" bir adamı anlattı; o adam "ellerini göğe kaldırır (ve şöyle dua eder): "Ya Rab, ya Rab," oysa yediği haramdır, içtiği haramdır, giydiği haramdır ve haramla beslenmiştir. O hâlde duası nasıl kabul edilsin?" ({hadith:muslim:1015}). Günahlar ve haram kazanç engel olarak sayılır; üç sonuç hadisi de günahı ve akrabalık bağını koparmayı sayar.
+
+      **Dua ve namaz.** *Namaz* (*salât*), belirli sözler ve hareketlerle günde beş kez kılınan ibadettir. *Dua* ise herhangi bir zamanda, herhangi bir şey için kendi sözlerinle Allah'a yalvarmaktır. "Dua ibadettir" (*ed-duâu hüve'l-ibâde*) sözü, müfessirler tarafından yaygın olarak bir hadis olarak zikredilir (Khalil, s. 96); hangi külliyatta geçtiği ve derecesi henüz kontrol edilmedi. Vurgusu şudur: Allah'a yalvarmak, sonuç ne olursa olsun, başlı başına bir ibadettir.
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: |-
       **Ibn al-Qayyim: du'a is a cause within God's decree.** Ibn al-Qayyim (d. 1350), in *al-Dāʾ wa-l-Dawāʾ*, calls du'a "the enemy of distress and calamity; it fights them off and then treats them." He describes three cases: when du'a is stronger than the calamity, "it repels it"; when it is weaker, "the calamity overpowers the du'a but its effects are weakened"; when they are equal, "neither one is able to overpower the other" (trans. Umarji). In plain words: God decrees outcomes together with their causes, and du'a is one of those causes — like medicine for illness. Asking does not fight God's decree; it is part of how the decree unfolds.
@@ -125,6 +154,15 @@ fullAnswer:
       **Ibn ʿAtaʾillah: in what He chooses, when He chooses.** Ibn ʿAtaʾillah al-Iskandari (d. 1309), the Egyptian Sufi master, wrote in his *Ḥikam*: "If, in spite of intense supplication, there is a delay in the timing of the Gift, let that not be the cause for your despair. For He has guaranteed you a response in what He chooses for you, not in what you choose for yourself, and at the time He desires, not the time you desire" (aphorism 6, as quoted by Abu Aaliyah; translator not named).
 
       **The Sufi emphasis: nearness, not results.** Khalil reports that al-Razi held the purpose of petition to be "proximity" (*qurba*) to God rather than obtaining the request, and quotes an early sage: the "permission (from God) to make a prayer of petition is better for the servant than the gift" (p. 104). Others listed conditions: Sahl al-Tustari counted "lawful food" among them, and Ibn ʿAtaʾ called presence of heart the "wings of du'a" (pp. 98–99).
+    tr: |-
+      **İbn Kayyim: Dua, Allah'ın takdiri içinde bir sebeptir.** İbn Kayyim (ö. 1350), *ed-Dâ' ve'd-Devâ'*da duayı "sıkıntının ve belanın düşmanı; onları savar, sonra da tedavi eder" diye niteler. Üç durumu anlatır: Dua beladan güçlü olduğunda "onu geri çevirir"; daha zayıf olduğunda "bela duaya galip gelir, ama etkileri zayıflar"; eşit olduklarında "hiçbiri diğerine galip gelemez" (Umarji'nin çevirisi). Sade bir dille: Allah sonuçları sebepleriyle birlikte takdir eder ve dua da bu sebeplerden biridir — hastalık için ilaç gibi. İstemek Allah'ın takdiriyle savaşmak değildir; takdirin gerçekleşme yolunun bir parçasıdır.
+
+      **İbn Atâullah: O'nun seçtiğinde, O'nun seçtiği zamanda.** Mısırlı sûfi üstad İbn Atâullah el-İskenderî (ö. 1309), *el-Hikem*'inde şöyle yazdı: "Yoğun duana rağmen ihsanın zamanında bir gecikme olursa, bu ümitsizliğine sebep olmasın. Çünkü O sana kendin için seçtiğin şeyde değil, senin için seçtiği şeyde; senin istediğin zamanda değil, O'nun istediği zamanda karşılık vermeyi garanti etmiştir" (6. hikmet, Abu Aaliyah'ın alıntıladığı şekliyle; çevirmenin adı verilmemiş).
+
+      **Sûfi vurgusu: sonuçlar değil, yakınlık.** Khalil, Râzî'nin duanın amacını isteği elde etmek değil, Allah'a "yakınlık" (*kurbe*) olarak gördüğünü aktarır ve erken dönem bir hakîmden şunu alıntılar: "(Allah'tan) dua etme izni, kul için ihsandan daha hayırlıdır" (s. 104). Başkaları şartlar saydı: Sehl et-Tüsterî bunlar arasında "helal lokma"yı saydı ve İbn Atâ kalp huzurunu "duanın kanatları" olarak nitelendirdi (s. 98–99).
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: reasoning
     en: |-
       **The objection at full strength.** If granting, storing and averting all count as answers, then no possible outcome counts against the promise. A claim that rules nothing out says nothing about the world. So "God answers every prayer" is empty.
@@ -136,45 +174,84 @@ fullAnswer:
       **Reply 3: the tradition did not hide the problem.** Al-Tabari, al-Razi and al-Qurtubi all asked why many prayers seem unanswered (Khalil, p. 94). Al-Qurtubi concluded that the divine response "does not require a response in an absolute sense" (p. 97). Taking the promise as "everything you ask, as you ask it" is not how these classical exegetes read it.
 
       *Limit:* none of these replies will persuade someone who does not already have reasons to trust God. For a grieving person, the honest position is that the promise is to be trusted, not verified.
+    tr: |-
+      **İtiraz tam gücüyle.** Yerine getirme, saklama ve uzaklaştırma hepsi karşılık sayılıyorsa, hiçbir olası sonuç vaadin aleyhine delil sayılmaz. Hiçbir şeyi dışlamayan bir iddia dünya hakkında hiçbir şey söylemez. Öyleyse "Allah her duaya karşılık verir" sözü boştur.
+
+      **Cevap 1: Bu bir öngörü değil, bir ilgi vaadidir.** Bir anne ya da babanın "seninle ilgileneceğim" sözü, bir isteği geri çevirdiğinde yanlışlanmış olmaz; ilgilenmeyi bıraktığında yanlışlanmış olur. Üç sonuç hadisi, Allah'ın karşılığının ne tür bir ilgi biçimi aldığını söyler — hangisinin gerçekleştiğini görebileceğini iddia etmez. Bu bir ilişki hakkında bir iddiadır ve doğruluğu, başka yerlerde savunulduğu gibi Allah'ın var ve iyi olup olmadığına bağlıdır (Allah'ın varlığı ve acı üzerine sayfalara bak).
+
+      **Cevap 2: Vaat bazı şeyleri dışlar.** Samimi bir duanın görmezden gelinmesini, boşa gitmesini ve Allah'ın kayıtsız olmasını dışlar. Ayrıca bir müminin ne *yapması* gerektiğini söyler: istemeye devam etmek ({hadith:bukhari:6340}) ve karşılığın biçimini Allah'a bırakmak. Nasıl yaşadığını şekillendiren bir vaat, sonuçlarını ölçemesen bile boş değildir.
+
+      **Cevap 3: Gelenek problemi gizlemedi.** Taberî, Râzî ve Kurtubî, pek çok duanın neden karşılıksız göründüğünü sordu (Khalil, s. 94). Kurtubî, ilahi karşılığın "mutlak anlamda bir karşılığı gerektirmediği" sonucuna vardı (s. 97). Vaadi "istediğin her şey, istediğin gibi" olarak anlamak, bu klasik müfessirlerin onu okuma biçimi değildir.
+
+      *Sınır:* Bu cevapların hiçbiri, Allah'a güvenmek için zaten gerekçeleri olmayan birini ikna etmeyecektir. Yas tutan biri için dürüst tutum şudur: Vaat doğrulanacak değil, güvenilecek bir şeydir.
+    title:
+      en: Sınanamayan bir vaadin anlamı var mı?
+      tr: Sınanamayan bir vaadin anlamı var mı?
   - kind: science
     en: |-
       **Trials of intercessory prayer found no measurable effect.** [Established for the trials; their meaning is debated.] In the STEP trial (Benson et al., 2006), 1,802 heart-bypass patients in six US hospitals were randomly assigned. Complications occurred in 52% (315/604) of patients who received prayer and 51% (304/597) of those who did not (relative risk 1.02, 95% CI 0.92–1.15). Patients who were told they would definitely be prayed for had *more* complications than those who received prayer but were told it was uncertain: 59% (352/601) against 52% (RR 1.14, CI 1.02–1.28). A Cochrane review (Roberts, Ahmed and Davison, 2009) of ten trials with 7,646 patients found "no clear effect of intercessory prayer on death" (RR 1.00) and called the findings "equivocal".
 
       **What this means for Muslims.** Islamic theology does not describe du'a as a mechanism that works the same way every time, regardless of who prays, for whom and with what wisdom; it describes it as a request to a Person who chooses (Ibn ʿAtaʾillah; Khalil). Trials test whether prayer works like a drug. That they found no drug-like effect is consistent with the classical view, though a skeptic will say it is also consistent with no one listening. *Limit:* no theological source read here explicitly discusses these trials; this link is the site's own reasoning.
+    tr: |-
+      **Başkası için edilen dua üzerine yapılan deneyler ölçülebilir bir etki bulmadı.** [Established, deneyler için; anlamları tartışmalı.] STEP deneyinde (Benson ve ark., 2006), ABD'deki altı hastanede 1.802 baypas hastası rastgele gruplara ayrıldı. Komplikasyonlar dua edilen hastaların %52'sinde (315/604), dua edilmeyenlerin %51'inde (304/597) görüldü (göreli risk 1,02, %95 GA 0,92–1,15). Kendileri için kesinlikle dua edileceği söylenen hastalarda, dua edilen ama bunun belirsiz olduğu söylenen hastalara göre *daha fazla* komplikasyon görüldü: %59 (352/601) karşısında %52 (GR 1,14, GA 1,02–1,28). On deneyi ve 7.646 hastayı kapsayan bir Cochrane derlemesi (Roberts, Ahmed ve Davison, 2009), "başkası için edilen duanın ölüm üzerinde açık bir etkisi olmadığını" buldu (GR 1,00) ve bulguları "belirsiz" olarak nitelendirdi.
+
+      **Bunun Müslümanlar için anlamı.** İslam kelâmı duayı, kimin, kimin için ve hangi hikmetle dua ettiğinden bağımsız olarak her seferinde aynı şekilde işleyen bir mekanizma olarak tarif etmez; onu seçen bir Zât'a yöneltilmiş bir istek olarak tarif eder (İbn Atâullah; Khalil). Deneyler duanın bir ilaç gibi işleyip işlemediğini sınar. İlaç gibi bir etki bulmamaları klasik görüşle tutarlıdır; ama bir şüpheci bunun dinleyen kimsenin olmamasıyla da tutarlı olduğunu söyleyecektir. *Sınır:* Burada okunan hiçbir teolojik kaynak bu deneyleri açıkça tartışmıyor; bu bağlantı sitenin kendi akıl yürütmesidir.
+    title:
+      en: Araştırmalar ne diyor?
+      tr: Araştırmalar ne diyor?
   - kind: practice
     title:
       en: What Muslims do when a prayer seems unanswered
+      tr: Bir dua karşılıksız görünüyorsa Müslümanlar ne yapar?
     en: |-
       - **Keep asking**, without saying "I prayed and was not answered" ({hadith:bukhari:6340}).
       - **Ask for what is good**, not only for a fixed outcome — leaving the form to God (Ibn ʿAtaʾillah).
       - **Look at the obstacles** that are in one's control: unlawful income, unresolved wrongs, broken family ties ({hadith:muslim:1015}; Musnad Ahmad 11133).
       - **Turn the du'a into presence**: tell God honestly what you feel, including grief and anger (12:86).
       - **Do what can be done** alongside the du'a — medical care, practical help — since du'a is one cause among others (Ibn al-Qayyim).
+    tr: |-
+      - **İstemeye devam et**, "dua ettim ama karşılık verilmedi" demeden ({hadith:bukhari:6340}).
+      - **Yalnızca belirli bir sonucu değil, hayırlı olanı iste** — biçimini Allah'a bırakarak (İbn Atâullah).
+      - **Kendi kontrolündeki engellere bak:** haram kazanç, giderilmemiş haksızlıklar, kopmuş akrabalık bağları ({hadith:muslim:1015}; Müsned-i Ahmed 11133).
+      - **Duayı huzura dönüştür:** Allah'a keder ve öfke dahil ne hissettiğini dürüstçe söyle (12:86).
+      - **Duanın yanında yapılabileni yap** — tıbbi bakım, pratik yardım — çünkü dua, diğerleri arasında bir sebeptir (İbn Kayyim).
 followUps:
   - q:
       en: If any outcome counts as an answer, how is that different from no answer at all?
+      tr: Her sonuç bir karşılık sayılıyorsa, bunun hiç karşılık olmamasından farkı ne?
     a:
       en: The promise rules out being ignored or wasted, and it tells you what to do — keep asking, trust God's choice. It is not a prediction you can check; it is a claim about God's care that depends on whether God is real and good.
+      tr: Vaat görmezden gelinmeyi ya da boşa gitmeyi dışlar ve sana ne yapacağını söyler — istemeye devam et, Allah'ın seçimine güven. Kontrol edebileceğin bir öngörü değildir; Allah'ın gerçek ve iyi olup olmamasına bağlı olan, O'nun ilgisi hakkında bir iddiadır.
   - q:
       en: What does *istajāba* mean?
+      tr: "*İstecâbe* ne demek?"
     a:
       en: '"To respond" to a call. Classical scholars said the response can be granting, reward or protection, not always the thing asked (Khalil).'
+      tr: Bir çağrıya "karşılık vermek". Klasik âlimler karşılığın her zaman istenen şey değil, yerine getirme, sevap ya da koruma olabileceğini söyledi (Khalil).
   - q:
       en: Are there things that block du'a?
+      tr: Duayı engelleyen şeyler var mı?
     a:
       en: The hadith names unlawful food, drink and clothing ({hadith:muslim:1015}), sin and cutting family ties (Musnad Ahmad 11133), and impatience ({hadith:bukhari:6340}).
+      tr: Hadis haram yiyeceği, içeceği ve giyeceği ({hadith:muslim:1015}), günahı ve akrabalık bağını koparmayı (Müsned-i Ahmed 11133) ve aceleciliği ({hadith:bukhari:6340}) sayar.
   - q:
       en: How is du'a different from salah?
+      tr: Dua namazdan nasıl farklı?
     a:
       en: Salah is the five set daily prayers; du'a is calling on God in your own words, any time.
+      tr: Namaz günde beş vakit kılınan belirli ibadettir; dua ise herhangi bir zamanda kendi sözlerinle Allah'a yalvarmaktır.
   - q:
       en: What does "graded *jayyid* by al-Arnaʾut" mean?
+      tr: '"Arnaût tarafından *ceyyid* olarak derecelendirildi" ne demek?'
     a:
       en: A modern hadith scholar judged the chain good (*isnāduhu jayyid*). Several graders and parallel versions support this hadith.
+      tr: Modern bir hadis âlimi senedi iyi (*isnâdühû ceyyid*) buldu. Birkaç değerlendirici ve paralel rivayetler bu hadisi destekliyor.
   - q:
       en: Was it my fault that my prayer wasn't answered?
+      tr: Duamın karşılık bulmaması benim suçum muydu?
     a:
       en: No. The best of people lost those they loved despite their prayers.
+      tr: Hayır. İnsanların en hayırlıları da dualarına rağmen sevdiklerini kaybetti.
 legacySources:
   - *a1
   - *a2
@@ -184,3 +261,4 @@ legacySources:
   - *a6
   - *a7
   - *a8
+translatedFrom: docs/research/tr/Q15.md

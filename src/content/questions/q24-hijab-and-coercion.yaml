@@ -15,16 +15,13 @@ verses:
   - 2:256
   - 24:31
 steelman:
-  tr: |
-    Bazı devletler kadınları örtünmeye zorluyor (İran). Diğerleri yasakladı (2010–13'e kadar Türkiye, okullarda Fransa). Bazı aileler kızlarına baskı yapıyor. Bütün bunların içinde kadının kendi vicdanı nerede?
+  tr: "\"Bir devlet kadınları örtünmeye zorluyor ve onları sokakta tutukluyor; Mahsa Amini 2022'de İran'ın ahlak polisinin gözaltısında öldü. Başka bir devlet, Türkiye'nin on yıllar boyunca yaptığı gibi, başörtüsünü üniversitelerden ve kamu görevlerinden yasakladı ve Fransa okullarda hâlâ yasaklıyor. Bazı aileler kızlarını onu takmaya zorluyor; diğerleri çıkarmaya. Her durumda bir kadının ne giyeceğine başka biri karar veriyor. Ve Kur'an hiçbir zaman açıkça 'saçınızı örtün' demiyorsa, âlimler neden bunun farz olduğunu söylüyor?\""
   en: "\"One state forces women to cover and arrests them on the street; Mahsa Amini died in the custody of Iran's morality police in 2022. Another state banned the headscarf from universities and public jobs, as Türkiye did for decades, and France still bans it in schools. Some families force their daughters to wear it; others force them to take it off. In every case, someone else decides what a woman wears. And if the Quran never says 'cover your hair' in so many words, why do scholars say it is obligatory?\""
 whyAsked:
-  tr: |
-    Türkiye'deki yasaklar ve aile baskısı, her iki taraftaki kadınları da yaraladı.
+  tr: Kadınlar her iki yöndeki zorlamadan da zarar gördü — yasaklardan ve zorunluluklardan, devletlerden ve ailelerden. Genç Müslüman kadınlar örtünmenin gerçekten gerekli olup olmadığını ve baskı evden geldiğinde ne yapmaları gerektiğini soruyor.
   en: Women have been hurt by coercion in both directions — by bans and by mandates, by states and by families. Young Muslim women ask whether covering is really required, and what to do when the pressure is at home.
 shortAnswer:
-  tr: |
-    "Dinde zorlama yoktur" (2:256). Zorla örtünme ibadet olarak değerini kaybeder ve yasaklar vicdanı çiğner. Sünnî ve Şiî âlimlerin büyük çoğunluğu saçı örtmenin farz olduğunu kabul eder; modern bir azınlık katılmaz. Kadınlar iki görüşü de duymayı ve özgürce seçmeyi hak eder.
+  tr: "Dört Sünnî mezhep, hür bir kadının yakın ailesi dışındaki erkeklerin yanında yüzü ve elleri dışında bütün bedenini örtmesi gerektiğini kabul eder; buna saç da dahildir. Bunu, mümin kadınlara *himâr*larını — Arapçada baş örtüsü anlamına gelen bir kelime — yakalarının üzerine örtmelerini söyleyen 24:31'e, 33:59'a ve hadislere dayandırırlar. Modern bir azınlık (örneğin Muhammed Şahrûr) buna katılmaz. Onu takıp takmamak Allah önünde bir vicdan meselesidir; onu kimin zorla uygulayabileceği ayrı bir sorudur. Kur'an \"Dinde zorlama yoktur\" der (2:256); Mısır Dâru'l-İftâsı, bir babanın kızına nasihat etmesi gerektiğini, ama onu zorlamaması, dövmemesi ya da ona zarar vermemesi gerektiğini söyler, çünkü \"her türlü zorlama onu ikiyüzlülüğe götürür\". Yasaklar da kadınlara zarar verir: Fransa'nın 2004 okul yasağı Müslüman kızların ortaöğretimini azalttı. Bu sitenin kesin çizgisi, her iki yöndeki zorlamaya karşıdır."
   en: "The four Sunni schools hold that a free woman must cover all her body except her face and hands before men outside her close family, which includes the hair. They base this on 24:31, which tells believing women to draw their *khimār* — a word that in Arabic meant a head covering — over their chests, on 33:59, and on the hadith. A modern minority (for example Muhammad Shahrur) disagrees. Whether to wear it is a question of conscience before God; who may enforce it is a separate question. The Quran says \"there shall be no compulsion in [acceptance of] the religion\" (2:256); Egypt's Dar al-Iftaʾ says a father must advise but must not force, beat or harm his daughter, because \"any compulsion will lead her to be hypocritical\". Bans harm women too: France's 2004 school ban reduced Muslim girls' secondary education. This site's firm line is against coercion in either direction."
 layers:
   - kind: religious
@@ -51,8 +48,7 @@ layers:
       Her iki yöndeki zorlama da kırgınlık ve iman kaybı doğurur.
     en: Coercion in either direction breeds resentment and loss of faith.
 honestLimits:
-  tr: |
-    Azınlık görüşünü eşit ağırlıkta sunmak yanıltıcıdır. Sitenin kesin çizgisi zorlamaya karşıdır.
+  tr: Saçı örtmenin farz olduğu yönündeki çoğunluk görüşü güçlü ve eskidir; azınlığı eşitmiş gibi sunmak yanıltıcı olur. 2:256'yı Müslümanlar arasında zorla uygulatmaya uygulamak, modern âlimlerin desteklediği ama her klasik âlimin desteklemediği bir genişletmedir. Zorlama ve iman hakkındaki araştırma fikir verir, ama kesin değildir. Atay'ın kendi metnine, Apaydın'ın ve Karaman'ın makalelerine, Kurtubî'ye ve Leila Ahmed'e henüz başvurulmadı.
   en: The majority view that covering the hair is obligatory is strong and old; presenting the minority as equal would mislead. Applying 2:256 to enforcement among Muslims is an extension, supported by modern scholars but not by every classical one. The research on coercion and faith is suggestive, not conclusive. Atay's own text, Apaydın's and Karaman's articles, al-Qurtubi and Leila Ahmed have not yet been consulted.
 visualizations:
   - id: ideas
@@ -99,6 +95,13 @@ fullAnswer:
       **If your family is pressuring you — to wear it, or to take it off —** you are not alone, and your own relationship with God matters. Practical steps: talk to someone you trust, outside the conflict if possible — a teacher, a counsellor, an imam or a scholar known for gentleness. Learn what the scholars actually say (below): even those who hold covering obligatory say it must not be forced. If pressure turns into threats, violence, or confinement, that is abuse, and the helplines on the page "Does Islam treat women unequally?" can help (in the UK, the Muslim Women's Network Helpline also handles forced marriage and honour-based abuse: 0800 999 5786).
 
       **If you wear it and have been mocked, excluded or banned,** that was a wrong done to you, not a failure on your part.
+    tr: |-
+      **Ailen sana baskı yapıyorsa — takman için ya da çıkarman için —** yalnız değilsin ve Allah'la kendi ilişkin önemlidir. Pratik adımlar: Güvendiğin biriyle, mümkünse çatışmanın dışında biriyle konuş — bir öğretmen, bir danışman, bir imam ya da yumuşaklığıyla bilinen bir âlim. Âlimlerin gerçekte ne söylediğini öğren (aşağıda): Örtünmeyi farz sayanlar bile onun zorla yaptırılmaması gerektiğini söyler. Baskı tehdide, şiddete ya da kapatılmaya dönüşürse bu istismardır ve "İslam kadına eşitsiz mi davranıyor?" sayfasındaki yardım hatları yardımcı olabilir (Birleşik Krallık'ta Müslüman Kadınlar Ağı Yardım Hattı zorla evlendirme ve namus temelli istismarla da ilgilenir: 0800 999 5786).
+
+      **Örtünüyorsan ve alay edildiysen, dışlandıysan ya da yasakla karşılaştıysan,** bu sana yapılmış bir haksızlıktı, senin bir başarısızlığın değil.
+    title:
+      en: Kalp ve akıl için
+      tr: Kalp ve akıl için
   - kind: quran
     en: |-
       **24:31.** "And tell the believing women to reduce [some] of their vision and guard their private parts and not expose their adornment except that which [necessarily] appears thereof and to wrap [a portion of] their headcovers over their chests and not expose their adornment except to their husbands, their fathers…" (24:31), from Sura al-Nur, Medinan, addressed to believing women after a parallel command to men (24:30). The word Saheeh translates "headcovers" is *khumur*, plural of *khimār*; "chests" translates *juyūb*, openings at the neck of a garment.
@@ -106,11 +109,27 @@ fullAnswer:
       **33:59.** "O Prophet, tell your wives and your daughters and the women of the believers to bring down over themselves [part] of their outer garments. That is more suitable that they will be known and not be abused" (33:59), Medinan. The word for "outer garments" is *jalābīb* (singular *jilbāb*). The verse gives a reason: to be recognised and not harassed.
 
       **What the verses say, and what they do not.** 24:31 assumes that women wore a *khimār* and tells them to draw it over the chest. It does not separately say "cover your hair"; the obligation to cover the hair comes from what *khimār* meant and how the first Muslims understood the verse.
+    tr: |-
+      **24:31.** "Mümin kadınlara da söyle: Gözlerini (harama bakmaktan) korusunlar; namus ve iffetlerini esirgesinler. Görünen kısımları müstesna olmak üzere, zinetlerini teşhir etmesinler. Baş örtülerini, yakalarının üzerine (kadar) örtsünler. Kocaları, babaları…" (24:31), Nûr Sûresi'nden, Medenî; erkeklere verilen paralel bir emirden (24:30) sonra mümin kadınlara hitap eder. Saheeh'in İngilizcede "headcovers", Elmalılı'nın "baş örtüleri" diye çevirdiği kelime *himâr*ın çoğulu *humur*dur; Saheeh'in "chests" (göğüsler), Elmalılı'nın "yakalar" diye çevirdiği kelime ise bir giysinin boyun kısmındaki açıklıklar olan *cuyûb*dur.
+
+      **33:59.** "Ey peygamber! Hanımlarına, kızlarına ve müminlerin kadınlarına hep söyle de cilbablarından (dış elbiselerinden) üzerlerini sımsıkı örtsünler. Bu onların tanınmalarına, tanınıp da eziyet edilmemelerine en elverişli olandır." (33:59), Medenî. "Dış elbiseler" için kullanılan kelime *celâbîb*dir (tekili *cilbâb*). Âyet bir sebep verir: tanınmak ve tacize uğramamak.
+
+      **Âyetler ne söylüyor, ne söylemiyor?** 24:31, kadınların bir *himâr* giydiğini varsayar ve onu yakanın üzerine örtmelerini söyler. Ayrıca "saçınızı örtün" demez; saçı örtme yükümlülüğü *himâr*ın ne anlama geldiğinden ve ilk Müslümanların âyeti nasıl anladığından gelir.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **The women of Medina.** Aisha (ra) said: "May Allah bestow His Mercy on the early emigrant women". When the verse was revealed, "they tore their Murat (woolen dresses or waist-binding clothes or aprons etc.)" and "covered their heads and faces with those torn Muruts" ({hadith:bukhari:4758}). The words in brackets are the translator's.
 
       **The word *khimār*.** Ibn Kathir defines it as "something that covers, and is what is used to cover the head". Akram Nadwi argues that Arabic dictionaries and pre- and post-Islamic poetry use it for a head covering, that hadith speak of wiping over the *khimār* in ablution — so that, in his words, "The khimar in both hadiths cannot mean the covering of the chest" — and that a narration from Aisha ({hadith:abudawud:641}; al-Albani: *ṣaḥīḥ*) says God does not accept a grown woman's prayer without a *khimār*. He reports that scholars "unanimously agreed on the obligation for a woman to cover her head during prayer" (Nadwi, 2024).
+    tr: |-
+      **Medine kadınları.** Hz. Âişe (r.a.) şöyle dedi: "Allah ilk muhacir kadınlara rahmet etsin". Âyet indiğinde, "mırtlarını (yünlü elbiselerini ya da bel bağlarını ya da önlüklerini vb.) yırttılar" ve "bu yırtılmış mırtlarla başlarını ve yüzlerini örttüler" ({hadith:bukhari:4758}). Parantez içindeki sözler çevirmenindir.
+
+      ***Himâr* kelimesi.** İbn Kesîr onu "örten bir şey, başı örtmek için kullanılan şey" olarak tanımlar. Ekrem Nedvî, Arapça sözlüklerin ve İslam öncesi ve sonrası şiirin onu bir baş örtüsü için kullandığını, hadislerin abdestte *himâr*ın üzerine meshetmekten söz ettiğini — öyle ki, onun ifadesiyle, "Her iki hadisteki himâr göğsün örtüsü anlamına gelemez" — ve Hz. Âişe'den gelen bir rivayetin ({hadith:abudawud:641}; Elbânî: *sahih*) Allah'ın ergen bir kadının namazını *himâr* olmadan kabul etmediğini söylediğini savunur. Âlimlerin "kadının namazda başını örtmesinin farz olduğu konusunda ittifak ettiğini" aktarır (Nedvî, 2024).
+    title:
+      en: İlk Müslümanlar bunu nasıl anladı?
+      tr: İlk Müslümanlar bunu nasıl anladı?
   - kind: fiqh
     en: |-
       **The hair: obligatory in the four Sunni schools.** The school texts below make all of a free woman's body *ʿawra* (to be covered) before non-relatives except the face and hands, which includes the hair (IslamOnline). Nadwi's report of unanimous agreement concerns covering the head in prayer. The Jaʿfari (Twelver Shiʿi) position has not yet been checked.
@@ -123,6 +142,20 @@ fullAnswer:
       So the face veil (*niqāb*) is obligatory in a view reported from Imam Ahmad and not required in the Hanafi and Maliki schools; the hair is required in all four.
 
       **Not covering is not unbelief.** In Sunni theology, a Muslim who fails to fulfil an obligation she still accepts does not leave Islam; no named source for this specific case was read here.
+    tr: |-
+      **Saç: dört Sünnî mezhepte farz.** Aşağıdaki mezhep metinleri, hür bir kadının yüzü ve elleri dışındaki bütün bedenini yabancı erkeklerin yanında *avret* (örtülmesi gereken) sayar; buna saç da dahildir (IslamOnline). Nedvî'nin aktardığı ittifak, namazda başın örtülmesiyle ilgilidir. Caferî (On İki İmam Şiîliği) görüşü henüz kontrol edilmedi.
+
+      **Yüz ve eller: mezhepler ayrılır.** İbn Kesîr, İbn Mes'ûd'un (r.a.) "Görünen kısımları müstesna" ifadesini "elbiseler ve dış giysiler gibi" olarak okuduğunu; İbn Abbâs'ın (r.a.) ise yüz ve eller olarak okuduğunu aktarır (IslamOnline). IslamOnline'ın alıntıladığı metinlere göre:
+      - **Hanefî** (*el-İhtiyâr*): Hür bir kadının "günaha düşme korkusu olmadığı sürece yüzüne ve ellerine" bakılabilir; Ebû Hanîfe ayakları da istisna tuttu.
+      - **Mâlikî** (Derdîr, *Akrebü'l-Mesâlik*): Yabancı erkeklerin yanında *avret*i (örtülmesi gereken yeri) "yüzü ve elleri dışında bütün bedeninin uzuvlarıdır".
+      - **Şâfiî** (Şîrâzî, *el-Mühezzeb*): "Yüzü ve elleri dışında bütün bedeni avrettir"; Nevevî'nin kollar hakkında "iki dirseğe kadar" dediği aktarılır. Sonraki Şâfiîlerin peçe hakkındaki görüşleri henüz kontrol edilmedi.
+      - **Hanbelî** (İbn Kudâme, *el-Muğnî*): Namazda yüzünü açabilir; "İmam Ahmed'e göre nikab… farzdır" (IslamOnline).
+      Yani peçe (*nikâb*) İmam Ahmed'den aktarılan bir görüşte farzdır, Hanefî ve Mâlikî mezheplerinde ise gerekli değildir; saç dördünde de gereklidir.
+
+      **Örtünmemek küfür değildir.** Sünnî kelâmda, hâlâ kabul ettiği bir farzı yerine getirmeyen bir Müslüman İslam'dan çıkmaz; bu özel durum için adı belli bir kaynak burada okunmadı.
+    title:
+      en: Dört mezhep ne diyor?
+      tr: Dört mezhep ne diyor?
   - kind: scholars
     en: |-
       **Muhammad Shahrur** (Syria, d. 2019) read the Quran through a "theory of limits" (*ḥudūd*): God sets a minimum and a maximum, and Muslims may act anywhere between. For women's dress, he took the minimum to be covering *al-juyūb* — which he read as regions of the body such as the area of the breast and under the armpits — and the lower intimate area, and the maximum to be covering everything except the face and palms (Khikmatiar, 2019, abstract, paraphrased).
@@ -130,6 +163,15 @@ fullAnswer:
       **Hüseyin Atay** (Türkiye) treats the Quran as the only unaltered source and critically reviews inherited scholarship (Atçeken, 2008).
 
       **Assessment.** The minority view relies on reading *khimār* in a general sense and on setting aside the hadith and the understanding of the first generation. The majority relies on the meaning of the word, the report of the Medinan women (Bukhari 4758), and the four schools' texts. Presenting the two as equally weighted would be misleading; presenting the minority as non-existent would also be untrue.
+    tr: |-
+      **Muhammed Şahrûr** (Suriye, ö. 2019), Kur'an'ı bir "sınırlar teorisi" (*hudûd*) ile okudu: Allah bir asgari ve bir azami sınır koyar ve Müslümanlar ikisi arasında herhangi bir yerde hareket edebilir. Kadın kıyafeti için asgariyi, *el-cuyûb*'u — bunu göğüs bölgesi ve koltuk altları gibi beden bölgeleri olarak okudu — ve alt mahrem bölgeyi örtmek olarak; azamiyi ise yüz ve avuç içleri dışında her şeyi örtmek olarak kabul etti (Khikmatiar, 2019, özet, kendi sözlerimizle).
+
+      **Hüseyin Atay** (Türkiye), Kur'an'ı değişmemiş tek kaynak olarak ele alır ve miras kalan ilmî birikimi eleştirel olarak gözden geçirir (Atçeken, 2008).
+
+      **Değerlendirme.** Azınlık görüşü, *himâr*ı genel bir anlamda okumaya ve hadisleri ve ilk neslin anlayışını bir kenara bırakmaya dayanır. Çoğunluk, kelimenin anlamına, Medineli kadınların rivayetine (Buhârî 4758) ve dört mezhebin metinlerine dayanır. İkisini eşit ağırlıkta sunmak yanıltıcı olur; azınlığı yokmuş gibi sunmak da doğru olmaz.
+    title:
+      en: Azınlık argümanı
+      tr: Azınlık argümanı
   - kind: reasoning
     en: |-
       **1. What does God require?** On the majority view, covering the hair. This is a matter between a woman and God.
@@ -137,6 +179,15 @@ fullAnswer:
       **2. Who may enforce it, and how?** 2:256 was revealed, according to Ibn ʿAbbas (via Abu Dawud and al-Nasaʾi), when some Medinan families whose children had been raised Jewish wanted to keep them from leaving with the Banu Nadir; the verse forbade forcing them into Islam (Wikipedia, "Al-Baqarah 256"). Its direct subject is conversion. Ibn Taymiyya is quoted as saying "Most of the salaf" considered it "neither specific nor abrogated", and *Wikipedia*, citing Jonathan Brown (*Misquoting Muhammad*, p. 186), calls it as absolute and universal a statement as one finds ({hadith:abudawud:2682} for the occasion; al-Albani: *ṣaḥīḥ*). Classical law also had *ḥisba*, the duty to enjoin right and forbid wrong; how far it was used to enforce dress has not yet been checked. The modern argument, made by Dar al-Iftaʾ in its fatwa, is practical and moral as well as textual: a father "must, to the best of his ability, persuade his daughter", "must refrain from beating or harming her", and must keep supporting her, because "any compulsion will lead her to be hypocritical of religion and insincere". Worship done under force is not what the obligation asks for. *Limit:* 2:256 is about conversion; applying it to enforcement among Muslims is an extension, supported by the verse's general wording and by Dar al-Iftaʾ's reasoning, but not the only classical position.
 
       **3. What does a ban do?** It forces women to act against their conscience in the other direction. Bans deny women education and work they have a right to.
+    tr: |-
+      **1. Allah ne istiyor?** Çoğunluk görüşüne göre saçı örtmeyi. Bu, bir kadınla Allah arasındaki bir meseledir.
+
+      **2. Bunu kim, nasıl uygulayabilir?** İbn Abbâs'a göre (Ebû Dâvûd ve Nesâî yoluyla) 2:256, çocukları Yahudi olarak yetiştirilmiş bazı Medineli ailelerin onları Benî Nadîr ile birlikte gitmekten alıkoymak istediği zaman indi; âyet onları İslam'a zorlamayı yasakladı (Wikipedia, "Al-Baqarah 256"). Doğrudan konusu din değiştirmedir. İbn Teymiyye'nin "Selefin çoğu"nun onu "ne özel ne de neshedilmiş" saydığını söylediği aktarılır ve *Wikipedia*, Jonathan Brown'a (*Misquoting Muhammad*, s. 186) atıfla, onu bulunabilecek en mutlak ve evrensel ifadelerden biri olarak niteler (iniş sebebi için {hadith:abudawud:2682}; Elbânî: *sahih*). Klasik hukukta, iyiliği emretme ve kötülükten sakındırma görevi olan *hisbe* de vardı; bunun kıyafeti zorla uygulatmak için ne kadar kullanıldığı henüz kontrol edilmedi. Dâru'l-İftâ'nın fetvasında yaptığı modern argüman, metne dayalı olduğu kadar pratik ve ahlakidir de: Bir baba "elinden geldiğince kızını ikna etmeli", "onu dövmekten ya da ona zarar vermekten kaçınmalı" ve ona destek olmaya devam etmelidir, çünkü "her türlü zorlama onu dinde ikiyüzlülüğe ve samimiyetsizliğe götürür". Zorla yapılan ibadet, yükümlülüğün istediği şey değildir. *Sınır:* 2:256 din değiştirmeyle ilgilidir; onu Müslümanlar arasında zorla uygulatmaya uygulamak, âyetin genel ifadesi ve Dâru'l-İftâ'nın akıl yürütmesiyle desteklenen bir genişletmedir, ama tek klasik görüş değildir.
+
+      **3. Bir yasak ne yapar?** Kadınları diğer yönde vicdanlarına karşı davranmaya zorlar. Yasaklar kadınları hakları olan eğitimden ve işten mahrum bırakır.
+    title:
+      en: Üç ayrı soru
+      tr: Üç ayrı soru
   - kind: history
     en: |-
       **Türkiye.** A 1982 regulation required female civil servants' heads to be uncovered; the first widespread university ban came in 1984 and was enforced much more strictly after the 1997 military memorandum. In 1999, the MP Merve Kavakçı was prevented from taking her oath in parliament; in 2000, Nuray Bezirgan, who wore a headscarf to her exams in 2000, was later sentenced to six months for "obstructing the education of others". The European Court of Human Rights upheld the ban in 2004 and 2006. A 2008 amendment to lift it was annulled by the Constitutional Court; the ban was lifted in universities and the civil service on 8 October 2013, in high schools in 2014, and in the judiciary, police and military in 2015–2017. Headscarved women were disciplined or lost public jobs, and found it harder to become teachers, judges, lawyers or doctors in public service (Wikipedia, "Headscarf rights in Turkey").
@@ -144,8 +195,21 @@ fullAnswer:
       **France.** The "2004 French headscarf ban" applied to state schools (Abdelgadir and Fouka). Abdelgadir and Fouka (2020) found that "the law reduces the secondary educational attainment of Muslim girls", affects "their trajectory in the labor market and family composition in the long run", "operates through increased perceptions of discrimination", and "strengthens both national and religious identities". [Moderate.]
 
       **Iran.** In 1979 Khomeini said women should observe Islamic dress; hijab became mandatory in public offices in 1980 and for all women in 1983, with imprisonment of ten days to two months or fines under Penal Code article 638. In 2022, Mahsa Amini, 22, "was killed in custody of the Guidance Patrol in Tehran", sparking nationwide protests (Wikipedia).
+    tr: |-
+      **Türkiye.** 1982 tarihli bir yönetmelik kadın memurların başlarının açık olmasını şart koştu; ilk yaygın üniversite yasağı 1984'te geldi ve 1997 askerî muhtırasından sonra çok daha sıkı uygulandı. 1999'da milletvekili Merve Kavakçı'nın mecliste yemin etmesi engellendi; 2000'de sınavlarına başörtüsüyle giren Nuray Bezirgan daha sonra "başkalarının eğitimini engellemekten" altı ay hapis cezasına çarptırıldı. Avrupa İnsan Hakları Mahkemesi yasağı 2004 ve 2006'da onadı. Yasağı kaldırmak için yapılan 2008 tarihli bir değişiklik Anayasa Mahkemesi tarafından iptal edildi; yasak üniversitelerde ve kamu hizmetinde 8 Ekim 2013'te, liselerde 2014'te, yargıda, poliste ve orduda 2015–2017'de kaldırıldı. Başörtülü kadınlar disiplin cezası aldı ya da kamu görevlerini kaybetti ve kamu hizmetinde öğretmen, hâkim, avukat ya da doktor olmakta zorlandı (Wikipedia, "Headscarf rights in Turkey").
+
+      **Fransa.** "2004 Fransız başörtüsü yasağı" devlet okullarına uygulandı (Abdelgadir ve Fouka). Abdelgadir ve Fouka (2020), "kanunun Müslüman kızların ortaöğretimdeki eğitim düzeyini düşürdüğünü", "uzun vadede iş piyasasındaki yollarını ve aile yapılarını" etkilediğini, "artan ayrımcılık algıları aracılığıyla işlediğini" ve "hem ulusal hem dinî kimlikleri güçlendirdiğini" buldu. [Orta.]
+
+      **İran.** 1979'da Humeynî kadınların İslami kıyafete uyması gerektiğini söyledi; başörtüsü 1980'de kamu dairelerinde, 1983'te bütün kadınlar için zorunlu hâle geldi ve Ceza Kanunu'nun 638. maddesine göre on gün ile iki ay arası hapis ya da para cezası öngörüldü. 2022'de 22 yaşındaki Mahsa Amini "Tahran'da İrşat Devriyesi'nin gözaltısında öldürüldü" ve bu, ülke çapında protestolara yol açtı (Wikipedia).
+    title:
+      en: Tarih
+      tr: Tarih
   - kind: science
     en: "**Pressure and inner commitment.** [Moderate.] Ryan, Rigby and King (1993) distinguished two ways people take on religious beliefs: *introjection*, \"characterized by self- and other-approval-based pressures\", and *identification*, \"adoption of beliefs as personal values\", \"characterized by greater volition\"; in four samples, these related differently to mental health. The samples were Christian, and the abstract read does not give the specific outcomes; the finding supports, but does not prove, the claim that coercion damages faith. Dar al-Iftaʾ's warning about hypocrisy makes the same point from within Islamic ethics."
+    tr: "**Baskı ve içsel bağlılık.** [Orta.] Ryan, Rigby ve King (1993), insanların dinî inançları benimsemesinin iki yolunu ayırdı: \"kendinin ve başkalarının onayına dayalı baskılarla belirlenen\" *içe atma* (introjection) ve \"daha fazla irade içeren\", \"inançların kişisel değerler olarak benimsenmesi\" olan *özdeşleşme* (identification); dört örneklemde bunlar ruh sağlığıyla farklı şekillerde ilişkiliydi. Örneklemler Hristiyandı ve okunan özet belirli sonuçları vermiyor; bulgu, zorlamanın imana zarar verdiği iddiasını destekler, ama ispat etmez. Dâru'l-İftâ'nın ikiyüzlülük uyarısı aynı noktayı İslam ahlakının içinden ortaya koyar."
+    title:
+      en: Zorla din hakkında araştırmalar ne diyor?
+      tr: Zorla din hakkında araştırmalar ne diyor?
   - kind: objection
     en: |-
       **"2:256 is about conversion, not about Muslims' obligations."** *Reply:* correct as to its occasion; the argument against coercion within the family rests also on the purpose of worship and on scholars such as Dar al-Iftaʾ. *Limit:* classical law had the institution of *ḥisba*, and the classical position on enforcement was not fully checked here.
@@ -153,40 +217,70 @@ fullAnswer:
       **"If covering is obligatory, a Muslim state should enforce it."** *Reply:* Dar al-Iftaʾ's reasoning — compulsion produces hypocrisy — applies to the state as much as to a father, and Iran's experience shows enforcement producing resentment and violence. *Limit:* this is a political-ethical argument; classical jurists did not all draw the line here.
 
       **"The minority is right: the Quran never says 'hair'."** *Reply:* the word *khimār* meant a head covering, and the first Muslim women understood the verse that way (Bukhari 4758). *Limit:* the minority replies that the obligation should be stated explicitly if it were binding; the majority answers that word meaning and early practice are how all Quranic terms are understood.
+    tr: |-
+      **"2:256 Müslümanların yükümlülükleriyle değil, din değiştirmeyle ilgilidir."** *Cevap:* İniş sebebi açısından doğru; aile içindeki zorlamaya karşı argüman ayrıca ibadetin amacına ve Dâru'l-İftâ gibi âlimlere dayanır. *Sınır:* Klasik hukukta *hisbe* kurumu vardı ve zorla uygulatma konusundaki klasik görüş burada tam olarak kontrol edilmedi.
+
+      **"Örtünme farzsa, bir Müslüman devlet onu zorla uygulatmalıdır."** *Cevap:* Dâru'l-İftâ'nın akıl yürütmesi — zorlama ikiyüzlülük üretir — bir babaya olduğu kadar devlete de uygulanır ve İran'ın tecrübesi zorla uygulatmanın öfke ve şiddet ürettiğini gösteriyor. *Sınır:* Bu siyasi-ahlaki bir argümandır; klasik fakihlerin hepsi çizgiyi burada çekmedi.
+
+      **"Azınlık haklı: Kur'an hiçbir zaman 'saç' demiyor."** *Cevap:* *Himâr* kelimesi bir baş örtüsü anlamına geliyordu ve ilk Müslüman kadınlar âyeti bu şekilde anladı (Buhârî 4758). *Sınır:* Azınlık, bağlayıcı olsaydı yükümlülüğün açıkça belirtilmesi gerektiği cevabını verir; çoğunluk ise kelime anlamının ve erken uygulamanın bütün Kur'an terimlerinin anlaşılma yolu olduğu cevabını verir.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **All four Sunni schools** — covering the hair obligatory; face and hands differ by school.
       - **A view reported from Imam Ahmad** — face veil obligatory.
       - **Shahrur** — covering the hair above the minimum (minority).
       - **Dar al-Iftaʾ (Egypt)** — obligatory, but parents must persuade, not force.
+    tr: |-
+      - **Dört Sünnî mezhebin hepsi** — saçı örtmek farzdır; yüz ve eller mezhebe göre değişir.
+      - **İmam Ahmed'den aktarılan bir görüş** — peçe farzdır.
+      - **Şahrûr** — saçı örtmek asgarinin üzerindedir (azınlık).
+      - **Dâru'l-İftâ (Mısır)** — farzdır, ama anne baba zorlamamalı, ikna etmelidir.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: What exactly must be covered, and how do the schools differ?
+      tr: Tam olarak neyin örtülmesi gerekiyor ve mezhepler nasıl ayrılıyor?
     a:
       en: "All schools: the hair and body except face and hands. The Hanafi and Maliki schools do not require the face to be covered; a view reported from Imam Ahmad does."
+      tr: "Bütün mezhepler: Saç ve yüz ile eller dışındaki beden. Hanefî ve Mâlikî mezhepleri yüzün örtülmesini şart koşmaz; İmam Ahmed'den aktarılan bir görüş şart koşar."
   - q:
       en: How does *khimār* get to "hair"?
+      tr: '*Himâr* kelimesinden "saç"a nasıl varılıyor?'
     a:
       en: It was the Arabic word for a head covering (Ibn Kathir; Nadwi). 24:31 tells women to extend it over the chest.
+      tr: Bir baş örtüsü için kullanılan Arapça kelimeydi (İbn Kesîr; Nedvî). 24:31 kadınlara onu yakanın üzerine uzatmalarını söyler.
   - q:
       en: What should I do if my family pressures me?
+      tr: Ailem bana baskı yaparsa ne yapmalıyım?
     a:
       en: Seek a trusted, calm person; learn the scholars' view that compulsion is wrong; and if pressure becomes abuse, get help.
+      tr: Güvenilir, sakin birine başvur; zorlamanın yanlış olduğuna dair âlimlerin görüşünü öğren; ve baskı istismara dönüşürse yardım al.
   - q:
       en: Why did Türkiye ban the headscarf?
+      tr: Türkiye başörtüsünü neden yasakladı?
     a:
       en: As part of a strict state secularism, enforced through the 1980s and especially after 1997; lifted in 2013–2017.
+      tr: 1980'lerde ve özellikle 1997'den sonra uygulanan katı bir devlet laikliğinin parçası olarak; 2013–2017'de kaldırıldı.
   - q:
       en: Is a woman who does not cover still a Muslim?
+      tr: Örtünmeyen bir kadın hâlâ Müslüman mıdır?
     a:
       en: Yes. Failing an obligation one accepts does not take a person out of Islam in Sunni theology.
+      tr: Evet. Sünnî kelâmda, kabul ettiği bir farzı yerine getirmemek kişiyi İslam'dan çıkarmaz.
   - q:
       en: What is the minority argument in full?
+      tr: Azınlık argümanı tam olarak nedir?
     a:
       en: Shahrur's theory of minimum and maximum limits, and the claim that *khimār* means any cover; see above.
+      tr: Şahrûr'un asgari ve azami sınırlar teorisi ve *himâr*ın herhangi bir örtü anlamına geldiği iddiası; yukarıya bak.
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
   - *a5
+translatedFrom: docs/research/tr/Q24.md

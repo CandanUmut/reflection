@@ -14,7 +14,7 @@ title:
   tr: Şükür ve sabır
   en: Gratitude and patience
 summary:
-  tr: Gazzâlî'ye göre iman yarı sabır, yarı şükürdür. Araştırmalar küçük ama gerçek faydalar buluyor.
+  tr: "\"şükrederseniz elbette size (nimetimi) artırırım\" (14:7) ve \"Şüphe yok ki Allah, sabredenlerle beraberdir.\" (2:153). Şükür verilen için, sabır alınan içindir; Hz. Peygamber (s.a.v.) oğlu öldüğünde ağladı ve yine de yalnızca Allah'ın razı olacağı şeyi söyledi."
   en: '"If you are grateful, I will surely increase you [in favor]" (14:7), and "Allah is with the patient" (2:153). Gratitude is for what is given and patience for what is taken; the Prophet (pbuh) wept when his son died and still said only what pleased God.'
 teachings:
   tr: |
@@ -32,7 +32,7 @@ evidence:
   en: |
     Cregg & Cheavens (2021) found g = −0.29 post-test and −0.23 at follow-up, smaller against active controls. A 2023 meta-analysis (23 studies, 6,745 people) found g = 0.22 vs neutral controls and 0.12 (not significant) vs active ones. [Established] The effect is small.
 gaps:
-  tr: '"Sabret" sözü, mağdurları susturmak için kullanılıyor.'
+  tr: Şükür araştırmaları küçük etkiler gösteriyor. Gazzâlî'deki "iki yarı" pasajı ve ardındaki hadis henüz kontrol edilmedi. Sayfanın önceki Cregg ve Cheavens (2021) atfı henüz yeniden kontrol edilmedi.
   en: Gratitude research shows small effects. The passage in al-Ghazali on "two halves" and the hadith behind it have not yet been checked. The page's earlier citation of Cregg and Cheavens (2021) has not yet been checked again.
 visualizations:
   - id: ideas
@@ -58,6 +58,10 @@ sources:
 fullAnswer:
   - kind: meaning
     en: '**Shukr and ṣabr.** *Shukr* (gratitude) means recognising a gift, its Giver, and using it well. Its opposite is *kufr al-niʿma*, "covering over" a blessing — the same root as *kufr*, unbelief. *Ṣabr* (patience) means holding oneself steady: not despairing, not lashing out, continuing to do right under pressure.'
+    tr: '**Şükür ve sabır.** *Şükür*, bir nimeti ve onu Vereni tanımak ve onu iyi kullanmak demektir. Zıddı *küfrân-ı nimet*, yani bir nimeti "örtmek"tir — inkâr anlamına gelen *küfür* ile aynı kök. *Sabır*, kendini sağlam tutmak demektir: umutsuzluğa düşmemek, saldırganlaşmamak, baskı altında doğruyu yapmaya devam etmek.'
+    title:
+      en: Ne anlama geliyor?
+      tr: Ne anlama geliyor?
   - kind: quran
     en: |-
       **Gratitude and increase (14:7).** "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe'" (14:7). In Sura Ibrahim (Meccan), Moses (pbuh) reminds the Children of Israel of this, after their rescue from Pharaoh (14:6). Ibn Kathir explains "increase" as: "if you appreciate My favor on you, I will give you more of it"; denying is being "not thankful for My favors, covering and denying, them"; and the punishment includes "depriving you of the favor and punishing you for being unappreciative of it."
@@ -67,18 +71,47 @@ fullAnswer:
       **Patience and prayer (2:153, 2:155–157).** "O you who have believed, seek help through patience and prayer. Indeed, Allah is with the patient" (2:153). Two verses later: "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient, Who, when disaster strikes them, say, 'Indeed we belong to Allah, and indeed to Him we will return.' Those are the ones upon whom are blessings from their Lord and mercy" (2:155–157). The words of 2:156, *innā li-llāhi wa-innā ilayhi rājiʿūn*, are what Muslims say on hearing of a death.
 
       **Reward "without account" (39:10).** "Say, 'O My servants who have believed, fear your Lord. For those who do good in this world is good, and the earth of Allah is spacious. Indeed, the patient will be given their reward without account'" (39:10), Meccan. Ibn Kathir cites Mujahid on "the earth of Allah is spacious": "So emigrate through it and strive hard and keep away from idols", and al-Awzaʿi on "without account": "Their reward will not be weighed or measured; they will be given an immense reward." The verse was spoken to Meccan believers under persecution.
+    tr: |-
+      **Şükür ve artış (14:7).** "Ve hatırlayın ki Rabbiniz size şöyle bildirmişti: Yüceliğim hakkı için şükrederseniz elbette size (nimetimi) artırırım ve eğer nankörlük ederseniz hiç şüphesiz azabım çok şiddetlidir." (14:7). İbrâhim Sûresi'nde (Mekkî) Hz. Mûsâ (a.s.), Firavun'dan kurtuluşlarından sonra İsrâiloğulları'na bunu hatırlatır (14:6). İbn Kesîr "artırma"yı şöyle açıklar: "Size olan nimetimin kıymetini bilirseniz, size ondan daha fazlasını veririm"; nankörlük, "nimetlerime şükretmemek, onları örtmek ve inkâr etmek"tir; ve azap, "nimeti sizden almayı ve ona kıymet vermediğiniz için sizi cezalandırmayı" içerir.
+
+      **"Artırma" ne demek, ne demek değil?** Âyet artışın nasıl, ne zaman ya da hangi biçimde geleceğini ya da şükreden bir insanın hayatının dünyevi açıdan iyileşeceğini söylemez. Düşünen pek çok Müslüman onu, kanaat nimetinin kendisindeki artışı da kapsayan bir âyet olarak okur; bu bir okumadır, âyetin sözleri değil. Ve İbn Kesîr'in okumasına göre "azabım çok şiddetlidir" ifadesi önce nimetin kaybedilmesidir — şükür hissetmekte *zorlanan* birine değil, nimeti inkâr edene yöneltilmiş bir tehdittir.
+
+      **Sabır ve namaz (2:153, 2:155–157).** "Ey iman edenler! Sabır ve namazla yardım isteyin. Şüphe yok ki Allah, sabredenlerle beraberdir." (2:153). İki âyet sonra: "Çaresiz biz sizi biraz korku, biraz açlık, biraz da mallardan, canlardan ve ürünlerden eksiltme ile imtihan edeceğiz. Müjdele o sabredenleri! Onlar başlarına bir musibet geldiği zaman: "Biz Allah'a aidiz ve sonunda O'na döneceğiz." derler. İşte onlar var ya, Rablerinden, mağfiretler ve rahmet onlaradır." (2:155–157). 2:156'nın sözleri, *innâ lillâhi ve innâ ileyhi râciûn*, Müslümanların bir ölüm haberi aldıklarında söyledikleri sözlerdir.
+
+      **"Hesapsız" mükâfat (39:10).** "Ey Muhammed! Tarafımdan söyle: "Ey iman eden kullarım! Rabbinizden korkun. Bu dünyada güzellik yapanlara bir güzellik vardır. Allah'ın yeryüzü geniştir. Ancak sabredenlere mükafatları hesapsız ödenecektir."" (39:10), Mekkî. İbn Kesîr, "Allah'ın yeryüzü geniştir" hakkında Mücâhid'den şunu aktarır: "Öyleyse onda hicret edin, gayret edin ve putlardan uzak durun"; "hesapsız" hakkında da Evzâî'den: "Mükâfatları tartılmayacak ve ölçülmeyecek; onlara çok büyük bir mükâfat verilecek." Âyet, zulüm altındaki Mekkeli müminlere söylendi.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **The woman at the grave.** Anas (ra) reports that the Prophet (pbuh) "passed by a woman who was weeping beside a grave. He told her to fear Allah and be patient. She said to him, 'Go away, for you have not been afflicted with a calamity like mine.' And she did not recognize him." When she was told who he was, she went to his house — "and there she did not find any guard" — and said, "I did not recognize you." He said: "Verily, the patience is at the first stroke of a calamity" ({hadith:bukhari:1283}; a short version is {hadith:bukhari:1302}). He did not scold her for weeping; he told her that patience counts most at the first shock — and he received her at his door without guards.
 
       **The Prophet (pbuh) wept for his son.** Anas (ra) reports that when the Prophet's (pbuh) infant son Ibrahim was dying, his eyes filled with tears. ʿAbd al-Rahman ibn ʿAwf asked about it, and he said: "O Ibn ʿAuf, this is mercy." Then: "The eyes are shedding tears and the heart is grieved, and we will not say except what pleases our Lord, O Ibrahim! Indeed we are grieved by your separation" ({hadith:bukhari:1303}). Patience in Islam is not the absence of tears; it is not letting grief turn into words against God.
+    tr: |-
+      **Kabrin başındaki kadın.** Enes (r.a.), Hz. Peygamber'in (s.a.v.) "bir kabrin başında ağlayan bir kadının yanından geçtiğini" aktarır. "Ona Allah'tan korkmasını ve sabretmesini söyledi. Kadın ona, 'Git başımdan, çünkü sen benim başıma gelen gibi bir musibete uğramadın' dedi. Ve onu tanımadı." Kim olduğu ona söylenince, kadın onun evine gitti — "ve orada hiçbir kapıcı bulmadı" — ve "Seni tanımadım" dedi. O da şöyle buyurdu: "Şüphesiz sabır, musibetin ilk anındadır" ({hadith:bukhari:1283}; kısa bir versiyonu {hadith:bukhari:1302}'dir). Onu ağladığı için azarlamadı; ona sabrın en çok ilk sarsıntıda önemli olduğunu söyledi — ve onu kapıcısız kapısında karşıladı.
+
+      **Hz. Peygamber (s.a.v.) oğlu için ağladı.** Enes (r.a.), Hz. Peygamber'in (s.a.v.) bebek oğlu İbrâhim ölmek üzereyken gözlerinin yaşlarla dolduğunu aktarır. Abdurrahman b. Avf bunu sordu, o da şöyle buyurdu: "Ey İbn Avf, bu rahmettir." Sonra: "Gözler yaş döker, kalp hüzünlenir ve biz Rabbimizin razı olacağından başka bir şey söylemeyiz. Ey İbrâhim! Şüphesiz senin ayrılığınla hüzünlüyüz" ({hadith:bukhari:1303}). İslam'da sabır gözyaşının yokluğu değildir; kederin Allah'a karşı sözlere dönüşmesine izin vermemektir.
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: "**Al-Ghazali's book on patience and gratitude.** Book 32 of al-Ghazali's *Iḥyāʾ ʿUlūm al-Dīn* is devoted to the two; its first part explains patience and why it is \"considered to be half of faith\", and its second explains gratitude (publisher's description of Littlejohn's translation). The well-known saying that faith is \"half patience and half gratitude\" is often attributed to this book or quoted as a hadith; neither the passage nor the hadith's grading was checked."
+    tr: "**Gazzâlî'nin sabır ve şükür kitabı.** Gazzâlî'nin *İhyâu Ulûmi'd-Dîn*'inin 32. kitabı bu ikisine ayrılmıştır; ilk kısmı sabrı ve onun neden \"imanın yarısı sayıldığını\" açıklar, ikinci kısmı şükrü açıklar (Littlejohn çevirisinin yayıncı tanıtımı). İmanın \"yarısının sabır, yarısının şükür\" olduğu şeklindeki bilinen söz çoğu zaman bu kitaba atfedilir ya da bir hadis olarak aktarılır; ne pasaj ne de hadisin derecesi kontrol edildi."
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: research
     en: |-
       **Gratitude exercises raise wellbeing a little.** [Moderate; small effect.] Kirca, Malouf and Meynadier (2023) combined 25 randomised trials (about 6,700 participants) of "expressed gratitude" exercises — such as writing thank-you letters. Compared with neutral activities, they improved happiness, life satisfaction and positive feelings slightly (g = 0.22, 95% CI 0.11–0.33). Compared with other active exercises, the difference was small and not statistically significant (g = 0.12, CI −0.02 to 0.26). The review did not measure depression or anxiety.
 
       **What this means.** Practising gratitude seems to help a little, but not much more than other good habits. It is not a cure, and it should not be pressed on someone who is depressed as if it were.
+    tr: |-
+      **Şükür egzersizleri iyi oluşu biraz artırır.** [Orta; küçük etki.] Kirca, Malouf ve Meynadier (2023), teşekkür mektupları yazmak gibi "ifade edilen şükür" egzersizleri üzerine yapılmış 25 randomize çalışmayı (yaklaşık 6.700 katılımcı) birleştirdi. Nötr etkinliklerle karşılaştırıldığında mutluluğu, hayat memnuniyetini ve olumlu duyguları biraz artırdılar (g = 0,22, %95 GA 0,11–0,33). Diğer aktif egzersizlerle karşılaştırıldığında fark küçüktü ve istatistiksel olarak anlamlı değildi (g = 0,12, GA −0,02 ile 0,26). Derleme depresyonu ya da kaygıyı ölçmedi.
+
+      **Bunun anlamı.** Şükrü alışkanlık hâline getirmek biraz yardımcı oluyor gibi görünüyor, ama diğer iyi alışkanlıklardan pek fazla değil. Bir tedavi değildir ve depresyondaki birine tedaviymiş gibi dayatılmamalıdır.
+    title:
+      en: Araştırmalar ne gösteriyor?
+      tr: Araştırmalar ne gösteriyor?
   - kind: practice
     en: |-
       **Name three gifts at the end of each day**, including small ones, and thank God for them.
@@ -88,36 +121,67 @@ fullAnswer:
       **Let yourself grieve.** Tears are mercy ({hadith:bukhari:1303}); patience is in what you say and do, not in pretending not to feel.
 
       **Pair patience with action.** Patience does not mean accepting injustice that can be changed; it means steadiness while you do what can be done.
+    tr: |-
+      **Her günün sonunda, küçükleri de dahil, üç nimet say** ve onlar için Allah'a şükret.
+
+      **Kötü haberin ilk sarsıntısında 2:156'yı söyle**, kalbin henüz sakin olmasa bile. Hz. Peygamber'in (s.a.v.) sözünü ettiği "ilk an" budur.
+
+      **Yas tutmana izin ver.** Gözyaşları rahmettir ({hadith:bukhari:1303}); sabır, hissetmiyormuş gibi yapmakta değil, söylediklerinde ve yaptıklarındadır.
+
+      **Sabrı eylemle birleştir.** Sabır, değiştirilebilecek bir haksızlığı kabullenmek demek değildir; yapılabileni yaparken sağlam durmak demektir.
+    title:
+      en: Günlük hayatta
+      tr: Günlük hayatta
   - kind: heart
     en: |-
       **If you can't feel grateful because your life is getting worse**, you are not the person 14:7 warns. The verse warns those who deny God's gifts, not those who are exhausted or grieving. Start with patience: 2:155–157 promises "blessings… and mercy" to those who hold on through loss.
 
       **If you have been told "be patient" in a way that silenced you**, the Prophet (pbuh) did not silence the grieving woman; he spoke to her gently, and received her when she came to him.
+    tr: |-
+      **Hayatın kötüye gittiği için şükür hissedemiyorsan**, 14:7'nin uyardığı kişi sen değilsin. Âyet, yorgun ya da yaslı olanları değil, Allah'ın nimetlerini inkâr edenleri uyarır. Sabırla başla: 2:155–157, kayıp karşısında tutunanlara "mağfiretler ve rahmet" vaat eder.
+
+      **Sana "sabret" denmesi seni susturduysa**, Hz. Peygamber (s.a.v.) yaslı kadını susturmadı; onunla yumuşakça konuştu ve yanına geldiğinde onu kabul etti.
+    title:
+      en: Zorlanan kişi için
+      tr: Zorlanan kişi için
 followUps:
   - q:
       en: How do I stay grateful when 14:7 promises increase but my life is getting worse?
+      tr: 14:7 artış vaat ederken hayatım kötüye gidiyorsa nasıl şükür içinde kalırım?
     a:
       en: The verse does not say how or when the increase comes. Gratitude for what remains, and patience for what is lost, are both called for; neither requires pretending.
+      tr: Âyet artışın nasıl ya da ne zaman geleceğini söylemez. Kalan için şükür ve kaybedilen için sabır, ikisi de istenir; hiçbiri rol yapmayı gerektirmez.
   - q:
       en: What does "My punishment is severe" mean for someone who struggles to feel grateful?
+      tr: '"Azabım çok şiddetlidir" şükür hissetmekte zorlanan biri için ne anlama gelir?'
     a:
       en: Ibn Kathir explains it as losing the favour as a result of denying it. It is aimed at denial, not at someone in pain.
+      tr: İbn Kesîr bunu, nimeti inkâr etmenin sonucu olarak onu kaybetmek diye açıklar. İnkâra yöneliktir, acı çeken birine değil.
   - q:
       en: What is 2:156?
+      tr: 2:156 nedir?
     a:
       en: '"Indeed we belong to Allah, and indeed to Him we will return" — said at the news of a death or loss.'
+      tr: "\"Biz Allah'a aidiz ve sonunda O'na döneceğiz\" — bir ölüm ya da kayıp haberi alındığında söylenir."
   - q:
       en: What does "without account" in 39:10 mean?
+      tr: 39:10'daki "hesapsız" ne demek?
     a:
       en: 'Al-Awzaʿi: the reward "will not be weighed or measured".'
+      tr: 'Evzâî: mükâfat "tartılmayacak ve ölçülmeyecek".'
   - q:
       en: Is "faith is half patience and half gratitude" a hadith?
+      tr: '"İman yarısı sabır, yarısı şükürdür" bir hadis mi?'
     a:
       en: It is widely quoted; its authenticity has not yet been checked. Al-Ghazali's Book 32 discusses patience as "half of faith".
+      tr: Yaygın şekilde aktarılır; sahih olup olmadığı henüz kontrol edilmedi. Gazzâlî'nin 32. kitabı sabrı "imanın yarısı" olarak ele alır.
   - q:
       en: What is the full story behind "patience is at the first stroke"?
+      tr: '"Sabır ilk andadır" sözünün arkasındaki hikâyenin tamamı nedir?'
     a:
       en: See the woman at the grave above ({hadith:bukhari:1283}).
+      tr: Yukarıdaki kabrin başındaki kadına bak ({hadith:bukhari:1283}).
 legacySources:
   - *a1
   - *a2
+translatedFrom: docs/research/tr/M5.md

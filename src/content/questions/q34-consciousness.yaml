@@ -14,16 +14,13 @@ helpCard: false
 verses:
   - 17:85
 steelman:
-  tr: |
-    Sinirbilim her yıl daha fazlasını açıklıyor ve "ruh" yalnızca bir yer tutucu olabilir.
+  tr: "\"Sinirbilim her yıl daha fazlasını açıklıyor. Beynin bir bölümüne zarar verin, kişi yüzleri tanıma yeteneğini kaybeder; bir başkasına zarar verin, kişiliği değişir. Anestezi bilinci dakikalar içinde kapatır. İlaçlar ruh hâlini, hafızayı, hatta ahlaki yargıyı değiştirir. Benlik kimyasallar ve yaralanmalarla karartılabiliyor, bölünebiliyor ve değiştirilebiliyorsa, benlik beyindir. 'Ruh', henüz açıklayamadığımız şeyin adıdır — bilim büyüdükçe küçülecek bir 'boşlukların ruhu'. Bir gün bir makine bilinçliymiş gibi davranırsa, ruha yapacak bir şey kalmayacak.\""
   en: "\"Every year neuroscience explains more. Damage one part of the brain and a person loses the ability to recognise faces; damage another and their personality changes. Anaesthesia switches consciousness off in minutes. Drugs change mood, memory and even moral judgement. If the self can be dimmed, split and altered by chemicals and injuries, then the self *is* the brain. 'Soul' is a word for what we have not yet explained — a soul of the gaps that will shrink as science grows. And if a machine one day acts conscious, the soul will have nothing left to do.\""
 whyAsked:
-  tr: |
-    Sinirbilim ve yapay zekâ.
+  tr: Sinirbilim ve yapay zekâ her gün haberlerde ve pek çok insan bu soruyla bir psikoloji ya da biyoloji dersinde karşılaşıyor. Başkaları onunla bir hastane yatağının başında, demansın bir annenin ya da babanın hafızasını alıp götürüşünü izlerken karşılaşıyor.
   en: Neuroscience and artificial intelligence are in the news every day, and many people meet the question in a psychology or biology course. Others meet it at a hospital bedside, watching dementia take away a parent's memory.
 shortAnswer:
-  tr: |
-    Neden herhangi bir deneyimin var olduğu, çözülmemiş "zor problem"dir (Chalmers 1995). Kur'an ruhun "Rabbimin emrinden" olduğunu söyler (17:85). Ayrıca bkz. S29.
+  tr: "Zihnin beyne bağlı olduğuna dair delil güçlüdür ve hiçbir dürüst cevap bunu inkâr etmez. Bilimin açıklayamadığı şey, bu beyin faaliyetinin neden *yaşandığı*, yani içeriden neden hissedildiğidir — filozof David Chalmers'ın \"tecrübe problemi\", yani zor problem dediği şey. Önde gelen bilimsel teoriler hâlâ sınanıyor ve 2025'teki bir testte iki ana teoriden hiçbiri bütün öngörülerini doğrulatamadı. Filozofların yaklaşık yarısı fizikalizmi kabul ediyor, yaklaşık üçte biri reddediyor (PhilPapers 2020). Kur'an *rûh*'un (ruh) \"Rabbimin bildiği bir iş\" olduğunu ve insana verilen ilmin \"az bir şey\" olduğunu söyler (17:85); İbn Kayyim gibi klasik âlimler ruhun yaratılmış ve Allah'a bağlı olduğunu, bedenle birleştiğini kabul etti. Zihnin beyne bağlı olması bu görüşe de uyar: Bir bedenle birleşmiş bir ruh onun aracılığıyla iş görür. Zor problem bir ruhun varlığını ispat etmez; \"madde zihni açıklar\" iddiasının da ispat edilmediğini gösterir."
   en: 'The evidence that the mind depends on the brain is strong, and no honest answer denies it. What science has not explained is why any of this brain activity is *experienced* at all — what the philosopher David Chalmers called "the problem of experience", or the hard problem. The leading scientific theories are still being tested, and in a 2025 test neither of the two main theories passed all its predictions. Among philosophers, about half accept physicalism and about a third reject it (PhilPapers 2020). The Quran says that the *rūḥ* (spirit or soul) "is of the affair of my Lord" and that human knowledge is "a little" (17:85); classical scholars such as Ibn al-Qayyim held that the soul is created and depends on God, and is joined to the body. Dependence of the mind on the brain fits that view too: a soul joined to a body acts through it. The hard problem does not prove a soul; it shows that "matter explains the mind" has not been shown either.'
 layers:
   - kind: religious
@@ -43,8 +40,7 @@ layers:
       Müminler ve şüpheciler sırrı paylaşabilir.
     en: Believers and sceptics can share the mystery.
 honestLimits:
-  tr: |
-    Zor problem bir ruhun var olduğunu kanıtlamaz.
+  tr: "Zor problem bir ruhun var olduğunu ispat etmez; fizikalist açıklamanın tamamlanmadığını gösterir. Bilimsel teoriler hızla değişiyor. Ruh üzerine klasik İslami tartışma burada okunabilenden çok daha zengindir: Kelâm görüşleri, *Kitâbü'r-Rûh*'un tamamı ve 17:85'in tam tefsiri yalnızca özetler aracılığıyla okundu. Cogitate sonuçları makaleden değil, bir basın bülteninden alındı."
   en: "The hard problem does not prove that a soul exists; it shows that the physicalist explanation is not complete. The scientific theories are changing quickly. The classical Islamic discussion of the soul is much richer than what could be read here: the kalam positions, the full *Kitāb al-Rūḥ*, and the full tafsir of 17:85 were read only through summaries. The Cogitate results come from a press release, not the paper."
 visualizations:
   - id: ideas
@@ -93,6 +89,13 @@ fullAnswer:
       **If you are watching someone you love lose their memory to dementia, or lose consciousness at the end of life, this question is not abstract.** The Islamic view is that a person is more than what the illness takes. The Quran describes God taking souls in death and in sleep, keeping some and releasing others (39:42); in that picture, a person whose brain is failing has not stopped being someone before God. You can keep speaking to them, reciting, holding their hand. Ask the care team about palliative and memory-care support, and about support for carers; caring for someone with dementia is exhausting, and asking for help is not failure.
 
       **If the question itself makes you anxious — "am I just chemistry?" — notice that you are asking it.** The fact that there is someone asking is what the hard problem is about.
+    tr: |-
+      **Sevdiğin birinin hafızasını demansa kaptırmasını ya da hayatının sonunda bilincini yitirmesini izliyorsan, bu soru soyut değildir.** İslami görüşe göre bir insan, hastalığın aldığından daha fazlasıdır. Kur'an Allah'ın canları ölümde ve uykuda aldığını, bazılarını alıkoyup diğerlerini salıverdiğini anlatır (39:42); bu tabloda beyni gerileyen biri, Allah katında biri olmaktan çıkmış değildir. Onunla konuşmaya, ona Kur'an okumaya, elini tutmaya devam edebilirsin. Bakım ekibine palyatif bakım ve hafıza bakımı desteğini, bakım verenler için desteği sor; demanslı birine bakmak yorucudur ve yardım istemek başarısızlık değildir.
+
+      **Sorunun kendisi seni kaygılandırıyorsa — "ben sadece kimya mıyım?" — onu sorduğunu fark et.** Soran birinin olması, zor problemin tam da konusudur.
+    title:
+      en: Kalp ve akıl için
+      tr: Kalp ve akıl için
   - kind: quran
     en: |-
       **The key verse.** "And they ask you, [O Muhammad], about the soul. Say, 'The soul is of the affair of my Lord. And mankind have not been given of knowledge except a little'" (17:85). Saheeh International translates *rūḥ* here as "the soul"; the Arabic *min amri rabbī* is rendered "of the affair of my Lord". The word *amr* means both "affair, matter" and "command".
@@ -104,6 +107,19 @@ fullAnswer:
       **Other verses.** God says of Adam: "when I have proportioned him and breathed into him of My [created] soul" (15:29) — Saheeh adds "[created]" to make clear that the spirit is not a part of God. And: "Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep" (39:42).
 
       **What the verse does and does not say.** It says the spirit belongs to God's *amr* and that human knowledge is limited. It does not describe how the spirit relates to the brain, and it does not forbid studying the mind. Reading it as a statement about the hard problem is a modern application.
+    tr: |-
+      **Anahtar âyet.** "Ey Muhammed! Sana ruhtan soruyorlar. De ki: "Ruh Rabbimin bildiği bir iştir ve size ilimden ancak az bir şey verilmiştir."" (17:85). Saheeh International burada *rûh*'u İngilizceye "the soul" (ruh), Arapça *min emri rabbî* ifadesini "of the affair of my Lord" (Rabbimin işinden) olarak çevirir; Elmalılı "Rabbimin bildiği bir iştir" der. *Emr* kelimesi hem "iş, mesele" hem de "emir" anlamına gelir.
+
+      **Bağlamı.** İsrâ Sûresi Mekkîdir, ama en bilinen rivayet bu soruyu Medine'ye yerleştirir. İbn Mes'ûd (r.a.), Hz. Peygamber'in (s.a.v.) "bir grup Yahudinin yanından geçtiğini, bazılarının diğerlerine, 'Ona (Peygamber'e) ruhu sorun' dediğini", diğerlerinin de "Sormayın, hoşunuza gitmeyecek bir şey söyler" dediğini aktarır ({hadith:bukhari:7297}; ayrıca Buhârî 125). İbn Kesîr bu sorunu — Mekkî bir sûre, Medine'de sorulan bir soru — not eder ve ya âyetin Medine'de ikinci kez indiğini ya da Hz. Peygamber'e (s.a.v.) daha önce inmiş bir âyetle cevap vermesinin ilham edildiğini öne sürer. Ayrıca İkrime'den (İbn Cerîr yoluyla) gelen, soranların kendilerine Tevrat verildiğini söylediği ve cevabın onların bilgisinin Allah'ınkine kıyasla az olduğu şeklinde verildiği bir rivayeti zikreder.
+
+      **Burada *rûh* ne demek?** Bu sayfa için okunan özet İbn Kesîr, *rûh*'u insan ruhu olarak ele alır; Süheylî'nin onu "hava gibi hafif ve latif" diye tarif ettiğini aktarır ve *nefs*'i (benlik) bedene bağlanmış *rûh* olarak görür. Bu âyetteki *rûh* için başka klasik okumalar (melek Cebrâîl ya da Kur'an olarak) başka müfessirlerce aktarılır, ama henüz kontrol edilmedi.
+
+      **Diğer âyetler.** Allah Âdem hakkında şöyle der: "Ben, onun yaratılışını tamamladığım ve ona ruhumdan üflediğim zaman…" (15:29). Saheeh International, ruhun Allah'ın bir parçası olmadığını açıkça belirtmek için İngilizcede "[created]" (yaratılmış) kelimesini ekler. Ve: "Allah, o canları öldükleri zaman, ölmeyenleri de uyuduklarında alır." (39:42).
+
+      **Âyet neyi söyler, neyi söylemez?** Ruhun Allah'ın *emr*ine ait olduğunu ve insan bilgisinin sınırlı olduğunu söyler. Ruhun beyinle nasıl ilişkili olduğunu tarif etmez ve zihni incelemeyi yasaklamaz. Onu zor problem hakkında bir ifade olarak okumak modern bir uygulamadır.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: scholars
     en: |-
       **Ibn al-Qayyim's *Kitāb al-Rūḥ*.** Ibn al-Qayyim (d. 1350), a Hanbali scholar and student of Ibn Taymiyya, wrote *Kitāb al-Rūḥ* (*The Book of the Spirit*), the best-known classical work on the soul. According to Hussin (2026): he used *nafs*, *rūḥ*, *qalb* (heart), *ʿaql* (intellect) for the soul and "argued that the difference between the terminologies is its attributes, not entity" (p. 174); the soul "is created by Allah" (p. 174) and is "self-standing and independent of the physical body" (p. 175); in sleep "the soul does not entirely leave the body, unlike when one is dead" (p. 175); after death it returns to the body in the grave for questioning (p. 175). An IslamWeb summary adds that he held "the souls are not like the bodies".
@@ -113,6 +129,17 @@ fullAnswer:
       **Kalam debates.** Muslim theologians disagreed on whether the soul is a subtle body, an accident of the body, or (with the philosophers such as Ibn Sina) an immaterial substance. These positions have not yet been consulted in primary sources.
 
       **Does Islam require a soul separate from the body?** Islam teaches that the person continues after death and will be raised (39:42; the afterlife page). That requires that the person can exist and be restored by God. It does not, by itself, settle *how* the soul relates to the brain in this life. Some classical theologians held views closer to "the soul is a subtle body"; Ibn al-Qayyim held it is created and self-standing. A Muslim who accepts that the mind depends on the brain *in this life* is within that range, as long as he affirms that God sustains the person and raises them. *Limit:* a view that says the person simply *is* the brain and ends with it contradicts Islamic teaching on the afterlife.
+    tr: |-
+      **İbn Kayyim'in *Kitâbü'r-Rûh*'u.** İbn Teymiyye'nin öğrencisi Hanbelî âlim İbn Kayyim (ö. 1350), ruh üzerine en bilinen klasik eser olan *Kitâbü'r-Rûh*'u (*Ruh Kitabı*) yazdı. Hussin'e (2026) göre: Ruh için *nefs*, *rûh*, *kalb* ve *akl* kelimelerini kullandı ve "terimler arasındaki farkın varlıkta değil, sıfatlarda olduğunu savundu" (s. 174); ruh "Allah tarafından yaratılmıştır" (s. 174) ve "kendi başına var olan ve fiziksel bedenden bağımsız" bir şeydir (s. 175); uykuda "ruh, ölümden farklı olarak, bedeni tamamen terk etmez" (s. 175); ölümden sonra sorgu için kabirdeki bedene döner (s. 175). Bir IslamWeb özeti onun "ruhların bedenler gibi olmadığını" savunduğunu ekler.
+
+      ***Rûh* ve *nefs* aynı şey mi?** İbn Kayyim'e göre ikisi farklı tariflerle tek bir şeyi adlandırır (Hussin, s. 174). İbn Kesîr'in özeti de benzer şekilde *nefs*'i bedene bağlanmış *rûh* olarak görür. Başka âlimler ikisini ayırdı; bu görüş yelpazesi henüz kontrol edilmedi.
+
+      **Kelâm tartışmaları.** Müslüman kelâmcılar ruhun latif bir cisim mi, bedenin bir arazı mı, yoksa (İbn Sînâ gibi filozoflarla birlikte) maddi olmayan bir cevher mi olduğu konusunda ayrıldılar. Bu görüşlere henüz birincil kaynaklardan başvurulmadı.
+
+      **İslam bedenden ayrı bir ruh gerektirir mi?** İslam, insanın ölümden sonra devam ettiğini ve diriltileceğini öğretir (39:42; ahiret sayfası). Bu, kişinin Allah tarafından var edilip yeniden kurulabilmesini gerektirir. Ama bu tek başına, ruhun bu hayatta beyinle *nasıl* ilişkili olduğunu belirlemez. Bazı klasik kelâmcılar "ruh latif bir cisimdir" görüşüne daha yakın görüşler savundu; İbn Kayyim onun yaratılmış ve kendi başına var olan bir şey olduğunu savundu. Zihnin *bu hayatta* beyne bağlı olduğunu kabul eden bir Müslüman, Allah'ın kişiyi ayakta tuttuğunu ve dirilteceğini kabul ettiği sürece bu yelpazenin içindedir. *Sınır:* Kişinin sadece beyin *olduğunu* ve onunla birlikte sona erdiğini söyleyen bir görüş, İslam'ın ahiret öğretisiyle çelişir.
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: science
     en: |-
       **The mind depends on the brain.** [Established.] Koch, Massimini, Boly and Tononi (2016) review the evidence: damage to the brainstem and thalamus is tied to loss of consciousness; a combined TMS–EEG measure can tell whether a person is conscious — awake, in deep sleep or under anaesthesia — "at the single-person level". They locate the best candidates for the brain areas that underlie experience in "a posterior cortical hot zone that includes sensory areas".
@@ -124,6 +151,19 @@ fullAnswer:
       **The theories, and their status.** [Debated.] The Cogitate Consortium tested two leading theories in a preregistered study of 256 people in seven laboratories, using fMRI, MEG and intracranial EEG (*Nature*, 2025, as reported by the Max Planck Institute). Integrated Information Theory predicted sustained synchronisation in posterior brain regions; "the data did not support this". Global Neuronal Workspace Theory predicted a burst of activity ("ignition") when an experience ends; this "could not be confirmed". One researcher noted: "There are over twenty theories of consciousness out there. We've tested two." These theories try to say which brain activity goes with experience; they do not claim to have solved why there is experience at all.
 
       **What philosophers think.** [Survey data.] In the 2020 PhilPapers survey of 1,733 philosophers, 51.93% accepted or leaned to physicalism about the mind, 32.08% to non-physicalism, and 16.56% chose "other". The same survey found 18.93% theists and 66.95% atheists — so many philosophers who reject physicalism are not religious.
+    tr: |-
+      **Zihin beyne bağlıdır.** [Established.] Koch, Massimini, Boly ve Tononi (2016) delilleri gözden geçirir: Beyin sapına ve talamusa verilen zarar bilinç kaybıyla ilişkilidir; birleşik bir TMS–EEG ölçümü, bir kişinin bilinçli olup olmadığını — uyanık, derin uykuda ya da anestezi altında — "tek kişi düzeyinde" ayırt edebilir. Tecrübenin altında yatan beyin bölgeleri için en iyi adayları "duyusal alanları içeren arka bir kortikal sıcak bölge"de konumlandırırlar.
+
+      **Ama insanların varsaydığı basit şekilde değil.** [Orta.] Aynı derleme, iki ön lobu neredeyse tamamen çıkarılmış ama "açıkça bilinçli" olan bir hastayı ve beyinciği olmadan doğup normal bir hayat süren bir hastayı zikreder. Pinto ve arkadaşları (2017), iki beyin yarısı ameliyatla ayrılmış (split-brain) iki hasta üzerinde yaptıkları çalışmada, algının bölündüğünü ama hastaların "iki ayrı bilinçli algılayıcı" gibi davranmadığını buldu (*Brain*). Bu bulgular tabloyu daha az fiziksel değil, daha karmaşık hâle getirir.
+
+      **Sade bir dille zor problem.** [Established, bir problem olarak; Debated, çözümü konusunda.] Chalmers (1995), "kolay problemleri" — "çevresel uyaranları ayırt etme, sınıflandırma ve onlara tepki verme yeteneği", "zihinsel durumların bildirilebilirliği", "dikkatin odağı" — zor olandan ayırdı: "Bilincin gerçekten zor problemi tecrübe problemidir." Kolay problemler "tam da bilişsel yeteneklerin ve işlevlerin açıklanmasıyla ilgili oldukları için kolaydır": Mekanizmayı açıklarsan işlevi açıklamış olursun. Ama her mekanizmayı açıklayıp yine de sorabilirsin: Bu beyin olmak, içeriden neden bir şeye benziyor?
+
+      **Teoriler ve durumları.** [Debated.] Cogitate Konsorsiyumu iki önde gelen teoriyi, yedi laboratuvarda 256 kişiyle, fMRI, MEG ve kafa içi EEG kullanarak önceden kaydedilmiş bir çalışmada sınadı (*Nature*, 2025, Max Planck Enstitüsü'nün aktardığına göre). Bütünleşik Bilgi Teorisi arka beyin bölgelerinde sürekli bir senkronizasyon öngördü; "veriler bunu desteklemedi". Küresel Nöronal Çalışma Alanı Teorisi bir tecrübe sona erdiğinde bir faaliyet patlaması ("ateşlenme") öngördü; bu "doğrulanamadı". Bir araştırmacı şunu belirtti: "Ortada yirmiden fazla bilinç teorisi var. Biz ikisini sınadık." Bu teoriler hangi beyin faaliyetinin tecrübeyle birlikte gittiğini söylemeye çalışır; tecrübenin neden var olduğunu çözdüklerini iddia etmezler.
+
+      **Filozoflar ne düşünüyor?** [Anket verisi.] 1.733 filozofla yapılan 2020 PhilPapers anketinde, %51,93'ü zihin konusunda fizikalizmi kabul etti ya da ona yakın durdu, %32,08'i fizikalist olmayan görüşe yakın durdu, %16,56'sı "diğer"i seçti. Aynı anket %18,93 teist ve %66,95 ateist buldu — yani fizikalizmi reddeden filozofların pek çoğu dindar değildir.
+    title:
+      en: Bilim ne diyor?
+      tr: Bilim ne diyor?
   - kind: reasoning
     en: |-
       **Why dependence does not settle the question.** A radio's sound depends on its circuits: damage them and the sound distorts or stops. That does not show that the music is made by the radio. The analogy is imperfect, and physicalists reject it, but it shows that "A depends on B" and "A is B" are different claims. The evidence from lesions and anaesthesia supports the first. Whether it supports the second depends on whether the hard problem can be solved in physical terms.
@@ -131,6 +171,15 @@ fullAnswer:
       **The interaction problem.** If the soul is not physical, how does it move the body? A common version says a non-physical mind acting on the brain would break the conservation of energy. Cucu and Pitts (2019) argue that this objection fails *a priori*: conservation follows from a symmetry that holds only where nothing else acts, so "energy is conserved when and where minds do not act on bodies, but is not conserved when and where minds act on bodies". They add that "a decent objection to interactionism should be a posteriori, based on empirically studying the brain." *Limit:* this answers the energy objection only; it does not explain *how* interaction works, which remains unexplained.
 
       **The Islamic angle on interaction.** For an occasionalist (see "Miracles vs natural laws"), the problem looks different: no created thing causes anything by its own power, so the soul does not need a mechanism to move the body; God creates the movement in line with the soul's will. *Limit:* this moves the question to God's action rather than answering it in terms a scientist could test.
+    tr: |-
+      **Bağımlılık neden meseleyi çözmez?** Bir radyonun sesi devrelerine bağlıdır: Onlara zarar verirsen ses bozulur ya da kesilir. Bu, müziğin radyo tarafından üretildiğini göstermez. Benzetme kusursuz değildir ve fizikalistler onu reddeder, ama "A, B'ye bağlıdır" ile "A, B'dir"in farklı iddialar olduğunu gösterir. Hasarlardan ve anesteziden gelen delil birincisini destekler. İkincisini destekleyip desteklemediği, zor problemin fiziksel terimlerle çözülüp çözülemeyeceğine bağlıdır.
+
+      **Etkileşim problemi.** Ruh fiziksel değilse, bedeni nasıl hareket ettirir? Yaygın bir versiyon, beyin üzerinde etkide bulunan fiziksel olmayan bir zihnin enerjinin korunumunu çiğneyeceğini söyler. Cucu ve Pitts (2019) bu itirazın *a priori* olarak başarısız olduğunu savunur: Korunum, yalnızca başka hiçbir şeyin etkide bulunmadığı yerde geçerli olan bir simetriden çıkar; dolayısıyla "enerji, zihinlerin bedenler üzerinde etkide bulunmadığı zaman ve yerde korunur, ama zihinlerin bedenler üzerinde etkide bulunduğu zaman ve yerde korunmaz". Şunu eklerler: "Etkileşimciliğe yönelik düzgün bir itiraz, beynin deneysel olarak incelenmesine dayanan *a posteriori* bir itiraz olmalıdır." *Sınır:* Bu yalnızca enerji itirazına cevap verir; etkileşimin *nasıl* işlediğini açıklamaz, o açıklanmamış olarak kalır.
+
+      **Etkileşime İslami açı.** Bir vesileci için (bkz. "Mucizeler ve tabiat kanunları") problem farklı görünür: Yaratılmış hiçbir şey kendi gücüyle bir şeye sebep olmaz; dolayısıyla ruhun bedeni hareket ettirmek için bir mekanizmaya ihtiyacı yoktur; Allah hareketi ruhun iradesine uygun olarak yaratır. *Sınır:* Bu, soruyu bir bilim insanının sınayabileceği terimlerle cevaplamak yerine Allah'ın fiiline taşır.
+    title:
+      en: Filozoflar bu konuda nasıl akıl yürütür?
+      tr: Filozoflar bu konuda nasıl akıl yürütür?
   - kind: objection
     en: |-
       **"Brain damage, anaesthesia and drugs change who we are, so the mind is the brain."** *Reply:* they show dependence, which Islam accepts: the soul in this life is joined to the body and acts through it (Ibn Kathir on *nafs*; Ibn al-Qayyim). They do not show identity, and the hard problem — why the activity is experienced — remains open (Chalmers). *Limit:* a physicalist will reply that the hard problem is a confusion or will be solved, and that is a live view held by about half of philosophers.
@@ -138,40 +187,70 @@ fullAnswer:
       **"The soul is a soul of the gaps."** *Reply:* a "gap" argument says "science can't explain X, so God did it". The hard problem is different: it is a question about what kind of explanation could work at all, raised by philosophers many of whom are atheists. *Limit:* if a physical explanation of experience were found, this reply would lose its force. The Islamic belief in the soul does not rest on the hard problem, but this page's argument does.
 
       **"If AI seems conscious, the soul has nothing left to do."** *Reply:* seeming conscious is one of the "easy problems" — behaviour and report. Whether a machine *experiences* anything is the hard problem again, and no current theory can settle it (Cogitate, 2025). *Limit:* no Islamic source read for this page addresses machine consciousness directly, and Muslims hold different views on it.
+    tr: |-
+      **"Beyin hasarı, anestezi ve ilaçlar kim olduğumuzu değiştiriyor, öyleyse zihin beyindir."** *Cevap:* Bunlar bağımlılığı gösterir; İslam da bunu kabul eder: Bu hayatta ruh bedenle birleşmiştir ve onun aracılığıyla iş görür (İbn Kesîr, *nefs* hakkında; İbn Kayyim). Özdeşliği göstermezler ve zor problem — faaliyetin neden yaşandığı — açık kalır (Chalmers). *Sınır:* Bir fizikalist, zor problemin bir kavram karışıklığı olduğunu ya da çözüleceğini söyleyerek cevap verecektir; bu, filozofların yaklaşık yarısının savunduğu canlı bir görüştür.
+
+      **"Ruh, boşlukların ruhudur."** *Cevap:* Bir "boşluk" argümanı "bilim X'i açıklayamıyor, öyleyse onu Allah yaptı" der. Zor problem farklıdır: Ne tür bir açıklamanın işe yarayabileceğine dair bir sorudur ve onu dile getirenlerin pek çoğu ateist olan filozoflardır. *Sınır:* Tecrübenin fiziksel bir açıklaması bulunursa bu cevap gücünü kaybeder. İslam'daki ruh inancı zor probleme dayanmaz, ama bu sayfanın argümanı dayanır.
+
+      **"Yapay zekâ bilinçli görünürse, ruha yapacak bir şey kalmaz."** *Cevap:* Bilinçli görünmek "kolay problemler"den biridir — davranış ve bildirim. Bir makinenin bir şey *yaşayıp yaşamadığı* yine zor problemdir ve şu anki hiçbir teori bunu çözemez (Cogitate, 2025). *Sınır:* Bu sayfa için okunan hiçbir İslami kaynak makine bilincini doğrudan ele almıyor ve Müslümanlar bu konuda farklı görüşlere sahip.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Physicalism** — the mind is a physical process (51.93% of philosophers, PhilPapers 2020).
       - **Non-physicalism** (dualism and others) — experience is not fully physical (32.08%).
       - **Ibn al-Qayyim** — the soul is created, self-standing, one thing under the names *rūḥ* and *nafs* (Hussin, 2026).
       - **Interactionists such as Cucu and Pitts** — energy conservation does not rule out a mind acting on the brain.
+    tr: |-
+      - **Fizikalizm** — zihin fiziksel bir süreçtir (filozofların %51,93'ü, PhilPapers 2020).
+      - **Fizikalist olmayan görüşler** (düalizm ve diğerleri) — tecrübe tamamen fiziksel değildir (%32,08).
+      - **İbn Kayyim** — ruh yaratılmıştır, kendi başına var olur, *rûh* ve *nefs* adları altında tek bir şeydir (Hussin, 2026).
+      - **Cucu ve Pitts gibi etkileşimciler** — enerjinin korunumu, bir zihnin beyin üzerinde etkide bulunmasını dışlamaz.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: What exactly is the "hard problem"?
+      tr: '"Zor problem" tam olarak nedir?'
     a:
       en: Why brain activity is *experienced* — why it feels like something from the inside — as opposed to how the brain performs its functions (Chalmers, 1995).
+      tr: Beyin faaliyetinin neden *yaşandığı* — içeriden neden bir şey gibi hissettirdiği — sorusu; beynin işlevlerini nasıl yerine getirdiği sorusunun karşıtı olarak (Chalmers, 1995).
   - q:
       en: Could a Muslim accept that the mind comes from the brain?
+      tr: Bir Müslüman zihnin beyinden geldiğini kabul edebilir mi?
     a:
       en: A Muslim can accept that the mind *depends on* the brain in this life. Islamic teaching on death and resurrection requires that God preserves and restores the person; a view that the person simply ends with the brain contradicts it.
+      tr: Bir Müslüman, zihnin bu hayatta beyne *bağlı olduğunu* kabul edebilir. İslam'ın ölüm ve diriliş öğretisi, Allah'ın kişiyi koruyup yeniden kurmasını gerektirir; kişinin beyinle birlikte basitçe sona erdiğini söyleyen bir görüş bununla çelişir.
   - q:
       en: What do *rūḥ* and *nafs* mean?
+      tr: "*Rûh* ve *nefs* ne demek?"
     a:
       en: "*Rūḥ*: spirit or soul. *Nafs*: self or soul. Ibn al-Qayyim held they are the same thing described in different ways; Ibn Kathir's abridgement treats the *nafs* as the *rūḥ* joined to the body."
+      tr: "*Rûh*: ruh. *Nefs*: benlik ya da ruh. İbn Kayyim bunların farklı şekillerde tarif edilen aynı şey olduğunu savundu; İbn Kesîr'in özeti *nefs*'i bedene bağlanmış *rûh* olarak görür."
   - q:
       en: What does *amr* mean in 17:85?
+      tr: 17:85'te *emr* ne demek?
     a:
       en: "\"Affair\" or \"command\". Saheeh International renders it \"of the affair of my Lord\"; the verse places the soul in God's domain and says human knowledge of it is little."
+      tr: "\"İş\" ya da \"emir\". Saheeh International bunu İngilizcede \"of the affair of my Lord\" olarak, Elmalılı \"Rabbimin bildiği bir iş\" olarak çevirir; âyet ruhu Allah'ın alanına yerleştirir ve insanın onun hakkındaki bilgisinin az olduğunu söyler."
   - q:
       en: If AI one day seems conscious, what would that mean for the soul?
+      tr: Yapay zekâ bir gün bilinçli görünürse, bu ruh için ne anlama gelir?
     a:
       en: That it behaves as if conscious. Whether it experiences anything is an open question that neither science nor this page can answer today.
+      tr: Bilinçliymiş gibi davrandığı anlamına gelir. Bir şey yaşayıp yaşamadığı, bugün ne bilimin ne de bu sayfanın cevaplayabileceği açık bir sorudur.
   - q:
       en: Who was asking about the soul in 17:85?
+      tr: 17:85'te ruh hakkında soran kimdi?
     a:
       en: In Ibn Masʿud's report, a group of Jews in Medina ({hadith:bukhari:7297}).
+      tr: İbn Mes'ûd'un rivayetinde, Medine'de bir grup Yahudi ({hadith:bukhari:7297}).
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
   - *a5
+translatedFrom: docs/research/tr/Q34.md

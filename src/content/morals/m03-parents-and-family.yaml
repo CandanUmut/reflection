@@ -13,7 +13,7 @@ title:
   tr: Anne baba ve aile
   en: Parents and family
 summary:
-  tr: Yaşlılıkta özen ve saygı — ama günahta itaat yoktur.
+  tr: "Kur'an'da anne babaya iyilik, Allah'a ibadetin hemen ardından gelir: \"Rabbin kesin olarak şunları emretti: Ancak kendisine ibadet edin, anne ve babaya iyilik edin.\" (17:23). Bu iyilik başka bir dinden olan anne babaya da borçludur, ama itaat, onlar yanlışı emrettiğinde sona erer (31:15) — ve aile görevleri her yöne işler: anne babadan çocuklara ve eşler arasında."
   en: 'In the Quran, kindness to parents comes straight after the worship of God: "your Lord has decreed that you not worship except Him, and to parents, good treatment" (17:23). It is owed even to parents of another faith, but obedience stops where they command wrong (31:15) — and family duties run in every direction, from parents to children and between spouses.'
 teachings:
   tr: |
@@ -29,7 +29,7 @@ evidence:
   tr: Aile bağlılığı, ergenlerin iyi oluşuyla ilişkilidir. [Established] (ilişkisel bulgu)
   en: Family cohesion correlates with adolescent wellbeing. [Established] (correlational)
 gaps:
-  tr: Namus temelli denetim.
+  tr: Aileler çoğu zaman bu idealin gerisinde kalır ve bazı anne babalar bu öğretinin onlara verdiği dinî otoriteyi kötüye kullanır. Diğer mezheplerin itaat konusundaki görüşlerine ve aile bütünlüğü üzerine araştırmalara henüz başvurulmadı.
   en: Families often fall short of this ideal, and some parents abuse the religious authority this teaching gives them. The other schools' views on obedience, and research on family cohesion, have not yet been consulted.
 visualizations:
   - id: ideas
@@ -57,6 +57,13 @@ fullAnswer:
       **Birr and iḥsān.** *Birr al-wālidayn* means goodness and devotion to parents; the Quran's word in 17:23 is *iḥsān*, "good treatment" done beautifully. *ʿUqūq* is the opposite: harming or cutting off parents.
 
       **Ṣilat al-raḥim.** "Joining the womb": keeping ties with relatives. The word *raḥim* (womb) shares its root with *raḥma* (mercy).
+    tr: |-
+      **Birr ve ihsân.** *Birrü'l-vâlideyn*, anne babaya iyilik ve bağlılık demektir; Kur'an'ın 17:23'te kullandığı kelime *ihsân*dır, yani güzelce yapılan "iyilik". *Ukûk* bunun zıddıdır: anne babaya zarar vermek ya da onlarla ilişkiyi kesmek.
+
+      **Sıla-i rahim.** "Rahmi birleştirmek": akrabalarla bağları sürdürmek. *Rahim* (ana rahmi) kelimesi *rahmet* ile aynı kökü paylaşır.
+    title:
+      en: Ne anlama geliyor?
+      tr: Ne anlama geliyor?
   - kind: quran
     en: |-
       **Not even "uff" (17:23–24).** "And your Lord has decreed that you not worship except Him, and to parents, good treatment. Whether one or both of them reach old age [while] with you, say not to them [so much as], 'uff,' and do not repel them but speak to them a noble word. And lower to them the wing of humility out of mercy and say, 'My Lord, have mercy upon them as they brought me up [when I was] small'" (17:23–24), from the Meccan Sura al-Isra. The verse pictures the hardest stage: parents in old age, living with you. "Uff" is a small sound of irritation; even that is ruled out.
@@ -66,6 +73,17 @@ fullAnswer:
       **Spouses (30:21).** "And of His signs is that He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy" (30:21). Marriage is described by what each gives the other: tranquillity, affection (*mawadda*), mercy.
 
       **Wider family (4:1, 4:36).** God is the One "through whom you ask one another, and the wombs" (4:1): you must fear God regarding your ties of kinship. And: "to parents do good, and to relatives, orphans, the needy, the near neighbor…" (4:36).
+    tr: |-
+      **"Öf" bile değil (17:23–24).** "Rabbin kesin olarak şunları emretti: Ancak kendisine ibadet edin, anne ve babaya iyilik edin. Onlardan biri veya her ikisi senin yanında yaşlanırsa, sakın onlara "öf" bile deme ve onları azarlama. İkisine de tatlı ve güzel söz söyle. İkisine de acıyarak tevazu kanatlarını indir. Ve şöyle de: "Ey Rabbim! Onların beni küçükten terbiye edip yetiştirdikleri gibi, sen de kendilerine merhamet et."" (17:23–24), Mekkî İsrâ Sûresi'nden. Âyet en zor evreyi tasvir eder: yaşlılıkta, seninle birlikte yaşayan anne baba. "Öf", küçük bir sabırsızlık sesidir; o bile yasaktır.
+
+      **Şükür ve sınırı (31:14–15).** "Gerçi biz insana, anasına ve babasına itaati de tavsiye ettik. Anası onu zayıflık üstüne zayıflıkla taşıdı. Onun sütten ayrılması da iki yıl içindedir. (Biz insana): "Bana, anana ve babana şükret" diye de tavsiye ettik… Bununla beraber eğer her ikisi de bilmediğin bir şeyi, bana ortak koşman hususunda seni zorlarsa, onlara itaat etme. Fakat dünyada onlarla iyi geçin" (31:14–15), Lokmân Sûresi'nden, Mekkî. Mekke'de yeni Müslüman olan pek çok gencin, onlara geri dönmeleri için baskı yapan putperest anne babaları vardı. Âyet şunu söyler: Bu konuda onlara itaat etme, ama onlara iyi davranmaya devam et. İtaatin sınırını Allah koyar; iyilik görevi devam eder.
+
+      **Eşler (30:21).** "Yine O'nun âyetlerindendir ki, sizin için nefislerinizden kendilerine ısınırsınız diye eşler yaratmış, aranıza bir sevgi ve merhamet koymuştur." (30:21). Evlilik, her birinin diğerine verdiği şeylerle tarif edilir: huzur, sevgi (*meveddet*), merhamet.
+
+      **Geniş aile (4:1, 4:36).** Allah, "kendi adına birbirinizden dilekte bulunduğunuz" Allah'tır ve "akrabalık (bağlarını kırmak)tan sakının" (4:1): Akrabalık bağların konusunda Allah'tan korkmalısın. Ve: "…anaya, babaya, akrabaya, yetimlere, yoksullara, akraba olan komşulara… iyilik edin" (4:36).
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **Your mother, three times.** A man asked: "O Messenger of Allah! Who is more entitled to be treated with the best companionship by me?" The Prophet (pbuh) answered "your mother" three times, and then "your father" ({hadith:bukhari:5971}, narrated by Abu Hurayra).
@@ -75,8 +93,23 @@ fullAnswer:
       **What parents owe children: fairness.** Al-Nuʿman ibn Bashir (ra) reports that his father wanted the Prophet (pbuh) to witness a gift to one son only. The Prophet (pbuh) said: "Be afraid of Allah, and be just to your children" ({hadith:bukhari:2587}). Parents must not favour one child over another.
 
       **What spouses owe each other.** ʿAʾisha (ra) reports: "The best of you is the best to his wives, and I am the best of you to my wives" (al-Tirmidhi 3895; al-Tirmidhi: *ḥasan gharīb ṣaḥīḥ*; al-Albani: *ṣaḥīḥ*). The measure of a man's goodness is how he treats the people with the least power to complain about him.
+    tr: |-
+      **Üç kez annen.** Bir adam sordu: "Ey Allah'ın Resulü! İyi davranmama en çok kim layıktır?" Hz. Peygamber (s.a.v.) üç kez "annen", sonra "baban" diye cevap verdi ({hadith:bukhari:5971}, Ebû Hüreyre'den).
+
+      **Gönüllü olarak savaşa katılmadan önce anne babaya hizmet.** Bir adam Hz. Peygamber'den (s.a.v.) cihada katılmak için izin istedi. O, "Anne baban hayatta mı?" diye sordu. Adam evet dedi. O da şöyle buyurdu: "O hâlde onlara hizmette cihad et" ({hadith:bukhari:3004}, Abdullah b. Amr'dan). İlgili bir rivayette Câhime savaşa çıkmayı sordu; Hz. Peygamber (s.a.v.), "Annen var mı?" diye sordu ve şöyle buyurdu: "O hâlde ondan ayrılma, çünkü cennet onun ayaklarının altındadır" (Nesâî 3104; Hâkim senedini sahih, Elbânî hasen sahih saydı; Dârekutnî ve İbn Hacer dahil başka âlimler senedin hangi versiyonunun doğru olduğunu tartıştı — hadithunlocked.com). Her ikisinde de bağlam gönüllü savaştır; anne babaya bakmak için kalmak daha büyük görevdi.
+
+      **Anne babanın çocuklara borcu: adalet.** Nu'mân b. Beşîr (r.a.), babasının yalnızca bir oğluna yaptığı bir hibeye Hz. Peygamber'i (s.a.v.) şahit tutmak istediğini aktarır. Hz. Peygamber (s.a.v.) şöyle buyurdu: "Allah'tan korkun ve çocuklarınız arasında adaletli olun" ({hadith:bukhari:2587}). Anne baba bir çocuğu diğerine tercih etmemelidir.
+
+      **Eşlerin birbirine borcu.** Hz. Âişe (r.a.) şöyle aktarır: "Sizin en hayırlınız, ailesine en hayırlı olanınızdır; ben de aileme karşı en hayırlınızım" (Tirmizî 3895; Tirmizî: *hasen garîb sahih*; Elbânî: *sahih*). Bir erkeğin iyiliğinin ölçüsü, ondan şikâyet etmeye en az gücü olan insanlara nasıl davrandığıdır.
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: "**The maqāṣid and the family.** No named work was read on this point."
+    tr: "**Makâsıd ve aile.** Bu konuda adı belli hiçbir eser okunmadı."
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: fiqh
     en: |-
       **No obedience in sin.** Shaykh Amjad Rasheed, a contemporary Shafiʿi scholar, writes that "it is not obligatory to obey any of them if they command something that contravenes the shariah", and that obeying in such a case is "not even permissible" — for example, if parents stop a child from praying.
@@ -86,8 +119,23 @@ fullAnswer:
       **Some exceptions for the child's interest.** He adds that some scholars exempt matters "due to what is best in the child's interests", such as "travelling to attain knowledge, even if recommended". Otherwise, in what is permissible, the child should comply.
 
       **Marriage and career.** Readers ask whether a parent can choose their spouse or career. The source read does not address these directly, and the other schools' positions have not yet been consulted. On marriage, the page "Does Islam treat women unequally?" and the run 4 research on guardianship (*wilāya*) discuss whose consent is required.
+    tr: |-
+      **Günahta itaat yoktur.** Çağdaş bir Şâfiî âlim olan Şeyh Emced Reşîd, "şeriata aykırı bir şey emrederlerse hiçbirine itaat etmenin vacip olmadığını" ve böyle bir durumda itaat etmenin "caiz bile olmadığını" yazar — örneğin anne baba bir çocuğu namaz kılmaktan alıkoyarsa.
+
+      **Çocuğa zarar veren şeyde itaat yoktur.** İbn Hacer el-Heytemî'nin *Tuhfetü'l-Muhtâc*'ına (geç dönem Şâfiî hukukunun standart eseri) atıfla, "anne babanın çocuk için fitne gerektiren bir şey istemesi hâlinde onlara itaat etmenin vacip olmadığını" — yani ciddi bir zarar ya da sıkıntı — ve çocuğun "onlardan zarar görmemek için anne babaya karşı gelirken yumuşak olması gerektiğini" yazar.
+
+      **Çocuğun yararına bazı istisnalar.** Bazı âlimlerin "çocuğun yararına en iyi olan şey sebebiyle" bazı konuları istisna tuttuğunu ekler; örneğin "müstehap olsa bile ilim tahsili için yolculuk". Bunun dışında, mubah olan şeylerde çocuk uymalıdır.
+
+      **Evlilik ve meslek.** Okuyucular anne babanın eşlerini ya da mesleklerini seçip seçemeyeceğini soruyor. Okunan kaynak bunları doğrudan ele almıyor ve diğer mezheplerin görüşlerine henüz başvurulmadı. Evlilik konusunda "İslam kadına eşitsiz mi davranıyor?" sayfası ve velayet (*velâyet*) üzerine 4. çalışmadaki araştırma, kimin rızasının gerektiğini ele alıyor.
+    title:
+      en: İtaatin sınırları
+      tr: İtaatin sınırları
   - kind: research
     en: "**Family cohesion and adolescent wellbeing.** No named study was read, so no numbers are given."
+    tr: "**Aile bütünlüğü ve ergenlerin iyi oluşu.** Adı belli hiçbir çalışma okunmadı, dolayısıyla rakam verilmiyor."
+    title:
+      en: Araştırmalar ne gösteriyor?
+      tr: Araştırmalar ne gösteriyor?
   - kind: practice
     en: |-
       **With ageing parents.** Speak gently, especially when you are tired; visit or call regularly; let them keep their dignity — ask their opinion even when you will decide yourself.
@@ -97,6 +145,17 @@ fullAnswer:
       **As a parent.** Be fair between children in gifts and attention ({hadith:bukhari:2587}). Explain rather than only command. Remember that your children's rights over you are as real as yours over them.
 
       **With a spouse.** Kindness in small things: the way you speak, help with the work of the home, patience with faults (Tirmidhi 3895; 30:21).
+    tr: |-
+      **Yaşlanan anne babayla.** Özellikle yorgunken yumuşak konuş; düzenli olarak ziyaret et ya da ara; onurlarını korumalarına izin ver — kararı kendin verecek olsan bile fikirlerini sor.
+
+      **Anne ya da baba senin vermen gereken bir kararı kontrol etmeye çalıştığında.** Dinle, kaygılarını ciddiye al, gerekçelerini açıkla ve onlara zaman tanı. Seçim mubahsa ve senin için doğruysa, saygılı kalarak onu yapabilirsin (Reşîd, yukarıda). Gerekirse güvendiğin bir akrabadan ya da imamdan arabuluculuk iste.
+
+      **Anne ya da baba olarak.** Hediyelerde ve ilgide çocuklar arasında adaletli ol ({hadith:bukhari:2587}). Yalnızca emretmek yerine açıkla. Çocuklarının senin üzerindeki haklarının, senin onların üzerindeki hakların kadar gerçek olduğunu unutma.
+
+      **Eşinle.** Küçük şeylerde iyilik: konuşma biçimin, ev işlerine yardım, kusurlara sabır (Tirmizî 3895; 30:21).
+    title:
+      en: Günlük hayatta
+      tr: Günlük hayatta
   - kind: heart
     en: |-
       **If your parent is abusive or controlling**, Islam does not require you to accept abuse. Kindness to parents does not mean obeying commands that harm you (Ibn Hajar, via Rasheed). You can keep distance to stay safe, while not cutting them off with cruelty: a message on holidays, a prayer for them. If you are in danger, contact the police or a domestic-violence service; in many countries a confidential helpline is listed at findahelpline.com.
@@ -104,30 +163,52 @@ fullAnswer:
       **If your parents were not good to you**, the command to honour them is not a claim that what they did was right. Many people find it helpful to separate "I honour my parents' place" from "I accept what they did". A counsellor can help you work through this.
 
       **If you are caring for a parent with dementia**, 17:23–24 describes your situation. It is exhausting; asking for help is not a failure of *birr*.
+    tr: |-
+      **Anne ya da baban istismarcı ya da kontrolcüyse**, İslam senden istismarı kabullenmeni istemez. Anne babaya iyilik, sana zarar veren emirlere itaat etmek demek değildir (İbn Hacer, Reşîd yoluyla). Güvende kalmak için mesafe koyabilirsin ve yine de onlarla ilişkiyi zalimce kesmeyebilirsin: bayramlarda bir mesaj, onlar için bir dua. Tehlikedeysen polise ya da bir aile içi şiddet hizmetine başvur; pek çok ülkede gizli bir yardım hattı findahelpline.com'da listelenir.
+
+      **Anne baban sana iyi davranmadıysa**, onlara hürmet emri, yaptıklarının doğru olduğu iddiası değildir. Pek çok insan "anne babamın yerine hürmet ediyorum" ile "yaptıklarını kabul ediyorum"u ayırmayı yararlı bulur. Bir danışman bunu çözmene yardımcı olabilir.
+
+      **Demanslı bir anne ya da babaya bakıyorsan**, 17:23–24 senin durumunu anlatır. Bu tüketicidir; yardım istemek *birr*de bir başarısızlık değildir.
+    title:
+      en: Zorlanan kişi için
+      tr: Zorlanan kişi için
 followUps:
   - q:
       en: Where is the line between kindness and accepting control?
+      tr: İyilik ile kontrolü kabullenmek arasındaki çizgi nerede?
     a:
       en: You owe kindness always; you owe obedience in permissible things that do not harm you. A parent cannot command sin, or something that brings serious harm to you (Ibn Hajar, via Rasheed).
+      tr: İyiliği her zaman borçlusun; itaati ise sana zarar vermeyen mubah şeylerde borçlusun. Anne baba günahı ya da sana ciddi zarar getirecek bir şeyi emredemez (İbn Hacer, Reşîd yoluyla).
   - q:
       en: What do parents owe their children?
+      tr: Anne babanın çocuklarına borcu nedir?
     a:
       en: Fairness between them ({hadith:bukhari:2587}), care, and the same mercy they ask for in old age (17:24).
+      tr: Aralarında adalet ({hadith:bukhari:2587}), ilgi ve yaşlılıkta kendilerinin istediği merhametin aynısı (17:24).
   - q:
       en: What do husbands and wives owe each other?
+      tr: Karı koca birbirine ne borçludur?
     a:
       en: Tranquillity, affection and mercy (30:21), and kindness as the measure of a good person (Tirmidhi 3895). Detailed rights in law are on the page on marriage.
+      tr: Huzur, sevgi ve merhamet (30:21) ve iyi bir insanın ölçüsü olarak iyilik (Tirmizî 3895). Hukuktaki ayrıntılı haklar evlilik sayfasında.
   - q:
       en: What do (ra), (pbuh) and "kith and kin" mean?
+      tr: (r.a.), (s.a.v.) ve "eş dost ve akraba" ne demek?
     a:
       en: '(ra): "may God be pleased with him/her", said after a Companion. (pbuh): "peace be upon him", after the Prophet. Kith and kin: friends and relatives.'
+      tr: "(r.a.): \"Allah ondan razı olsun\"; bir sahâbînin adından sonra söylenir. (s.a.v.): \"Allah'ın salât ve selamı onun üzerine olsun\"; Hz. Peygamber'in adından sonra. Eş dost ve akraba: arkadaşlar ve yakınlar."
   - q:
       en: What is the context of al-Nasaʾi 3104?
+      tr: Nesâî 3104'ün bağlamı nedir?
     a:
       en: A man asked to go to battle; the Prophet (pbuh) told him to stay with his mother, for "Jannah is beneath her feet". Bukhari 3004 makes the same point about parents in general.
+      tr: Bir adam savaşa gitmek istedi; Hz. Peygamber (s.a.v.) ona annesinin yanında kalmasını söyledi, çünkü "cennet onun ayaklarının altındadır". Buhârî 3004 aynı noktayı genel olarak anne baba hakkında söyler.
   - q:
       en: Can my parents make me divorce, or choose my career?
+      tr: Anne babam beni boşanmaya zorlayabilir mi ya da mesleğimi seçebilir mi?
     a:
       en: Not checked in the four schools; the Shafiʿi source read limits obedience to permissible matters that do not harm the child.
+      tr: Dört mezhepte kontrol edilmedi; okunan Şâfiî kaynak itaati, çocuğa zarar vermeyen mubah konularla sınırlar.
 legacySources:
   - *a1
+translatedFrom: docs/research/tr/M3.md

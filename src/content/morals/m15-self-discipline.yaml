@@ -16,7 +16,7 @@ verses:
   - 12:53
   - 13:11
 summary:
-  tr: '"Allah katında amellerin en sevimlisi, az da olsa devamlı olanıdır" (Buhârî 6464). Uzun ve inişli çıkışlı bir yol.'
+  tr: "\"Elbette nefsini temizleyip parlatan kurtulmuştur. Onu kirletip gömen de ziyan etmiştir.\" (91:9–10). Karakter yavaş yavaş eğitilir: \"Allah'a en sevimli amel, az da olsa en düzenli ve devamlı olanıdır\" ({hadith:bukhari:6464})."
   en: '"He has succeeded who purifies it, And he has failed who instills it [with corruption]" (91:9–10). Character is trained little by little: "the most beloved deed to Allah is the most regular and constant even if it were little" ({hadith:bukhari:6464}).'
 teachings:
   tr: |
@@ -65,10 +65,7 @@ stories:
     - Yūsuf (Joseph) resisting temptation and preferring prison (12:33).
     - The Sufi tradition of daily self-accounting (*muḥāsaba*), recommended by ʿUmar: "Take account of yourselves before you are taken to account."
 gaps:
-  tr: |
-    - Dinî topluluklar öz disiplini bazen utanç ve korkuyla öğretir; bu da karaktere değil, dinî titizliğe (vesvese) yol açabilir. Bkz. Q8 (vesvese).
-    - Disiplinin kolay ya da hızlı olacağı vaat edilemez; araştırmalar da gelenek de uzun ve inişli çıkışlı bir yol anlatır.
-    - Ego tükenmesi efsanesi, popüler İslami kişisel gelişim kitaplarında hâlâ görülür.
+  tr: Gazzâlî'nin *Riyâzatü'n-Nefs*'ine (Nefsin Terbiyesi), Miskeveyh'e ve Tûsî'ye henüz başvurulmadı. Dunedin ve alışkanlık çalışmaları özetlerden aktarılıyor. Hiç kimse disiplinin kolay ya da hızlı hissettireceğini vaat edemez.
   en: Al-Ghazali's *On Disciplining the Soul*, Miskawayh and al-Ṭūsī have not yet been consulted. The Dunedin and habit studies are reported from summaries. No one can promise that discipline will feel easy or quick.
 visualizations:
   - id: ideas
@@ -115,6 +112,10 @@ sources:
 fullAnswer:
   - kind: meaning
     en: "**Nafs, tazkiya, mujāhada.** *Nafs* is the self or soul, including its desires. *Tazkiya* is purification — the same root as *zakāh* — meaning both cleansing and growth. *Mujāhada* is striving against the self. *Khuluq* is character."
+    tr: "**Nefis, tezkiye, mücâhede.** *Nefis*, arzularıyla birlikte benlik ya da ruhtur. *Tezkiye*, arınmadır — *zekât* ile aynı kök — hem temizlenme hem de büyüme anlamına gelir. *Mücâhede*, nefse karşı mücadeledir. *Hulk*, karakterdir."
+    title:
+      en: Ne anlama geliyor?
+      tr: Ne anlama geliyor?
   - kind: quran
     en: |-
       **The soul and its purification (91:7–10).** "And [by] the soul and He who proportioned it And inspired it [with discernment of] its wickedness and its righteousness, He has succeeded who purifies it, And he has failed who instills it [with corruption]" (91:7–10), Meccan. The verse says humans are given the knowledge of both, and their success depends on what they do with it.
@@ -126,13 +127,37 @@ fullAnswer:
       **The self that urges evil (12:53).** "And I do not acquit myself. Indeed, the soul is a persistent enjoiner of evil, except those upon which my Lord has mercy" (12:53). In Sura Yusuf, this is spoken at the end of the story of the minister's wife (Ibn Kathir and others differ on whether the speaker is Joseph or the woman; that discussion has not yet been consulted).
 
       **Change begins inside (13:11).** "Indeed, Allah will not change the condition of a people until they change what is in themselves" (13:11). The verse is about a *people*; applying it to an individual's habits is a common extension.
+    tr: |-
+      **Nefis ve arınması (91:7–10).** "Nefse ve onu biçimlendirene, Sonra da ona kötülük ve takva kabiliyetini verene yemin olsun ki, Elbette nefsini temizleyip parlatan kurtulmuştur. Onu kirletip gömen de ziyan etmiştir." (91:7–10), Mekkî. Âyet insanlara ikisinin de bilgisinin verildiğini ve başarılarının bununla ne yaptıklarına bağlı olduğunu söyler.
+
+      **Nefsi alıkoymak (79:40–41).** "Kim de Rabbinin divanında durmaktan korkmuş, nefsini boş heveslerden menetmiş ise, Kuşkusuz onun varacağı yer cennettir." (79:40–41), Mekkî.
+
+      **Gayret ve hidayet (29:69).** "Ama bizim yolumuzda cihad edenleri, elbette kendi yollarımıza eriştireceğiz. Hiç şüphe yok ki Allah iyi davrananlarla beraberdir." (29:69). Önce gayret gelir, hidayet onu izler.
+
+      **Kötülüğü emreden nefis (12:53).** "Ben yine de nefsimi temize çıkarmıyorum. Çünkü nefis şiddetle kötülüğü emreder. Ancak Rabbimin rahmetiyle yarlığadığı müstesna." (12:53). Yûsuf Sûresi'nde bu söz, vezirin karısının hikâyesinin sonunda söylenir (İbn Kesîr ve diğerleri, konuşanın Hz. Yûsuf mu yoksa kadın mı olduğu konusunda ayrılır; bu tartışmaya henüz başvurulmadı).
+
+      **Değişim içeriden başlar (13:11).** "Allah bir kavme verdiğini, o kavim kendisini bozup değiştirmedikçe değiştirmez." (13:11). Âyet bir *kavim* hakkındadır; onu bir bireyin alışkanlıklarına uygulamak yaygın bir genişletmedir.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **Small and steady.** ʿAʾisha (ra) reports the Prophet (pbuh) as saying: "Do good deeds properly, sincerely and moderately and know that your deeds will not make you enter Paradise, the most beloved deed to Allah is the most regular and constant even if it were little" ({hadith:bukhari:6464}). Moderation and constancy, not bursts of effort, and no pride in one's deeds.
 
       **Good character weighs most.** "There is nothing heavier than good character put in the scale of a believer on the Day of Resurrection" ({hadith:abudawud:4799}, narrated by Abu al-Dardaʾ; al-Albani: *ṣaḥīḥ*).
+    tr: |-
+      **Az ve devamlı.** Hz. Âişe (r.a.), Hz. Peygamber'in (s.a.v.) şöyle buyurduğunu aktarır: "İyi amelleri doğru, ihlaslı ve ölçülü yapın ve bilin ki amelleriniz sizi cennete sokmaz; Allah'a en sevimli amel, az da olsa en düzenli ve devamlı olanıdır" ({hadith:bukhari:6464}). Gayret patlamaları değil, ölçülülük ve devamlılık; ve kişinin amelleriyle övünmemesi.
+
+      **Güzel ahlak en ağır basandır.** "Kıyamet Günü'nde müminin terazisine konan hiçbir şey güzel ahlaktan daha ağır değildir" ({hadith:abudawud:4799}, Ebü'd-Derdâ'dan; Elbânî: *sahih*).
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: "**Training the soul.** J. Winter) — comparing training the soul to training an animal, by gradual habit — and Miskawayh's *Tahdhīb al-Akhlāq* and Naṣīr al-Dīn al-Ṭūsī's *Akhlāq-i Nāṣirī*, which follow Aristotle in treating virtue as a balanced mean formed by repetition. None of these texts was read; the Bukhari hadith above states the same principle of steady practice."
+    tr: "**Nefsi eğitmek.** J. Winter) — nefsi eğitmeyi bir hayvanı eğitmeye, yavaş yavaş alışkanlık kazandırarak, benzetir — ve Miskeveyh'in *Tehzîbü'l-Ahlâk*'ı ile Nasîrüddîn-i Tûsî'nin *Ahlâk-ı Nâsırî*'si, erdemi tekrarla oluşan dengeli bir orta yol olarak ele alırken Aristoteles'i izler. Bu metinlerin hiçbiri okunmadı; yukarıdaki Buhârî hadisi aynı devamlı uygulama ilkesini ifade eder."
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: research
     en: |-
       **Childhood self-control predicts adult life.** [Established; correlational.] The Dunedin study "followed 1,037 children from birth to age 32". Children with lower self-control, as rated by teachers, parents and themselves, were more likely as adults to have worse physical health, substance dependence, money and credit problems, and criminal convictions — "after controlling for social class and IQ score" (Moffitt et al., 2011, as reported).
@@ -140,6 +165,15 @@ fullAnswer:
       **Habits take time.** [Moderate; small study.] In Lally and colleagues (2010), 96 people chose a new daily habit (82 completed). The "average time to reach maximum automaticity was 66 days", ranging from 18 days to a predicted 254. Missing one day made little difference; many missed days lowered the habit's strength (BPS summary). This fits the hadith: little and regular.
 
       **"Willpower runs out" did not replicate.** [Established for the replication.] The "ego depletion" idea — that self-control is a fuel that runs down — was tested in 23 laboratories with 2,141 participants. The effect was d = 0.04 (95% CI −0.07 to 0.15), not reliably different from zero (Hagger et al., 2016).
+    tr: |-
+      **Çocukluktaki öz denetim yetişkin hayatını öngörür.** [Established; korelasyonel.] Dunedin çalışması "1.037 çocuğu doğumdan 32 yaşına kadar takip etti". Öğretmenleri, anne babaları ve kendileri tarafından öz denetimi daha düşük olarak değerlendirilen çocukların, yetişkinlikte daha kötü fiziksel sağlığa, madde bağımlılığına, para ve kredi sorunlarına ve sabıka kayıtlarına sahip olma olasılığı daha yüksekti — "sosyal sınıf ve IQ puanı kontrol edildikten sonra" (Moffitt ve ark., 2011, aktarıldığı şekliyle).
+
+      **Alışkanlıklar zaman alır.** [Orta; küçük çalışma.] Lally ve arkadaşlarının (2010) çalışmasında 96 kişi yeni bir günlük alışkanlık seçti (82'si tamamladı). "En yüksek otomatikliğe ulaşmak için ortalama süre 66 gündü"; 18 günden tahmini 254 güne kadar değişiyordu. Bir günü kaçırmak pek fark yaratmadı; çok sayıda kaçırılan gün alışkanlığın gücünü düşürdü (BPS özeti). Bu, hadise uyar: az ve düzenli.
+
+      **"İrade tükenir" fikri tekrarlanamadı.** [Established, tekrar çalışması için.] Öz denetimin tükenen bir yakıt olduğu fikri olan "ego tükenmesi", 23 laboratuvarda 2.141 katılımcıyla sınandı. Etki d = 0,04'tü (%95 GA −0,07 ile 0,15), sıfırdan güvenilir şekilde farklı değildi (Hagger ve ark., 2016).
+    title:
+      en: Araştırmalar ne gösteriyor?
+      tr: Araştırmalar ne gösteriyor?
   - kind: practice
     en: |-
       **Start small and keep it up**: two minutes of Quran, two units of extra prayer, one act of kindness — every day ({hadith:bukhari:6464}).
@@ -149,35 +183,64 @@ fullAnswer:
       **Change the setting, not only the will**: remove temptations, set reminders, choose good company.
 
       **Work on character, not only rituals**: patience, honesty, gentleness weigh most ({hadith:abudawud:4799}).
+    tr: |-
+      **Küçük başla ve devam ettir**: iki dakika Kur'an, iki rekât nafile namaz, bir iyilik — her gün ({hadith:bukhari:6464}).
+
+      **Yeni bir alışkanlığın doğal hissettirmesi için yaklaşık iki ay bekle** (Lally ve ark.) ve kaçırılan bir günden sonra vazgeçme.
+
+      **Yalnızca iradeyi değil, ortamı değiştir**: ayartıcı şeyleri kaldır, hatırlatıcılar kur, iyi arkadaşlar seç.
+
+      **Yalnızca ibadetler üzerinde değil, karakter üzerinde de çalış**: sabır, dürüstlük, yumuşaklık en ağır basandır ({hadith:abudawud:4799}).
+    title:
+      en: Günlük hayatta
+      tr: Günlük hayatta
   - kind: heart
     en: |-
       **If you keep failing**, the Quran expects struggle: "the soul is a persistent enjoiner of evil, except those upon which my Lord has mercy" (12:53). Falling and getting up again is the path, not a sign that you are not on it.
 
       **If you are trying to stop an addiction**, willpower alone is rarely enough; ask for help — a doctor, a counsellor, a support group. Seeking help is part of striving (29:69).
+    tr: |-
+      **Sürekli başarısız oluyorsan**, Kur'an mücadeleyi bekler: "nefis şiddetle kötülüğü emreder. Ancak Rabbimin rahmetiyle yarlığadığı müstesna" (12:53). Düşüp yeniden kalkmak yolun kendisidir, yolda olmadığının işareti değil.
+
+      **Bir bağımlılığı bırakmaya çalışıyorsan**, irade tek başına nadiren yeterlidir; yardım iste — bir doktor, bir danışman, bir destek grubu. Yardım istemek gayretin bir parçasıdır (29:69).
+    title:
+      en: Zorlanan kişi için
+      tr: Zorlanan kişi için
 followUps:
   - q:
       en: Can character really change?
+      tr: Karakter gerçekten değişebilir mi?
     a:
       en: The Quran's call to purify the soul (91:9) assumes it can; the research on habits shows it takes time and repetition.
+      tr: Kur'an'ın nefsi arındırma çağrısı (91:9) değişebileceğini varsayar; alışkanlıklar üzerine araştırmalar bunun zaman ve tekrar gerektirdiğini gösterir.
   - q:
       en: Why "little but constant"?
+      tr: Neden "az ama devamlı"?
     a:
       en: Because steady habits last; bursts of effort fade ({hadith:bukhari:6464}; Lally et al.).
+      tr: Çünkü düzenli alışkanlıklar kalıcıdır; gayret patlamaları söner ({hadith:bukhari:6464}; Lally ve ark.).
   - q:
       en: Is willpower a limited resource?
+      tr: İrade sınırlı bir kaynak mı?
     a:
       en: The large replication found no reliable "ego depletion" effect (Hagger et al., 2016).
+      tr: Büyük tekrar çalışması güvenilir bir "ego tükenmesi" etkisi bulmadı (Hagger ve ark., 2016).
   - q:
       en: Who is speaking in 12:53?
+      tr: 12:53'te konuşan kim?
     a:
       en: Commentators differ (Joseph or the minister's wife); not checked here.
+      tr: Müfessirler ayrılır (Hz. Yûsuf ya da vezirin karısı); burada kontrol edilmedi.
   - q:
       en: Does 13:11 apply to individuals?
+      tr: 13:11 bireylere uygulanır mı?
     a:
       en: It speaks of "a people"; using it for personal change is a common extension.
+      tr: '"Bir kavimden" söz eder; onu kişisel değişim için kullanmak yaygın bir genişletmedir.'
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
   - *a5
+translatedFrom: docs/research/tr/M15.md

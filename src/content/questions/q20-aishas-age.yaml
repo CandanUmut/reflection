@@ -14,16 +14,13 @@ helpCard: general
 verses:
   - 4:6
 steelman:
-  tr: |
-    Buhârî ve Müslim, altı yaşında nikâhı ve dokuz yaşında zifafı rivayet eder. Peygamber bütün zamanlar için bir örnekse, bugün çocuk istismarı dediğimiz şeyi onaylamış mı oldu? Bazı hukuk sistemleri bu rivayeti asgari yaş kanunlarına karşı delil olarak kullanır.
+  tr: "\"En güvenilir iki hadis külliyatı, Peygamber'in Âişe ile altı yaşındayken evlendiğini ve dokuz yaşındayken gerdeğe girdiğini söylüyor. Müslümanlar onu bütün zamanlar için en güzel örnek olarak görüyor. Bu doğruysa, ya dokuz yaşında bir çocuğun evliliği doğruydu — ki bugün buna haklı olarak istismar diyoruz — ya da örnek bütün zamanlar için değil. Bazı hükümetler ve vaizler bu rivayeti hâlâ asgari yaş yasalarına karşı delil olarak kullanıyor. 'O zaman normaldi' demek işe yaramaz: Allah'ın son elçisi yalnızca normal olanı yaptıysa, onu ahlaki bir örnek yapan nedir?\""
   en: "\"The two most trusted hadith collections say the Prophet married Aisha at six and consummated the marriage at nine. Muslims call him the best example for all time. If that is true, then either a nine-year-old's marriage was right — which we now rightly call abuse — or the example is not for all time. Some governments and preachers still cite this report against minimum-age laws. Saying 'it was normal then' does not help: if God's final messenger only did what was normal, what makes him a moral model at all?\""
 whyAsked:
-  tr: |
-    İnternetteki başlıca polemiklerden biridir ve pek çok genç onunla ilk kez düşmanca videolarda karşılaşır.
+  tr: "Bu, internette İslam'a yöneltilen en yaygın saldırılardan biridir ve pek çok genç Müslüman onunla ilk kez düşmanca bir videoda karşılaşır. Hukuk açısından da önemlidir: Bazı ülkelerde rivayet, yasal evlilik yaşının yükseltilmesine direnmek için hâlâ kullanılıyor."
   en: "It is one of the most common attacks on Islam online, and many young Muslims first meet it in a hostile video. It also matters in law: in some countries the report is still used to resist raising the legal age of marriage."
 shortAnswer:
-  tr: |
-    Geleneksel rivayet en saygın hadis derlemelerinde yer alır. Bazı âlimler Âişe'nin daha büyük olduğunu savunur; 2022 tarihli bir Oxford tezi de rivayetin kendisinin sonradan ortaya çıktığını savunur; başkaları ikisini de reddeder. Tarih ne olursa olsun, bu site bugün çocuk yaşta evliliği onaylamaz. Bu, Türk hukukuna ve *makâsıd*a (zararı önlemek dâhil şeriatın amaçlarına) aykırıdır.
+  tr: "Rivayet en saygın hadis külliyatlarında yer alır ve klasik ölçütlere göre dürüstçe zayıf denemez. Joshua Little'ın 2022 tarihli Oxford tezi, rivayetin en erken biçiminin tek bir râvi, Hişâm b. Urve tarafından, hayatının sonlarına doğru Irak'a taşındıktan sonra \"üretilmiş ve yayılmış gibi göründüğünü\" savunur; başka âlimler rivayetin birkaç bağımsız senetle desteklendiği cevabını verir. Âişe'yi bir genç kız yapan revizyonist hesaplamalar, devirmeye çalıştıkları rivayetlerden daha zayıf rivayetlere dayanır. Daha önemli soru ahlakidir: Klasik âlimler Hz. Peygamber'in (s.a.v.) yaptığı her şeyi bütün zamanlar için bir kural olarak görmedi — onun bir elçi olarak yaptıklarını kendi toplumunun bir insanı olarak yaptıklarından ayırdılar — ve Kur'an onun bazı evliliklerinin \"başka müminlere değil de sadece sana mahsus\" olduğunu söyler (33:50). Klasik hukuk gerdeği bedensel hazırlığa bağladı ve bugünkü Müslüman devletler asgari yaşları belirlemek için Şerîat'ın kendi araçlarını kullanıyor. Bugün, erken evliliğin zararları hakkında bildiklerimizin ışığında, çocuk evliliği yanlıştır ve bu site bunu açıkça söyler."
   en: "The report is in the most respected hadith collections, and it cannot honestly be called weak by classical standards. A 2022 Oxford thesis by Joshua Little argues that the earliest form of the report \"appears to have been created and disseminated\" by one narrator, Hisham ibn ʿUrwa, after he moved to Iraq late in his life; other scholars reply that it is corroborated by several independent chains. Revisionist calculations that make Aisha a teenager rely on reports that are weaker than the ones they try to overturn. The more important question is moral: classical scholars never treated everything the Prophet (pbuh) did as a rule for all times — they distinguished his acts as a messenger from his acts as a man of his society, and the Quran says some of his marriages were \"only for you excluding the [other] believers\" (33:50). Classical law tied consummation to physical readiness, and modern Muslim states use the Sharia's own tools to set minimum ages. Today, given what we know about the harm of early marriage, child marriage is wrong, and this site says so plainly."
 layers:
   - kind: religious
@@ -43,8 +40,7 @@ layers:
       Bu rivayet karşısındaki ahlâkî sarsılma *yerindedir* ve burada kabul ediliyor. Konu senin bir travmana dokunuyorsa, bu sayfadaki destek yardımcı olabilir.
     en: Moral shock at this report is *right*, and it is acknowledged here. If this topic touches a trauma of your own, the support on this page can help.
 honestLimits:
-  tr: |
-    Âişe'nin tam yaşı bilinemez. Rivayet klasik ölçütlere göre güçlüdür. Little'ın tezi ciddidir ama tartışmalıdır. Revizyonist kronolojiler çoğu zaman abartılıdır. Sayı oyunları meseleyi çözmez; sağlam ifade ahlâkî olanıdır.
+  tr: Hz. Âişe'nin tam yaşı kesin olarak bilinemez. Rivayet klasik ölçütlere göre güçlüdür; Little'ın tezi ciddidir ama tartışmalıdır; revizyonist kronolojiler zayıftır. Klasik hukuk velilerin çocuklar için nikâh akdetmesine gerçekten izin verdi ve bu açıklanıp geçiştirilemez. Bu sitenin ahlaki tutumu — çocuk evliliğinin bugün yanlış olduğu — rivayetin yanlış olduğunu ispat etmeye değil, zarar ilkesine, devletin Şerîat altındaki yetkisine ve modern delillere dayanır.
   en: Aisha's exact age cannot be known with certainty. The report is strong by classical standards; Little's thesis is serious but contested; the revisionist chronologies are weak. Classical law did allow guardians to contract marriages for children, and that cannot be explained away. The ethical position of this site — that child marriage is wrong today — rests on the harm principle, the state's authority under the Sharia, and modern evidence, not on proving the report false.
 visualizations:
   - id: ideas
@@ -112,6 +108,13 @@ fullAnswer:
       **If this subject touches your own life — if you were married, promised or abused as a child — what happened to you was not your fault, and it was not God's will for you.** You deserve safety and care. If you are in danger now, call your local emergency number. If you want to talk, a doctor, a counsellor or a trusted person can help; findahelpline.com lists free, confidential helplines by country, including for survivors of abuse. Nothing on this page asks you to accept what was done to you.
 
       **If you are troubled by the report itself, the discomfort is a moral response, not a lack of faith.** You can hold your love for the Prophet (pbuh) and your conviction that children must be protected together. Many scholars do.
+    tr: |-
+      **Bu konu senin kendi hayatına dokunuyorsa — çocukken evlendirildiysen, söz verildiysen ya da istismara uğradıysan — başına gelen senin suçun değildi ve Allah'ın senin için istediği şey değildi.** Güvenliği ve ilgiyi hak ediyorsun. Şu anda tehlikedeysen, bulunduğun yerdeki acil yardım numarasını ara. Konuşmak istersen bir doktor, bir danışman ya da güvendiğin biri yardımcı olabilir; findahelpline.com, istismardan kurtulanlar için olanlar da dahil, ücretsiz ve gizli yardım hatlarını ülkelere göre listeler. Bu sayfadaki hiçbir şey, sana yapılanı kabullenmeni istemiyor.
+
+      **Rivayetin kendisi seni rahatsız ediyorsa, bu rahatsızlık iman eksikliği değil, ahlaki bir tepkidir.** Hz. Peygamber'e (s.a.v.) sevgini ve çocukların korunması gerektiği kanaatini bir arada taşıyabilirsin. Pek çok âlim de öyle yapar.
+    title:
+      en: Kalp ve akıl için
+      tr: Kalp ve akıl için
   - kind: quran
     en: |-
       **The verse most used in this debate: 4:6.** "And test the orphans [in their abilities] until they reach marriageable age. Then if you perceive in them sound judgement, release their property to them" (4:6). It is in Sura al-Nisaʾ, Medinan, addressed to guardians of orphans. The verse is about property: a guardian must test an orphan and hand over their wealth once they reach "marriageable age" (*balaghū al-nikāḥ*) and show "sound judgement" (*rushd*). It does not itself set an age for marriage.
@@ -121,6 +124,17 @@ fullAnswer:
       **The verse cited on the other side: 65:4.** "And those who no longer expect menstruation among your women - if you doubt, then their period is three months, and [also for] those who have not menstruated" (65:4), from Sura al-Talaq, Medinan, setting the waiting period after divorce. The majority of classical jurists read "those who have not menstruated" as including girls before puberty, and therefore as implying that such marriages could exist (Sedick; Baderin). Some contemporary commentators read it as referring to adult women whose periods have not come (Baderin). The verse does not command or encourage marrying children; it regulates waiting periods.
 
       **What the Quran says marriage is for.** "And of His signs is that He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy" (30:21). Tranquillity, affection and mercy describe a relationship between people able to give them.
+    tr: |-
+      **Bu tartışmada en çok kullanılan âyet: 4:6.** "Evlenme çağına gelinceye kadar yetimleri gözetip deneyin. Onların akılca olgunlaştıklarını görürseniz, mallarını kendilerine teslim edin." (4:6). Nisâ Sûresi'ndedir, Medenîdir ve yetimlerin vasilerine hitap eder. Âyet mal hakkındadır: Vasi, yetimi denemeli ve "evlenme çağına" (*beleğu'n-nikâh*) gelip "akılca olgunlaştığını" (*rüşd*) gösterdiğinde malını ona teslim etmelidir. Âyetin kendisi evlilik için bir yaş belirlemez.
+
+      **Neden önemli?** "Evlenme çağı"nı, akıl olgunluğuyla gelen bir hayat evresi olarak ele alır. Ergenlikten önce evliliği yasaklayan klasik azınlık, âyeti olgunluğu evliliğin şartı yapan bir âyet olarak okudu; çoğunluk ise onun yalnızca malla ilgili olduğu cevabını verdi (Baderin, 2018). Modern reformcular da âyeti aynı şekilde kullanır. Bu, âyetten çıkarılan hukuki bir argümandır; âyetin doğrudan söylediği bir şey değildir.
+
+      **Diğer tarafta zikredilen âyet: 65:4.** "Kadınlarınız içinden âdetten kesilmiş olanlarla, henüz âdetini görmemiş bulunanlardan eğer şüphe ederseniz (iddetlerinin nasıl olacağında tereddüt ederseniz), onların bekleme süresi üç aydır." (65:4), Talâk Sûresi'nden, Medenî; boşanmadan sonraki bekleme süresini belirler. Klasik fakihlerin çoğunluğu "henüz âdetini görmemiş bulunanlar" ifadesini ergenlik öncesi kızları da kapsayan, dolayısıyla böyle evliliklerin var olabileceğini ima eden bir ifade olarak okudu (Sedick; Baderin). Bazı çağdaş yorumcular onu, âdeti gelmemiş yetişkin kadınlara işaret eden bir ifade olarak okur (Baderin). Âyet çocukları evlendirmeyi emretmez ya da teşvik etmez; bekleme sürelerini düzenler.
+
+      **Kur'an evliliğin ne için olduğunu söyler?** "Yine O'nun âyetlerindendir ki, sizin için nefislerinizden kendilerine ısınırsınız diye eşler yaratmış, aranıza bir sevgi ve merhamet koymuştur." (30:21). Huzur, sevgi ve merhamet, bunları verebilecek insanlar arasındaki bir ilişkiyi tarif eder.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **The texts.** Aisha (ra) is reported as saying that the Prophet (pbuh) "married her when she was six years old and he consummated his marriage when she was nine years old, and then she remained with him for nine years (i.e., till his death)" ({hadith:bukhari:5133}); a parallel version is {hadith:bukhari:5134}. In Sahih Muslim, another version says he "married her when she was seven years old", that "he was taken to his house as a bride when she was nine", that "her dolls were with her", and that "when he (the Holy Prophet) died she was eighteen years old" ({hadith:muslim:1422c}). The difference between six and seven is in the reports themselves.
@@ -128,6 +142,15 @@ fullAnswer:
       **What the terms mean.** A *hadith* is a report of what the Prophet (pbuh) said or did, or — as here — what a Companion said about him. Bukhari (d. 870) and Muslim (d. 875) compiled the two collections Sunni Muslims regard as most reliable. Each report comes with an *isnād*, a chain of narrators: "A told me that B told him that C said…". In Bukhari 5133 the chain is Muhammad ibn Yusuf ← Sufyan ← Hisham ← his father (ʿUrwa) ← Aisha; in 5134 it is Muʿalla ibn Asad ← Wuhayb ← Hisham ibn ʿUrwa ← his father ← Aisha (sunnah.com, Arabic chains). In Muslim 1422c it is ʿAbd ibn Humayd ← ʿAbd al-Razzaq ← Maʿmar ← al-Zuhri ← ʿUrwa ← Aisha.
 
       **Why one narrator matters.** Hisham ibn ʿUrwa (d. 763–765), Aisha's great-nephew, appears in most chains. If almost every version passes through one person, historians ask whether the report began with him. This is the point Little's thesis turns on.
+    tr: |-
+      **Metinler.** Hz. Âişe'nin (r.a.), Hz. Peygamber'in (s.a.v.) "kendisiyle altı yaşındayken evlendiğini ve dokuz yaşındayken gerdeğe girdiğini, sonra onun yanında dokuz yıl kaldığını (yani vefatına kadar)" söylediği rivayet edilir ({hadith:bukhari:5133}); paralel bir versiyon {hadith:bukhari:5134}'tür. *Sahîh-i Müslim*'de bir başka versiyon, onunla "yedi yaşındayken evlendiğini", "dokuz yaşındayken gelin olarak evine götürüldüğünü", "oyuncak bebeklerinin yanında olduğunu" ve "o (Hz. Peygamber) vefat ettiğinde on sekiz yaşında olduğunu" söyler ({hadith:muslim:1422c}). Altı ile yedi arasındaki fark rivayetlerin kendisinde vardır.
+
+      **Terimler ne anlama geliyor?** *Hadis*, Hz. Peygamber'in (s.a.v.) söylediği ya da yaptığı bir şeyin, ya da — burada olduğu gibi — bir sahâbînin onun hakkında söylediği bir şeyin rivayetidir. Buhârî (ö. 870) ve Müslim (ö. 875), Sünnî Müslümanların en güvenilir saydığı iki külliyatı derledi. Her rivayet bir *isnâd*, yani râviler zinciriyle gelir: "A bana anlattı ki B ona anlattı ki C dedi ki…". Buhârî 5133'te zincir şöyledir: Muhammed b. Yûsuf ← Süfyân ← Hişâm ← babası (Urve) ← Âişe; 5134'te: Muallâ b. Esed ← Vüheyb ← Hişâm b. Urve ← babası ← Âişe (sunnah.com, Arapça senetler). Müslim 1422c'de: Abd b. Humeyd ← Abdürrezzâk ← Ma'mer ← Zührî ← Urve ← Âişe.
+
+      **Tek bir râvi neden önemli?** Hz. Âişe'nin kız kardeşinin torunu Hişâm b. Urve (ö. 763–765), senetlerin çoğunda yer alır. Neredeyse her versiyon tek bir kişiden geçiyorsa, tarihçiler rivayetin onunla başlayıp başlamadığını sorar. Little'ın tezi bu noktaya dayanır.
+    title:
+      en: Hadis rivayetleri ne diyor?
+      tr: Hadis rivayetleri ne diyor?
   - kind: history
     en: |-
       **Little's thesis.** Joshua Little's Oxford doctoral thesis (2022) uses *isnād-cum-matn* analysis — comparing the chains and the wording of every surviving version to reconstruct the earliest form of a report. He traces the earliest form of the report to the Medinan narrator Hisham ibn ʿUrwa, who, according to the abstract, created and spread it "after he moved to Iraq towards the end of his life", and places the report's origin in "the sectarian milieu of mid-8th-Century Iraq". He proposes that it was probably a reaction to "local proto-Šīʿī polemics against his great-aunt, ʿĀʾišah" (abstract). "Proto-Shiʿi" means early partisans of ʿAli, before Shiʿism became a defined school, some of whom attacked Aisha because she had fought against ʿAli. The abstract does not explain how the age report answered them; the full thesis has not yet been consulted.
@@ -137,6 +160,17 @@ fullAnswer:
       **The revisionist chronologies.** The Yaqeen paper (2018) replies that the ten-year gap between the sisters rests on ʿAbd al-Rahman ibn Abi al-Zinad, whom, the paper says, "many other scholars considered… to be weak", so "the explicit age of six in *Bukhārī* is given precedence"; and that Aisha's presence at Uhud as a helper of the wounded, not a fighter, says nothing about her age. Kandhlawi's book itself has not yet been consulted.
 
       **Where the evidence points.** By the standards of classical hadith criticism, the report is strong. Little's thesis is a serious scholarly challenge from a different method; it is disputed. The teenage-age calculations are the weakest of the three positions, because they set aside explicit reports for indirect inferences. So the honest answer to "nine or late teens?" is: the sources say nine; some historians doubt the sources; the late-teens view is not well supported. None of this decides the moral question.
+    tr: |-
+      **Little'ın tezi.** Joshua Little'ın Oxford doktora tezi (2022), *isnâd-metin* analizi kullanır — bir rivayetin en erken biçimini yeniden kurmak için günümüze ulaşan her versiyonun senetlerini ve lafızlarını karşılaştırır. Rivayetin en erken biçimini Medineli râvi Hişâm b. Urve'ye kadar götürür; özete göre Hişâm onu "hayatının sonlarına doğru Irak'a taşındıktan sonra" üretip yaymıştır ve tez, rivayetin kökenini "8. yüzyıl ortası Irak'ının mezhepçi ortamına" yerleştirir. Bunun muhtemelen "büyük halası Âişe'ye karşı yürütülen yerel proto-Şiî polemiklere" bir tepki olduğunu öne sürer (özet). "Proto-Şiî", Şiîlik belirli bir mezhep hâline gelmeden önce Hz. Ali'nin ilk taraftarları demektir; bunların bir kısmı, Hz. Ali'ye karşı savaştığı için Hz. Âişe'ye saldırdı. Özet, yaş rivayetinin onlara nasıl cevap verdiğini açıklamıyor; tezin tamamına henüz başvurulmadı.
+
+      **Cevap.** Waqar Akbar Cheema (ICRAA, 2024), rivayeti Urve'den Hişâm dışında en az üç kişinin daha aktardığını — Zührî (Ma'mer yoluyla), Abdullah b. Urve ve Ebü'z-Zinâd — ve Âişe'den Urve dışında yaklaşık bir düzine râvinin aktardığını savunur; bunlar arasında Esved b. Yezîd, Ebû Seleme b. Abdurrahman ve Amra bint Abdurrahman vardır. Zührî senedi *Sahîh-i Müslim*'dedir (yukarıdaki 1422c). Cheema, ortak halka (common-link) yönteminin erken hadis literatürünün ne kadarının kaybolduğunu göz ardı ettiğini eleştirir ve Little'ın Hişâm'ın rivayeti uydurması için ikna edici bir sebep sunmadığını söyler.
+
+      **Revizyonist kronolojiler.** Yaqeen makalesi (2018), iki kız kardeş arasındaki on yıllık farkın Abdurrahman b. Ebi'z-Zinâd'a dayandığını, makalenin dediğine göre "başka pek çok âlimin onu… zayıf saydığını", dolayısıyla "*Buhârî*'deki açık altı yaşına öncelik verildiğini" söyleyerek cevap verir; ayrıca Hz. Âişe'nin Uhud'da savaşçı olarak değil yaralılara yardım eden biri olarak bulunmasının yaşı hakkında hiçbir şey söylemediğini belirtir. Kandehlevî'nin kitabının kendisine henüz başvurulmadı.
+
+      **Deliller nereyi gösteriyor?** Klasik hadis tenkidinin ölçütlerine göre rivayet güçlüdür. Little'ın tezi farklı bir yöntemden gelen ciddi bir akademik itirazdır; tartışmalıdır. Genç kız yaşı hesaplamaları üç görüşün en zayıfıdır, çünkü açık rivayetleri dolaylı çıkarımlar uğruna bir kenara bırakır. Yani "dokuz mu, yoksa geç ergenlik mi?" sorusunun dürüst cevabı şudur: Kaynaklar dokuz diyor; bazı tarihçiler kaynaklardan şüphe ediyor; geç ergenlik görüşü iyi desteklenmiyor. Bunların hiçbiri ahlaki soruyu belirlemez.
+    title:
+      en: Tarihçiler ne diyor?
+      tr: Tarihçiler ne diyor?
   - kind: scholars
     en: |-
       **Not everything the Prophet (pbuh) did was legislation.** The Tunisian jurist Muhammad al-Tahir ibn ʿAshur (d. 1973), in his *Treatise on Maqāṣid al-Sharīʿah*, lists the capacities in which the Prophet (pbuh) acted: "legislation, issuing edicts (fatwa), adjudication, political leadership of the state, guidance, conciliation, advice to those seeking his opinion, counseling, spiritual inspiration, teaching high and lofty truths, disciplining, and non-instructive ordinary statements". Only some of these bind every Muslim in every age. Earlier, the Maliki jurist al-Qarafi (d. 1285) distinguished the Prophet's acts as messenger and mufti from his acts as judge and as head of state (Jackson, 1993; Fadel's translation of al-Qarafi).
@@ -144,6 +178,15 @@ fullAnswer:
       **His marriages were explicitly special.** The Quran says of one kind of marriage permitted to him: "[this is] only for you excluding the [other] believers" (33:50). Classical law built a whole category of rulings "specific to the Prophet" (*khuṣūṣiyyāt*). The minority jurist Ibn Shubruma called the Aisha report itself "a special case (*khāṣṣ*)" (Baderin, 2018).
 
       **So what does "a model for all time" mean?** In the classical sense, the Prophet (pbuh) is the model in his faith, his character and the law he taught as a messenger. Acts that belonged to the customs of his society — what he ate, how he dressed, the age at which marriages were arranged in seventh-century Arabia — were not, by themselves, commands. The argument is not "it was normal, so it was fine". It is: a marriage at that age was within his society's norms, was not presented by him as a rule for others, and does not oblige or permit Muslims to do the same when the conditions that made it acceptable to that society — and the knowledge of harm we now have — are different. *Limit:* critics answer that a moral model should have risen above his society's norms here, as he did on other matters; this page cannot remove that objection, only explain why the tradition does not treat the act as a command.
+    tr: |-
+      **Hz. Peygamber'in (s.a.v.) yaptığı her şey teşri değildi.** Tunuslu fakih Muhammed Tâhir b. Âşûr (ö. 1973), *Makâsıdü'ş-Şerîa* risalesinde Hz. Peygamber'in (s.a.v.) hangi sıfatlarla hareket ettiğini sıralar: "teşri, fetva verme, yargılama, devletin siyasi liderliği, irşat, arabuluculuk, görüşünü soranlara nasihat, danışmanlık, manevi ilham, yüce ve yüksek hakikatleri öğretme, terbiye etme ve emir içermeyen sıradan sözler". Bunların yalnızca bir kısmı her çağdaki her Müslümanı bağlar. Daha önce, Mâlikî fakih Karâfî (ö. 1285), Hz. Peygamber'in elçi ve müftü olarak yaptıklarını hâkim ve devlet başkanı olarak yaptıklarından ayırmıştı (Jackson, 1993; Fadel'in Karâfî çevirisi).
+
+      **Onun evlilikleri açıkça özeldi.** Kur'an ona izin verilen bir evlilik türü hakkında şöyle der: "…başka müminlere değil de sadece sana mahsus olmak üzere helâl kıldık." (33:50). Klasik hukuk "Hz. Peygamber'e özgü" (*hasâis*) hükümlerden oluşan bütün bir kategori kurdu. Azınlık görüşündeki fakih İbn Şübrüme, Âişe rivayetinin kendisini "özel bir durum (*hâs*)" olarak nitelendirdi (Baderin, 2018).
+
+      **Öyleyse "bütün zamanlar için örnek" ne demek?** Klasik anlamda Hz. Peygamber (s.a.v.) imanında, ahlakında ve bir elçi olarak öğrettiği hukukta örnektir. Toplumunun örflerine ait fiiller — ne yediği, nasıl giyindiği, yedinci yüzyıl Arabistan'ında evliliklerin hangi yaşta yapıldığı — kendi başlarına emir değildi. Argüman "normaldi, öyleyse iyiydi" değildir. Şudur: O yaşta bir evlilik onun toplumunun normları içindeydi, onun tarafından başkaları için bir kural olarak sunulmadı ve onu o toplum için kabul edilebilir kılan şartlar — ve bugün sahip olduğumuz zarar bilgisi — farklı olduğunda Müslümanları aynısını yapmaya ne mecbur eder ne de buna izin verir. *Sınır:* Eleştirmenler, ahlaki bir örneğin başka konularda yaptığı gibi burada da toplumunun normlarının üzerine çıkması gerektiği cevabını verir; bu sayfa bu itirazı ortadan kaldıramaz, yalnızca geleneğin bu fiili neden bir emir olarak görmediğini açıklayabilir.
+    title:
+      en: Âlimler Hz. Peygamber'in fiillerini bağlayıcı kurallardan nasıl ayırır?
+      tr: Âlimler Hz. Peygamber'in fiillerini bağlayıcı kurallardan nasıl ayırır?
   - kind: fiqh
     en: |-
       **The majority allowed a guardian to contract a minor's marriage.** According to Baderin (2018), the Hanafi, Maliki, Shafiʿi, Hanbali and Ithna ʿAshari (Twelver Shiʿi) schools held that the marriage of a minor "may be contracted by the father or guardian acting in the minor's best interest", that consummation must wait until maturity, and that some jurists gave the child the "option of puberty" (*khiyār al-bulūgh*) to annul the marriage before consummation. Ibn Qudama (d. 1223), the leading Hanbali jurist, claimed scholarly consensus that a father may compel a prepubescent daughter into a suitable match (CIS article, abstract).
@@ -155,11 +198,31 @@ fullAnswer:
       **The minority who forbade it.** Ibn Shubruma (Kufa, 8th century) and Abu Bakr al-Asamm (Basra, 9th century) held that a minor may not be married until puberty, because marriage requires consent and serves needs a child does not have (Baderin, citing Ibn Hazm's *al-Muhalla*).
 
       **On what basis is it wrong today?** Three steps, each from within Islamic law: (1) the classical permission was a permission, not a command, and was always limited by harm; (2) the state may set conditions on permitted acts for the public good — the principle of governance within the Sharia (*siyāsa sharʿiyya*) — as many Muslim states have done; (3) medical evidence now shows serious harm, so the harm limit the jurists themselves set is reached. The classical minority view of Ibn Shubruma gives a further ground. *Limit:* this means the prohibition rests on law and evidence, not on an explicit text; a group that rejects the state's authority could try to revive the permission, which is why clear law and public argument matter.
+    tr: |-
+      **Çoğunluk, velinin küçüğün nikâhını kıymasına izin verdi.** Baderin'e (2018) göre Hanefî, Mâlikî, Şâfiî, Hanbelî ve İsnâaşeriyye (On İki İmam Şiîliği) mezhepleri, küçüğün nikâhının "küçüğün yararına hareket eden baba ya da veli tarafından kıyılabileceğini", gerdeğin olgunluğa kadar beklemesi gerektiğini ve bazı fakihlerin çocuğa, gerdekten önce nikâhı feshetmek için "bulûğ muhayyerliği" (*hıyârü'l-bülûğ*) tanıdığını kabul etti. Önde gelen Hanbelî fakih İbn Kudâme (ö. 1223), babanın ergenlik öncesi kızını uygun bir eşle evlenmeye zorlayabileceği konusunda âlimlerin icmâı olduğunu iddia etti (CIS makalesi, özet).
+
+      **Kim zorlayabilirdi?** Sedick'e (SeekersGuidance) göre Mâlikî ve Hanbelî mezhepleri bu yetkiyi (*velâyetü'l-icbâr*) baba ya da onun tayin ettiği vasiyle sınırladı; Şâfiîler baba ya da dedeyle; Hanefîler ise şartlara bağlı olarak diğer yakın akrabalara genişletti. Zuhaylî'nin *el-Fıkhu'l-İslâmî ve Edilletühû*'sunu ve Şirbînî'nin *Muğni'l-Muhtâc*'ını zikreder.
+
+      **Gerdek ancak kız buna dayanabildiğinde.** Klasik hukuk akdi gerdekten ayırdı; gerdek bedensel hazırlığa (*tâkat*) bağlandı. Sedick, "gerdeğin ancak kişi bedenen ve duygusal olarak hazır olduğunda caiz olduğunu" belirtir ve bunu "zarar vermek de zarara zararla karşılık vermek de yoktur" kuralına dayandırır. CIS makalesi, bir kızın buna ne zaman dayanabileceği konusunda gerçekte bir icmâ olmadığını tespit eder.
+
+      **Bunu yasaklayan azınlık.** İbn Şübrüme (Kûfe, 8. yüzyıl) ve Ebû Bekir el-Esam (Basra, 9. yüzyıl), nikâh rızayı gerektirdiği ve bir çocuğun sahip olmadığı ihtiyaçlara hizmet ettiği için küçüğün ergenliğe kadar evlendirilemeyeceğini savundu (Baderin, İbn Hazm'ın *el-Muhallâ*'sından naklen).
+
+      **Bugün hangi temelde yanlıştır?** Her biri İslam hukukunun içinden üç adım: (1) Klasik izin bir emir değil bir izindi ve her zaman zararla sınırlandırılmıştı; (2) devlet, kamu yararı için mubah fiillere şartlar koyabilir — Şerîat içindeki yönetim ilkesi (*siyâset-i şer'iyye*) — pek çok Müslüman devletin yaptığı gibi; (3) tıbbi deliller artık ciddi bir zarar olduğunu gösteriyor, dolayısıyla fakihlerin bizzat koyduğu zarar sınırına ulaşılmıştır. İbn Şübrüme'nin klasik azınlık görüşü ek bir dayanak sunar. *Sınır:* Bu, yasağın açık bir nassa değil, hukuka ve delile dayandığı anlamına gelir; devletin otoritesini reddeden bir grup izni yeniden canlandırmaya çalışabilir; açık yasaların ve kamusal tartışmanın önemli olmasının sebebi budur.
+    title:
+      en: Dört mezhep ne diyor?
+      tr: Dört mezhep ne diyor?
   - kind: science
     en: |-
       **Early pregnancy is dangerous.** [Established.] The WHO's fact sheet (10 April 2024) states that adolescent mothers aged 10–19 "face higher risks of eclampsia, puerperal endometritis and systemic infections than women aged 20–24 years", and that their babies "face higher risks of low birth weight, preterm birth and severe neonatal condition". In 2019, girls aged 15–19 in low- and middle-income countries had an estimated 21 million pregnancies each year. "As of 2021, the estimated global number of child brides was 650 million", and "child marriage places girls at increased risk of pregnancy". WHO's fact sheet "Adolescents: health risks and solutions" (26 November 2024) states that "complications from pregnancy and childbirth are among the leading causes of death for girls aged 15–19 years globally" (checked by the source-checker; a 2017 WHO graphic called them "the leading cause").
 
       **What Muslim-majority states do now.** According to Musawah, Egypt and Kuwait set 18 for both sexes and bar registering younger marriages; Pakistan's Sindh province criminalises marriage under 18; Jordan sets 18 with a judicial exception down to 15 (Musawah's page also lists Iraq this way, but Iraq amended its personal status law in 2025 and reports describe lower ages under the new Jaʿfari code; that change has not yet been checked); Morocco, Tunisia, Oman and the UAE set 18 with judicial exceptions; Algeria sets 19; Indonesia sets 19 but allows court exceptions with no floor. So the law varies, and exceptions remain a real problem.
+    tr: |-
+      **Erken gebelik tehlikelidir.** [Established.] DSÖ'nün bilgi notu (10 Nisan 2024), 10–19 yaş arası ergen annelerin "20–24 yaş arası kadınlara göre daha yüksek eklampsi, lohusalık endometriti ve sistemik enfeksiyon riskiyle karşı karşıya olduğunu", bebeklerinin de "daha yüksek düşük doğum ağırlığı, erken doğum ve ağır yenidoğan hastalığı riskiyle karşı karşıya olduğunu" belirtir. 2019'da düşük ve orta gelirli ülkelerde 15–19 yaş arası kızların yılda tahminen 21 milyon gebeliği oldu. "2021 itibarıyla dünyadaki çocuk gelinlerin tahmini sayısı 650 milyondu" ve "çocuk evliliği kızları artan bir gebelik riskine maruz bırakır". DSÖ'nün "Ergenler: sağlık riskleri ve çözümler" bilgi notu (26 Kasım 2024), "gebelik ve doğum komplikasyonlarının dünya genelinde 15–19 yaş arası kızlarda başlıca ölüm nedenleri arasında olduğunu" belirtir (kaynak denetçisi tarafından kontrol edildi; 2017 tarihli bir DSÖ grafiği bunları "başlıca ölüm nedeni" olarak adlandırmıştı).
+
+      **Müslüman çoğunluklu devletler bugün ne yapıyor?** Musawah'a göre Mısır ve Kuveyt her iki cinsiyet için 18 yaşını belirler ve daha küçük yaştaki evliliklerin tescilini yasaklar; Pakistan'ın Sind eyaleti 18 yaşından önce evliliği suç sayar; Ürdün, 15 yaşa kadar inen bir yargısal istisnayla 18 yaşını belirler (Musawah'ın sayfası Irak'ı da bu şekilde listeler, ama Irak 2025'te kişisel hal kanununu değiştirdi ve haberler yeni Caferî kanun altında daha düşük yaşlardan söz ediyor; bu değişiklik henüz kontrol edilmedi); Fas, Tunus, Umman ve BAE yargısal istisnalarla 18 yaşını belirler; Cezayir 19 yaşını belirler; Endonezya 19 yaşını belirler ama alt sınırı olmayan mahkeme istisnalarına izin verir. Yani hukuk ülkeden ülkeye değişir ve istisnalar gerçek bir sorun olarak duruyor.
+    title:
+      en: Zarara dair deliller ne gösteriyor?
+      tr: Zarara dair deliller ne gösteriyor?
   - kind: objection
     en: |-
       **"If he is the model for all time, he endorsed it."** *Reply:* classical scholars distinguished his acts as messenger from his acts as a man of his society (Ibn ʿAshur; al-Qarafi), and the Quran itself marks his marriages as special (33:50). *Limit:* this explains why the act is not binding; it does not make it comfortable, and critics will say a moral exemplar should have acted differently.
@@ -167,6 +230,15 @@ fullAnswer:
       **"It was normal then" is relativism.** *Reply:* the claim is not that whatever was normal was right, but that the act was not presented as a rule, that classical law limited it by harm, and that our knowledge of harm has changed what the same principles require. *Limit:* the classical jurists did permit contracts with children, and that history should not be hidden.
 
       **"The report is fabricated."** *Reply:* this is Little's view, and it is serious, but others show corroborating chains (al-Zuhri in Muslim 1422c). *Limit:* resting one's faith on a single disputed thesis is fragile either way; the ethical answer does not depend on the historical one.
+    tr: |-
+      **"Bütün zamanlar için örnekse, bunu onaylamış demektir."** *Cevap:* Klasik âlimler onun elçi olarak yaptıklarını, toplumunun bir insanı olarak yaptıklarından ayırdı (İbn Âşûr; Karâfî) ve Kur'an'ın kendisi onun evliliklerini özel olarak işaretler (33:50). *Sınır:* Bu, fiilin neden bağlayıcı olmadığını açıklar; onu rahatlatıcı kılmaz ve eleştirmenler ahlaki bir örneğin farklı davranması gerektiğini söyleyecektir.
+
+      **"'O zaman normaldi' demek görecelikçiliktir."** *Cevap:* İddia, normal olan her şeyin doğru olduğu değil; fiilin bir kural olarak sunulmadığı, klasik hukukun onu zararla sınırladığı ve zarar hakkındaki bilgimizin aynı ilkelerin gerektirdiği şeyi değiştirdiğidir. *Sınır:* Klasik fakihler çocuklarla nikâh akdine gerçekten izin verdi ve bu tarih gizlenmemelidir.
+
+      **"Rivayet uydurmadır."** *Cevap:* Bu Little'ın görüşüdür ve ciddidir, ama başkaları destekleyici senetler gösteriyor (Müslim 1422c'deki Zührî senedi). *Sınır:* İmanını tartışmalı tek bir teze dayandırmak her iki yönde de kırılgandır; ahlaki cevap tarihî cevaba bağlı değildir.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Traditional view** (ICRAA; Yaqeen 2018) — the report is authentic; six or seven at marriage, nine at consummation.
@@ -175,31 +247,53 @@ fullAnswer:
       - **Classical majority law** — guardian may contract a minor's marriage; consummation only when she can bear it.
       - **Classical minority** (Ibn Shubruma, al-Asamm) — no marriage before puberty.
       - **Modern Muslim states** — minimum ages, mostly 18, with exceptions.
+    tr: |-
+      - **Geleneksel görüş** (ICRAA; Yaqeen 2018) — rivayet sahihtir; nikâhta altı ya da yedi, gerdekte dokuz yaş.
+      - **Little (2022)** — rivayet, 8. yüzyıl ortası Irak'ında Hişâm ile başladı; muhtemelen proto-Şiî polemiklere bir cevap olarak.
+      - **Revizyonist kronolojiler** (Kandehlevî ve diğerleri) — Hz. Âişe geç ergenlik çağındaydı; cevaplar bunların daha zayıf rivayetlere dayandığını söyler.
+      - **Klasik çoğunluk hukuku** — veli küçüğün nikâhını kıyabilir; gerdek ancak kız buna dayanabildiğinde.
+      - **Klasik azınlık** (İbn Şübrüme, Esam) — ergenlikten önce nikâh yoktur.
+      - **Modern Müslüman devletler** — çoğunlukla 18 olan, istisnalı asgari yaşlar.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: "Which is more likely: nine, or late teens?"
+      tr: "Hangisi daha olası: dokuz mu, geç ergenlik mi?"
     a:
       en: The sources say nine. Little doubts the sources. The late-teens view relies on weaker, indirect reports.
+      tr: Kaynaklar dokuz diyor. Little kaynaklardan şüphe ediyor. Geç ergenlik görüşü daha zayıf, dolaylı rivayetlere dayanıyor.
   - q:
       en: What do Bukhari, Muslim, hadith and *isnād* mean?
+      tr: Buhârî, Müslim, hadis ve *isnâd* ne demek?
     a:
       en: 'See "What the hadith reports say" above: two major collections, reports about the Prophet (pbuh), and the chain of people who passed each report on.'
+      tr: 'Yukarıdaki "Hadis rivayetleri ne diyor?" bölümüne bak: İki büyük külliyat, Hz. Peygamber (s.a.v.) hakkındaki rivayetler ve her rivayeti aktaran insanlar zinciri.'
   - q:
       en: What were the proto-Shiʿi polemics?
+      tr: Proto-Şiî polemikler neydi?
     a:
       en: Early partisans of ʿAli attacked Aisha after she fought against him. Little proposes the age report arose in that setting; how exactly is argued in his thesis, which has not yet been consulted in full.
+      tr: Hz. Ali'nin ilk taraftarları, Hz. Âişe ona karşı savaştıktan sonra ona saldırdı. Little yaş rivayetinin bu ortamda ortaya çıktığını öne sürer; tam olarak nasıl olduğu tezinde tartışılır ve tezin tamamına henüz başvurulmadı.
   - q:
       en: How do mainstream Muslims handle this report today?
+      tr: Ana akım Müslümanlar bugün bu rivayeti nasıl ele alıyor?
     a:
       en: Most accept it as authentic; most Muslim-majority states nonetheless set legal minimum ages. Scholars such as those cited here treat the marriage as specific to its time and to the Prophet (pbuh), not as a model to copy.
+      tr: Çoğu onu sahih kabul eder; Müslüman çoğunluklu devletlerin çoğu yine de yasal asgari yaşlar belirler. Burada zikredilenler gibi âlimler bu evliliği kopyalanacak bir örnek olarak değil, kendi zamanına ve Hz. Peygamber'e (s.a.v.) özgü olarak görür.
   - q:
       en: Could child marriage become allowed again?
+      tr: Çocuk evliliği yeniden serbest olabilir mi?
     a:
       en: Only by ignoring the harm principle the classical jurists themselves set, and the state's authority to regulate marriage. That is why legal protection matters.
+      tr: Ancak klasik fakihlerin bizzat koyduğu zarar ilkesini ve devletin evliliği düzenleme yetkisini görmezden gelerek. Yasal korumanın önemli olmasının sebebi budur.
   - q:
       en: Was Aisha harmed?
+      tr: Hz. Âişe zarar gördü mü?
     a:
       en: The reports describe her as a scholar, a teacher of the Companions and a woman of strong voice for decades after. That does not make early marriage right today; it is a description of her life as the sources give it.
+      tr: Rivayetler onu, sonraki on yıllar boyunca bir âlim, sahâbîlerin öğretmeni ve sesi güçlü bir kadın olarak anlatır. Bu, erken evliliği bugün doğru kılmaz; kaynakların verdiği şekliyle onun hayatının bir tarifidir.
 legacySources:
   - *a1
   - *a2
@@ -210,3 +304,4 @@ legacySources:
   - *a7
   - *a8
   - *a9
+translatedFrom: docs/research/tr/Q20.md

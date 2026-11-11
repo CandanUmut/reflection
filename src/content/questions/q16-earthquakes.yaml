@@ -16,16 +16,13 @@ verses:
   - 2:155-156
   - 64:11
 steelman:
-  tr: |
-    6 Şubat 2023'te depremler Türkiye'de 53.537 kişiyi öldürdü ve 107.213 kişiyi yaraladı (İçişleri Bakanı Ali Yerlikaya, AFAD basın toplantısı, Şubat 2024); aralarında sayısız çocuk vardı. Bu bir cezaysa, çocukların suçu neydi? "Kader"se, neden müteahhitler suçlanıyor? Allah durdurabilecekken, nasıl adil?
+  tr: "\"6 Şubat 2023'te iki deprem Türkiye'nin güneydoğusunu ve Suriye'nin kuzeyini vurdu ve çoğu çocuk olan on binlerce insanı uykularında öldürdü. Kur'an, 'Allah'ın izni olmayınca hiç bir musibet isabet etmez' (64:11) ve 'Başınıza gelen herhangi bir musibet kendi ellerinizle kazandıklarınız yüzündendir' (42:30) diyor. Öyleyse ya bu bir cezaydı — o zaman çocukların suçu neydi? — ya da Allah'ın takdiriydi — o zaman müteahhitleri neden yargılıyoruz? Ve Allah bunu durdurabilecekken durdurmadıysa, nasıl adildir?\""
   en: "\"On 6 February 2023 two earthquakes struck south-eastern Türkiye and northern Syria and killed tens of thousands of people, many of them children, in their sleep. The Quran says, 'No disaster strikes except by permission of Allah' (64:11) and 'whatever strikes you of disaster — it is for what your hands have earned' (42:30). So either this was punishment — and then what was the children's crime? — or it was God's decree, and then why do we put contractors on trial? And if God could have stopped it and did not, how is He just?\""
 whyAsked:
-  tr: |
-    Kaybın büyüklüğü ve ölümlerin kamuoyunda "kader planı" olarak çerçevelenmesi (Cumhurbaşkanı Erdoğan); bu, teolojik itirazlara yol açtı. Deprem 2023 aramalarına damga vurdu ve "İstanbul Depremi" 2025'in en çok yükselen ikinci aramasıydı.
+  tr: Hayatta kalanlar ve aileleri ve olanları izleyen herkes bunu sordu. Türkiye'de ölümlerin kader olarak çerçevelenmesi, ülkenin dinî otoritesinin eski bir başkanı da dahil olmak üzere teolojik itirazlara yol açtı ("kader planı" ifadesini ilk kimin kullandığına ilişkin kaynak henüz kontrol edilmedi). Aynı soru, 1755 Lizbon depreminden 2004 tsunamisine kadar her büyük afetin ardından gelir.
   en: Survivors and their families, and everyone who watched, asked it. In Türkiye, the framing of the deaths as fate (*kader*) provoked theological pushback, including from a former head of the country's religious authority (the source for who first used the phrase "kader planı" has not yet been checked). The same question follows every great disaster, from the 1755 Lisbon earthquake to the 2004 tsunami.
 shortAnswer:
-  tr: |
-    Ana akım ilim, her afetin kurbanlarını cezalandırdığını öğretmez. Hz. Peygamber, çöken binaların altında ölen müminlere şehit dedi; bu, cezanın tam tersidir. Depremler Allah'ın yaratılışa koyduğu doğal yasaları (sünnetullah) izler ve insanlar nasıl inşa ettiklerinden sorumludur. 2023'ten sonra Diyanet'in ilmî kurulu ve eski bir Diyanet İşleri Başkanı kaderci ve yalnızca ceza odaklı okumaları reddetti.
+  tr: "Kur'an, Allah'ın izni olmadan hiçbir şeyin olmadığını ve bazı acıların insanların yanlışlarının ardından geldiğini söyler. Her afetin, isabet ettiği insanların cezası olduğunu söylemez ve Hz. Peygamber (s.a.v.) kurbanlar hakkında bunun tersini söyledi: Çöken bir binanın altında ölenler şehit sayılır. İbn Kesîr 42:30'u, afetlerin çoğunu Allah'ın affettiği geçmiş günahlar yüzünden geldiğini söyleyen bir âyet olarak okur, ardından sıkıntının bir müminin günahlarını sildiğini bildiren hadisleri zikreder; ne âyet ne de onun okuması belirli kurbanları bunu hak etmiş olarak gösterir. Depremler Allah'ın yaratılışa koyduğu tabiat düzenini izler; bir binanın ayakta kalıp kalmaması ise insanların onu nasıl inşa ettiğine de bağlıdır — ve 2023'ten gelen deliller, çöken binaların çoğunun kendi dönemlerinin yönetmeliklerine uymadığını gösteriyor. Yani Allah'ın takdiri ile insanın sorumluluğu birbirini iptal etmez. Allah'ın böyle bir acıya, özellikle çocuklar için, neden izin verdiği en zor sorudur ve dürüst cevap şudur: İslam tam bir açıklama değil, güven ve gerekçeler sunar."
   en: "The Quran says that nothing happens without God's permission, and that some suffering follows human wrongdoing. It does not say that every disaster is a punishment of the people it strikes, and the Prophet (pbuh) said the opposite of the victims: those who die under a collapsed building are counted as martyrs. Ibn Kathir reads 42:30 as saying that disasters come because of past sins, most of which God pardons, and then cites hadith that hardship wipes away a believer's sins; neither the verse nor his reading names any particular victims as deserving. Earthquakes follow the natural order God placed in creation; whether a building stands or falls also depends on how people built it — and the evidence from 2023 shows that many collapsed buildings did not meet the codes of their time. So God's decree and human responsibility do not cancel each other. Why God permits such suffering at all, especially for children, is the hardest question, and the honest answer is that Islam offers trust and reasons, not a full explanation."
 layers:
   - kind: religious
@@ -53,8 +50,7 @@ layers:
       Hayatta kalanlar suçluluk, travma ve Allah'a öfke yaşar; ceza anlatıları utancı derinleştirir. AFAD psikososyal desteği ve profesyonel travma bakımı yardımcı olabilir.
     en: Survivors face guilt, trauma and anger at God; punishment narratives deepen shame. AFAD psychosocial support and professional trauma care can help.
 honestLimits:
-  tr: |
-    Bazı âyetler belirli kavimlerin (Âd, Semûd) cezalandırılmasını anlatır; âlimler bunları peygamberin uyarısı ve reddi bağlamıyla sınırlar. Bu âyetler inkâr edilmez; ama âlimlerin okumasına göre bir peygamberin uyarısını alıp onu reddeden kavimleri anlatırlar, bu yüzden 2023'ün kurbanlarına uygulanamazlar.
+  tr: Allah'ın afetlere neden izin verdiği sorusunun İslam'da ya da başka herhangi bir gelenekte tam bir cevabı yoktur; bu sayfa gerekçeler ve güven sunar. Mühendislik bulguları tek bir çalışmanın özetinden geliyor. Diyanet'in 2023 kararı, Suyûtî, Nursî ve ölü sayısı rakamları henüz kontrol edilmedi.
   en: The question of why God permits disasters has no complete answer in Islam or any other tradition; this page offers reasons and trust. The engineering findings come from one study's abstract. Diyanet's 2023 ruling, al-Suyuti, Nursi and the death-toll figures have not yet been checked.
 visualizations:
   - id: ideas
@@ -114,6 +110,17 @@ fullAnswer:
       **Anger at God is something you can bring to God.** See "Why are prayers unanswered?" for Jacob's complaint (12:86).
 
       **Help.** In Türkiye, AFAD (the Disaster and Emergency Management Authority) and the Ministry of Family and Social Services provide psychosocial support, and 112 handles emergencies. Elsewhere, findahelpline.com lists services. Trauma that does not ease — nightmares, numbness, panic — responds to professional care.
+    tr: |-
+      **Birini kaybettiysen, onun ölümü onun hakkında bir hüküm değil, bir şeref sayılır.** Hz. Peygamber (s.a.v.), yıkılan bir binanın altında ölenleri şehitler arasında saydı ({hadith:bukhari:2829}). İslam inancında ergenlikten önce ölen bir çocuk hesaba çekilmez ve Allah'ın rahmeti içindedir (aşağıya bak).
+
+      **Hayatta kalma suçluluğu yaygındır ve bir hüküm değildir.** Hayatta kalanların çoğu neden yaşadıklarını sorar. Bu sorunun, bulmak zorunda olduğun bir cevabı yoktur; daha çok hak ettiğin için hayatta değilsin.
+
+      **Allah'a duyduğun öfkeyi Allah'a getirebilirsin.** Hz. Yâkûb'un şikâyeti (12:86) için "Dualar neden kabul olmuyor?" sayfasına bak.
+
+      **Yardım.** Türkiye'de AFAD (Afet ve Acil Durum Yönetimi Başkanlığı) ve Aile ve Sosyal Hizmetler Bakanlığı psikososyal destek sağlar ve 112 acil durumlarla ilgilenir. Başka yerlerde findahelpline.com hizmetleri listeler. Hafiflemeyen travma — kâbuslar, hissizlik, panik — profesyonel bakıma cevap verir.
+    title:
+      en: Hayatta kalan için
+      tr: Hayatta kalan için
   - kind: quran
     en: |-
       **64:11 — permission, and guidance for the heart.** "No disaster strikes except by permission of Allah. And whoever believes in Allah — He will guide his heart. And Allah is Knowing of all things" (64:11), from Sura al-Taghabun (usually counted as Medinan). The verse is not about why the disaster happened, but about how a believer meets it. Ibn Kathir reports Ibn ʿAbbas: "By the command of Allah", i.e. by His decree; and, on "He will guide his heart": "Allah will guide his heart to certainty." Ibn Kathir explains that the person who suffers, knows it came by God's decree, and patiently awaits the reward is the one whose heart is guided.
@@ -129,6 +136,23 @@ fullAnswer:
       **30:41 — human corruption.** "Corruption has appeared throughout the land and sea by [reason of] what the hands of people have earned…" (30:41). That is a modern application: the verse speaks of corruption (*fasād*) caused by people. It is better used as a general reminder that people answer for the harm they cause than as a statement about the 2023 earthquake.
 
       **The punished peoples (ʿĀd, Thamūd and others).** The Quran describes the destruction of specific peoples after they rejected a prophet sent to them.
+    tr: |-
+      **64:11 — izin ve kalbe hidayet.** "Allah'ın izni olmayınca hiç bir musibet isabet etmez. Kim Allah'a inanırsa, Allah onun kalbini doğruya götürür. Allah her şeyi bilendir." (64:11), Teğâbün Sûresi'nden (genellikle Medenî sayılır). Âyet afetin neden olduğuyla değil, bir müminin onu nasıl karşıladığıyla ilgilidir. İbn Kesîr, İbn Abbâs'tan şunu aktarır: "Allah'ın emriyle", yani O'nun takdiriyle; ve "kalbini doğruya götürür" hakkında: "Allah onun kalbini yakîne iletir." İbn Kesîr, acı çeken, bunun Allah'ın takdiriyle geldiğini bilen ve sabırla mükâfatı bekleyen kişinin, kalbi hidayete erdirilen kişi olduğunu açıklar.
+
+      **42:30 — "kendi ellerinizle kazandıklarınız".** "Başınıza gelen herhangi bir musibet kendi ellerinizle kazandıklarınız yüzündendir. Bununla beraber Allah yine de çoğunu affeder." (42:30), Şûrâ Sûresi'nden, Mekkî, genel olarak insanlara hitap eder. İbn Kesîr onu şöyle okur: "Ey insanlar, başınıza gelen her türlü musibet, geçmişte işlediğiniz günahlar yüzündendir"; "çoğunu affeder" hakkında da: "Sizi onlar yüzünden cezalandırmaz, aksine sizi bağışlar." Sonra âyeti rahmete yönelten hadisleri zikreder: "Hiçbir mümine bir yorgunluk, bitkinlik, kaygı ya da keder isabet etmez ki Allah bununla onun bazı günahlarını bağışlamasın" ve İmam Ahmed'deki bir rivayet: "Bir mümine bedensel hiçbir zarar isabet etmez ki Allah bu sebeple onun bazı günahlarına kefaret etmesin." Yani İbn Kesîr âyeti önce sebep bildiren bir âyet olarak — afetler, çoğunu Allah'ın affettiği günahlar yüzünden gelir —, sonra hadisler aracılığıyla sıkıntının bir müminin günahlarını sildiğine dair bir vaat olarak okur. Hiçbiri belirli kurbanları bunu hak etmiş olarak göstermez. Zikrettiği iki hadisin hangi külliyatta geçtiği ve derecesi burada henüz kontrol edilmedi.
+
+      **42:30 neyi söylemez?** Genel olarak "başınıza" geleni anlatır; belirli bir afetin isabet ettiği her insanın kendi günahları yüzünden cezalandırıldığını söylemez. Hesaba çekilmeyen çocuklara uygulanamaz (aşağıya bak). Onu belirli bir depremin kurbanlarına bir hüküm olarak uygulamak, âyetin yapmadığı bir şeydir ve şehitlerle ilgili hadis buna aykırıdır.
+
+      **57:22–23 — umutsuzluğa düşmeyesiniz diye yazılmış.** "Yeryüzünde vuku bulan ve sizin başınıza gelen herhangi bir musibet yoktur ki biz onu yaratmadan önce, bir kitapta yazılmış olmasın. Şüphesiz bu Allah'a göre kolaydır. Böylece elinizden çıkana üzülmeyesiniz ve Allah'ın size verdiği nimetlerle şımarmayasınız." (57:22–23), Hadîd Sûresi'nden. Afetlerin takdir edildiğini bilmenin amacı olarak verilen şey, kurbanları suçlamak değil, kalbi umutsuzluktan korumaktır.
+
+      **2:155–157 — imtihan.** "Çaresiz biz sizi biraz korku, biraz açlık, biraz da mallardan, canlardan ve ürünlerden eksiltme ile imtihan edeceğiz. Müjdele o sabredenleri! Onlar başlarına bir musibet geldiği zaman: "Biz Allah'a aidiz ve sonunda O'na döneceğiz." derler. İşte onlar var ya, Rablerinden, mağfiretler ve rahmet onlaradır." (2:155–157). Burada kayıp bir imtihandır ve ona uğrayanlara mağfiret ve rahmet vaat edilir.
+
+      **30:41 — insanların fesadı.** "…insanların kendi ellerinin kazandığı şeyler yüzünden karada ve denizde fesat ortaya çıktı…" (30:41). Bu modern bir uygulamadır: Âyet insanların yol açtığı bozulmadan (*fesâd*) söz eder. 2023 depremi hakkında bir ifade olarak değil, insanların yol açtıkları zarardan sorumlu olduklarına dair genel bir hatırlatma olarak kullanılması daha doğrudur.
+
+      **Helâk edilen kavimler (Âd, Semûd ve diğerleri).** Kur'an, kendilerine gönderilen bir peygamberi reddettikten sonra belirli kavimlerin helâk edilişini anlatır.
+    title:
+      en: Kur'an ne diyor? (Zor âyetler dahil)
+      tr: Kur'an ne diyor? (Zor âyetler dahil)
   - kind: sunnah
     en: |-
       **Victims of collapse are martyrs.** "Five are regarded as martyrs: They are those who die because of plague, abdominal disease, drowning or a falling building etc., and the martyrs in Allah's Cause" ({hadith:bukhari:2829}, narrated by Abu Hurayra). A *martyr* (*shahīd*) is someone whose death God counts as a witness to faith and rewards greatly; this hadith extends the status beyond battle to deaths by disaster and disease.
@@ -138,6 +162,17 @@ fullAnswer:
       **Children.** "Any Muslim whose three children died before the age of puberty will be granted Paradise by Allah because of His mercy to them" ({hadith:bukhari:1381}). IslamWeb's fatwa states that a Muslim child who dies before puberty "will enter Paradise as he or she is not held accountable", and reports that scholars differ about the children of non-Muslims — some say they are in Paradise (citing a report in Bukhari that the Prophet (pbuh) saw the children of Muslims and non-Muslims with Abraham), others that they will be tested on the Day of Judgement, and others decline to judge.
 
       **"Tie your camel".** A man asked whether to tie his camel and trust God or leave it loose and trust God; the Prophet (pbuh) said: "Tie it and rely (upon Allah)" (al-Tirmidhi 2517, narrated by Anas). Its grading is disputed: al-Tirmidhi called it *gharīb* (known through one route), Yahya al-Qattan is reported to have called it *munkar* (rejected), and a modern grader (Zubayr ʿAli Zaʾi) called it good (hadithunlocked.com). It should not be relied on alone; the principle it expresses — take precautions and trust God — is supported by the scholars below.
+    tr: |-
+      **Yıkıntı kurbanları şehittir.** "Beş kişi şehit sayılır: Vebadan, karın hastalığından, suda boğularak ya da yıkılan bir bina altında kalarak vb. ölenler ve Allah yolundaki şehitler" ({hadith:bukhari:2829}, Ebû Hüreyre'den). *Şehit*, Allah'ın ölümünü imana bir şahitlik sayıp büyük bir mükâfatla ödüllendirdiği kişidir; bu hadis bu statüyü savaşın ötesine, afet ve hastalık yüzünden ölümlere genişletir.
+
+      **Veba: bir zamanlar ceza, şimdi müminler için rahmet.** Hz. Âişe (r.a.) Hz. Peygamber'e (s.a.v.) vebayı sordu, o da ona şöyle dedi: "Veba, Allah'ın dilediği kimselere gönderdiği bir azaptı, ama Allah onu müminler için bir rahmet kıldı. (Müminlerden) veba çıkan bir yerde sabırla kalan ve başına Allah'ın kendisi için takdir ettiğinden başka bir şey gelmeyeceğini düşünen hiç kimse yoktur ki Allah ona bir şehidinkine benzer bir mükâfat vermesin" ({hadith:bukhari:5734}). Aynı olay, bir ortamda bir kavim için ceza, başka bir ortamda müminler için rahmet olabilir.
+
+      **Çocuklar.** "Ergenlik çağına girmeden üç çocuğu ölen her Müslümanı Allah, onlara olan rahmetinden dolayı cennete koyar" ({hadith:bukhari:1381}). IslamWeb'in fetvası, ergenlikten önce ölen Müslüman bir çocuğun "hesaba çekilmediği için cennete gireceğini" belirtir ve âlimlerin gayrimüslimlerin çocukları konusunda ayrıldığını aktarır — bazıları onların cennette olduğunu söyler (Hz. Peygamber'in (s.a.v.) Müslümanların ve gayrimüslimlerin çocuklarını Hz. İbrâhim'in yanında gördüğünü bildiren Buhârî'deki bir rivayete atıfla), diğerleri Kıyamet Günü'nde imtihan edileceklerini söyler, diğerleri ise hüküm vermekten kaçınır.
+
+      **"Deveni bağla".** Bir adam devesini bağlayıp Allah'a mı tevekkül etmesi, yoksa onu salıverip Allah'a mı tevekkül etmesi gerektiğini sordu; Hz. Peygamber (s.a.v.) şöyle buyurdu: "Onu bağla ve (Allah'a) tevekkül et" (Tirmizî 2517, Enes'ten). Derecesi tartışmalıdır: Tirmizî onu *garîb* (tek bir yoldan bilinen) saydı, Yahyâ el-Kattân'ın onu *münker* (reddedilen) saydığı aktarılır ve modern bir değerlendirici (Zübeyr Ali Zeî) onu iyi saydı (hadithunlocked.com). Tek başına ona dayanılmamalıdır; ifade ettiği ilke — tedbir al ve Allah'a güven — aşağıdaki âlimler tarafından desteklenir.
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: |-
       **Kader and tedbir.** *Kader* (Arabic *qadar*) is God's eternal knowledge and determination of all events; *tedbir* is precaution, taking the means. Faruk Sancar (SETA, 2023) summarises the mainstream Sunni view: *tevekkül* (trust in God) means taking every precaution and then submitting to God's will, and giving up all action in its name is rejected — he cites al-Ghazali's *Iḥyāʾ* — and "most scholars regard it as haram". He concludes that disasters follow the natural laws God set (*sünnetullah*, Arabic *sunnat Allāh*, "God's way" in creation) and become catastrophes through human error and negligence.
@@ -147,8 +182,23 @@ fullAnswer:
       **Görmez on punishment.** Mehmet Görmez, president of Diyanet (Türkiye's state Presidency of Religious Affairs) from 2010 to 2017, said that "her afeti sadece ilahi ceza ve azap olarak gören teolojik anlayış da o kadar sığ, yanlış ve eksiktir" — a theology that sees every disaster only as divine punishment is "just as shallow, wrong and incomplete" as a purely mechanical one; and that if it were divine punishment, "masum çocukların suçunun ne olduğu sorgulanır" — one would have to ask what the innocent children's crime was (*sol*). In Habertürk he said that depicting God as "raining punishment from the sky" for people's sins "is not right" ("doğru değildir"), and that classical Islamic culture produced many books on earthquakes but "Tabiat bilgimiz eksik" — "our knowledge of nature was incomplete".
 
       **Diyanet's own ruling.** That ruling could not be found.
+    tr: |-
+      **Kader ve tedbir.** *Kader* (Arapça *kader*), Allah'ın bütün olayları ezelî olarak bilmesi ve belirlemesidir; *tedbir* ise önlem almak, sebeplere başvurmaktır. Faruk Sancar (SETA, 2023), ana akım Sünnî görüşü özetler: *Tevekkül*, her türlü önlemi alıp sonra Allah'ın iradesine teslim olmak demektir ve onun adına her türlü eylemden vazgeçmek reddedilir — Gazzâlî'nin *İhyâ*'sını zikreder — ve "âlimlerin çoğu bunu haram sayar". Afetlerin Allah'ın koyduğu tabiat kanunlarını (*sünnetullah*, Arapça *sünnetullâh*, Allah'ın yaratılıştaki "yolu") izlediği ve insan hatası ve ihmali yüzünden felakete dönüştüğü sonucuna varır.
+
+      **Müteahhitler neden suçlanabilir?** Allah'ın takdiri, insanın seçimleri de dahil olmak üzere sebepleri ve sonuçlarını kapsar. Kötü beton kullanan bir müteahhit bunu yapmayı seçti; çöküşün Allah tarafından bilinmesi, müteahhidin seçimini daha az onun seçimi kılmaz. Görmez bunu şöyle ifade etti: "Problem imar planlarımızın kader planlarımıza uygun olmamasıdır" ve "Tedbiri bırakıp, takdire yüklenirsek doğru olmaz" (Habertürk, 16 Mart 2023).
+
+      **Görmez ceza hakkında.** 2010–2017 yılları arasında Diyanet İşleri Başkanı olan Mehmet Görmez, salt mekanik bir teoloji kadar "her afeti sadece ilahi ceza ve azap olarak gören teolojik anlayış da o kadar sığ, yanlış ve eksiktir" dedi; ve bu ilahi bir ceza olsaydı, "masum çocukların suçunun ne olduğu sorgulanır" (*sol*). Habertürk'te, Allah'ı insanların günahları yüzünden "gökten ceza yağdıran" biri olarak tasvir etmenin "doğru değildir" dedi ve klasik İslam kültürünün depremler üzerine pek çok kitap ürettiğini, ama "Tabiat bilgimiz eksik" olduğunu söyledi.
+
+      **Diyanet'in kendi kararı.** Bu karar bulunamadı.
+    title:
+      en: Takdir ve insanın sorumluluğu
+      tr: Takdir ve insanın sorumluluğu
   - kind: science
     en: '**The buildings that fell were largely those that did not meet the codes.** [Moderate; one engineering study.] Mertol and colleagues (Atılım University) investigated reinforced-concrete buildings after the earthquakes (Mw 7.7 and 7.6, about nine hours apart). They report about 51,000 deaths in Türkiye, 11 severely affected provinces and some 215,000 buildings destroyed or severely damaged as of 15 April 2023. They found that design and construction "did not fully comply with the codes valid at the time", that "most of the collapsed and severely/moderately damaged buildings" were built between 1975 and 2000, and listed specific failures such as improper stirrup detailing and violations of the strong-column principle. They also note that ground shaking at some sites exceeded code values by nearly three times — so the earthquakes themselves were extraordinarily strong. *What this means:* both nature and human choices shaped the death toll; the second is what human beings answer for.'
+    tr: "**Yıkılan binalar büyük ölçüde yönetmeliklere uymayanlardı.** [Orta; tek bir mühendislik çalışması.] Mertol ve arkadaşları (Atılım Üniversitesi), depremlerden (yaklaşık dokuz saat arayla Mw 7,7 ve 7,6) sonra betonarme binaları inceledi. 15 Nisan 2023 itibarıyla Türkiye'de yaklaşık 51.000 ölüm, ağır etkilenen 11 il ve yıkılan ya da ağır hasar gören yaklaşık 215.000 bina bildiriyorlar. Tasarım ve inşaatın \"o dönemde geçerli yönetmeliklere tam olarak uymadığını\", \"yıkılan ve ağır/orta hasar gören binaların çoğunun\" 1975 ile 2000 arasında inşa edildiğini buldular ve uygunsuz etriye detayları ve güçlü kolon ilkesinin ihlali gibi belirli kusurları sıraladılar. Ayrıca bazı yerlerde yer sarsıntısının yönetmelik değerlerini neredeyse üç kat aştığını not ediyorlar — yani depremlerin kendisi olağanüstü güçlüydü. *Bunun anlamı:* Ölü sayısını hem tabiat hem insanın seçimleri şekillendirdi; insanların hesabını vereceği şey ikincisidir."
+    title:
+      en: Binalar hakkında deliller ne gösteriyor?
+      tr: Binalar hakkında deliller ne gösteriyor?
   - kind: reasoning
     en: |-
       **The question at full strength.** A just and all-powerful God could have made a world without lethal earthquakes, or protected the children. That He did not looks like either injustice or powerlessness.
@@ -156,31 +206,52 @@ fullAnswer:
       **What Islamic thought offers (the site's own summary, drawing on the pages linked).** First, a world of stable natural laws — in which plates move, mountains rise and the earth stays geologically alive — is a world in which knowledge, planning and responsibility are possible; the same laws that make earthquakes make it possible to build safely. Second, death in Islam is not the end or the worst evil: those who die under rubble are martyrs, children are in God's mercy, and the next life is the place of final justice (see "Is there an afterlife?"). Third, the Quran asks for trust where the full reason is not shown — as when the angels asked why God would create beings who shed blood, and He answered, "Indeed, I know that which you do not know" (2:30; see "Why would a self-sufficient God create?"). The fuller treatment is on the page "If God is good, why is there suffering?".
 
       *Limit:* these are reasons and a call to trust, not a complete explanation. For a parent who lost a child, no argument removes the loss, and the honest response is to say so.
+    tr: |-
+      **Soru tam gücüyle.** Adil ve her şeye gücü yeten bir Allah, ölümcül depremlerin olmadığı bir dünya yaratabilir ya da çocukları koruyabilirdi. Bunu yapmamış olması ya adaletsizlik ya da güçsüzlük gibi görünüyor.
+
+      **İslam düşüncesi ne sunar? (Sitenin kendi özeti, bağlantı verilen sayfalara dayanarak.)** Birincisi, kararlı tabiat kanunlarının olduğu bir dünya — plakaların hareket ettiği, dağların yükseldiği ve yerkürenin jeolojik olarak canlı kaldığı bir dünya — bilginin, planlamanın ve sorumluluğun mümkün olduğu bir dünyadır; depremleri oluşturan aynı kanunlar güvenli inşa etmeyi de mümkün kılar. İkincisi, İslam'da ölüm son ya da en büyük kötülük değildir: Enkaz altında ölenler şehittir, çocuklar Allah'ın rahmeti içindedir ve ahiret nihai adaletin yeridir (bkz. "Âhirete dair delil"). Üçüncüsü, Kur'an tam sebebin gösterilmediği yerde güven ister — melekler Allah'ın neden kan dökecek varlıklar yaratacağını sorduğunda O'nun "Ben sizin bilmediklerinizi bilirim." diye cevap vermesi gibi (2:30; bkz. "Hiçbir şeye muhtaç olmayan Allah neden yarattı?"). Daha kapsamlı ele alınışı "Allah her şeye gücü yeten ve iyiyse, neden acı var?" sayfasındadır.
+
+      *Sınır:* Bunlar tam bir açıklama değil, gerekçeler ve güvene bir çağrıdır. Çocuğunu kaybetmiş bir anne ya da baba için hiçbir argüman kaybı ortadan kaldırmaz ve dürüst cevap bunu söylemektir.
+    title:
+      en: Allah buna neden izin versin, hem de çocuklar için?
+      tr: Allah buna neden izin versin, hem de çocuklar için?
 followUps:
   - q:
       en: If 64:11 and 42:30 say disasters come by God's permission and because of what people earned, how is it not punishment?
+      tr: 64:11 ve 42:30 afetlerin Allah'ın izniyle ve insanların kazandıkları yüzünden geldiğini söylüyorsa, bu nasıl ceza olmuyor?
     a:
       en: Permission means nothing happens outside God's knowledge and decree. Ibn Kathir reads "what your hands have earned" as disasters coming because of past sins, most of which God pardons, and cites hadith that hardship expiates a believer's sins; and the Prophet (pbuh) called the victims of collapse martyrs. A general link between sin and hardship is not a verdict on particular victims.
+      tr: İzin, hiçbir şeyin Allah'ın ilminin ve takdirinin dışında olmadığı anlamına gelir. İbn Kesîr "kendi ellerinizle kazandıklarınız" ifadesini, afetlerin çoğunu Allah'ın affettiği geçmiş günahlar yüzünden geldiği şeklinde okur ve sıkıntının bir müminin günahlarına kefaret olduğunu bildiren hadisleri zikreder; ve Hz. Peygamber (s.a.v.) yıkıntı kurbanlarını şehit olarak adlandırdı. Günah ile sıkıntı arasındaki genel bir bağ, belirli kurbanlar hakkında bir hüküm değildir.
   - q:
       en: If it is kader, how can contractors be blamed?
+      tr: Kaderse, müteahhitler nasıl suçlanabilir?
     a:
       en: God's decree includes human choices and their effects. The builder chose; he answers for his choice.
+      tr: Allah'ın takdiri, insanın seçimlerini ve onların sonuçlarını kapsar. Müteahhit seçti; seçiminin hesabını o verir.
   - q:
       en: Why did God permit it to hit children?
+      tr: Allah buna neden çocukları vuracak şekilde izin verdi?
     a:
       en: Islam holds that children are not accountable and are in God's mercy, and that the next life is the place of justice. It does not claim to show the full reason in this life.
+      tr: İslam, çocukların hesaba çekilmediğini ve Allah'ın rahmeti içinde olduğunu ve ahiretin adaletin yeri olduğunu kabul eder. Bu hayatta tam sebebi gösterdiğini iddia etmez.
   - q:
       en: What are Diyanet, AFAD, kader and musibet?
+      tr: Diyanet, AFAD, kader ve musibet nedir?
     a:
       en: "Diyanet: Türkiye's state Presidency of Religious Affairs. AFAD: Türkiye's Disaster and Emergency Management Authority. Kader: God's decree. Musibet: calamity, a misfortune that strikes."
+      tr: "Diyanet: Türkiye'nin Diyanet İşleri Başkanlığı. AFAD: Türkiye'nin Afet ve Acil Durum Yönetimi Başkanlığı. Kader: Allah'ın takdiri. Musibet: insanın başına gelen bir bela, felaket."
   - q:
       en: What does "martyr" mean if the person did not die fighting?
+      tr: Kişi savaşarak ölmediyse "şehit" ne demek?
     a:
       en: A death God counts as witness to faith and rewards greatly; the hadith extends it to death by plague, disease, drowning and collapse ({hadith:bukhari:2829}).
+      tr: Allah'ın imana bir şahitlik sayıp büyük bir mükâfatla ödüllendirdiği bir ölüm; hadis bunu veba, hastalık, boğulma ve yıkıntı yüzünden ölüme genişletir ({hadith:bukhari:2829}).
   - q:
       en: What do ordinary Turkish Muslims believe about the 2023 earthquake?
+      tr: Sıradan Türk Müslümanları 2023 depremi hakkında neye inanıyor?
     a:
       en: No survey of believers' views was found.
+      tr: İnananların görüşlerine dair bir anket bulunamadı.
 legacySources:
   - *a1
   - *a2
@@ -189,3 +260,4 @@ legacySources:
   - *a5
   - *a6
   - *a7
+translatedFrom: docs/research/tr/Q16.md

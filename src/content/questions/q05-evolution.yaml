@@ -14,16 +14,13 @@ helpCard: false
 verses:
   - 3:59
 steelman:
-  tr: |
-    Biyoloji doğal seçilim yoluyla ortak ataları gösterir; Kur'an ise Âdem'in topraktan yaratıldığını söyler.
+  tr: "\"Biyoloji, insanlar dahil bütün canlıların ortak atalara sahip olduğunu gösteriyor. Delil tek bir fosil değil, genetik, anatomi ve fosil kaydı birlikte. Kur'an Âdem'in çamurdan yapıldığını, meleklerin ona secde ettiğini ve bütün insanların tek bir nefisten geldiğini söylüyor. Popülasyon genetiği, insan genetik çeşitliliğinin son birkaç yüz bin yıl içindeki tek bir çiftten gelemeyecek kadar büyük olduğunu söylüyor. Yani ya Kur'an Âdem konusunda yanılıyor ya da bilim yanılıyor — ve bilim çok güçlü.\""
   en: '"Biology shows that all living things, humans included, share common ancestors. The evidence is not one fossil but genetics, anatomy and the fossil record together. The Quran says Adam was made from clay, that angels bowed to him, and that all people come from one soul. Population genetics says human genetic diversity is too great to come from one couple in the last few hundred thousand years. So either the Quran is wrong about Adam, or the science is wrong — and the science is very strong."'
 whyAsked:
-  tr: |
-    Biyoloji dersleri ve bilime karşıt olarak öğretilen din.
+  tr: Öğrenciler biyoloji dersinde evrimle karşılaşırken evde ya da camide onun ateizm olduğunu duyuyor. Pek çoğuna seçmek zorunda oldukları söyleniyor. Bazıları bu yüzden imanı bırakıyor; diğerleri bilimden kaçıyor.
   en: Students meet evolution in biology class while hearing at home or in the mosque that it is atheism. Many are told they must choose. Some leave faith over it; others avoid science.
 shortAnswer:
-  tr: |
-    Şuayb Ahmed Malik (*Islam and Evolution*, Routledge 2021) dört görüşü haritalar: yaratılışçılık, insan istisnacılığı, Âdem istisnacılığı ve istisnasızlık. Gazzâlî'nin yorum ilkelerini kullanarak ilk üçünü metinle bağdaşır bulur ve David Solomon Jalajel'in geliştirdiği Âdem istisnacılığını tercih eder. Asıl tartışma dardır: Âdem'in kendisinin ataları olup olmadığı.
+  tr: "Soru göründüğünden daha dardır. Kur'an bitkilerin ve hayvanların bugünkü biçimlerine nasıl geldiği hakkında hiçbir şey söylemez; insanlarla ilgili yaratılış âyetleri Âdem'le ilgilidir. Şuayb Ahmed Malik (*Islam and Evolution*, 2021), Gazzâlî'nin yorum kurallarını uygulayarak Müslüman görüşlerini dört tutuma ayırır — yaratılışçılık, insan istisnacılığı, Âdem istisnacılığı ve \"istisnasız\" — ve ilk üçünün kutsal metinle bağdaştığı, dördüncüsünün ise bağdaşmadığı sonucuna varır. Asıl tartışma, Âdem'in kendisinin biyolojik anne babası olup olmadığıdır. Ortak ata, kaynaşmış insan 2. kromozomu gibi delillerle çok iyi desteklenir. Popülasyon genetiği yakın geçmişte tek bir kurucu çifti dışlar, ama sonraki analizlere göre yaklaşık 500.000 yıldan daha önceki bir çifti dışlamaz. Geleneksel ilmî cevaplar ihtiyatlıdır: Okunan bir cevap (SeekersGuidance, 2020), diğer türlerin evrimini açık bırakırken Âdem'in kesinlikle doğrudan yaratıldığını kabul eder."
   en: "The question is narrower than it looks. The Quran says nothing about how plants and animals came to be in their present forms; its creation verses about humans concern Adam. Shoaib Ahmed Malik (*Islam and Evolution*, 2021), applying al-Ghazali's rules of interpretation, sorts Muslim views into four positions — creationism, human exceptionalism, Adamic exceptionalism and \"no exceptions\" — and concludes that the first three are compatible with scripture and the fourth is not. The real dispute is whether Adam himself had biological parents. Common descent is very well supported by evidence such as the fused human chromosome 2. Population genetics rules out a single founding couple in the recent past, but not, on later analyses, one more than about 500,000 years ago. Traditional scholarly answers are cautious: one read (SeekersGuidance, 2020) holds that Adam was certainly created directly, while leaving the evolution of other species open."
 layers:
   - kind: religious
@@ -46,8 +43,7 @@ layers:
       Bu seçeneklerin var olduğunu öğrenmek çoğu zaman rahatlama getirir.
     en: Learning that these options exist often brings relief.
 honestLimits:
-  tr: |
-    Kurumsal tutumlar temkinli olmaya devam ediyor.
+  tr: Malik'in kitabının kendisi, Jalajel'in çalışması ve Guessoum'un kitabı yalnızca incelemeler aracılığıyla okundu; Gazzâlî'nin *Kânûnü't-Te'vîl*'ine ve *Faysalü't-Tefrika*'sına henüz başvurulmadı, dolayısıyla onun kuralı yalnızca inceleme yazarlarının sözleriyle tarif ediliyor. Burada ortak ataya dair delil taraması bir örnek veriyor; tam bir anlatım değil. Okunan tek cevabın ötesindeki kurumsal görüşlere (Diyanet, Ezher, fetva kurulları) henüz bakılmadı.
   en: Malik's book itself, Jalajel's work and Guessoum's book were read only through reviews; al-Ghazali's *Qānūn al-Taʾwīl* and *Fayṣal al-Tafriqa* have not yet been consulted, so his rule is described only in the reviewers' words. The survey of evidence for common descent here gives one example; it is not a full account. Institutional positions (Diyanet, al-Azhar, fatwa councils) beyond the one answer read have not yet been checked.
 visualizations:
   - id: ideas
@@ -95,6 +91,10 @@ sources:
 fullAnswer:
   - kind: heart
     en: "**You do not have to choose between your faith and your biology class on the terms you were given.** Many people have been told that accepting any part of evolution is unbelief, and many others that faith is anti-science. Both are too simple. Learning that serious Muslim scholars hold several positions — and that the real disagreement is about one person, Adam — often brings relief. Study the science honestly, and study the texts honestly; the two questions are different."
+    tr: "**İmanın ile biyoloji dersin arasında, sana verilen şartlarla seçim yapmak zorunda değilsin.** Pek çok insana evrimin herhangi bir kısmını kabul etmenin küfür olduğu, pek çoğuna da imanın bilim karşıtı olduğu söylendi. İkisi de fazla basittir. Ciddi Müslüman âlimlerin birkaç farklı görüş savunduğunu — ve asıl anlaşmazlığın tek bir kişi, Âdem hakkında olduğunu — öğrenmek çoğu zaman rahatlama getirir. Bilimi dürüstçe incele, metinleri de dürüstçe incele; iki soru farklıdır."
+    title:
+      en: Arada kalan öğrenci için
+      tr: Arada kalan öğrenci için
   - kind: quran
     en: |-
       **Adam like Jesus (3:59).** "Indeed, the example of Jesus to Allah is like that of Adam. He created Him from dust; then He said to him, 'Be,' and he was" (3:59), Medinan, in a passage about Jesus (pbuh) (its occasion of revelation has not yet been checked). The comparison is that both came into being in an unusual way, by God's command.
@@ -108,6 +108,21 @@ fullAnswer:
       **The human line (23:12).** "And certainly did We create man from an extract of clay" (23:12), Meccan, followed by the stages of each person's development in the womb (see S4).
 
       **What the verses say and do not say.** They describe Adam as made from dust or clay, proportioned, given the spirit, honoured before the angels, and as the origin of "many men and women". They say nothing about other species, about how long it took, or about whether other human-like beings existed.
+    tr: |-
+      **Âdem gibi İsa (3:59).** "Doğrusu Allah katında İsa'nın (yaratılışındaki) durumu, Âdem'in durumu gibidir; onu topraktan yarattı, sonra ona "ol!" dedi, o da oluverdi." (3:59), Medenî, Hz. İsa (a.s.) hakkındaki bir pasajda (iniş sebebi henüz kontrol edilmedi). Benzetme, ikisinin de olağan dışı bir şekilde, Allah'ın emriyle var olmasıdır.
+
+      **Çamurdan, şekil verilmiş ve ruh üflenmiş (38:71–76).** "Hani Rabbin meleklere demişti ki: "Ben çamurdan bir insan yaratmaktayım Onu tesviye edip, düzeltip de ruhumdan ona üfledim mi derhal ona secdeye kapanın" (38:71–72), Mekkî. Allah İblis'e sorar: "O benim kudretimle yarattığıma secde etmene ne engel oldu?" İblis cevap verir: "Ben ondan hayırlıyım. Beni ateşten yarattın, onu ise çamurdan yarattın" (38:75–76). 15:28–29'daki paralel pasaj aynı sırayı izler: önce yaratılışın tamamlanması, sonra "ona ruhumdan üflediğim zaman" (15:29).
+
+      **İsimler öğretilen bir halife (2:30–31).** "Ben yeryüzünde bir halife yaratacağım" (2:30); "Ve Âdem'e isimlerin hepsini öğretti" (2:31), Medenî.
+
+      **Tek bir nefis (4:1).** "Ey insanlar! Sizi bir tek nefisten yaratan ve ondan eşini yaratıp ikisinden bir çok erkekler ve kadınlar üreten Rabbinizden korkun" (4:1), Medenî.
+
+      **İnsan soyu (23:12).** "And olsun biz insanı, çamurdan, bir sülâleden (süzülüp çıkarılmış çamurdan) yarattık." (23:12), Mekkî; ardından her insanın ana rahmindeki gelişiminin evreleri gelir (bkz. S4).
+
+      **Âyetler neyi söyler, neyi söylemez?** Âdem'i topraktan ya da çamurdan yapılmış, şekil verilmiş, ruh verilmiş, meleklerin önünde onurlandırılmış ve "bir çok erkekler ve kadınların" kaynağı olarak tarif ederler. Diğer türler hakkında, bunun ne kadar sürdüğü hakkında ya da insana benzer başka varlıkların var olup olmadığı hakkında hiçbir şey söylemezler.
+    title:
+      en: Kur'an Âdem'in yaratılışı hakkında ne diyor?
+      tr: Kur'an Âdem'in yaratılışı hakkında ne diyor?
   - kind: scholars
     en: |-
       Malik's book maps Muslim positions on whether humans share common ancestry with other species (Arrozy's review, p. 111). In plain words:
@@ -122,6 +137,22 @@ fullAnswer:
       **Ashʿari occasionalism, explained.** *Occasionalism* is the view that God is the direct cause of every event, and what we call natural causes are only the occasions on which He acts. Al-Ghazali's famous example: "the cotton is burned directly by God rather than by the fire" (*Wikipedia*); the regular order of nature expresses God's will, not a necessity in things. Arrozy summarises: "The Ash'arite theology, i.e. occasionalism" holds that God is "the primary cause of everything" and "is not bound by the law of nature", and the four positions "could align well with the Ash'arite theology". From this, this page draws its own point (not attributed to Malik): "unguided" evolution is a metaphysical claim, not a biological one, since on occasionalism every mutation and every selection is God's act.
 
       **Not every claimed precedent is real.** Arrozy reports Malik's caution against reading Darwin back into classical authors such as Ibn Khaldūn, Rūmī and al-Jāḥiẓ. A Turkish example of the same caution: Süleyman Ateş claimed in 1975 that the commentator Elmalılı Hamdi Yazır accepted the evolution of Adam; Gördük (2019) argues that Ateş quoted selectively and that Elmalılı held Adam was created as "kusursuz bir ilk insan" — a flawless first human.
+    tr: |-
+      Malik'in kitabı, insanların diğer türlerle ortak atalara sahip olup olmadığı konusundaki Müslüman görüşlerinin haritasını çıkarır (Arrozy'nin incelemesi, s. 111). Sade bir dille:
+
+      1. **Yaratılışçılık.** Diğer türler için de dahil evrimi reddeder. (Bigliardi yelpazenin bu ucunu "kaba yaratılışçılık" olarak tarif eder.)
+      2. **İnsan istisnacılığı.** Diğer canlılar için evrimi kabul eder, ama "insanlık Âdem ile Havva'nın mucizevi yaratılışıyla başladı" (Bigliardi): Hiçbir insanın insan olmayan ataları yoktur. *Âdem âyetlerinin okunuşu:* lafzi.
+      3. **Âdem istisnacılığı.** David Solomon Jalajel tarafından geliştirildi; Bigliardi, Malik'in onu övdüğünü belirtir. "Âdem ile Havva mucizevi olarak yaratıldı, ama yapıları ve görünüşleri o zamana kadar evrimleşmiş insanlardan farklı olmayacak şekilde" (Bigliardi). İnsana benzer başka varlıklar var olmuş ve evrimleşmiş olabilir; Âdem ile Havva doğrudan yaratıldı; onların soyu başkalarıyla karışmış olabilir. *Âdem âyetlerinin okunuşu:* Âdem için lafzi; Kur'an diğerleri hakkında sessizdir.
+      4. **İstisnasız.** "Evrimin (insanlar dahil) tamamen kabulü" (Bigliardi): Âdem'in de biyolojik ataları vardı. *Âdem âyetlerinin okunuşu:* lafzi olmayan ya da sembolik.
+
+      **Gazzâlî'nin kuralı ve Malik'in onu uygulaması.** "9. bölüm Gazzâlî'nin yorum ilkelerini ana hatlarıyla ortaya koyar" (Arrozy). Bigliardi bunları "lafzi anlamı kabul etmek"ten başlayan birkaç okuma "katmanı" olarak tarif eder; mecazi okumaların, aktardığına göre, "Âdem'i gerçek bir birey olarak okumakla birlikte sürdürülebileceğini" belirtir (s. 308'e atıfla). Bu ilkeleri uygulayarak Malik, onların "yaratılışçılık, insan istisnacılığı ve Âdem istisnacılığı ile uyuşacağı", ama "istisnasız" ile uyuşmayacağı sonucuna varır (Arrozy, s. 330'a atıfla); çünkü onun Âdem kıssasını mecazi okuması "ağırlıklı olarak bilimsel ölçütlerden etkilenmiş görünüyor" (s. 306). Gazzâlî'nin kuralının tam lafzına henüz başvurulmadı.
+
+      **Eş'arî vesileciliği, açıklamasıyla.** *Vesilecilik* (occasionalism), her olayın doğrudan sebebinin Allah olduğu ve tabii sebep dediğimiz şeylerin yalnızca O'nun fiilde bulunduğu vesileler olduğu görüşüdür. Gazzâlî'nin meşhur örneği: "Pamuk ateş tarafından değil, doğrudan Allah tarafından yakılır" (*Wikipedia*); doğanın düzenli işleyişi şeylerdeki bir zorunluluğu değil, Allah'ın iradesini ifade eder. Arrozy şöyle özetler: "Eş'arî kelâmı, yani vesilecilik", Allah'ın "her şeyin birincil sebebi" olduğunu ve "tabiat kanunuyla bağlı olmadığını" kabul eder ve dört tutum "Eş'arî kelâmıyla iyi uyuşabilir". Bu sayfa buradan kendi sonucunu çıkarır (Malik'e nispet edilmeden): "Yönlendirilmemiş" evrim biyolojik değil, metafizik bir iddiadır; çünkü vesileciliğe göre her mutasyon ve her seçilim Allah'ın fiilidir.
+
+      **İleri sürülen her öncül gerçek değildir.** Arrozy, Malik'in Darwin'i İbn Haldûn, Rûmî ve Câhiz gibi klasik yazarlara geriye doğru okumaya karşı uyarısını aktarır. Aynı ihtiyatın Türkiye'den bir örneği: Süleyman Ateş 1975'te müfessir Elmalılı Hamdi Yazır'ın Âdem'in evrimini kabul ettiğini iddia etti; Gördük (2019), Ateş'in seçici alıntı yaptığını ve Elmalılı'nın Âdem'in "kusursuz bir ilk insan" olarak yaratıldığını savunduğunu ileri sürer.
+    title:
+      en: Malik'in dört tutumu
+      tr: Malik'in dört tutumu
   - kind: science
     en: |-
       **Common descent.** [Established] One clear example: humans have 23 pairs of chromosomes, while "all other extant members of Hominidae have twenty-four pairs". "Human chromosome 2 is a result of an end-to-end fusion of two ancestral chromosomes": it carries "remnants of a second centromere" and "additional telomere sequences in the q13 band, far from either end of the chromosome" — telomeres normally sit only at chromosome ends — "the relic of an ancient telomere-telomere fusion" (*Wikipedia*, citing Ijdo et al. 1991 and others). Chimpanzees have "nearly identical DNA sequences to human chromosome 2, but they are found in two separate chromosomes". This is one line of evidence among many (fossils, anatomy, shared genetic "mistakes"), which this page does not survey.
@@ -130,6 +161,16 @@ fullAnswer:
       - Estimates of past human population size put it at "never fewer than around 10,000 people" (Craig's summary of the critics). Craig points out that these are averages over long periods, not minimums.
       - Joshua Swamidass dated the most recent time a single couple could be the ancestors of everyone (TMR4A) to 495 ± 100 thousand years ago; Richard Buggs agreed this was the first real test. Swamidass later said "a bottleneck anytime before 700 kya is undetectable in genetic data", while "the dust has yet to settle".
       - So a founding pair in the last few hundred thousand years is ruled out by the genetics; a pair further back, or a pair whose descendants mixed with others (the "genealogical" view), is not (Craig, *Peaceful Science*, 2020).
+    tr: |-
+      **Ortak ata.** [Established] Açık bir örnek: İnsanların 23 çift kromozomu varken "Hominidae'nin bugün yaşayan diğer bütün üyelerinin yirmi dört çift kromozomu var". "İnsan 2. kromozomu iki atasal kromozomun uç uca kaynaşmasının sonucudur": "ikinci bir sentromerin kalıntılarını" ve "kromozomun her iki ucundan da uzakta, q13 bandında ek telomer dizilerini" taşır — telomerler normalde yalnızca kromozom uçlarında bulunur — "eski bir telomer-telomer kaynaşmasının kalıntısı" (*Wikipedia*, Ijdo ve ark. 1991'e ve diğerlerine atıfla). Şempanzelerde "insan 2. kromozomuyla neredeyse aynı DNA dizileri var, ama bunlar iki ayrı kromozomda bulunuyor". Bu, pek çok delil çizgisinden (fosiller, anatomi, ortak genetik "hatalar") yalnızca biridir; bu sayfa onları taramıyor.
+
+      **Tek bir kurucu çift: rakamlar.** [Debated]
+      - Geçmişteki insan nüfusu büyüklüğü tahminleri onu "hiçbir zaman yaklaşık 10.000 kişiden az olmadığı" şeklinde verir (Craig'in eleştirmenlerin görüşünü özetlemesi). Craig bunların asgari değerler değil, uzun dönemler boyunca ortalamalar olduğunu belirtir.
+      - Joshua Swamidass, tek bir çiftin herkesin atası olabileceği en yakın zamanı (TMR4A) 495 ± 100 bin yıl önce olarak tarihlendirdi; Richard Buggs bunun ilk gerçek sınav olduğunu kabul etti. Swamidass daha sonra "700 bin yıl öncesinden herhangi bir zamandaki bir darboğazın genetik veride tespit edilemeyeceğini" söyledi, ama "tozun henüz yatışmadığını" da ekledi.
+      - Yani son birkaç yüz bin yıl içindeki bir kurucu çift genetik tarafından dışlanır; daha geriye giden bir çift ya da soyu başkalarıyla karışmış bir çift ("soybilimsel" görüş) dışlanmaz (Craig, *Peaceful Science*, 2020).
+    title:
+      en: Deliller ne gösteriyor?
+      tr: Deliller ne gösteriyor?
   - kind: objection
     en: |-
       **"Population genetics rules out Adam and Eve."** *Reply:* it rules out a sole founding couple of all humans in the recent past. Adamic exceptionalism answers that other human-like beings could have coexisted with Adam, and that descent from Adam need not mean descent from Adam alone. *Limit:* Bigliardi asks "whether Adamic exceptionalism fully lives up to the promise of harmonizing Islamic faith with a scientific outlook".
@@ -139,40 +180,72 @@ fullAnswer:
       **"Why not simply read Adam's story as symbolic?"** *Reply:* on Malik's reading of al-Ghazali, metaphorical readings are allowed only alongside "the reading of Adam as a real individual" (Bigliardi, citing p. 308); a reading driven "dominantly" by science is not (Arrozy, p. 306). *Limit:* Bigliardi himself asks of a metaphorical reading, "wouldn't this be a capitulation to science?" — and doubts the alternative fully succeeds. The disagreement is about method.
 
       **"Evolution means no God."** *Reply:* "unguided" is a philosophical addition, not a finding of biology; for an Ashʿari, every natural process is God's act. *Limit:* the critic says that if God acts through the same processes that would occur without Him, His action is not detectable — which is true, and is also what occasionalism says.
+    tr: |-
+      **"Popülasyon genetiği Âdem ile Havva'yı dışlıyor."** *Cevap:* Yakın geçmişte bütün insanların tek kurucu çiftini dışlar. Âdem istisnacılığı, insana benzer başka varlıkların Âdem'le birlikte var olmuş olabileceği ve Âdem'den gelmenin yalnızca Âdem'den gelmek anlamına gelmesi gerekmediği cevabını verir. *Sınır:* Bigliardi, "Âdem istisnacılığının İslam imanını bilimsel bir bakışla uyumlu hâle getirme vaadini tam olarak yerine getirip getirmediğini" sorar.
+
+      **"Mucizeleri kabul etmek bilim dışıdır."** *Cevap:* Malik, Gazzâlî'yi izleyerek, Allah'ın olağan düzenin dışında fiilde bulunabileceğini savunur; bilim düzenlilikleri tarif eder, başka hiçbir şeyin olamayacağını ispat etmez. *Sınır:* Bigliardi mucizeleri kabul etmeyi "büyük bir taviz" olarak adlandırır.
+
+      **"Neden Âdem kıssasını basitçe sembolik okumuyoruz?"** *Cevap:* Malik'in Gazzâlî okumasına göre mecazi okumalara ancak "Âdem'i gerçek bir birey olarak okumakla" birlikte izin verilir (Bigliardi, s. 308'e atıfla); "ağırlıklı olarak" bilim tarafından yönlendirilen bir okumaya izin verilmez (Arrozy, s. 306). *Sınır:* Bigliardi'nin kendisi mecazi bir okuma hakkında "bu bilime teslimiyet olmaz mı?" diye sorar — ve alternatifin tam olarak başarılı olduğundan şüphe eder. Anlaşmazlık yöntem hakkındadır.
+
+      **"Evrim Allah yok demektir."** *Cevap:* "Yönlendirilmemiş" ifadesi biyolojinin bir bulgusu değil, felsefi bir eklemedir; bir Eş'arî için her tabii süreç Allah'ın fiilidir. *Sınır:* Eleştirmen, Allah O olmadan da gerçekleşecek aynı süreçler aracılığıyla fiilde bulunuyorsa, O'nun fiilinin tespit edilemeyeceğini söyler — ki bu doğrudur ve vesileciliğin söylediği de budur.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Popular opinion varies widely.** In Pew's 2013 survey of Muslims, the share saying humans and other living things evolved over time ranged from 79% in Kazakhstan and 78% in Lebanon down to 30% in Pakistan, among the figures the report states. "In just four countries" — Iraq (67%), Afghanistan (62%), Indonesia (55%) and Tajikistan (55%) — did at least half say humans have always existed in their present form; in Turkey this was the most common answer (49%) (Pew; survey years and samples are in the report's methodology, not yet consulted).
       - **A traditional scholarly answer.** A SeekersGuidance answer, approved by Faraz Rabbani, says: "We are certain that Adam… did not evolve", that his direct creation "is clearly established", while "the process of creation for anything other than humans is not addressed in the Qur'an" (2020). This is human exceptionalism.
       - **Academic theologians.** Malik and Jalajel defend Adamic exceptionalism as compatible;
       - **"No exceptions."** Judged incompatible with scripture by Malik; its Muslim holders were not identified in the sources read.
+    tr: |-
+      - **Halk görüşü büyük farklılıklar gösteriyor.** Pew'in Müslümanlarla yaptığı 2013 anketinde, insanların ve diğer canlıların zaman içinde evrimleştiğini söyleyenlerin oranı, raporun verdiği rakamlar arasında Kazakistan'da %79 ve Lübnan'da %78'den Pakistan'da %30'a kadar değişiyordu. "Yalnızca dört ülkede" — Irak (%67), Afganistan (%62), Endonezya (%55) ve Tacikistan (%55) — en az yarısı insanların hep bugünkü biçimlerinde var olduğunu söyledi; Türkiye'de bu en yaygın cevaptı (%49) (Pew; anket yılları ve örneklemler raporun yöntem bölümünde, henüz başvurulmadı).
+      - **Geleneksel bir ilmî cevap.** Faraz Rabbani'nin onayladığı bir SeekersGuidance cevabı şöyle der: "Âdem'in… evrimleşmediğinden eminiz"; onun doğrudan yaratılışı "açıkça sabittir"; "insanlar dışındaki herhangi bir şeyin yaratılış süreci ise Kur'an'da ele alınmaz" (2020). Bu insan istisnacılığıdır.
+      - **Akademik kelâmcılar.** Malik ve Jalajel Âdem istisnacılığını bağdaşır bir görüş olarak savunur;
+      - **"İstisnasız."** Malik tarafından kutsal metinle bağdaşmaz olarak değerlendirilir; Müslüman savunucuları okunan kaynaklarda tespit edilmedi.
+    title:
+      en: Müslümanlar ve kurumlar gerçekte neye inanıyor?
+      tr: Müslümanlar ve kurumlar gerçekte neye inanıyor?
 followUps:
   - q:
       en: What exactly does each of the four positions say?
+      tr: Dört tutumun her biri tam olarak ne diyor?
     a:
       en: "Creationism: no evolution. Human exceptionalism: evolution for all life except humans, who begin with Adam and Eve. Adamic exceptionalism: other human-like beings may have evolved, but Adam and Eve were created directly. No exceptions: Adam too had ancestors."
+      tr: "Yaratılışçılık: evrim yok. İnsan istisnacılığı: Âdem ile Havva ile başlayan insanlar dışında bütün canlılar için evrim. Âdem istisnacılığı: İnsana benzer başka varlıklar evrimleşmiş olabilir, ama Âdem ile Havva doğrudan yaratıldı. İstisnasız: Âdem'in de ataları vardı."
   - q:
       en: If humans evolved, how do I read the verses saying Adam was made from clay?
+      tr: İnsanlar evrimleştiyse, Âdem'in çamurdan yapıldığını söyleyen âyetleri nasıl okurum?
     a:
       en: 'On Adamic exceptionalism, you read them as they are: Adam was made from clay and given the spirit; the Quran is silent on other beings. On "no exceptions", they are read symbolically — which Malik, following al-Ghazali, judges not acceptable.'
+      tr: "Âdem istisnacılığına göre onları oldukları gibi okursun: Âdem çamurdan yapıldı ve ona ruh verildi; Kur'an diğer varlıklar hakkında sessizdir. \"İstisnasız\" görüşte sembolik okunurlar — ki Malik, Gazzâlî'yi izleyerek, bunu kabul edilemez bulur."
   - q:
       en: Do I have to believe Adam had no parents to be a Muslim?
+      tr: Müslüman olmak için Âdem'in anne babası olmadığına inanmak zorunda mıyım?
     a:
       en: Malik's analysis treats Adam as "a real individual" created miraculously (Bigliardi), and the SeekersGuidance answer read here calls his direct creation certain. Other institutions have not yet been checked. A Muslim can accept evolution for other species, and on Adamic exceptionalism even for other human-like beings, while holding this.
+      tr: Malik'in analizi Âdem'i mucizevi olarak yaratılmış "gerçek bir birey" olarak ele alır (Bigliardi) ve burada okunan SeekersGuidance cevabı onun doğrudan yaratılışını kesin olarak niteler. Diğer kurumlar henüz kontrol edilmedi. Bir Müslüman bunu kabul ederken diğer türler için, Âdem istisnacılığına göre insana benzer başka varlıklar için bile evrimi kabul edebilir.
   - q:
       en: What do "human exceptionalism" and "Adamic exceptionalism" mean?
+      tr: '"İnsan istisnacılığı" ve "Âdem istisnacılığı" ne demek?'
     a:
       en: "Human exceptionalism: all humans descend only from Adam and Eve, who were created directly. Adamic exceptionalism: only Adam and Eve are the exception; other humans may have evolved."
+      tr: "İnsan istisnacılığı: Bütün insanlar yalnızca doğrudan yaratılmış olan Âdem ile Havva'dan gelir. Âdem istisnacılığı: Yalnızca Âdem ile Havva istisnadır; diğer insanlar evrimleşmiş olabilir."
   - q:
       en: What is "Ashʿari occasionalism"?
+      tr: "\"Eş'arî vesileciliği\" nedir?"
     a:
       en: "The view that God directly causes every event; natural causes are the occasions of His action. Al-Ghazali: the cotton burns by God's act, not by the fire."
+      tr: "Her olaya doğrudan Allah'ın sebep olduğu görüşü; tabii sebepler O'nun fiilinin vesileleridir. Gazzâlî: Pamuk ateşle değil, Allah'ın fiiliyle yanar."
   - q:
       en: What do most Muslims and Muslim institutions actually believe?
+      tr: Müslümanların ve Müslüman kurumların çoğu gerçekte neye inanıyor?
     a:
       en: Opinion varies a great deal by country (Pew, 2013). The one scholarly answer read (SeekersGuidance) holds that Adam was created directly, while leaving the evolution of other species open; Diyanet, al-Azhar and fatwa councils have not yet been checked.
+      tr: Görüş ülkeye göre büyük farklılıklar gösteriyor (Pew, 2013). Okunan tek ilmî cevap (SeekersGuidance), diğer türlerin evrimini açık bırakırken Âdem'in doğrudan yaratıldığını kabul ediyor; Diyanet, Ezher ve fetva kurulları henüz kontrol edilmedi.
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
   - *a5
+translatedFrom: docs/research/tr/Q5.md

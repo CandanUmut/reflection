@@ -17,11 +17,17 @@ title:
   tr: Yarılan tane ve çekirdek
   en: The seed and the date stone split open
 summary:
-  tr: Ölü gibi duran bir çekirdek suyla buluşunca uyanır. Yaklaşık iki bin yıl bekleyen bir hurma çekirdeği bile.
+  tr: "\"Şüphesiz ki taneleri ve çekirdekleri yaran Allah'tır.\" (6:95): Âyet bize sert, kuru bir tohumun yarıldığı ve içinden canlı bir şeyin çıktığı ana bakmamızı ister."
   en: '"Indeed, Allah is the cleaver of grain and date seeds" (6:95): the verse asks us to look at the moment a hard, dry seed splits open and something alive comes out of it.'
 tafsir:
-  tr: |
-    Râzî ve Kurtubî, ölü gibi görünen şeyden canlının çıkışını vurgular. İbn Kesîr ise insanın muhtaçlığını öne çıkarır.
+  tr: |-
+    **İbn Kesîr (14. yüzyıl Şamlı âlim).** Allah "tohum tanesini ve meyve çekirdeğini toprakta yarar ve filizlendirir" ve pek çok türde tahıl ve meyve çıkarır. Sonraki ifadeyi bitkinin kendisiyle açıklar: "Cansız ve hareketsiz bir nesne olan tohum tanesinden ve meyve çekirdeğinden canlı bitkiyi çıkarır." Sonra, kimin savunduğunu belirtmeden, iki başka okuma aktarır: "Tavuktan yumurtayı çıkarır ve bunun tersini" ve "Başkaları bunun, salih anne babadan kötü çocuk çıkarması ve bunun tersi anlamına geldiğini söyledi."
+
+    ***Celâleyn* (Celâleddin el-Mahallî ve Celâleddin es-Suyûtî'nin kısa klasik tefsiri).** "Taneyi bitkilerden, hurma çekirdeğini hurma ağaçlarından yaran Allah'tır." Diri ve ölü hakkında: "Diriyi ölüden çıkarır; insanı nutfeden ve kuşu yumurtadan çıkarması gibi" ve tersini, "nutfeyi ve yumurtayı diriden".
+
+    **Nerede ayrılıyorlar?** İbn Kesîr "ölüden diriyi" ifadesini her şeyden önce tohumdan çıkan bitki olarak okur, çünkü ondan önceki cümle tohumlar hakkındadır. *Celâleyn*'in örnekleri hayvan ve insandır: yumurtadan kuş, nutfeden insan. İbn Kesîr'in aktardığı üçüncü bir okuma ahlakidir: kötü bir anne babadan salih bir çocuk. Hiçbiri tohumu biyolojik anlamda kelimenin tam anlamıyla ölü saymaz; onlar için "ölü", hiçbir hayat belirtisi göstermeyen demektir.
+
+    **Ne söylemediler?** Burada okunan tefsirlerin hiçbiri bir tohumun nasıl çimlendiğini anlatmaz. Noktaları âyetin kendisinin yaptığı argümandır: "İşte Allah budur. O halde nasıl yüz çevirirsiniz?" (6:95).
   en: |-
     **Ibn Kathir (the 14th-century Damascene scholar).** God "causes the seed grain and the fruit stone to split and sprout in the ground", producing many kinds of grain and fruit. He explains the next phrase by the plant itself: "He brings the living plant from the seed grain and the fruit stone, which is a lifless and inanimate object" (his translator's spelling). He then reports two other readings, without naming who held them: "He brings the egg from the chicken, and the opposite", and "Others said that it means, He brings the wicked offspring from the righteous parent and the opposite."
 
@@ -31,14 +37,12 @@ tafsir:
 
     **What they did not say.** Neither commentary read here describes how a seed germinates. Their point is the argument the verse itself makes: "That is Allah; so how are you deluded?" (6:95).
 howItWorks:
-  tr: |
-    [Established]
-
-    - **Uyku hâli.** Absisik asit (ABA) adlı bitki hormonu tohumu uykuda tutar.
-    - **Uyanış.** Tohum su alınca gibberellin (GA) sinyali başlar. Buğday gibi bir tahıl tanesinde amilaz enzimleri depolanmış nişastayı şekere çevirir.
-    - **Kök.** Önce kökçük (embriyonik kök) çıkar ve yer çekimine göre aşağı doğru büyür (gravitropizma).
-    - **Hurma çekirdeği farklıdır.** Başlıca depo karbonhidratı mannandır (galaktomannan); endosperm hücrelerinin çok sert duvarlarına örülmüştür. Çekirdeği bu kadar sert yapan da odur. Endo-β-mannanaz enzimi ancak kök çıktıktan sonra artar ve bu duvarları parçalamaya başlar (Gong ve ark., 2005).
-    - **Filiz.** Ardından sürgün yukarı yükselir.
+  tr: |-
+    - **Tohum ölü değil, uykudadır.** [Established] Kuru bir tohum cansız görünür ama canlıdır: Sonraki maddelerin gösterdiği gibi, yıllarca bekleyebilir ve su ona ulaştığında yine de büyüyebilir.
+    - **Yarılma suyla başlar.** [Established] UF/IFAS üç evre tarif eder. "Erken tohum çimlenmesi suyun emilmesiyle (imbibisyon) başlar": Kuru tohum suyu emer ve şişer. Sonra "az su alınan, gecikme evresi denen bir dönem" gelir. Son olarak "su alımı radikulanın çıkışını sağlar": Embriyonik kök tohum kabuğunu delip çıkar.
+    - **Sert hurma çekirdeği.** [Established] (2005): Hurmanın depoladığı besin, çok kalın hücre duvarlarına yerleştirilmiş bir karbonhidrattır (galaktomannan); çekirdeğin bu kadar sert olmasının sebebi budur; esas olarak kök çıktıktan sonra parçalanır. (Bu çalışmaya henüz yeniden başvurulmadı.)
+    - **Bir tohum ne kadar bekleyebilir?** [Established, tek tohum için; Orta, genel nokta için] 1960'larda Masada'da kazılarda çıkarılan, sonra yaklaşık kırk yıl oda sıcaklığında saklanan bir hurma çekirdeği, 2005'te Sarah Sallon (Hadassah Tıp Kuruluşu) liderliğindeki bir ekip tarafından ekildi ve Elaine Solowey tarafından bakıldı. Kendi kabuğunun parçaları radyokarbon yöntemiyle yaklaşık 2.000 yıllık olarak tarihlendi, "artı eksi yaklaşık 50 yıl" (National Geographic, Sallon ve ark., *Science*, 2008'i aktararak). Sallon onun hayatta kalmasını, Masada'nın sıcak ve kuru ikliminin "tohum yaşlanmasında başlıca güç" olan serbest radikallerin verdiği zararı sınırlamasına bağladı.
+    - **Tek bir istisna değil.** [Orta] 2020'de ekip, aralarında Kumran'ın da bulunduğu üç Yahudiye çölü bölgesinden, yaklaşık 1.800 ila 2.400 yıllık, Methuselah, Adam, Jonah, Uriel, Boaz, Judith ve Hannah adı verilen "başarıyla filizlenmiş yedi antik tohum" bildirdi (Phys.org, Sallon ve ark., *Science Advances*, 2020'yi aktararak). Makalenin kendisi açılmadı.
   en: |-
     - **A seed is dormant, not dead.** [Established] A dry seed looks lifeless but is alive: as the next points show, it can wait for years and still grow when water reaches it.
     - **Splitting begins with water.** [Established] UF/IFAS describes three phases. "Early seed germination begins with imbibition of water": the dry seed soaks up water and swells. Then comes "a period where there is little water uptake called the lag phase". Finally "water uptake drives the emergence of the radicle": the embryonic root breaks through the seed coat.
@@ -46,18 +50,23 @@ howItWorks:
     - **How long a seed can wait.** [Established for the one seed; Moderate for the general point] A date seed excavated at Masada in the 1960s, then stored at room temperature for about four decades, was planted in 2005 by a team led by Sarah Sallon (Hadassah Medical Organisation), and cared for by Elaine Solowey. Fragments of its own shell were radiocarbon-dated to about 2,000 years old, "give or take about 50 years" (National Geographic, reporting Sallon et al., *Science*, 2008). Sallon put its survival down to Masada's hot, dry climate, which limited damage from free radicals, "a major force in seed ageing".
     - **Not a single freak.** [Moderate] In 2020 the team reported "seven successfully sprouted ancient seeds" from three Judean desert sites, including Qumran, roughly 1,800 to 2,400 years old, named Methuselah, Adam, Jonah, Uriel, Boaz, Judith and Hannah (Phys.org, reporting Sallon et al., *Science Advances*, 2020). The paper itself was not opened.
 awe:
-  tr: |
-    - Masada'da bulunan bir hurma çekirdeği 2005'te filizlendi (Sallon, Solowey ve ark., *Science* 320:1464, 2008). Zürih Üniversitesi çekirdeği **1.990 ± 50 yıl** öncesine tarihlendirdi; 2020'deki devam makalesi ondan 1.900 yıllık bir tohum diye söz eder. Fidana "Methuselah" adı verildi.
-    - 2020'de altı antik çekirdek daha filizlendirildi (*Science Advances*).
-    - Lut Gölü (Ölü Deniz) çevresinin kuruluğu, serbest radikallerin verdiği hasarı sınırladı.
-    - İkincil kaynaklara göre "Hannah" adlı dişi bir hurma ağacı daha sonra meyve verdi.
+  tr: |-
+    - Bir tohum en az iki bin yıl bekleyebilir ve su ona ulaştığında yine de yarılabilir (Sallon ve ark. 2008, National Geographic yoluyla).
+    - İlk görünür hayat belirtisi filiz değil, köktür: "su alımı radikulanın çıkışını sağlar" (UF/IFAS).
+    - Antik Yahudiye tohumlarından şimdiye kadar yedi hurma ağacı yetişti (Phys.org, 2020).
   en: |-
     - A seed can wait at least two thousand years and still split when water reaches it (Sallon et al. 2008, via National Geographic).
     - The first visible sign of life is the root, not the shoot: "water uptake drives the emergence of the radicle" (UF/IFAS).
     - Seven palms have now grown from ancient Judean seeds (Phys.org, 2020).
 reflection:
-  tr: |
-    İki bin yıl bekleyen ve yine de suya cevap veren bir çekirdek, 6:95'in resmidir. Kur'an'ın diriliş benzetmesini de hatırlatır: ölü toprağı yağmurla dirilten, ölüleri de diriltir (41:39).
+  tr: |-
+    Çoğumuz bir tohumun yarıldığını hiç izlemedik. Toprağın altında, gözden uzakta, her tarlada ve bahçede olur. Âyet bizi o anda durdurur: "Şüphesiz ki taneleri ve çekirdekleri yaran Allah'tır." (6:95). İki tohum seçer, küçük taneyi ve sert hurma çekirdeğini, sanki şunu söylemek ister gibi: Yumuşak ya da sert, kendini açan tohum değildir.
+
+    Sonra bakışı genişletir: "O, ölüden diriyi çıkarır." Müfessirler bu satırda pek çok şey duydu: tohumdan bitki, yumurtadan kuş, salih bir anne babadan kötü bir çocuk ve bunun tersi. Hepsi, hayatın beklemediğimiz yerde ortaya çıkmasıyla ilgilidir.
+
+    Vâkıa Sûresi çiftçiye doğrudan sorar: "Onu siz mi bitiriyorsunuz, yoksa bitiren biz miyiz?" (56:64). Çiftçinin emeği gerçektir; hikâyenin tamamı değildir. Kur'an başka bir yerde sonucu bizim için çıkarır: Ölü toprağa hayat veren, "mutlaka ölüleri de diriltir" (41:39).
+
+    İki bin yıl bekleyip sonra suya cevap veren bir tohum, bu umudun küçük ve gerçek bir resmidir. Âyetin bizimle bıraktığı soru kendi sorusudur: "O halde nasıl yüz çevirirsiniz?"
   en: |-
     Most of us have never watched a seed split. It happens underground, out of sight, in every field and garden. The verse stops us at that moment: "Indeed, Allah is the cleaver of grain and date seeds" (6:95). It chooses two seeds, the small grain and the hard date stone, as if to say: soft or hard, it is not the seed that opens itself.
 
@@ -70,9 +79,13 @@ reflectionVerses:
   - 41:39
 honestNotes:
   - en: "**No prediction is claimed.** The verse describes something every farmer could see. It makes no claim about dormancy, hormones or seed longevity, and the commentators did not read it that way."
+    tr: "**Hiçbir kehanet iddia edilmiyor.** Âyet her çiftçinin görebileceği bir şeyi anlatır. Uyku hâli, hormonlar ya da tohumun ömrü hakkında hiçbir iddiada bulunmaz ve müfessirler onu böyle okumadı."
   - en: '**"Dead" is not a biological term here.** A dormant seed is alive. The verse speaks of how things look to us, and the commentators read "dead" in that sense, or morally.'
+    tr: '**"Ölü" burada biyolojik bir terim değildir.** Uykudaki bir tohum canlıdır. Âyet şeylerin bize nasıl göründüğünden söz eder ve müfessirler "ölü"yü bu anlamda ya da ahlaki anlamda okudu.'
   - en: "**Dates are approximate.** The Masada seed is about 2,000 years old, ± about 50 years. The 2020 seeds span roughly 1,800 to 2,400 years."
+    tr: "**Tarihler yaklaşıktır.** Masada tohumu yaklaşık 2.000 yıllıktır, artı eksi yaklaşık 50 yıl. 2020 tohumları yaklaşık 1.800 ila 2.400 yıl arasına yayılır."
   - en: '**Popular claim.** No widespread "scientific miracle" claim about 6:95 was found; the page does not need one.'
+    tr: '**Popüler iddia.** 6:95 hakkında yaygın bir "bilimsel mucize" iddiası bulunamadı; sayfanın da böyle bir iddiaya ihtiyacı yok.'
 visualizations:
   - id: germination
     tr: Filizlenme zaman atlaması — ABA/GA "anahtarı" ile
@@ -128,20 +141,28 @@ sources:
 followUps:
   - q:
       en: Did classical scholars know how germination works?
+      tr: Klasik âlimler çimlenmenin nasıl işlediğini biliyor muydu?
     a:
       en: Not in the modern sense. Ibn Kathir and al-Jalālayn read the verse as a sign of God's power to bring life from what looks lifeless. The biology on this page is modern and kept in its own layer.
+      tr: Modern anlamda hayır. İbn Kesîr ve *Celâleyn* âyeti, Allah'ın cansız görünenden hayat çıkarma kudretinin bir işareti olarak okudu. Bu sayfadaki biyoloji moderndir ve kendi katmanında tutulmuştur.
   - q:
       en: Why a date stone?
+      tr: Neden hurma çekirdeği?
     a:
       en: The verse names both grain and *nawā*, the date stone. The date stone is famously hard; a 2,000-year-old one has germinated (see "How it works").
+      tr: Âyet hem taneyi hem *nevâ*yı, hurma çekirdeğini anar. Hurma çekirdeği sertliğiyle bilinir; 2.000 yıllık bir tanesi çimlendi (bkz. "Nasıl işler?").
   - q:
       en: What does "He brings the living out of the dead" mean?
+      tr: '"Ölüden diriyi çıkarır" ne demek?'
     a:
       en: Ibn Kathir reads it first as the plant from the seed; al-Jalālayn as the human from the sperm and the bird from the egg; a reading reported by Ibn Kathir applies it to a righteous child born to a wicked parent.
+      tr: İbn Kesîr onu önce tohumdan bitki olarak okur; *Celâleyn* nutfeden insan ve yumurtadan kuş olarak; İbn Kesîr'in aktardığı bir okuma onu kötü bir anne babadan doğan salih bir çocuğa uygular.
   - q:
       en: Is this verse about resurrection?
+      tr: Bu âyet dirilişle mi ilgili?
     a:
       en: 'Not directly, but the Quran links new life in the earth to resurrection elsewhere: "He who has given it life is the Giver of Life to the dead" (41:39).'
+      tr: "Doğrudan değil, ama Kur'an başka bir yerde topraktaki yeni hayatı dirilişe bağlar: \"Şüphesiz ki ona hayat veren Allah mutlaka ölüleri de diriltir.\" (41:39)."
 legacySources:
   - *a1
   - *a2
@@ -149,6 +170,13 @@ legacySources:
   - *a4
   - *a5
 verseNotes:
+  tr: |-
+    "Şüphesiz ki taneleri ve çekirdekleri yaran Allah'tır. O, ölüden diriyi çıkarır, diriden de ölüyü çıkaran O'dur. İşte Allah budur. O halde nasıl yüz çevirirsiniz?" (6:95).
+
+    - **Anahtar kelimeler.** *Fâlik* ("yaran") *felaka*, yarmak fiilinden gelir. *El-habb* tanedir; *en-nevâ* hurma çekirdeğidir. Âyet iki tohumu adlandırır: küçük, yumuşak tane ve sertliğiyle bilinen hurma çekirdeği.
+    - **Bağlam.** En'âm Sûresi Mekkîdir. Sonraki âyetler (6:96–99) doğadan aynı argümanı sürdürür: tan yeri, güneş ve ay, yıldızlar, yağmur ve meyve. Pasaj başka ilahlara tapan insanlara hitap eder: Bunları gerçekte kim gerçekleştiriyor, diye sorar.
+    - **İkinci pasaj.** "Ektiğinizi gördünüz mü? Onu siz mi bitiriyorsunuz, yoksa bitiren biz miyiz?" (56:63–64), Mekkî, Vâkıa Sûresi'nde yiyecek, su ve ateş hakkındaki bir dizi sorudan. Çiftçi eker; âyet tohumu kimin bitirdiğini sorar.
+    - **İlgili bir âyet.** Kur'an ölü toprağın dirilmesini dirilişin bir benzetmesi olarak kullanır: "Şüphesiz ki ona hayat veren Allah mutlaka ölüleri de diriltir." (41:39).
   en: |-
     "Indeed, Allah is the cleaver of grain and date seeds. He brings the living out of the dead and brings the dead out of the living. That is Allah; so how are you deluded?" (6:95).
 
@@ -159,3 +187,4 @@ verseNotes:
 legacyHonestNotes:
   - tr: Âyet tohumun uyku hâli hakkında bir "öngörüde" bulunmaz. Çekirdeğin yaşı da yaklaşık bir tarihlendirmedir.
     en: The verse makes no "prediction" about seed dormancy. The seed's age is also an approximate dating.
+translatedFrom: docs/research/tr/S1.md

@@ -15,16 +15,13 @@ verses:
   - 36:78-79
   - 38:28
 steelman:
-  tr: |
-    Zihin beyne bağlıdır ve ölüme yakın deneyimler (ÖYD) ölmekte olan bir beyin tarafından üretiliyor olabilir.
+  tr: "\"Zihin hakkında bildiğimiz her şey onun beyne bağlı olduğunu söylüyor. Beyne zarar verin, hafıza gider, kişilik değişir, anestezi altında bilinç kapanır. Beyin öldüğünde geriye ne kalabilir? Ölüme yakın deneyimler, oksijensiz kalan, ölmekte olan bir beynin üreteceği şeylere benziyor. Ve ahlaki argüman — 'adalet başka bir hayatı gerektirir' — bir delil değil, bir dilektir: Evren adil olmak zorunda değil.\""
   en: "\"Everything we know about the mind says it depends on the brain. Damage the brain and memory goes, personality changes, consciousness switches off under anaesthesia. When the brain dies, what could be left? Near-death experiences look like what a starved, dying brain would produce. And the moral argument — 'justice requires another life' — is a wish, not evidence: the universe is not obliged to be fair.\""
 whyAsked:
-  tr: |
-    Yas ve adaletsizlik.
+  tr: "Genellikle sevdikleri biri öldüğü için. Bazen haksızlık yüzünden: Zalimler refah içinde yaşıyor, masumlar acı çekiyor ve bu hayattaki hiçbir şey bunu düzeltmiyor. Bazen de fen dersleri ruhu eski bir batıl inanç gibi gösterdiği için."
   en: "Usually because someone they love has died. Sometimes because of injustice: the cruel prosper, the innocent suffer, and nothing in this life sets it right. Sometimes because science classes make the soul sound like an old superstition."
 shortAnswer:
-  tr: |
-    Kur'an ilk yaratılıştan ve adaletten delil getirir. ÖYD araştırmaları ilgi çekicidir ama kanıt değildir.
+  tr: Bir şüpheciyi tatmin edecek bir ahiret ispatı yoktur ve bu sayfa böyle bir iddiada bulunmuyor. Farklı türlerden gerekçeler vardır. Kur'an, sizi ilk defa yaratanın sizi yeniden yaratabileceğini (36:78–79) ve salih olanlarla bozguncuların aynı şekilde son bulduğu bir dünyanın anlamsız olacağını (38:28) savunur. Filozoflar, beyin faaliyetine neden bir tecrübenin eşlik ettiğini hiç kimsenin açıklayamadığını — "zor problem" — not eder; dolayısıyla zihnin beyne bağlı olması, gerçek olsa da, zihnin beyinden başka bir şey *olmadığını* göstermez. Kant ahlakın kendisinin bu hayatın ötesine işaret ettiğini savundu. Ölüme yakın deneyimler üzerine araştırmalar ilgi çekicidir — AWARE II'de görüşülen 28 hayatta kalandan 6'sı (%21) "ölüme dair aşkın bir hatırlanan tecrübe" bildirdi ve bilinçle tutarlı normal EEG faaliyeti canlandırmanın 35–60. dakikasına kadar görüldü — ama henüz hiç kimse gizlenmiş bir görsel hedefi tanımlayamadı ve ölmekte olan beyin açıklaması açık kalıyor. İslam ölümden sonra *berzah*ın (bir ara hâl), sonra bedenen dirilişin, hesabın ve kavuşmanın geldiğini öğretir.
   en: There is no proof of an afterlife that would satisfy a sceptic, and this page does not claim one. There are reasons, of different kinds. The Quran argues that the One who created you the first time can create you again (36:78–79), and that a world in which the righteous and the corrupt end the same would be pointless (38:28). Philosophers note that no one has explained why brain activity is accompanied by experience at all — the "hard problem" — so the dependence of mind on brain, though real, does not show that the mind *is* nothing but the brain. Kant argued that morality itself points beyond this life. Near-death research is intriguing — in AWARE II, 6 of 28 interviewed survivors (21%) reported a "transcendent recalled experience of death", and normal EEG activity consistent with consciousness appeared as late as 35–60 minutes into resuscitation — but no one has yet identified a hidden visual target, and a dying-brain explanation remains open. Islam teaches that after death comes the *barzakh* (an intermediate state), then bodily resurrection, judgement, and reunion.
 layers:
   - kind: religious
@@ -51,8 +48,7 @@ layers:
       Karmaşık yas bir klinisyen gerektirir.
     en: Complicated grief needs a clinician.
 honestLimits:
-  tr: |
-    ÖYD'ler kanıt değildir. Hiçbir hasta gizli bir görsel hedefi tanımlayamadı.
+  tr: Bu argümanların hiçbiri bir ispat değildir ve sayfa onları ispat gibi sunmamalıdır. Mutahharî'ye, Gazzâlî'nin *Tehâfüt*'ünün kendisine (20. mesele) ve Kur'an'ın cennette kavuşmaya dair âyetlerine henüz başvurulmadı. AWARE çalışmaları ve 2023 tarihli ölmekte olan beyin çalışması tam makalelerden değil, özetler ve bir basın bülteni aracılığıyla okundu.
   en: None of these arguments is a proof, and the page should not present them as one. Mutahhari, al-Ghazali's *Tahāfut* itself (20th discussion), and the Quran's verses on reunion in Paradise have not yet been consulted. The AWARE studies and the 2023 dying-brain study were read through abstracts and a news release, not the full papers.
 visualizations:
   - id: ideas
@@ -107,6 +103,15 @@ fullAnswer:
       **What helps.** Grief comes in waves, and there is no correct timetable. Talk about the person; pray for them; let others carry some of the weight. If, months later, grief still stops you from living, or you feel you cannot go on, please talk to a doctor or counsellor. That is care, not a lack of trust in God.
 
       > **Where to find help.** Find A Helpline (findahelpline.com) lists "free, anonymous and confidential" support lines in many countries, including for grief and loss. If you are in danger, contact your local emergency number.
+    tr: |-
+      **Kederin sevginin ölçüsüdür ve imanının zayıf olduğu anlamına gelmez.** "Sonrasında bir şey var mı?" sorusu çoğu zaman soyut değildir; tek bir kişi hakkındadır. Kur'an'ın cevabı yalnızca bir argüman değildir. Kaybettiğin kişinin Allah için kaybolmadığına ve son sözün adalete ve rahmete ait olduğuna dair bir vaattir.
+
+      **Ne yardımcı olur?** Keder dalgalar hâlinde gelir ve doğru bir takvimi yoktur. O kişi hakkında konuş; onun için dua et; yükün bir kısmını başkalarının taşımasına izin ver. Aylar sonra keder hâlâ yaşamanı engelliyorsa ya da devam edemeyeceğini hissediyorsan, lütfen bir doktorla ya da danışmanla konuş. Bu Allah'a güvensizlik değil, kendine özen göstermektir.
+
+      > **Yardım nerede bulunur?** Find A Helpline (findahelpline.com), keder ve kayıp için olanlar dahil, pek çok ülkede "ücretsiz, anonim ve gizli" destek hatlarını listeler. Tehlikedeysen bulunduğun yerdeki acil yardım numarasını ara.
+    title:
+      en: Yas tutan kişi için
+      tr: Yas tutan kişi için
   - kind: quran
     en: |-
       **1. From the first creation (36:78–79).** "And he presents for Us an example and forgets his [own] creation. He says, 'Who will give life to bones while they are disintegrated?' Say, 'He will give them life who produced them the first time; and He is, of all creation, Knowing'" (36:78–79), Meccan. *Occasion:* Mujahid, ʿIkrima and others say "Ubayy bin Khalaf… came to the Messenger of Allah… with a dry bone in his hand"; Ibn ʿAbbas names "Al-'As bin Wa'il", who "took a bone from the bed of a valley and crumbled it in his hand"; Ibn Kathir concludes that the verses "apply to all those who deny the resurrection after death". *The argument spelled out:* you exist now, made from what was not you; making something the first time is not easier than remaking it. Ibn Kathir: "Man forgets about himself, that Allah created him from nothing and brought him into existence."
@@ -116,6 +121,17 @@ fullAnswer:
       **3. From precision (75:3–4).** "Does man think that We will not assemble his bones? Yes. [We are] Able [even] to proportion his fingertips" (75:3–4), Meccan.
 
       **4. From justice and purpose (38:28).** "Or should we treat those who believe and do righteous deeds like corrupters in the land? Or should We treat those who fear Allah like the wicked?" (38:28), Meccan, after 38:27, which Ibn Kathir's translator renders: "And We created not the heaven and the earth and all that is between them without purpose!" (not Saheeh; 38:27 was not available in verified data). Ibn Kathir: "There must inevitably be another realm in which those who obey Allah will be rewarded and the wicked will be punished", since in this world the wicked often prosper. Al-Jalālayn says the verse answered Meccan disbelievers who claimed they would fare as well as the believers in the Hereafter.
+    tr: |-
+      **1. İlk yaratılıştan (36:78–79).** "Yaratılışını unutarak bize bir de mesel fırlattı: "Kim diriltecekmiş o çürümüş kemikleri?" dedi. De ki: "Onları ilk defa yaratan diriltecek ve o her yaratmayı bilir."" (36:78–79), Mekkî. *İniş sebebi:* Mücâhid, İkrime ve diğerleri, "Übey b. Halef'in… elinde kuru bir kemikle Allah'ın Resulü'ne… geldiğini" söyler; İbn Abbâs ise "Âs b. Vâil"in adını verir; o "bir vadinin yatağından bir kemik aldı ve onu elinde ufaladı"; İbn Kesîr, âyetlerin "ölümden sonra dirilişi inkâr eden herkese uygulandığı" sonucuna varır. *Argümanın açılımı:* Şimdi varsın, sen olmayan şeylerden yapılmış olarak; bir şeyi ilk defa yapmak, onu yeniden yapmaktan daha kolay değildir. İbn Kesîr: "İnsan kendisini, Allah'ın onu yoktan yarattığını ve var ettiğini unutur."
+
+      **2. Yeşil ağaçtaki ateşten (36:80).** "Size o yeşil ağaçtan bir ateş yapan O'dur. Şimdi siz ondan tutuşturmaktasınız." (36:80). İbn Kesîr'in aktardığı Katâde: "Bu ateşi bu ağaçtan çıkaran, onu diriltmeye kâdirdir." Nokta şu: Allah zıtları birbirinden çıkarır — nemli odundan ateş, kuru kemiklerden hayat.
+
+      **3. İncelikten (75:3–4).** "İnsan, kendisinin kemiklerini bir araya toplayamayacağımızı mı sanıyor? Evet, bizim onun parmak uçlarını bile aynen eski haline getirmeye gücümüz yeter." (75:3–4), Mekkî.
+
+      **4. Adaletten ve amaçtan (38:28).** "Yoksa, iman edip de salih amel işleyenleri biz, o yeryüzündeki bozguncular gibi yapar mıyız? Yoksa o takva sahiplerini azgın günahkarlar gibi yapar mıyız?" (38:28), Mekkî; şu âyetten sonra: "Hem o göğü, yeri ve aralarındakileri biz boşuna yaratmadık." (38:27). İbn Kesîr: "Allah'a itaat edenlerin ödüllendirileceği ve kötülerin cezalandırılacağı başka bir âlemin mutlaka olması gerekir", çünkü bu dünyada kötüler çoğu zaman refah içindedir. *Celâleyn*, âyetin, ahirette müminler kadar iyi durumda olacaklarını iddia eden Mekkeli kâfirlere cevap verdiğini söyler.
+    title:
+      en: Kur'an'ın diriliş lehindeki argümanları
+      tr: Kur'an'ın diriliş lehindeki argümanları
   - kind: sunnah
     en: |-
       **The barzakh.** When a dying person asks to be sent back, the answer is: "No! It is only a word he is saying; and behind them is a barrier until the Day they are resurrected" (23:100). *Barzakh* ("barrier") is the name for the state between death and resurrection.
@@ -125,6 +141,17 @@ fullAnswer:
       **Resurrection, judgement, reunion.** The Quran and Sunna teach a bodily resurrection on the Last Day, a judgement in which each person sees their deeds, and then Paradise or Hell.
 
       **The soul.** "And they ask you, [O Muhammad], about the soul. Say, 'The soul is of the affair of my Lord. And mankind have not been given of knowledge except a little'" (17:85). And: "Allah takes the souls at the time of their death, and those that do not die [He takes] during their sleep" (39:42). The Quran treats the soul as real and as God's to take and return, while saying little about its nature.
+    tr: |-
+      **Berzah.** Ölmek üzere olan biri geri gönderilmeyi istediğinde cevap şudur: "Hayır! Onun söylediği bu söz (boş) laftan ibarettir. Onların gerisinde ise, yeniden dirilecekleri güne kadar (süren) bir berzah vardır" (23:100). *Berzah* ("perde, engel"), ölüm ile diriliş arasındaki hâlin adıdır.
+
+      **Kabir.** Enes (r.a.), Hz. Peygamber'in (s.a.v.) şöyle buyurduğunu aktarır: "Bir insan kabrine konduğunda ve arkadaşları dönüp o onların ayak seslerini bile duyduğunda", "iki melek ona gelir, onu oturtur ve sorarlar": "Bu adam, Muhammed hakkında ne derdin?" Mümin, "Onun Allah'ın kulu ve Resulü olduğuna şahitlik ederim" diye cevap verir ve ona şöyle denir: "Cehennemdeki yerine bak. Allah sana onun yerine cennette bir yer verdi." "Bilmiyorum, ama insanların dediğini derdim!" diyenin durumu ise farklıdır ({hadith:bukhari:1338}).
+
+      **Diriliş, hesap, kavuşma.** Kur'an ve Sünnet, Son Gün'de bedenen dirilişi, herkesin amellerini gördüğü bir hesabı ve ardından cenneti ya da cehennemi öğretir.
+
+      **Ruh.** "Ey Muhammed! Sana ruhtan soruyorlar. De ki: "Ruh Rabbimin bildiği bir iştir ve size ilimden ancak az bir şey verilmiştir."" (17:85). Ve: "Allah, o canları öldükleri zaman, ölmeyenleri de uyuduklarında alır." (39:42). Kur'an ruhu gerçek ve almak ve geri vermek Allah'a ait olan bir şey olarak ele alır, ama mahiyeti hakkında az şey söyler.
+    title:
+      en: İslam öğretisinde ölümden sonra ne olur?
+      tr: İslam öğretisinde ölümden sonra ne olur?
   - kind: scholars
     en: |-
       **Al-Ghazali: bodily resurrection.** In *The Incoherence of the Philosophers*, al-Ghazali counted as unbelief the philosophers' thesis that "Bodily resurrection will not take place in the hereafter" (*Wikipedia*). His target was above all Ibn Sina. In the *Tahāfut*, to refute the philosophers on their own premises, he argued that even if the soul survives, God could return it to a body, "ister bu beden insan bedeninin aynısı isterse de gayrısı olsun" — whether the same human body or another. But in *al-Iqtiṣād fī al-iʿtiqād* he says that this concession "bizim inancımıza uygun değildir" — "is not in accordance with our belief" — because that book was written to refute, not to prove (Yılmaz's Turkish rendering). Yılmaz judges that al-Ghazali stayed deliberately ambiguous about the soul's nature. For him, bodily resurrection is a matter "vahiyle vurgulanmış ve gerçekleşmesi imkânsız olmayan" — stressed by revelation and not impossible (Yılmaz). His point against the philosophers was that they had not *proved* it impossible.
@@ -132,6 +159,15 @@ fullAnswer:
       **Nursi: twelve "gates".** In the Tenth Word (*The Resurrection and the Hereafter*), Said Nursi argues from God's names. The "SECOND TRUTH: The gate of Munificence and Mercy" rests on an observation, which the "THIRD TRUTH: The gate of Wisdom and Justice" develops: "This world's oppressors die with their oppressive power intact, while the oppressed die still subjected to humiliation." A just and merciful God would not leave it there. In the "Ninth Truth", spring is a daily sample of resurrection: "Each spring we see countless animal and plant species assembled in a few days and then scattered" ("Twelve Truths"). The Tenth Word opens with the verse "Look, then, to the signs of God's mercy - how He restores life to the earth after its death" (tr. Algar).
 
       **Mutahhari.** His work has not yet been consulted.
+    tr: |-
+      **Gazzâlî: bedenen diriliş.** Gazzâlî *Tehâfütü'l-Felâsife*'de, filozofların "ahirette bedenen diriliş olmayacak" tezini küfür saydı (*Wikipedia*). Hedefi en başta İbn Sînâ'ydı. *Tehâfüt*'te, filozofları kendi öncülleriyle çürütmek için, ruh varlığını sürdürse bile Allah'ın onu bir bedene geri verebileceğini savundu, "ister bu beden insan bedeninin aynısı isterse de gayrısı olsun". Ama *el-İktisâd fi'l-İ'tikâd*'da bu tavizin "bizim inancımıza uygun değildir" dediğini söyler, çünkü o kitap ispat etmek için değil, çürütmek için yazılmıştı (Yılmaz'ın Türkçe aktarımı). Yılmaz, Gazzâlî'nin ruhun mahiyeti konusunda bilerek belirsiz kaldığı kanaatindedir. Onun için bedenen diriliş, "vahiyle vurgulanmış ve gerçekleşmesi imkânsız olmayan" bir meseledir (Yılmaz). Filozoflara karşı noktası, onların bunun imkânsız olduğunu *ispat etmemiş* olmalarıydı.
+
+      **Nursî: on iki "kapı".** Onuncu Söz'de (*Haşir Risalesi*), Said Nursî Allah'ın isimlerinden yola çıkarak argüman getirir. "İKİNCİ HAKİKAT: Kerem ve Rahmet kapısı" bir gözleme dayanır ve "ÜÇÜNCÜ HAKİKAT: Hikmet ve Adalet kapısı" onu geliştirir: "Bu dünyanın zalimleri zulüm güçleri yerinde iken ölürler, mazlumlar ise hâlâ zillete maruz kalmışken ölürler." Adil ve merhametli bir Allah meseleyi orada bırakmaz. "Dokuzuncu Hakikat"te bahar, dirilişin her gün görülen bir örneğidir: "Her baharda sayısız hayvan ve bitki türünün birkaç gün içinde toplanıp sonra dağıldığını görürüz" ("On İki Hakikat"). Onuncu Söz şu âyetle açılır: "Şimdi bak Allah'ın rahmetinin eserlerine! yeryüzünü ölümünden sonra nasıl diriltiyor?" (30:50; Algar'ın çevirisinden).
+
+      **Mutahharî.** Eserine henüz başvurulmadı.
+    title:
+      en: Müslüman âlimler neyi savundu?
+      tr: Müslüman âlimler neyi savundu?
   - kind: reasoning
     en: |-
       **What the objection gets right.** The mind depends on the brain in this life: injuries, drugs and illness change memory, mood and personality. Any honest answer must accept this.
@@ -145,6 +181,21 @@ fullAnswer:
       **Kant's moral argument, in a few sentences.** Kant held that morality commands us to pursue the "highest good": a world in which happiness is "in conformity with the purest morality", proportioned to "the worthiness of a subject". We cannot see how that is possible in nature alone, so practical reason "postulates" God, who can bring virtue and happiness together, and a future life in which this is realised. Kant insisted this is not a theoretical proof: "I must not even say 'It is morally certain that there is a God', but rather 'I am morally certain'" (SEP). *Limit:* critics answer that the demand for cosmic justice may simply go unmet.
 
       **Is there any reason beyond "justice seems to require it"?** Yes, three, of different strengths: the argument from the first creation (if you exist once, you can exist again), the unsolved hard problem (which leaves room for more than the brain), and — for believers — trust in the One who promised it. None is a proof; together they make the hope reasonable rather than wishful.
+    tr: |-
+      **İtirazın haklı olduğu nokta.** Zihin bu hayatta beyne bağlıdır: Yaralanmalar, ilaçlar ve hastalıklar hafızayı, ruh hâlini ve kişiliği değiştirir. Her dürüst cevap bunu kabul etmelidir.
+
+      **Neyi göstermez?** Bağımlılık özdeşlik değildir. "Zor problem", "herhangi bir fiziksel durumun neden bilinçsiz değil de bilinçli olduğunu açıklama problemidir": Beynin ne yaptığına dair eksiksiz bir açıklamadan sonra bile, Chalmers ile birlikte sorulabilir: "Bu işlevlerin yerine getirilmesine neden bir tecrübe eşlik ediyor?" Joseph Levine, "bilinç ile fiziksel olan arasında özel bir 'açıklama boşluğu' olduğunu savunur" (IEP). Filozoflar ayrılır: Bazıları bilincin fiziksel olarak açıklanacağını söyler; bazıları (düalistler) onun fiziksel olandan farklı olduğunu; bazıları da onun gerçekliğin temel bir özelliği olduğunu. IEP makalesinin kendisi ölümden sonra varlığın sürmesini tartışmaz — zor problem zihnin varlığını sürdürdüğünü ispat etmez; "zihin yalnızca beyindir" iddiasının da kanıtlanmadığını gösterir.
+
+      **Sınırıyla birlikte bir benzetme.** Bir radyonun sesi radyo hasar gördüğünde değişir; bu tek başına sesin radyoda mı üretildiğini yoksa onun tarafından mı alındığını göstermez. (Bu benzetme bu tartışmalarda sıkça kullanılır; onun için adı belli hiçbir kaynak okunmadı.) *Sınır:* Bu yalnızca bir benzetmedir; bağımlılık delilinin varlığın sürmesiyle bağdaştığını gösterir, varlığın sürdüğünün doğru olduğunu değil.
+
+      **İslami tablo yalnızca "serbestçe süzülen bir ruh" değildir.** İslam bedenen dirilişi öğretir: Devam eden, Allah'ın bir bedenle dirilttiği kişidir. Bu öğretiye göre ahiret, ruhun bütün bedenlerden bağımsız olmasına dayanmaz.
+
+      **Birkaç cümleyle Kant'ın ahlaki argümanı.** Kant, ahlakın bize "en yüksek iyiyi" aramayı emrettiğini savundu: mutluluğun "en saf ahlaka uygun olduğu", "bir öznenin layık olmasıyla" orantılı olduğu bir dünya. Bunun yalnızca doğa içinde nasıl mümkün olduğunu göremeyiz; dolayısıyla pratik akıl, erdemi ve mutluluğu bir araya getirebilecek Allah'ı ve bunun gerçekleşeceği gelecek bir hayatı "postüla eder". Kant bunun teorik bir ispat olmadığında ısrar etti: "'Bir Allah'ın var olduğu ahlaken kesindir' bile dememeliyim, aksine 'Ben ahlaken eminim' demeliyim" (SEP). *Sınır:* Eleştirmenler kozmik adalet talebinin basitçe karşılıksız kalabileceği cevabını verir.
+
+      **"Adalet bunu gerektiriyor gibi görünüyor"un ötesinde bir gerekçe var mı?** Evet, farklı güçlerde üç tane: ilk yaratılıştan argüman (bir kez var olduysan, yeniden var olabilirsin), çözülmemiş zor problem (beyinden fazlası için yer bırakır) ve — müminler için — onu vaat edene güven. Hiçbiri bir ispat değildir; birlikte umudu bir dilek olmaktan çıkarıp makul kılarlar.
+    title:
+      en: Zihin–beyin itirazı ve cevabı
+      tr: Zihin–beyin itirazı ve cevabı
   - kind: science
     en: |-
       **AWARE I (2014).** Of 2,060 cardiac arrests, 140 survivors completed a first interview and 101 a second; 46% had memories, 9% near-death experiences (NDEs), and 2% explicit awareness of "'seeing' and 'hearing' actual events" related to resuscitation. "One had a verifiable period of conscious awareness during which time cerebral function was not expected" (Parnia et al., *Resuscitation* 85, 2014). [Moderate, for the frequency; Debated, for interpretation]
@@ -154,6 +205,17 @@ fullAnswer:
       **The dying-brain account.** In a University of Michigan study (Xu, Borjigin et al., *PNAS*, 2023), four comatose patients were monitored by EEG as life support was withdrawn; in two of the four, gamma-wave activity surged in the junction of the temporal, parietal and occipital lobes, an area linked in other studies to dreaming and altered states. The researchers stress the small sample: "it's impossible to know in this study what the patients experienced because they did not survive." This supports the idea that a dying brain can produce intense activity, which could underlie NDEs. [Mixed]
 
       **What the research shows.** It shows that experiences during cardiac arrest are more common, and brain activity more persistent, than once thought. It does not show that the mind leaves the body: the key test — identifying a hidden image — has not been passed.
+    tr: |-
+      **AWARE I (2014).** 2.060 kalp durmasından 140 hayatta kalan ilk görüşmeyi, 101'i ikinci görüşmeyi tamamladı; %46'sının anıları, %9'unun ölüme yakın deneyimleri (ÖYD) ve %2'sinin canlandırmayla ilgili "gerçek olayları 'görme' ve 'duyma'" şeklinde açık bir farkındalığı vardı. "Birinin, beyin işlevinin beklenmediği bir sırada doğrulanabilir bir bilinçli farkındalık dönemi vardı" (Parnia ve ark., *Resuscitation* 85, 2014). [Orta, sıklık için; Debated, yorum için]
+
+      **AWARE II (2023).** 25 merkezdeki 567 hastane içi kalp durmasından 53 hasta hayatta kaldı (%9,3) ve 28'iyle görüşüldü (%52,8). Bu 28 kişiden 11'i (%39,3) bilinci düşündüren anılar ya da algılar bildirdi: KPR'nin yol açtığı bilinç 2/28 (%7,1), canlandırma sonrası 2/28 (%7,1), rüya benzeri deneyimler 3/28 (%10,7) ve "ölüme dair aşkın bir hatırlanan tecrübe" 6/28 (%21,4). Hiç kimse gizlenmiş görüntüyü tanımlayamadı; 1/28 (%3,5) işitsel uyaranı tanımladı. Ağır oksijen eksikliğine rağmen (ortalama rSO₂ %43), izlenen hastalarda bilinçle tutarlı normal EEG faaliyeti KPR'nin 35–60. dakikasına kadar görüldü (özet EEG'si olan hasta sayısını vermiyor). Yazarlar "Kalp durması sırasında bilinç. farkındalık ve bilişsel süreçler gerçekleşebilir" sonucuna varıyor (Parnia ve ark., *Resuscitation* 191, 2023). *Paydalar önemlidir:* %21, 567 hastanın değil, görüşülen 28 hayatta kalanın yüzdesidir.
+
+      **Ölmekte olan beyin açıklaması.** Michigan Üniversitesi'ndeki bir çalışmada (Xu, Borjigin ve ark., *PNAS*, 2023), yaşam desteği kesilirken dört koma hastası EEG ile izlendi; dört hastadan ikisinde, başka çalışmalarda rüya görmeye ve değişmiş bilinç hâllerine bağlanan bir bölge olan şakak, yan ve art kafa loblarının birleşim yerinde gama dalgası faaliyeti yükseldi. Araştırmacılar örneklemin küçüklüğünü vurguluyor: "Bu çalışmada hastaların ne yaşadığını bilmek imkânsız, çünkü hayatta kalmadılar." Bu, ölmekte olan bir beynin ÖYD'lerin altında yatabilecek yoğun bir faaliyet üretebileceği fikrini destekler. [Karışık]
+
+      **Araştırma ne gösteriyor?** Kalp durması sırasındaki deneyimlerin bir zamanlar düşünülenden daha yaygın, beyin faaliyetinin de daha kalıcı olduğunu gösteriyor. Zihnin bedeni terk ettiğini göstermiyor: Anahtar sınav — gizlenmiş bir görüntüyü tanımlamak — geçilmiş değil.
+    title:
+      en: Ölüme yakın deneyim araştırmaları
+      tr: Ölüme yakın deneyim araştırmaları
   - kind: objection
     en: |-
       **"The mind depends on the brain, so it dies with the brain."** *Reply:* dependence in this life does not establish identity, and the hard problem remains unsolved; in any case, Islam's hope rests on resurrection by God, not on the brain. *Limit:* to someone who is a physicalist, the reply will look like an appeal to a gap.
@@ -161,6 +223,15 @@ fullAnswer:
       **"NDEs are just the dying brain."** *Reply:* that may be so; the page does not rest the case for an afterlife on NDEs. *Limit:* NDEs neither prove nor disprove an afterlife.
 
       **"Justice is a wish, not evidence."** *Reply:* Kant's point is that we cannot act morally without treating justice as real; the Quran's point is that a purposeless creation would contradict its Creator (38:27–28). *Limit:* both arguments assume something — the authority of morality, or a purposeful Creator — that the sceptic may deny.
+    tr: |-
+      **"Zihin beyne bağlıdır, dolayısıyla beyinle birlikte ölür."** *Cevap:* Bu hayattaki bağımlılık özdeşliği kanıtlamaz ve zor problem çözülmüş değildir; her hâlükârda İslam'ın umudu beyne değil, Allah'ın diriltmesine dayanır. *Sınır:* Fizikalist biri için bu cevap bir boşluğa başvurmak gibi görünecektir.
+
+      **"ÖYD'ler sadece ölmekte olan beyindir."** *Cevap:* Öyle olabilir; bu sayfa ahiret lehindeki delili ÖYD'lere dayandırmıyor. *Sınır:* ÖYD'ler bir ahireti ne ispat eder ne de çürütür.
+
+      **"Adalet bir dilektir, delil değil."** *Cevap:* Kant'ın noktası, adaleti gerçek kabul etmeden ahlaki davranamayacağımızdır; Kur'an'ın noktası ise amaçsız bir yaratılışın Yaratıcısıyla çelişeceğidir (38:27–28). *Sınır:* İki argüman da şüphecinin reddedebileceği bir şeyi — ahlakın otoritesini ya da amaçlı bir Yaratıcıyı — varsayar.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Islamic teaching** — barzakh, bodily resurrection, judgement, Paradise and Hell.
@@ -169,34 +240,57 @@ fullAnswer:
       - **Kant** — immortality is a postulate of practical reason, not a theoretical proof.
       - **Physicalist philosophers** — the mind ends with the brain.
       - **NDE researchers** — divided between those who see evidence of consciousness beyond the brain and those who see a dying-brain process.
+    tr: |-
+      - **İslam öğretisi** — berzah, bedenen diriliş, hesap, cennet ve cehennem.
+      - **İbn Sînâ (Gazzâlî'nin okuduğu şekliyle)** — ruh varlığını sürdürür; bedenen diriliş reddedilir — Gazzâlî tarafından küfür sayıldı.
+      - **Gazzâlî** — bedenen diriliş "vahiyle vurgulanmış ve gerçekleşmesi imkânsız olmayan" bir meseledir; filozoflar aksini ispat etmedi.
+      - **Kant** — ölümsüzlük teorik bir ispat değil, pratik aklın bir postülasıdır.
+      - **Fizikalist filozoflar** — zihin beyinle sona erer.
+      - **ÖYD araştırmacıları** — beynin ötesinde bilinç delili görenler ile ölmekte olan bir beynin sürecini görenler arasında ayrılıyor.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: If brain damage changes personality, what survives death?
+      tr: Beyin hasarı kişiliği değiştiriyorsa, ölümden sonra ne kalır?
     a:
       en: In this life, the person's mind works through the brain, and damage changes how it shows itself. Islamic teaching is that the person — the soul, which God takes at death (39:42) — continues in the barzakh and is re-embodied at the resurrection. Whether the hard problem points to a non-physical mind is debated.
+      tr: Bu hayatta kişinin zihni beyin aracılığıyla işler ve hasar onun kendini gösterme biçimini değiştirir. İslam öğretisi, kişinin — Allah'ın ölümde aldığı ruhun (39:42) — berzahta devam ettiği ve dirilişte yeniden bedenlendiğidir. Zor problemin fiziksel olmayan bir zihne işaret edip etmediği tartışmalıdır.
   - q:
       en: What is the Quran's argument from the first creation, spelled out?
+      tr: Kur'an'ın ilk yaratılıştan argümanı açık hâliyle nedir?
     a:
       en: 'You exist, made from what was not you. The One who did that can do it again: "He will give them life who produced them the first time" (36:79).'
+      tr: 'Varsın, sen olmayan şeylerden yapılmış olarak. Bunu yapan onu yeniden yapabilir: "Onları ilk defa yaratan diriltecek" (36:79).'
   - q:
       en: Is there any reason to believe beyond "justice seems to require it"?
+      tr: '"Adalet bunu gerektiriyor gibi görünüyor"un ötesinde inanmak için bir gerekçe var mı?'
     a:
       en: "Yes: the argument from first creation, the unsolved hard problem of consciousness, and trust in the promise. None is a proof."
+      tr: "Evet: ilk yaratılıştan argüman, bilincin çözülmemiş zor problemi ve vaade güven. Hiçbiri bir ispat değildir."
   - q:
       en: What exactly do Muslims believe happens after death?
+      tr: Müslümanlar ölümden sonra tam olarak ne olduğuna inanır?
     a:
       en: The questioning in the grave ({hadith:bukhari:1338}); the barzakh until the Day of Resurrection (23:100); bodily resurrection; judgement; Paradise or Hell.
+      tr: Kabirde sorgu ({hadith:bukhari:1338}); Diriliş Günü'ne kadar berzah (23:100); bedenen diriliş; hesap; cennet ya da cehennem.
   - q:
       en: What does "bodily resurrection" mean, and what did al-Ghazali argue?
+      tr: '"Bedenen diriliş" ne demek ve Gazzâlî neyi savundu?'
     a:
       en: That the dead will be raised with bodies, not only as souls. Al-Ghazali held that bodily resurrection is taught by revelation and that the philosophers had not shown it impossible. His argument that the soul might return to "the same human body or another" was a concession for argument's sake, which he said "is not in accordance with our belief" (Yılmaz).
+      tr: Ölülerin yalnızca ruh olarak değil, bedenleriyle diriltileceği. Gazzâlî bedenen dirilişin vahiyle öğretildiğini ve filozofların onun imkânsız olduğunu göstermediğini savundu. Ruhun "insan bedeninin aynısına ya da gayrısına" dönebileceği argümanı tartışma uğruna yapılmış bir tavizdi; o bunun "bizim inancımıza uygun değildir" dedi (Yılmaz).
   - q:
       en: What is Kant's moral argument, in a few sentences?
+      tr: Birkaç cümleyle Kant'ın ahlaki argümanı nedir?
     a:
       en: Morality commands us to seek a world where happiness matches goodness; that is not possible in nature alone; so we must postulate God and a future life — as a practical commitment, not a proof.
+      tr: Ahlak bize mutluluğun iyiliğe denk düştüğü bir dünyayı aramayı emreder; bu yalnızca doğa içinde mümkün değildir; dolayısıyla Allah'ı ve gelecek bir hayatı — bir ispat olarak değil, pratik bir bağlılık olarak — postüla etmeliyiz.
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
   - *a5
+translatedFrom: docs/research/tr/Q30.md

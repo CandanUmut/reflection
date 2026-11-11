@@ -15,16 +15,13 @@ verses:
   - 4:3
   - 4:129
 steelman:
-  tr: |
-    Erkekler dört kadınla evlenebilir; kadınlar ise birden fazla erkekle evlenemez. Eşit davranmak neredeyse imkânsızdır ve kumalara verilen zarar belgelenmiştir.
+  tr: "\"Bir erkek dört kadına kadar evlenebilir; bir kadının ise yalnızca bir kocası olabilir. Kur'an bunu adalet şartına bağlıyor, sonra da erkeklerin eşler arasında adaletli davranmaya 'güç yetiremeyeceğini' söylüyor (4:129) — yine de hukuk bunu korudu. Peygamber'in kendisinin dörtten fazla eşi vardı. Araştırmalar kumalar arasında daha fazla depresyon ve kaygı buluyor. Ve uygulamada ikinci eş çoğu zaman gizlice, tescil edilmemiş dinî bir törenle alınıyor ve bu da onu ve çocuklarını yasal haklardan yoksun bırakıyor.\""
   en: "\"A man may marry up to four wives; a woman may have only one husband. The Quran makes it conditional on justice and then says men 'will never be able to be equal' between wives (4:129) — yet the law kept it. The Prophet himself had more than four. Studies find more depression and anxiety among co-wives. And in practice, a second wife is often taken in secret, through an unregistered religious ceremony, leaving her and her children without legal rights.\""
 whyAsked:
-  tr: |
-    Kadınlar kendilerini tehdit altında hisseder. Türkiye'de resmî olmayan dinî nikâhlar (*imam nikâhı*) kadınları hukukî korumadan yoksun bırakır.
+  tr: Kadınlar bundan korkuyor ve bazıları bununla yaşıyor. Türkiye dahil birkaç ülkede yalnızca dinî nikâh, kadınları yasal korumadan yoksun bırakıyor. Erkekler bunun bir hak mı yoksa bir yük mü olduğunu soruyor.
   en: Women fear it, and some live with it. In several countries, including Türkiye, religious-only marriages leave women without legal protection. Men ask whether it is a right or a burden.
 shortAnswer:
-  tr: |
-    Kur'an katı bir adalet şartıyla dörde kadar eşe izin verir. "Adaletsizlikten korkarsanız, bir tane" ekler ve daha sonra tam adaletin imkânsız olduğunu söyler. Pek çok âlim bunu bir ideal değil, bir istisna olarak okur. Tunus ve Türkiye çok eşliliği yasaklar.
+  tr: "Kur'an bir erkeğe katı bir şartla dört eşe kadar izin verir — \"Eğer adaleti gözetmemekten korkarsanız, o zaman bir tane ile… yetinin\" (4:3) — ve sonra eşler arasında tam adaletin imkânsız olduğunu söyler (4:129). Pek çokları 4:129'u erkeğin kontrol edemediği sevgiyle, 4:3'ü ise kontrol edebildiği adil davranışla ilgili olarak okudu ve böylece çok eşliliği şarta bağlı bir izin olarak korudu (Saheeh International'ın İngilizce çevirisindeki \"[in feeling]\" (\"[duygularda]\") köşeli parantezi bu okumayı yansıtır; bunun için adı belli bir klasik kaynağa burada henüz başvurulmadı). Muhammed Abduh gibi modern reformcular iki âyeti birlikte, devletin uygulayabileceği güçlü bir kısıtlama olarak okudu; Tunus 1956'da bu temelde çok eşliliği yasakladı. Hanbelî mezhebinde kadın, tek eşliliği nikâh akdinin bağlayıcı bir şartı yapabilir. Çok eşlilik nadirdir: Dünya nüfusunun yaklaşık %2'si çok eşli hanelerde yaşıyor; Pakistan ve Mısır gibi ülkelerde Müslüman erkeklerin %1'inden azı. Araştırmalar bunu kadınların ruh sağlığının daha kötü olmasıyla ilişkilendiriyor. Medeni kanunu atlayan yalnızca dinî nikâhlar kadınları ciddi bir risk altına sokuyor."
   en: "The Quran permits a man up to four wives, on a strict condition — \"if you fear that you will not be just, then [marry only] one\" (4:3) — and then says full equality between wives is impossible (4:129). Many read 4:129 as being about love, which a man cannot control, and 4:3 as being about fair treatment, which he can, and so kept polygyny as a conditional permission (Saheeh's bracket \"[in feeling]\" reflects this reading; a named classical source for it has not yet been consulted here). Modern reformers such as Muhammad ʿAbduh read the two verses together as a strong restriction that the state may enforce; Tunisia banned polygyny in 1956 on that basis. In the Hanbali school, a wife may make monogamy a binding condition of her marriage contract. Polygyny is rare: about 2% of the world's population lives in polygamous households, and fewer than 1% of Muslim men in countries like Pakistan and Egypt. Research links it to worse mental health for women. Religious-only marriages that bypass the civil law put women at serious risk."
 layers:
   - kind: religious
@@ -55,8 +52,7 @@ layers:
       Kadınlar haklarını bilmelidir: zarar (*darar*) sebebiyle boşanma ve danışmanlığa erişim.
     en: "Women should know their rights: divorce for harm (*ḍarar*) and access to counselling."
 honestLimits:
-  tr: |
-    "Kur'an onu yasaklar" da, "Kur'an onu teşvik eder" de metni çarpıtır. Onu sınırlamak meşru bir *içtihattır* (bağımsız hukukî akıl yürütme).
+  tr: "\"Kur'an çok eşliliği yasaklar\" ve \"Kur'an çok eşliliği teşvik eder\" sözlerinin ikisi de metni çarpıtır. Asimetrinin klasik bir açıklaması (neseb) vardır, ama her okuyucuyu tatmin edecek bir cevabı yoktur. Onu kısıtlamak meşru bir *içtihat*tır, ama modern bir içtihattır. *Tefsîrü'l-Menâr*'a, Mevdûdî'ye ve Endonezya çalışmasına henüz başvurulmadı."
   en: '"The Quran bans polygyny" and "the Quran encourages polygyny" both distort the text. The asymmetry has a classical explanation (lineage) but no answer that will satisfy every reader. Restricting it is a legitimate *ijtihād*, but it is a modern one. *Tafsir al-Manar*, Mawdudi and the Indonesian study have not yet been consulted.'
 visualizations:
   - id: ideas
@@ -102,6 +98,10 @@ sources:
 fullAnswer:
   - kind: heart
     en: "**If you are a wife whose husband has taken, or wants to take, another wife,** your feelings are not a lack of faith. The Quran itself admits that full equality between wives is beyond men (4:129), and the Prophet (pbuh) warned that a man who leans toward one wife will come on the Day of Resurrection \"with a side hanging down\" (Abu Dawud 2133). You have rights to fair treatment and maintenance, and many legal systems give a wife a way to seek divorce for harm through a court; ask a family lawyer what applies to you. If you are in a religious-only marriage, find out now what your legal position is (see below). A family lawyer, a women's rights organisation or the helplines on the page \"Does Islam treat women unequally?\" can help."
+    tr: "**Kocası başka bir eş almış ya da almak isteyen bir kadınsan,** hissettiklerin iman eksikliği değildir. Kur'an'ın kendisi eşler arasında tam adaletin erkeklerin gücünü aştığını kabul eder (4:129) ve Hz. Peygamber (s.a.v.), eşlerinden birine meyleden bir erkeğin Kıyamet Günü'nde \"bir yanı sarkmış olarak\" geleceği uyarısında bulundu (Ebû Dâvûd 2133). Adil davranılma ve nafaka hakların var ve pek çok hukuk sistemi kadına, zarar sebebiyle mahkeme yoluyla boşanma isteme imkânı tanır; senin için hangisinin geçerli olduğunu bir aile hukuku avukatına sor. Yalnızca dinî bir nikâhla evliysen, yasal durumunun ne olduğunu şimdi öğren (aşağıya bak). Bir aile hukuku avukatı, bir kadın hakları kuruluşu ya da \"İslam kadına eşitsiz mi davranıyor?\" sayfasındaki yardım hatları yardımcı olabilir."
+    title:
+      en: Kalp ve akıl için
+      tr: Kalp ve akıl için
   - kind: quran
     en: |-
       **4:3 and its occasion.** "And if you fear that you will not deal justly with the orphan girls, then marry those that please you of [other] women, two or three or four. But if you fear that you will not be just, then [marry only] one or those your right hand possesses. That is more suitable that you may not incline [to injustice]" (4:3), Medinan. ʿUrwa ibn al-Zubayr asked Aisha (ra) about the verse; she explained: "An Orphan girl used to be under the care of a guardian with whom she shared property. Her guardian, being attracted by her wealth and beauty, would intend to marry her without giving her a just Mahr", and "such guardians were forbidden to do that unless they did justice to their female wards" ({hadith:bukhari:4574}). So the verse begins as a protection for orphan girls against exploitative guardians.
@@ -111,11 +111,29 @@ fullAnswer:
       **4:129.** "And you will never be able to be equal [in feeling] between wives, even if you should strive [to do so]. So do not incline completely [toward one] and leave another hanging" (4:129), Medinan. The words "[in feeling]" are the translator's interpretation, reflecting the classical reading.
 
       **The Prophet's (pbuh) marriages.** The Quran permitted him marriages "only for you excluding the [other] believers" (33:50), and later forbade him any further marriages: "Not lawful to you, [O Muhammad], are [any additional] women after [this], nor [is it] for you to exchange them for [other] wives, even if their beauty were to please you" (33:52). So his marriages above four were a special permission, and the Quran itself then closed it. The circumstances of his marriages have not yet been checked.
+    tr: |-
+      **4:3 ve iniş sebebi.** "Eğer öksüz kızlarla evlendiğinizde onlara karşı adaletli davranamamaktan korkarsanız, hoşunuza giden diğer kadınlardan iki, üç ve dörde kadar evlenebilirsiniz. Eğer adaleti gözetmemekten korkarsanız, o zaman bir tane ile veya elinizin altındakiyle (sahip olduğunuz câriye ile) yetinin. Doğruluktan ayrılmamak için bu daha elverişlidir." (4:3), Medenî. Urve b. Zübeyr bu âyeti Hz. Âişe'ye (r.a.) sordu; o da şöyle açıkladı: "Yetim bir kız, malını paylaştığı bir velinin himayesinde olurdu. Velisi, onun malına ve güzelliğine ilgi duyarak, ona adil bir mehir vermeden onunla evlenmek isterdi" ve "bu tür velilerin, himayelerindeki kızlara adaletli davranmadıkça bunu yapmaları yasaklandı" ({hadith:bukhari:4574}). Yani âyet, yetim kızları istismarcı velilere karşı koruyan bir hüküm olarak başlar.
+
+      **"Veya elinizin altındakiyle."** Âyet ayrıca, ikinci bir eşe alternatif olarak, bir cariyeyle ilişkiye izin verir. Âyetin bu kısmı "Kölelik" sayfasında ele alınan sisteme aittir ve kölelik yasaklandığına göre bugün hiçbir uygulaması yoktur.
+
+      **4:129.** "Kadınlarınız arasında her yönden adaletli davranmaya ne kadar uğraşsanız buna güç yetiremezsiniz. Bari birisine tamamen kapılıp da diğerini askıya alınmış gibi bırakmayın." (4:129), Medenî. Saheeh International bu âyetin İngilizcesine "[in feeling]" ("[duygularda]") sözlerini köşeli parantez içinde ekler; bu sözler çevirmenin yorumudur ve klasik okumayı yansıtır. Elmalılı ise "her yönden" der.
+
+      **Hz. Peygamber'in (s.a.v.) evlilikleri.** Kur'an ona "başka müminlere değil de sadece sana mahsus olmak üzere" evliliklere izin verdi (33:50), sonra da ona yeni evlilikleri yasakladı: "Bundan başka kadınlar sana helâl olmaz. Bunları başka eşlerle değiştirmek de olmaz. İsterse güzellikleri hoşuna gitsin." (33:52). Yani dördün üzerindeki evlilikleri özel bir izindi ve Kur'an'ın kendisi bu izni sonra kapattı. Evliliklerinin şartları henüz kontrol edilmedi.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **Unfairness between wives.** Abu Hurayra (ra) reports that the Prophet (pbuh) said: "When a man has two wives and he is inclined to one of them", he "will come on the Day of resurrection with a side hanging down" ({hadith:abudawud:2133}; al-Albani: *ṣaḥīḥ*).
 
       **ʿAli and a second wife.** Al-Miswar ibn Makhrama (ra) reports that the Prophet (pbuh) said from the pulpit that Banu Hisham ibn al-Mughira had asked him to let them marry their daughter to ʿAli: "I don't give permission, and will not give permission… unless Ali bin Abi Talib divorces my daughter", for "Fatima is a part of my body" ({hadith:bukhari:5230}). How classical commentators explained this has not yet been consulted. A *modern reading* takes it to show that a second marriage was not treated as a husband's unconditional right when it would harm the first wife; if the ruling was specific to this case, that general rule does not follow.
+    tr: |-
+      **Eşler arasında adaletsizlik.** Ebû Hüreyre (r.a.), Hz. Peygamber'in (s.a.v.) şöyle dediğini aktarır: "Bir adamın iki karısı olur da birine meylederse", o "Kıyamet Günü'nde bir yanı sarkmış olarak gelir" ({hadith:abudawud:2133}; Elbânî: *sahih*).
+
+      **Hz. Ali ve ikinci bir eş.** Misver b. Mahreme (r.a.), Hz. Peygamber'in (s.a.v.) minberden, Hişâm b. Mugîre oğullarının kızlarını Ali ile evlendirmek için kendisinden izin istediklerini söylediğini aktarır: "İzin vermiyorum ve izin vermeyeceğim… meğer ki Ali b. Ebî Tâlib kızımı boşasın", çünkü "Fâtıma benden bir parçadır" ({hadith:bukhari:5230}). Klasik şârihlerin bunu nasıl açıkladığına henüz başvurulmadı. *Modern bir okuma*, bunun ikinci bir evliliğin, ilk eşe zarar vereceği durumda kocanın şartsız bir hakkı olarak görülmediğini gösterdiğini kabul eder; hüküm bu duruma özgüyse, bu genel kural buradan çıkmaz.
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: |-
       **The common reading.** On a widely held reading, the justice required in 4:3 is justice in what a man can control — maintenance, housing, time — and 4:129 is about feelings, which he cannot fully control; then the two verses do not cancel each other. Saheeh's bracket "[in feeling]" reflects this reading. Ibn Kathir and al-Tabari on 4:129 have not yet been consulted, so no classical holder is named.
@@ -125,6 +143,17 @@ fullAnswer:
       **Why men and not women?** The classical answer is lineage: a Hanafi teacher writes that "one of the most primary and central aims (*maqāṣid*) of the Shariʿah is preservation of lineage and the family (*nasab*)" and that "polyandry negates this completely" (Azam). Before modern genetics, a child's father could only be known if a woman had one husband. The same answer adds: "For most people in our times, it may well be impermissible and sinful."
 
       **The critique of the asymmetry.** Critics answer that lineage explains why a woman cannot have two husbands, but not why a man may have four wives; that the classical framework assumes women's dependence on men; and that the stated protections (for widows and orphans) can be met in other ways today. *Limit:* the lineage argument is a reason for the rule as it stands, not an argument that polygyny is good; mainstream scholars do not claim it is an ideal.
+    tr: |-
+      **Yaygın okuma.** Yaygın bir okumaya göre 4:3'te istenen adalet, erkeğin kontrol edebildiği şeylerdeki — nafaka, barınma, zaman — adalettir; 4:129 ise onun tam olarak kontrol edemediği duygularla ilgilidir; o zaman iki âyet birbirini iptal etmez. Saheeh'in "[in feeling]" köşeli parantezi bu okumayı yansıtır. İbn Kesîr'in ve Taberî'nin 4:129 tefsirlerine henüz başvurulmadı, dolayısıyla adı belli hiçbir klasik savunucu verilmiyor.
+
+      **Abduh ve Rızâ.** Muhammed Abduh (ö. 1905) ve Reşîd Rızâ (ö. 1935), *Tefsîrü'l-Menâr*'da çok eşliliğin "hem kadınlara hem çocuklara karşı bir haksızlık" olduğu ve "yalnızca zaruret hâllerinde izin verilmesi gerektiği" sonucuna vardı (Musawah için Rasha Dewedar'ın aktardığına göre, *Wikipedia*'da zikredilir; eserin adı orada geçmez). Onların okuması 4:3 ve 4:129'u birlikte, şartın nadiren yerine geldiğini gösteren âyetler olarak ele alır. *Tefsîrü'l-Menâr*'ın kendisine henüz başvurulmadı.
+
+      **Neden kadınlar değil de erkekler?** Klasik cevap nesebdir: Hanefî bir hoca, "Şerîat'ın en temel ve merkezî amaçlarından (*makâsıd*) birinin neseb ve ailenin korunması (*neseb*)" olduğunu ve "çok kocalılığın bunu tamamen ortadan kaldırdığını" yazar (Azam). Modern genetikten önce, bir çocuğun babası ancak kadının tek bir kocası varsa bilinebilirdi. Aynı cevap şunu ekler: "Zamanımızdaki çoğu insan için bu pekâlâ caiz olmayabilir ve günah olabilir."
+
+      **Asimetriye yönelik eleştiri.** Eleştirmenler, neseb gerekçesinin bir kadının neden iki kocası olamayacağını açıkladığını, ama bir erkeğin neden dört eşi olabileceğini açıklamadığını; klasik çerçevenin kadınların erkeklere bağımlılığını varsaydığını; ve dile getirilen korumaların (dullar ve yetimler için) bugün başka yollarla sağlanabileceğini söyler. *Sınır:* Neseb argümanı, mevcut hâliyle kuralın bir gerekçesidir, çok eşliliğin iyi olduğuna dair bir argüman değildir; ana akım âlimler onun bir ideal olduğunu iddia etmez.
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: fiqh
     en: |-
       **Permission with conditions.** The four schools' detailed rules on polygyny (equal treatment in maintenance, housing and time; whether the first wife's consent is required) have not yet been consulted in named works.
@@ -132,6 +161,15 @@ fullAnswer:
       **The monogamy clause.** The schools differ on whether a wife can stipulate in her marriage contract that her husband will not marry another. Abu Hanifa and al-Shafiʿi held the marriage valid but the condition void. The Hanbali jurists, following ʿUmar ibn al-Khattab and Saʿd ibn Abi Waqqas, held the condition binding: if he marries again, the first wife may choose divorce or remain. Ibn Qudama (d. 1223) says of this view: "This was the opinion of the Companions, and we do not know any one who disagreed… who disagreed with them in their lifetime" (IslamOnline). The Maliki position was not covered in the source read. This is one of the most practical tools a woman has where the law allows it.
 
       **Divorce for harm.** The schools' rules on a wife ending a marriage through a judge for harm have not yet been consulted.
+    tr: |-
+      **Şartlı izin.** Dört mezhebin çok eşlilikle ilgili ayrıntılı hükümlerine (nafakada, barınmada ve zamanda eşit davranma; ilk eşin rızasının gerekip gerekmediği) adı belli eserlerde henüz başvurulmadı.
+
+      **Tek eşlilik şartı.** Mezhepler, bir kadının nikâh akdinde kocasının başka biriyle evlenmeyeceğini şart koşup koşamayacağı konusunda ayrılır. Ebû Hanîfe ve Şâfiî nikâhı geçerli, şartı ise geçersiz saydı. Hanbelî fakihler, Hz. Ömer b. Hattâb'ı ve Sa'd b. Ebî Vakkâs'ı izleyerek şartı bağlayıcı saydı: Koca yeniden evlenirse ilk eş boşanmayı ya da kalmayı seçebilir. İbn Kudâme (ö. 1223) bu görüş hakkında şöyle der: "Bu, sahâbenin görüşüydü ve onların hayatlarında onlara… muhalefet eden hiç kimseyi bilmiyoruz" (IslamOnline). Mâlikî görüşü okunan kaynakta ele alınmamıştı. Hukukun izin verdiği yerlerde bu, bir kadının sahip olduğu en pratik araçlardan biridir.
+
+      **Zarar sebebiyle boşanma.** Mezheplerin, bir kadının zarar sebebiyle hâkim aracılığıyla evliliği sona erdirmesine ilişkin hükümlerine henüz başvurulmadı.
+    title:
+      en: Dört mezhep ne diyor?
+      tr: Dört mezhep ne diyor?
   - kind: history
     en: |-
       **How common is it?** [Established.] "Only about 2% of the global population lives in polygamous households", and in most countries under 0.5% (Pew, 2020). In sub-Saharan Africa the figure is 11%, highest in Burkina Faso (36%), Mali (34%) and Nigeria (28%); 25% of Muslims in Africa live in such households. "Fewer than 1% of Muslim men live with more than one spouse in Afghanistan, Pakistan, Bangladesh, Iran and Egypt."
@@ -141,8 +179,23 @@ fullAnswer:
       **What *ijtihād* means here.** *Ijtihād* is a qualified scholar's independent reasoning from the sources where no text decides the case. The Tunisian argument was an *ijtihād*: since 4:3 forbids a second wife to a man who fears injustice, and 4:129 says full justice is impossible, the state may conclude that the condition is not met and close the door. The majority of classical scholars did not reach that conclusion; it is a modern legal reading.
 
       **Religious-only marriage (*imam nikahı*) in Türkiye.** Turkish law "exclusively recognises civil marriages", and polygamy is a crime under Penal Code article 230 (Musawah, 2019). Women in religious-only marriages lack marital rights, "(such as alimony, participation of acquired property, inheritance in the event of husband's death etc.)"; if a couple is not legally married, "they cannot be legal inheritors" (Musawah). In 2015 the Constitutional Court struck down the penalty for a religious ceremony without civil marriage; the Federation of Turkish Women's Associations warned of "men marrying multiple women, underage marriages" (*Al Jazeera*). In a 2014 survey of Turkish women who married below 18, 77% had religious ceremonies by an imam (Musawah). *Practical advice:* a woman offered a religious-only marriage should know that, in Türkiye and many other countries, it gives her no legal protection; insisting on civil registration is her strongest safeguard.
+    tr: |-
+      **Ne kadar yaygın?** [Established.] "Dünya nüfusunun yalnızca yaklaşık %2'si çok eşli hanelerde yaşıyor" ve çoğu ülkede bu oran %0,5'in altında (Pew, 2020). Sahra-altı Afrika'da oran %11'dir; en yüksek Burkina Faso (%36), Mali (%34) ve Nijerya'da (%28); Afrika'daki Müslümanların %25'i bu tür hanelerde yaşıyor. "Afganistan, Pakistan, Bangladeş, İran ve Mısır'da Müslüman erkeklerin %1'inden azı birden fazla eşle yaşıyor."
+
+      **Yasal yasaklar ve kısıtlamalar.** Türkiye 1926'da laik gerekçelerle çok eşliliği yasakladı (Wikipedia). Tunus'un 1956 tarihli Kişisel Statü Kanunu ikinci bir evliliği "bir yıl hapis ve… para cezası" ile cezalandırılabilir kıldı; Cumhurbaşkanı Burgiba eşit davranmanın sağlanamayacağını savundu ve Tunuslu âlim Muhammed el-Fâdıl b. Âşûr daha sonra kanunu İslam'ın olası bir yorumu olarak destekledi (Wikipedia, Perkins'e atıfla). Fas 1958'de bunu kısıtladı; İran ve Pakistan ilk eşin bir mahkemeye gösterilen iznini şart koşar (Wikipedia).
+
+      ***İçtihat* burada ne demek?** *İçtihat*, hiçbir nassın meseleyi belirlemediği yerde ehil bir âlimin kaynaklardan bağımsız akıl yürütmesidir. Tunus'un argümanı bir *içtihat*tı: 4:3 adaletsizlikten korkan bir erkeğe ikinci bir eşi yasakladığına ve 4:129 tam adaletin imkânsız olduğunu söylediğine göre, devlet şartın yerine gelmediği sonucuna varıp kapıyı kapatabilir. Klasik âlimlerin çoğunluğu bu sonuca varmadı; bu modern bir hukuki okumadır.
+
+      **Türkiye'de yalnızca dinî nikâh (*imam nikâhı*).** Türk hukuku "yalnızca resmî nikâhı tanır" ve çok eşlilik Türk Ceza Kanunu'nun 230. maddesine göre suçtur (Musawah, 2019). Yalnızca dinî nikâhla evli kadınlar "(nafaka, edinilmiş mallara katılma, kocanın ölümü hâlinde miras vb. gibi)" evlilik haklarından yoksundur; bir çift yasal olarak evli değilse, "yasal mirasçı olamazlar" (Musawah). 2015'te Anayasa Mahkemesi, resmî nikâh olmadan dinî tören yapılmasına yönelik cezayı iptal etti; Türkiye Kadın Dernekleri Federasyonu "birden fazla kadınla evlenen erkekler, çocuk yaşta evlilikler" konusunda uyardı (*Al Jazeera*). 18 yaşından önce evlenmiş Türk kadınlarıyla yapılan 2014 tarihli bir ankette, %77'sinin bir imam tarafından kıyılan dinî törenle evlendiği görüldü (Musawah). *Pratik tavsiye:* Kendisine yalnızca dinî bir nikâh teklif edilen bir kadın, Türkiye'de ve diğer pek çok ülkede bunun ona hiçbir yasal koruma sağlamadığını bilmelidir; resmî tescilde ısrar etmek onun en güçlü güvencesidir.
+    title:
+      en: Bugün hukuk ve uygulama
+      tr: Bugün hukuk ve uygulama
   - kind: science
     en: "**Mental health.** [Moderate.] A systematic review of 22 studies found \"a more significant prevalence of mental-health issues in polygynous women\" than in monogamous women, including higher rates of \"somatization, depression, anxiety, hostility, psychoticism and psychiatric disorder\", and lower life and marital satisfaction; the author rates this \"with moderate confidence\", noting the studies' \"mixed methodological quality\" (Shepard, 2013)."
+    tr: '**Ruh sağlığı.** [Orta.] 22 çalışmayı kapsayan sistematik bir derleme, çok eşli evliliklerdeki kadınlarda tek eşli evliliklerdeki kadınlara göre, "somatizasyon, depresyon, kaygı, düşmanlık, psikotizm ve psikiyatrik bozukluk" oranlarının daha yüksek olması dahil, "ruh sağlığı sorunlarının daha belirgin bir yaygınlığını" ve daha düşük hayat ve evlilik memnuniyeti buldu; yazar bu sonucu, çalışmaların "karışık metodolojik kalitesine" dikkat çekerek "orta düzeyde güvenle" değerlendiriyor (Shepard, 2013).'
+    title:
+      en: Araştırmalar ne gösteriyor?
+      tr: Araştırmalar ne gösteriyor?
   - kind: objection
     en: |-
       **"If 4:129 says justice is impossible, polygyny is effectively forbidden."** *Reply:* on the common reading, 4:129 is about feelings, not conduct, so the condition of 4:3 can be met. *Limit:* ʿAbduh, Riḍā and the Tunisian legislators read the verses together and concluded otherwise; both are serious readings, and the common one is not the only Islamic one.
@@ -150,6 +203,15 @@ fullAnswer:
       **"It protects widows and orphans."** *Reply:* that was the setting of 4:3 (Bukhari 4574). *Limit:* most polygynous marriages today are not about widows or orphans, and the research suggests real harm to women.
 
       **"The Prophet had more than four."** *Reply:* the Quran calls his marriages "only for you" (33:50), and then forbade him further marriages (33:52). *Limit:* critics are not persuaded by an exception granted to the person proclaiming the law; Muslims understand it as part of his particular role.
+    tr: |-
+      **"4:129 adaletin imkânsız olduğunu söylüyorsa, çok eşlilik fiilen yasaktır."** *Cevap:* Yaygın okumaya göre 4:129 davranışla değil duygularla ilgilidir, dolayısıyla 4:3'ün şartı yerine getirilebilir. *Sınır:* Abduh, Rızâ ve Tunuslu kanun koyucular âyetleri birlikte okudu ve başka bir sonuca vardı; ikisi de ciddi okumalardır ve yaygın olan tek İslami okuma değildir.
+
+      **"Dulları ve yetimleri korur."** *Cevap:* 4:3'ün bağlamı buydu (Buhârî 4574). *Sınır:* Bugünkü çok eşli evliliklerin çoğu dullar ya da yetimlerle ilgili değildir ve araştırmalar kadınlara gerçek bir zarar verdiğini düşündürüyor.
+
+      **"Peygamber'in dörtten fazla eşi vardı."** *Cevap:* Kur'an onun evliliklerini "sadece sana mahsus" olarak niteler (33:50) ve sonra ona yeni evlilikleri yasaklar (33:52). *Sınır:* Eleştirmenler, hukuku ilan eden kişiye tanınan bir istisnaya ikna olmuyor; Müslümanlar bunu onun özel rolünün bir parçası olarak anlar.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **The common reading** — permitted with justice in conduct; 4:129 about feelings (classical holders not checked here).
@@ -157,31 +219,52 @@ fullAnswer:
       - **ʿAbduh and Riḍā** — only in necessity; the state may restrict.
       - **Tunisia (1956)** — banned; **Türkiye (1926)** — banned on secular grounds.
       - **Indonesia, Pakistan, Iran, Morocco** — allowed with court control or the first wife's permission.
+    tr: |-
+      - **Yaygın okuma** — davranışta adaletle birlikte caizdir; 4:129 duygularla ilgilidir (klasik savunucuları burada kontrol edilmedi).
+      - **Hanbelî** — akitteki tek eşlilik şartı bağlayıcıdır (İbn Kudâme).
+      - **Abduh ve Rızâ** — yalnızca zaruret hâlinde; devlet kısıtlayabilir.
+      - **Tunus (1956)** — yasakladı; **Türkiye (1926)** — laik gerekçelerle yasakladı.
+      - **Endonezya, Pakistan, İran, Fas** — mahkeme denetimiyle ya da ilk eşin izniyle izin verir.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: Why may men have four wives but women only one husband?
+      tr: Neden erkekler dört eşle evlenebiliyor da kadınların yalnızca bir kocası olabiliyor?
     a:
       en: The classical answer is lineage (*nasab*). Critics say this explains only half the rule.
+      tr: Klasik cevap nesebdir (*neseb*). Eleştirmenler bunun kuralın yalnızca yarısını açıkladığını söylüyor.
   - q:
       en: If full justice is impossible, why was it not banned?
+      tr: Tam adalet imkânsızsa, neden yasaklanmadı?
     a:
       en: Because on the common reading 4:129 is about love and 4:3 about conduct.
+      tr: Çünkü yaygın okumaya göre 4:129 sevgiyle, 4:3 ise davranışla ilgilidir.
   - q:
       en: Why did the Prophet (pbuh) have more than four wives?
+      tr: Hz. Peygamber'in (s.a.v.) neden dörtten fazla eşi vardı?
     a:
       en: A special permission (33:50), later closed (33:52).
+      tr: Özel bir izin (33:50), sonradan kapatıldı (33:52).
   - q:
       en: How common is polygyny?
+      tr: Çok eşlilik ne kadar yaygın?
     a:
       en: About 2% of people worldwide; under 1% of Muslim men in Afghanistan, Pakistan, Bangladesh, Iran and Egypt (Pew, 2020).
+      tr: Dünya genelinde insanların yaklaşık %2'si; Afganistan, Pakistan, Bangladeş, İran ve Mısır'da Müslüman erkeklerin %1'inden azı (Pew, 2020).
   - q:
       en: What is *imam nikahı*?
+      tr: "*İmam nikâhı* nedir?"
     a:
       en: A religious-only marriage without civil registration. In Türkiye it gives a wife no legal rights to maintenance, property or inheritance.
+      tr: Resmî tescil olmadan yalnızca dinî nikâh. Türkiye'de bir kadına nafaka, mal ya da miras konusunda hiçbir yasal hak vermez.
   - q:
       en: Can I put a monogamy clause in my marriage contract?
+      tr: Nikâh akdime tek eşlilik şartı koyabilir miyim?
     a:
       en: In the Hanbali school, yes, and it is binding; many modern family laws also allow it.
+      tr: Hanbelî mezhebinde evet ve bu şart bağlayıcıdır; pek çok modern aile hukuku da buna izin verir.
 legacySources:
   - *a1
   - *a2
@@ -189,3 +272,4 @@ legacySources:
   - *a4
   - *a5
   - *a6
+translatedFrom: docs/research/tr/Q23.md

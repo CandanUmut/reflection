@@ -15,16 +15,13 @@ verses:
   - 112:1-4
   - 52:35
 steelman:
-  tr: |
-    Her şeyin bir sebebi varsa, Allah'ın da olmalı. Allah'ın yoksa, neden evrenin sebepsiz şey olduğunu söylemeyelim? Dawkins ekler: bir tasarımcı, tasarladığı şeyden daha karmaşık olurdu.
+  tr: "\"Her şeyin bir sebebi olması gerekiyorsa, Allah'ın da bir sebebi olması gerekir. Allah'ın gerekmediğini söylersen, yalnızca O'nun için bir istisna yapmış olursun — özel kayırma. Ve bir şey sebepsiz var olabiliyorsa, neden evrenin kendisi olmasın? Nasıl var olduğuna dair hiçbir şey açıklamayan bir Allah eklemek yerine evrende durmak daha basit. Bertrand Russell'ın Copleston'a dediği gibi, evren sadece 'açıklamasız' olabilir. Dawkins de herhangi bir tasarımcının tasarladığı şeyden daha karmaşık olması gerektiğini, dolayısıyla onun daha da fazla açıklanmaya ihtiyaç duyacağını ekliyor.\""
   en: "\"If everything needs a cause, then God needs one too. If you say God doesn't, you are making an exception just for Him — special pleading. And if something can exist without a cause, why not the universe itself? It is simpler to stop at the universe than to add a God who explains nothing about how He exists. As Bertrand Russell said to Copleston, the universe may simply be 'without explanation'. And Dawkins adds that any designer would have to be more complex than what it designs, so it would need explaining even more.\""
 whyAsked:
-  tr: |
-    Bu, düşünce karşısında imanın korkup korkmadığının bir sınavı olarak geri dönen bir çocukluk sorusudur. Hz. Peygamber "Rabbini kim yarattı?" fısıltısını önceden haber verdi ve Allah'a sığınmayı tavsiye etti (Buhârî 3276; Müslim 134). Bu, felsefe yasağı değil, vesvese (zorlayıcı, takıntılı şüpheler) için bir rehberliktir.
+  tr: "Bu çoğu zaman bir çocuğun ilk felsefi sorusudur ve yetişkinlikte bir sınav olarak geri gelir: İman düşünmekten korkuyor mu? Bazen bu hiç de bir soru değildir, gitmeyen, zihne zorla giren bir düşüncedir — Hz. Peygamber'in (s.a.v.) önceden haber verdiği vesvesenin ta kendisi."
   en: "It is often a child's first philosophical question, and it comes back in adulthood as a test: is faith afraid of thinking? Sometimes it is not a question at all but an intrusive thought that will not go away — the very whisper the Prophet (pbuh) foresaw."
 shortAnswer:
-  tr: |
-    Argüman her şeyin bir sebebi olduğunu söylemez. *Başlayan* ya da *var olmayabilecek* olan her şeyin bir sebebe ihtiyaç duyduğunu söyler. Zorunlu, başlangıcı olmayan bir varlık yaratılmış olamaz. Onu kimin yarattığını sormak, bir dairenin köşelerini kimin çizdiğini sormak gibidir. Asıl tartışma, böyle bir varlığın var olup olmadığıdır.
+  tr: "Klasik argümanlar \"her şeyin bir sebebi vardır\" demez. *Var olmaya başlayan* ya da *var olmayabilecek* her şeyin kendi dışında bir sebebe ihtiyaç duyduğunu söyler. *Zorunlu* bir varlık — var olmaması mümkün olmayan ve hiç başlamamış olan — sebebi olabilecek türden bir şey değildir. \"Yaratılmamış olanı kim yarattı?\" diye sormak, bir dairenin köşelerini kimin çizdiğini sormaya benzer. Dolayısıyla teselsül itirazı hedefini ıskalar. Asıl soru bir sonrakidir: Neden evrende değil de Allah'ta duruyoruz? Burada argümanlar güçlüdür ama kesin değildir. Evren başka türlü olabilecek bir şeye benziyor ve güncel kozmoloji başlangıcı olan bir evrene uyuyor, ancak fizik bunu kesinleştirmiş değil. Argümanlar başarılı olsa bile zorunlu bir ilk sebebe ulaşırlar; bu sebebin Kur'an'ın bir ve şahsi Allah'ı olduğunu göstermek ek adımlar gerektirir. Profesyonel filozofların yaklaşık %19'u teizmi kabul ediyor ya da ona yakın duruyor (PhilPapers 2020). Soru ciddi bir sorudur ve onu düşünüp taşınmakta bir sakınca yoktur. Zorlantılı, korkutucu bir döngü olarak geliyorsa, bu başka bir meseledir (aşağıya bak)."
   en: 'The classical arguments do not say "everything has a cause". They say that whatever *begins to exist*, or whatever *could fail to exist*, needs a cause outside itself. A being that is *necessary* — that could not fail to exist and never began — is not the kind of thing that can be caused. Asking "who created the uncreated?" is like asking who drew the corners of a circle. So the regress objection misses its target. The real question is the next one: why stop at God rather than at the universe? Here the arguments are strong but not decisive. The universe looks like a thing that could have been otherwise, and current cosmology fits a universe with a beginning, though physics has not settled this. Even if the arguments succeed, they reach a necessary first cause; showing that this cause is the one, personal God of the Quran takes further steps. Among professional philosophers, about 19% accept or lean towards theism (PhilPapers 2020). The question is a serious one, and it is fine to think it through. If it comes as a compulsive, frightening loop, that is a different matter (see below).'
 layers:
   - kind: religious
@@ -64,8 +61,7 @@ layers:
       Soruyu ciddiye almak güven inşa eder. Düşünce zorlayıcı biçimde tekrar tekrar geliyorsa, onu vesvese olarak ele almak gerekir.
     en: Taking the question seriously builds trust. If the thought keeps intruding compulsively, treat it as vesvese.
 honestLimits:
-  tr: |
-    Geriye sonsuz gitme itirazı tutmaz. Ama zorunlu bir varlıktan şahsî, bir ve Kur'an'ın Allah'ı olan bir Tanrı'ya ulaşmak ek adımlar gerektirir. İbn Sînâ'nın ilahi sıfatları türetmesi en zayıf halkadır.
+  tr: "Teselsül itirazı klasik argümanlara karşı başarısız olur, ama argümanların kendisi kesin olmaktan çok saygı görür: Profesyonel filozofların çoğu ikna olmuş değil. Zorunlu bir varlıktan bir ve şahsi Allah'a ulaşmak ek, daha zayıf adımlar gerektirir. İbn Sînâ, Gazzâlî, İbn Rüşd ve Molla Sadrâ burada kendi metinlerinden değil, yalnızca ansiklopedi özetlerinden okundu; Hume'un *Diyaloglar*'ına ve Gazzâlî'nin *el-İktisâd*'ına henüz başvurulmadı; Tabâtabâî'nin versiyonu ele alınmadı. İlahi basitliğin açıklaması klasik görüşün bir özetidir; bu konuda hiçbir kaynak okunmadı."
   en: "The regress objection fails against the classical arguments, but the arguments themselves are respected rather than decisive: most professional philosophers are not persuaded. Getting from a necessary being to the one personal God takes further, weaker steps. Ibn Sina, al-Ghazali, Ibn Rushd and Mulla Sadra were read here only through encyclopedia summaries, not in their own texts; Hume's *Dialogues* and al-Ghazali's *al-Iqtiṣād* have not yet been consulted; Ṭabāṭabāʾī's version was not covered. The explanation of divine simplicity is a summary of the classical view; no source on it was read."
 visualizations:
   - id: ideas
@@ -129,6 +125,17 @@ fullAnswer:
       **Is it allowed to keep thinking about it?** In this page's reading (no commentator on the hadith was read), the hadith address the whisper — the thought that comes as an attack and a loop — not philosophy: Muslim scholars from al-Ghazali to Mulla Sadra wrote at length on exactly this question (below). A useful test: if thinking it through brings understanding, it is inquiry. If it brings only fear, repetition and a need to check again and again, it is the whisper, and the advice is to stop engaging it.
 
       > **If it is OCD.** Unwanted, intrusive religious thoughts that "trigger intensely distressing feelings", and fears such as "Fear of committing blasphemy, or offending/angering God", can be scrupulosity, a form of OCD (International OCD Foundation). It responds to treatment: cognitive behaviour therapy with exposure and response prevention, sometimes with medication, and sometimes with help from a faith leader. See iocdf.org, or findahelpline.com for free support lines in many countries.
+    tr: |-
+      **Hz. Peygamber (s.a.v.) bu düşüncenin geleceğini biliyordu ve ona sahip olan kişiye kâfir demedi.** "Şeytan birinize gelir ve 'Falanı kim yarattı?' der, ta ki 'Rabbini kim yarattı?' diyene kadar. Böyle bir soru ilham ettiğinde, kişi Allah'a sığınsın ve bu tür düşünceleri bıraksın" ({hadith:bukhari:3276}, Ebû Hüreyre'den (r.a.)). Başka bir rivayette: "İnsanlar birbirlerine soru sormaya devam edecekler, ta ki şu ortaya atılana kadar: Allah her şeyi yarattı, peki Allah'ı kim yarattı? Kim kendini böyle bir durumla karşı karşıya bulursa şöyle desin: Allah'a iman ettim" ({hadith:muslim:134a}).
+
+      **Bir düşünceden rahatsız olmak imanın kaybı değil, işaretidir.** Sahâbîler Hz. Peygamber'e (s.a.v.), "Gerçekten içimizde, her birimizin söylemeyi çok ağır bulduğu şeyler hissediyoruz" dediğinde, o "Gerçekten bunu hissediyor musunuz?" diye sordu ve "İşte bu imanın ta kendisidir" buyurdu ({hadith:muslim:132a}). Sıkıntı, imanın tepkisidir.
+
+      **Bunu düşünmeye devam etmeye izin var mı?** Bu sayfanın okumasına göre (hadis hakkında hiçbir şârih okunmadı), hadisler felsefeye değil, vesveseye — bir saldırı ve bir döngü olarak gelen düşünceye — hitap eder: Gazzâlî'den Molla Sadrâ'ya kadar Müslüman âlimler tam da bu soru üzerine uzun uzun yazdı (aşağıda). Yararlı bir ölçü: Onu düşünüp taşınmak anlayış getiriyorsa, bu bir araştırmadır. Yalnızca korku, tekrar ve tekrar tekrar kontrol etme ihtiyacı getiriyorsa, bu vesvesedir ve tavsiye onunla uğraşmayı bırakmaktır.
+
+      > **OKB ise.** "Son derece sıkıntı verici duyguları tetikleyen" istenmeyen, zihne zorla giren dinî düşünceler ve "küfre düşme ya da Allah'ı gücendirme/kızdırma korkusu" gibi korkular, bir OKB biçimi olan dinî vesvese (skrupülozite) olabilir (Uluslararası OKB Vakfı). Tedaviye cevap verir: maruz bırakma ve tepki önleme içeren bilişsel davranışçı terapi, bazen ilaçla ve bazen bir din önderinin yardımıyla. iocdf.org'a ya da pek çok ülkedeki ücretsiz destek hatları için findahelpline.com'a bak.
+    title:
+      en: Soru zihne zorla girmeye devam ediyorsa
+      tr: Soru zihne zorla girmeye devam ediyorsa
   - kind: quran
     en: |-
       **"Created by nothing?" (52:35).** "Or were they created by nothing, or were they the creators [of themselves]?" (52:35), Meccan, in a series of questions put to the Quraysh. Ibn Kathir: "Allah asks them, were they created without a maker or did they create themselves? Neither is true." Al-Jalālayn: "It makes no sense for a created thing to have no creator." Ibn Kathir also reports that Jubayr ibn Mutʿim, hearing the Prophet (pbuh) recite this sura in the sunset prayer before he became Muslim, said: "I felt my heart would fly away" (Ibn Kathir, citing al-Bukhari and Muslim).
@@ -136,6 +143,15 @@ fullAnswer:
       **The verse's logic.** It lists the options for anything that came into existence: from nothing, from itself, or from another. The first two are rejected as absurd; the third is left for the listener to draw. The argument applies to what was *created* — to "them".
 
       **God is not of that kind (112).** "Say, 'He is Allah, [who is] One, Allah, the Eternal Refuge. He neither begets nor is born, Nor is there to Him any equivalent'" (112:1–4), Meccan. *Al-Ṣamad*, "the Eternal Refuge", is the one on whom all depend, who depends on none. "He neither begets nor is born" denies that God has an origin.
+    tr: |-
+      **"Hiçbir şey olmadan (yani yaratıcısız) mı yaratıldılar?" (52:35).** "Yoksa onlar, hiçbir şey olmadan (yani yaratıcısız) mı yaratıldılar? Yoksa kendileri yaratıcı mıdırlar?" (52:35), Mekkî, Kureyş'e yöneltilen bir dizi sorunun içinde. İbn Kesîr: "Allah onlara, bir yaratıcı olmadan mı yaratıldıklarını yoksa kendilerini mi yarattıklarını soruyor. İkisi de doğru değildir." *Celâleyn*: "Yaratılmış bir şeyin yaratıcısı olmaması anlamsızdır." İbn Kesîr ayrıca, Cübeyr b. Mut'im'in, henüz Müslüman olmadan önce Hz. Peygamber'in (s.a.v.) akşam namazında bu sûreyi okuduğunu duyunca şöyle dediğini aktarır: "Kalbim uçacak gibi oldu" (İbn Kesîr, Buhârî ve Müslim'e atıfla).
+
+      **Âyetin mantığı.** Âyet, var olan her şey için seçenekleri sayar: hiçbir şeyden, kendinden ya da başkasından. İlk ikisi saçma olarak reddedilir; üçüncüsünü dinleyicinin çıkarmasına bırakılır. Argüman *yaratılmış* olana — "onlara" — uygulanır.
+
+      **Allah o türden değildir (112).** "De ki; O Allah bir tektir. Allah eksiksiz, sameddir … Doğurmadı ve doğurulmadı O 'na bir denk de olmadı." (112:1–4), Mekkî. *Es-Samed*, herkesin O'na muhtaç olduğu, kendisi ise hiçbir şeye muhtaç olmayandır. "Doğurmadı ve doğurulmadı" ifadesi Allah'ın bir kökeni olduğunu reddeder.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: scholars
     en: |-
       **Three key terms, in everyday words.**
@@ -152,6 +168,24 @@ fullAnswer:
       **Mulla Sadra's version.** Mulla Sadra, in *al-Ḥikma al-mutaʿāliya* (the *Asfār*), starts not from contingent things but from existence itself. He treats existence as one reality that differs among its instances "only in perfection and imperfection and in intensity and weakness", and calls the Necessary Existent "Pure Existence than which nothing is more complete" (*Wikipedia*, "Seddiqin argument"). The idea: existence, followed to its most complete degree, is God.
 
       **Divine simplicity, in plain words.** Classical theism holds that God has no parts — not physical parts, and not even a distinction between what He is and that He is. Something made of parts depends on its parts and on whatever put them together, so it would be contingent. That is why, on this view, a necessary being must be simple. This is also the reply to Dawkins: the argument is not for a complex designer who would need explaining, but for a simple ground of existence.
+    tr: |-
+      **Gündelik kelimelerle üç anahtar terim.**
+      - **Mümkün** (*mümkin*): var olan ama var olmayabilecek olan bir şey. Sen, bu masa, Güneş. Varlığı "ödünç"tür: Neden var olduğunu açıklamak için başka bir şeye ihtiyaç duyar.
+      - **Zorunlu** (*vâcibü'l-vücûd*, "varlığı zorunlu"): varlığı ödünç olmayan bir şey — var olmaması mümkün değildir. Bir sebebe ihtiyaç duymaz; bir istisna olduğu için değil, "bir sebebe ihtiyaç duymak" mümkün olmanın anlamı olduğu için.
+      - **Başlar** (*hudûs*, "sonradan olma"): var olmadıktan sonra var olmak. Başlayan her şey mümkündür.
+
+      **Kelâm argümanı (Gazzâlî).** *Kelâm*, İslam'ın akli ilahiyatıdır. Gazzâlî'nin *Tehâfütü'l-Felâsife*'deki versiyonu: "Başlayan her varlığın başlaması için bir sebebi vardır; âlem de başlayan bir varlıktır" (*Wikipedia*'nın çevirisi). Ayrıca başlangıçsız bir evrenin ve geçmiş olayların bilfiil sonsuzluğunun saçma olduğunu savundu. Bu, bugün "kelâm kozmolojik argümanı" denen argümanın kaynağıdır; modern biçimi şudur: "Var olmaya başlayan her şeyin bir sebebi vardır"; "Evren var olmaya başladı"; öyleyse evrenin bir sebebi vardır (*Wikipedia*).
+
+      **İbn Sînâ'nın "sıddîkların burhanı" (*burhânü's-sıddîkîn*).** İbn Sînâ, *el-İşârât ve't-Tenbîhât*'ın dördüncü bölümünde ve *en-Necât* ile *eş-Şifâ*'da, bir başlangıçtan değil, mümkünlükten yola çıkarak argüman getirir. Mümkün bir şey dış bir sebebe ihtiyaç duyar. Bunu mümkün şeylerin bütün toplamına (*cümle*) uygula — sonsuz olsa bile: Toplamın da kendi dışında bir sebebe ihtiyacı vardır ve o sebep mümkün olamayacağına göre, zorunlu olmalıdır (*Wikipedia*, "Seddiqin argument"). Eleştirmenler bir bütünün parçalarının özelliklerini paylaşmak zorunda olmadığını öne sürdüğünde, İbn Sînâ bunu bir kabul olarak görür: "Bir bakıma, aranan şey tam da budur." Ayrıca bir şeyin mahiyetinin (*ne* olduğunun) varlığını (*var* olduğunu) açıklamadığını, dolayısıyla varlığın ona bir sebep tarafından verilmesi gerektiğini savundu (*Wikipedia*, "Cosmological argument").
+
+      **Gazzâlî filozoflara karşı — ve İbn Rüşd Gazzâlî'ye karşı.** Gazzâlî bir yaratıcıyı kabul etti, ama filozofların (en başta İbn Sînâ'nın) metafiziklerini başka yerlerde kullandıkları mantıkla *ispat edemeyeceklerini* savundu; tezlerinden üçünü küfür saydı, birincisi "âlemin kıdemi teorisi"ydi (*Wikipedia*). İbn Rüşd'ün *Tehâfütü't-Tehâfüt*'ü "filozofların öğretilerini savunur ve Gazzâlî'nin kendi argümanlarını eleştirir" (*Wikipedia*). Allah'ın var olduğu konusunda hemfikirdiler; âlemin bir başlangıcı olup olmadığı ve Allah'ın sebepliğinin nasıl işlediği konusunda ayrıldılar.
+
+      **Molla Sadrâ'nın versiyonu.** Molla Sadrâ, *el-Hikmetü'l-müteâliye*'de (*Esfâr*), mümkün şeylerden değil, varlığın kendisinden başlar. Varlığı, örnekleri arasında "yalnızca kemal ve noksanlıkta, şiddet ve zaaf bakımından" farklılaşan tek bir hakikat olarak ele alır ve Vâcibü'l-Vücûd'u "kendisinden daha tam hiçbir şey olmayan Saf Varlık" olarak adlandırır (*Wikipedia*, "Seddiqin argument"). Fikir şu: Varlık, en tam derecesine kadar izlendiğinde, Allah'tır.
+
+      **Sade bir dille ilahi basitlik.** Klasik teizm, Allah'ın hiçbir parçası olmadığını kabul eder — ne fiziksel parçaları ne de O'nun ne olduğu ile var olduğu arasında bir ayrım. Parçalardan oluşan bir şey parçalarına ve onları bir araya getirene bağlıdır, dolayısıyla mümkün olur. Bu görüşe göre zorunlu bir varlığın basit olması gerekmesinin sebebi budur. Dawkins'e cevap da budur: Argüman açıklanmaya ihtiyaç duyacak karmaşık bir tasarımcı için değil, varlığın basit bir temeli içindir.
+    title:
+      en: Müslüman filozoflar ve kelâmcılar neyi savundu?
+      tr: Müslüman filozoflar ve kelâmcılar neyi savundu?
   - kind: reasoning
     en: |-
       **The objection in full.** Hume and Russell press two related points.
@@ -165,6 +199,21 @@ fullAnswer:
       3. *Against the Hume–Edwards principle.* Explaining each member of an infinite chain by an earlier member never explains why there is a chain at all, rather than none. Ibn Sina's point was that the whole collection is still contingent and so still needs a cause.
 
       *Limit:* each step can be resisted. One can deny that there must be any explanation for the existence of things (Russell's position), or that our sense that the universe "could have been otherwise" tracks real possibility. The argument then rests on the principle that existence needs explaining — a principle many find compelling and some reject.
+    tr: |-
+      **İtirazın tamamı.** Hume ve Russell birbiriyle ilişkili iki noktada ısrar eder.
+      - *Zorunlu olan şey evren olabilir.* Bir şeyin sebepsiz var olması gerekiyorsa, neden evren (ya da onun temel malzemesi ya da kanunları) olmasın? Allah'ı eklemek ikinci bir sır eklemek gibi görünür.
+      - *Ya da hiçbir şeyin zorunlu olması gerekmez.* 1948 tartışmasında Copleston, şeylerin bütününün "kendi varlığının sebebini kendi içinde taşıyan bir varlığa" ihtiyaç duyduğunu savundu. Russell öncülü reddetti: "Bence açıklamasızdır" ve "zorunlu" kelimesini "şeylere değil, yalnızca analitik önermelere uygulandığında anlamı olan, işe yaramaz bir kelime" olarak nitelendirdi (tartışma metni). Bu görüşe göre evren bir *kaba olgudur* (brute fact): sadece vardır.
+      - *Parçalar ve bütün noktası.* "Hume–Edwards ilkesi" şöyle der: "Bir kümenin her üyesinin varlığı açıklanmışsa, o kümenin varlığı da böylece açıklanmış olur" (*Wikipedia*). Evrendeki her şey daha önceki şeylerle açıklanıyorsa, bütün için başka bir şeye gerek yoktur.
+
+      **Bir argüman olarak cevap.**
+      1. *Zorunlu bir şey nasıl olmalıdır?* Zorunlu bir varlık başka türlü olamazdı; hangi özelliklere sahipse, onlara zorunlu olarak sahiptir. Ama evren tam da başka türlü olabilecek bir şeye benziyor: madde miktarı, kanunları ve sabitleri, hatta varlığı, pek çok olası yoldan biri gibi görünüyor; bilindiği kadarıyla hiçbiri mantık tarafından gerekli kılınmıyor. Özellikleri farklı olabilecek bir şey, tanımı gereği, mümkündür. Dolayısıyla evren zorunlu varlık için zayıf bir adaydır.
+      2. *Kaba olgu neden pahalı bir cevaptır?* Evrenin içindeki hiçbir şey için "sadece orada" cevabını kabul etmeyiz; sebepler ararız. Evrende durmak, sorunun en büyük olduğu noktada tek bir istisna yapmaktır — itirazın teizme yönelttiği özel kayırmanın ta kendisi.
+      3. *Hume–Edwards ilkesine karşı.* Sonsuz bir zincirin her üyesini daha önceki bir üyeyle açıklamak, hiç zincir olmaması yerine neden bir zincir olduğunu asla açıklamaz. İbn Sînâ'nın noktası, bütün toplamın hâlâ mümkün olduğu ve dolayısıyla hâlâ bir sebebe ihtiyaç duyduğuydu.
+
+      *Sınır:* Her adıma direnilebilir. Şeylerin varlığı için herhangi bir açıklama olması gerektiği reddedilebilir (Russell'ın tutumu) ya da evrenin "başka türlü olabileceği" yönündeki sezgimizin gerçek imkânı izlediği reddedilebilir. O zaman argüman varlığın açıklanması gerektiği ilkesine dayanır — pek çoklarının ikna edici bulduğu, bazılarının ise reddettiği bir ilke.
+    title:
+      en: 'En güçlü karşı argüman: Neden zorunlu ya da "kaba olgu" bir evren olmasın?'
+      tr: 'En güçlü karşı argüman: Neden zorunlu ya da "kaba olgu" bir evren olmasın?'
   - kind: science
     en: |-
       **The Borde–Guth–Vilenkin theorem (2003).** It shows that a universe that has, on average, been expanding "cannot be infinite in the past but must have a past spacetime boundary" (*Wikipedia*). [Established, within its assumptions]
@@ -177,6 +226,20 @@ fullAnswer:
       **The quantum-causation challenge.** Critics such as Paul Davies doubt that cause and effect can be defined consistently in fundamental physics; Quentin Smith cites virtual particles as uncaused; Lawrence Krauss proposes that quantum fluctuations could produce a universe. William Lane Craig replies that such events still have "many physically necessary conditions" (*Wikipedia*, "Kalam cosmological argument"). *Limit:* this debate is unresolved; and Vilenkin himself, replying to Craig in 2015, said of the universe's origin, "No cause is needed" (*Wikipedia*, "Borde–Guth–Vilenkin theorem").
 
       **The upshot.** Cosmology fits a beginning but does not prove one. The kalām argument gains support from it; the contingency argument (Ibn Sina's) does not depend on it at all, since it works even for a beginningless universe.
+    tr: |-
+      **Borde–Guth–Vilenkin teoremi (2003).** Ortalamada genişlemekte olan bir evrenin "geçmişte sonsuz olamayacağını, geçmişte bir uzay-zaman sınırı olması gerektiğini" gösterir (*Wikipedia*). [Established, varsayımları dahilinde]
+
+      **Varsayımları ve sınırları.** [Debated]
+      - Klasik uzay-zamana uygulanır; "tekilliğin ne zaman gerçekleştiğini söylemeye izin vermez" ve "geçmişteki başka herhangi bir olayla ilişkili olup olmadığını söylemez" (*Wikipedia*).
+      - Sean Carroll, onun "kuantum kütle çekiminin eksiksiz bir teorisi dikkate alındığında geçerli olmayabileceğini" savunur; Lesnefsky, Easson ve Davies, onun şartını karşılayan ama geçmişte eksiksiz olan klasik modeller kurdu (*Wikipedia*).
+      - Yazarları anlamı konusunda ayrılıyor: Vilenkin evrenin bir başlangıcı olduğunu düşünüyor; Guth ise, Carroll'a göre, düşünmüyor (*Wikipedia*).
+
+      **Kuantum sebepliği itirazı.** Paul Davies gibi eleştirmenler, temel fizikte sebep ve sonucun tutarlı bir şekilde tanımlanabileceğinden şüphe eder; Quentin Smith sanal parçacıkları sebepsiz olarak zikreder; Lawrence Krauss kuantum dalgalanmalarının bir evren üretebileceğini öne sürer. William Lane Craig bu tür olayların hâlâ "fiziksel olarak zorunlu pek çok şartı" olduğu cevabını verir (*Wikipedia*, "Kalam cosmological argument"). *Sınır:* Bu tartışma çözülmüş değil; ve Vilenkin'in kendisi, 2015'te Craig'e cevap verirken evrenin kökeni hakkında "Hiçbir sebebe gerek yok" dedi (*Wikipedia*, "Borde–Guth–Vilenkin theorem").
+
+      **Sonuç.** Kozmoloji bir başlangıca uyar, ama onu ispat etmez. Kelâm argümanı ondan destek alır; mümkünlük argümanı (İbn Sînâ'nınki) ise ona hiç bağlı değildir, çünkü başlangıçsız bir evren için bile işler.
+    title:
+      en: Kozmoloji neyi gösteriyor, neyi göstermiyor?
+      tr: Kozmoloji neyi gösteriyor, neyi göstermiyor?
   - kind: objection
     en: |-
       **"Special pleading: you exempt God from the rule."** *Reply:* the rule was never "everything has a cause". It is "whatever begins, or could fail to exist, has a cause". God, as defined, does neither. *Limit:* the critic can ask why anything should be necessary at all; that is the real debate (above).
@@ -186,6 +249,17 @@ fullAnswer:
       **"Even if there is a necessary being, why the God of the Quran?"** *Limit:* these steps are weaker than the first. Michael Martin argues the kalām argument shows at most that some agent or agents caused the universe (*Wikipedia*).
 
       **"Is this argument specific to Islam?"** *Reply:* no. *Wikipedia* traces the kalām argument to John Philoponus (6th century, a Christian) and to medieval Islamic kalām, including al-Ghazali; its best-known modern defender is the Christian philosopher William Lane Craig, and the modern name "kalām cosmological argument" keeps its Islamic source. In the 1948 debate, Copleston argued from contingency in much the way Ibn Sina did. It is a shared argument of monotheism.
+    tr: |-
+      **"Özel kayırma: Allah'ı kuraldan muaf tutuyorsunuz."** *Cevap:* Kural hiçbir zaman "her şeyin bir sebebi vardır" değildi. "Başlayan ya da var olmayabilecek her şeyin bir sebebi vardır"dı. Tanımlandığı şekliyle Allah ikisini de yapmaz. *Sınır:* Eleştirmen neden herhangi bir şeyin zorunlu olması gerektiğini sorabilir; asıl tartışma budur (yukarıda).
+
+      **"Bir tasarımcı tasarımından daha karmaşık olmalıdır" (Dawkins).** *Cevap:* Klasik argümanlar tasarım argümanları değildir ve klasik teizm Allah'ın karmaşık bir mekanizma değil, basit olduğunu kabul eder. *Sınır:* Eleştirmenler ilahi basitliğin kendisini anlamlandırmayı zor bulur — basit bir varlık pek çok şeyi nasıl bilebilir ve dileyebilir?
+
+      **"Zorunlu bir varlık olsa bile, neden Kur'an'ın Allah'ı?"** *Sınır:* Bu adımlar ilkinden daha zayıftır. Michael Martin, kelâm argümanının en fazla bir ya da birden çok failin evrene sebep olduğunu gösterdiğini savunur (*Wikipedia*).
+
+      **"Bu argüman İslam'a mı özgü?"** *Cevap:* Hayır. *Wikipedia* kelâm argümanını Yahya en-Nahvî'ye (Johannes Philoponus; 6. yüzyıl, bir Hristiyan) ve Gazzâlî dahil ortaçağ İslam kelâmına dayandırır; en bilinen modern savunucusu Hristiyan filozof William Lane Craig'dir ve "kelâm kozmolojik argümanı" şeklindeki modern adı İslami kaynağını korur. 1948 tartışmasında Copleston, İbn Sînâ'nın yaptığına çok benzer şekilde mümkünlükten yola çıkarak argüman getirdi. Bu, tek tanrıcılığın ortak bir argümanıdır.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Kalām theologians (al-Ashʿari, al-Maturidi, al-Ghazali)** — the world began; whatever begins has a cause.
@@ -194,31 +268,53 @@ fullAnswer:
       - **Mulla Sadra** — the argument from existence itself.
       - **Hume, Russell and many modern philosophers** — the universe may be a brute fact; "necessary being" may be meaningless.
       - **Professional philosophers today** — 18.93% accept or lean towards theism, 66.95% towards atheism, 14.63% other (PhilPapers Survey 2020, N = 1,770).
+    tr: |-
+      - **Kelâmcılar (Eş'arî, Mâtürîdî, Gazzâlî)** — âlemin bir başlangıcı vardır; başlayan her şeyin bir sebebi vardır.
+      - **İbn Sînâ ve filozoflar** — başlangıçsız bir âlem bile zorunlu bir sebebe ihtiyaç duyar.
+      - **İbn Rüşd** — filozofları Gazzâlî'ye karşı savundu.
+      - **Molla Sadrâ** — varlığın kendisinden argüman.
+      - **Hume, Russell ve pek çok modern filozof** — evren bir kaba olgu olabilir; "zorunlu varlık" anlamsız olabilir.
+      - **Bugünkü profesyonel filozoflar** — %18,93'ü teizmi kabul ediyor ya da ona yakın duruyor, %66,95'i ateizme, %14,63'ü diğer (PhilPapers Anketi 2020, N = 1.770).
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: Why can't the universe itself be the necessary, uncaused thing?
+      tr: Evrenin kendisi neden zorunlu, sebepsiz şey olamaz?
     a:
       en: Because a necessary thing could not have been otherwise, while the universe — its laws, constants and contents — looks like something that could have been different. See "The strongest counter" for the full argument and its limit.
+      tr: Çünkü zorunlu bir şey başka türlü olamazdı; evren ise — kanunları, sabitleri ve içeriği — farklı olabilecek bir şeye benziyor. Argümanın tamamı ve sınırı için "En güçlü karşı argüman" bölümüne bak.
   - q:
       en: What does "necessary being" mean, and why can't it have a cause?
+      tr: '"Zorunlu varlık" ne demek ve neden bir sebebi olamaz?'
     a:
       en: A being that could not fail to exist. A cause is what explains why something exists rather than not; a necessary being has no "rather than not", so there is nothing for a cause to do.
+      tr: Var olmaması mümkün olmayan bir varlık. Bir sebep, bir şeyin neden var olmamak yerine var olduğunu açıklayan şeydir; zorunlu bir varlığın "var olmamak yerine"si yoktur, dolayısıyla bir sebebin yapacağı bir şey yoktur.
   - q:
       en: If the hadith says seek refuge from this question, am I allowed to keep thinking about it?
+      tr: Hadis bu sorudan Allah'a sığınmayı söylüyorsa, onu düşünmeye devam etmeme izin var mı?
     a:
       en: Yes, as inquiry; the scholars did. The hadith address the whisper that comes as an attack and a loop. If it brings understanding, keep going; if it brings only fear and compulsion, stop engaging it and seek help.
+      tr: Evet, bir araştırma olarak; âlimler de bunu yaptı. Hadisler bir saldırı ve bir döngü olarak gelen vesveseye hitap eder. Anlayış getiriyorsa devam et; yalnızca korku ve zorlantı getiriyorsa, onunla uğraşmayı bırak ve yardım iste.
   - q:
       en: What do "contingent" and "necessary" mean, in everyday words?
+      tr: Gündelik kelimelerle "mümkün" ve "zorunlu" ne demek?
     a:
       en: "Contingent: could have not existed (a person, a mountain). Necessary: could not have not existed."
+      tr: "Mümkün: var olmayabilirdi (bir insan, bir dağ). Zorunlu: var olmaması mümkün değildi."
   - q:
       en: What are *kalām*, *ḥudūth* and *wājib al-wujūd*?
+      tr: "*Kelâm*, *hudûs* ve *vâcibü'l-vücûd* nedir?"
     a:
       en: "*Kalām*: Islamic rational theology. *Ḥudūth*: the beginning of something's existence. *Wājib al-wujūd*: the being whose existence is necessary."
+      tr: "*Kelâm*: İslam'ın akli ilahiyatı. *Hudûs*: bir şeyin varlığının başlaması. *Vâcibü'l-vücûd*: varlığı zorunlu olan varlık."
   - q:
       en: Is this argument specific to Islam, or the same one Christian philosophers use?
+      tr: Bu argüman İslam'a mı özgü, yoksa Hristiyan filozofların kullandığıyla aynı mı?
     a:
       en: 'It is shared: its best-known modern form, the "kalām cosmological argument", keeps the name of its Islamic source, and its best-known modern defender, William Lane Craig, is a Christian philosopher.'
+      tr: 'Ortaktır: En bilinen modern biçimi olan "kelâm kozmolojik argümanı" İslami kaynağının adını korur ve en bilinen modern savunucusu William Lane Craig bir Hristiyan filozoftur.'
 legacySources:
   - *a1
   - *a2
@@ -227,3 +323,4 @@ legacySources:
   - *a5
   - *a6
   - *a7
+translatedFrom: docs/research/tr/Q17.md

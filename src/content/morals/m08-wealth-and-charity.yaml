@@ -15,7 +15,7 @@ verses:
   - 59:7
   - 9:34
 summary:
-  tr: Zekât fakirin servetteki hakkıdır, bir lütuf değil. Servet yalnızca zenginler arasında dolaşmamalı.
+  tr: "İslam'da servet bir emanettir: adil yoldan kazanılır, paylaşılır — muhtaçların onda bir hakkı vardır, bir lütuf değil — ve dolaşımda tutulur, \"Ta ki içinizden yalnız zenginler arasında dolaşan bir şey olmasın.\" (59:7). Sadaka çoğalır, \"bir tanenin durumu gibidir ki, yedi başak bitirmiş ve her başakta yüz tane var\" (2:261) ve ticarette hile kınanır (83:1–3)."
   en: 'Wealth in Islam is a trust: earned fairly, shared — the needy have a right in it, not a favour — and kept moving, "so that it will not be a perpetual distribution among the rich from among you" (59:7). Charity multiplies "like a seed [of grain] which grows seven spikes; in each spike is a hundred grains" (2:261), and cheating in trade is condemned (83:1–3).'
 teachings:
   tr: |
@@ -66,10 +66,7 @@ stories:
     - **Waqf**: across Islamic history, endowments funded hospitals, schools, water fountains, soup kitchens (*imaret*), and even care for stray animals and migratory birds. Ottoman foundations ran a large share of public services for centuries.
     - The **ḥisba** office (market inspector, *muḥtasib*) checked weights, measures and fraud in markets.
 gaps:
-  tr: |
-    - Bugünkü "İslami finansın" büyük kısmı, Müslüman iktisatçılar (ör. Mahmoud El-Gamal) tarafından, farklı ve daha adil bir finans kurmak yerine faizli ürünleri yeni adlarla kopyalamakla ("şeriat arbitrajı") eleştirildi.
-    - Zekât toplama pek çok Müslüman çoğunluklu ülkede zayıf ya da gayriresmîdir ve birçoğunda eşitsizlik yüksektir.
-    - İslam iktisadının büyük ölçekte daha iyi işlediği kanıtlanmış değildir; dürüstçe gösterilebilecek olan, ilkeleri ve sicilidir.
+  tr: Dört mezhebin zekât konusundaki kendi eserlerine, Avrupa Konseyi'nin konut kredisi kararına karşı argümanlara, emeklilik fonlarıyla ilgili hükümlere ve zekâtın bağımsız değerlendirmelerine henüz başvurulmadı. Müslüman toplumlarda eşitsizlik yüksektir ve toplanan zekât çoğu zaman potansiyelinin çok altındadır; bu konuda hiçbir veri okunmadı.
   en: The four schools' own works on zakāh, the arguments against the European Council's mortgage ruling, rulings on pensions, and independent evaluations of zakāh have not yet been consulted. Muslim societies have high inequality, and zakāh collection is often far below its potential; no data on this was read.
 visualizations:
   - id: ideas
@@ -115,6 +112,10 @@ sources:
 fullAnswer:
   - kind: meaning
     en: '**Zakāh and ṣadaqa.** *Zakāh* is the obligatory annual alms, usually 2.5% of savings above a threshold (*niṣāb*) held for a lunar year. The root means "purification" and "growth". *Ṣadaqa* is voluntary charity. **Ribā** is usury or interest on loans, forbidden in the Quran (2:275–280).'
+    tr: "**Zekât ve sadaka.** *Zekât*, genellikle bir kameri yıl boyunca elde tutulan ve belli bir eşiğin (*nisâb*) üzerindeki birikimin %2,5'i olan, farz yıllık mali ibadettir. Kökü \"arınma\" ve \"artma\" anlamına gelir. *Sadaka* gönüllü bağıştır. **Ribâ**, Kur'an'da yasaklanan (2:275–280) tefecilik ya da borçlarda faizdir."
+    title:
+      en: Ne anlama geliyor?
+      tr: Ne anlama geliyor?
   - kind: quran
     en: |-
       **Charity that multiplies (2:261).** "The example of those who spend their wealth in the way of Allah is like a seed [of grain] which grows seven spikes; in each spike is a hundred grains. And Allah multiplies [His reward] for whom He wills" (2:261), Medinan.
@@ -128,6 +129,21 @@ fullAnswer:
       **Hoarding (9:34).** "And those who hoard gold and silver and spend it not in the way of Allah — give them tidings of a painful punishment" (9:34), Medinan.
 
       **Neglecting the poor (107:1–3).** "Have you seen the one who denies the Recompense? For that is the one who drives away the orphan And does not encourage the feeding of the poor" (107:1–3), Meccan: denying religion is shown in how one treats the poor.
+    tr: |-
+      **Çoğalan sadaka (2:261).** "Mallarını Allah yolunda harcayanların durumu, bir tanenin durumu gibidir ki, yedi başak bitirmiş ve her başakta yüz tane var. Allah, dilediğine daha da katlar." (2:261), Medenî.
+
+      **İyilik, vermeyi içerir (2:177).** "Fakat eren o kimselerdir ki, Allah'a, ahiret gününe, meleklere, kitaba ve bütün peygamberlere iman edip, yakınlığı olanlara, öksüzlere, yoksullara, yolda kalmışa, dilenenlere ve esirleri kurtarmaya seve seve mal verirler. Namazı kılarlar, zekatı verirler." (2:177). Saheeh International "seve seve" kısmını İngilizcede "in spite of love for it" ("ona duyduğu sevgiye rağmen", yani malı sevmesine rağmen) olarak çevirir. Malı sevmesine rağmen vermek, namazdan önce anılır.
+
+      **Ticarette hile (83:1–3).** "Eksik ölçüp tartanların vay haline! Onlar insanlardan kendilerine bir şey aldıkları zaman tam ölçerler. Kendileri başkalarına bir şey ölçtükleri veya tarttıkları zaman eksik ölçer ve tartarlar." (83:1–3), Mekkî.
+
+      **Servet yalnızca zenginler arasında dolaşmamalı (59:7).** "Allah'ın o kent halkından, Resulüne verdiği ganimetler, Allah'a, Resul'e, ona akrabalığı bulunanlara, yetimlere, yoksullara, yolcuya aittir. Ta ki içinizden yalnız zenginler arasında dolaşan bir şey olmasın." (59:7). Âyet, savaşmadan elde edilen mal olan *fey* (burada Benî Nadîr'den) ve onun nasıl paylaştırıldığı hakkındadır. İlkesini servetin yoğunlaşmasına karşı genel bir kural olarak kullanmak, âlimlerin yaptığı bir genişletmedir ve öyle etiketlenmelidir.
+
+      **İstifçilik (9:34).** "Bir de altın ve gümüşü hazineye doldurup, onları Allah yolunda sarfetmeyenleri bu yüzden acıklı bir azap ile müjdele!" (9:34), Medenî.
+
+      **Yoksulu ihmal etmek (107:1–3).** "Dini yalanlayanı gördün mü? İşte o, öksüzü iter, kakar. Yoksulu doyurmaya önayak olmaz." (107:1–3), Mekkî: Dini yalanlamak, insanın yoksula nasıl davrandığında görünür.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: fiqh
     en: |-
       **Zakāh on worn jewellery.** For the Hanafi school, zakāh "is obligatory when the nisab is sufficient", whether the jewellery alone or together with other wealth reaches it; for the Maliki, Shafiʿi and Hanbali schools, on permissible adornments that are worn, "zakat is not obligatory" (Mufti of the Federal Territory, Malaysia, citing al-Qaradawi). The named works of each school have not yet been consulted. Monzer Kahf, an economist of Islamic finance, notes that jewellery kept as a store of wealth rather than worn is widely treated as zakatable (IslamOnline).
@@ -139,8 +155,25 @@ fullAnswer:
       **Student loans.** The Assembly of Muslim Jurists of America (AMJA), in a 2011 fatwa by Dr. Main Khalid al-Qudah, holds that "the default is the forbiddance of interest-based loans", but allows a student loan as an "urgent necessity" if all alternatives (scholarships, grants, work-study, subsidised loans) are exhausted, the loan is the only way to study, only the needed amount is borrowed, qualified scholars assess the need, and it is repaid as soon as possible. The necessity "removes the sin even though the ruling of impermissibility remains."
 
       **Pensions.** Rulings on pensions have not yet been consulted.
+    tr: |-
+      **Kullanılan mücevherin zekâtı.** Hanefî mezhebine göre zekât, mücevher tek başına ya da diğer mallarla birlikte nisaba ulaştığında, "nisap yeterli olduğunda farzdır"; Mâlikî, Şâfiî ve Hanbelî mezheplerine göre ise kullanılan, mubah süs eşyaları için "zekât farz değildir" (Malezya Federal Bölge Müftülüğü, Karadâvî'ye atıfla). Her mezhebin adı belli eserlerine henüz başvurulmadı. İslami finans iktisatçısı Münzir Kahf, takılmayıp servet olarak saklanan mücevherin yaygın olarak zekâta tabi sayıldığını not eder (IslamOnline).
+
+      **Nisap.** "Altın için bilinen nisap 85 gramdır" (Federal Bölge Müftülüğü; IslamOnline). Gümüş nisabı (yaygın olarak 595 gram verilir) bir kaynakta doğrulanmadı.
+
+      **Batı'daki Müslümanlar için konut kredisi.** Avrupa Fetva ve Araştırma Konseyi, dördüncü oturumunda (27–31 Ekim 1999), faizin haram olduğunu yeniden teyit etti, ama Avrupa'daki bir Müslümanın evi yoksa ve kredi olmadan ev alamıyorsa, İslami alternatifler mevcut olana "kadar" geleneksel bir konut kredisi almasına izin verdi. Gerekçesi: Bir ihtiyaç (*hâcet*), sıkıntıya yol açtığında "zaruret (*darûret*) derecesine yükseltilebilir"; "Zaruretler haramları mubah kılar" kaidesine göre; ve kiralamak, Müslümanların nerede yaşayabileceğini — örneğin bir camiye ya da okula yakın — kısıtlar (Kamali). Yûsuf el-Karadâvî bu kararı destekledi. Pek çok başka âlim onu reddeder; argümanlarına henüz başvurulmadı.
+
+      **Öğrenim kredileri.** Amerika Müslüman Fakihler Meclisi (AMJA), Dr. Main Khalid el-Kudâh'ın 2011 tarihli bir fetvasında, "faizli kredilerde aslın haramlık olduğunu" kabul eder, ama bütün alternatifler (burslar, hibeler, çalışarak okuma programları, sübvansiyonlu krediler) tükenmişse, kredi okumanın tek yoluysa, yalnızca gereken miktar borç alınıyorsa, ehil âlimler ihtiyacı değerlendiriyorsa ve en kısa sürede geri ödeniyorsa, bir öğrenim kredisine "acil bir zaruret" olarak izin verir. Zaruret, "haramlık hükmü devam etse de günahı kaldırır."
+
+      **Emeklilik fonları.** Emeklilik fonlarıyla ilgili hükümlere henüz başvurulmadı.
+    title:
+      en: Dört mezhep ne diyor?
+      tr: Dört mezhep ne diyor?
   - kind: research
     en: "**Zakat programmes report people lifted out of poverty, but the evidence is weak.** [Mixed.] Indonesia's national zakat agency BAZNAS reports that in 2024 zakat programmes lifted 1,350,227 people out of poverty, including 721,748 from extreme poverty, measured by an annual \"Zakat Impact Assessment survey\" against five poverty standards. The summary does not explain how the effect was attributed to zakat, gives no comparison group, and its provider breakdown (adding to about 1,486,920) does not match the total. These are self-reported programme figures, not independent evaluations."
+    tr: "**Zekât programları insanları yoksulluktan kurtardığını bildiriyor, ama delil zayıf.** [Karışık.] Endonezya'nın ulusal zekât kurumu BAZNAS, 2024'te zekât programlarının 721.748'i aşırı yoksulluktan olmak üzere 1.350.227 kişiyi yoksulluktan kurtardığını bildiriyor; bu, beş yoksulluk ölçütüne göre yıllık bir \"Zekât Etki Değerlendirmesi anketi\" ile ölçülmüş. Özet etkinin zekâta nasıl atfedildiğini açıklamıyor, bir karşılaştırma grubu vermiyor ve kuruluşlara göre dağılımı (toplamı yaklaşık 1.486.920) toplamla uyuşmuyor. Bunlar bağımsız değerlendirmeler değil, programın kendi bildirdiği rakamlardır."
+    title:
+      en: Araştırmalar ne gösteriyor?
+      tr: Araştırmalar ne gösteriyor?
   - kind: practice
     en: |-
       **Calculate zakāh each year**: savings, gold and silver above the *niṣāb*, business stock; 2.5%. Ask a local scholar which school's rule on jewellery you follow.
@@ -150,39 +183,70 @@ fullAnswer:
       **Give "in spite of love for it"** (2:177): something you would rather keep, not only what is left over.
 
       **If you have a mortgage, student loan or pension**, find out what the scholars you trust say, look for Islamic alternatives, and avoid the guilt-driven extremes of either ignoring the question or despairing over it.
+    tr: |-
+      **Zekâtını her yıl hesapla**: birikimler, nisabın üzerindeki altın ve gümüş, ticari mallar; %2,5. Mücevher konusunda hangi mezhebin hükmünü izlediğini yerel bir âlime sor.
+
+      **Ticaretini kontrol et.** Doğru tartılar, dürüst tarifler, adil fiyatlar, gizli kusur yok (83:1–3).
+
+      **"Malı sevmesine rağmen" ver** (2:177): yalnızca artakalanı değil, elinde tutmayı tercih edeceğin bir şeyi.
+
+      **Konut kredin, öğrenim kredin ya da emeklilik fonun varsa**, güvendiğin âlimlerin ne dediğini öğren, İslami alternatifler ara ve suçluluk duygusuyla iki uca — soruyu görmezden gelmeye ya da onun yüzünden umutsuzluğa düşmeye — kapılmaktan kaçın.
+    title:
+      en: Günlük hayatta
+      tr: Günlük hayatta
   - kind: heart
     en: |-
       **If you are poor or in debt**, the Quran names you as having a right in the wealth of others, and tells creditors to give time to debtors in hardship (2:280). Zakāh is for you; asking for it is not shameful. Debt advice services in your country can help with practical steps.
 
       **If you already have an interest-bearing loan and feel you are sinning**, you are not alone, and scholars differ on the conditions under which it is excused (the European Council; AMJA). Talk to a scholar you trust about your situation, and do what you can to reduce interest.
+    tr: |-
+      **Yoksulsan ya da borçluysan**, Kur'an başkalarının servetinde senin bir hakkın olduğunu söyler ve alacaklılara darlık içindeki borçlulara süre tanımalarını emreder (2:280). Zekât senin içindir; onu istemek utanılacak bir şey değildir. Ülkendeki borç danışmanlığı hizmetleri pratik adımlarda yardımcı olabilir.
+
+      **Zaten faizli bir kredin varsa ve günah işlediğini hissediyorsan**, yalnız değilsin ve âlimler bunun hangi şartlarda mazur görüleceği konusunda farklı görüşlere sahip (Avrupa Konseyi; AMJA). Durumunu güvendiğin bir âlimle konuş ve faizi azaltmak için elinden geleni yap.
+    title:
+      en: Zorlanan kişi için
+      tr: Zorlanan kişi için
 followUps:
   - q:
       en: Do I owe zakāh on my jewellery?
+      tr: Mücevherim için zekât borçlu muyum?
     a:
       en: In the Hanafi school, yes, once it reaches the *niṣāb*; in the Maliki, Shafiʿi and Hanbali schools, not on jewellery that is worn.
+      tr: Hanefî mezhebinde, nisaba ulaştığında evet; Mâlikî, Şâfiî ve Hanbelî mezheplerinde, takılan mücevher için hayır.
   - q:
       en: What is the *niṣāb*?
+      tr: Nisap nedir?
     a:
       en: 85 grams of gold (or its value). The silver figure was not confirmed here.
+      tr: 85 gram altın (ya da değeri). Gümüş rakamı burada doğrulanmadı.
   - q:
       en: I have a mortgage — am I sinning?
+      tr: Konut kredim var — günah mı işliyorum?
     a:
       en: Interest is forbidden. The European Council for Fatwa (1999) allowed a mortgage for a first home in Europe under strict need; others disagree. Ask a scholar about your case.
+      tr: Faiz haramdır. Avrupa Fetva Konseyi (1999), Avrupa'da ilk ev için, sıkı bir ihtiyaç şartıyla konut kredisine izin verdi; başkaları katılmıyor. Durumunu bir âlime sor.
   - q:
       en: Is a student loan allowed?
+      tr: Öğrenim kredisi caiz mi?
     a:
       en: AMJA (2011) allows it only as a last resort, under strict conditions.
+      tr: AMJA (2011) buna yalnızca son çare olarak, sıkı şartlarla izin veriyor.
   - q:
       en: Does zakāh actually reduce poverty?
+      tr: Zekât gerçekten yoksulluğu azaltıyor mu?
     a:
       en: Indonesia's agency reports large numbers, but without independent evaluation; the evidence is not strong.
+      tr: Endonezya'nın kurumu büyük rakamlar bildiriyor, ama bağımsız bir değerlendirme olmadan; delil güçlü değil.
   - q:
       en: Does 59:7 forbid inequality?
+      tr: 59:7 eşitsizliği yasaklıyor mu?
     a:
       en: It is about *fayʾ*; using it as a general economic principle is a scholarly extension.
+      tr: "*Fey* hakkındadır; onu genel bir iktisadi ilke olarak kullanmak âlimlerin yaptığı bir genişletmedir."
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
   - *a5
+translatedFrom: docs/research/tr/M8.md

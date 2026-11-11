@@ -12,7 +12,7 @@ title:
   tr: Dil âdâbı
   en: Ethics of speech
 summary:
-  tr: Alay yok, gıybet yok, kötü zan yok. Ya hayır söyle ya sus.
+  tr: "Kur'an alay etmeyi, kötü lakapları, zannı, kusur araştırmayı ve gıybeti yasaklar ve gıybete çarpıcı bir benzetme verir: \"Biriniz, ölmüş kardeşinin etini yemekten hoşlanır mı? İşte bundan tiksindiniz.\" (49:12). Ama birinin yanlışından söz etmek her zaman yasak değildir: Âlimler bunun caiz, hatta gerekli olduğu durumları — haksızlıktan şikâyet etmek, başkalarını zarara karşı uyarmak — tek tek saydı."
   en: "The Quran forbids mockery, insulting nicknames, suspicion, spying and backbiting, and gives backbiting a striking image: \"Would one of you like to eat the flesh of his brother when dead? You would detest it\" (49:12). But speaking about someone's wrong is not always forbidden: scholars set out cases — complaining of injustice, warning others of harm — where it is allowed or even required."
 teachings:
   tr: |
@@ -23,7 +23,7 @@ scholarship:
   tr: Gazzâlî'nin yirmi "dil âfeti".
   en: Al-Ghazālī's twenty "calamities of the tongue".
 gaps:
-  tr: Şüphe yaşayanlara yönelik çevrim içi hakaret ve saldırılar.
+  tr: Nevevî'nin altı durumunun kaynağı, çevirmeninin ve asıl eserin adı verilmemiş İngilizce bir e-kitaptır. Gazzâlî'nin yirmi âfetinin tam listesine henüz başvurulmadı. İfade özgürlüğü ve dine hakaret kanunları ele alınmıyor. Müslüman toplulukları, diğerleri gibi, bu öğretiyi çoğu zaman yerine getiremiyor — dedikodu yaygındır — ve bu sayfa aksini iddia etmiyor.
   en: The source for al-Nawawi's six cases is an English e-book whose translator and original work were not named. The full list of al-Ghazali's twenty banes has not yet been consulted. Free speech and blasphemy laws are not discussed. Muslim communities, like others, often fail this teaching — gossip is common — and this page does not claim otherwise.
 visualizations:
   - id: ideas
@@ -46,16 +46,34 @@ sources:
 fullAnswer:
   - kind: meaning
     en: "**Ghība and buhtān.** *Ghība* (backbiting) is saying about someone, in their absence, what they would dislike — even if it is true. *Buhtān* (slander) is saying what is false. *Namīma* (talebearing) is carrying words between people to cause trouble."
+    tr: "**Gıybet ve bühtan.** *Gıybet*, biri hakkında, o yokken, hoşlanmayacağı bir şeyi söylemektir — doğru olsa bile. *Bühtan* (iftira) yalan olanı söylemektir. *Nemîme* (koğuculuk), sorun çıkarmak için insanlar arasında söz taşımaktır."
+    title:
+      en: Ne anlama geliyor?
+      tr: Ne anlama geliyor?
   - kind: quran
     en: |-
       **Six forbidden things (49:11–12).** "O you who have believed, let not a people ridicule [another] people; perhaps they may be better than them; nor let women ridicule [other] women… And do not insult one another and do not call each other by [offensive] nicknames… O you who have believed, avoid much [negative] assumption. Indeed, some assumption is sin. And do not spy or backbite each other. Would one of you like to eat the flesh of his brother when dead? You would detest it. And fear Allah; indeed, Allah is Accepting of repentance and Merciful" (49:11–12). Sura al-Hujurat is Medinan and addressed to the believers. The forbidden list moves from public (mockery, nicknames) to private (suspicion, spying, backbiting). The image of eating a dead brother's flesh fits: the person is absent and cannot defend himself.
 
       **Does "your brother" include non-Muslims?** The verse addresses believers and speaks of "his brother". Whether the prohibition extends to non-Muslims has not yet been checked in a named commentary. The general commands of justice (5:8) and good speech apply to everyone, and slander is forbidden against anyone.
+    tr: |-
+      **Yasak altı şey (49:11–12).** "Ey iman edenler! Bir topluluk diğer bir toplulukla alay etmesin. Belki de onlar, kendilerinden daha iyidirler. Kadınlar da kadınları alaya almasınlar… Kendi kendinizi ayıplamayın, birbirinizi kötü lakaplarla çağırmayın… Ey iman edenler! Zannın bir çoğundan kaçının. Çünkü zannın bir kısmı günahtır. Birbirinizin kusurunu araştırmayın. Biriniz diğerini arkasından çekiştirmesin. Biriniz, ölmüş kardeşinin etini yemekten hoşlanır mı? İşte bundan tiksindiniz. O halde Allah'tan korkun. Şüphesiz Allah, tevbeyi çok kabul edendir, çok merhamet edendir." (49:11–12). Hucurât Sûresi Medenîdir ve müminlere hitap eder. Yasaklar listesi açıktan (alay, lakaplar) gizliye (zan, kusur araştırma, gıybet) doğru ilerler. Ölmüş bir kardeşin etini yeme benzetmesi yerindedir: Kişi orada değildir ve kendini savunamaz.
+
+      **"Kardeşi" gayrimüslimleri de kapsar mı?** Âyet müminlere hitap eder ve "kardeşinden" söz eder. Yasağın gayrimüslimleri de kapsayıp kapsamadığı adı belli bir tefsirde henüz kontrol edilmedi. Adaletle (5:8) ve güzel sözle ilgili genel emirler herkes için geçerlidir ve iftira herkese karşı yasaktır.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **What backbiting is.** The Prophet (pbuh) asked: "Do you know what is backbiting?" and answered: "Backbiting implies your talking about your brother in a manner which he does not like." Asked what if it is true, he said: "If (that failing) is actually found (in him) what you assert, you in fact backbited him, and if that is not in him it is a slander" ({hadith:muslim:2589}, narrated by Abu Hurayra). So truth is not a defence: true but hurtful gossip is still backbiting.
 
       **When an untruth is allowed.** Umm Kulthum bint ʿUqba (ra) reports the Prophet (pbuh) as saying: "The liar is not the one who reconciles between people: he says good, and conveys good." The narrator Ibn Shihab al-Zuhri then adds: "I have not heard of permission being granted in anything that people call lying except in three cases": war, reconciling people, and what a husband and wife say to each other ({hadith:muslim:2605a}). The list of three is al-Zuhri's, not the Prophet's (pbuh) words. What the Prophet (pbuh) said is narrower: making peace by saying good things is not lying.
+    tr: |-
+      **Gıybet nedir?** Hz. Peygamber (s.a.v.), "Gıybet nedir, biliyor musunuz?" diye sordu ve şöyle cevap verdi: "Gıybet, kardeşinden onun hoşlanmayacağı bir şekilde söz etmendir." Söylenen şey doğruysa ne olacağı sorulunca şöyle buyurdu: "Söylediğin (kusur) onda gerçekten varsa onu gıybet etmiş olursun; onda yoksa bu bir iftiradır" ({hadith:muslim:2589}, Ebû Hüreyre'den). Yani doğruluk bir savunma değildir: Doğru ama incitici dedikodu da gıybettir.
+
+      **Doğru olmayan söze ne zaman izin verilir?** Ümmü Gülsüm bint Ukbe (r.a.), Hz. Peygamber'in (s.a.v.) şöyle buyurduğunu aktarır: "İnsanların arasını düzelten kimse yalancı değildir: hayır söyler ve hayır iletir." Râvi İbn Şihâb ez-Zührî ardından şunu ekler: "İnsanların yalan dediği şeylerin hiçbirinde, üç durum dışında, izin verildiğini duymadım": savaş, insanların arasını düzeltmek ve karı kocanın birbirine söyledikleri ({hadith:muslim:2605a}). Üç durum listesi Hz. Peygamber'in (s.a.v.) sözü değil, Zührî'nindir. Hz. Peygamber'in (s.a.v.) söylediği daha dardır: Güzel şeyler söyleyerek barış sağlamak yalan değildir.
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: |-
       **Al-Nawawi's six cases where speaking about someone is allowed.** Al-Nawawi (d. 1277), the great Shafiʿi scholar, lists them (as translated in "Guarding the Tongue"):
@@ -67,12 +85,37 @@ fullAnswer:
       6. **Identifying someone by a known nickname**, not to demean, and a neutral description is better.
 
       **Al-Ghazali's banes of the tongue.** In Book 24 of the *Iḥyāʾ*, al-Ghazali (d. 1111) lists twenty banes of the tongue, "beginning with the least serious to the most egregious", including excessive speech, lying, backbiting, scandalmongering, obscenity, arguing, disputation and exposing others' faults (translators' introduction, Fons Vitae, 2024). The full list was not available in the introduction read.
+    tr: |-
+      **Nevevî'nin, biri hakkında konuşmaya izin verilen altı durumu.** Büyük Şâfiî âlim Nevevî (ö. 1277) bunları şöyle sayar ("Guarding the Tongue" çevirisine göre):
+      1. **Haksızlıktan şikâyet etmek** — bir yöneticiye, kadıya ya da hakkı verebilecek herhangi birine: "Falan kişi bana haksızlık etti."
+      2. **Bir yanlışı durdurmak için yardım istemek** — onu durdurabilecek birinden; amaç yanlışı sona erdirmek olmalıdır.
+      3. **Dinî bir hüküm sormak** — ideal olarak kişinin adını vermeden, ama ad vermek de caizdir; Hind'in kocası Ebû Süfyân'ın cimri olduğundan şikâyet etmesini zikreder; Hz. Peygamber (s.a.v.) bunu yasaklamadı.
+      4. **Başkalarını zarara karşı uyarmak** — güvenilmez bir şahit ya da hadis râvisi hakkında ya da bir evliliğe, bir işe veya başka ilişkilere girecek biri hakkında: "Bildiğini o kişiye söylemen sana vaciptir." Fâtıma bint Kays tavsiyesini sorduğunda, Hz. Peygamber'in (s.a.v.) ona iki taliyi açıkça tarif etmesini zikreder. Yalnızca uyarının gerektirdiği kadarı söylenebilir.
+      5. **Açıktan günah işleyen biri** — açığa vurduğu günah hakkında; diğer kusurları hakkında değil.
+      6. **Birini bilinen bir lakabıyla tanıtmak** — küçük düşürmek için değil; tarafsız bir tarif daha iyidir.
+
+      **Gazzâlî'nin dil âfetleri.** Gazzâlî (ö. 1111), *İhyâ*'nın 24. kitabında, "en az ciddi olanından en ağırına doğru" yirmi dil âfeti sayar; aralarında gereksiz söz, yalan, gıybet, koğuculuk, müstehcen söz, münakaşa, cedel ve başkalarının kusurlarını açığa çıkarmak vardır (çevirmenlerin girişi, Fons Vitae, 2024). Listenin tamamı okunan girişte yoktu.
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: fiqh
     en: "**Warning is sometimes required, not just allowed.** In al-Nawawi's fourth case, telling someone what you know about a prospective spouse or partner who asks you is \"obligatory\". This answers a common worry: warning about an abuser or a fraud is not backbiting when it protects someone and says only what is needed."
+    tr: "**Uyarmak bazen yalnızca caiz değil, gereklidir.** Nevevî'nin dördüncü durumunda, müstakbel bir eş ya da ortak hakkında bildiğini, soran kişiye söylemek \"vaciptir\". Bu yaygın bir kaygıya cevap verir: Bir istismarcı ya da dolandırıcı hakkında uyarmak, birini koruduğunda ve yalnızca gerekeni söylediğinde gıybet değildir."
+    title:
+      en: Fakihler ne diyor?
+      tr: Fakihler ne diyor?
   - kind: history
     en: "**Hadith criticism as permitted speech.** Al-Nawawi's fourth case includes the critique of hadith narrators — the basis of the whole science of judging chains. Scholars openly called narrators liars or weak in memory, and held that this was not forbidden backbiting because it protected the religion from false reports."
+    tr: "**Caiz bir söz olarak hadis tenkidi.** Nevevî'nin dördüncü durumu hadis râvilerinin tenkidini de kapsar — senetleri değerlendirme ilminin bütününün temeli. Âlimler râvilere açıkça yalancı ya da hafızası zayıf dediler ve dini uydurma haberlerden koruduğu için bunun yasak bir gıybet olmadığını kabul ettiler."
+    title:
+      en: Tarih
+      tr: Tarih
   - kind: research
     en: "**No research specifically on Islamic speech ethics was read.** This page makes no scientific claims."
+    tr: "**İslam'ın dil ahlakı üzerine özel olarak hiçbir araştırma okunmadı.** Bu sayfa bilimsel bir iddiada bulunmuyor."
+    title:
+      en: Araştırmalar ne gösteriyor?
+      tr: Araştırmalar ne gösteriyor?
   - kind: practice
     en: |-
       **Before speaking about someone, ask three questions.** Would they dislike it? Is there a need — justice, protection, advice? Am I saying only what the need requires?
@@ -82,36 +125,67 @@ fullAnswer:
       **Warning about an abuser or a dishonest partner.** Tell the person who needs to know, stick to facts you know, and do not spread it further. If it is a crime, report it to those who can act.
 
       **Online.** The same rules apply to posts, comments and group chats, where words spread faster and further.
+    tr: |-
+      **Biri hakkında konuşmadan önce üç soru sor.** Bundan hoşlanmaz mı? Bir ihtiyaç var mı — adalet, korunma, tavsiye? Yalnızca ihtiyacın gerektirdiğini mi söylüyorum?
+
+      **Biri yanında gıybet ettiğinde**, konuyu değiştir, orada olmayan kişiyi savun ya da oradan ayrıl.
+
+      **Bir istismarcı ya da dürüst olmayan bir ortak hakkında uyarmak.** Bilmesi gereken kişiye söyle, bildiğin olgulara bağlı kal ve onu daha fazla yayma. Bir suçsa, harekete geçebilecek olanlara bildir.
+
+      **İnternette.** Aynı kurallar, sözlerin daha hızlı ve daha uzağa yayıldığı paylaşımlar, yorumlar ve grup sohbetleri için de geçerlidir.
+    title:
+      en: Günlük hayatta
+      tr: Günlük hayatta
   - kind: heart
     en: |-
       **If you have been the target of gossip**, the Quran calls what was done to you like eating your flesh. You are allowed to clear your name and to complain to those who can help (al-Nawawi's first case).
 
       **If you have backbitten someone**, the verse ends: "Allah is Accepting of repentance and Merciful" (49:12). Stop, ask God's forgiveness, and, where it will not cause more harm, put things right with the person or speak well of them where you spoke badly.
+    tr: |-
+      **Dedikodunun hedefi olduysan**, Kur'an sana yapılanı etini yemeye benzetir. Adını temize çıkarmana ve yardım edebilecek olanlara şikâyet etmene izin var (Nevevî'nin birinci durumu).
+
+      **Birini gıybet ettiysen**, âyet şöyle biter: "Şüphesiz Allah, tevbeyi çok kabul edendir, çok merhamet edendir." (49:12). Dur, Allah'tan bağışlanma dile ve daha fazla zarara yol açmayacaksa, o kişiyle helalleş ya da kötü konuştuğun yerde onu iyilikle an.
+    title:
+      en: Zorlanan kişi için
+      tr: Zorlanan kişi için
 followUps:
   - q:
       en: When am I allowed to speak about someone's wrongdoing?
+      tr: Birinin yanlışından ne zaman söz etmeme izin var?
     a:
       en: "In al-Nawawi's six cases: seeking justice, seeking help to stop a wrong, asking for a ruling, warning someone of harm, speaking of sin they make public, and neutral identification."
+      tr: "Nevevî'nin altı durumunda: adalet istemek, bir yanlışı durdurmak için yardım istemek, hüküm sormak, birini zarara karşı uyarmak, açığa vurduğu günahtan söz etmek ve tarafsız tanıtma."
   - q:
       en: Does "your brother" in 49:12 include non-Muslims?
+      tr: 49:12'deki "kardeşi" gayrimüslimleri de kapsar mı?
     a:
       en: Not checked in a named commentary. Slander and injustice are forbidden against anyone (5:8).
+      tr: Adı belli bir tefsirde kontrol edilmedi. İftira ve haksızlık herkese karşı yasaktır (5:8).
   - q:
       en: Are there times Islam allows lying, for example to make peace?
+      tr: İslam'ın yalana izin verdiği durumlar var mı, örneğin barış sağlamak için?
     a:
       en: The Prophet (pbuh) said that someone who reconciles people by saying good is not a liar. The list of three cases (war, peace-making, between spouses) is the narrator al-Zuhri's addition.
+      tr: Hz. Peygamber (s.a.v.), güzel söz söyleyerek insanların arasını düzelten kişinin yalancı olmadığını söyledi. Üç durum listesi (savaş, barış sağlama, eşler arası) râvi Zührî'nin eklemesidir.
   - q:
       en: How does this relate to free speech and blasphemy laws?
+      tr: Bunun ifade özgürlüğü ve dine hakaret kanunlarıyla ilişkisi nedir?
     a:
       en: These ethics are about personal conduct. Modern free-speech and blasphemy laws raise legal and political questions that this page does not cover; Muslim scholars and states disagree about them.
+      tr: Bu ahlak kişisel davranışla ilgilidir. Modern ifade özgürlüğü ve dine hakaret kanunları bu sayfanın ele almadığı hukuki ve siyasi soruları gündeme getirir; Müslüman âlimler ve devletler bunlar hakkında farklı görüşlere sahiptir.
   - q:
       en: What are al-Nawawi's six exceptions to ghība?
+      tr: Nevevî'nin gıybetle ilgili altı istisnası nedir?
     a:
       en: See above.
+      tr: Yukarıya bak.
   - q:
       en: What are al-Ghazali's calamities of the tongue?
+      tr: Gazzâlî'nin dil âfetleri nelerdir?
     a:
       en: Twenty "banes" in Book 24 of the *Iḥyāʾ*, from excessive talk to the most serious, including lying and backbiting.
+      tr: "*İhyâ*'nın 24. kitabında, gereksiz sözden en ağırına kadar, yalan ve gıybet dahil yirmi \"âfet\"."
 legacySources:
   - *a1
   - *a2
+translatedFrom: docs/research/tr/M4.md

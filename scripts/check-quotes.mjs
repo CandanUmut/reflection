@@ -45,8 +45,13 @@ function check(text, q, where) {
 const en = load('.cache/quran/en.txt'),
   tr = load('.cache/quran/tr.txt');
 for (const f of readdirSync('docs/research').filter((f) => /^(0[7-9]|[1-9]\d)-.*\.md$/.test(f)))
-  check(readFileSync(`docs/research/${f}`, 'utf8'), en, f);
+  // The reports' own correction lists are notes for Claude, not page text.
+  check(readFileSync(`docs/research/${f}`, 'utf8').split(/^## Corrections to the current pages/m)[0], en, f);
 if (existsSync('content-src/tr-v2'))
   for (const f of readdirSync('content-src/tr-v2')) check(readFileSync(`content-src/tr-v2/${f}`, 'utf8'), tr, f);
+// The Turkish of the research pages (runs 27–39): Elmalılı, word for word.
+if (existsSync('docs/research/tr'))
+  for (const f of readdirSync('docs/research/tr').filter((f) => /^[QMS]\d+\.md$/.test(f)))
+    check(readFileSync(`docs/research/tr/${f}`, 'utf8'), tr, `tr/${f}`);
 console.log(`${ok} quotations match; ${bad} do not.`);
 process.exit(bad ? 1 : 0);

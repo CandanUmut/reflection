@@ -16,7 +16,7 @@ verses:
   - 2:229
   - 4:128
 summary:
-  tr: Evliliğin kendisi bir âyettir. *Meveddet* (sevgi) çoğu zaman gençlik ve çekimle anılır; *rahmet* ise bir evliliği yaşlılık, hastalık ve zorluk boyunca taşır.
+  tr: "Evlilik Allah'ın âyetlerinden biri olarak anılır: \"sizin için nefislerinizden kendilerine ısınırsınız diye eşler yaratmış, aranıza bir sevgi ve merhamet koymuştur\" (30:21). Eşler birbiri için bir \"örtü\"dür (2:187) ve bir evlilik sona ererse \"güzellikle\" sona ermelidir (2:229)."
   en: "Marriage is called one of God's signs: \"He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy\" (30:21). Spouses are \"clothing\" for each other (2:187), and if a marriage ends it must end \"with good treatment\" (2:229)."
 helpCard: urgent
 teachings:
@@ -62,10 +62,7 @@ stories:
     - Khadīja: the Prophet's first wife, older than him, a successful merchant, the first to believe; he remembered her with love for the rest of his life.
     - His gentle handling of household disagreements, recorded in many hadith, without striking any woman (Muslim 2328).
 gaps:
-  tr: |
-    - Türkiye'de 2025'te **552.237** çift evlendi ve **193.793** çift boşandı (kaba boşanma hızı binde **2,26**); boşanmaların **%34**'ü evliliğin ilk beş yılında gerçekleşti (TÜİK, Şubat 2026'da açıklandı).
-    - Aile içi şiddet Türkiye'de ve pek çok Müslüman çoğunluklu toplumda ciddi bir sorundur. Şiddet 30:21 ve 4:19 ile açıkça çelişir.
-    - 4:34 âyeti Q6'da (kadınlar ve eşitlik) ele alınıyor.
+  tr: Gazzâlî'nin evlilik kitabına ve mezheplerin eşlerin haklarına ilişkin hükümlerine henüz başvurulmadı. Gottman rakamları Gottman Enstitüsü'nden geliyor. Aile içi şiddet ve artan boşanma, Müslüman çoğunluklu olanlar da dahil pek çok toplumda ciddi sorunlardır; bu konuda hiçbir veri okunmadı.
   en: Al-Ghazali's book on marriage and the schools' rules on spouses' rights have not yet been consulted. The Gottman figures come from the Gottman Institute. Domestic violence and rising divorce are serious problems in many societies, Muslim-majority ones included; no data on this were read.
 visualizations:
   - id: ideas
@@ -106,6 +103,10 @@ sources:
 fullAnswer:
   - kind: meaning
     en: "**Sakan, mawadda, raḥma.** *Sakan* (30:21) is tranquillity, the calm of being at home. *Mawadda* is affection, love that shows itself. *Raḥma* is mercy, compassion that carries people through weakness."
+    tr: "**Sekîne, meveddet, rahmet.** *Seken* (30:21) huzurdur, evde olmanın sükûneti. *Meveddet* sevgidir, kendini gösteren muhabbet. *Rahmet* merhamettir, insanları zayıflık anlarında taşıyan şefkat."
+    title:
+      en: Ne anlama geliyor?
+      tr: Ne anlama geliyor?
   - kind: quran
     en: |-
       **A sign of God (30:21).** "And of His signs is that He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy. Indeed in that are signs for a people who give thought" (30:21), Meccan. Ibn Kathir explains why spouses stay together: a man stays with a woman "because he loves her", or "he feels compassion towards her if they have a child together", or because "she needs him to take care of her". The commentary attributed to Ibn ʿAbbas (*Tanwīr al-Miqbās*, printed with it) reads *mawadda* as the "love of the wife for her husband" and *raḥma* as the "mercy of the husband towards his wife", adding that "it is also said" the terms can mean love between young and old.
@@ -115,18 +116,47 @@ fullAnswer:
       **Clothing for each other (2:187).** "They are clothing for you and you are clothing for them" (2:187), in the Medinan verses on fasting. The image is mutual: each covers, protects and is close to the other.
 
       **Settlement and divorce (4:128; 2:229).** "And if a woman fears from her husband contempt or evasion, there is no sin upon them if they make terms of settlement between them — and settlement is best" (4:128). "Divorce is twice. Then, either keep [her] in an acceptable manner or release [her] with good treatment" (2:229).
+    tr: |-
+      **Allah'ın bir âyeti (30:21).** "Yine O'nun âyetlerindendir ki, sizin için nefislerinizden kendilerine ısınırsınız diye eşler yaratmış, aranıza bir sevgi ve merhamet koymuştur. Şüphesiz ki bunda düşünecek bir kavim için nice ibretler vardır." (30:21), Mekkî. İbn Kesîr eşlerin neden birlikte kaldığını açıklar: Bir erkek bir kadınla "onu sevdiği için" ya da "bir çocukları olduysa ona şefkat duyduğu için" ya da "kadının ona bakmasına ihtiyaç duyduğu için" kalır. İbn Abbâs'a nispet edilen ve onunla birlikte basılan tefsir (*Tenvîrü'l-Mikbâs*), *meveddet*i "kadının kocasına sevgisi", *rahmet*i ise "kocanın karısına merhameti" olarak okur ve bu terimlerin genç ile yaşlı arasındaki sevgiyi de ifade edebileceğinin "söylendiğini" ekler.
+
+      **Onlarla iyi geçinin (4:19).** "Ey iman edenler! Kadınlara zorla varis olmanız size helal değildir… Onlarla iyi geçinin. Eğer kendilerinden hoşlanmadınızsa, olabilir ki, siz bir şeyden hoşlanmasanız da Allah onda bir çok hayır takdir etmiş bulunur." (4:19), Medenî. İbn Kesîr, iniş sebebi hakkında İbn Abbâs'ı (Buhârî'nin kaydettiği) zikreder: İslam'dan önce "bir adam öldüğünde, erkek akrabalarının onun karısıyla diledikleri her şeyi yapma hakkı vardı"; âyet bunu yasakladı. "Onlarla iyi geçinin" ifadesini, "onlara güzel sözler söylemek, onlara iyi davranmak ve gücünüz yettiğince görünüşünüzü onlar için çekici kılmak" olarak açıklar ve Hz. Peygamber'i (s.a.v.) "eşlerine karşı nazik, güler yüzlü, şakacı" biri olarak, Hz. Âişe ile yarışan biri olarak tarif eder. "Siz bir şeyden hoşlanmasanız da" hakkında İbn Abbâs, Allah'ın ona ondan bir çocuk verebileceğini, "ve bu çocuğun büyük bir hayır taşıdığını" söyledi.
+
+      **Birbiri için örtü (2:187).** "Onlar, sizin için bir örtü, siz de onlar için bir örtü durumundasınız." (2:187), oruçla ilgili Medenî âyetlerde. Benzetme karşılıklıdır: Her biri diğerini örter, korur ve ona yakındır.
+
+      **Sulh ve boşanma (4:128; 2:229).** "Eğer bir kadın kocasının geçimsizliğinden, yahut kendisinden yüz çevirmesinden endişe ederse, aralarında bir sulh yapmalarında, onlara bir günah yoktur. Sulh hep hayırlıdır." (4:128). "Boşamak (talak) iki defadır. Ondan sonrası ya iyilikle tutmak veya güzellikle salmaktır." (2:229).
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **Your wife has a right over you.** When ʿAbdullah ibn ʿAmr (ra) fasted every day and prayed all night, the Prophet (pbuh) said: "Do not do that! Observe the fast sometimes and also leave them (the fast) at other times; stand up for the prayer at night and also sleep at night. Your body has a right over you, your eyes have a right over you and your wife has a right over you" ({hadith:bukhari:5199}). Even worship must not crowd out one's spouse.
 
       **The best to his family.** "The best of you is the best to his wives, and I am the best of you to my wives" (al-Tirmidhi 3895; al-Tirmidhi: *ḥasan gharīb ṣaḥīḥ*; al-Albani: *ṣaḥīḥ*).
+    tr: |-
+      **Eşinin senin üzerinde hakkı vardır.** Abdullah b. Amr (r.a.) her gün oruç tutup bütün gece namaz kıldığında, Hz. Peygamber (s.a.v.) şöyle buyurdu: "Bunu yapma! Bazen oruç tut, bazen de tutma; gece namaza kalk, ama gece uyu da. Bedeninin senin üzerinde hakkı var, gözlerinin senin üzerinde hakkı var ve eşinin senin üzerinde hakkı var" ({hadith:bukhari:5199}). İbadet bile kişinin eşini dışarıda bırakmamalıdır.
+
+      **Ailesine en hayırlı olan.** "Sizin en hayırlınız, ailesine en hayırlı olanınızdır; ben de aileme karşı en hayırlınızım" (Tirmizî 3895; Tirmizî: *hasen garîb sahih*; Elbânî: *sahih*).
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: The legal rights of spouses by school have not yet been consulted either.
+    tr: Mezheplere göre eşlerin hukuki haklarına da henüz başvurulmadı.
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: research
     en: |-
       **Marital quality and health.** [Established; small effects.] Robles and colleagues (2014) reviewed 126 studies with more than 72,000 people over 50 years. "Greater marital quality was related to better health", with effects of about r = .07 to .21 (r = .11 for mortality) — small, similar in size to the links between health behaviours such as diet and health. The designs limit conclusions about cause.
 
       **The "5 to 1" ratio.** [Moderate; disputed.] The Gottman Institute reports that in studies by John Gottman and Robert Levenson, couples were asked to "solve a conflict in their relationship in 15 minutes", and that stable, happy couples showed about five positive interactions for every negative one; it claims "over 90% accuracy" in predicting divorce nine years later. That claim comes from the Institute itself; independent criticism of its prediction method (often said to overfit the data) has not yet been consulted, so the figure should be treated cautiously.
+    tr: |-
+      **Evlilik kalitesi ve sağlık.** [Established; küçük etkiler.] Robles ve arkadaşları (2014), 50 yılı aşkın bir sürede 72.000'den fazla kişiyi kapsayan 126 çalışmayı gözden geçirdi. "Daha yüksek evlilik kalitesi daha iyi sağlıkla ilişkiliydi"; etkiler yaklaşık r = 0,07 ile 0,21 arasındaydı (ölüm için r = 0,11) — küçük, beslenme gibi sağlık davranışlarıyla sağlık arasındaki bağlara benzer büyüklükte. Araştırma desenleri sebep konusunda sonuç çıkarmayı sınırlıyor.
+
+      **"5'e 1" oranı.** [Orta; tartışmalı.] Gottman Enstitüsü, John Gottman'ın ve Robert Levenson'ın çalışmalarında çiftlerden "ilişkilerindeki bir anlaşmazlığı 15 dakikada çözmelerinin" istendiğini ve istikrarlı, mutlu çiftlerin her olumsuz etkileşime karşılık yaklaşık beş olumlu etkileşim gösterdiğini bildiriyor; dokuz yıl sonraki boşanmayı tahmin etmede "%90'ın üzerinde doğruluk" iddia ediyor. Bu iddia Enstitü'nün kendisinden geliyor; tahmin yöntemine yönelik bağımsız eleştiriye (çoğu zaman veriye aşırı uyum sağladığı söylenir) henüz başvurulmadı; dolayısıyla rakama ihtiyatla yaklaşılmalıdır.
+    title:
+      en: Araştırmalar ne gösteriyor?
+      tr: Araştırmalar ne gösteriyor?
   - kind: practice
     en: |-
       **Say kind words, and say them often** (Ibn Kathir on 4:19).
@@ -138,6 +168,19 @@ fullAnswer:
       **If you dislike something in your spouse**, remember 4:19: "perhaps you dislike a thing and Allah makes therein much good".
 
       **If the marriage is failing**, try settlement (4:128) and arbitration (4:35) — and if it ends, end it "with good treatment" (2:229).
+    tr: |-
+      **Güzel sözler söyle ve sık söyle** (İbn Kesîr, 4:19 hakkında).
+
+      **Zaman ayır.** Hiçbir görev — iş, ibadet, hatta hayırlı işler — eşini dışarıda bırakmamalı ({hadith:bukhari:5199}).
+
+      **Anlaşmazlıkta oranı yüksek tut**: Yalnızca yanlış olanı değil, iyi olanı da fark et ve söyle.
+
+      **Eşinde hoşlanmadığın bir şey varsa**, 4:19'u hatırla: "siz bir şeyden hoşlanmasanız da Allah onda bir çok hayır takdir etmiş bulunur".
+
+      **Evlilik çöküyorsa**, sulhü (4:128) ve hakem yolunu (4:35) dene — ve sona ererse, "güzellikle" sona erdir (2:229).
+    title:
+      en: Günlük hayatta
+      tr: Günlük hayatta
   - kind: heart
     en: |-
       **If you are in an abusive marriage, your safety comes first.** No verse requires you to stay in danger. See the help box on "Does Islam treat women unequally?", or findahelpline.com.
@@ -145,29 +188,49 @@ fullAnswer:
       **If your marriage is lonely**, that is a real loss. A counsellor — ideally one who respects your faith — can help couples rebuild; many Muslim family-support organisations exist.
 
       **If your marriage ended**, divorce is permitted, and the Quran asks that it end with good treatment (2:229), not with shame.
+    tr: |-
+      **İstismarcı bir evlilikteysen, önce senin güvenliğin gelir.** Hiçbir âyet tehlikede kalmanı gerektirmez. "İslam kadına eşitsiz mi davranıyor?" sayfasındaki yardım kutusuna ya da findahelpline.com'a bak.
+
+      **Evliliğinde yalnızsan**, bu gerçek bir kayıptır. Bir danışman — ideal olarak imanına saygı gösteren biri — çiftlerin yeniden inşa etmesine yardımcı olabilir; pek çok Müslüman aile destek kuruluşu var.
+
+      **Evliliğin sona erdiyse**, boşanma caizdir ve Kur'an onun utançla değil, güzellikle sona ermesini ister (2:229).
+    title:
+      en: Zorlanan kişi için
+      tr: Zorlanan kişi için
 followUps:
   - q:
       en: What is the difference between *mawadda* and *raḥma*?
+      tr: "*Meveddet* ile *rahmet* arasındaki fark nedir?"
     a:
       en: "*Mawadda*: affection, love that shows. *Raḥma*: mercy, compassion. Ibn Kathir explains that spouses stay together through love, through compassion (for example, through a child), and through need."
+      tr: "*Meveddet*: sevgi, kendini gösteren muhabbet. *Rahmet*: merhamet, şefkat. İbn Kesîr eşlerin sevgiyle, şefkatle (örneğin bir çocuk aracılığıyla) ve ihtiyaçla birlikte kaldığını açıklar."
   - q:
       en: What does "clothing" in 2:187 mean?
+      tr: 2:187'deki "örtü" ne demek?
     a:
       en: Each spouse covers, protects and is close to the other; the image is mutual.
+      tr: Her eş diğerini örter, korur ve ona yakındır; benzetme karşılıklıdır.
   - q:
       en: Do I have to love my spouse all the time?
+      tr: Eşimi her zaman sevmek zorunda mıyım?
     a:
       en: 4:19 expects that you may dislike things in your spouse, and asks for kindness anyway.
+      tr: 4:19, eşinde hoşlanmadığın şeyler olabileceğini öngörür ve yine de iyi geçinmeyi ister.
   - q:
       en: Is the 5:1 ratio scientific?
+      tr: 5'e 1 oranı bilimsel mi?
     a:
       en: It comes from Gottman's research, reported by his institute; the strong prediction claims are debated.
+      tr: Gottman'ın araştırmasından geliyor, enstitüsü tarafından bildiriliyor; güçlü tahmin iddiaları tartışmalı.
   - q:
       en: What rights do spouses have in Islamic law?
+      tr: İslam hukukunda eşlerin hangi hakları var?
     a:
       en: Not covered in detail here; see the run 5 research and a future page on marriage law.
+      tr: Burada ayrıntılı ele alınmadı; 5. çalışmadaki araştırmaya ve evlilik hukuku üzerine gelecekteki bir sayfaya bak.
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
+translatedFrom: docs/research/tr/M13.md

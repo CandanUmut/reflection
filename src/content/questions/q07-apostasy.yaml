@@ -15,16 +15,13 @@ verses:
   - 2:256
   - 2:217
 steelman:
-  tr: |
-    Klasik hukuk, "dinini değiştireni öldürün" rivayetine dayanarak (Buhârî 3017) dinden dönen erkeğe ölüm cezası öngördü. Eğer öyleyse, inanç özgür değildir.
+  tr: "\"En güvendiğiniz hadis kitabı Peygamber'in şöyle dediğini bildiriyor: 'Dinini değiştireni öldürün.' 'Devlete ihanet edeni' demiyor. Bütün Sünnî mezhepler bunu hukuk hâline getirdi ve fakihler buna icmâ dedi. İnsanlar hâlâ bu tür kanunlarla mahkûm ediliyor ve Pew'in 2013 anketinde şeriatı destekleyen Mısırlı Müslümanların %86'sı mürtedlerin idamını destekledi. 'İhanet' okuması, Batı baskısı altında yapılmış yeni bir icat gibi görünüyor. İslam doğruysa, Allah onun doğru olmadığı sonucuna dürüstçe vardığım için neden hayatımı tehdit etsin?\""
   en: "\"Your most trusted hadith book reports the Prophet saying, 'Whoever changes his religion, kill him.' It does not say 'whoever betrays the state.' Every Sunni school made that law, and jurists called it consensus. People are still sentenced under such laws, and in Pew's 2013 survey 86% of Egyptian Muslims who back sharia supported executing apostates. The 'treason' reading looks like a recent invention made under Western pressure. If Islam is true, why would God threaten my life for honestly concluding it is not?\""
 whyAsked:
-  tr: |
-    Şüphe yaşayanlar güvenlikleri için korkar ve bu hüküm 2:256'yı ("dinde zorlama yoktur") boşa çıkarıyor gibi görünür.
+  tr: Şüphe edenler bunu, kendi güvenlikleri ve aile ilişkileri cevaba bağlı olabileceği için sorar. Dışarıdan bakanlar bunu, İslam'ın vicdan özgürlüğünü kabul edip etmediğinin en açık sınavı olarak görür. Öğrenciler, klasik hükmün metne dayalı savunması güçlü olduğu için bunu sorar ve reformcu savunmanın dürüst bir ilmî çalışma olup olmadığını bilmek ister.
   en: People who doubt ask because their own safety and their family relationships may depend on the answer. Outsiders see this as the clearest test of whether Islam accepts freedom of conscience. Students ask because the textual case for the classical ruling is strong, and they want to know whether the reformist case is honest scholarship.
 shortAnswer:
-  tr: |
-    Kur'an dinden dönmeyi anar (2:217; 5:54), ama dünyevi bir ceza belirtmez ve dinde zorlama olmadığını ilan eder (2:256). Klasik fakihler idam öngördü. Türk âlimler dâhil pek çok modern âlim, cezanın inancı değil vatana ihaneti hedeflediğini savunur. [Debated] — ama bugün yaygın kabul görüyor.
+  tr: "Dört Sünnî mezhebin hepsi, İslam'dan çıkan ve geri dönmeyi reddeden ergin ve akıllı bir erkeğin, tövbeye davet edildikten sonra idam edileceğini kabul etti. Bunu sahih hadislere dayandırırlar; dolayısıyla hüküm geç dönem bir icat değildir. Üç mezhep bunu kadınlara da uygular; Hanefîler ise kadınları bunun yerine hapseder. Rivayete göre erken dönemden bir azınlık idamı desteklemedi: Hz. Ömer, İbrâhim en-Nehaî ve Süfyân es-Sevrî. Bazı modern âlimler, Hz. Peygamber'in (s.a.v.) hiç kimseyi yalnızca inancını değiştirdiği için idam etmediğini ve hadisin topluma düşmanlıkla birleşen irtidadı hedef aldığını savunur; Tâhâ Câbir el-Ulvânî bu görüştedir, Ali Cuma da 2007'de bu görüşteydi, ancak sözlerinin ifadesi daha sonra tartışma konusu oldu. Bu okuma ciddidir ama tartışmalıdır, çünkü hadisin sözleri geneldir. Şüphe etmek suç değildir ve şüphe eden biri İslam'dan çıkmış değildir."
   en: "All four Sunni schools held that an adult, sane man who leaves Islam and refuses to return is to be executed after being asked to repent. They base this on authentic hadith, so the ruling is not a late invention. Three schools apply it to women too; the Hanafis imprison women instead. A minority of early figures reportedly did not support execution: ʿUmar, Ibrahim al-Nakhaʿi and Sufyan al-Thawri. Some modern scholars argue that the Prophet (pbuh) never executed anyone only for changing belief, and that the hadith targeted apostasy joined with hostility to the community; Taha Jabir Alalwani holds this view, and so did Ali Gomaa in 2007, though his wording was later disputed. That reading is serious but contested, because the words of the hadith are general. Doubting is not a crime, and someone who doubts has not left Islam."
 layers:
   - kind: religious
@@ -47,8 +44,7 @@ layers:
       Pew Araştırma Merkezi'nin "The World's Muslims" (2013) çalışmasında Mısırlı Müslümanların %88'i İslam'dan çıkmanın ölümle cezalandırılması gerektiğini söyledi; sorunun sorulduğu 37 ülkede medyan %28'di. İdeal ile tutumlar arasındaki bu mesafe kabul edilmelidir.
     en: In Pew Research Center's "The World's Muslims" (2013), 88% of Egyptian Muslims said leaving Islam should be punishable by death; the median across the 37 countries where the question was asked was 28%. The gap between ideal and attitudes must be acknowledged.
 honestLimits:
-  tr: |
-    Reformcu okuma bir argümandır; tarih boyunca tek tip bir görüş değildir.
+  tr: Klasik hükmün metne dayalı savunması güçlüdür. Reformcu savunma bağlama ve kaydedilmiş idamların yokluğuna dayanır. Erken dönem muhalif görüşler esas olarak sonraki rivayetlerden bilinir ve anket verileri eskidir ve tutarsız şekilde aktarılmıştır.
   en: The textual case for the classical ruling is strong. The reformist case depends on context and on the absence of recorded executions. The early dissents are known mainly from later reports, and the polling data are old and inconsistently reported.
 visualizations:
   - id: ideas
@@ -93,6 +89,13 @@ fullAnswer:
       **The Quran condemns apostasy severely but names no worldly punishment for it.** Verse 2:217 warns that whoever "reverts from his religion [to disbelief] and dies while he is a disbeliever – for those, their deeds have become worthless in this world and the Hereafter". Alalwani surveyed every Quranic use of *ridda* and concludes that "None of the verses… makes any mention of an earthly punishment for the sin or crime of apostasy". He adds that the Quran "refers to individuals repeatedly returning to unbelief after having believed, but does not mention that they should be killed" (ch. 2). Reformists also rely on 2:256: "There shall be no compulsion in [acceptance of] the religion."
 
       **Limit:** Jurists held that the Sunna can add rulings the Quran does not state. Alalwani records that al-Shafiʿi read 2:217, 8:39, 9:5 and 39:65 together in support of the death penalty.
+    tr: |-
+      **Kur'an irtidadı şiddetle kınar, ama onun için dünyevi bir ceza belirtmez.** 2:217 âyeti şunu uyarır: "Sizden de her kim, dininden döner ve kâfir olarak can verirse artık onların bütün amelleri, dünyada ve ahirette boşa gitmiştir". Ulvânî, *ridde* kelimesinin Kur'an'daki bütün kullanımlarını inceledi ve "âyetlerin hiçbirinin… irtidat günahı ya da suçu için dünyevi bir cezadan söz etmediği" sonucuna varır. Kur'an'ın "iman ettikten sonra tekrar tekrar küfre dönen kişilerden söz ettiğini, ama onların öldürülmesi gerektiğinden bahsetmediğini" ekler (2. bölüm). Reformcular 2:256'ya da dayanır: "Dinde zorlama yoktur."
+
+      **Sınır:** Fakihler, Sünnet'in Kur'an'ın belirtmediği hükümler ekleyebileceğini kabul etti. Ulvânî, Şâfiî'nin ölüm cezasını desteklemek için 2:217, 8:39, 9:5 ve 39:65'i birlikte okuduğunu kaydeder.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **Two authentic hadith carry the legal weight.** The first is narrated by ʿIkrima. ʿAli had burnt some people, and Ibn ʿAbbas said: "Had I been in his place I would not have burnt them… No doubt, I would have killed them, for the Prophet said, 'If somebody (a Muslim) discards his religion, kill him'" ({hadith:bukhari:3017}; parallel {hadith:bukhari:6922}, where the people are called *zanādiqa*, hidden heretics). Both are sahih by inclusion in al-Bukhari. The second is the "three cases" hadith from Ibn Masʿud (ra): a Muslim's blood "cannot be shed except in three cases: In Qisas for murder, a married person who commits illegal sexual intercourse and the one who reverts from Islam (apostate) and leaves the Muslims" ({hadith:bukhari:6878}; {hadith:muslim:1676}). In Arabic the third case is *al-tārik li-l-jamāʿa*, "abandoning the community".
@@ -100,6 +103,15 @@ fullAnswer:
       **Did the Prophet (pbuh) ever execute anyone only for leaving Islam?** Alalwani: "never in his entire life did the Prophet put an apostate to death". He argues that reported killings were "due to the individuals' participation in war crimes or murder, not due to their apostasy" (ch. 3). The men of ʿUrayna, for example, killed a herdsman and stole camels. Two further points support this. Many people who left after the Night Journey were not harmed. And the Treaty of Hudaybiyya let anyone who left the Muslim camp return to Quraysh "freely without reprisal".
 
       **Limit:** This is partly an argument from silence, and it does not remove the general wording. The cases at the conquest of Mecca (Ibn Khatal, Ibn Abi Sarh) have not yet been checked.
+    tr: |-
+      **Hukuki ağırlığı iki sahih hadis taşır.** Birincisini İkrime rivayet eder. Hz. Ali bazı insanları yakmıştı ve İbn Abbâs şöyle dedi: "Onun yerinde olsaydım onları yakmazdım… Şüphesiz onları öldürürdüm, çünkü Peygamber 'Kim (bir Müslüman) dinini bırakırsa onu öldürün' buyurdu" ({hadith:bukhari:3017}; paralel rivayet {hadith:bukhari:6922}; orada bu insanlara *zenâdıka*, yani gizli zındıklar denir). İkisi de Buhârî'de yer aldıkları için sahihtir. İkincisi İbn Mes'ûd'dan (r.a.) gelen "üç durum" hadisidir: Bir Müslümanın kanı "ancak üç durumda dökülebilir: Adam öldürmeye karşılık kısas, zina eden evli kişi ve İslam'dan dönüp (mürted) Müslümanları terk eden" ({hadith:bukhari:6878}; {hadith:muslim:1676}). Arapçada üçüncü durum *et-târik li'l-cemâa*, yani "cemaati terk eden"dir.
+
+      **Hz. Peygamber (s.a.v.) hiç kimseyi yalnızca İslam'dan çıktığı için idam etti mi?** Ulvânî: "Peygamber hayatı boyunca hiçbir zaman bir mürtedi öldürmedi". Bildirilen öldürmelerin "irtidatları yüzünden değil, kişilerin savaş suçlarına ya da cinayete katılmaları yüzünden" olduğunu savunur (3. bölüm). Örneğin Ureyne'den gelen adamlar bir çobanı öldürüp develeri çaldı. Bunu iki nokta daha destekler. İsrâ'dan sonra ayrılan pek çok kişiye dokunulmadı. Ve Hudeybiye Antlaşması, Müslümanların tarafından ayrılan herkesin "misillemeye uğramadan serbestçe" Kureyş'e dönmesine izin veriyordu.
+
+      **Sınır:** Bu kısmen bir sessizlikten çıkarılan argümandır ve genel ifadeyi ortadan kaldırmaz. Mekke'nin fethindeki vakalar (İbn Hatal, İbn Ebî Serh) henüz kontrol edilmedi.
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: |-
       **The "treason" reading is a reading of context, not of the words, and should be judged that way.** The skeptic is right that the hadith says "changes his religion." The reformist case rests on three arguments:
@@ -116,6 +128,24 @@ fullAnswer:
       - **Ali Gomaa** (Grand Mufti of Egypt 2003–2013), writing in 2007: "can a person who is Muslim choose a religion other than Islam? The answer is yes… If the case in question is one of merely rejecting faith, then there is no worldly punishment." He still left a role for the courts where "undermining the foundations of the society" was involved. Gulf News (Ramadan Al Sherbini, 25 July 2007) then quoted him: "What I actually said is that Islam prohibits a Muslim from changing his religion and that apostasy is a crime, which must be punished." His position is real, but its wording is disputed.
       - **Mohammad Hashim Kamali and Tariq Ramadan**: reported, with Alalwani, as holding that "the Qur'an does not prescribe a temporal punishment for apostasy" (secondary source).
       - **Abdullah and Hassan Saeed**: argue similarly (secondary summary only).
+    tr: |-
+      **"İhanet" okuması, sözlerin değil bağlamın bir okumasıdır ve öyle değerlendirilmelidir.** Şüpheci, hadisin "dinini değiştiren" dediği konusunda haklıdır. Reformcu savunma üç argümana dayanır:
+      - **Hz. Peygamber'in (s.a.v.) uygulaması:** yalnızca inanç yüzünden kaydedilmiş bir idam yok.
+      - **Eşlik eden hadis:** dini terk etmeyi *cemaati* terk etmekle birleştirir ve yedinci yüzyıl Arabistan'ında dinî topluluk aynı zamanda siyasi ve askerî topluluktu.
+      - **Medine ortamı:** Ulvânî hadisi "ciddi bir güvenlik durumuna" bağlar (33:60–62). Şu sonuca varır: "Hadis… sahihse, [Peygamber] bu ciddi güvenlik durumunu göz önünde bulundurmuş olmalıdır" (4. bölüm). Ayrıca sonraki fakihlerin Bizans ve Pers sadakat kanunlarını özümsediğini ve "siyasi anlamdaki irtidadı, kişisel inançların değişmesi anlamındaki irtidatla karıştırdığını" savunur (5. bölüm).
+
+      **Ne kadar güçlü?** Tarih olarak orta derecede güçlü, metnin bir okuması olarak daha zayıftır. Lehine olarak, "cemaat" kaydı sahihtir ve *ridde* savaşları biat etmeyi ve *zekâtı* reddetmeyi içeriyordu. Aleyhine olarak, İbn Abbâs'ın kendisi hadisi yalnızca bazı inançlara sahip olan zındıklara uyguladı ve klasik fakihler bağlamı bildikleri hâlde hadisi genel olarak okudu. Ulvânî'nin hadisin *âhâd* (tek senetli bir haber) olduğu yönündeki tespiti, yalnızca bu tür haberleri zaten kısıtlayanları ikna eder.
+
+      **İdamı erken dönemde kim sorguladı?** Ulvânî, görüşleri "kamuoyunda yer bulmayan" "sahâbîlerden Ömer b. Hattâb…, İbrâhim en-Nehaî… ve Süfyân es-Sevrî"nin adlarını verir (1. bölüm). Hz. Ömer için her zamanki dayanak *Muvatta* rivayetidir (no. 1420). Bir mürtedin derhal öldürüldüğü kendisine söylenince, "Onu üç gün hapsedip… tövbeye davet etmediniz mi?" diye sordu ve "Bundan razı değilim" dedi. **Sınır:** Bu, Hz. Ömer'in idamı reddettiğini değil, tövbe için bir fırsat tanınmasını şart koştuğunu gösterir. İbn Kudâme aslında Nehaî'yi mürtedin öldürüleceğini savunanlar arasında sayar. Muhalif görüşler zayıf bir şekilde belgelenmiştir.
+
+      **"Yalnızca inanç yüzünden değil" görüşünü bugün kim savunuyor?**
+      - **Tâhâ Câbir el-Ulvânî** (1935–2016, Ezher'de yetişmiş fakih): "Suç sayılan başka herhangi bir şey" olmadan irtidat "kesinlikle Allah ile birey arasında kalır".
+      - **Ali Cuma** (2003–2013 Mısır Müftüsü), 2007'de şunu yazdı: "Müslüman olan bir kişi İslam dışında bir din seçebilir mi? Cevap evettir… Söz konusu durum yalnızca imanı reddetmekse, o zaman dünyevi bir ceza yoktur." Yine de "toplumun temellerini sarsmanın" söz konusu olduğu durumlarda mahkemelere bir rol bıraktı. Gulf News (Ramadan Al Sherbini, 25 Temmuz 2007) ardından ondan şunu aktardı: "Gerçekte söylediğim şey, İslam'ın bir Müslümanın dinini değiştirmesini yasakladığı ve irtidadın cezalandırılması gereken bir suç olduğudur." Görüşü gerçektir, ama ifadesi tartışmalıdır.
+      - **Muhammed Hâşim Kemâlî ve Tarık Ramazan**: Ulvânî ile birlikte "Kur'an'ın irtidat için dünyevi bir ceza öngörmediği" görüşünü savundukları aktarılır (ikincil kaynak).
+      - **Abdullah ve Hassan Saeed**: benzer şekilde savunur (yalnızca ikincil özet).
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: fiqh
     en: |-
       **All four schools prescribe death for the unrepentant adult male apostate. They differ on the waiting period and on women.** The waiting period is *istitāba*, the formal invitation to repent.
@@ -125,6 +155,17 @@ fullAnswer:
       - **Hanbali:** Ibn Qudama (*al-Mughni* 1538) quotes al-Khiraqi: "Whoever apostatises from Islam, man or woman, being adult and sane, is invited back for three days… otherwise he is killed." He adds a second narration from Ahmad that the invitation is only recommended.
 
       **Is "not executing women" evidence that the penalty was about combat?** Only partly. The Hanafi exemption rests on the ban on killing women in war, which does treat apostasy like enemy status. But the Hanafis executed peaceful male apostates too, and the other schools executed women. The exemption shows that some jurists thought about apostasy through the law of war. It does not show that the penalty required actual fighting.
+    tr: |-
+      **Dört mezhebin hepsi, tövbe etmeyen ergin erkek mürted için ölüm öngörür. Bekleme süresi ve kadınlar konusunda ayrılırlar.** Bekleme süresi, resmî tövbeye davet olan *istitâbe*dir.
+      - **Hanefî:** Kâsânî (*Bedâi'* 7/134) onu tövbeye davet etmenin "müstehap olduğunu… ama vacip olmadığını" söyler. Serahsî (aktarıldığı şekliyle), mürted isterse üç gün mühlet verir. Kadınlar hakkında Zeylaî şöyle der: "Mürted kadın öldürülmez; bunun yerine İslam'a dönene kadar hapsedilir." Ulvânî, Hanefîlerin irtidadı *siyer* (savaş hukuku) altında ele aldığını not eder.
+      - **Mâlikî:** Halîl'in *Muhtasar*'ı: "Açlık, susuzluk ya da ceza olmaksızın üç gün tövbeye davet edilir; tövbe ederse [bırakılır], aksi hâlde öldürülür." Kadınlara erkekler gibi davranılır.
+      - **Şâfiî:** Nevevî (*Minhâc* s. 293): Mürted erkeği ve kadını tövbeye davet etmek vaciptir (bir görüşe göre müstehap) ve derhaldir (bir görüşe göre üç gün); "ısrar ederlerse öldürülürler."
+      - **Hanbelî:** İbn Kudâme (*el-Muğnî* 1538), Hırakî'den şunu aktarır: "Ergin ve akıllı olarak İslam'dan dönen, erkek ya da kadın, üç gün geri dönmeye davet edilir… aksi hâlde öldürülür." Ahmed'den, davetin yalnızca müstehap olduğuna dair ikinci bir rivayet ekler.
+
+      **"Kadınları idam etmemek", cezanın savaşla ilgili olduğunun delili mi?** Ancak kısmen. Hanefî istisnası, savaşta kadınları öldürme yasağına dayanır; bu da irtidadı düşman statüsü gibi ele alır. Ama Hanefîler barışçıl erkek mürtedleri de idam etti ve diğer mezhepler kadınları idam etti. İstisna, bazı fakihlerin irtidadı savaş hukuku üzerinden düşündüğünü gösterir. Cezanın fiilî bir savaşı gerektirdiğini göstermez.
+    title:
+      en: Dört mezhep ne diyor?
+      tr: Dört mezhep ne diyor?
   - kind: history
     en: |-
       **Apostasy laws are now a minority, concentrated in Muslim-majority states.**
@@ -140,6 +181,23 @@ fullAnswer:
       - **Lowest:** Albania 8%, Kazakhstan 4%.
 
       These are shares of sharia supporters, not of all Muslims. The Washington Post's corrected all-Muslim figures (88% Egypt, 62% Pakistan) do not reconcile with Pew's tables. Pew reports that support for sharia "generally varies little by age, gender or education". No age breakdown and no trend data for the apostasy question were found.
+    tr: |-
+      **İrtidat kanunları artık azınlıktadır ve Müslüman çoğunluklu devletlerde yoğunlaşır.**
+      - **Pew (2022):** 2019'da 198 ülke ve bölgeden 79'unda (%40) dine hakaret kanunları, 22'sinde (%11) irtidat kanunları vardı. Dine hakaret Afganistan, Brunei, İran, Moritanya, Nijerya, Pakistan ve Suudi Arabistan'da ölümle cezalandırılabilir. Brunei 2019'da irtidat için ölüm cezalarını yürürlüğe koydu. Cezayir'de din değiştirenler miras haklarını kaybeder.
+      - **Humanists International (2021):** İrtidat en az on ülkede ölümle cezalandırılabilir: Afganistan, İran, Malezya, Maldivler, Moritanya, Nijerya, Katar, Suudi Arabistan, BAE ve Yemen.
+      - **USCIRF** ("Apostasy, Blasphemy, and Hate Speech Laws in Africa", Aralık 2019): Afrika'da "en az 9 ülkede irtidat kanunları var" ve basın bülteni dine hakaret kanunu olan 26 ülke sayar.
+
+      **Uygulama eşit değildir ve daha büyük tehlike çoğu zaman mahkemelerden değil, kalabalıklardan ve ailelerden gelir.** Pakistan'da "2019'da en az 17 kişi dine hakaret suçlamasıyla ölüme mahkûm edildi… ancak Pakistan hükümeti dine hakaret yüzünden hiç kimseyi fiilen idam etmedi" (Pew). Boşanma, çocuk velayetinin kaybı ve mirastan mahrum bırakılma gibi sosyal cezalar idamlardan daha yaygındır.
+
+      **Tutumlar.** Pew'in 2013 anketi, 39 ülkede (2008–2012) 38.000'den fazla yüz yüze görüşmeye dayanıyordu; Suudi Arabistan, Hindistan, Çin ve Suriye'yi kapsamıyordu. Şeriatın resmî hukuk yapılmasını destekleyen Müslümanlar arasında "Müslüman dinini terk eden insanlar için ölüm cezasını" destekleyenlerin oranı şöyleydi:
+      - **En yüksek:** Mısır %86, Ürdün %82, Afganistan %79, Pakistan %76, Filistin toprakları %66, Malezya %62.
+      - **Orta:** Bangladeş %44, Tayland %27, Tacikistan %22, Endonezya %18.
+      - **En düşük:** Arnavutluk %8, Kazakistan %4.
+
+      Bunlar bütün Müslümanların değil, şeriat destekçilerinin oranlarıdır. Washington Post'un düzeltilmiş, bütün Müslümanlara ilişkin rakamları (Mısır %88, Pakistan %62) Pew'in tablolarıyla uyuşmuyor. Pew, şeriat desteğinin "yaşa, cinsiyete ya da eğitime göre genellikle pek değişmediğini" bildirir. İrtidat sorusu için ne yaş dağılımı ne de eğilim verisi bulundu.
+    title:
+      en: Tarih ve bugünkü kanunlar
+      tr: Tarih ve bugünkü kanunlar
   - kind: objection
     en: |-
       **"The treason reading is modern apologetics."** *Reply:* It builds on an authentic phrase, on the Hanafi law-of-war treatment, and on early dissent. **Limit:** As a developed position it is mostly modern, and the pre-modern record overwhelmingly favours execution.
@@ -147,6 +205,15 @@ fullAnswer:
       **"A confident religion would not threaten leavers."** *Reply:* Classical jurists saw public apostasy as an attack on the public order founded on religion, much as treason is treated today. Many modern scholars hold that this reasoning does not apply to private belief in citizenship states. **Limit:** This explains the ruling historically; it does not justify the deaths of individuals killed for belief alone.
 
       **"Will God punish me for doubting?"** *Reply:* Doubt is not disbelief. In Alalwani's reading, apostasy affects faith only when one "open[s] his or her heart consciously and willingly to a denial of the truth". *Istitāba* existed to answer doubts: al-Shirbini notes that the apostate "may have been struck by a doubt". **Limit:** The Sahih Muslim hadith that calls disturbing thoughts "clear faith" was not verified.
+    tr: |-
+      **"İhanet okuması modern bir savunmacılıktır."** *Cevap:* Sahih bir ifadeye, Hanefîlerin savaş hukuku yaklaşımına ve erken dönem muhalefete dayanır. **Sınır:** Gelişmiş bir görüş olarak büyük ölçüde moderndir ve modern öncesi kayıtlar ezici çoğunlukla idamdan yanadır.
+
+      **"Kendine güvenen bir din ayrılanları tehdit etmez."** *Cevap:* Klasik fakihler, açık irtidadı, bugün ihanete nasıl bakılıyorsa, dine dayalı kamu düzenine bir saldırı olarak gördü. Pek çok modern âlim bu gerekçenin vatandaşlık devletlerinde kişisel inanca uygulanmadığını savunur. **Sınır:** Bu, hükmü tarihsel olarak açıklar; yalnızca inançları yüzünden öldürülen bireylerin ölümlerini haklı çıkarmaz.
+
+      **"Allah şüphe ettiğim için beni cezalandıracak mı?"** *Cevap:* Şüphe küfür değildir. Ulvânî'nin okumasına göre irtidat, kişi ancak "kalbini bilerek ve isteyerek hakikati inkâra açtığında" imanı etkiler. *İstitâbe* şüpheleri cevaplamak için vardı: Şirbînî, mürtedin "bir şüpheye kapılmış olabileceğini" not eder. **Sınır:** Rahatsız edici düşünceleri "apaçık iman" olarak niteleyen *Sahîh-i Müslim* hadisi doğrulanmadı.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       - **Classical, all four schools:** death after *istitāba*; the Hanafis exempt women.
@@ -155,29 +222,50 @@ fullAnswer:
       - **No worldly penalty for belief alone:** Alalwani, Gomaa (2007), Kamali and Ramadan (reported).
 
       Shiʿi and Ibadi views were not researched.
+    tr: |-
+      - **Klasik, dört mezhebin hepsi:** *istitâbe*den sonra ölüm; Hanefîler kadınları istisna tutar.
+      - **Süresiz tövbe:** Nehaî'ye ve Sevrî'ye atfedilir.
+      - ***Siyâset* (devlet politikası) altında takdirî:** Ulvânî tarafından not edilir.
+      - **Yalnızca inanç için dünyevi ceza yok:** Ulvânî, Cuma (2007), Kemâlî ve Ramazan (aktarıldığına göre).
+
+      Şiî ve İbâdî görüşler araştırılmadı.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: Am I an apostate because I doubt?
+      tr: Şüphe ettiğim için mürted miyim?
     a:
       en: No. Questioning is not *ridda*, which classical law defined as a clear, chosen renunciation.
+      tr: Hayır. Soru sormak, klasik hukukun açık ve bilerek seçilmiş bir reddediş olarak tanımladığı *ridde* değildir.
   - q:
       en: I have left Islam. How do I stay safe?
+      tr: İslam'dan ayrıldım. Nasıl güvende kalırım?
     a:
       en: Check the law where you live; Pew and Humanists International list the relevant countries. In those countries, avoid public declarations and avoid posting online under your real name, and consult human-rights organisations before any legal step. Tell one trusted person outside your family, and know where you could go.
+      tr: Yaşadığın yerdeki kanunları kontrol et; Pew ve Humanists International ilgili ülkeleri listeliyor. Bu ülkelerde açık beyanlardan ve gerçek adınla internette paylaşım yapmaktan kaçın ve herhangi bir hukuki adımdan önce insan hakları kuruluşlarına danış. Ailen dışında güvendiğin bir kişiye söyle ve gidebileceğin bir yer bil.
   - q:
       en: What should a family do?
+      tr: Bir aile ne yapmalı?
     a:
       en: No family member has any right to harm or threaten them. Even classical rulings put any punishment in the hands of a court alone. Verses 31:15 and 60:8 require kindness. Keep the relationship and the conversation open.
+      tr: Hiçbir aile üyesinin onlara zarar verme ya da onları tehdit etme hakkı yoktur. Klasik hükümler bile herhangi bir cezayı yalnızca bir mahkemenin eline bırakır. 31:15 ve 60:8 âyetleri iyiliği emreder. İlişkiyi ve konuşmayı açık tut.
   - q:
       en: Does the hadith say "betrays the state"?
+      tr: Hadis "devlete ihanet eden" diyor mu?
     a:
       en: No. That reading is an argument from context, not a translation of the words.
+      tr: Hayır. Bu okuma, sözlerin bir çevirisi değil, bağlamdan çıkarılan bir argümandır.
   - q:
       en: Do many Muslims reject the death penalty?
+      tr: Pek çok Müslüman ölüm cezasını reddediyor mu?
     a:
       en: "It depends heavily on the country: among sharia supporters, 4% supported it in Kazakhstan and 18% in Indonesia, against 86% in Egypt."
+      tr: "Bu büyük ölçüde ülkeye bağlıdır: Şeriat destekçileri arasında Kazakistan'da %4 ve Endonezya'da %18 bunu desteklerken, Mısır'da %86 destekledi."
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
+translatedFrom: docs/research/tr/Q7.md

@@ -15,16 +15,13 @@ verses:
   - 4:40
   - 11:106-108
 steelman:
-  tr: |
-    En kötü hayat bile sonlu yanlışlar içerir. Sonsuz ceza orantısız görünür. Rahmeti en geniş olan, birine nasıl sonsuza dek azap eder?
+  tr: "\"Bir hayat yetmiş yıl sürer. Her insan günahı fiil ve zarar bakımından sonludur. Sonlu yanlışlar için sonsuz azap, her türlü orantının dışındadır. 'Sonsuz bir Allah'a karşı işlendi' demek fazlasını ispat eder, çünkü o zaman her günah sonsuzluğu hak ederdi. 'Yine dönerlerdi' (6:28) demek, hiç işlenmemiş suçları cezalandırır ve tartışılan şeyi baştan varsayar. İbn Teymiyye bile görünüşe göre cezanın sona erdiği sonucuna vardı. Merhametli bir Allah'ın insanlığın çoğuna sonsuza dek azap ettiğine neden inanayım?\""
   en: "\"A life lasts seventy years. Every human sin is finite in act and in harm. Infinite torment for finite wrongs is out of all proportion. 'It was against an infinite God' proves too much, because then every sin would merit infinity. 'They would have kept sinning' (6:28) punishes crimes that were never committed, and it assumes the very thing in question. Even Ibn Taymiyya apparently concluded that the punishment ends. Why should I believe a merciful God torments most of humanity for ever?\""
 whyAsked:
-  tr: |
-    Orantılılık sezgileri, gayrimüslim arkadaşlara duyulan sevgi, korkuya dayalı çocukluk eğitimi.
+  tr: Bu, İslam'ın ahiret öğretisine yöneltilen en doğrudan ahlaki itirazdır. En çok, gayrimüslim sevdiklerini kaybetmiş olanlara ve dinî kaygı yaşayanlara ağır gelir.
   en: It is the most direct moral challenge to Islamic teaching about the afterlife. It weighs most heavily on those who have lost non-Muslim loved ones and on those with religious anxiety.
 shortAnswer:
-  tr: |
-    Çoğunluk, Allah'ı bilerek ve ısrarla reddedenler için cehennemin ebedî olduğunu kabul eder; bu, amellerin sayısıyla değil, değişmeyen bir iç hâlin sonucu olarak açıklanır. Aralarında İbn Teymiyye'nin son risalesinde ve İbn Kayyim'in de bulunduğu büyük klasik âlimlerden bir azınlık, kâfirlerin cezasının sona ereceğini savundu. Kur'an kimseye zerre kadar haksızlık edilmeyeceğini vurgular (4:40) ve gerçekte kimin sorumlu olduğunu yalnızca Allah bilir.
+  tr: Sünnî âlimlerin çoğu, cehennemin Allah'ı bilerek ve ısrarla reddedenler için ebedî olduğunu kabul eder. 14. yüzyıl Şam'ının önde gelen Şâfiî kadısı Sübkî, aksi görüşü küfür ilan etti. Ama İbn Teymiyye'nin son risalesi, cennet ebedî olsa da kâfirlerin azabının sona ereceğini savundu. Öğrencisi İbn Kayyim iki kitabında bu konuda kesin bir hüküm vermedi, üçüncüsünde ise nihai rahmete meyletti. İslam ayrıca mesaj kendisine gerçekten ulaşmadıkça hiç kimsenin azaba uğratılmadığını kabul eder; dolayısıyla "ebedî cehennem", "Müslüman olmayan herkes" demek değildir. Orantılılık itirazının gerçek cevapları vardır, ama hiçbiri onun bütün gücünü ortadan kaldırmaz. Bu konuda geleneğin kendisi, büyük isimlerden oluşan bir azınlığı barındırır.
   en: Most Sunni scholars hold that Hell is eternal for those who knowingly and persistently reject God. Al-Subki, the leading Shafiʿi judge of 14th-century Damascus, declared the contrary view unbelief. But Ibn Taymiyya's last treatise argued that while the Garden is eternal, the punishment of unbelievers will end. His student Ibn al-Qayyim was agnostic in two books and leaned toward ultimate mercy in a third. Islam also holds that no one is punished until the message has truly reached them, so "eternal Hell" does not mean "everyone who was not Muslim." The proportionality objection has real replies, but none removes all of its force. On this question the tradition itself contains a minority of great names.
 layers:
   - kind: religious
@@ -94,8 +91,7 @@ rangeOfViews:
         tr: Ehli için azap (*azâb*) tatlılığa (*azb*) dönüşür. [Debated]
         en: For its people, the torment (*ʿadhāb*) becomes sweetness (*ʿadhb*). [Debated]
 honestLimits:
-  tr: |
-    Azınlık görüşü klasiktir ama azınlıkta kalır ve yaygın biçimde kınanmıştır; gizli "gerçek" İslam değildir.
+  tr: Ebedî cehennemin adaleti, imanın dışındaki birine ispat edilemez. 11:107 hakkındaki klasik tefsirler ve Sübkî'nin argümanlarının tamamı henüz doğrudan kontrol edilmedi ve psikolojik veriler zayıftır.
   en: The justice of eternal Hell cannot be demonstrated to someone outside faith. The classical commentaries on 11:107 and al-Subki's full arguments have not yet been checked directly, and the psychological data are thin.
 visualizations:
   - id: ideas
@@ -131,6 +127,13 @@ fullAnswer:
       **The Quran says the people of the Fire abide "therein forever" (*khālidīna fīhā abadan*) at 4:169, 33:65 and 72:23. In Sura Hud it attaches an exception.** Verse 11:107: "[They will be] abiding therein as long as the heavens and the earth endure, except what your Lord should will. Indeed, your Lord is an effective accomplisher of what He intends." Of the people of the Garden, 11:108 adds: "a bestowal uninterrupted." The minority argued from this contrast: the Garden is described as uninterrupted, while the Fire carries an exception. They also cited 78:23's *aḥqāb* ("ages"), a long but countable period.
 
       **Limit:** al-Tabari, al-Qurtubi, Ibn Kathir and al-Razi on these verses have not yet been consulted. According to Hoover's summary, the majority treats the clear "forever" verses as governing the exception.
+    tr: |-
+      **Kur'an, ateş ehlinin orada "ebedî olarak" (*hâlidîne fîhâ ebeden*) kalacağını 4:169, 33:65 ve 72:23'te söyler. Hûd Sûresi'nde buna bir istisna ekler.** 11:107 âyeti: "Onlar orada gökler ve yer durdukça duracaklar. Ancak Rabb'inin diledikleri başka. Çünkü Rabbin dilediğini yapandır." Cennet ehli hakkında 11:108 şunu ekler: "ardı arası kesilmeyen bir ihsan". Azınlık bu karşıtlıktan yola çıktı: Cennet kesintisiz olarak tarif edilir, cehennem ise bir istisna taşır. Ayrıca 78:23'teki, uzun ama sayılabilir bir süre olan *ahkâb* ("çağlar") kelimesini zikrettiler.
+
+      **Sınır:** Taberî'nin, Kurtubî'nin, İbn Kesîr'in ve Râzî'nin bu âyetler hakkındaki tefsirlerine henüz başvurulmadı. Hoover'ın özetine göre çoğunluk, açık "ebedî" âyetlerini istisnayı belirleyen âyetler olarak ele alır.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: scholars
     en: |-
       **Ibn Taymiyya did not merely say "there is no consensus"; he argued that the punishment ends.** According to Jon Hoover, the treatise *al-Radd ʿalā man qāla bi-fanāʾ al-janna wa-l-nār* appears to be his last work, written in answer to Ibn al-Qayyim. It rejects Jahm ibn Safwan's view that both abodes perish. Hoover summarises its conclusion: "the reward of Paradise is everlasting while the chastisement of unbelievers in Hell-Fire will end". He adds that Ibn Taymiyya's reasoning "leads to the conclusion that God will use Hell-fire to bring all creatures into complete accord with the purposes for which they were naturally constituted". In Hoover's words, for both men "Hell is therapeutic and reformative." The treatise cites Companion reports from ʿUmar and Ibn Masʿud, among others. It takes *fanāʾ* to mean that the punishment ceases, not necessarily that the Fire ceases to exist. Hoover has also documented later attempts to deny the treatise or play it down: al-Albani's claim that it was written "before mastering the religious sciences", and ʿAli al-Harbi's 1990 book (Hoover, in *Debating Ibn Taymiyya and Ibn Qayyim*, de Gruyter 2013, 377–399).
@@ -140,6 +143,17 @@ fullAnswer:
       **Al-Subki** (d. 1355) "issued a sharp refutation of Ibn Taymiyya, declared assent to the annihilation of the Fire unbelief and reasserted" its eternity, resting chiefly on the claim of consensus (*ijmāʿ*). **Limit:** only summaries of his treatise were read.
 
       **Plain terms.** The Ashʿari school (after al-Ashʿari, d. 935) and the Maturidi school (after al-Maturidi, d. 944) are the main Sunni theological schools. "Athari" refers to the tradition-based creed linked to Ahmad ibn Hanbal and Ibn Taymiyya. All three, as institutions, teach that Hell is eternal for unbelievers; the dissent came from within the Athari line. To "knowingly and persistently reject God" means to turn down a truth made clear (Q14), with understanding and freedom, until death. Never hearing, hearing a distortion, or doubting are not included.
+    tr: |-
+      **İbn Teymiyye yalnızca "icmâ yoktur" demedi; cezanın sona erdiğini savundu.** Jon Hoover'a göre *er-Red alâ men kâle bi-fenâi'l-cenneti ve'n-nâr* risalesi, İbn Kayyim'e cevap olarak yazılmış son eseri gibi görünüyor. Risale, Cehm b. Safvân'ın her iki yurdun da yok olacağı görüşünü reddeder. Hoover vardığı sonucu şöyle özetler: "Cennetin mükâfatı ebedîdir, kâfirlerin cehennem ateşindeki azabı ise sona erecektir". İbn Teymiyye'nin akıl yürütmesinin "Allah'ın cehennem ateşini bütün yaratılmışları, fıtraten yaratıldıkları amaçlarla tam bir uyum içine getirmek için kullanacağı sonucuna götürdüğünü" ekler. Hoover'ın ifadesiyle, her iki âlim için de "cehennem tedavi edici ve ıslah edicidir." Risale, başkalarının yanı sıra Hz. Ömer'den ve İbn Mes'ûd'dan gelen sahâbe rivayetlerini zikreder. *Fenâ*yı, ateşin mutlaka yok olması değil, azabın sona ermesi olarak anlar. Hoover, risaleyi inkâr etmeye ya da önemsizleştirmeye yönelik sonraki girişimleri de belgeledi: Elbânî'nin onun "dinî ilimlerde ustalaşmadan önce" yazıldığı iddiası ve Ali el-Harbî'nin 1990 tarihli kitabı (Hoover, *Debating Ibn Taymiyya and Ibn Qayyim* içinde, de Gruyter 2013, 377–399).
+
+      **İbn Kayyim: önce hüküm vermeyen, sonra evrenselci, tartışmalı pasajlarla.** Hoover, İbn Kayyim'in *Hâdi'l-Ervâh* ve *Şifâü'l-Alîl*'de "azabın süresi konusunda hüküm vermeyen bir seçeneği… kendi görüşü olarak" sunduğunu tespit eder. *Muhtasarü's-Savâık*'ta ise "kayıtsız şartsız bir İslami evrenselcilik" lehine argüman getirir. Hoover ayrıca onun, kısmen Sübkî yüzünden, "hocasından daha fazla şüphesi olmuş" olabileceğini not eder. Harbî, onun ebediliği teyit ettiği dört pasajı zikreder. Dolayısıyla temiz bir "görüş değişikliği" tespit edilemez.
+
+      **Sübkî** (ö. 1355), "İbn Teymiyye'ye sert bir reddiye yazdı, ateşin yok olacağını kabul etmeyi küfür ilan etti ve" ebediliğini, esas olarak icmâ (*icmâ*) iddiasına dayanarak "yeniden teyit etti". **Sınır:** Risalesinin yalnızca özetleri okundu.
+
+      **Sade terimler.** Eş'arî mezhebi (Eş'arî'ye nispetle, ö. 935) ve Mâtürîdî mezhebi (Mâtürîdî'ye nispetle, ö. 944) başlıca Sünnî kelâm mezhepleridir. "Eserî", Ahmed b. Hanbel ve İbn Teymiyye ile bağlantılı, nakle dayalı akideyi ifade eder. Üçü de kurum olarak cehennemin kâfirler için ebedî olduğunu öğretir; muhalefet Eserî çizginin içinden geldi. "Allah'ı bilerek ve ısrarla reddetmek", açıkça ortaya konmuş bir hakikati (Q14) anlayarak ve özgürce, ölüme kadar geri çevirmek demektir. Hiç duymamak, çarpıtılmış bir şekilde duymak ya da şüphe etmek buna dahil değildir.
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: reasoning
     en: |-
       **There are four main replies to the proportionality objection.**
@@ -147,34 +161,64 @@ fullAnswer:
       2. **A fixed state:** Hell is the continuing state of a soul that has made itself unwilling to turn to God. Verse 6:28 ("if they were returned, they would return to that which they were forbidden") is read this way. **Limit:** as a proof, 6:28 is circular for anyone who does not already accept the Quran. Whether a soul's state can change after death is exactly what Ibn Taymiyya and Ibn al-Qayyim questioned.
       3. **The punishment ends:** the Ibn Taymiyya line. **Limit:** it sits uneasily with *abadan*, and most Sunni scholars reject it.
       4. **Trust:** God has promised that "no soul will be treated unjustly at all" (21:47). **Limit:** this asks for trust rather than giving an explanation.
+    tr: |-
+      **Orantılılık itirazına dört ana cevap vardır.**
+      1. **Ağırlık:** Ceza, fiilin ne kadar sürdüğünü değil, neyin reddedildiğini izler. **Sınır:** Yalnızca Allah'ın nihai ve tam olarak reddi bu ağırlığı taşımadıkça bu fazlasını ispat eder. Akide de bunu söyler, çünkü günahkâr müminler sonunda ateşten çıkar.
+      2. **Sabitlenmiş bir hâl:** Cehennem, kendini Allah'a yönelmeye isteksiz hâle getirmiş bir ruhun süregelen hâlidir. 6:28 âyeti ("geri çevrilselerdi yine menedildikleri şeyi yapmaya dönerlerdi") bu şekilde okunur. **Sınır:** Bir ispat olarak 6:28, Kur'an'ı zaten kabul etmeyen biri için döngüseldir. Bir ruhun hâlinin ölümden sonra değişip değişemeyeceği, tam da İbn Teymiyye'nin ve İbn Kayyim'in sorguladığı şeydir.
+      3. **Ceza sona erer:** İbn Teymiyye çizgisi. **Sınır:** *Ebeden* ile rahatça bağdaşmaz ve Sünnî âlimlerin çoğu bunu reddeder.
+      4. **Güven:** Allah "hiçbir kimse hiçbir haksızlığa uğratılmaz" diye vaat etmiştir (21:47). **Sınır:** Bu bir açıklama vermek yerine güven ister.
+    title:
+      en: Filozoflar ve kelâmcılar bu konuda nasıl akıl yürütür?
+      tr: Filozoflar ve kelâmcılar bu konuda nasıl akıl yürütür?
   - kind: objection
     en: |-
       **"Most people who ever lived will burn for ever."** *Reply:* That does not follow. Verse 17:15 says "never would We punish until We sent a messenger", and those the message did not truly reach are excused or tested (Q14). **Limit:** those who heard clearly and rejected remain condemned on the majority view.
 
       **"Fear of Hell harms people."** *Reply:* For some people it does. Clinicians call this scrupulosity, a religious form of OCD (obsessive-compulsive disorder), known among Muslims as *waswās*. The Yaqeen paper stresses: "waswasah is not a 'Muslim disease,' but rather a religious presentation of OCD within Muslims." A participant in a UK study said: "'Oh no, I'm going to Hell'… I was just constantly thinking to myself about Hell fire." A clinician quoted by the IOCDF says: "Islam allows for you to go with what you know and leave the doubt." **Limit:** no controlled studies of Muslims specifically were found.
+    tr: |-
+      **"Yaşamış insanların çoğu sonsuza dek yanacak."** *Cevap:* Bu sonuç çıkmaz. 17:15 âyeti "Biz bir Peygamber göndermedikçe, hiç kimseye azab edecek değiliz" der ve mesajın gerçekten ulaşmadığı kişiler mazur görülür ya da imtihan edilir (Q14). **Sınır:** Çoğunluk görüşüne göre, açıkça duyup reddedenler mahkûm olmaya devam eder.
+
+      **"Cehennem korkusu insanlara zarar verir."** *Cevap:* Bazı insanlar için verir. Klinisyenler buna skrupülozite, yani dinî bir OKB (obsesif-kompulsif bozukluk) biçimi der; Müslümanlar arasında *vesvâs* olarak bilinir. Yaqeen makalesi şunu vurgular: "Vesvese bir 'Müslüman hastalığı' değil, Müslümanlarda OKB'nin dinî bir görünümüdür." Birleşik Krallık'taki bir çalışmanın bir katılımcısı şöyle dedi: "'Eyvah, cehenneme gideceğim'… Sürekli kendi kendime cehennem ateşini düşünüyordum." IOCDF'nin alıntıladığı bir klinisyen şöyle der: "İslam, bildiğinle hareket etmene ve şüpheyi bırakmana izin verir." **Sınır:** Özellikle Müslümanlar üzerinde yapılmış kontrollü çalışmalar bulunamadı.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: heart
     en: '**The doctrine is not a verdict on any one person.** Ibn al-Qayyim held that whether proof was established against a particular individual "is a matter to be decided by Allah." If you are tormented by certainty that you are damned, by endless checking and reassurance-seeking, this may be OCD rather than piety. It responds to treatment, ideally with a therapist who understands religious life.'
+    tr: "**Akide, herhangi bir kişi hakkında bir hüküm değildir.** İbn Kayyim, belirli bir bireye karşı delilin tamamlanıp tamamlanmadığının \"Allah'ın karar vereceği bir mesele\" olduğunu savundu. Lanetlendiğinden emin olmanın, bitmeyen kontrollerin ve güvence arayışının azabını çekiyorsan, bu takva değil OKB olabilir. Tedaviye cevap verir; ideal olarak dinî hayatı anlayan bir terapistle."
+    title:
+      en: Yas tutanlar ve kaygılı olanlar için
+      tr: Yas tutanlar ve kaygılı olanlar için
 followUps:
   - q:
       en: Did Ibn Taymiyya believe Hell ends?
+      tr: İbn Teymiyye cehennemin sona erdiğine inanıyor muydu?
     a:
       en: "According to Hoover, yes: he held that the punishment of unbelievers ends, though some Salafi scholars dispute the attribution."
+      tr: "Hoover'a göre evet: Kâfirlerin azabının sona erdiğini savundu, ancak bazı Selefî âlimler bu nispete itiraz eder."
   - q:
       en: Did Ibn al-Qayyim change his mind?
+      tr: İbn Kayyim fikrini değiştirdi mi?
     a:
       en: His books differ, so a single, final view cannot be established.
+      tr: Kitapları farklı şeyler söylüyor, dolayısıyla tek ve nihai bir görüş tespit edilemez.
   - q:
       en: Is believing Hell may end unbelief?
+      tr: Cehennemin sona erebileceğine inanmak küfür mü?
     a:
       en: Al-Subki said so; Ibn Taymiyya disagreed. Most Sunni scholars hold that Hell is eternal.
+      tr: Sübkî öyle dedi; İbn Teymiyye katılmadı. Sünnî âlimlerin çoğu cehennemin ebedî olduğunu kabul eder.
   - q:
       en: What about those who never heard?
+      tr: Hiç duymamış olanlar ne olacak?
     a:
       en: They are not condemned for unbelief (Q14).
+      tr: Küfür yüzünden mahkûm edilmezler (Q14).
   - q:
       en: Can someone in Hell change?
+      tr: Cehennemdeki biri değişebilir mi?
     a:
       en: The majority says no; the Ibn Taymiyya line says the Fire purifies.
+      tr: Çoğunluk hayır der; İbn Teymiyye çizgisi ateşin arındırdığını söyler.
 legacySources:
   - *a1
   - *a2
@@ -182,3 +226,4 @@ legacySources:
   - *a4
   - *a5
   - *a6
+translatedFrom: docs/research/tr/Q13.md

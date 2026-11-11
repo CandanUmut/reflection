@@ -14,16 +14,13 @@ helpCard: suffering
 verses:
   - 17:15
 steelman:
-  tr: |
-    İyi kalpli büyükannemin mahkûm olduğuna inanmak zorunda mıyım?
+  tr: "\"Annem Müslüman değil. Babam geçen yıl Hristiyan olarak öldü. Beni büyüttüler ve sevdiler. Onların sonsuza dek kaybolduğuna ve babam için Allah'tan bağışlanma dilememe bile izin olmadığına mı inanmam gerekiyor? Peygamber'in bile kendi annesi için dua etmesine izin verilmedi. Sevgimin ne anlamı var?\""
   en: '"My mother is not Muslim. My father died last year as a Christian. They raised me and loved me. Am I meant to believe they are lost for ever, and that I may not even ask God to forgive my father? Even the Prophet was not allowed to pray for his own mother. What is the point of my love?"'
 whyAsked:
-  tr: |
-    Yas ve farklı inançlardan oluşan aileler.
+  tr: Müslüman olanlar, karma ailelerin çocukları ve yas tutanlar bununla her gün yaşar. Nasıl yas tuttuklarını, nasıl dua ettiklerini ve mezarları nasıl ziyaret ettiklerini şekillendirir.
   en: Converts, children of mixed families and the bereaved live with this every day. It shapes how they grieve, pray and visit graves.
 shortAnswer:
-  tr: |
-    Kalpleri yalnızca Allah bilir. Pek çok klasik âlim, mesajı açıkça hiç duymamış insanları mazur gördü. Yas tutabilir, ümit edebilir ve onları anabilirsin.
+  tr: İslam, gayrimüslim olarak ölmüş biri için Allah'tan bağışlanma dilemeyi yasaklar (9:113). Senden onları sevmeyi bırakmanı istemez. Bu hüküm, onların cehennemlik oldukları "iyice belli olduktan sonra" geçerlidir ve hiç kimse bunu belirli bir kişi hakkında bilemez, çünkü mesajın ona gerçekten ulaşıp ulaşmadığını kimse bilemez (Q14). Hayattaki bir akraban için hidayet duası edebilir, gayrimüslim anne babana hürmet edebilir, yas tutabilir, cenazesine katılabilir (Şâfiî ve Hanbelî metinlerinde caizdir) ve mezarını ziyaret edebilirsin; Hz. Peygamber (s.a.v.) de annesinin mezarını ziyaret etti. Katı çoğunluk, mesajı açıkça duyup reddeden birinin kurtulmadığını kabul eder; ama "hiçbir zaman açıkça duymamış olma" mazereti marjinal değil, ana akımdır.
   en: Islam forbids asking God's forgiveness for someone who died a non-Muslim (9:113). It does not ask you to stop loving them. That ruling applies "after it has become clear" that they are people of the Fire, and no one knows that about a particular person, because no one knows whether the message truly reached them (Q14). You may pray for a living relative's guidance, honour non-Muslim parents, grieve, attend the funeral (permitted in Shafiʿi and Hanbali texts), and visit the grave, as the Prophet (pbuh) did his mother's. The strict majority holds that someone who clearly heard and rejected is not saved, but the "never heard clearly" excuse is mainstream, not fringe.
 layers:
   - kind: religious
@@ -44,8 +41,7 @@ layers:
       Yas danışmanlığı yardımcı olur.
     en: Grief counselling helps.
 honestLimits:
-  tr: |
-    Âlimler bu metinlerin nasıl uygulanacağı konusunda farklı görüşlere sahiptir ve kimse kimsenin nihai durumunu bilmez.
+  tr: Müslim 203 ve 976'nın açık anlamı katıdır ve Suyûtî'nin alternatifi bir azınlık görüşüdür. Birkaç pratik hüküm mezhep mezhep doğrulanmadı ve karma inançlı ailelerde yas üzerine hiçbir araştırma bulunamadı.
   en: The plain sense of Muslim 203 and 976 is strict, and al-Suyuti's alternative is a minority view. Several practical rulings were not verified school by school, and no research on grief in mixed-faith families was found.
 visualizations:
   - id: ideas
@@ -80,11 +76,25 @@ fullAnswer:
       **Your love is not a sin; the Prophet (pbuh) wept at his mother's grave.** Abu Hurayra (ra): "The Messenger of Allah visited the grave of his mother and he wept, and moved others around him to tears, and said: I sought permission from my Lord to beg forgiveness for her but it was not granted to me, and I sought permission to visit her grave and it was granted to me so visit the graves, for that makes you mindful of death" ({hadith:muslim:976}). The visit, the tears and the remembering were all permitted. Grief for a non-Muslim parent is part of the Prophet's (pbuh) own life.
 
       **Leave the judgement with God.** You are not asked to know where they are. You are asked to be faithful to God and good to them.
+    tr: |-
+      **Sevgin günah değil; Hz. Peygamber (s.a.v.) annesinin mezarında ağladı.** Ebû Hüreyre (r.a.): "Allah'ın Resulü annesinin kabrini ziyaret etti, ağladı, etrafındakileri de ağlattı ve şöyle buyurdu: Rabbimden onun için bağışlanma dilemek için izin istedim, bana izin verilmedi; kabrini ziyaret etmek için izin istedim, bana izin verildi. Öyleyse kabirleri ziyaret edin, çünkü bu size ölümü hatırlatır" ({hadith:muslim:976}). Ziyaret, gözyaşları ve hatırlamanın hepsine izin verildi. Gayrimüslim bir anne ya da baba için yas tutmak, Hz. Peygamber'in (s.a.v.) kendi hayatının bir parçasıdır.
+
+      **Hükmü Allah'a bırak.** Senden onların nerede olduğunu bilmen istenmiyor. Senden Allah'a sadık ve onlara iyi olman isteniyor.
+    title:
+      en: Kalp ve akıl için
+      tr: Kalp ve akıl için
   - kind: quran
     en: |-
       **The verse and its occasion.** Verse 9:113: "It is not for the Prophet and those who have believed to ask forgiveness for the polytheists, even if they were relatives, after it has become clear to them that they are companions of Hellfire." It was revealed after Abu Talib died, the uncle to whom the Prophet (pbuh) had said: "I will keep on asking Allah's forgiveness for you unless I am forbidden (by Allah) to do so" ({hadith:bukhari:1360}). Verse 28:56 was also revealed about him ({hadith:bukhari:4772}).
 
       **Kindness to non-Muslim parents is commanded.** Verse 31:15: "do not obey them but accompany them in [this] world with appropriate kindness." Verse 60:8: "Allah does not forbid you from those who do not fight you because of religion and do not expel you from your homes – from being righteous toward them and acting justly toward them."
+    tr: |-
+      **Âyet ve iniş sebebi.** 9:113 âyeti: "Ne peygambere, ne iman edenlere akraba bile olsalar cehennemlik oldukları iyice belli olduktan sonra müşriklere istiğfar etmek yoktur". Bu âyet, Hz. Peygamber'in (s.a.v.) kendisine "(Allah tarafından) yasaklanmadıkça senin için Allah'tan bağışlanma dilemeye devam edeceğim" dediği amcası Ebû Tâlib öldükten sonra indi ({hadith:bukhari:1360}). 28:56 âyeti de onun hakkında indi ({hadith:bukhari:4772}).
+
+      **Gayrimüslim anne babaya iyilik emredilir.** 31:15 âyeti: "onlara itaat etme. Fakat dünyada onlarla iyi geçin". 60:8 âyeti: "Allah sizi, din hakkında sizinle savaşmayan ve sizi yurtlarınızdan çıkarmayan kimselere iyilik etmekten, onlara adaletli davranmaktan men etmez."
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **Asmaʾ bint Abi Bakr (ra) and her mother:** "My mother came to me… and she was a pagan… shall I keep good relations with her?' The Prophet said, 'Yes, keep good relation with her'" ({hadith:bukhari:2620}).
@@ -94,6 +104,17 @@ fullAnswer:
       **The Prophet's (pbuh) father.** Anas (ra) reports that a man asked where his father was. The Prophet (pbuh) said, "in the Fire," then called him back: "Verily my father and your father are in the Fire" ({hadith:muslim:203}).
 
       **How scholars read Muslim 203 and 976.** Mulla ʿAli al-Qari and Ibrahim al-Halabi read them literally. Al-Suyuti (d. 1505) argued in *Masalik al-Hunafaʾ*: "The Prophet's parents died before he was sent as Prophet and there is no punishment for them, since 'We never punish until We send a messenger' (17:15). Our Ashʿari Imams… agree… that one who dies while daʿwa has not reached him, dies saved." **Limit:** his view requires setting aside the plain sense of two sahih hadiths. Many scholars rejected it, and some reports he used are judged fabricated.
+    tr: |-
+      **Esmâ bint Ebî Bekir (r.a.) ve annesi:** "Annem yanıma geldi… ve o müşrikti… onunla iyi ilişkiyi sürdüreyim mi?' Peygamber, 'Evet, onunla iyi ilişkini sürdür' dedi" ({hadith:bukhari:2620}).
+
+      **Hidayet için dua.** Devs kabilesi İslam'ı reddettiğinde Hz. Peygamber (s.a.v.) şöyle dua etti: "Allah'ım, Devs kabilesine hidayet ver ve onları bana getir" ({hadith:bukhari:4392}; {hadith:muslim:2524}).
+
+      **Hz. Peygamber'in (s.a.v.) babası.** Enes (r.a.), bir adamın babasının nerede olduğunu sorduğunu aktarır. Hz. Peygamber (s.a.v.) "ateşte" dedi, sonra onu geri çağırdı: "Şüphesiz benim babam da senin baban da ateştedir" ({hadith:muslim:203}).
+
+      **Âlimler Müslim 203 ve 976'yı nasıl okudu?** Aliyyü'l-Kârî ve İbrâhim el-Halebî bunları lafzi olarak okudu. Suyûtî (ö. 1505) *Mesâlikü'l-Hunefâ*'da şunu savundu: "Peygamber'in anne babası o peygamber olarak gönderilmeden önce öldü ve onlar için bir azap yoktur, çünkü 'Biz bir Peygamber göndermedikçe, hiç kimseye azab edecek değiliz' (17:15). Eş'arî imamlarımız… davet kendisine ulaşmadan ölen kimsenin kurtulmuş olarak öldüğü konusunda… ittifak eder." **Sınır:** Onun görüşü, iki sahih hadisin açık anlamını bir kenara bırakmayı gerektirir. Pek çok âlim bunu reddetti ve kullandığı bazı rivayetler uydurma sayılır.
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: fiqh
     en: |-
       - **Forgiveness for a deceased non-Muslim** is forbidden (9:113; Muslim 976). Islamweb: "it is not permissible to supplicate for him or seek forgiveness for him."
@@ -104,36 +125,70 @@ fullAnswer:
       - **Hanafi:** condolence to a non-Muslim is allowed, with a formula of comfort (*al-Fatawa al-Hindiyya* 5/348).
       - **Visiting the grave and grieving** are permitted on the basis of Muslim 976.
       - **A minority position:** some modern Hanafi (Deobandi) fatwas forbid attending a non-Muslim's funeral. TheMufti (IslamQA.org), citing *Ahsanul Fataawa* 4/243, states that "it is not permissible for a Muslim to attend the funeral of a non-Muslim". By contrast, *al-Bahr al-Raʾiq* 2/205, cited by Faraz Rabbani, allows that "one may follow their funeral from afar."
+    tr: |-
+      - **Ölmüş bir gayrimüslim için bağışlanma dilemek** yasaktır (9:113; Müslim 976). Islamweb: "Onun için dua etmek ya da bağışlanma dilemek caiz değildir."
+      - **Hayattaki bir akrabanın hidayeti için dua etmek**, Devs örneğine dayanarak caizdir.
+      - **Şâfiî:** Nevevî: "Bir Müslümanın gayrimüslim bir akrabasının cenazesine katılmasında bir sakınca yoktur" (*Minhâc* s. 62). Ayrıca kabri ziyaret etmenin çoğunluğa göre caiz olduğunu aktarır (*el-Mecmû'* 5/144).
+      - **Mâlikî:** Mâlik (*Müdevvene* 1/261), bir Müslümanın kâfir babasını yıkamaması ya da cenazesini takip etmemesi gerektiğini söyler, "meğer ki onun ihmal edileceğinden korksun; bu durumda onu defnedebilir."
+      - **Hanbelî:** Ahmed, gayrimüslim bir anne baba ya da akraba hakkında şöyle dedi: "…ona katılırsa, bir sakınca yoktur." Hz. Ömer'in Ebû Vâil'e Hristiyan annesi hakkındaki talimatını zikretti: "Cenazesine binekli olarak katıl ve onun önünde git" (Hallâl, Islamweb 367663 yoluyla).
+      - **Hanefî:** Bir gayrimüslime taziyede bulunmak, teselli edici bir ifadeyle caizdir (*el-Fetâva'l-Hindiyye* 5/348).
+      - **Kabri ziyaret etmek ve yas tutmak**, Müslim 976'ya dayanarak caizdir.
+      - **Bir azınlık görüşü:** Bazı modern Hanefî (Diyobendî) fetvalar bir gayrimüslimin cenazesine katılmayı yasaklar. TheMufti (IslamQA.org), *Ahsenü'l-Fetâvâ* 4/243'e atıfla, "bir Müslümanın bir gayrimüslimin cenazesine katılmasının caiz olmadığını" belirtir. Buna karşılık Faraz Rabbani'nin zikrettiği *el-Bahru'r-Râik* 2/205, "cenazelerini uzaktan takip edilebileceğine" izin verir.
+    title:
+      en: Dört mezhep ne diyor?
+      tr: Dört mezhep ne diyor?
   - kind: science
     en: '**Religion tends to help bereaved people, but not consistently.** Wortmann and Park (2008) reviewed 73 studies and found the relations "generally positive but inconsistent and vary depending in part on how religion/spirituality is measured." A systematic review of 32 studies (Becker et al., *Palliative Medicine* 21(3), 2007) found some positive effect in 94% of them: 22 positive, 6 limited positive, 2 with no effect, and 1 in which religion made depression worse. Even so, it concluded that "available data do not allow for a definite answer on whether religious/spiritual beliefs effectively influence bereavement." Among 850 Hong Kong nurses, faith was "weakly associated with lower self-reported depression in bereavement" (Cheung, Lee & Yip, 2017). **Limit:** none of these studies covers grief for a loved one of a different faith, and no data on mixed-faith families were found.'
+    tr: "**Din yas tutan insanlara yardımcı olma eğilimindedir, ama tutarlı şekilde değil.** Wortmann ve Park (2008) 73 çalışmayı gözden geçirdi ve ilişkilerin \"genel olarak olumlu ama tutarsız olduğunu ve kısmen din/maneviyatın nasıl ölçüldüğüne bağlı olarak değiştiğini\" buldu. 32 çalışmayı kapsayan sistematik bir derleme (Becker ve ark., *Palliative Medicine* 21(3), 2007), bunların %94'ünde bir miktar olumlu etki buldu: 22 olumlu, 6 sınırlı olumlu, 2 etkisiz ve dinin depresyonu kötüleştirdiği 1 çalışma. Yine de \"mevcut verilerin, dinî/manevi inançların yası etkili bir şekilde etkileyip etkilemediği konusunda kesin bir cevaba izin vermediği\" sonucuna vardı. 850 Hong Konglu hemşire arasında iman, \"yasta daha düşük öz bildirimli depresyonla zayıf şekilde ilişkiliydi\" (Cheung, Lee ve Yip, 2017). **Sınır:** Bu çalışmaların hiçbiri farklı dinden bir sevdik için tutulan yası kapsamıyor ve karma inançlı ailelere ilişkin veri bulunamadı."
+    title:
+      en: Yas araştırmaları ne diyor?
+      tr: Yas araştırmaları ne diyor?
   - kind: views
     en: |-
       - **Strict:** those who clearly heard and rejected are lost, and funeral attendance is discouraged (Malik; some modern Hanafi fatwas).
       - **Mainstream:** no prayer for forgiveness, but kindness, funerals (Shafiʿi, Hanbali), grave visits and grief are all allowed. The individual's fate is left to God.
       - **Wider hope:** al-Suyuti on the Prophet's (pbuh) parents; al-Ghazali's hope for the Christians of his time.
+    tr: |-
+      - **Katı:** Açıkça duyup reddedenler kaybolmuştur ve cenazeye katılmak hoş karşılanmaz (Mâlik; bazı modern Hanefî fetvalar).
+      - **Ana akım:** Bağışlanma duası yok, ama iyilik, cenazeler (Şâfiî, Hanbelî), kabir ziyaretleri ve yasın hepsi caizdir. Bireyin akıbeti Allah'a bırakılır.
+      - **Daha geniş umut:** Suyûtî'nin Hz. Peygamber'in (s.a.v.) anne babası hakkındaki görüşü; Gazzâlî'nin kendi zamanındaki Hristiyanlar için umudu.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: May I pray for my living non-Muslim mother?
+      tr: Hayattaki gayrimüslim annem için dua edebilir miyim?
     a:
       en: "Yes: for her guidance and her wellbeing."
+      tr: "Evet: hidayeti ve iyiliği için."
   - q:
       en: May I say "God have mercy on him" for my late father?
+      tr: Rahmetli babam için "Allah rahmet eylesin" diyebilir miyim?
     a:
       en: Asking forgiveness is forbidden where it is clear he died a non-Muslim. No school-by-school ruling on general words of mercy was found, so ask a scholar you trust.
+      tr: Gayrimüslim olarak öldüğünün açık olduğu yerde bağışlanma dilemek yasaktır. Genel rahmet ifadeleri hakkında mezhep mezhep bir hüküm bulunamadı; bu yüzden güvendiğin bir âlime sor.
   - q:
       en: May I attend the funeral?
+      tr: Cenazeye katılabilir miyim?
     a:
       en: Shafiʿi and Hanbali texts allow it for relatives; Malik restricted it.
+      tr: Şâfiî ve Hanbelî metinleri akrabalar için buna izin verir; Mâlik bunu kısıtladı.
   - q:
       en: Is it wrong to hope they are saved?
+      tr: Kurtulmalarını ummak yanlış mı?
     a:
       en: No. The "message did not truly reach them" excuse is mainstream.
+      tr: Hayır. "Mesaj onlara gerçekten ulaşmadı" mazereti ana akımdır.
   - q:
       en: How do I live with missing them?
+      tr: Onları özlemekle nasıl yaşarım?
     a:
       en: Visit the grave, keep doing the good things they loved, be kind to the family who remain, and bring your grief to God, as the Prophet (pbuh) did at his mother's grave.
+      tr: Kabrini ziyaret et, sevdikleri iyi şeyleri yapmaya devam et, geride kalan aileye iyi davran ve kederini, Hz. Peygamber'in (s.a.v.) annesinin kabri başında yaptığı gibi, Allah'a götür.
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
+translatedFrom: docs/research/tr/Q31.md

@@ -16,16 +16,13 @@ verses:
   - 2:62
   - 3:85
 steelman:
-  tr: |
-    Milyarlarca insan, hiçbir seçimleri olmadan başka dinlerde doğuyor. Pek çoğu iyi ve samimi. Onları bir doğum tesadüfü yüzünden mahkûm etmek adaletsiz görünüyor.
+  tr: "\"Komşum tanıdığım Müslümanların çoğundan daha nazik ve daha dürüst. İslam hakkında okudu ve sadece onu doğru bulmuyor. Peygamberiniz, 'benden haberdar olan' ve iman etmeden ölen her Yahudinin ya da Hristiyanın ateşte olduğunu söylüyor. Kur'an'ınız başka herhangi bir dinin 'asla kabul edilmeyeceğini' söylüyor (3:85). Yani komşum dürüst bir sonuç yüzünden sonsuza dek cehenneme gidiyor. Ve 'belki de mesajı doğru düzgün duymamıştır' demek bir kaçış kapısı gibi geliyor. Buna kim karar veriyor?\""
   en: "\"My neighbour is kinder and more honest than most Muslims I know. She has read about Islam and simply does not find it true. Your Prophet says that any Jew or Christian who 'hears of me' and dies without believing is in the Fire. Your Quran says any other religion 'will never be accepted' (3:85). So she goes to Hell for ever, for an honest conclusion. And 'maybe she didn't hear it properly' sounds like an escape hatch. Who decides?\""
 whyAsked:
-  tr: |
-    Dostluklar, karma aileler, göç. ABD'de İslam'dan ayrılanların çoğunun dinsiz olduğuna dair Pew verileri, çoğulculuk baskısının gerçek olduğunu düşündürür.
+  tr: Gayrimüslim arkadaşları olan her Müslümanın er ya da geç karşılaştığı soru budur ve dışarıdan bakanların en çok yabancılaştığı soru da budur.
   en: It is the question every Muslim with non-Muslim friends eventually faces, and the one outsiders find most alienating.
 shortAnswer:
-  tr: |
-    Allah bir elçi göndermedikçe azap etmez (17:15). Ana akım âlimlere göre mesajı hiç almamış ya da çarpıtılmış bir hâlini almış olanlar, reddedenler gibi sorumlu tutulmaz. Gazzâlî, kendi döneminin Bizans Hristiyanlarının ve Türklerinin çoğunun muhtemelen Allah'ın rahmetine dâhil olacağını yazdı. Kimin "gerçekten duyduğunu" yalnızca Allah bilir; Müslümanlardan bireyler hakkında hüküm vermeleri istenmez.
+  tr: İki farklı durum vardır. Birincisi, mesajın hiç ulaşmadığı ya da yalnızca çarpıtılmış bir biçimde ulaştığı kişidir. Gazzâlî'den İbn Kayyim'e, Nevevî'ye ve Elbânî'ye kadar ana akım Sünnî âlimler, bu tür insanların küfür yüzünden cezalandırılmadığını kabul eder ve pek çoğu onların Kıyamet Günü'nde imtihan edileceğini ekler. İkincisi, mesajı açık ve doğru bir şekilde duyup yine de reddeden kişidir. İbn Kesîr'in okuduğu şekliyle Müslim 153'e ve 3:85'e dayanan katı ana akım görüş, böyle birinin kurtulmadığıdır. Gazzâlî bu tür insanlara "vahyi inkâr eden kâfirler" der. Gerçek belirsizlik, iki durum arasındaki çizginin nereye düştüğüdür ve herhangi bir birey için bu çizgiyi ancak Allah çizebilir. Pew'in 2013'te ankete katıldığı Müslümanların çoğu, kurtuluşa yalnızca İslam'ın götürdüğünü söyledi.
   en: There are two different cases. The first is the person the message never reached, or reached only in distorted form. Mainstream Sunni scholars, from al-Ghazali to Ibn al-Qayyim, al-Nawawi and al-Albani, hold that such people are not punished for unbelief, and many add that they will be tested on the Day of Judgement. The second is the person who heard the message clearly and accurately and still rejected it. The strict mainstream position, based on Muslim 153 and 3:85 as Ibn Kathir reads them, is that such a person is not saved. Al-Ghazali calls such people "the unbelievers who deny the revelation." The real uncertainty is where the line falls between the two cases, and only God can draw it for any individual. Most Muslims Pew surveyed in 2013 said that Islam alone leads to salvation.
 layers:
   - kind: religious
@@ -105,8 +102,7 @@ rangeOfViews:
         tr: Fakihlerin çoğunca reddedilir. [Debated]
         en: Rejected by most jurists. [Debated]
 honestLimits:
-  tr: |
-    Hiçbir büyük Sünnî mezhep bütün dinlerin eşit derecede geçerli yollar olduğunu öğretmez. Kapsayıcı görüşler, Allah'ın her kişinin mesaja ulaşma imkânını ve samimiyetini bilmesine dayanır.
+  tr: Doğru bilginin ne kadarının "duymak" sayılacağını kimse tam olarak tanımlamadı. Mâtürîdî, Şiî ve Perennialist görüşler belgelenmedi ve anket cevapları ayrıntıları yakalayamaz.
   en: No one has defined precisely how much accurate knowledge counts as "hearing." The Maturidi, Shiʿi and Perennialist views were not documented, and survey answers do not capture nuance.
 visualizations:
   - id: ideas
@@ -158,6 +154,15 @@ fullAnswer:
       **The abrogation report.** Ibn Kathir records that "ʿAli bin Abi Talhah narrated from Ibn ʿAbbas, about [2:62]… that Allah revealed the following Ayah afterwards, [3:85]." Ibn Kathir does not simply declare 2:62 cancelled (*naskh* is the replacement of an earlier ruling by a later one). He comments that the report "indicates that Allah does not accept any deed or work from anyone, unless it conforms to the Law of Muhammad that is, after Allah sent Muhammad." He reads 2:62 as praising the "earlier nations who were righteous and obedient."
 
       **What does "Islam" mean in 3:85?** Ibn Kathir uses both senses. He describes Islam as "the religion that He sent His Books and Messengers with, which is the worship of Allah Alone", and he adds that "after Allah sent Muhammad, whoever meets Allah following a path other than Muhammad's, it will not be accepted of him." **Limit:** al-Tabari on 2:62 has not yet been consulted.
+    tr: |-
+      **Kur'an hem geniş bir vaat hem de dışlayıcı bir iddia içerir.** 2:62 âyeti (krş. 5:69): "Şüphe yok ki, iman edenler, yahudiler, hıristiyanlar ve sabiîler, bunlardan her kim Allah'a ve ahiret gününe gerçekten iman eder ve salih amel işlerse elbette Rabbleri katında bunların ecirleri vardır, bunlara bir korku yoktur, bunlar mahzun da olacak değillerdir." 3:85 âyeti: "Kim İslâm'dan başka bir din ararsa ondan asla kabul edilmeyecek ve o ahirette de zarar edenlerden olacaktır." 17:15 âyeti temel ilkeyi koyar: "Biz bir Peygamber göndermedikçe, hiç kimseye azab edecek değiliz."
+
+      **Nesh rivayeti.** İbn Kesîr şunu kaydeder: "Ali b. Ebî Talha, İbn Abbâs'tan [2:62] hakkında… Allah'ın bundan sonra şu âyeti indirdiğini rivayet etti: [3:85]." İbn Kesîr 2:62'nin iptal edildiğini (*nesh*, önceki bir hükmün sonraki bir hükümle yer değiştirmesidir) doğrudan ilan etmez. Rivayetin, "Allah'ın, Muhammed'in şeriatına uymadıkça, yani Allah Muhammed'i gönderdikten sonra, hiç kimseden hiçbir ameli ya da işi kabul etmediğini gösterdiğini" yorumlar. 2:62'yi "salih ve itaatkâr olan önceki ümmetleri" öven bir âyet olarak okur.
+
+      **3:85'te "İslam" ne demek?** İbn Kesîr iki anlamı da kullanır. İslam'ı "Allah'ın kitaplarını ve peygamberlerini kendisiyle gönderdiği din, yani yalnızca Allah'a ibadet" olarak tarif eder ve "Allah Muhammed'i gönderdikten sonra, Allah'a Muhammed'inkinden başka bir yolu izleyerek kavuşan kimseden bunun kabul edilmeyeceğini" ekler. **Sınır:** Taberî'nin 2:62 tefsirine henüz başvurulmadı.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **Muslim 153.** Abu Hurayra (ra): "By Him in Whose hand is the life of Muhammad, he who amongst the community of Jews or Christians hears about me, but does not affirm his belief in that with which I have been sent and dies in this state (of disbelief), he shall be but one of the denizens of Hell-Fire" ({hadith:muslim:153}). It is sahih by its inclusion in Sahih Muslim.
@@ -175,6 +180,25 @@ fullAnswer:
       - **Ibn al-Qayyim:** reports that al-Bayhaqi and ʿAbd al-Haqq graded it sahih (*Ahkam Ahl al-Dhimma* 2/1149).
       - **Ibn Kathir:** the reports "strengthen" one another (*Tafsir* 5/58).
       - **Ibn Hajar:** "proven to be sound via saheeh isnaads" (*Fath al-Bari* 3/246).
+    tr: |-
+      **Müslim 153.** Ebû Hüreyre (r.a.): "Muhammed'in canı elinde olana yemin ederim ki, Yahudi ya da Hristiyan topluluğundan kim benden haberdar olur da benimle gönderilene iman etmeden bu (inkâr) hâli üzere ölürse, o ancak cehennem ehlinden biri olur" ({hadith:muslim:153}). *Sahîh-i Müslim*'de yer aldığı için sahihtir.
+
+      **"Benden haberdar olur" neden doğru bir şekilde duymak olarak okunuyor ve bunu kim söylüyor?** Âlimler, duymanın ne kadarının hesaba katıldığı konusunda ayrılır.
+      - **Aliyyü'l-Kârî** (ö. 1606, Hanefî bir şârih) onu en dar şekilde okur: "Biri benim mesajımı bilirse."
+      - **Nevevî** (ö. 1277) ters durumu çıkarır: "İslam daveti kendisine ulaşmayan kimse mazur görülür" (*Şerhu Sahîh-i Müslim* 2/188).
+      - **Elbânî** (ö. 1999) neyin ulaşmış sayılacağı konusunda katı bir ölçüt koyar: "İslam'ın mesajı insanlara uydurulmuş bir şekilde… tahrif edilmiş… değiştirilmiş olarak ulaştıysa, o zaman mesajın bu insanlara ulaşmadığını söyleyen ilk kişi benim, çünkü mesajın onlara ulaşmasından kastedilen, saf ve açık mesajdır" (Islamweb 243244).
+
+      **Fetret ehlinin imtihanı.** *Fetret*, peygamberler arasındaki bir ara dönem demektir. Esved b. Serî' (r.a.), dört kişinin Kıyamet Günü'nde mazeret bildireceğini aktarır: "hiçbir şey duymayan sağır bir adam, deli bir adam, bunamış bir adam ve İslam'dan önceki dönemde ölmüş bir adam." Sonuncusu şöyle diyecek: "Ya Rab, bana senden hiçbir peygamber gelmedi." Onlara bir ateşe girmeleri emredilir: "Ateşe girerlerse, o serin ve esenlikli olur" (Müsned-i Ahmed 16301). Ebû Hüreyre'den gelen paralel rivayet şunu ekler: "Ona girmeyen ona sürüklenir."
+
+      **İmtihan hadisinin derecelendirmeleri:**
+      - **Darussalam/Arnaût:** hadis olarak hasen (iyi), ancak bu sened kopuktur.
+      - **Elbânî:** sahih (*es-Sahîha* 3/418–419).
+      - **İbn Kayyim:** Beyhakî'nin ve Abdülhak'ın onu sahih saydığını aktarır (*Ahkâmü Ehli'z-Zimme* 2/1149).
+      - **İbn Kesîr:** rivayetler birbirini "güçlendirir" (*Tefsîr* 5/58).
+      - **İbn Hacer:** "sahih senetlerle sağlam olduğu sabittir" (*Fethu'l-Bârî* 3/246).
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: |-
       **Al-Ghazali's three categories.** In *Fayṣal al-Tafriqa* (*The Decisive Criterion*), al-Ghazali (d. 1111) writes:
@@ -190,11 +214,35 @@ fullAnswer:
       **The strict answer, stated plainly.** Suppose someone received the message as al-Ghazali's second group did, with "his name, his character, and the miraculous signs", and died rejecting it. Al-Ghazali, Ibn Kathir and Ibn al-Qayyim all hold that such a person is not saved. Rabbani adds that "amnesty for those who are not reached by the message does not constitute validation of other religions." **Limit:** the same scholars forbid declaring this of any named person.
 
       **Khalil's study.** Mohammad Hassan Khalil (Michigan State University), in *Islam and the Fate of Others* (OUP, 2012), studies four figures: al-Ghazali ("Damnation as Exception"), Ibn ʿArabi ("All Paths Lead to God"), Ibn Taymiyya ("The Redemption of Humanity") and Rashid Rida ("The Modern Scene"). Bazzano summarises the finding as "not a monolithic consensus but… a cacophony of opinions… which overwhelmingly envisions a heaven filled with Muslims and non-Muslims." This describes Khalil's influential sample, not the whole tradition.
+    tr: |-
+      **Gazzâlî'nin üç grubu.** *Faysalü't-Tefrika* (*Ayırt Edici Ölçüt*) adlı eserinde Gazzâlî (ö. 1111) şöyle yazar:
+
+      > "Kanaatimce, zamanımızdaki Hristiyanların çoğu… inşallah ilahi rahmete dahildir… Bir grup Muhammed'in adını bile hiç duymamıştır… bu yüzden mazurdur. İkinci bir grup onun adını, ahlakını ve mucizevi işaretlerini duymuştur — bunlar vahyi inkâr eden kâfirlerdir. Ve üçüncü bir grup… Muhammed'in adını duymuş… ama ahlakını ve sıfatlarını duymamıştır; çocukluklarından beri Muhammed adında yalancı bir sahtekârın peygamber olduğunu iddia ettiğini duymuşlardır. Bu tür insanlar birinci grupla aynı kategoriye girer."
+
+      **Eş'arî görüşü.** Cürcânî: "Bir peygamberin daveti kesin olarak kendisine ulaşmayan kimse için hiçbir sorumluluk yoktur." Faraz Rabbani bu görüşü Senûsî ve Bâcûrî üzerinden izler ve onu "sağlam bir şekilde ana akım Sünnî kelâm" olarak nitelendirir. Mâtürîdî görüşünün kaynağı henüz bulunmadı.
+
+      **Eserî görüşü.** İbn Teymiyye (*el-Cevâbü's-Sahîh* 2/298) ve İbn Kayyim (*Ahkâmü Ehli'z-Zimme* 2/1137) ahirette imtihanı tercih eder. İbn Kayyim "buna kim karar veriyor?" sorusuna da cevap verir (*Târîku'l-Hicreteyn* 2/900):
+
+      > "Peygamberler aracılığıyla aleyhine delil ikame edilenler dışında hiç kimseyi cezalandırmayacaktır… Ama belirli bir bireye karşı delilin ikame edilip edilmediği meselesine gelince, bu Allah'ın karar vereceği bir meseledir ve bu konuda belirli bireyler hakkında hüküm veremeyiz."
+
+      **Katı cevap, açıkça söylenmiş hâliyle.** Birinin mesajı Gazzâlî'nin ikinci grubu gibi, "adını, ahlakını ve mucizevi işaretlerini" duyarak aldığını ve onu reddederek öldüğünü varsayalım. Gazzâlî, İbn Kesîr ve İbn Kayyim'in hepsi böyle birinin kurtulmadığını kabul eder. Rabbani, "mesajın ulaşmadığı kimselere tanınan affın diğer dinleri onaylamak anlamına gelmediğini" ekler. **Sınır:** Aynı âlimler, adı belli herhangi bir kişi hakkında bunu ilan etmeyi yasaklar.
+
+      **Khalil'in çalışması.** Mohammad Hassan Khalil (Michigan State Üniversitesi), *Islam and the Fate of Others* (*İslam ve Ötekilerin Akıbeti*, OUP, 2012) adlı eserinde dört isim üzerinde durur: Gazzâlî ("İstisna olarak lanetlenme"), İbnü'l-Arabî ("Bütün yollar Allah'a çıkar"), İbn Teymiyye ("İnsanlığın kurtuluşu") ve Reşîd Rızâ ("Modern sahne"). Bazzano bulguyu, "yekpare bir icmâ değil… ezici çoğunlukla Müslümanlar ve gayrimüslimlerle dolu bir cenneti öngören… bir görüşler kakofonisi" olarak özetler. Bu, geleneğin tamamını değil, Khalil'in etkili örneklemini tarif eder.
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: objection
     en: |-
       **"'True hearing' is an escape hatch."** *Reply:* The tradition says explicitly that God decides. The standard rests on 17:15, and al-Ghazali stated it in the 11th century, long before modern pluralism. **Limit:** nobody can check it on earth, and it gives no one certainty in either direction.
 
       **"Honest error is punished."** *Reply:* What the mainstream holds culpable is rejection after the truth has become clear, not mistaken belief, and only God knows the inner state. **Limit:** for someone who truly understood and was not persuaded, the strict view offers no comfort, and Muslims should say so plainly.
+    tr: |-
+      **"'Gerçekten duymak' bir kaçış kapısıdır."** *Cevap:* Gelenek açıkça Allah'ın karar verdiğini söyler. Ölçüt 17:15'e dayanır ve Gazzâlî onu 11. yüzyılda, modern çoğulculuktan çok önce dile getirdi. **Sınır:** Kimse bunu yeryüzünde kontrol edemez ve bu, kimseye her iki yönde de kesinlik vermez.
+
+      **"Dürüst hata cezalandırılıyor."** *Cevap:* Ana akımın kusurlu saydığı şey, yanlış inanç değil, hakikat açıkça ortaya çıktıktan sonra reddetmektir ve iç hâli yalnızca Allah bilir. **Sınır:** Gerçekten anlayıp ikna olmayan biri için katı görüş hiçbir teselli sunmaz ve Müslümanlar bunu açıkça söylemelidir.
+    title:
+      en: En güçlü itirazlar ve cevaplar
+      tr: En güçlü itirazlar ve cevaplar
   - kind: views
     en: |-
       **Scholarly views range from strict exclusivism to perennialism.**
@@ -205,29 +253,55 @@ fullAnswer:
       - **Not documented here:** Perennialism (Schuon, Nasr: all major religions as valid paths), and Mutahhari's Shiʿi distinction between the culpable and non-culpable ignorant (*jāhil muqaṣṣir/qāṣir*).
 
       **What ordinary Muslims believe.** Pew (2013) found that in 34 of 38 countries at least half of Muslims say Islam is "the one true religion that can lead to eternal life in heaven." The figure was 96% in Egypt and Jordan and 95% in Iraq, but 29% in Kazakhstan (where 49% said many religions can) and 37% in Albania. Muslims who pray several times a day held this view more often; in Russia the gap was 41 points. US Muslims are "much more open" to many paths.
+    tr: |-
+      **Âlimlerin görüşleri katı dışlayıcılıktan perennializme kadar uzanır.**
+      - **Katı dışlayıcılık:** mazeretler dar okunur.
+      - **Ana akım "mesaj ulaştı mı" görüşü:** Gazzâlî, Eş'arîler, İbn Teymiyye, İbn Kayyim, Elbânî.
+      - **Daha geniş umut:** İbnü'l-Arabî ve İbn Teymiyye'nin cehennemin sona ermesi hakkındaki görüşü (Q13).
+      - **2:62'nin modern çoğulcu okumaları:** bir azınlık.
+      - **Burada belgelenmedi:** Perennializm (Schuon, Nasr: bütün büyük dinler geçerli yollardır) ve Mutahharî'nin kusurlu ve kusursuz cahil (*câhil-i mukassır/kâsır*) arasındaki Şiî ayrımı.
+
+      **Sıradan Müslümanlar neye inanıyor?** Pew (2013), 38 ülkeden 34'ünde Müslümanların en az yarısının İslam'ın "cennette ebedî hayata götürebilecek tek hak din" olduğunu söylediğini buldu. Bu oran Mısır ve Ürdün'de %96, Irak'ta %95, ama Kazakistan'da %29 (burada %49 pek çok dinin götürebileceğini söyledi) ve Arnavutluk'ta %37'ydi. Günde birkaç kez namaz kılan Müslümanlar bu görüşü daha sık savundu; Rusya'da fark 41 puandı. ABD'li Müslümanlar pek çok yola "çok daha açık".
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
   - kind: heart
     en: "**If someone you love died outside Islam, neither you nor anyone else can know that the message truly reached them.** Al-Ghazali hoped that most Christians of his day were within God's mercy. Ibn al-Qayyim forbade judging any individual. You may leave your loved one with God, and hope."
+    tr: "**Sevdiğin biri İslam'ın dışında öldüyse, ne sen ne de başka biri mesajın ona gerçekten ulaşıp ulaşmadığını bilebilir.** Gazzâlî, kendi zamanındaki Hristiyanların çoğunun Allah'ın rahmeti içinde olduğunu umdu. İbn Kayyim herhangi bir birey hakkında hüküm vermeyi yasakladı. Sevdiğini Allah'a bırakabilir ve umut edebilirsin."
+    title:
+      en: Yas tutan okuyucu için
+      tr: Yas tutan okuyucu için
 followUps:
   - q:
       en: Is my sincere friend who knows Islam well going to Hell?
+      tr: İslam'ı iyi bilen samimi arkadaşım cehenneme mi gidecek?
     a:
       en: On the strict view, yes, if she truly understood and rejected. Whether she did is known only to God.
+      tr: Katı görüşe göre, gerçekten anlayıp reddettiyse, evet. Bunu yapıp yapmadığını yalnızca Allah bilir.
   - q:
       en: Was 2:62 abrogated?
+      tr: 2:62 neshedildi mi?
     a:
       en: A report from Ibn ʿAbbas says so. Ibn Kathir reads it as meaning that after Muhammad (pbuh), only his law is accepted.
+      tr: İbn Abbâs'tan gelen bir rivayet öyle diyor. İbn Kesîr bunu, Hz. Muhammed'den (s.a.v.) sonra yalnızca onun şeriatının kabul edildiği şeklinde okur.
   - q:
       en: What happens to people who never heard?
+      tr: Hiç duymamış insanlara ne olur?
     a:
       en: They are excused or tested. Musnad Ahmad 16301 is graded sahih by al-Albani and hasan by al-Arnaʾut.
+      tr: Mazur görülürler ya da imtihan edilirler. Müsned-i Ahmed 16301, Elbânî tarafından sahih, Arnaût tarafından hasen olarak derecelendirildi.
   - q:
       en: Is the "never heard properly" excuse fringe?
+      tr: '"Doğru düzgün duymamış olma" mazereti marjinal mi?'
     a:
       en: No. Al-Ghazali, al-Nawawi, al-Jurjani, Ibn al-Qayyim and al-Albani all hold it.
+      tr: Hayır. Gazzâlî, Nevevî, Cürcânî, İbn Kayyim ve Elbânî'nin hepsi bunu savunur.
   - q:
       en: Do most Muslims believe only Muslims are saved?
+      tr: Müslümanların çoğu yalnızca Müslümanların kurtulacağına mı inanıyor?
     a:
       en: In most countries Pew surveyed, yes.
+      tr: Pew'in ankete katıldığı ülkelerin çoğunda evet.
 legacySources:
   - *a1
   - *a2
@@ -236,3 +310,4 @@ legacySources:
   - *a5
   - *a6
   - *a7
+translatedFrom: docs/research/tr/Q14.md

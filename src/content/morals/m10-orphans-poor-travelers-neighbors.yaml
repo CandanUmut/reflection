@@ -16,7 +16,7 @@ verses:
   - 2:177
   - 76:8-9
 summary:
-  tr: Kur'an inkârı toplumsal bir ihmal olarak tarif eder — yetimi itip kakan, yoksulu doyurmaya teşvik etmeyen.
+  tr: "Kur'an imanı toplumsal terimlerle tarif eder: \"Dini yalanlayan\", \"öksüzü iter, kakar\" ve \"Yoksulu doyurmaya önayak olmaz\" (107:1–3). İlgi halkalar hâlinde genişler — anne baba, akrabalar, yetimler, yoksullar, yakın ve uzak komşular, yolcu (4:36)."
   en: 'The Quran describes faith in social terms: the one "who denies the Recompense" is "the one who drives away the orphan And does not encourage the feeding of the poor" (107:1–3). Care reaches out in rings — parents, relatives, orphans, the needy, near and far neighbours, the traveller (4:36).'
 teachings:
   tr: |
@@ -61,10 +61,7 @@ stories:
     - Islamic cities had waqfs for travelers (caravanserais, *han*), soup kitchens, and even foundations to provide dowries for poor brides and to replace broken dishes for servants so they would not be punished.
     - *Kafāla* (sponsorship of an orphan, keeping their own name and lineage) remains a living practice.
 gaps:
-  tr: |
-    - Modern şehirlerde komşuluk ilişkileri çoğu zaman zayıftır; pek çok kişi komşusunu tanımaz.
-    - Müslüman çoğunluklu ülkelerde yetim ve mülteci bakımı, güçlü programlardan ciddi ihmale kadar büyük farklılıklar gösterir.
-    - *Kefâlet*, Batı'daki evlat edinmeden farklıdır (çocuk soyunu korur); burada basitçe "daha iyi" diye değil, tarafsız biçimde anlatılır.
+  tr: Kurtubî'ye ve Gazzâlî'nin komşular hakkındaki görüşlerine henüz başvurulmadı. Bükreş sonuçları *Science* makalesinin bir haber özetinden aktarılıyor. Müslüman çoğunluklu ülkelerde yetimlere ve mültecilere bakım büyük farklılıklar gösteriyor; bu konuda hiçbir veri okunmadı.
   en: Al-Qurtubi and al-Ghazali on neighbours have not yet been consulted. The Bucharest results are reported from a news summary of the *Science* paper. Care for orphans and refugees in Muslim-majority countries varies widely; no data on this were read.
 visualizations:
   - id: ideas
@@ -103,6 +100,10 @@ sources:
 fullAnswer:
   - kind: meaning
     en: '**Yatīm, miskīn, ibn al-sabīl, jār.** *Yatīm*: an orphan, a child who has lost the father. *Miskīn*: someone in need, whose income does not cover their needs. *Ibn al-sabīl*: "child of the road", a traveller cut off from home. *Jār*: neighbour.'
+    tr: "**Yetîm, miskîn, ibnü's-sebîl, câr.** *Yetîm*: yetim, babasını kaybetmiş çocuk. *Miskîn*: geliri ihtiyaçlarını karşılamayan muhtaç kişi. *İbnü's-sebîl*: \"yolun çocuğu\", evinden kopmuş yolcu. *Câr*: komşu."
+    title:
+      en: Ne anlama geliyor?
+      tr: Ne anlama geliyor?
   - kind: quran
     en: |-
       **The orphan and the one who asks (93:9–10).** "So as for the orphan, do not oppress [him]. And as for the petitioner, do not repel [him]" (93:9–10). Sura al-Duha is Meccan and addressed to the Prophet (pbuh), who was himself an orphan: the sura first reminds him that God found him an orphan and gave him refuge (93:6; not quoted, as no verified text was available), then tells him how to treat orphans.
@@ -112,16 +113,41 @@ fullAnswer:
       **The rings of care (4:36).** "Worship Allah and associate nothing with Him, and to parents do good, and to relatives, orphans, the needy, the near neighbor, the neighbor farther away, the companion at your side, the traveler, and those whom your right hands possess. Indeed, Allah does not like those who are self-deluding and boastful" (4:36), Medinan.
 
       **Feeding without wanting thanks (76:8–9).** "And they give food in spite of love for it to the needy, the orphan, and the captive, [Saying], 'We feed you only for the countenance of Allah. We wish not from you reward or gratitude'" (76:8–9). In the Prophet's (pbuh) time the captives were non-Muslim prisoners of war, so the verse includes feeding enemies in captivity.
+    tr: |-
+      **Yetim ve isteyen (93:9–10).** "Öyleyse sakın yetimi ezme. Dilenciyi de azarlama." (93:9–10). Duhâ Sûresi Mekkîdir ve kendisi de yetim olan Hz. Peygamber'e (s.a.v.) hitap eder: Sûre önce ona Allah'ın onu yetim bulup barındırdığını hatırlatır (93:6; doğrulanmış bir metin mevcut olmadığı için alıntılanmadı), sonra ona yetimlere nasıl davranacağını söyler.
+
+      **İhmal yoluyla yalanlanan din (107:1–3).** "Dini yalanlayanı gördün mü? İşte o, öksüzü iter, kakar. Yoksulu doyurmaya önayak olmaz." (107:1–3), genellikle Mekkî sayılır. Hesap Günü'nü yalanlamak bir sözle değil, insanın zayıflara nasıl davrandığıyla görünür.
+
+      **İlgi halkaları (4:36).** "Allah'a ibadet edin ve O'na hiçbir şeyi ortak koşmayın. Sonra anaya, babaya, akrabaya, yetimlere, yoksullara, akraba olan komşulara, yakın komşulara, yanında bulunan arkadaşa, yolda kalanlara, sahip olduğunuz kölelere iyilik edin. Şüphesiz Allah, kibirlenen ve övünen kimseyi sevmez." (4:36), Medenî.
+
+      **Teşekkür beklemeden yedirmek (76:8–9).** "Düşküne, yetime ve esire seve seve yemek yedirirler. "Size sırf Allah rızası için yemek yediriyoruz. Sizden ne bir karşılık, ne de bir teşekkür bekliyoruz."" (76:8–9). Hz. Peygamber'in (s.a.v.) zamanında esirler gayrimüslim savaş esirleriydi; dolayısıyla âyet, esir düşmüş düşmanları doyurmayı da kapsar.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **The neighbour.** Ibn ʿUmar (ra) reports the Prophet (pbuh) as saying: "Gabriel kept on recommending me about treating the neighbors in a kind and polite manner so much so that I thought that he would order (me) to make them (my) heirs" ({hadith:bukhari:6015}).
 
       **The orphan's guardian.** Sahl (ra) reports the Prophet (pbuh) as saying: "I and the guardian of an orphan will be in Jannah like this" ({hadith:bukhari:5304}) — the full report describes him holding up two fingers close together.
+    tr: |-
+      **Komşu.** İbn Ömer (r.a.), Hz. Peygamber'in (s.a.v.) şöyle buyurduğunu aktarır: "Cebrâil bana komşulara iyi ve nazik davranmayı o kadar çok tavsiye etti ki, onları (bana) mirasçı yapmamı emredeceğini sandım" ({hadith:bukhari:6015}).
+
+      **Yetimin velisi.** Sehl (r.a.), Hz. Peygamber'in (s.a.v.) şöyle buyurduğunu aktarır: "Ben ve yetimin velisi cennette böyle olacağız" ({hadith:bukhari:5304}) — rivayetin tamamı onun iki parmağını birbirine yakın şekilde kaldırdığını anlatır.
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: research
     en: |-
       **Strong social ties are linked to longer life.** [Established; correlational.] Holt-Lunstad, Smith and Layton (2010) combined 148 studies with 308,849 participants followed for an average of 7.5 years. People with stronger social relationships had about 50% greater odds of survival (odds ratio 1.50, 95% CI 1.42–1.59) — an effect the authors call "comparable with quitting smoking" and larger than many other risk factors.
 
       **Children do better in families than in institutions.** [Established.] In the Bucharest Early Intervention Project, 136 young children living in Romanian orphanages were randomly assigned either to stay or to move to foster families. By 42 and 54 months, the foster-care group had significantly higher developmental and IQ scores; the earlier the placement, the better. Even the youngest placed children remained "nearly 10 points below" never-institutionalised children (Nelson et al., 2007, as reported). This supports the Islamic preference for caring for orphans within families (guardianship, *kafāla*) rather than in large institutions.
+    tr: |-
+      **Güçlü sosyal bağlar daha uzun hayatla ilişkilidir.** [Established; korelasyonel.] Holt-Lunstad, Smith ve Layton (2010), ortalama 7,5 yıl takip edilen 308.849 katılımcılı 148 çalışmayı birleştirdi. Daha güçlü sosyal ilişkileri olan insanların hayatta kalma olasılığı yaklaşık %50 daha yüksekti (olasılık oranı 1,50, %95 GA 1,42–1,59) — yazarların "sigarayı bırakmakla karşılaştırılabilir" dediği ve diğer pek çok risk etkeninden daha büyük bir etki.
+
+      **Çocuklar kurumlarda değil, ailelerde daha iyi gelişir.** [Established.] Bükreş Erken Müdahale Projesi'nde, Romanya'daki yetimhanelerde yaşayan 136 küçük çocuk rastgele olarak ya orada kalmaya ya da koruyucu ailelere geçmeye ayrıldı. 42. ve 54. aylarda koruyucu aile grubunun gelişim ve IQ puanları anlamlı şekilde daha yüksekti; yerleştirme ne kadar erkense o kadar iyiydi. Yerleştirilen en küçük çocuklar bile hiç kuruma girmemiş çocukların "yaklaşık 10 puan altında" kaldı (Nelson ve ark., 2007, aktarıldığı şekliyle). Bu, İslam'ın yetimlerin büyük kurumlarda değil, aileler içinde (velayet, *kefâlet*) bakılmasını tercih etmesini destekler.
+    title:
+      en: Araştırmalar ne gösteriyor?
+      tr: Araştırmalar ne gösteriyor?
   - kind: practice
     en: |-
       **Know your neighbours' names**, greet them, share food, notice when someone is ill or alone.
@@ -131,30 +157,57 @@ fullAnswer:
       **Feed people** without expecting thanks (76:9): a meal for a family in need, a donation to a food bank.
 
       **Help travellers and newcomers**: refugees, students far from home, new arrivals in your city.
+    tr: |-
+      **Komşularının adlarını bil**, onları selamla, yemek paylaş, birinin hasta ya da yalnız olduğunu fark et.
+
+      **Bir yetime sponsor ol**, güvenilir bir kuruluş aracılığıyla — ya da gücün yetiyorsa, *kefâlet* (velayet) ile birini evine al.
+
+      **İnsanları doyur**, teşekkür beklemeden (76:9): muhtaç bir aile için bir yemek, bir gıda bankasına bağış.
+
+      **Yolculara ve yeni gelenlere yardım et**: mülteciler, evinden uzaktaki öğrenciler, şehrine yeni gelenler.
+    title:
+      en: Günlük hayatta
+      tr: Günlük hayatta
   - kind: heart
     en: |-
       **If you grew up as an orphan or in care**, the Prophet (pbuh) was an orphan too, and the Quran addresses him as one (93:6–9). Your experience is not a mark against you.
 
       **If you are lonely**, you are not failing at faith. Loneliness is a real health risk (Holt-Lunstad et al.). Reaching out — to a mosque, a neighbour, a community group — is itself part of what these verses ask.
+    tr: |-
+      **Yetim olarak ya da koruma altında büyüdüysen**, Hz. Peygamber (s.a.v.) de yetimdi ve Kur'an ona yetim olarak hitap eder (93:6–9). Tecrübe ettiklerin senin aleyhine bir leke değildir.
+
+      **Yalnızsan**, imanda başarısız olmuyorsun. Yalnızlık gerçek bir sağlık riskidir (Holt-Lunstad ve ark.). Bir camiye, bir komşuya, bir topluluk grubuna uzanmak, bu âyetlerin istediği şeyin bir parçasıdır.
+    title:
+      en: Zorlanan kişi için
+      tr: Zorlanan kişi için
 followUps:
   - q:
       en: Who were "the captive" in 76:8?
+      tr: 76:8'deki "esir" kimdi?
     a:
       en: Prisoners of war, who in the Prophet's (pbuh) time were non-Muslims.
+      tr: Hz. Peygamber'in (s.a.v.) zamanında gayrimüslim olan savaş esirleri.
   - q:
       en: Why does 107 link denying religion to neglecting the poor?
+      tr: 107. sûre dini yalanlamayı neden yoksulu ihmal etmeye bağlar?
     a:
       en: Because, in the Quran, belief in judgement shows in conduct toward the weak.
+      tr: Çünkü Kur'an'da hesaba iman, zayıflara karşı davranışta görünür.
   - q:
       en: What is *kafāla*?
+      tr: "*Kefâlet* nedir?"
     a:
       en: Guardianship of an orphan, raising them without changing their lineage. Its legal rules were not covered here.
+      tr: Bir yetimin velayeti; onu nesebini değiştirmeden büyütmek. Hukuki hükümleri burada ele alınmadı.
   - q:
       en: Is institutional orphan care bad?
+      tr: Kurumlarda yetim bakımı kötü mü?
     a:
       en: The Bucharest study found that family-based foster care produced better development than institutions, especially when started early.
+      tr: Bükreş çalışması, aileye dayalı koruyucu bakımın, özellikle erken başladığında, kurumlardan daha iyi gelişim sağladığını buldu.
 legacySources:
   - *a1
   - *a2
   - *a3
   - *a4
+translatedFrom: docs/research/tr/M10.md

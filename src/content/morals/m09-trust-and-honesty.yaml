@@ -16,7 +16,7 @@ verses:
   - 8:27
   - 33:72
 summary:
-  tr: Peygamberliğinden önce Hz. Muhammed *el-Emîn*, "güvenilir" diye bilinirdi. Bugünkü kamu hayatıyla arasındaki mesafe, gençlerin şüphe sebeplerinden biri.
+  tr: "*Emanet* — güven — başkalarının sana bıraktığı şeyleri, sözünü, makamını ve insan olmanın bütün sorumluluğunu kapsar: \"Biz o emaneti göklere, yere ve dağlara arz ettik, onlar, onu yüklenmeye yanaşmadılar, ondan korktular da onu insan yüklendi.\" (33:72). Bir emanete hıyanet etmek, Hz. Peygamber'in (s.a.v.) sözleriyle, münafıklığın bir alametidir."
   en: "*Amāna* — trust — covers what others leave with you, your word, your office, and the whole responsibility of being human: \"we offered the Trust to the heavens and the earth and the mountains, and they declined to bear it and feared it; but man [undertook to] bear it\" (33:72). Betraying a trust is, in the Prophet's (pbuh) words, a sign of hypocrisy."
 teachings:
   tr: |
@@ -59,9 +59,7 @@ stories:
     - The Quraysh trusted him to place the Black Stone during the Kaʿba rebuilding, before prophethood.
     - ʿUmar's governors were audited; he compared their wealth before and after office.
 gaps:
-  tr: |
-    - Pek çok Müslüman çoğunluklu ülke, Uluslararası Şeffaflık Örgütü'nün Yolsuzluk Algı Endeksi'nde alt yarıda yer alıyor. Türkiye 2025 endeksinde **100 üzerinden 31** puan aldı (182 ülke ve bölge).
-    - *El-Emîn* ile bugünkü kamu hayatı arasındaki mesafe, Yaqeen'in ABD'deki 630 Müslümanla yaptığı ankete (Chouhoud, 2018) göre gençlerin şüphe için gösterdiği başlıca sebeplerden biridir.
+  tr: '*El-Emîn* lakabına ilişkin belirli rivayet ve "sana hıyanet edene hıyanet etme" hadisinin derecesi henüz kontrol edilmedi. Ülkeler arası güven araştırmaları korelasyoneldir. Müslüman çoğunluklu ülkelerin yolsuzluk puanları henüz kontrol edilmedi.'
   en: The specific report of the title *al-Amīn* and the grade of "do not betray those who betrayed you" have not yet been checked. Cross-country trust research is correlational. Corruption scores for Muslim-majority countries have not yet been checked.
 visualizations:
   - id: ideas
@@ -114,6 +112,13 @@ fullAnswer:
       **Amāna and amīn.** The root *ʾ-m-n* gives *amn* (safety), *īmān* (faith) and *amāna* (trust). A trustworthy person (*amīn*) is someone with whom others feel safe. Before his prophethood, the Prophet (pbuh) was known among the Quraysh as *al-Amīn*, "the trustworthy" (reported widely in the *sīra*; the specific report has not yet been checked).
 
       **ʿAhd.** A commitment or promise (17:34). Keeping it is part of *amāna*.
+    tr: |-
+      **Emanet ve emîn.** *E-m-n* kökünden *emn* (güvenlik), *îmân* (iman) ve *emânet* (güven, emanet) gelir. Güvenilir kişi (*emîn*), başkalarının yanında kendini güvende hissettiği kişidir. Hz. Peygamber (s.a.v.), peygamberliğinden önce Kureyş arasında *el-Emîn*, "güvenilir" olarak biliniyordu (*siyer*de yaygın olarak aktarılır; belirli rivayet henüz kontrol edilmedi).
+
+      **Ahid.** Bir taahhüt ya da söz (17:34). Onu tutmak *emanet*in bir parçasıdır.
+    title:
+      en: Ne anlama geliyor?
+      tr: Ne anlama geliyor?
   - kind: quran
     en: |-
       **The great Trust (33:72).** "Indeed, we offered the Trust to the heavens and the earth and the mountains, and they declined to bear it and feared it; but man [undertook to] bear it. Indeed, he was unjust and ignorant" (33:72), the second-to-last verse of Sura al-Ahzab, Medinan. Ibn Kathir reports several readings of the Trust: Ibn ʿAbbas (via al-ʿAwfi): "obedience"; Ibn ʿAbbas (via ʿAli ibn Abi Talha), and Mujahid, Saʿid ibn Jubayr, al-Dahhak and al-Hasan al-Basri: "the obligatory duties" (*al-farāʾiḍ*); Qatada: "religion, obligatory duties and prescribed punishments"; Ubayy ibn Kaʿb: part of it is that a woman "was entrusted with her own chastity". On why the heavens and earth declined, Ibn ʿAbbas said they "were afraid of it, not because their intention was sinful, but because of their respect for the religion of Allah". "Unjust and ignorant" he explained as: "he underestimated the command of Allah." So the verse is about the moral responsibility of being human: to carry duties freely, which the rest of creation does not.
@@ -121,6 +126,15 @@ fullAnswer:
       **Returning trusts and judging justly (4:58).** "Indeed, Allah commands you to render trusts to whom they are due and when you judge between people to judge with justice" (4:58), Medinan. Ibn Kathir reports from Ibn Jurayj (via Ibn Jarir) that it "was revealed concerning ʿUthman bin Talhah from whom the Messenger of Allah took the key of the Kaʿbah" at the conquest of Mecca and then returned it, and says: "It is popular that this is the reason behind revealing the Ayah"; no grading of the report is given. He adds: "Yet, the application of the Ayah is general", citing Ibn ʿAbbas and Muhammad ibn al-Hanafiyya: "This Ayah is for the righteous and wicked." The trusts include God's rights (prayer, zakāh, fasting) and people's rights over each other.
 
       **Believers keep trusts and promises (23:8; 17:34; 8:27).** "And they who are to their trusts and their promises attentive" (23:8), Meccan, in the list of qualities of successful believers. "And fulfill [every] commitment. Indeed, the commitment is ever [that about which one will be] questioned" (17:34), Meccan. "O you who have believed, do not betray Allah and the Messenger or betray your trusts while you know [the consequence]" (8:27), Medinan.
+    tr: |-
+      **Büyük emanet (33:72).** "Biz o emaneti göklere, yere ve dağlara arz ettik, onlar, onu yüklenmeye yanaşmadılar, ondan korktular da onu insan yüklendi. O gerçekten çok zalim ve çok cahildir." (33:72), Ahzâb Sûresi'nin sondan ikinci âyeti, Medenî. İbn Kesîr emanetin birkaç okumasını aktarır: İbn Abbâs (Avfî yoluyla): "itaat"; İbn Abbâs (Ali b. Ebî Talha yoluyla) ve Mücâhid, Saîd b. Cübeyr, Dahhâk ve Hasan-ı Basrî: "farzlar" (*el-ferâiz*); Katâde: "din, farzlar ve hadler"; Übey b. Ka'b: Bunun bir kısmı, kadına "kendi iffetinin emanet edilmesidir". Göklerin ve yerin neden yanaşmadığı hakkında İbn Abbâs şöyle dedi: "Ondan korktular; niyetleri günah olduğu için değil, Allah'ın dinine duydukları saygıdan dolayı." "Çok zalim ve çok cahil" ifadesini de şöyle açıkladı: "Allah'ın emrini hafife aldı." Yani âyet insan olmanın ahlaki sorumluluğuyla ilgilidir: yaratılışın geri kalanının taşımadığı görevleri özgürce taşımak.
+
+      **Emanetleri ehline vermek ve adaletle hükmetmek (4:58).** "Allah size, emanetleri ehline vermenizi ve insanlar arasında hükmettiğiniz zaman adaletle hükmetmenizi emrediyor." (4:58), Medenî. İbn Kesîr, İbn Cüreyc'ten (İbn Cerîr yoluyla) âyetin, "Allah Resulü'nün Mekke'nin fethinde Kâbe'nin anahtarını kendisinden alıp" sonra geri verdiği "Osman b. Talha hakkında indiğini" aktarır ve şöyle der: "Âyetin iniş sebebinin bu olduğu meşhurdur"; rivayet için bir derece verilmiyor. Şunu ekler: "Ancak âyetin uygulaması geneldir" ve İbn Abbâs'ı ve Muhammed b. Hanefiyye'yi zikreder: "Bu âyet iyi için de kötü için de geçerlidir." Emanetler Allah'ın haklarını (namaz, zekât, oruç) ve insanların birbiri üzerindeki haklarını içerir.
+
+      **Müminler emanetleri ve sözleri korur (23:8; 17:34; 8:27).** "Yine onlar ki, emanetlerine ve ahidlerine riayet ederler," (23:8), Mekkî, kurtuluşa eren müminlerin nitelikleri listesinde. "Ahdi de yerine getirin. Çünkü verilen sözde elbette sorumluluk bulunuyor." (17:34), Mekkî. "Ey iman edenler! Allah'a ve Resul'e hainlik etmeyiniz ki, bile bile kendi emanetlerinize hıyanet etmiş olmayasınız." (8:27), Medenî.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: sunnah
     en: |-
       **The signs of a hypocrite.** "The signs of a hypocrite are three: 1. Whenever he speaks, he tells a lie. 2. Whenever he promises, he always breaks it (his promise). 3. If you trust him, he proves to be dishonest. (If you keep something as a trust with him, he will not return it.)" ({hadith:bukhari:33}, narrated by Abu Hurayra). The hadith does not say such a person has left Islam; it names behaviour that contradicts faith.
@@ -128,13 +142,33 @@ fullAnswer:
       **Do not betray even the betrayer.** Ibn Kathir cites a hadith from al-Hasan via Samura: "Return the trust to those who entrusted you, and do not betray those who betrayed you", saying that "Imam Ahmad and the collectors of Sunan recorded this Hadith"; its grade has not yet been checked.
 
       **Character before prophethood.** When the Prophet (pbuh) came home shaken after the first revelation, his wife Khadija (ra) reassured him: "Never! By Allah, Allah will never disgrace you. You keep good relations with your kith and kin, help the poor and the destitute, serve your guests generously…" ({hadith:bukhari:3}, narrated by ʿAʾisha). Her argument was his character.
+    tr: |-
+      **Münafığın alametleri.** "Münafığın alameti üçtür: 1. Konuştuğunda yalan söyler. 2. Söz verdiğinde (sözünden) hep döner. 3. Ona güvenirsen, hıyanet ettiği ortaya çıkar. (Ona bir şeyi emanet olarak bırakırsan, onu geri vermez.)" ({hadith:bukhari:33}, Ebû Hüreyre'den). Hadis böyle birinin İslam'dan çıktığını söylemez; imanla çelişen davranışları adlandırır.
+
+      **Hıyanet edene bile hıyanet etme.** İbn Kesîr, Semüre yoluyla Hasan'dan gelen bir hadisi zikreder: "Sana emanet edene emanetini ver ve sana hıyanet edene hıyanet etme"; "İmam Ahmed'in ve Sünen sahiplerinin bu hadisi kaydettiğini" söyler; derecesi henüz kontrol edilmedi.
+
+      **Peygamberlikten önce karakter.** Hz. Peygamber (s.a.v.) ilk vahiyden sonra sarsılmış olarak eve geldiğinde, eşi Hz. Hatice (r.a.) onu teselli etti: "Asla! Allah'a yemin ederim ki Allah seni asla utandırmaz. Sen akrabalarınla iyi ilişkiler sürdürürsün, fakire ve muhtaca yardım edersin, misafirlerine cömertçe hizmet edersin…" ({hadith:bukhari:3}, Hz. Âişe'den). Onun argümanı Hz. Peygamber'in karakteriydi.
+    title:
+      en: Hz. Peygamber (s.a.v.) ne öğretti?
+      tr: Hz. Peygamber (s.a.v.) ne öğretti?
   - kind: scholars
     en: "**A broad notion.** The classical readings above show *amāna* stretching from a deposit left with you to the whole of one's religious duties."
+    tr: "**Geniş bir kavram.** Yukarıdaki klasik okumalar, *emanet*in sana bırakılan bir eşyadan kişinin bütün dinî görevlerine kadar uzandığını gösterir."
+    title:
+      en: Âlimler bunu nasıl anladı?
+      tr: Âlimler bunu nasıl anladı?
   - kind: research
     en: |-
       **Trust and economic performance.** [Moderate; correlational.] Knack and Keefer (1997), using World Values Survey data from 29 market economies, found that trust and civic norms "matter for measurable economic performance", while formal group membership "is not associated with trust or with improved economic performance". Trust was stronger where incomes were higher and more equal, institutions constrained rulers, and people were better educated. This is a correlation across countries, not proof that individual honesty causes growth.
 
       **Corruption today.** [Established for the figures.] In Transparency International's Corruption Perceptions Index 2024, "the global average" was "43 points out of 100", and "more than 120 of the listed countries score below 50 points" (*Jurist*, 2025). Scores for Muslim-majority countries specifically have not yet been checked.
+    tr: |-
+      **Güven ve iktisadi performans.** [Orta; korelasyonel.] Knack ve Keefer (1997), 29 piyasa ekonomisinden Dünya Değerler Araştırması verilerini kullanarak, güvenin ve sivil normların "ölçülebilir iktisadi performans için önemli olduğunu", resmî grup üyeliğinin ise "güvenle ya da daha iyi iktisadi performansla ilişkili olmadığını" buldu. Gelirlerin daha yüksek ve daha eşit olduğu, kurumların yöneticileri sınırladığı ve insanların daha eğitimli olduğu yerlerde güven daha güçlüydü. Bu, ülkeler arasında bir korelasyondur; bireysel dürüstlüğün büyümeye yol açtığının ispatı değildir.
+
+      **Bugün yolsuzluk.** [Established, rakamlar için.] Uluslararası Şeffaflık Örgütü'nün 2024 Yolsuzluk Algı Endeksi'nde "küresel ortalama" "100 üzerinden 43 puan"dı ve "listelenen ülkelerden 120'den fazlası 50 puanın altında" (*Jurist*, 2025). Özellikle Müslüman çoğunluklu ülkelerin puanları henüz kontrol edilmedi.
+    title:
+      en: Araştırmalar ne gösteriyor?
+      tr: Araştırmalar ne gösteriyor?
   - kind: practice
     en: |-
       **Return what you borrow, on time**, and in the condition you received it.
@@ -144,32 +178,60 @@ fullAnswer:
       **Treat your job as a trust.** Your working hours, your employer's resources, and the people who depend on your work are *amāna* (4:58, read generally, as Ibn Kathir does).
 
       **Keep secrets** that are told to you in confidence, unless keeping them would harm someone (see al-Nawawi's cases on "Ethics of speech").
+    tr: |-
+      **Ödünç aldığını zamanında geri ver**, aldığın hâliyle.
+
+      **Sözünü tut**, ya da tutamayacağını erken ve dürüstçe söyle.
+
+      **İşini bir emanet olarak gör.** Çalışma saatlerin, işvereninin imkânları ve işine bağlı olan insanlar *emanet*tir (4:58, İbn Kesîr'in yaptığı gibi genel okunduğunda).
+
+      **Sana güvenilerek söylenen sırları sakla**, saklamak birine zarar vermedikçe (bkz. "Dil âdâbı" sayfasındaki Nevevî'nin durumları).
+    title:
+      en: Günlük hayatta
+      tr: Günlük hayatta
   - kind: heart
     en: |-
       **If someone betrayed your trust**, the Quran treats what was done as a serious wrong (8:27). You are not wrong to grieve it, or to be careful in future. The hadith Ibn Kathir cites asks you not to betray them in return; it does not ask you to trust them again.
 
       **If you have broken a trust**, return what you can, apologise, and make it right. Repentance includes repair.
+    tr: |-
+      **Biri güvenine hıyanet ettiyse**, Kur'an yapılanı ciddi bir haksızlık olarak görür (8:27). Bunun için üzülmekte ya da gelecekte dikkatli olmakta haksız değilsin. İbn Kesîr'in zikrettiği hadis senden onlara karşılık olarak hıyanet etmemeni ister; onlara yeniden güvenmeni istemez.
+
+      **Bir emanete hıyanet ettiysen**, geri verebileceğini geri ver, özür dile ve durumu düzelt. Tövbe, telafiyi de içerir.
+    title:
+      en: Zorlanan kişi için
+      tr: Zorlanan kişi için
 followUps:
   - q:
       en: What is the "Trust" in 33:72?
+      tr: 33:72'deki "emanet" nedir?
     a:
       en: Classical commentators read it as obedience and the obligatory duties of religion (Ibn ʿAbbas, Mujahid, al-Hasan, as reported by Ibn Kathir) — the moral responsibility humans accepted.
+      tr: Klasik müfessirler onu itaat ve dinin farzları olarak okudu (İbn Kesîr'in aktardığına göre İbn Abbâs, Mücâhid, Hasan) — insanların kabul ettiği ahlaki sorumluluk.
   - q:
       en: Is 4:58 only about the keys of the Kaʿba?
+      tr: 4:58 yalnızca Kâbe'nin anahtarlarıyla mı ilgili?
     a:
       en: Ibn Kathir reports that occasion as "popular" but says "the application of the Ayah is general".
+      tr: İbn Kesîr o iniş sebebini "meşhur" olarak aktarır, ama "âyetin uygulamasının genel olduğunu" söyler.
   - q:
       en: Does breaking promises make someone a non-Muslim?
+      tr: Sözünü tutmamak birini gayrimüslim yapar mı?
     a:
       en: The hadith calls these signs of hypocrisy in conduct ({hadith:bukhari:33}); it does not declare such a person outside Islam.
+      tr: Hadis bunlara davranışta münafıklığın alametleri der ({hadith:bukhari:33}); böyle birini İslam'ın dışında ilan etmez.
   - q:
       en: Why are many Muslim-majority countries rated as corrupt?
+      tr: Müslüman çoğunluklu pek çok ülke neden yolsuz olarak değerlendiriliyor?
     a:
       en: Corruption has many causes — institutions, poverty, history. The teaching condemns it; the gap between teaching and practice is real.
+      tr: Yolsuzluğun pek çok sebebi vardır — kurumlar, yoksulluk, tarih. Öğreti onu kınar; öğreti ile uygulama arasındaki uçurum gerçektir.
   - q:
       en: What does "trustworthy" (*al-Amīn*) mean for the Prophet (pbuh)?
+      tr: Hz. Peygamber (s.a.v.) için "güvenilir" (*el-Emîn*) ne anlama gelir?
     a:
       en: It was his reputation in Mecca before prophethood; Khadija (ra) appealed to his character when he was afraid ({hadith:bukhari:3}).
+      tr: Bu, peygamberlikten önce Mekke'deki itibarıydı; Hz. Hatice (r.a.), o korktuğunda onun karakterine başvurdu ({hadith:bukhari:3}).
 legacySources:
   - *a1
   - *a2
@@ -177,3 +239,4 @@ legacySources:
   - *a4
   - *a5
   - *a6
+translatedFrom: docs/research/tr/M9.md

@@ -15,16 +15,13 @@ verses:
   - 51:56-57
   - 35:15
 steelman:
-  tr: |
-    Allah kusursuz ve kendine yeterliyse hiçbir şeye ihtiyacı yoktur; o hâlde ibadeti emretmek anlamsız ya da övgüye ihtiyaç gibi görünür. Sürekli övgü isteyen bir insan güvensiz görünürdü.
+  tr: '"Allah kusursuzsa ve hiçbir şeye muhtaç değilse, neden ibadeti emrediyor? Sürekli övgü isteyen bir insan güvensiz biri gibi görünürdü. Ve ibadet yalnızca benim yararımaysa, ibadet etmemek neden — hem de sonsuza dek — cezalandırılıyor da sadece kaçırılmış bir fırsat olarak kalmıyor? Bu bir ilaçtan çok, tehditle desteklenen bir talep gibi görünüyor."'
   en: '"If God is perfect and needs nothing, why command worship at all? A human who demanded constant praise would seem insecure. And if worship is only for my benefit, why is not worshipping punished — even eternally — instead of just being a missed chance? That sounds less like medicine and more like a demand backed by a threat."'
 whyAsked:
-  tr: |
-    Düşünsel: ilahi müstağnîlik (*ganî*) ile emirler arasındaki gerilim. Duygusal: korkuya dayalı bir yük olarak yaşanan ibadet. Toplumsal: Allah'a ve din adamlarına dair otoriter imgeler.
+  tr: Çünkü Kur'an Allah'a övgüyle ve O'na ibadet etme emirleriyle doludur ve modern bir okuyucu bunu bir ihtiyaç olarak duyar. Ve çünkü pek çok insan korku yoluyla öğretilen bir ibadetle yetiştirildi.
   en: Because the Quran is full of praise of God and commands to worship Him, and a modern reader hears that as a need. And because many people were raised on worship taught through fear.
 shortAnswer:
-  tr: |
-    Kur'an Allah'ın ibadete ihtiyacı olmadığını kabul eder: muhtaç olan insanlardır, Allah ganîdir (35:15). İbadet, ilacın sağlığa hizmet etmesi gibi ibadet edene hizmet eder. Namaz, zikir ve şükür insanı benlikten hakikate yöneltir. Bizim iyiliğimiz için ibadete davet eden bir Allah, kendi hatırı için övgü isteyen bir insandan farklıdır.
+  tr: "Kur'an Allah'ın hiçbir şeye muhtaç olmadığı konusunda hemfikirdir: \"Ey insanlar! Siz Allah'a muhtaçsınız. Allah ise zengin ve her hamde lâyıktır.\" (35:15). \"Ben cinleri ve insanları ancak bana ibadet etsinler diye yarattım\" dedikten hemen sonra Allah şöyle der: \"Ben onlardan herhangi bir rızık istemiyorum. Beni yedirmelerini de istemiyorum.\" (51:56–57). Bir kudsî hadiste Allah şöyle der: \"Bana zarar vermeye güç yetiremezsiniz ki bana zarar veresiniz, bana fayda vermeye güç yetiremezsiniz ki bana fayda veresiniz\" (Müslim 2577). İbadet ibadet eden içindir. İslam'da ibadet ayrıca ritüelden çok daha geniştir: İbn Teymiyye onu sözde ve fiilde, içte ve dışta, \"Allah'ın sevdiği ve razı olduğu her şey\" olarak tanımladı — dürüstlük, akrabalık bağlarını sürdürmek, iyilik. Sorunun en zor kısmı, onu ihmal etmenin neden sonuçları olduğudur. Kur'an'ın cevabının bir okuması — âyetlerin kendi sözleri değil, kelâmî bir okuma — sonuçların kişinin ne hâle geldiğini izlediği ve Allah'ın rahmetinin gazabına galip geldiğidir (Buhârî 7404). Bu sayfa bu cevabı ve sınırını ortaya koyuyor."
   en: "The Quran agrees that God needs nothing: \"O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy\" (35:15). Right after \"I did not create the jinn and mankind except to worship Me\", God says, \"I do not want from them any provision, nor do I want them to feed Me\" (51:56–57). In a hadith qudsi, God says: \"you will not attain harming Me so as to harm Me, and you will not attain benefiting Me so as to benefit Me\" (Muslim 2577). Worship is for the worshipper. In Islam it is also much wider than ritual: Ibn Taymiyya defined it as \"everything that God loves and is pleased with\" in word and deed, inward and outward — honesty, keeping family ties, kindness. The hardest part of the question is why neglecting it has consequences. One reading of the Quran's answer — a theological reading, not the verses' own words — is that consequences follow what a person becomes, and that God's mercy outweighs His wrath (Bukhari 7404). This page states that answer and its limit."
 layers:
   - kind: religious
@@ -53,8 +50,7 @@ layers:
       Korkuya dayalı Allah imgeleri ibadeti bir yatıştırma çabası gibi hissettirir; onu bir ilişki olarak yeniden çerçevelemek gerekir. Geçersiz ibadete dair zorlayıcı korku vesvese olabilir; hayatı aksatıyorsa profesyonel yardım uygundur.
     en: Fear-based God images make worship feel like appeasement; reframe as relationship. Intrusive fear of invalid worship may be vesvese; where it impairs life, professional help is appropriate.
 honestLimits:
-  tr: |
-    Kur'an ibadetin insanlara fayda verdiğini söyler, ama her şeklini açıklamaz; bazı ameller *taabbüdî*dir. "Bilim namazın iyileştirdiğini kanıtlıyor" demek, ilişkisel verileri abartmaktır.
+  tr: "\"Neden ceza?\" sorusunun cevabı geleneğin cevabıdır ve bazı okuyucuları tatmin etmez. Allah'ın amaçları konusundaki Eş'arî–Mâtürîdî farkına, Gazzâlî'nin *Kitâbü'l-Mahabbe*'sine, Râzî'nin 51:56 tefsirine, Nursî'ye ve Tim Winter'a henüz başvurulmadı. Hiçbir iyi oluş çalışması okunmadı."
   en: The answer to "why punishment?" is the tradition's, and it leaves some readers unsatisfied. The Ashʿari–Maturidi difference on God's purposes, al-Ghazali's *Kitāb al-Maḥabba*, al-Razi on 51:56, Nursi and Tim Winter have not yet been consulted. No wellbeing study was read.
 visualizations:
   - id: ideas
@@ -99,6 +95,15 @@ fullAnswer:
       **God is near and answers.** "And when My servants ask you, [O Muhammad], concerning Me - indeed I am near. I respond to the invocation of the supplicant when he calls upon Me" (2:186). Worship can begin as conversation, not as fear of punishment.
 
       **Practical steps.** Start with what draws you, not only with what you fear: thanking God for one thing each day; a short *duʿāʾ* in your own words; reading verses about mercy. If fear of God becomes constant anxiety, with checking and repeating, that may be religious OCD; the International OCD Foundation (iocdf.org) describes it and its treatment.
+    tr: |-
+      **Allah'ın kendisini tarifi rahmeti öne koyar.** "Şüphesiz rahmetim gazabıma galip gelir" ({hadith:bukhari:7404}, Ebû Hüreyre); hadise göre "Arş'ın üzerinde O'nun katında bulunan" bir Kitapta yazılmıştır. Allah hakkındaki tablon esas olarak öfkeden oluşuyorsa, bu Allah'ın kendisi hakkında verdiği tablo değildir.
+
+      **Allah yakındır ve cevap verir.** "Şayet kullarım, sana benden sordularsa, gerçekten ben çok yakınımdır. Bana dua edince, duacının duasını kabul ederim." (2:186). İbadet ceza korkusuyla değil, bir konuşma olarak başlayabilir.
+
+      **Pratik adımlar.** Yalnızca korktuğun şeyle değil, seni çeken şeyle başla: her gün bir şey için Allah'a şükretmek; kendi sözlerinle kısa bir *dua*; rahmetle ilgili âyetleri okumak. Allah korkusu kontrol etme ve tekrarlamayla birlikte sürekli bir kaygıya dönüşürse, bu dinî OKB olabilir; Uluslararası OKB Vakfı (iocdf.org) onu ve tedavisini anlatır.
+    title:
+      en: Korkuyla yetiştirildiysen
+      tr: Korkuyla yetiştirildiysen
   - kind: quran
     en: |-
       **The purpose, and the denial of need (51:56–57).** "And I did not create the jinn and mankind except to worship Me. I do not want from them any provision, nor do I want them to feed Me" (51:56–57), Meccan. In the same breath that names worship as the purpose of creation, God denies that He needs anything from it.
@@ -106,6 +111,15 @@ fullAnswer:
       **Need is on our side (35:15).** "O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy" (35:15), Meccan. *Al-Ghanī*, "the Free of need", and *al-Ḥamīd*, "the Praiseworthy": God is worthy of praise whether or not anyone praises Him.
 
       **Gratitude (14:7).** "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe'" (14:7), Meccan, in Moses' (pbuh) words to his people. Gratitude increases the one who is grateful.
+    tr: |-
+      **Amaç ve ihtiyacın reddi (51:56–57).** "Ben cinleri ve insanları ancak bana ibadet etsinler diye yarattım. Ben onlardan herhangi bir rızık istemiyorum. Beni yedirmelerini de istemiyorum." (51:56–57), Mekkî. İbadeti yaratılışın amacı olarak adlandırdığı aynı nefeste Allah ondan hiçbir şeye ihtiyacı olmadığını söyler.
+
+      **İhtiyaç bizim tarafımızdadır (35:15).** "Ey insanlar! Siz Allah'a muhtaçsınız. Allah ise zengin ve her hamde lâyıktır." (35:15), Mekkî. *El-Ğanî*, "zengin, hiçbir şeye muhtaç olmayan", ve *el-Hamîd*, "her hamde lâyık olan": Allah, biri O'nu övse de övmese de övgüye lâyıktır.
+
+      **Şükür (14:7).** "Ve hatırlayın ki Rabbiniz size şöyle bildirmişti: Yüceliğim hakkı için şükrederseniz elbette size (nimetimi) artırırım ve eğer nankörlük ederseniz hiç şüphesiz azabım çok şiddetlidir." (14:7), Mekkî, Hz. Mûsâ'nın (a.s.) kavmine sözlerinde. Şükür, şükredeni artırır.
+    title:
+      en: Kur'an ne diyor?
+      tr: Kur'an ne diyor?
   - kind: scholars
     en: |-
       **Ibn Kathir.** "I, Allah, only created them so that I order them to worship Me, not that I need them." He reports Ibn ʿAbbas: "So that they worship Me, willingly or unwillingly." He also cites a hadith in which God says: "O Son of Adam! Busy yourself in worshipping Me, and I will fill your chest with riches and dissipate your meekness" (recorded by Ahmad, al-Tirmidhi and Ibn Majah; Tirmidhi 2466, Abu Hurayra (ra); al-Tirmidhi: *ḥasan gharīb*; al-Albani: *ṣaḥīḥ*, per hadithunlocked).
@@ -117,6 +131,19 @@ fullAnswer:
       **What *ʿibāda* covers.** Ibn Taymiyya, in his treatise *al-ʿUbūdiyya*, defined worship as "a collective term for everything that God loves and is pleased with, whether of outward or inward sayings and actions" (Nadwi's rendering). On this view, worship includes prayer, fasting, almsgiving and pilgrimage, but also truthfulness, trustworthiness, dutifulness to parents, keeping family ties, kindness and good character (Nadwi). Worship is not a slice of life; it is a way of living all of it.
 
       **Kalām on God's purposes.** (*Kalām* is Islamic rational theology.) No source on this difference was read.
+    tr: |-
+      **İbn Kesîr.** "Ben, Allah, onları ancak bana ibadet etmelerini emredeyim diye yarattım; onlara ihtiyacım olduğu için değil." İbn Abbâs'tan şunu aktarır: "Bana ibadet etsinler diye, isteyerek ya da istemeyerek." Ayrıca Allah'ın şöyle buyurduğu bir hadis zikreder: "Ey Âdemoğlu! Kendini bana ibadete ver, göğsünü zenginlikle doldurayım ve fakirliğini gidereyim" (Ahmed, Tirmizî ve İbn Mâce kaydetmiştir; Tirmizî 2466, Ebû Hüreyre'den (r.a.); Tirmizî: *hasen garîb*; Elbânî: *sahih*, hadithunlocked'a göre).
+
+      ***Celâleyn*.** Açık itiraza — pek çok kişinin ibadet etmediğine — değinir ve "kâfirlerin Allah'a ibadet etmemesinin bu ifadeyle çelişmediğini" söyler; bunu yazmak için açılmış bir kaleme benzetir: Hiç kullanılmasa bile amacı yazmaktır.
+
+      **Henüz kontrol edilmemiş başka okumalar.** Okunan İbn Kesîr sayfasında bu açıklama yer almıyor; "beni tanısınlar, bana kulluk etsinler" ifadesi aynı sayfada farklı bir tefsirde (*el-Muntehab*) geçiyor.
+
+      ***İbadet* neyi kapsar?** İbn Teymiyye, *el-Ubûdiyye* risalesinde ibadeti "Allah'ın sevdiği ve razı olduğu, dış ya da iç sözlerden ve fiillerden her şey için toplu bir isim" olarak tanımladı (Nedvî'nin aktarımı). Bu görüşe göre ibadet namazı, orucu, zekâtı ve haccı, ama aynı zamanda doğruluğu, güvenilirliği, anne babaya iyiliği, akrabalık bağlarını sürdürmeyi, iyiliği ve güzel ahlakı da içerir (Nedvî). İbadet hayatın bir dilimi değildir; hayatın tamamını yaşamanın bir yoludur.
+
+      **Allah'ın fiillerindeki amaçlar konusunda kelâm.** (*Kelâm*, İslam'ın akli ilahiyatıdır.) Bu fark hakkında hiçbir kaynak okunmadı.
+    title:
+      en: Müfessirler "bana ibadet etsinler" ifadesini nasıl okudu?
+      tr: Müfessirler "bana ibadet etsinler" ifadesini nasıl okudu?
   - kind: reasoning
     en: |-
       **1. Praise that fits, not praise that is needed.** We praise a beautiful piece of music not because the composer needs it, but because praise is the fitting response to what is good. On the Islamic view, God is the source of every good; praising Him is seeing things as they are. That is why the Quran calls God *al-Ḥamīd*, "the Praiseworthy" — worthy of praise — while also saying He is "Free of need" (35:15).
@@ -126,6 +153,17 @@ fullAnswer:
       **3. A God who invites worship differs from a human who demands it.** A human who demands constant praise is insecure because he needs it. God, by His own statement, gains nothing from it (Muslim 2577). The structure is the opposite: the human is the one in need.
 
       *Limit:* this answer works for someone who already accepts that God is good. For someone who doubts that, the commands to worship can still sound like demands.
+    tr: |-
+      **1. İhtiyaç duyulan değil, yakışan övgü.** Güzel bir müzik eserini, bestecinin buna ihtiyacı olduğu için değil, övgü iyi olana yakışan karşılık olduğu için överiz. İslami görüşe göre Allah her iyiliğin kaynağıdır; O'nu övmek şeyleri oldukları gibi görmektir. Kur'an'ın Allah'ı hem "zengin" (hiçbir şeye muhtaç olmayan) hem de *el-Hamîd*, "her hamde lâyık" olarak adlandırmasının sebebi budur (35:15).
+
+      **2. İbadet ibadet edene hizmet eder.** İlaç gibi, doktor için değil, hasta içindir. Şükür şükredeni artırır (14:7). Allah'ı anmak kişiyi benlikten uzaklaştırarak yeniden yönlendirir. İbn Kesîr'in hadisi bunu Allah'ın sözleriyle ifade eder: "göğsünü zenginlikle doldurayım".
+
+      **3. İbadete davet eden bir Allah, onu talep eden bir insandan farklıdır.** Sürekli övgü talep eden bir insan ona ihtiyacı olduğu için güvensizdir. Allah, kendi ifadesiyle, ondan hiçbir şey kazanmaz (Müslim 2577). Yapı tam tersidir: Muhtaç olan insandır.
+
+      *Sınır:* Bu cevap Allah'ın iyi olduğunu zaten kabul eden biri için işler. Bundan şüphe eden biri için ibadet emirleri yine de talep gibi gelebilir.
+    title:
+      en: Allah hiçbir şeye muhtaç değilse, neden ibadet?
+      tr: Allah hiçbir şeye muhtaç değilse, neden ibadet?
   - kind: objection
     en: |-
       **The objection in full.** If I skip medicine, I just stay ill; the doctor does not punish me. If worship is only for my good, why does the Quran attach severe, even eternal, consequences to neglecting it?
@@ -139,39 +177,78 @@ fullAnswer:
       *Limit:* the language of wrath and eternal punishment in the Quran is strong, and some readers will still find it hard to reconcile with the "medicine" picture. This page does not remove that difficulty; it shows how the tradition holds the two together.
 
       **"What does 'neglect is self-harm' mean in concrete terms?"** A person who never pauses to thank, never turns from the self, never holds back from wrong for God's sake, gradually becomes harder, more anxious and more self-centred — the reverse of the "riches" of the chest Ibn Kathir's hadith promises. That is a moral and spiritual claim, not a measured one.
+    tr: |-
+      **İtirazın tamamı.** İlacı atlarsam sadece hasta kalırım; doktor beni cezalandırmaz. İbadet yalnızca benim iyiliğim içinse, Kur'an onu ihmal etmeye neden ağır, hatta ebedî sonuçlar bağlıyor?
+
+      **Cevap.**
+      1. *Sonuçlar kişinin ne hâle geldiğini izler.* "Kim de Rabbinin divanında durmaktan korkmuş, nefsini boş heveslerden menetmiş ise, Kuşkusuz onun varacağı yer cennettir." (79:40–41). Bir okumaya göre (modern bir kelâmî okuma; adı belli hiçbir savunucusu okunmadı), ahiret kişinin kendinden yaptığı benliğin sonucudur: Bir ömür boyu Allah'tan yüz çeviren biri yüz çevirmiş biri olur. Kur'an'ın kendisi de karşılıktan (*cezâ*) söz eder; dolayısıyla bu okuma onu tüketmez.
+      2. *Nankörlük tarafsız değildir.* 14:7 şükrü ve nankörlüğü yan yana koyar. Her iyiliğin kaynağını inkâr etmek yalnızca bir yararı kaçırmak değildir; hakikate haksızlık etmektir.
+      3. *Rahmet daha büyüktür.* "Şüphesiz rahmetim gazabıma galip gelir" (Buhârî 7404). Kur'an'ın uyarıları gerçektir, ama rahmetin galip geldiği bir çerçevenin içindedir.
+      4. *Hesap senin kendi amellerindir.* "Bunlar ancak sizin amellerinizdir; onları sizin için sayarım, sonra size karşılığını veririm. Kim hayır bulursa Allah'a hamdetsin" (Nevevî'nin Kırk Hadis'i, no. 24, Müslim 2577'den).
+
+      *Sınır:* Kur'an'daki gazap ve ebedî ceza dili güçlüdür ve bazı okuyucular onu yine de "ilaç" tablosuyla bağdaştırmayı zor bulacaktır. Bu sayfa bu güçlüğü ortadan kaldırmıyor; geleneğin ikisini nasıl bir arada tuttuğunu gösteriyor.
+
+      **"İhmalin kendine zarar olması somut olarak ne demek?"** Hiç şükretmek için durmayan, hiç benlikten yüz çevirmeyen, Allah için hiç yanlıştan geri durmayan biri yavaş yavaş daha katı, daha kaygılı ve daha bencil olur — İbn Kesîr'in hadisinin vaat ettiği göğsün "zenginliğinin" tersi. Bu ölçülmüş değil, ahlaki ve manevi bir iddiadır.
+    title:
+      en: '"Benim yararımaysa, ibadet etmemek neden cezalandırılıyor?"'
+      tr: '"Benim yararımaysa, ibadet etmemek neden cezalandırılıyor?"'
   - kind: science
     en: No study was read, so the claim is not repeated here.
+    tr: Hiçbir çalışma okunmadı, dolayısıyla iddia burada tekrarlanmıyor.
+    title:
+      en: Araştırmalar ne gösteriyor?
+      tr: Araştırmalar ne gösteriyor?
   - kind: views
     en: |-
       - **Quran and hadith** — God is free of need; worship is for humans (35:15; 51:57; Muslim 2577).
       - **Ibn Taymiyya** — worship covers all that God loves, inward and outward.
       - **Ashʿaris and Maturidis** — differ on whether God's acts have purposes; agree He gains nothing.
       - **Critics** — commanded worship backed by punishment looks like a demand, not a gift.
+    tr: |-
+      - **Kur'an ve hadis** — Allah hiçbir şeye muhtaç değildir; ibadet insanlar içindir (35:15; 51:57; Müslim 2577).
+      - **İbn Teymiyye** — ibadet Allah'ın sevdiği her şeyi, içte ve dışta, kapsar.
+      - **Eş'arîler ve Mâtürîdîler** — Allah'ın fiillerinin amaçları olup olmadığı konusunda ayrılırlar; O'nun hiçbir şey kazanmadığında hemfikirdirler.
+      - **Eleştirmenler** — cezayla desteklenen emredilmiş ibadet bir armağandan çok bir talep gibi görünür.
+    title:
+      en: Görüşlerin yelpazesi
+      tr: Görüşlerin yelpazesi
 followUps:
   - q:
       en: If worship is only for my benefit, why is not worshipping punished?
+      tr: İbadet yalnızca benim yararımaysa, ibadet etmemek neden cezalandırılıyor?
     a:
       en: Because, in the Quran's picture, the Hereafter is the outcome of the self one becomes (79:40–41), denying the source of good is a wrong (14:7), and mercy still outweighs wrath (Bukhari 7404). The difficulty does not disappear entirely.
+      tr: Çünkü Kur'an'ın tablosunda ahiret kişinin ne hâle geldiğinin sonucudur (79:40–41), iyiliğin kaynağını inkâr etmek bir haksızlıktır (14:7) ve rahmet yine de gazaba galip gelir (Buhârî 7404). Güçlük tamamen ortadan kalkmıyor.
   - q:
       en: Why does the Quran call God "the Praiseworthy" if He does not want praise?
+      tr: Allah övgü istemiyorsa, Kur'an neden O'nu "her hamde lâyık" olarak adlandırıyor?
     a:
       en: Because He is worthy of praise whether or not anyone praises Him (35:15). Praise is the fitting response to the good, not a supply God needs.
+      tr: Çünkü biri O'nu övse de övmese de övgüye lâyıktır (35:15). Övgü iyi olana yakışan karşılıktır, Allah'ın ihtiyaç duyduğu bir erzak değil.
   - q:
       en: What does "neglect is self-harm" mean in concrete terms?
+      tr: '"İhmal kendine zarardır" somut olarak ne demek?'
     a:
       en: That a life without gratitude, remembrance or restraint shapes a person into someone narrower and harder — the opposite of the "riches" of the chest God promises the worshipper (Ibn Kathir's hadith).
+      tr: Şükürsüz, zikirsiz ya da kendini tutmadan geçen bir hayatın kişiyi daha dar ve daha katı biri hâline getirdiği — Allah'ın ibadet edene vaat ettiği göğsün "zenginliğinin" tersi (İbn Kesîr'in hadisi).
   - q:
       en: What does *ʿibāda* cover?
+      tr: "*İbadet* neyi kapsar?"
     a:
       en: 'Ibn Taymiyya: "everything that God loves and is pleased with", outward and inward — from prayer to honesty and kindness to parents.'
+      tr: "İbn Teymiyye: \"Allah'ın sevdiği ve razı olduğu her şey\", dışta ve içte — namazdan dürüstlüğe ve anne babaya iyiliğe kadar."
   - q:
       en: What are Ashʿarīs, Māturīdīs, *kalām* and a hadith qudsi?
+      tr: Eş'arîler, Mâtürîdîler, *kelâm* ve kudsî hadis nedir?
     a:
       en: "*Kalām*: Islamic rational theology. The Ashʿaris and Maturidis: its two main Sunni schools. A hadith qudsi: a saying the Prophet (pbuh) attributes to God, in the Prophet's own words, distinct from the Quran."
+      tr: "*Kelâm*: İslam'ın akli ilahiyatı. Eş'arîler ve Mâtürîdîler: onun iki ana Sünnî mezhebi. Kudsî hadis: Hz. Peygamber'in (s.a.v.) kendi sözleriyle Allah'a nispet ettiği, Kur'an'dan ayrı bir söz."
   - q:
       en: What does *taʿabbudī* mean?
+      tr: "*Teabbüdî* ne demek?"
     a:
       en: An act of worship whose form is followed as devotion, even where its full reason is not stated (e.g. the number of units in a prayer).
+      tr: Tam sebebi bildirilmemiş olsa bile biçimine ibadet olarak uyulan bir ibadet (ör. bir namazdaki rekât sayısı).
 legacySources:
   - *a1
   - *a2
@@ -180,3 +257,4 @@ legacySources:
   - *a5
   - *a6
   - *a7
+translatedFrom: docs/research/tr/Q9.md
