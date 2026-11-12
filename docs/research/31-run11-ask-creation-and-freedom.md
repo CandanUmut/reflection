@@ -260,7 +260,7 @@ The classical arguments do not say "everything has a cause". They say that whate
 
 **Mulla Sadra's version.** Mulla Sadra, in *al-Ḥikma al-mutaʿāliya* (the *Asfār*), starts not from contingent things but from existence itself. He treats existence as one reality that differs among its instances "only in perfection and imperfection and in intensity and weakness", and calls the Necessary Existent "Pure Existence than which nothing is more complete" (*Wikipedia*, "Seddiqin argument"). The idea: existence, followed to its most complete degree, is God.
 
-**Divine simplicity, in plain words.** Classical theism holds that God has no parts — not physical parts, and not even a distinction between what He is and that He is. Something made of parts depends on its parts and on whatever put them together, so it would be contingent. That is why, on this view, a necessary being must be simple. This is also the reply to Dawkins: the argument is not for a complex designer who would need explaining, but for a simple ground of existence.
+**God is not made of parts.** Classical theology — Muslim *kalām* and philosophy, as well as Christian and Jewish thought — holds that God has no parts: not physical parts, and not even a distinction between what He is and that He is. Muslim theologians say that God is above all composition (*munazzah ʿan al-tarkīb*), and the creed of al-Tahawi (d. 933) says that He is beyond having parts or limbs. (Philosophers call this "divine simplicity"; the word means "not composed", not "plain" or "slight".) Something made of parts depends on its parts and on whatever put them together, so it would be contingent. That is why, on this view, a necessary being cannot be composed of parts. This is also the reply to Dawkins: the argument is not for a complex designer who would need explaining, but for the uncomposed ground of all existence.
 
 #### reasoning — The strongest counter: why not a necessary or brute-fact universe?
 **The objection in full.** Hume and Russell press two related points.
@@ -290,7 +290,7 @@ The classical arguments do not say "everything has a cause". They say that whate
 #### objection — The strongest objections, and the replies
 **"Special pleading: you exempt God from the rule."** *Reply:* the rule was never "everything has a cause". It is "whatever begins, or could fail to exist, has a cause". God, as defined, does neither. *Limit:* the critic can ask why anything should be necessary at all; that is the real debate (above).
 
-**"A designer must be more complex than its design" (Dawkins).** *Reply:* the classical arguments are not design arguments, and classical theism holds that God is simple, not a complex mechanism. *Limit:* critics find divine simplicity itself hard to make sense of — how can a simple being know and will many things?
+**"A designer must be more complex than its design" (Dawkins).** *Reply:* the classical arguments are not design arguments, and classical theology holds that God is not composed of parts — not a composite being that would itself need explaining. *Limit:* critics find this teaching hard to make sense of — how can a being without parts know and will many things?
 
 **"Even if there is a necessary being, why the God of the Quran?"** *Limit:* these steps are weaker than the first. Michael Martin argues the kalām argument shows at most that some agent or agents caused the universe (*Wikipedia*).
 
@@ -318,7 +318,7 @@ The classical arguments do not say "everything has a cause". They say that whate
 **Is this argument specific to Islam, or the same one Christian philosophers use?** It is shared: its best-known modern form, the "kalām cosmological argument", keeps the name of its Islamic source, and its best-known modern defender, William Lane Craig, is a Christian philosopher.
 
 ### Honest limits
-The regress objection fails against the classical arguments, but the arguments themselves are respected rather than decisive: most professional philosophers are not persuaded. Getting from a necessary being to the one personal God takes further, weaker steps. Ibn Sina, al-Ghazali, Ibn Rushd and Mulla Sadra were read here only through encyclopedia summaries, not in their own texts; Hume's *Dialogues* and al-Ghazali's *al-Iqtiṣād* have not yet been consulted; Ṭabāṭabāʾī's version was not covered. The explanation of divine simplicity is a summary of the classical view; no source on it was read.
+The regress objection fails against the classical arguments, but the arguments themselves are respected rather than decisive: most professional philosophers are not persuaded. Getting from a necessary being to the one personal God takes further, weaker steps. Ibn Sina, al-Ghazali, Ibn Rushd and Mulla Sadra were read here only through encyclopedia summaries, not in their own texts; Hume's *Dialogues* and al-Ghazali's *al-Iqtiṣād* have not yet been consulted; Ṭabāṭabāʾī's version was not covered. The explanation of God's having no parts summarises the classical view; apart from al-Tahawi's creed, no source on it has yet been consulted.
 
 ---
 

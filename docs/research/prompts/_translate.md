@@ -23,6 +23,12 @@ You are translating pages of **Tefekkür**, a bilingual (Turkish/English) websit
 
 **5. Names, as on the site's Turkish pages.** Gazzâlî, İbn Kesîr, Kurtubî, Râzî, Taberî, Zemahşerî, İbn Teymiyye, İbn Kayyim, İbn Rüşd, İbn Sînâ, İbn Âşûr, İbn Hazm, İbn Abbâs, Şâtıbî, Celâleyn, Mâtürîdî, Eş'arî, Nevevî. The hadith collections are Buhârî, Müslim, Tirmizî, Ebû Dâvûd, Nesâî and İbn Mâce. Modern and Western names stay as written (Plantinga, Hubble, NASA). Book titles stay in their transliteration, in italics.
 
+**5b. Respectful wording about Allah and the Prophet (s.a.v.).** A word-for-word rendering can be wrong in tone even when it is right in meaning. Two examples from this site:
+- The philosophers' term "divine simplicity" ("God is simple") means that God is **not composed of parts**. In Turkish, never write "Allah basittir" or "ilahi basitlik". Write "Allah parçalardan oluşmaz", "bileşik değildir", "terkipten münezzehtir".
+- "A man named Muhammad", in English a historian's neutral phrase, reads dismissively in Turkish ("Muhammed adında bir adam"). Write "Hz. Muhammed (s.a.v.)". For his death, use "vefat", not "ölüm".
+
+The words of a doubter or critic, quoted as theirs, may stay blunt: that is their voice, not the site's.
+
 **6. Terms.** Use the terms of the site's glossary (`src/data/glossary.yaml`): tefsir, fıkıh, hadis, sahih, hasen, zayıf, makâsıd, fıtrat, kader and so on. Explain a term the first time it appears, as the English does.
 
 **7. Keep the shape exactly.** Claude's converter matches the Turkish to the English part by part:
