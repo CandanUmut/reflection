@@ -223,7 +223,7 @@ The verse gives an ant a voice. She sees an army coming and calls out: "O ants, 
 
 There is a lesson in that alone. She does not curse the powerful; she protects the weak and assumes no malice.
 
-Then the prophet hears her. Solomon (pbuh) had armies of men, jinn and birds (27:17, paraphrased). He could have ignored an ant. Instead he "smiled, amused at her speech", and turned at once to gratitude: "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents" (27:19). Power, in this story, makes him listen more carefully, not less.
+Then the prophet hears her. "And gathered for Solomon were his soldiers of the jinn and men and birds, and they were [marching] in rows" (27:17). He could have ignored an ant. Instead he "smiled, amused at her speech", and turned at once to gratitude: "My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents" (27:19). Power, in this story, makes him listen more carefully, not less.
 
 Real ants do raise the alarm, with chemicals and sometimes with sound, and a whole colony can flee into its nest. The verse does not describe pheromones. It describes a small creature's care for its people, and a great man's humility before it.
 
