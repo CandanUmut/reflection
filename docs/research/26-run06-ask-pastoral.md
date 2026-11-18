@@ -338,7 +338,7 @@ The Quran says that nothing happens without God's permission, and that some suff
 
 **2:155–157 — testing.** "And We will surely test you with something of fear and hunger and a loss of wealth and lives and fruits, but give good tidings to the patient, Who, when disaster strikes them, say, 'Indeed we belong to Allah, and indeed to Him we will return.' Those are the ones upon whom are blessings from their Lord and mercy" (2:155–157). Here loss is a test, and those who suffer it are promised blessing and mercy.
 
-**30:41 — human corruption.** "Corruption has appeared throughout the land and sea by [reason of] what the hands of people have earned…" (30:41). That is a modern application: the verse speaks of corruption (*fasād*) caused by people. It is better used as a general reminder that people answer for the harm they cause than as a statement about the 2023 earthquake.
+**30:41 — human corruption.** "Corruption has appeared throughout the land and sea by [reason of] what the hands of people have earned…" (30:41). Applying it to the 2023 earthquake would be a modern application: the verse speaks of corruption (*fasād*) caused by people. It is better used as a general reminder that people answer for the harm they cause than as a statement about the 2023 earthquake.
 
 **The punished peoples (ʿĀd, Thamūd and others).** The Quran describes the destruction of specific peoples after they rejected a prophet sent to them.
 

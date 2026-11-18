@@ -191,7 +191,7 @@ The question the verse leaves with us is about our own strength, whatever form i
 27:18–19 tells of an ant who warned her community — "enter your dwellings that you not be crushed" — and a prophet who heard her, smiled, and turned to gratitude.
 
 ### Verse note
-"Until, when they came upon the valley of the ants, an ant said, 'O ants, enter your dwellings that you not be crushed by Solomon and his soldiers while they perceive not.' So [Solomon] smiled, amused at her speech, and said, 'My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And admit me by Your mercy into [the ranks of] Your righteous servants'" (27:18–19), Meccan, in Sura al-Naml ("The Ants"), after Solomon (pbuh) says he was taught the speech of birds (27:16, paraphrased; not quoted from verified data).
+"Until, when they came upon the valley of the ants, an ant said, 'O ants, enter your dwellings that you not be crushed by Solomon and his soldiers while they perceive not.' So [Solomon] smiled, amused at her speech, and said, 'My Lord, enable me to be grateful for Your favor which You have bestowed upon me and upon my parents and to do righteousness of which You approve. And admit me by Your mercy into [the ranks of] Your righteous servants'" (27:18–19), Meccan, in Sura al-Naml ("The Ants"), after Solomon (pbuh) says: "O people, we have been taught the language of birds, and we have been given from all things" (27:16).
 
 - **Key words.** *Namla*: an ant (grammatically feminine). *Wa-hum lā yashʿurūn*: "while they perceive not".
 

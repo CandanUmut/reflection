@@ -86,7 +86,7 @@ The Quran describes faith in social terms: the one "who denies the Recompense" i
 **Yatīm, miskīn, ibn al-sabīl, jār.** *Yatīm*: an orphan, a child who has lost the father. *Miskīn*: someone in need, whose income does not cover their needs. *Ibn al-sabīl*: "child of the road", a traveller cut off from home. *Jār*: neighbour.
 
 #### quran — What the Quran says
-**The orphan and the one who asks (93:9–10).** "So as for the orphan, do not oppress [him]. And as for the petitioner, do not repel [him]" (93:9–10). Sura al-Duha is Meccan and addressed to the Prophet (pbuh), who was himself an orphan: the sura first reminds him that God found him an orphan and gave him refuge (93:6; not quoted, as no verified text was available), then tells him how to treat orphans.
+**The orphan and the one who asks (93:9–10).** "So as for the orphan, do not oppress [him]. And as for the petitioner, do not repel [him]" (93:9–10). Sura al-Duha is Meccan and addressed to the Prophet (pbuh), who was himself an orphan: the sura first reminds him: "Did He not find you an orphan and give [you] refuge?" (93:6), then tells him how to treat orphans.
 
 **Religion denied by neglect (107:1–3).** "Have you seen the one who denies the Recompense? For that is the one who drives away the orphan And does not encourage the feeding of the poor" (107:1–3), usually counted as Meccan. Denying the Day of Judgement is shown not by a statement but by how one treats the weak.
 
@@ -310,9 +310,6 @@ Marriage is called one of God's signs: "He created for you from yourselves mates
 
 **The best to his family.** "The best of you is the best to his wives, and I am the best of you to my wives" (al-Tirmidhi 3895; al-Tirmidhi: *ḥasan gharīb ṣaḥīḥ*; al-Albani: *ṣaḥīḥ*).
 
-#### scholars — How scholars have understood it
-The legal rights of spouses by school have not yet been consulted either.
-
 #### research — What research shows
 **Marital quality and health.** [Established; small effects.] Robles and colleagues (2014) reviewed 126 studies with more than 72,000 people over 50 years. "Greater marital quality was related to better health", with effects of about r = .07 to .21 (r = .11 for mortality) — small, similar in size to the links between health behaviours such as diet and health. The designs limit conclusions about cause.
 
@@ -370,11 +367,11 @@ The first word revealed was "Recite" (96:1), and the Prophet (pbuh) was told: "s
 **ʿIlm.** Knowledge, from the root *ʿ-l-m*, "to know, to mark". In classical usage it covers both religious knowledge and knowledge of the world. *Farḍ ʿayn* is what each individual must know; *farḍ kifāya* is what the community must have, so that if enough people know it, the rest are excused.
 
 #### quran — What the Quran says
-**The first revelation (96:1–5).** "Recite in the name of your Lord who created — Created man from a clinging substance. Recite, and your Lord is the most Generous — Who taught by the pen — Taught man that which he knew not" (96:1–5), Meccan. ʿAʾisha (ra) tells how, in the cave of Hira, "The angel came to him and asked him to read", and he replied, "I do not know how to read"; after the angel pressed him, the verses came. He returned "with his heart beating severely" and said to Khadija, "Cover me! Cover me!" ({hadith:bukhari:3}). The first revelation is about reading and writing, given to a man who could not read.
+**The first revelation (96:1–5).** "Recite in the name of your Lord who created — Created man from a clinging substance. Recite, and your Lord is the most Generous — Who taught by the pen — Taught man that which he knew not" (96:1–5), Meccan. ʿAʾisha (ra) tells how, in the cave of Hira, "The angel came to him and asked him to read", and he replied, "I do not know how to read"; after the angel pressed him, the verses came. He returned "with his heart beating severely" and said to Khadija, "Cover me! Cover me!" ({hadith:bukhari:3}). The first revelation is about reading and writing, given to the Prophet (pbuh), who could not read.
 
 **Increase me in knowledge (20:114).** "And, [O Muhammad], do not hasten with [recitation of] the Qur'an before its revelation is completed to you, and say, 'My Lord, increase me in knowledge'" (20:114), Meccan. The setting is revelation: be patient with it, and ask for more understanding.
 
-**Those who know (39:9; 58:11; 35:28).** "Say, 'Are those who know equal to those who do not know?' Only they will remember [who are] people of understanding" (39:9). "Allah will raise those who have believed among you and those who were given knowledge, by degrees" (58:11). "Only those fear Allah, from among His servants, who have knowledge" (35:28) — the verse comes right after a description of the different colours of mountains, people and animals (35:27–28), so the "knowledge" in view includes knowledge of creation.
+**Those who know (39:9; 58:11; 35:28).** "Say, 'Are those who know equal to those who do not know?' Only they will remember [who are] people of understanding" (39:9). "Allah will raise those who have believed among you and those who were given knowledge, by degrees" (58:11). "Only those fear Allah, from among His servants, who have knowledge" (35:28) — the verse comes right after a description of the different colours of mountains, people and animals (35:27–28), and so ties its words on knowledge to looking at creation.
 
 #### sunnah — What the Prophet (pbuh) taught
 **"Seeking knowledge is a duty upon every Muslim."** This often-quoted saying is in Sunan Ibn Majah 224, narrated by Anas (ra): "Seeking knowledge is a duty upon every Muslim, and he who imparts knowledge to those who do not deserve it…" — the rest compares that to putting jewels on swine. Its grade is disputed: al-Albani accepted this first sentence as *ṣaḥīḥ* through its many routes, while al-Bayhaqi said its "text is well known and its chains are weak", and Zubayr ʿAli Zaʾi grades it weak. The second half of the same report is very weak by all accounts. Under this site's rules, no claim rests on it alone. The duty to learn what one needs for faith and practice is supported by the scholars below.

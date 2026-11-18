@@ -29,8 +29,8 @@ evidence:
   tr: Aile bağlılığı, ergenlerin iyi oluşuyla ilişkilidir. [Established] (ilişkisel bulgu)
   en: Family cohesion correlates with adolescent wellbeing. [Established] (correlational)
 gaps:
-  tr: Aileler çoğu zaman bu idealin gerisinde kalır ve bazı anne babalar bu öğretinin onlara verdiği dinî otoriteyi kötüye kullanır. Diğer mezheplerin itaat konusundaki görüşlerine ve aile bütünlüğü üzerine araştırmalara henüz başvurulmadı.
-  en: Families often fall short of this ideal, and some parents abuse the religious authority this teaching gives them. The other schools' views on obedience, and research on family cohesion, have not yet been consulted.
+  tr: Aileler çoğu zaman bu idealin gerisinde kalır ve bazı anne babalar bu öğretinin onlara verdiği dinî otoriteyi kötüye kullanır. Diğer mezheplerin itaat konusundaki görüşlerine, *makâsıd* ve aile üzerine âlimlerin eserlerine ve aile bütünlüğü üzerine araştırmalara henüz başvurulmadı.
+  en: Families often fall short of this ideal, and some parents abuse the religious authority this teaching gives them. The other schools' views on obedience, scholarly works on the *maqāṣid* and the family, and research on family cohesion have not yet been consulted.
 visualizations:
   - id: ideas
     tr: Bir aile hakları çemberi.
@@ -72,7 +72,7 @@ fullAnswer:
 
       **Spouses (30:21).** "And of His signs is that He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy" (30:21). Marriage is described by what each gives the other: tranquillity, affection (*mawadda*), mercy.
 
-      **Wider family (4:1, 4:36).** God is the One "through whom you ask one another, and the wombs" (4:1): you must fear God regarding your ties of kinship. And: "to parents do good, and to relatives, orphans, the needy, the near neighbor…" (4:36).
+      **Wider family (4:1, 4:36).** "And fear Allah, through whom you ask one another, and the wombs" (4:1). The verse names ties of kinship (the "wombs") right beside God: how we treat our relatives is part of our duty to Him. And: "to parents do good, and to relatives, orphans, the needy, the near neighbor…" (4:36).
     tr: |-
       **"Öf" bile değil (17:23–24).** "Rabbin kesin olarak şunları emretti: Ancak kendisine ibadet edin, anne ve babaya iyilik edin. Onlardan biri veya her ikisi senin yanında yaşlanırsa, sakın onlara "öf" bile deme ve onları azarlama. İkisine de tatlı ve güzel söz söyle. İkisine de acıyarak tevazu kanatlarını indir. Ve şöyle de: "Ey Rabbim! Onların beni küçükten terbiye edip yetiştirdikleri gibi, sen de kendilerine merhamet et."" (17:23–24), Mekkî İsrâ Sûresi'nden. Âyet en zor evreyi tasvir eder: yaşlılıkta, seninle birlikte yaşayan anne baba. "Öf", küçük bir sabırsızlık sesidir; o bile yasaktır.
 
@@ -80,7 +80,7 @@ fullAnswer:
 
       **Eşler (30:21).** "Yine O'nun âyetlerindendir ki, sizin için nefislerinizden kendilerine ısınırsınız diye eşler yaratmış, aranıza bir sevgi ve merhamet koymuştur." (30:21). Evlilik, her birinin diğerine verdiği şeylerle tarif edilir: huzur, sevgi (*meveddet*), merhamet.
 
-      **Geniş aile (4:1, 4:36).** Allah, "kendi adına birbirinizden dilekte bulunduğunuz" Allah'tır ve "akrabalık (bağlarını kırmak)tan sakının" (4:1): Akrabalık bağların konusunda Allah'tan korkmalısın. Ve: "…anaya, babaya, akrabaya, yetimlere, yoksullara, akraba olan komşulara… iyilik edin" (4:36).
+      **Geniş aile (4:1, 4:36).** "Kendi adına birbirinizden dilekte bulunduğunuz Allah'dan ve akrabalık (bağlarını kırmak)tan sakının" (4:1). Âyet akrabalık bağlarını Allah'ın adının hemen yanında anar: akrabalarımıza nasıl davrandığımız, O'na karşı sorumluluğumuzun bir parçasıdır. Bir başka âyette: "…anaya, babaya, akrabaya, yetimlere, yoksullara, akraba olan komşulara… iyilik edin" (4:36).
     title:
       en: Kur'an ne diyor?
       tr: Kur'an ne diyor?
@@ -104,12 +104,6 @@ fullAnswer:
     title:
       en: Hz. Peygamber (s.a.v.) ne öğretti?
       tr: Hz. Peygamber (s.a.v.) ne öğretti?
-  - kind: scholars
-    en: "**The maqāṣid and the family.** No named work was read on this point."
-    tr: "**Makâsıd ve aile.** Bu konuda adı belli hiçbir eser okunmadı."
-    title:
-      en: Âlimler bunu nasıl anladı?
-      tr: Âlimler bunu nasıl anladı?
   - kind: fiqh
     en: |-
       **No obedience in sin.** Shaykh Amjad Rasheed, a contemporary Shafiʿi scholar, writes that "it is not obligatory to obey any of them if they command something that contravenes the shariah", and that obeying in such a case is "not even permissible" — for example, if parents stop a child from praying.
@@ -126,16 +120,10 @@ fullAnswer:
 
       **Çocuğun yararına bazı istisnalar.** Bazı âlimlerin "çocuğun yararına en iyi olan şey sebebiyle" bazı konuları istisna tuttuğunu ekler; örneğin "müstehap olsa bile ilim tahsili için yolculuk". Bunun dışında, mubah olan şeylerde çocuk uymalıdır.
 
-      **Evlilik ve meslek.** Okuyucular anne babanın eşlerini ya da mesleklerini seçip seçemeyeceğini soruyor. Okunan kaynak bunları doğrudan ele almıyor ve diğer mezheplerin görüşlerine henüz başvurulmadı. Evlilik konusunda "İslam kadına eşitsiz mi davranıyor?" sayfası ve velayet (*velâyet*) üzerine 4. çalışmadaki araştırma, kimin rızasının gerektiğini ele alıyor.
+      **Evlilik ve meslek.** Okuyucular anne babanın eşlerini ya da mesleklerini seçip seçemeyeceğini soruyor. Okunan kaynak bunları doğrudan ele almıyor ve diğer mezheplerin görüşlerine henüz başvurulmadı. Evlilik konusunda "İslam kadına eşitsiz mi davranıyor?" sayfası, kimin rızasının gerektiğini ele alıyor.
     title:
       en: İtaatin sınırları
       tr: İtaatin sınırları
-  - kind: research
-    en: "**Family cohesion and adolescent wellbeing.** No named study was read, so no numbers are given."
-    tr: "**Aile bütünlüğü ve ergenlerin iyi oluşu.** Adı belli hiçbir çalışma okunmadı, dolayısıyla rakam verilmiyor."
-    title:
-      en: Araştırmalar ne gösteriyor?
-      tr: Araştırmalar ne gösteriyor?
   - kind: practice
     en: |-
       **With ageing parents.** Speak gently, especially when you are tired; visit or call regularly; let them keep their dignity — ask their opinion even when you will decide yourself.

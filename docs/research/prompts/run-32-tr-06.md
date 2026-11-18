@@ -17,7 +17,7 @@ You are translating pages of **Tefekkür**, a bilingual (Turkish/English) websit
 
 **Evidence labels.** Leave the first word of **[Established]**, **[Scholarly]** and **[Debated]** in English: the site turns these into badges and shows them in Turkish by itself. Translate whatever follows that word inside the brackets ("[Established, small]" → "[Established, küçük]"). Translate any other label in full: [Moderate] → [Orta], [Mixed] → [Karışık].
 
-**2. The Quran: Elmalılı Hamdi Yazır only, word for word.** Every verse quoted in English (Saheeh International) is replaced by the **Elmalılı Hamdi Yazır** translation of the same words, exactly as on tanzil.net (translation "tr.yazir"). Never translate a verse yourself. The site's file `src/data/quran.json` holds the Elmalılı text (`tr`) of many verses already; for others, use tanzil.net. Keep the reference after each quotation, e.g. "…" (2:256). If the English quotes only part of a verse, quote the matching part of Elmalılı and mark omissions with "…". Claude checks every quotation against the Tanzil text automatically.
+**2. The Quran: Elmalılı Hamdi Yazır only, word for word.** Every verse quoted in English (Saheeh International) is replaced by the **Elmalılı Hamdi Yazır** translation of the same words, exactly as on tanzil.net (translation "tr.yazir"). Never translate a verse yourself. The site's file `src/data/quran.json` holds the Elmalılı text (`tr`) of many verses already; for others, use tanzil.net. Keep the reference after each quotation, e.g. "…" (2:256). A reference stands only right after the verse's own words; never let your translation put an explanation where it could be read as part of the verse. If the English quotes only part of a verse, quote the matching part of Elmalılı and mark omissions with "…". Claude checks every quotation against the Tanzil text automatically.
 
 **3. Hadith.** Keep every `{hadith:collection:number}` token exactly as written. Translate the hadith wording faithfully from the English given on the page. Do not replace it with a remembered Turkish version.
 
@@ -28,6 +28,12 @@ You are translating pages of **Tefekkür**, a bilingual (Turkish/English) websit
 - never change a quotation, and do not use the ﷺ glyph.
 
 **5. Names, as on the site's Turkish pages.** Gazzâlî, İbn Kesîr, Kurtubî, Râzî, Taberî, Zemahşerî, İbn Teymiyye, İbn Kayyim, İbn Rüşd, İbn Sînâ, İbn Âşûr, İbn Hazm, İbn Abbâs, Şâtıbî, Celâleyn, Mâtürîdî, Eş'arî, Nevevî. The hadith collections are Buhârî, Müslim, Tirmizî, Ebû Dâvûd, Nesâî and İbn Mâce. Modern and Western names stay as written (Plantinga, Hubble, NASA). Book titles stay in their transliteration, in italics.
+
+**5b. Respectful wording about Allah and the Prophet (s.a.v.).** A word-for-word rendering can be wrong in tone even when it is right in meaning. Two examples from this site:
+- The philosophers' term "divine simplicity" ("God is simple") means that God is **not composed of parts**. In Turkish, never write "Allah basittir" or "ilahi basitlik". Write "Allah parçalardan oluşmaz", "bileşik değildir", "terkipten münezzehtir".
+- "A man named Muhammad", in English a historian's neutral phrase, reads dismissively in Turkish ("Muhammed adında bir adam"). Write "Hz. Muhammed (s.a.v.)". For his death, use "vefat", not "ölüm".
+
+The words of a doubter or critic, quoted as theirs, may stay blunt: that is their voice, not the site's.
 
 **6. Terms.** Use the terms of the site's glossary (`src/data/glossary.yaml`): tefsir, fıkıh, hadis, sahih, hasen, zayıf, makâsıd, fıtrat, kader and so on. Explain a term the first time it appears, as the English does.
 
@@ -52,11 +58,11 @@ Translate these pages into Turkish, one file per page. The English to translate 
 - **M3** — Parents and family · Turkish title on the site: "Anne baba ve aile" · English: the section "## M3 — " in docs/research/27-run07-live-1.md
 - **M4** — Ethics of speech · Turkish title on the site: "Dil âdâbı" · English: the section "## M4 — " in docs/research/27-run07-live-1.md
 - **M5** — Gratitude and patience · Turkish title on the site: "Şükür ve sabır" · English: the section "## M5 — " in docs/research/27-run07-live-1.md
-- **M6** — Forgiveness and anger · Turkish title on the site: "Affetmek ve öfkeyi yenmek" · English: the section "## M6 — " in docs/research/27-run07-live-1.md
-- **M7** — Dignity and diversity · Turkish title on the site: "İnsan onuru ve çeşitlilik" · English: the section "## M7 — " in docs/research/27-run07-live-1.md
+- **M6** — Forgiveness and anger · Turkish title on the site: "Affetmek ve öfkeyi yenmek" · English: the section "## M6 — " in docs/research/46-run26-deepen-live.md
+- **M7** — Dignity and diversity · Turkish title on the site: "İnsan onuru ve çeşitlilik" · English: the section "## M7 — " in docs/research/46-run26-deepen-live.md
 - **M8** — Wealth, charity, fair trade, and the ban on exploitation · Turkish title on the site: "Servet, sadaka, adil ticaret ve sömürü yasağı" · English: the section "## M8 — " in docs/research/27-run07-live-1.md
 - **M9** — Amāna: trust, honesty, keeping promises · Turkish title on the site: "Emanet: güven, doğruluk, sözü tutmak" · English: the section "## M9 — " in docs/research/28-run08-live-2.md
 - **M10** — Orphans, the poor, travelers and neighbors · Turkish title on the site: "Yetimler, yoksullar, yolcular ve komşular" · English: the section "## M10 — " in docs/research/28-run08-live-2.md
-- **M11** — Humility and avoiding arrogance · Turkish title on the site: "Tevazu ve kibirden sakınmak" · English: the section "## M11 — " in docs/research/28-run08-live-2.md
+- **M11** — Humility and avoiding arrogance · Turkish title on the site: "Tevazu ve kibirden sakınmak" · English: the section "## M11 — " in docs/research/46-run26-deepen-live.md
 
 Each file starts with its "## <id> — <Turkish title>" line and keeps every heading as rule 7 says.

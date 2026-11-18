@@ -51,7 +51,7 @@ All four Sunni schools held that an adult, sane man who leaves Islam and refuses
 **The "treason" reading is a reading of context, not of the words, and should be judged that way.** The skeptic is right that the hadith says "changes his religion." The reformist case rests on three arguments:
 - **The Prophet's (pbuh) practice:** no recorded execution for belief alone.
 - **The companion hadith:** it joins leaving the religion to abandoning the *jamāʿa*, and in seventh-century Arabia the religious community was also the political and military one.
-- **The Medinan setting:** Alalwani links the hadith to a "serious security situation" (33:60–62). He concludes: "if the hadith… is sound, he will have had this serious security situation in mind" (ch. 4). He also argues that later jurists absorbed Byzantine and Persian allegiance laws and "confused apostasy in the political sense with apostasy in the sense of a change in personal beliefs" (ch. 5).
+- **The Medinan setting:** Alalwani links the hadith to a "serious security situation" (see 33:60–62). He concludes: "if the hadith… is sound, he will have had this serious security situation in mind" (ch. 4). He also argues that later jurists absorbed Byzantine and Persian allegiance laws and "confused apostasy in the political sense with apostasy in the sense of a change in personal beliefs" (ch. 5).
 
 **How strong is it?** It is moderately strong as history and weaker as a reading of the text. In its favour, the "community" clause is authentic, and the wars of *ridda* involved refusal of allegiance and *zakāt*. Against it, Ibn ʿAbbas himself applied the hadith to heretics who had only held beliefs, and the classical jurists read it generally despite knowing the context. Alalwani's point that the hadith is *āḥād* (a single-chain report) persuades only those who already restrict such reports.
 
@@ -129,7 +129,7 @@ The textual case for the classical ruling is strong. The reformist case depends 
 - Yaqeen Institute, "Clinicians, Imams, and the Whisperings of Satan"; IOCDF blog (July 2025); JBIMA qualitative study — scrupulosity.
 
 ### The question, at its strongest
-"A life lasts seventy years. Every human sin is finite in act and in harm. Infinite torment for finite wrongs is out of all proportion. 'It was against an infinite God' proves too much, because then every sin would merit infinity. 'They would have kept sinning' (6:28) punishes crimes that were never committed, and it assumes the very thing in question. Even Ibn Taymiyya apparently concluded that the punishment ends. Why should I believe a merciful God torments most of humanity for ever?"
+"A life lasts seventy years. Every human sin is finite in act and in harm. Infinite torment for finite wrongs is out of all proportion. 'It was against an infinite God' proves too much, because then every sin would merit infinity. 'Even if they were returned, they would return to that which they were forbidden' (6:28) punishes crimes that were never committed, and it assumes the very thing in question. Even Ibn Taymiyya apparently concluded that the punishment ends. Why should I believe a merciful God torments most of humanity for ever?"
 
 ### Why people ask it
 It is the most direct moral challenge to Islamic teaching about the afterlife. It weighs most heavily on those who have lost non-Muslim loved ones and on those with religious anxiety.
@@ -198,7 +198,7 @@ The justice of eternal Hell cannot be demonstrated to someone outside faith. Ibn
 - Pew, *The World's Muslims* (2013), ch. 6. https://www.pewresearch.org/religion/2013/04/30/the-worlds-muslims-religion-politics-society-interfaith-relations/
 
 ### The question, at its strongest
-"My neighbour is kinder and more honest than most Muslims I know. She has read about Islam and simply does not find it true. Your Prophet says that any Jew or Christian who 'hears of me' and dies without believing is in the Fire. Your Quran says any other religion 'will never be accepted' (3:85). So she goes to Hell for ever, for an honest conclusion. And 'maybe she didn't hear it properly' sounds like an escape hatch. Who decides?"
+"My neighbour is kinder and more honest than most Muslims I know. She has read about Islam and simply does not find it true. Your Prophet says that any Jew or Christian who 'hears of me' and dies without believing is in the Fire. Your Quran says of any other religion 'never will it be accepted' (3:85). So she goes to Hell for ever, for an honest conclusion. And 'maybe she didn't hear it properly' sounds like an escape hatch. Who decides?"
 
 ### Why people ask it
 It is the question every Muslim with non-Muslim friends eventually faces, and the one outsiders find most alienating.

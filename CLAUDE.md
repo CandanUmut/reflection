@@ -9,6 +9,7 @@ A bilingual (Turkish / English) website that invites reflection (*tefekkür*): t
 - Every Honest Note in the research must be visible on the page.
 - Never use "miracle", "proves", "predicted" or similar language for science claims about verses.
 - Quran translations: Saheeh International (English) and Elmalılı Hamdi Yazır (Turkish), verbatim from Tanzil, with attribution — Umut's decision, recorded in `DESIGN.md` §9. Never edit the translation text.
+- A sura:verse reference stands only after the verse's own words, quoted verbatim. Never put our own words where they could be read as a verse. Umut's words: "Kendi sözlerimizi asla âyet gibi yazamayız. Oraya sûre ve âyet numarası koyduysan o kesinlikle yalnızca âyet olmalı." On the site, a reference that does not directly follow a quotation is shown as "(bkz. 2:256)" / "(see 2:256)" by `src/lib/md.ts`; `npm run check:verses` (after a build) checks that every quotation a bare reference follows is word for word in Tanzil.
 - Respect `prefers-reduced-motion`; meet WCAG 2.2 AA in all four time-of-day palettes.
 - Run the `critic` and `content-critic` agents at the end of every phase; fix every "must fix" before reporting.
 - Work on a branch per phase and open a PR. Don't push straight to `main`.
@@ -63,3 +64,4 @@ A bilingual (Turkish / English) website that invites reflection (*tefekkür*): t
 - Wrote my preferences for me without asking. Anything that speaks for me must come from my own answers.
 - Made the installed app always open in Turkish, ignoring the device's language and the reader's own choice. Defaults that affect every user (language, start page) need the same thought as anything else.
 - Applied hundreds of research corrections with a loose automatic matcher that also deleted sentences it should not have touched (some "Limit:" lines among them). Caught before pushing by comparing every removed sentence with the original; redone strictly. Automated edits to content must be followed by a check of exactly what they removed.
+- Turned research notes like "no study was read" into whole page sections ("What research shows" with nothing in it), and let an explanation follow a verse quotation so closely that it read like part of the verse (M3, 4:1). A note about what was not read belongs in the honest limits; commentary next to a verse must be clearly marked as commentary.

@@ -26,8 +26,8 @@ hadith:
     - God has prescribed iḥsān (doing things beautifully and well) in all things (Muslim 1955).
     - The woman who gave water to a thirsty dog (Bukhārī 3467).
 gaps:
-  tr: Allah'ın rahmeti ile azabı arasındaki ilişki tartışmalıdır ve bu sayfa onu çözmüyor. Gazzâlî'nin ve İbn Kayyim'in rahmet üzerine yazılarına ve mezheplerin kesimle ilgili hükümlerine henüz başvurulmadı.
-  en: The relation between God's mercy and punishment is debated, and this page does not settle it. Al-Ghazali's and Ibn al-Qayyim's writings on mercy, and the schools' rules on slaughter, have not yet been consulted.
+  tr: Allah'ın rahmeti ile azabı arasındaki ilişki tartışmalıdır ve bu sayfa onu çözmüyor. Gazzâlî'nin ve İbn Kayyim'in rahmet üzerine yazılarına, mezheplerin kesimle ilgili hükümlerine ve şefkat üzerine çalışmalara henüz başvurulmadı. Hiçbir araştırma İslam'ın rahmet öğretisini özel olarak sınamıyor; bu sayfa bilimsel destek iddia etmiyor.
+  en: The relation between God's mercy and punishment is debated, and this page does not settle it. Al-Ghazali's and Ibn al-Qayyim's writings on mercy, the schools' rules on slaughter, and studies of compassion have not yet been consulted. No research specifically tests the Islamic teaching on mercy, and this page does not claim scientific support.
 visualizations:
   - id: hundred-parts
     tr: Rahmetin yüz parçası
@@ -69,7 +69,7 @@ fullAnswer:
 
       **"A mercy to the worlds" (21:107).** "And We have not sent you, [O Muhammad], except as a mercy to the worlds" (21:107), Meccan. "The worlds" (*al-ʿālamīn*) is the same word as in "Lord of the worlds": all creation, not only Muslims.
     tr: |-
-      **"Rahmetim her şeyi kuşatmıştır" — ve ardından gelen ifade (7:156).** Âyet bir karşılıklı konuşmadır. Hz. Mûsâ (a.s.) şöyle dua eder: "Ve bize hem bu dünyada bir iyilik yaz, hem de ahirette. Biz gerçekten de tevbe edip senin hidayetine döndük." Allah cevap verir: "azabım var, onu dilediğime isabet ettiririm, rahmetim de vardır, o ise her şeyi kaplamış ve kuşatmıştır. Onu da özellikle korunanlara, zekatını verenlere ve âyetlerimize inananlara mahsus kılacağım." (7:156), Mekkî A'râf Sûresi'nden. Yani âyet iki iddiada bulunur: Rahmet her şeye ulaşır ve özel, yazılmış bir rahmet *takvâ* (Allah bilinci) sahipleri içindir. İbn Kesîr, ilk ifadenin "O'nun kuşatıcı rahmetine şahitlik ettiğini" söyler ve ikincisini şöyle açıklar: "Rahmetimi onlar için, benden onlara bir lütuf ve ihsan olarak takdir edeceğim." Bir hadis zikreder (Selmân'dan, İmam Ahmed ve Müslim kaydetmiştir): "Allah'ın… yüz rahmeti vardır", bunlardan "doksan dokuz rahmeti Kıyamet Günü için kendi katında saklamıştır." Bu okumaya göre her şey bu dünyada Allah'ın rahmetinden bir pay alır ve ahiretin en tam rahmeti O'na yönelenlere vaat edilir.
+      **"…Rahmetim de vardır, o ise her şeyi kaplamış ve kuşatmıştır" — ve ardından gelen ifade (7:156).** Âyet bir karşılıklı konuşmadır. Hz. Mûsâ (a.s.) şöyle dua eder: "Ve bize hem bu dünyada bir iyilik yaz, hem de ahirette. Biz gerçekten de tevbe edip senin hidayetine döndük." Allah cevap verir: "azabım var, onu dilediğime isabet ettiririm, rahmetim de vardır, o ise her şeyi kaplamış ve kuşatmıştır. Onu da özellikle korunanlara, zekatını verenlere ve âyetlerimize inananlara mahsus kılacağım." (7:156), Mekkî A'râf Sûresi'nden. Yani âyet iki iddiada bulunur: Rahmet her şeye ulaşır ve özel, yazılmış bir rahmet *takvâ* (Allah bilinci) sahipleri içindir. İbn Kesîr, ilk ifadenin "O'nun kuşatıcı rahmetine şahitlik ettiğini" söyler ve ikincisini şöyle açıklar: "Rahmetimi onlar için, benden onlara bir lütuf ve ihsan olarak takdir edeceğim." Bir hadis zikreder (Selmân'dan, İmam Ahmed ve Müslim kaydetmiştir): "Allah'ın… yüz rahmeti vardır", bunlardan "doksan dokuz rahmeti Kıyamet Günü için kendi katında saklamıştır." Bu okumaya göre her şey bu dünyada Allah'ın rahmetinden bir pay alır ve ahiretin en tam rahmeti O'na yönelenlere vaat edilir.
 
       **Hz. Peygamber'in (s.a.v.) etkisinin kaynağı olarak yumuşaklık (3:159).** "Sen (o zaman), sırf Allah'ın rahmetiyle onlara karşı yumuşak davrandın. Eğer kaba, katı yürekli olsaydın, onlar senin etrafından dağılıp giderlerdi. Artık onları sen bağışla, onlar için Allah'dan mağfiret dile. (Yapacağın) işlerde onlara da danış" (3:159). Bu Medenî âyet, Hz. Peygamber'in (s.a.v.) kendi takipçilerinden bazılarının emirlere uymayıp kaçtığı Uhud Savaşı ile ilgili pasajda yer alır. Âyet ona *onları* bağışlamasını, onlar için dua etmesini ve yine de onlara danışmasını söyler.
 
@@ -109,12 +109,6 @@ fullAnswer:
     title:
       en: Fakihler ne diyor?
       tr: Fakihler ne diyor?
-  - kind: research
-    en: "**No research specifically tests the Islamic teaching on mercy,** and studies of compassion have not yet been consulted. This page does not claim scientific support."
-    tr: "**Hiçbir araştırma İslam'ın rahmet öğretisini özel olarak sınamıyor** ve şefkat üzerine çalışmalara henüz başvurulmadı. Bu sayfa bilimsel destek iddia etmiyor."
-    title:
-      en: Araştırmalar ne gösteriyor?
-      tr: Araştırmalar ne gösteriyor?
   - kind: practice
     en: |-
       **Iḥsān in ordinary work.** Do the task as if it will be seen by the One who sees everything: the report no one will check, the repair no one will inspect, the meal for a guest.
@@ -150,7 +144,7 @@ fullAnswer:
 followUps:
   - q:
       en: How does "My mercy encompasses all things" fit with eternal punishment, and with the second half of 7:156?
-      tr: "\"Rahmetim her şeyi kuşatmıştır\" ebedî azapla ve 7:156'nın ikinci yarısıyla nasıl bağdaşır?"
+      tr: Rahmetin "her şeyi kaplamış ve kuşatmış" olması ebedî azapla ve 7:156'nın ikinci yarısıyla nasıl bağdaşır?
     a:
       en: Ibn Kathir reads the first phrase as mercy reaching everything, and the second as the special, written mercy for those with *taqwa*. Whether mercy will finally reach even those in Hell is a long-debated question, discussed on the page on eternal Hell.
       tr: İbn Kesîr ilk ifadeyi her şeye ulaşan rahmet, ikincisini ise *takvâ* sahiplerine özel, yazılmış rahmet olarak okur. Rahmetin sonunda cehennemdekilere bile ulaşıp ulaşmayacağı uzun süredir tartışılan bir sorudur ve ebedî cehennem sayfasında ele alınıyor.

@@ -17,7 +17,7 @@ You are translating pages of **Tefekkür**, a bilingual (Turkish/English) websit
 
 **Evidence labels.** Leave the first word of **[Established]**, **[Scholarly]** and **[Debated]** in English: the site turns these into badges and shows them in Turkish by itself. Translate whatever follows that word inside the brackets ("[Established, small]" → "[Established, küçük]"). Translate any other label in full: [Moderate] → [Orta], [Mixed] → [Karışık].
 
-**2. The Quran: Elmalılı Hamdi Yazır only, word for word.** Every verse quoted in English (Saheeh International) is replaced by the **Elmalılı Hamdi Yazır** translation of the same words, exactly as on tanzil.net (translation "tr.yazir"). Never translate a verse yourself. The site's file `src/data/quran.json` holds the Elmalılı text (`tr`) of many verses already; for others, use tanzil.net. Keep the reference after each quotation, e.g. "…" (2:256). If the English quotes only part of a verse, quote the matching part of Elmalılı and mark omissions with "…". Claude checks every quotation against the Tanzil text automatically.
+**2. The Quran: Elmalılı Hamdi Yazır only, word for word.** Every verse quoted in English (Saheeh International) is replaced by the **Elmalılı Hamdi Yazır** translation of the same words, exactly as on tanzil.net (translation "tr.yazir"). Never translate a verse yourself. The site's file `src/data/quran.json` holds the Elmalılı text (`tr`) of many verses already; for others, use tanzil.net. Keep the reference after each quotation, e.g. "…" (2:256). A reference stands only right after the verse's own words; never let your translation put an explanation where it could be read as part of the verse. If the English quotes only part of a verse, quote the matching part of Elmalılı and mark omissions with "…". Claude checks every quotation against the Tanzil text automatically.
 
 **3. Hadith.** Keep every `{hadith:collection:number}` token exactly as written. Translate the hadith wording faithfully from the English given on the page. Do not replace it with a remembered Turkish version.
 
@@ -28,6 +28,12 @@ You are translating pages of **Tefekkür**, a bilingual (Turkish/English) websit
 - never change a quotation, and do not use the ﷺ glyph.
 
 **5. Names, as on the site's Turkish pages.** Gazzâlî, İbn Kesîr, Kurtubî, Râzî, Taberî, Zemahşerî, İbn Teymiyye, İbn Kayyim, İbn Rüşd, İbn Sînâ, İbn Âşûr, İbn Hazm, İbn Abbâs, Şâtıbî, Celâleyn, Mâtürîdî, Eş'arî, Nevevî. The hadith collections are Buhârî, Müslim, Tirmizî, Ebû Dâvûd, Nesâî and İbn Mâce. Modern and Western names stay as written (Plantinga, Hubble, NASA). Book titles stay in their transliteration, in italics.
+
+**5b. Respectful wording about Allah and the Prophet (s.a.v.).** A word-for-word rendering can be wrong in tone even when it is right in meaning. Two examples from this site:
+- The philosophers' term "divine simplicity" ("God is simple") means that God is **not composed of parts**. In Turkish, never write "Allah basittir" or "ilahi basitlik". Write "Allah parçalardan oluşmaz", "bileşik değildir", "terkipten münezzehtir".
+- "A man named Muhammad", in English a historian's neutral phrase, reads dismissively in Turkish ("Muhammed adında bir adam"). Write "Hz. Muhammed (s.a.v.)". For his death, use "vefat", not "ölüm".
+
+The words of a doubter or critic, quoted as theirs, may stay blunt: that is their voice, not the site's.
 
 **6. Terms.** Use the terms of the site's glossary (`src/data/glossary.yaml`): tefsir, fıkıh, hadis, sahih, hasen, zayıf, makâsıd, fıtrat, kader and so on. Explain a term the first time it appears, as the English does.
 
@@ -49,14 +55,14 @@ You are translating pages of **Tefekkür**, a bilingual (Turkish/English) websit
 
 Translate these pages into Turkish, one file per page. The English to translate is the page's section in the research file named next to it, from its "## …" line up to the next "## " line or "---" (leave out "### Sources read"). Save each page as **docs/research/tr/<page id>.md** (for example docs/research/tr/S18.md).
 
-- **S18** — Fire from the green tree · Turkish title on the site: "Yeşil ağaçtan ateş" · English: the section "## S18 — " in docs/research/34-run14-reflect-3.md
-- **S19** — Iron "sent down" · Turkish title on the site: ""İndirilen" demir" · English: the section "## S19 — " in docs/research/34-run14-reflect-3.md
+- **S18** — Fire from the green tree · Turkish title on the site: "Yeşil ağaçtan ateş" · English: the section "## S18 — " in docs/research/44-run24-deepen-reflect-a.md
+- **S19** — Iron "sent down" · Turkish title on the site: ""İndirilen" demir" · English: the section "## S19 — " in docs/research/44-run24-deepen-reflect-a.md
 - **S20** — The ant · Turkish title on the site: "Karınca" · English: the section "## S20 — " in docs/research/34-run14-reflect-3.md
-- **S21** — Night and day; the sun as a lamp, the moon as a light · Turkish title on the site: "Gece ve gündüz; kandil olarak güneş, nur olarak ay" · English: the section "## S21 — " in docs/research/34-run14-reflect-3.md
-- **S22** — Fingertips and resurrection · Turkish title on the site: "Parmak uçları ve diriliş" · English: the section "## S22 — " in docs/research/34-run14-reflect-3.md
-- **S23** — Expansion of the heavens · Turkish title on the site: "Göklerin genişletilmesi" · English: the section "## S23 — " in docs/research/34-run14-reflect-3.md
-- **S24** — A smoke-like origin; heavens and earth joined then split · Turkish title on the site: "Duman gibi bir başlangıç; bitişikken ayrılan gökler ve yer" · English: the section "## S24 — " in docs/research/34-run14-reflect-3.md
-- **S25** — The protected roof · Turkish title on the site: "Korunmuş tavan" · English: the section "## S25 — " in docs/research/34-run14-reflect-3.md
+- **S21** — Night and day; the sun as a lamp, the moon as a light · Turkish title on the site: "Gece ve gündüz; kandil olarak güneş, nur olarak ay" · English: the section "## S21 — " in docs/research/44-run24-deepen-reflect-a.md
+- **S22** — Fingertips and resurrection · Turkish title on the site: "Parmak uçları ve diriliş" · English: the section "## S22 — " in docs/research/44-run24-deepen-reflect-a.md
+- **S23** — Expansion of the heavens · Turkish title on the site: "Göklerin genişletilmesi" · English: the section "## S23 — " in docs/research/44-run24-deepen-reflect-a.md
+- **S24** — A smoke-like origin; heavens and earth joined then split · Turkish title on the site: "Duman gibi bir başlangıç; bitişikken ayrılan gökler ve yer" · English: the section "## S24 — " in docs/research/44-run24-deepen-reflect-a.md
+- **S25** — The protected roof · Turkish title on the site: "Korunmuş tavan" · English: the section "## S25 — " in docs/research/44-run24-deepen-reflect-a.md
 - **S26** — Darkness in the deep sea · Turkish title on the site: "Derin denizde karanlık" · English: the section "## S26 — " in docs/research/36-run16-reflect-4.md
 - **S27** — Gardens and fruits watered by one water · Turkish title on the site: "Tek bir suyla sulanan bahçeler ve meyveler" · English: the section "## S27 — " in docs/research/36-run16-reflect-4.md
 - **S28** — Livestock and their benefits · Turkish title on the site: "Hayvanlar ve faydaları" · English: the section "## S28 — " in docs/research/36-run16-reflect-4.md

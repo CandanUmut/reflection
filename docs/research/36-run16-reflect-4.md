@@ -25,7 +25,7 @@ Written directly by Claude from sources opened and read (4 November 2026). Sahee
 ### Verse note
 "Or [they are] like darknesses within an unfathomable sea which is covered by waves, upon which are waves, over which are clouds - darknesses, some of them upon others. When one puts out his hand [therein], he can hardly see it. And he to whom Allah has not granted light - for him there is no light" (24:40), Medinan, in Sura al-Nūr ("The Light").
 
-- **Setting.** 24:40 is the second of two parables. The first (24:39, not quoted here because it was not in the verified data used) is the parable of the mirage; both describe those who reject faith, as al-Jalālayn's gloss on 24:40 makes explicit. Both come right after the Light Verse (24:35): "Allah is the Light of the heavens and the earth. The example of His light is like a niche within which is a lamp … Allah guides to His light whom He wills" (24:35). The sura sets the believer's heart, lit from within, against a heart sunk in layered dark.
+- **Setting.** 24:40 is the second of two parables. The first is the parable of the mirage: "But those who disbelieved - their deeds are like a mirage in a lowland which a thirsty one thinks is water…" (24:39); both describe those who reject faith, as al-Jalālayn's gloss on 24:40 makes explicit. Both come right after the Light Verse (24:35): "Allah is the Light of the heavens and the earth. The example of His light is like a niche within which is a lamp … Allah guides to His light whom He wills" (24:35). The sura sets the believer's heart, lit from within, against a heart sunk in layered dark.
 - **Whom it describes.** The subject of "Or [they are]" carries over from 24:39: those who reject faith, or their deeds (al-Ṭabarī; al-Jalālayn). It is not addressed to sailors.
 - **Key words.** *Baḥr lujjī* ("an unfathomable sea"): from *lujja*, the deep, vast body of water; al-Qurṭubī explains it as "the sea whose bottom cannot be reached" (below). *Mawj min fawqihi mawj* ("waves, upon which are waves"). *Ẓulumāt baʿḍuhā fawqa baʿḍ* ("darknesses, some of them upon others"). *Lam yakad yarāhā* ("he can hardly see it"): Arabic *lam yakad* means "barely" or "all but not".
 
@@ -301,7 +301,7 @@ Modern science has walked a long way into the brain. It can map which activity c
 20:50 gives Moses' (pbuh) answer to Pharaoh — "Our Lord is He who gave each thing its form and then guided [it]" — and 87:2–3 and 54:49 say the same in other words: God created, proportioned, "destined and [then] guided", and made all things "with predestination".
 
 ### Verse note
-"He said, 'Our Lord is He who gave each thing its form and then guided [it]'" (20:50), Meccan, in Sura Ṭā Hā: Moses (pbuh) answering Pharaoh's question, "who is your Lord?" (the question is in the verse before, not quoted here).
+"He said, 'Our Lord is He who gave each thing its form and then guided [it]'" (20:50), Meccan, in Sura Ṭā Hā: Moses (pbuh) answering Pharaoh's question in the verse before: "So who is the Lord of you two, O Moses?" (20:49).
 
 "Who created and proportioned. And who destined and [then] guided" (87:2–3), Meccan, in Sura al-Aʿlā, describing "your Lord, the Most High" of its first verse.
 
@@ -440,7 +440,7 @@ Yellowstone adds a needed warning. A beautiful story — wolves return, rivers h
 Sura al-Raḥmān names speech among the first gifts of the Most Merciful — "Created man, [And] taught him eloquence" (55:3–4) — and 90:8–10 ties the tools of seeing and speaking to the moral choice between "the two ways".
 
 ### Verse note
-"Created man, [And] taught him eloquence" (55:3–4), in Sura al-Raḥmān, Medinan in the Tanzil classification. The sura opens by naming the Most Merciful and His teaching of the Quran (55:1–2, not quoted here because they were not in the verified data used); creating the human and teaching *al-bayān* come next.
+"Created man, [And] taught him eloquence" (55:3–4), in Sura al-Raḥmān, Medinan in the Tanzil classification. The sura opens: "The Most Merciful / Taught the Qur'an" (55:1–2); creating the human and teaching *al-bayān* come next.
 
 "Have We not made for him two eyes? And a tongue and two lips? And have shown him the two ways?" (90:8–10), Meccan, in Sura al-Balad.
 
