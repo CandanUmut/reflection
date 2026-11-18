@@ -125,9 +125,6 @@ God says of Himself: "My mercy encompasses all things" (7:156), and the Prophet 
 #### fiqh — What the jurists hold
 **Slaughter (dhabḥ).** Muslim 1955 is the basis of the jurists' rules that the knife be sharp and the animal not be made to suffer needlessly. How each of the four schools details this (for example, not sharpening the knife in front of the animal, not slaughtering one animal in sight of another) has not yet been consulted in named works.
 
-#### research — What research shows
-**No research specifically tests the Islamic teaching on mercy,** and studies of compassion have not yet been consulted. This page does not claim scientific support.
-
 #### practice — In daily life
 **Iḥsān in ordinary work.** Do the task as if it will be seen by the One who sees everything: the report no one will check, the repair no one will inspect, the meal for a guest.
 
@@ -156,7 +153,7 @@ God says of Himself: "My mercy encompasses all things" (7:156), and the Prophet 
 **How do jurists apply Muslim 1955 in slaughter?** It is the basis for requiring a sharp knife and avoiding needless suffering; school-by-school detail has not yet been checked.
 
 ### Honest limits
-The relation between God's mercy and punishment is debated, and this page does not settle it. Al-Ghazali's and Ibn al-Qayyim's writings on mercy, and the schools' rules on slaughter, have not yet been consulted.
+The relation between God's mercy and punishment is debated, and this page does not settle it. Al-Ghazali's and Ibn al-Qayyim's writings on mercy, the schools' rules on slaughter, and studies of compassion have not yet been consulted. No research specifically tests the Islamic teaching on mercy, and this page does not claim scientific support.
 
 ---
 
@@ -187,7 +184,7 @@ In the Quran, kindness to parents comes straight after the worship of God: "your
 
 **Spouses (30:21).** "And of His signs is that He created for you from yourselves mates that you may find tranquillity in them; and He placed between you affection and mercy" (30:21). Marriage is described by what each gives the other: tranquillity, affection (*mawadda*), mercy.
 
-**Wider family (4:1, 4:36).** God is the One "through whom you ask one another, and the wombs" (4:1): you must fear God regarding your ties of kinship. And: "to parents do good, and to relatives, orphans, the needy, the near neighbor…" (4:36).
+**Wider family (4:1, 4:36).** "And fear Allah, through whom you ask one another, and the wombs" (4:1). The verse names ties of kinship (the "wombs") right beside God: how we treat our relatives is part of our duty to Him. And: "to parents do good, and to relatives, orphans, the needy, the near neighbor…" (4:36).
 
 #### sunnah — What the Prophet (pbuh) taught
 **Your mother, three times.** A man asked: "O Messenger of Allah! Who is more entitled to be treated with the best companionship by me?" The Prophet (pbuh) answered "your mother" three times, and then "your father" ({hadith:bukhari:5971}, narrated by Abu Hurayra).
@@ -198,9 +195,6 @@ In the Quran, kindness to parents comes straight after the worship of God: "your
 
 **What spouses owe each other.** ʿAʾisha (ra) reports: "The best of you is the best to his wives, and I am the best of you to my wives" (al-Tirmidhi 3895; al-Tirmidhi: *ḥasan gharīb ṣaḥīḥ*; al-Albani: *ṣaḥīḥ*). The measure of a man's goodness is how he treats the people with the least power to complain about him.
 
-#### scholars — How scholars have understood it
-**The maqāṣid and the family.** No named work was read on this point.
-
 #### fiqh — The limits of obedience
 **No obedience in sin.** Shaykh Amjad Rasheed, a contemporary Shafiʿi scholar, writes that "it is not obligatory to obey any of them if they command something that contravenes the shariah", and that obeying in such a case is "not even permissible" — for example, if parents stop a child from praying.
 
@@ -209,9 +203,6 @@ In the Quran, kindness to parents comes straight after the worship of God: "your
 **Some exceptions for the child's interest.** He adds that some scholars exempt matters "due to what is best in the child's interests", such as "travelling to attain knowledge, even if recommended". Otherwise, in what is permissible, the child should comply.
 
 **Marriage and career.** Readers ask whether a parent can choose their spouse or career. The source read does not address these directly, and the other schools' positions have not yet been consulted. On marriage, the page "Does Islam treat women unequally?" discusses whose consent is required.
-
-#### research — What research shows
-**Family cohesion and adolescent wellbeing.** No named study was read, so no numbers are given.
 
 #### practice — In daily life
 **With ageing parents.** Speak gently, especially when you are tired; visit or call regularly; let them keep their dignity — ask their opinion even when you will decide yourself.
@@ -243,7 +234,7 @@ In the Quran, kindness to parents comes straight after the worship of God: "your
 **Can my parents make me divorce, or choose my career?** Not checked in the four schools; the Shafiʿi source read limits obedience to permissible matters that do not harm the child.
 
 ### Honest limits
-Families often fall short of this ideal, and some parents abuse the religious authority this teaching gives them. The other schools' views on obedience, and research on family cohesion, have not yet been consulted.
+Families often fall short of this ideal, and some parents abuse the religious authority this teaching gives them. The other schools' views on obedience, scholarly works on the *maqāṣid* and the family, and research on family cohesion have not yet been consulted.
 
 ---
 

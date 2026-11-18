@@ -280,9 +280,6 @@ The five prayers are at dawn (*fajr*), just after midday (*ẓuhr*), the afterno
 
 **"Five times is too much."** *Reply:* each prayer takes minutes; spread through the day, they are short returns to God. *Limit:* for a new Muslim or someone returning, five can feel heavy; many teachers advise building up gradually (no named source read).
 
-#### science — What research shows
-No study was read, so no claim about prayer's measurable effects is made here.
-
 #### views — The range of views
 - **Sunni and Shiʿi Muslims** — five daily prayers, as practised from the beginning (the Shiʿi practice of combining them into three time-slots is a timing difference, not a reduction; no source read).
 - **Some Quran-centred Muslims** — three prayers, from the Quran's named times.
@@ -372,9 +369,6 @@ The Quran agrees that God needs nothing: "O mankind, you are those in need of Al
 *Limit:* the language of wrath and eternal punishment in the Quran is strong, and some readers will still find it hard to reconcile with the "medicine" picture. This page does not remove that difficulty; it shows how the tradition holds the two together.
 
 **"What does 'neglect is self-harm' mean in concrete terms?"** A person who never pauses to thank, never turns from the self, never holds back from wrong for God's sake, gradually becomes harder, more anxious and more self-centred — the reverse of the "riches" of the chest Ibn Kathir's hadith promises. That is a moral and spiritual claim, not a measured one.
-
-#### science — What research shows
-No study was read, so the claim is not repeated here.
 
 #### views — The range of views
 - **Quran and hadith** — God is free of need; worship is for humans (35:15; 51:57; Muslim 2577).

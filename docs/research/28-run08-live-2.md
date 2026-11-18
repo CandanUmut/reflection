@@ -310,9 +310,6 @@ Marriage is called one of God's signs: "He created for you from yourselves mates
 
 **The best to his family.** "The best of you is the best to his wives, and I am the best of you to my wives" (al-Tirmidhi 3895; al-Tirmidhi: *ḥasan gharīb ṣaḥīḥ*; al-Albani: *ṣaḥīḥ*).
 
-#### scholars — How scholars have understood it
-The legal rights of spouses by school have not yet been consulted either.
-
 #### research — What research shows
 **Marital quality and health.** [Established; small effects.] Robles and colleagues (2014) reviewed 126 studies with more than 72,000 people over 50 years. "Greater marital quality was related to better health", with effects of about r = .07 to .21 (r = .11 for mortality) — small, similar in size to the links between health behaviours such as diet and health. The designs limit conclusions about cause.
 
