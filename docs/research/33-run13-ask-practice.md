@@ -228,7 +228,7 @@ Feeling nothing in prayer is common, has been discussed for a thousand years, an
 #### quran — What the Quran says
 **Prayer as remembrance (20:14).** "Indeed, I am Allah. There is no deity except Me, so worship Me and establish prayer for My remembrance" (20:14), Meccan — God's words to Moses (pbuh) at the fire in the valley of Ṭuwā (20:10–12). The first purpose named is *dhikr*, remembrance: turning the mind back to God, whether or not one feels moved.
 
-**Humility (23:1–2).** "Certainly will the believers have succeeded: They who are during their prayer humbly submissive" (23:1–2), Meccan. *Khāshiʿūn*, "humbly submissive", is the root of *khushūʿ*. It is listed first among the believers' qualities: a goal to grow towards.
+**Humility (23:1–2).** "Certainly will the believers have succeeded: They who are during their prayer humbly submissive" (23:1–2), Meccan. *Khāshiʿūn*, "humbly submissive", shares its root with *khushūʿ*. It is listed first among the believers' qualities: a goal to grow towards.
 
 **What prayer does (29:45).** "Recite, [O Muhammad], what has been revealed to you of the Book and establish prayer. Indeed, prayer prohibits immorality and wrongdoing, and the remembrance of Allah is greater" (29:45), Meccan. Prayer's effect is described in behaviour — it holds a person back from wrong — not in feelings.
 
@@ -335,7 +335,7 @@ The Quran agrees that God needs nothing: "O mankind, you are those in need of Al
 
 **Need is on our side (35:15).** "O mankind, you are those in need of Allah, while Allah is the Free of need, the Praiseworthy" (35:15), Meccan. *Al-Ghanī*, "the Free of need", and *al-Ḥamīd*, "the Praiseworthy": God is worthy of praise whether or not anyone praises Him.
 
-**Gratitude (14:7).** "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe'" (14:7), Meccan, in Moses' (pbuh) words to his people. Gratitude increases the one who is grateful.
+**Gratitude (14:7).** "And [remember] when your Lord proclaimed, 'If you are grateful, I will surely increase you [in favor]; but if you deny, indeed, My punishment is severe'" (14:7), Meccan, in Moses' (pbuh) words to his people. God promises increase to the one who is grateful.
 
 #### scholars — How the commentators read "to worship Me"
 **Ibn Kathir.** "I, Allah, only created them so that I order them to worship Me, not that I need them." He reports Ibn ʿAbbas: "So that they worship Me, willingly or unwillingly." He also cites a hadith in which God says: "O Son of Adam! "O son of Adam! Devote yourself to My worship, I will fill your chest with riches and alleviate your poverty" ({hadith:tirmidhi:2466}; al-Tirmidhi: *ḥasan gharīb*; al-Albani: *ṣaḥīḥ*).
@@ -351,7 +351,7 @@ The Quran agrees that God needs nothing: "O mankind, you are those in need of Al
 #### reasoning — Why worship, if God needs nothing?
 **1. Praise that fits, not praise that is needed.** We praise a beautiful piece of music not because the composer needs it, but because praise is the fitting response to what is good. On the Islamic view, God is the source of every good; praising Him is seeing things as they are. That is why the Quran calls God *al-Ḥamīd*, "the Praiseworthy" — worthy of praise — while also saying He is "Free of need" (35:15).
 
-**2. Worship serves the worshipper.** Like medicine, it is for the patient, not the doctor. Gratitude increases the grateful (14:7). Remembering God reorients a person away from the self. Ibn Kathir's hadith puts it in God's words: "I will fill your chest with riches".
+**2. Worship serves the worshipper.** Like medicine, it is for the patient, not the doctor. God promises increase to the grateful (14:7). Remembering God reorients a person away from the self. Ibn Kathir's hadith puts it in God's words: "I will fill your chest with riches".
 
 **3. A God who invites worship differs from a human who demands it.** A human who demands constant praise is insecure because he needs it. God, by His own statement, gains nothing from it (Muslim 2577). The structure is the opposite: the human is the one in need.
 
