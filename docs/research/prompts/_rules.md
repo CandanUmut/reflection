@@ -24,7 +24,7 @@ Tone: calm, respectful and honest. Plain words and short sentences. Explain ever
 - a **narrator or later transmitter** inside a hadith report. *Example of the mistake:* in Muslim 2605, the list of "three cases" in which lying is allowed is the narrator al-Zuhri's addition, not the Prophet's words;
 - a **commentator or scholar**, and a **modern reading**.
 
-**3. Quote the Quran exactly, in Saheeh International.** Use https://quran.com (Saheeh International). Give the reference for every verse (e.g. 4:135). Mark omissions with "…". A tafsir translation's own wording of a verse is **not** the verse.
+**3. Quote the Quran exactly, in Saheeh International.** Use https://quran.com (Saheeh International). Give the reference for every verse (e.g. 4:135). Mark omissions with "…". A tafsir translation's own wording of a verse is **not** the verse. A reference in brackets, such as (4:135), stands only right after the verse's own words in quotation marks. Never put it after a paraphrase or an explanation, and never let an explanation follow a quotation so closely that it could be read as part of the verse.
 - *Example of the mistake:* the English Ibn Kathir renders 25:2 as "measured it exactly according to its due measurements"; Saheeh has "determined it with [precise] determination".
 - When the commentator's wording matters, say so: "Ibn Kathir's translator renders it as …".
 

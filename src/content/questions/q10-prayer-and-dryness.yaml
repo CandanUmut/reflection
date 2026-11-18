@@ -48,7 +48,7 @@ layers:
       "Hiçbir şey hissetmemek" her şeyi kapsıyorsa (yemek, arkadaşlar), bir ruh sağlığı kontrolü yardımcı olabilir. Abdesti tekrarlamak ya da namazın geçersiz olmasından korkmak klasik vesvesedir; klasik kural, bitirdikten sonraki aşırı şüpheyi dikkate almamaktır.
     en: If "feeling nothing" covers everything (food, friends), a mental-health check can help. Repeating ablution or fearing invalid prayer is classic vesvese; the classical rule ignores excessive doubt after finishing.
 honestLimits:
-  tr: Hiçbir teknik duyguyu garanti etmez. Gazzâlî'nin *Esrârü's-Salât*'ına, Kuşeyrî'nin kendi metnine, Kur'an'ın namaz vakti âyetlerine (11:114; 17:78) doğrulanmış metinde ve namazın fizyolojik etkileri üzerine herhangi bir çalışmaya henüz başvurulmadı. Rabbani'ninkilerin ötesindeki pratik adımlar genel öğretimdir, burada kaynaklandırılmadı.
+  tr: Hiçbir teknik duyguyu garanti etmez. Kuşeyrî'nin kendi metnine ve namazın fizyolojik etkileri üzerine herhangi bir çalışmaya henüz başvurulmadı. Rabbani'ninkilerin ötesindeki pratik adımlar genel öğretimdir, burada kaynak gösterilmedi.
   en: No technique guarantees feeling. Al-Qushayri's own text and any study of prayer's physiological effects have not yet been consulted. The practical steps beyond Rabbani's are general teaching, not sourced here.
 visualizations:
   - id: ideas
@@ -125,7 +125,7 @@ fullAnswer:
 
       **Namaz ne yapar (29:45).** "Sana vahyedilen Kitabı oku ve namazı kıl. Muhakkak ki namaz hayasızlıktan ve kötülükten alıkoyar. Allah'ı anmak elbette en büyük ibadettir." (29:45), Mekkî. Namazın etkisi duygularla değil, davranışla tarif edilir — kişiyi yanlıştan alıkoyar.
 
-      **Namaz vakitleri.** Kur'an birkaç âyette namaz vakitlerini anar (ör. 11:114; 17:78; 30:17–18; hiçbiri burada doğrulanmış veriden alıntılanmadı), ama beş sayısını belirtmez.
+      **Namaz vakitleri.** Kur'an birkaç âyette namaz vakitlerini anar, ama beş sayısını belirtmez. Örneğin: "Gündüzün her iki tarafında ve gecenin saçaklarında (gündüze yakın olan saatlerinde) namaz kıl!" (11:114); "Güneşin batıya kaymasından, gecenin karanlığına kadar (belirli vakitlerde) gereği üzere namazı kıl, bir de sabah namazını kıl." (17:78). Ayrıca bkz. 30:17–18.
     title:
       en: Kur'an ne diyor?
       tr: Kur'an ne diyor?

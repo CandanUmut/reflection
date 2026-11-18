@@ -86,7 +86,7 @@ The Quran describes faith in social terms: the one "who denies the Recompense" i
 **Yatīm, miskīn, ibn al-sabīl, jār.** *Yatīm*: an orphan, a child who has lost the father. *Miskīn*: someone in need, whose income does not cover their needs. *Ibn al-sabīl*: "child of the road", a traveller cut off from home. *Jār*: neighbour.
 
 #### quran — What the Quran says
-**The orphan and the one who asks (93:9–10).** "So as for the orphan, do not oppress [him]. And as for the petitioner, do not repel [him]" (93:9–10). Sura al-Duha is Meccan and addressed to the Prophet (pbuh), who was himself an orphan: the sura first reminds him that God found him an orphan and gave him refuge (93:6; not quoted, as no verified text was available), then tells him how to treat orphans.
+**The orphan and the one who asks (93:9–10).** "So as for the orphan, do not oppress [him]. And as for the petitioner, do not repel [him]" (93:9–10). Sura al-Duha is Meccan and addressed to the Prophet (pbuh), who was himself an orphan: the sura first reminds him: "Did He not find you an orphan and give [you] refuge?" (93:6), then tells him how to treat orphans.
 
 **Religion denied by neglect (107:1–3).** "Have you seen the one who denies the Recompense? For that is the one who drives away the orphan And does not encourage the feeding of the poor" (107:1–3), usually counted as Meccan. Denying the Day of Judgement is shown not by a statement but by how one treats the weak.
 

@@ -9,6 +9,7 @@ A bilingual (Turkish / English) website that invites reflection (*tefekkür*): t
 - Every Honest Note in the research must be visible on the page.
 - Never use "miracle", "proves", "predicted" or similar language for science claims about verses.
 - Quran translations: Saheeh International (English) and Elmalılı Hamdi Yazır (Turkish), verbatim from Tanzil, with attribution — Umut's decision, recorded in `DESIGN.md` §9. Never edit the translation text.
+- A sura:verse reference stands only after the verse's own words, quoted verbatim. Never put our own words where they could be read as a verse. Umut's words: "Kendi sözlerimizi asla âyet gibi yazamayız. Oraya sûre ve âyet numarası koyduysan o kesinlikle yalnızca âyet olmalı."
 - Respect `prefers-reduced-motion`; meet WCAG 2.2 AA in all four time-of-day palettes.
 - Run the `critic` and `content-critic` agents at the end of every phase; fix every "must fix" before reporting.
 - Work on a branch per phase and open a PR. Don't push straight to `main`.

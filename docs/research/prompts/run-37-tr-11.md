@@ -17,7 +17,7 @@ You are translating pages of **Tefekkür**, a bilingual (Turkish/English) websit
 
 **Evidence labels.** Leave the first word of **[Established]**, **[Scholarly]** and **[Debated]** in English: the site turns these into badges and shows them in Turkish by itself. Translate whatever follows that word inside the brackets ("[Established, small]" → "[Established, küçük]"). Translate any other label in full: [Moderate] → [Orta], [Mixed] → [Karışık].
 
-**2. The Quran: Elmalılı Hamdi Yazır only, word for word.** Every verse quoted in English (Saheeh International) is replaced by the **Elmalılı Hamdi Yazır** translation of the same words, exactly as on tanzil.net (translation "tr.yazir"). Never translate a verse yourself. The site's file `src/data/quran.json` holds the Elmalılı text (`tr`) of many verses already; for others, use tanzil.net. Keep the reference after each quotation, e.g. "…" (2:256). If the English quotes only part of a verse, quote the matching part of Elmalılı and mark omissions with "…". Claude checks every quotation against the Tanzil text automatically.
+**2. The Quran: Elmalılı Hamdi Yazır only, word for word.** Every verse quoted in English (Saheeh International) is replaced by the **Elmalılı Hamdi Yazır** translation of the same words, exactly as on tanzil.net (translation "tr.yazir"). Never translate a verse yourself. The site's file `src/data/quran.json` holds the Elmalılı text (`tr`) of many verses already; for others, use tanzil.net. Keep the reference after each quotation, e.g. "…" (2:256). A reference stands only right after the verse's own words; never let your translation put an explanation where it could be read as part of the verse. If the English quotes only part of a verse, quote the matching part of Elmalılı and mark omissions with "…". Claude checks every quotation against the Tanzil text automatically.
 
 **3. Hadith.** Keep every `{hadith:collection:number}` token exactly as written. Translate the hadith wording faithfully from the English given on the page. Do not replace it with a remembered Turkish version.
 
@@ -28,6 +28,12 @@ You are translating pages of **Tefekkür**, a bilingual (Turkish/English) websit
 - never change a quotation, and do not use the ﷺ glyph.
 
 **5. Names, as on the site's Turkish pages.** Gazzâlî, İbn Kesîr, Kurtubî, Râzî, Taberî, Zemahşerî, İbn Teymiyye, İbn Kayyim, İbn Rüşd, İbn Sînâ, İbn Âşûr, İbn Hazm, İbn Abbâs, Şâtıbî, Celâleyn, Mâtürîdî, Eş'arî, Nevevî. The hadith collections are Buhârî, Müslim, Tirmizî, Ebû Dâvûd, Nesâî and İbn Mâce. Modern and Western names stay as written (Plantinga, Hubble, NASA). Book titles stay in their transliteration, in italics.
+
+**5b. Respectful wording about Allah and the Prophet (s.a.v.).** A word-for-word rendering can be wrong in tone even when it is right in meaning. Two examples from this site:
+- The philosophers' term "divine simplicity" ("God is simple") means that God is **not composed of parts**. In Turkish, never write "Allah basittir" or "ilahi basitlik". Write "Allah parçalardan oluşmaz", "bileşik değildir", "terkipten münezzehtir".
+- "A man named Muhammad", in English a historian's neutral phrase, reads dismissively in Turkish ("Muhammed adında bir adam"). Write "Hz. Muhammed (s.a.v.)". For his death, use "vefat", not "ölüm".
+
+The words of a doubter or critic, quoted as theirs, may stay blunt: that is their voice, not the site's.
 
 **6. Terms.** Use the terms of the site's glossary (`src/data/glossary.yaml`): tefsir, fıkıh, hadis, sahih, hasen, zayıf, makâsıd, fıtrat, kader and so on. Explain a term the first time it appears, as the English does.
 
@@ -52,13 +58,13 @@ Translate these pages into Turkish, one file per page. The English to translate 
 - **S7** — Two seas and a barrier · Turkish title on the site: "İki deniz ve aradaki engel" · English: the section "## S7 — " in docs/research/30-run10-reflect-1.md
 - **S8** — Pairs and the diversity of tongues and colours · Turkish title on the site: "Çiftler; dillerin ve renklerin çeşitliliği" · English: the section "## S8 — " in docs/research/30-run10-reflect-1.md
 - **S9** — Fine-tuning · Turkish title on the site: "İnce ayar" · English: the section "## S9 — " in docs/research/32-run12-reflect-2.md
-- **S10** — Birds held in the sky · Turkish title on the site: "Gökte tutulan kuşlar" · English: the section "## S10 — " in docs/research/32-run12-reflect-2.md
-- **S11** — The camel · Turkish title on the site: "Deve" · English: the section "## S11 — " in docs/research/32-run12-reflect-2.md
-- **S12** — The spider's house · Turkish title on the site: "Örümceğin evi" · English: the section "## S12 — " in docs/research/32-run12-reflect-2.md
-- **S13** — Sleep as a sign, and souls "taken" in sleep · Turkish title on the site: "Bir âyet olarak uyku ve uykuda "alınan" ruhlar" · English: the section "## S13 — " in docs/research/32-run12-reflect-2.md
-- **S14** — Shadows extending and contracting · Turkish title on the site: "Uzayıp kısalan gölgeler" · English: the section "## S14 — " in docs/research/32-run12-reflect-2.md
-- **S15** — Rain reviving dead earth · Turkish title on the site: "Ölü toprağı dirilten yağmur" · English: the section "## S15 — " in docs/research/32-run12-reflect-2.md
-- **S16** — Mountains as pegs · Turkish title on the site: "Kazık olarak dağlar" · English: the section "## S16 — " in docs/research/32-run12-reflect-2.md
-- **S17** — Clouds and winds · Turkish title on the site: "Bulutlar ve rüzgârlar" · English: the section "## S17 — " in docs/research/34-run14-reflect-3.md
+- **S10** — Birds held in the sky · Turkish title on the site: "Gökte tutulan kuşlar" · English: the section "## S10 — " in docs/research/45-run25-deepen-reflect-b.md
+- **S11** — The camel · Turkish title on the site: "Deve" · English: the section "## S11 — " in docs/research/45-run25-deepen-reflect-b.md
+- **S12** — The spider's house · Turkish title on the site: "Örümceğin evi" · English: the section "## S12 — " in docs/research/45-run25-deepen-reflect-b.md
+- **S13** — Sleep as a sign, and souls "taken" in sleep · Turkish title on the site: "Bir âyet olarak uyku ve uykuda "alınan" ruhlar" · English: the section "## S13 — " in docs/research/45-run25-deepen-reflect-b.md
+- **S14** — Shadows extending and contracting · Turkish title on the site: "Uzayıp kısalan gölgeler" · English: the section "## S14 — " in docs/research/45-run25-deepen-reflect-b.md
+- **S15** — Rain reviving dead earth · Turkish title on the site: "Ölü toprağı dirilten yağmur" · English: the section "## S15 — " in docs/research/44-run24-deepen-reflect-a.md
+- **S16** — Mountains as pegs · Turkish title on the site: "Kazık olarak dağlar" · English: the section "## S16 — " in docs/research/45-run25-deepen-reflect-b.md
+- **S17** — Clouds and winds · Turkish title on the site: "Bulutlar ve rüzgârlar" · English: the section "## S17 — " in docs/research/45-run25-deepen-reflect-b.md
 
 Each file starts with its "## <id> — <Turkish title>" line and keeps every heading as rule 7 says.

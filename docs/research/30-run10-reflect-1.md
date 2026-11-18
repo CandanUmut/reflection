@@ -219,7 +219,7 @@ The passage ends with an instruction to the reader, not to the bee: "Indeed in t
 
 - **Key words.** *Sulāla min ṭīn*: an extract of clay. *Nuṭfa*: a small drop of fluid. *Qarār makīn*: a firm, secure lodging. *ʿAlaqa*: from a root meaning to cling or hang; it can mean a clot of blood or a leech. *Muḍgha*: a small piece of flesh, the size of a chewed mouthful. *ʿIẓām*: bones. *Khalqan ākhar*: "another creation".
 - **The connecting words.** The Arabic links the stages with two different words: *thumma* ("then", with a gap) and *fa-* ("and so", following on). The verse does not give durations.
-- **Setting.** Sura al-Muʾminūn is Meccan. The passage follows a description of the believers (23:1–11) and leads into death and resurrection: the next verses say that after this you will die and then be raised on the Day of Resurrection (23:15–16, paraphrased; not quoted from verified data here). The stages are part of an argument for the resurrection.
+- **Setting.** Sura al-Muʾminūn is Meccan. The passage follows a description of the believers (23:1–11) and leads into death and resurrection: the next verses say: "Then indeed, after that you are to die. Then indeed you, on the Day of Resurrection, will be resurrected" (23:15–16). The stages are part of an argument for the resurrection.
 
 ### Classical tafsir
 **Ibn Kathir on 23:12.** God "initially created man from an extract of *Tin*" — that is, Adam (pbuh) — and then his descendants from a drop.
@@ -455,7 +455,7 @@ The verses do not ask for a lecture on chemistry. They ask for a habit: to drink
 55:19–20 and 25:53 describe two bodies of water, "one fresh and sweet and one salty and bitter", released side by side with "a barrier" between them.
 
 ### Verse note
-Sura al-Raḥmān is Meccan in the view of most commentators, though some (al-Zamakhshari, al-Suyuti) place it in Medina (as summarised by *Wikipedia*). The verses that follow say pearls and coral come from both (55:22, paraphrased here; not quoted from verified data), and each sign in the sura is followed by a refrain asking which of the Lord's favours the listeners would deny (55:13 and after, paraphrased).
+Sura al-Raḥmān is Meccan in the view of most commentators, though some (al-Zamakhshari, al-Suyuti) place it in Medina (as summarised by *Wikipedia*). Soon after comes: "From both of them emerge pearl and coral" (55:22). Each sign in the sura is followed by the refrain "So which of the favors of your Lord would you deny?" (55:13 and after).
 
 "And it is He who has released [simultaneously] the two seas, one fresh and sweet and one salty and bitter, and He placed between them a barrier and prohibiting partition" (25:53), Sura al-Furqān, Meccan.
 
@@ -574,7 +574,7 @@ Then 49:13 gives that variety a purpose: "that you may know one another". Differ
 So the reader is asked two things. To look at the pairs, and remember that God is One. And to look at the faces and tongues of other people, and see in their difference not a threat, but a sign and an invitation to know them.
 
 ### Honest notes
-- **The popular claim.** Sultan Bashir Mahmood wrote that Paul Dirac showed "all particles in the universe must exist in pairs", and that the Quran's verse on pairs (36:36, not quoted from verified data here) "may be considered relevant to Dirac's discoveries", adding that it "clearly shows that the Qur'an is referring to a law of nature" (*The Fountain*, 2009). The article quotes 51:49 later but does not tie it to Dirac.
+- **The popular claim.** Sultan Bashir Mahmood wrote that Paul Dirac showed "all particles in the universe must exist in pairs", and that the Quran's verse on pairs — "Exalted is He who created all pairs - from what the earth grows and from themselves and from that which they do not know" (36:36) — "may be considered relevant to Dirac's discoveries", adding that it "clearly shows that the Qur'an is referring to a law of nature" (*The Fountain*, 2009). The article quotes 51:49 later but does not tie it to Dirac.
 - **Weighing it.**
   - "Pairs" in the verses is a general word. Ibn Kathir's list is of complementary opposites (night and day, life and death, faith and disbelief), not of particles; al-Jalālayn's begins with "male and female".
   - Reading antimatter into the verse fits only if "pairs" is given a modern meaning the commentators read here did not give it. And not everything in physics or biology comes in pairs (see "How it works").

@@ -324,7 +324,7 @@ Today we know that sleep is busy work for the body — in mice, the brain even m
 25:45–46 asks us to watch a shadow: God "extends the shadow", could have made it still, made the sun its "indication", and then draws it in "for a brief grasp".
 
 ### Verse note
-"Have you not considered your Lord - how He extends the shadow, and if He willed, He could have made it stationary? Then We made the sun for it an indication. Then We hold it in hand for a brief grasp" (25:45–46), Meccan, in Sura al-Furqān, followed by night as a covering and sleep as rest (25:47, not quoted from verified data).
+"Have you not considered your Lord - how He extends the shadow, and if He willed, He could have made it stationary? Then We made the sun for it an indication. Then We hold it in hand for a brief grasp" (25:45–46), Meccan, in Sura al-Furqān, followed by: "And it is He who has made the night for you as clothing and sleep [a means for] rest and has made the day a resurrection" (25:47).
 
 - **Key words.** *Madda al-ẓill*: "extends the shadow". *Sākinan*: "stationary". *Dalīlan*: "an indication", a guide. *Qabḍan yasīran*: "a brief grasp", a gentle drawing-in.
 
