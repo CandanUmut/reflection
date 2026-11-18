@@ -79,7 +79,7 @@ The grade of "do not betray those who betrayed you" has not yet been checked. Cr
 - C. A. Nelson, C. H. Zeanah, N. A. Fox et al., "Cognitive Recovery in Socially Deprived Young Children: The Bucharest Early Intervention Project", *Science* 318 (2007), pp. 1937–1940, as reported by *Medical News Today*, https://www.medicalnewstoday.com/articles/92486/.
 
 ### In brief
-The Quran describes faith in social terms: the one "who denies the Recompense" is "the one who drives away the orphan And does not encourage the feeding of the poor" (107:1–3). Care reaches out in rings — parents, relatives, orphans, the needy, near and far neighbours, the traveller (4:36).
+The Quran describes faith in social terms: the one "who denies the Recompense" is "the one who drives away the orphan And does not encourage the feeding of the poor" (107:1–3). Care reaches out in rings: "to parents do good, and to relatives, orphans, the needy, the near neighbor, the neighbor farther away, the companion at your side, the traveler…" (4:36).
 
 ### Go deeper
 #### meaning — What it means

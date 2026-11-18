@@ -71,7 +71,7 @@ We now know of protections the first listeners could not see: a thin band of ozo
 
 **Why does the verse say people "turn away" from its signs?** Al-Tabari says the signs are the sun, the moon and the stars, and that the disbelievers do not reflect on them. The complaint is not that the signs are hidden, but that people stop looking.
 
-**Is the sky a solid roof?** The Quran uses "roof" and "ceiling" as images (2:22; 21:32). Al-Jalālayn compares it to "the roof of a house". The commentators did not need a solid dome to make their point: the sky is held, kept and ordered.
+**Is the sky a solid roof?** The Quran uses "ceiling" as an image (2:22; 21:32). Al-Jalālayn compares it to "the roof of a house". The commentators did not need a solid dome to make their point: the sky is held, kept and ordered.
 
 **What do the verses around it say?** 21:30–33 form one passage: the heavens and earth separated, life from water, the mountains, the protected sky, and the sun and moon each in an orbit. Each is a sign, and the passage asks: "Then will they not believe?" (21:30).
 
