@@ -13,7 +13,7 @@
 - International OCD Foundation, "What is OCD & Scrupulosity?", https://iocdf.org/faith-ocd/what-is-ocd-scrupulosity.
 
 ### The question, at its strongest
-"The Quran says God created 'all things with predestination' (54:49), that every disaster is 'in a register before We bring it into being' (57:22), and that 'you do not will except that Allah wills' (81:29). Muslim theologians go further: God does not only *know* what I will do; He *creates* my acts. If God creates my act, and wrote it before I was born, in what sense is it mine? I could not have done otherwise. Then punishing me looks unjust, and my effort looks pointless. The usual answer — 'knowing is not causing' — only answers the easy half of the problem."
+"The Quran says God created all things 'with predestination' (54:49), that every disaster is 'in a register before We bring it into being' (57:22), and that 'you do not will except that Allah wills' (81:29). Muslim theologians go further: God does not only *know* what I will do; He *creates* my acts. If God creates my act, and wrote it before I was born, in what sense is it mine? I could not have done otherwise. Then punishing me looks unjust, and my effort looks pointless. The usual answer — 'knowing is not causing' — only answers the easy half of the problem."
 
 ### Why people ask it
 Because the doctrine of *qadar* (divine decree) is part of the creed, and because ordinary people meet it at hard moments. Some fear they are "written" for Hell whatever they do. Some use "it is written" to excuse themselves. Some freeze. For a person with religious OCD, the question can become a loop of fear.

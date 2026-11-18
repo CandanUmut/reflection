@@ -114,19 +114,46 @@ function hadithRefs(html: string, lang: Locale): string {
   return out;
 }
 
+// Umut's rule: a verse reference stands only right after the verse's own words.
+// A reference in brackets that does not directly follow a quotation, such as
+// "The Quran forbids compulsion in religion (2:256)", is our summary, so it reads
+// "(see 2:256)" / "(bkz. 2:256)": the reader can always tell the verse from our
+// words. Quotations followed directly by a reference are checked word for word
+// against Tanzil by scripts/check-quotes.mjs. Left alone: bold lead-in titles
+// ("**Wider family (4:1).**"), an italic Arabic word labelled with its verse
+// ("*bi-qadar* (54:49)"), and brackets that already say see / bkz. / cf.
+const REF_OPEN = /\((\d{1,3}):(\d{1,3})/g;
+const POINTER: Record<Locale, string> = { en: 'see ', tr: 'bkz. ' };
+export function verseRefs(src: string, lang: Locale): string {
+  return src.replace(REF_OPEN, (m, sura: string, _v: string, at: number) => {
+    if (+sura < 1 || +sura > 114) return m;
+    const raw = src.slice(0, at).replace(/[ \t]+$/, '');
+    if (raw.endsWith('*') && !raw.endsWith('**')) return m; // *Arabic word* (54:49)
+    const before = raw.replace(/\*+$/, '');
+    // A straight ' before the bracket closes a quotation (a Turkish apostrophe
+    // never ends a word that stands before a bracket).
+    if ('"”’»\''.includes(before.slice(-1))) return m; // right after a quotation: the verse itself
+    const inside = src.slice(at, src.indexOf(')', at) + 1);
+    if (/atıf|citing|referring/i.test(inside)) return m; // "(57:25'e atıfla)" already says what it is
+    const line = before.slice(before.lastIndexOf('\n') + 1).replace(/^\s*(?:[-*]|\d+\.)\s+/, '');
+    if (line.startsWith('**') && (line.match(/\*\*/g) ?? []).length % 2 === 1) return m; // inside a bold lead-in title
+    return '(' + POINTER[lang] + m.slice(1);
+  });
+}
+
 export function md(src: string | undefined, lang: Locale): string {
   if (!src) return '';
-  return xrefs(hadithRefs(tags(marked.parse(src.trim(), { async: false }) as string, lang), lang), lang);
+  return xrefs(hadithRefs(tags(marked.parse(verseRefs(src.trim(), lang), { async: false }) as string, lang), lang), lang);
 }
 
 /** Inline Markdown only (no paragraph), for short strings such as source labels. */
 export function mdInline(src: string | undefined, lang: Locale): string {
   if (!src) return '';
-  return xrefs(hadithRefs(tags(marked.parseInline(src.trim(), { async: false }) as string, lang), lang), lang);
+  return xrefs(hadithRefs(tags(marked.parseInline(verseRefs(src.trim(), lang), { async: false }) as string, lang), lang), lang);
 }
 
 /** Inline Markdown for text inside a <summary>: no links or badges, which would nest interactive content. */
 export function mdPlainInline(src: string | undefined, lang: Locale): string {
   if (!src) return '';
-  return tags(marked.parseInline(src.trim(), { async: false }) as string, lang);
+  return tags(marked.parseInline(verseRefs(src.trim(), lang), { async: false }) as string, lang);
 }
